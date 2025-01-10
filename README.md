@@ -2,13 +2,13 @@
 business, economincs, accounting and finance rss from top journals (see the list at the end of this page).
 
 
-Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing my personal reading feed. 
+Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing my personal reading feed of academic abstracts.
 
 I update the rss feed linked at [feed content](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Just import it into any RSS reader and you will recieve the updates as well. Note that "raw" in the url address is necessary.
 
 If you want to customize and run the python file on your computer, just send me a messange and I share the python file with you.
 
-#The list of journals:
+**The list of journals** (coming mostly from [FT50](https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0):
 
 ```
 journals_issn = {
