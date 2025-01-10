@@ -1,8 +1,5 @@
-# Academic Journals in Business, Economics, Accounting, and Finance
-Below is a curated list of academic journals in the fields of business, economics, accounting, and finance. You can find the list at the end of this page.
-
-# Alternative to Researcher: A Personal RSS Feed of Academic Abstracts
-With the discontinuation of [Researcher App](https://www.researcher-app.com), I'm sharing my personal reading RSS feed of academic abstracts. This feed is updated daily and can be imported into any RSS reader.
+# Alternative to Discontinued Researcher App: A Personal RSS Feed of Academic Abstracts
+With the discontinuation of [Researcher App](https://www.researcher-app.com), I'm sharing my personal reading RSS feed of academic abstracts in business. This feed is updated daily and can be imported into any RSS reader.
 
 # Accessing the RSS Feed
 To access the feed, visit the following URL: [RSS Link](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Note that the "raw" in the URL address is necessary for the feed to load correctly in any rss reader app.
@@ -10,6 +7,8 @@ To access the feed, visit the following URL: [RSS Link](https://raw.githubuserco
 # Customizing the Feed
 If you'd like to customize and run the Python file on your computer, feel free to send me a message, and I'll share the underlying code with you.
 
+## Academic Journals in Business, Economics, Accounting, and Finance
+Below is a curated list of academic journals in the fields of business, economics, accounting, and finance. You can find the list at the end of this page.
 
 **The list of journals and their ISSN**:
 
