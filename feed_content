@@ -1,45 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rss="http://purl.org/rss/1.0/"
->
-  <rdf:Description rdf:about="https://doi.org/10.1177/00222429241276529">
-    <rdf:type rdf:resource="http://purl.org/rss/1.0/Item"/>
-    <rss:title>AI–Human Hybrids for Marketing Research: Leveraging Large Language Models (LLMs) as Collaborators</rss:title>
-    <rss:link rdf:resource="https://doi.org/10.1177/00222429241276529"/>
-    <content:encoded>The authors’ central premise is that a human–LLM (large language model) hybrid approach leads to efficiency and effectiveness gains in the marketing research process. In qualitative research, they show that LLMs can assist in both data generation and analysis; LLMs effectively create sample characteristics, generate synthetic respondents, and conduct and moderate in-depth interviews. The AI–human hybrid generates information-rich, coherent data that surpasses human-only data in depth and insightfulness and matches human performance in data analysis tasks of generating themes and summaries. Evidence from expert judges shows that humans and LLMs possess complementary skills; the human–LLM hybrid outperforms its human-only or LLM-only counterpart. For quantitative research, the LLM correctly picks the answer direction and valence, with the quality of synthetic data significantly improving through few-shot learning and retrieval-augmented generation. The authors demonstrate the value of the AI–human hybrid by collaborating with a Fortune 500 food company and replicating a 2019 qualitative and quantitative study using GPT-4. For their empirical investigation, the authors design the system architecture and prompts to create personas, ask questions, and obtain responses from synthetic respondents. They provide road maps for integrating LLMs into qualitative and quantitative marketing research and conclude that LLMs serve as valuable collaborators in the insight generation process.</content:encoded>
-    <dc:date>2025-1-9</dc:date>
-    <dc:creator>Neeraj Arora, Ishita Chakraborty, Yohei Nishimura</dc:creator>
-    <prism:publicationName>Journal of Marketing</prism:publicationName>
-    <prism:doi></prism:doi>
-    <prism:url rdf:resource="https://doi.org/10.1177/00222429241276529"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content/items">
-    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
-    <rdf:_1 rdf:resource="https://doi.org/10.1177/00222429241275886"/>
-    <rdf:_2 rdf:resource="https://doi.org/10.1177/00222429241276529"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.1177/00222429241275886">
-    <rdf:type rdf:resource="http://purl.org/rss/1.0/Item"/>
-    <rss:title>Where A/B Testing Goes Wrong: How Divergent Delivery Affects What Online Experiments Cannot (and Can) Tell You About How Customers Respond to Advertising</rss:title>
-    <rss:link rdf:resource="https://doi.org/10.1177/00222429241275886"/>
-    <content:encoded>Marketers use online advertising platforms to compare user responses to different ad content. But platforms’ experimentation tools deliver different ads to distinct and undetectably optimized mixes of users that vary across ads, even during the test. Because expo­sure to ads in the test is nonrandom, the estimated comparisons confound the effect of the ad content with the effect of algorithmic targeting. This means that experimenters may not be learning what they think they are learning from ad A/B tests. The authors document these “divergent delivery” patterns during an online experiment for the first time. They explain how algorithmic targeting, user heterogeneity, and data aggregation conspire to confound the magnitude, and even the sign, of ad A/B test results. Analytically, the authors extend the potential outcomes model of causal inference to treat random assignment of ads and user exposure to ads as separate experimental design elements. Managerially, the authors explain why platforms lack incentives to allow experimenters to untangle the effects of ad content from proprietary algorithmic selection of users when running A/B tests. Given that experimenters have diverse reasons for comparing user responses to ads, the au­thors offer tailored prescriptive guidance to experimenters based on their specific goals.</content:encoded>
-    <dc:date>2025-1-9</dc:date>
-    <dc:creator>Michael Braun, Eric M. Schwartz</dc:creator>
-    <prism:publicationName>Journal of Marketing</prism:publicationName>
-    <prism:doi></prism:doi>
-    <prism:url rdf:resource="https://doi.org/10.1177/00222429241275886"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content">
-    <rdf:type rdf:resource="http://purl.org/rss/1.0/Channel"/>
-    <rss:title>Recent Academic Articles</rss:title>
-    <rss:link rdf:resource="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content"/>
-    <rss:description>Recent articles from business, finance, and economics journals.</rss:description>
-    <dc:title>Recent Academic Articles</dc:title>
-    <dc:language>en-US</dc:language>
-    <rss:items rdf:resource="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content/items"/>
-  </rdf:Description>
-</rdf:RDF>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>kourosh shafi - daily reading</id>
+  <title>Recent Academic Articles</title>
+  <updated>2025-01-10T18:53:43.067755+00:00</updated>
+  <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Recent articles from business, finance, and economics journals.</subtitle>
+  <entry>
+    <id>https://doi.org/10.1177/00222429241276529</id>
+    <title>AI–Human Hybrids for Marketing Research: Leveraging Large Language Models (LLMs) as Collaborators</title>
+    <updated>2025-01-10T18:53:43.068880+00:00</updated>
+    <author>
+      <name>Neeraj Arora, Ishita Chakraborty, Yohei Nishimura</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;The authors’ central premise is that a human–LLM (large language model) hybrid approach leads to efficiency and effectiveness gains in the marketing research process. In qualitative research, they show that LLMs can assist in both data generation and analysis; LLMs effectively create sample characteristics, generate synthetic respondents, and conduct and moderate in-depth interviews. The AI–human hybrid generates information-rich, coherent data that surpasses human-only data in depth and insightfulness and matches human performance in data analysis tasks of generating themes and summaries. Evidence from expert judges shows that humans and LLMs possess complementary skills; the human–LLM hybrid outperforms its human-only or LLM-only counterpart. For quantitative research, the LLM correctly picks the answer direction and valence, with the quality of synthetic data significantly improving through few-shot learning and retrieval-augmented generation. The authors demonstrate the value of the AI–human hybrid by collaborating with a Fortune 500 food company and replicating a 2019 qualitative and quantitative study using GPT-4. For their empirical investigation, the authors design the system architecture and prompts to create personas, ask questions, and obtain responses from synthetic respondents. They provide road maps for integrating LLMs into qualitative and quantitative marketing research and conclude that LLMs serve as valuable collaborators in the insight generation process.</content>
+    <link href="https://doi.org/10.1177/00222429241276529"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429241275886</id>
+    <title>Where A/B Testing Goes Wrong: How Divergent Delivery Affects What Online Experiments Cannot (and Can) Tell You About How Customers Respond to Advertising</title>
+    <updated>2025-01-10T18:53:43.068574+00:00</updated>
+    <author>
+      <name>Michael Braun, Eric M. Schwartz</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Marketers use online advertising platforms to compare user responses to different ad content. But platforms’ experimentation tools deliver different ads to distinct and undetectably optimized mixes of users that vary across ads, even during the test. Because expo­sure to ads in the test is nonrandom, the estimated comparisons confound the effect of the ad content with the effect of algorithmic targeting. This means that experimenters may not be learning what they think they are learning from ad A/B tests. The authors document these “divergent delivery” patterns during an online experiment for the first time. They explain how algorithmic targeting, user heterogeneity, and data aggregation conspire to confound the magnitude, and even the sign, of ad A/B test results. Analytically, the authors extend the potential outcomes model of causal inference to treat random assignment of ads and user exposure to ads as separate experimental design elements. Managerially, the authors explain why platforms lack incentives to allow experimenters to untangle the effects of ad content from proprietary algorithmic selection of users when running A/B tests. Given that experimenters have diverse reasons for comparing user responses to ads, the au­thors offer tailored prescriptive guidance to experimenters based on their specific goals.</content>
+    <link href="https://doi.org/10.1177/00222429241275886"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-01-09T00:00:00+00:00</published>
+  </entry>
+</feed>
