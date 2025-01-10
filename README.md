@@ -1,18 +1,19 @@
-# rss feed from top academic journals most business school professors read:
+# Academic Journals in Business, Economics, Accounting, and Finance
+Below is a curated list of academic journals in the fields of business, economics, accounting, and finance. You can find the list at the end of this page.
 
-academic journals in fields: business, economics, accounting, and finance (see the list at the end of this page).
+# Alternative to Researcher: A Personal RSS Feed of Academic Abstracts
+With the discontinuation of [Researcher App](https://www.researcher-app.com), I'm sharing my personal reading RSS feed of academic abstracts. This feed is updated daily and can be imported into any RSS reader.
+
+# Accessing the RSS Feed
+To access the feed, visit the following URL: [RSS Link](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Note that the "raw" in the URL address is necessary for the feed to load correctly in any rss reader app.
+
+# Customizing the Feed
+If you'd like to customize and run the Python file on your computer, feel free to send me a message, and I'll share the underlying code with you.
 
 
-Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing my personal reading RSS feed of academic abstracts.
-
-I update the rss feed everyday linked at [feed content](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Just import it into any RSS reader. Note that "raw" in the url address is necessary.
-
-If you want to customize and run the python file on your computer, just send me a message and I share the underlying code with you.
-
-**The list of journals** (coming mostly from [FT50](https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0):
+**The list of journals and their ISSN**:
 
 ```
-journals_issn = {
     "Academy of Management Journal": "1948-0989",
     "Academy of Management Review": "1930-3807",
     #"Accounting, Organizations and Society": "1873-6289",
@@ -63,7 +64,7 @@ journals_issn = {
     "Strategic Entrepreneurship Journal": "1932-443X",
     "Strategic Management Journal": "1097-0266",
     #"The Accounting Review": "1558-7967"
-}
+
 ```
 
-The ones with # are excluded from my reading rss list for now. 
+The ones with # are excluded from my reading rss list for now. This list is mostly from [FT50](https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0)
