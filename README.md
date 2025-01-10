@@ -1,12 +1,13 @@
-# researcher_rss
-business, economincs, accounting and finance rss from top journals (see the list at the end of this page).
+# rss feed from top academic journals most business school professors read:
+
+academic journals in fields: business, economics, accounting, and finance (see the list at the end of this page).
 
 
-Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing my personal reading feed of academic abstracts.
+Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing my personal reading RSS feed of academic abstracts.
 
-I update the rss feed linked at [feed content](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Just import it into any RSS reader and you will recieve the updates as well. Note that "raw" in the url address is necessary.
+I update the rss feed everyday linked at [feed content](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Just import it into any RSS reader. Note that "raw" in the url address is necessary.
 
-If you want to customize and run the python file on your computer, just send me a messange and I share the python file with you.
+If you want to customize and run the python file on your computer, just send me a message and I share the underlying code with you.
 
 **The list of journals** (coming mostly from [FT50](https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0):
 
@@ -64,3 +65,5 @@ journals_issn = {
     #"The Accounting Review": "1558-7967"
 }
 ```
+
+The ones with # are excluded from my reading rss list for now. 
