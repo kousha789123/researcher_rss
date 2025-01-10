@@ -9,7 +9,7 @@ I update the file feed_content everyday as well with a feed of abstracts from to
 If you want to customize and run the python file on your computer, just send me a messange and I share the python file.
 
 The list of journals:
-
+```
 journals_issn = {
     "Academy of Management Journal": "1948-0989",
     "Academy of Management Review": "1930-3807",
@@ -62,4 +62,4 @@ journals_issn = {
     "Strategic Management Journal": "1097-0266",
     #"The Accounting Review": "1558-7967"
 }
-
+```
