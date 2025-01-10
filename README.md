@@ -1,14 +1,15 @@
 # researcher_rss
-business, econ, accounting and finance rss from top journals
+business, economincs, accounting and finance rss from top journals (see the list at the end of this page).
 
 
-Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing how I create a feed for my own reading abstracts. 
+Now that [researcher](https://www.researcher-app.com) is out of business, I am sharing my personal reading feed. 
 
-I update the file feed_content everyday as well with a feed of abstracts from top academic journals in management, accounting, finance and economics; importing the raw file located at [feed content](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content) into any RSS reader.
+I update the rss feed linked at [feed content](https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content). Just import it into any RSS reader and you will recieve the updates as well. Note that "raw" in the url address is necessary.
 
-If you want to customize and run the python file on your computer, just send me a messange and I share the python file.
+If you want to customize and run the python file on your computer, just send me a messange and I share the python file with you.
 
-The list of journals:
+#The list of journals:
+
 ```
 journals_issn = {
     "Academy of Management Journal": "1948-0989",
