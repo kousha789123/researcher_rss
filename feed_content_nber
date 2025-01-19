@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-01-18T15:23:35.916016+00:00</updated>
+  <updated>2025-01-19T15:36:19.814845+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -571,6 +571,18 @@
     <published>2024-12-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33317</id>
+    <title>In-Person Schooling and Juvenile Violence</title>
+    <updated>2024-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Hansen, Kyutaro Matsuzawa &amp; Joseph J. Sabia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;While investments in schooling generate large private and external returns, negative peer interactions in school may generate substantial social costs.  Using data from four national sources (Uniform Crime Reports, National Incident-Based Reporting System, National Crime Victimization Survey, National Electronic Injury Surveillance System) and a variety of identification strategies, this study comprehensively explores the effect of in-person schooling on contemporaneous juvenile violence. Using a proxy for in-person schooling generated from anonymized smartphone data and leveraging county-level variation in school calendars — including unique, large, localized changes to in-person instruction during the COVID-19 pandemic — we find that in-person schooling is associated with a 28 percent increase in juvenile violent crime.  A null finding for young adults is consistent with a causal interpretation of this result.  The effects are largest in larger schools and in jurisdictions with weaker anti-bullying policies, consistent with both concentration effects and a peer quality channel. Back-of-the-envelope calculations suggest that relative to closed K-12 schools, in-person schooling generates $233 million in monthly violent crime costs.</content>
+    <link href="https://www.nber.org/papers/w33317"/>
+    <category term="NBER"/>
+    <published>2024-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33316</id>
     <title>Coverage, Counter-cyclicality and Targeting of Work Requirement Waivers in the Supplemental Nutrition Assistance Program</title>
     <updated>2024-12-01T00:00:00+00:00</updated>
@@ -735,18 +747,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the potential role of international agreements on product standards through a stylized model where countries have different regulatory preferences and firms incur fixed costs of regulatory diversity. Overall, our analysis suggests that the common perception of regulatory agreements as playing a key role in promoting harmonization may have been overstated. We show that regulatory harmony can arise even in the absence of an agreement, and that “spontaneous” harmonization may be inefficient, suggesting that the role of regulatory agreements could be to promote regulatory diversity rather than harmonization. Moreover, the role of regulatory cooperation depends in important ways on the pattern of trade: in the presence of intra-industry trade, the potential role of an agreement tends to be more limited, and under some conditions it can only play a coordination role. Finally, through the lens of our model, we examine the “Pop Critique” of regulatory agreements, according to which lobbying by corporate interests may lead to welfare-reducing harmonization. Our analysis lends only limited support to this critique.</content>
     <link href="https://www.nber.org/papers/w33318"/>
-    <category term="NBER"/>
-    <published>2024-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33317</id>
-    <title>In-Person Schooling and Juvenile Violence</title>
-    <updated>2024-12-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Hansen, Kyutaro Matsuzawa &amp; Joseph J. Sabia</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;While investments in schooling generate large private and external returns, negative peer interactions in school may generate substantial social costs.  Using data from four national sources (Uniform Crime Reports, National Incident-Based Reporting System, National Crime Victimization Survey, National Electronic Injury Surveillance System) and a variety of identification strategies, this study comprehensively explores the effect of in-person schooling on contemporaneous juvenile violence. Using a proxy for in-person schooling generated from anonymized smartphone data and leveraging county-level variation in school calendars — including unique, large, localized changes to in-person instruction during the COVID-19 pandemic — we find that in-person schooling is associated with a 28 percent increase in juvenile violent crime.  A null finding for young adults is consistent with a causal interpretation of this result.  The effects are largest in larger schools and in jurisdictions with weaker anti-bullying policies, consistent with both concentration effects and a peer quality channel. Back-of-the-envelope calculations suggest that relative to closed K-12 schools, in-person schooling generates $233 million in monthly violent crime costs.</content>
-    <link href="https://www.nber.org/papers/w33317"/>
     <category term="NBER"/>
     <published>2024-12-01T00:00:00+00:00</published>
   </entry>
@@ -1015,6 +1015,30 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33350</id>
+    <title>Prediction with Differential Covariate Classification: Illustrated by Racial/Ethnic Classification in Medical Risk Assessment</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Charles F. Manski, John Mullahy &amp; Atheendar Venkataramani</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A common practice in evidence-based decision-making uses estimates of conditional probabilities P(y|x) obtained from research studies to predict outcomes y on the basis of observed covariates x. Given this information, decisions are then based on the predicted outcomes. Researchers commonly assume that the predictors used in the generation of the evidence are the same as those used in applying the evidence: i.e., the meaning of x in the two circumstances is the same. This may not be the case in real-world settings. Across a wide-range of settings, ranging from clinical practice to education policy, demographic attributes (e.g., age, race, ethnicity) are often classified differently in research studies than in decision settings. This paper studies identification in such settings. We propose a formal framework for prediction with what we term differential covariate classification (DCC). Using this framework, we analyze partial identification of probabilistic predictions and assess how various assumptions influence the identification regions. We apply the findings to a range of settings, focusing mainly on differential classification of individuals' race and ethnicity in clinical medicine. We find that bounds on P(y|x) can be wide, and the information needed to narrow them available only in special cases. These findings highlight an important problem in using evidence in decision making, a problem that has not yet been fully appreciated in debates on classification in public policy and medicine.</content>
+    <link href="https://www.nber.org/papers/w33350"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33347</id>
+    <title>Entrepreneurship and the Gig Economy: Evidence from U.S. Tax Returns</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matthew R. Denes, Spyridon Lagaras &amp; Margarita Tsoutsoura</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Platform intermediation of goods and services has considerably transformed the U.S. economy. We use administrative data on U.S. tax returns to study the role of the gig economy on entrepreneurship. We find that gig workers are more likely to become entrepreneurs, particularly those who are lower income, younger, and benefit from flexibility. We track all newly created firms and show that gig workers start firms in similar industries as their gig experience, which are less likely to survive and demonstrate higher performance. Overall, our findings suggest on-the-job learning promotes entrepreneurial entry and shifts the types of firms started by entrepreneurs.</content>
+    <link href="https://www.nber.org/papers/w33347"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33346</id>
     <title>Daughters as Safety Net? Family Responses to Parental Employment Shocks: Evidence from Alcohol Prohibition</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
@@ -1119,30 +1143,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Protecting species’ habitats is the main policy tool employed across the globe to reduce biodiversity losses. These protections are hypothesized to conflict with private landowners’ interests. We study the economic consequences of the most extensive and controversial piece of such environmental legislation in US history—the Endangered Species Act (ESA) of 1973. We assemble the most comprehensive data on species conservation efforts, land transactions, and building permits to date. By comparing parcels with identical histories of protections we show that, on average, the ESA shifts transactions from inside to outside of the protected area and leads to a slight appreciation in residential and vacant land values outside of critical habitats. We also show that the federal regulator determines borders for areas with the most stringent protections to avoid large effects on land values, only where it is explicitly allowed to take economic criteria into account. These average findings mask significant heterogeneity at the species and location level, which we document. Furthermore, we find no evidence of the ESA affecting building activity as measured by construction permits. Overall, even taking into account species-level heterogeneity, the number of possibly negatively affected parcels is extremely small. This suggests that the capitalization of the economic impacts of the ESA through the land market channel are likely minor, despite potential delays to development through permitting, for which we provide suggestive evidence. Our findings do not rule out economically significant impacts in a few highly constrained land markets with ESA protections amplified by local regulatory action.</content>
     <link href="https://www.nber.org/papers/w33352"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33350</id>
-    <title>Prediction with Differential Covariate Classification: Illustrated by Racial/Ethnic Classification in Medical Risk Assessment</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Charles F. Manski, John Mullahy &amp; Atheendar Venkataramani</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A common practice in evidence-based decision-making uses estimates of conditional probabilities P(y|x) obtained from research studies to predict outcomes y on the basis of observed covariates x. Given this information, decisions are then based on the predicted outcomes. Researchers commonly assume that the predictors used in the generation of the evidence are the same as those used in applying the evidence: i.e., the meaning of x in the two circumstances is the same. This may not be the case in real-world settings. Across a wide-range of settings, ranging from clinical practice to education policy, demographic attributes (e.g., age, race, ethnicity) are often classified differently in research studies than in decision settings. This paper studies identification in such settings. We propose a formal framework for prediction with what we term differential covariate classification (DCC). Using this framework, we analyze partial identification of probabilistic predictions and assess how various assumptions influence the identification regions. We apply the findings to a range of settings, focusing mainly on differential classification of individuals' race and ethnicity in clinical medicine. We find that bounds on P(y|x) can be wide, and the information needed to narrow them available only in special cases. These findings highlight an important problem in using evidence in decision making, a problem that has not yet been fully appreciated in debates on classification in public policy and medicine.</content>
-    <link href="https://www.nber.org/papers/w33350"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33347</id>
-    <title>Entrepreneurship and the Gig Economy: Evidence from U.S. Tax Returns</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matthew R. Denes, Spyridon Lagaras &amp; Margarita Tsoutsoura</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Platform intermediation of goods and services has considerably transformed the U.S. economy. We use administrative data on U.S. tax returns to study the role of the gig economy on entrepreneurship. We find that gig workers are more likely to become entrepreneurs, particularly those who are lower income, younger, and benefit from flexibility. We track all newly created firms and show that gig workers start firms in similar industries as their gig experience, which are less likely to survive and demonstrate higher performance. Overall, our findings suggest on-the-job learning promotes entrepreneurial entry and shifts the types of firms started by entrepreneurs.</content>
-    <link href="https://www.nber.org/papers/w33347"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
