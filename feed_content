@@ -2,82 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>kourosh shafi - daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-01-22T14:39:20.343180+00:00</updated>
+  <updated>2025-01-23T14:39:05.122855+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0608</id>
-    <title>Dynamic Fair Division with Partial Information</title>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <author>
-      <name>Gerdus Benadè, Daniel Halpern, Alexandros Psomas</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Fair and Efficient Allocation Algorithms Do Not Require Knowing Exact Item ValuesFood rescue organizations are tasked with allocating often-unpredictable donations to recipients who need it. For a large class of recipient valuation functions, this can be done in a fair and efficient manner as long as each recipient reports their value for each arriving donation. In practice, however, such valuations are rarely elicited. In “Dynamic Fair Division with Partial Information,” Benadè, Halpern, and Psomas ask whether simultaneous fairness and efficiency remain possible when the allocator receives limited information about recipient valuations, even as little as a single binary signal. For recipients with i.i.d. or correlated values, the paper provides an algorithm which is envy-free and 1-epsilon welfare-maximizing with high probability. Asymptotically tight results are also established for independent, nonidentical agents. This shows that fair and efficient online allocation algorithms do not critically rely on recipients being able to precisely report their utility functions.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0608"/>
-    <category term="Operations Research"/>
-    <published>2025-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03369</id>
-    <title>You’ve Got Mail! The Late 19th Century U.S. Postal Service Expansion, Firm Creation, and Firm Performance</title>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <author>
-      <name>Astrid Marinoni, Maria P. Roche</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines the impact of the expansion of the U.S. Postal Service in the late 19th century on firm creation and performance. Utilizing newly digitized archival data on historic business establishments, post office locations, and road networks in California, our study identifies a positive relationship between the expansion of the Postal Service and the emergence of new firms. To address endogeneity concerns, we leverage an unexpected change in the Postal Service route network. Our findings suggest that the Postal Service played a significant role in facilitating firm entry by acting as a carrier of specialized knowledge rather than as a financial service or mass communication infrastructure. We further reveal that, although increased competition from new entrants generally exerted downward pressure on incumbent firms, those relying on specialized knowledge and public technology inputs significantly benefited from local Postal Service access. Taken together, our study underscores the critical role played by the Postal Service in knowledge diffusion and local economic development by enabling the sourcing of specialized knowledge and technologies from other geographies. Overall, our results contribute to a broader understanding of how communication and knowledge dissemination infrastructure can drive entrepreneurship and firm growth, carrying important implications for contemporary discussions on infrastructure development, its potential to stimulate entrepreneurial activity, innovation, and foster local economic communities.This paper was accepted by Olav Sorenson, organizations.Funding: The authors gratefully acknowledge funding from the Harvard Business School Division of Research and Faculty Development.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03369 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03369"/>
-    <category term="Management Science"/>
-    <published>2025-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02221</id>
-    <title>Impact of OM Content in Earnings Calls on a Firm’s Stock Performance</title>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <author>
-      <name>Sudhir Voleti, Vishwakant Malladi, Milind G. Sohoni</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We investigate whether and to what extent financial markets value and respond to operations management (OM)-related information in quarterly earnings calls directed toward financial market participants. We develop and use a novel construct called “stated OM focus” (SOMF) to mine the incidence of and emphasis on OM information in the quarterly earnings conference calls for a large cross-section of firms (S&amp;P 1500) over a time frame of 15 years. We empirically establish the value-relevance of OM information as well as summarize and capture both explanatory and predictive aspects of the OM function’s contribution to firm value. We show that OM-related information disclosed by firms systematically, significantly, positively, and persistently affects abnormal stock returns after controlling for known covariates and controls (financial metrics, standard OM metrics, firm and time effects, and lexical-structure related) and after accounting for earnings surprise. Furthermore, we find evidence that firms’ stated OM focus bears significant predictive power in the short term. Long-short portfolios, created using a sorting signal derived solely from stated OM-focus information, predict future abnormal returns consistently over one, two and three months forward from the earnings call event. We show that the OM information metric is reliable and bears internal, external, and predictive validity. These findings offer useful implications for firms, financial market participants, and OM function stakeholders.This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02221 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02221"/>
-    <category term="Management Science"/>
-    <published>2025-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01185</id>
-    <title>Multicell Experiments for Marginal Treatment Effect Estimation of Digital Ads</title>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <author>
-      <name>Caio Waisman, Brett R. Gordon</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Randomized experiments with treatment and control groups are an important tool to measure the impacts of interventions. However, in experimental settings with one-sided noncompliance extant empirical approaches may not produce the estimands a decision maker needs to solve the problem of interest. For example, these experimental designs are common in digital advertising settings but typical methods do not yield effects that inform the intensive margin: how many consumers should be reached or how much should be spent on a campaign. We propose a solution that combines a novel multicell experimental design with modern estimation techniques that enables decision makers to solve problems with an intensive margin. Our design is straightforward to implement and does not require additional budget. We illustrate our method through simulations calibrated using an advertising experiment at Facebook, demonstrating its superior performance in various scenarios and its advantage over direct optimization approaches.This paper was accepted by Jean-Pierre Dubé, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01185 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01185"/>
-    <category term="Management Science"/>
-    <published>2025-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2020.00013</id>
-    <title>Subcoalition Cluster Analysis: A New Method for Modeling Conflict in Organizations</title>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <author>
-      <name>Scott C. Ganz, Daniel S. Schiff</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The renewed interest among managers and management researchers in stakeholder governance has also underscored the shortage of quantitative methods available for studying business firms as political systems. A critical problem for researchers applying coalition-based theories of organizational politics to observational data is that the units of analysis, coined “subcoalitions,” are often unobservable. This paper introduces subcoalition cluster analysis (SCA) as a new computational framework for analyzing intrafirm conflict that permits researchers to model groups of heterogeneous actors in terms of a smaller set of representative subcoalitions. The SCA approach to identifying latent fault-lines among groups of actors is based on widely held ideas in management research about the structure of intrafirm coalition politics, is computationally practicable in settings with many alternatives or actors, and can be straightforwardly applied to observational settings with incomplete data on actor preferences. We then apply SCA to two cases in which an organization characterized by multiple, partially inconsistent goals and stakeholders with heterogeneous preferences face a politically contested decision. In both cases, we first analyze preference data using SCA to identify the subcoalition structure that best characterizes the set of actors in the organization. We then use the SCA output as a dependent variable in an analysis of the predictors of subcoalition membership in the first case and as an independent variable in an analysis of the changing patterns of social influence in the second.This paper was accepted by Lamar Pierce, organizations.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2020.00013 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2020.00013"/>
-    <category term="Management Science"/>
-    <published>2025-01-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/jcpy.1447</id>
-    <title>Food categorization determines whether healthier food is inferred to be tastier or less tasty</title>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <author>
-      <name>Robert Mai, Olivier Trendel, Michael Basil</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Despite evidence that people believe that the unhealthier the food, the tastier it is, some studies also suggest the opposing belief—the healthier the food, the tastier it is. A framework is proposed to reconcile this contradiction, and four studies demonstrate that the discrete categorization of foods as healthful versus unhealthful determines which intuition consumers use. When stereotypically unhealthy foods (e.g., candies, ice cream, hot dogs) are encountered, they are automatically categorized as unhealthful and the properties associated with that category (e.g., sweetness, saltiness, fat content) become accessible. Inferences about taste are then based on these properties and the unhealthier the encountered products are (i.e., the higher the sugar and fat content they have), the tastier they are perceived to be (unhealthy = tasty belief). Conversely, when stereotypically healthful foods (e.g., fruits) are encountered, other properties (e.g., freshness, vitamins) become salient, and tastiness is mainly inferred based on these properties, leading to the inference that the healthier these foods are (i.e., the more freshness and vitamins they have), the tastier they are perceived to be (healthy = tasty belief). Marketers and policymakers can leverage these findings to understand better when emphasizing healthiness benefits or hurts taste perceptions.</content>
-    <link href="https://doi.org/10.1002/jcpy.1447"/>
-    <category term="Journal of Consumer Psychology"/>
-    <published>2025-01-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1093/rof/rfaf003</id>
     <title>Do salient climatic risks affect shareholder voting?</title>
@@ -211,18 +139,6 @@
     <published>2025-01-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02157</id>
-    <title>The Effect of Functional Diversity on Team Creativity: Behavioral and fNIRS Evidence</title>
-    <updated>2025-01-17T00:00:00+00:00</updated>
-    <author>
-      <name>Yasheng Chen, Adam Presslee, Sue Yang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Variation in functional expertise is an important decision that managers face when designing teams tasked with being creative. We develop theory that predicts that functional diversity has countervailing effects on team creativity through its positive (negative) effect on the uniqueness (usefulness) of the proposals generated. We conduct an experiment where functionally homogeneous or heterogeneous two-person teams are tasked with proposing a creative use for an unused university space. We measure the uniqueness, usefulness, and overall creativity of team proposals. We also use functional near-infrared spectroscopy (fNIRS) neuroimaging technology to investigate the underlying team cognitive processes. Measured outcomes and fNIRS data support our predictions. Combining conventional experiment and advanced neuroimaging techniques, our study informs theory and practice by providing evidence of how functional diversity affects team creativity.This paper was accepted by Suraj Srinivasan, accounting.Funding: This work was supported by the National Natural Science Foundation of China (NA) [Grant 72172132] and CPA Ontario’s Centre for Sustainability Reporting and Performance Management (NA).Supplemental Material: The online supplemental appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02157 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02157"/>
-    <category term="Management Science"/>
-    <published>2025-01-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01538</id>
     <title>Sometimes, Always, Never: Regulatory Clarity and the Development of Digital Financing</title>
     <updated>2025-01-17T00:00:00+00:00</updated>
@@ -231,6 +147,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study examines how the level of detail in legal regulations impacts crowdfunding. We find that clear, explicit regulations significantly boost crowdfunding volumes in a global sample of digital finance. Using proxies to measure regulatory detail in three types of countries—countries that sometimes, always, or never had regulation—in a series of difference-in-difference regressions, we show a significant positive relation between regulatory clarity and the level of debt crowdfunding. There is little effect on the level of equity crowdfunding. Clear regulations appear to encourage the creation of new crowdfunding platforms rather than concentrating activity in existing ones.This paper was accepted by Will Cong, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01538 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.01538"/>
+    <category term="Management Science"/>
+    <published>2025-01-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.02157</id>
+    <title>The Effect of Functional Diversity on Team Creativity: Behavioral and fNIRS Evidence</title>
+    <updated>2025-01-17T00:00:00+00:00</updated>
+    <author>
+      <name>Yasheng Chen, Adam Presslee, Sue Yang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Variation in functional expertise is an important decision that managers face when designing teams tasked with being creative. We develop theory that predicts that functional diversity has countervailing effects on team creativity through its positive (negative) effect on the uniqueness (usefulness) of the proposals generated. We conduct an experiment where functionally homogeneous or heterogeneous two-person teams are tasked with proposing a creative use for an unused university space. We measure the uniqueness, usefulness, and overall creativity of team proposals. We also use functional near-infrared spectroscopy (fNIRS) neuroimaging technology to investigate the underlying team cognitive processes. Measured outcomes and fNIRS data support our predictions. Combining conventional experiment and advanced neuroimaging techniques, our study informs theory and practice by providing evidence of how functional diversity affects team creativity.This paper was accepted by Suraj Srinivasan, accounting.Funding: This work was supported by the National Natural Science Foundation of China (NA) [Grant 72172132] and CPA Ontario’s Centre for Sustainability Reporting and Performance Management (NA).Supplemental Material: The online supplemental appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02157 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.02157"/>
     <category term="Management Science"/>
     <published>2025-01-17T00:00:00+00:00</published>
   </entry>
@@ -427,18 +355,6 @@
     <published>2025-01-20T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1017/s0022109024000413</id>
-    <title>Government Credit and International Trade</title>
-    <updated>2025-01-20T00:00:00+00:00</updated>
-    <author>
-      <name>Hong Ru, Endong Yang</name>
-    </author>
-    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;Using transaction-level trade data from China Customs and loan data from the China Development Bank (CDB), we find that CDB credit to strategic industries at the top of supply chains leads to lower prices, higher volume, and more product varieties and destinations for exports for firms in downstream industries. These positive spillovers stem from reduced intermediate goods prices and increased trade credit from upstream to downstream firms caused by CDB loans. Notably, this surge in import activity displaces U.S. firms within the same industry but bolsters downstream U.S. firms’ business performance and employment.</content>
-    <link href="https://doi.org/10.1017/s0022109024000413"/>
-    <category term="Journal of Financial and Quantitative Analysis"/>
-    <published>2025-01-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1017/s0022109024000589</id>
     <title>Exposing the Revolving Door in Executive Branch Agencies</title>
     <updated>2025-01-20T00:00:00+00:00</updated>
@@ -447,6 +363,18 @@
     </author>
     <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We develop an extensive mapping of the revolving door phenomenon by examining the work experience of 420,153 individuals in top corporate positions at 12,869 firms. More than half of these firms have at least one such individual with prior experience in one of 187 executive branch agencies. We find that firms are more likely to receive procurement contracts following the appointment of a former regulator transitioning within 2 years of leaving the agency, a result consistent with the “knowledge” hypothesis. Less-complex contracts signed following the appointment of former regulators are more likely to be renegotiated, increasing costs for the government.</content>
     <link href="https://doi.org/10.1017/s0022109024000589"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2025-01-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1017/s0022109024000413</id>
+    <title>Government Credit and International Trade</title>
+    <updated>2025-01-20T00:00:00+00:00</updated>
+    <author>
+      <name>Hong Ru, Endong Yang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;Using transaction-level trade data from China Customs and loan data from the China Development Bank (CDB), we find that CDB credit to strategic industries at the top of supply chains leads to lower prices, higher volume, and more product varieties and destinations for exports for firms in downstream industries. These positive spillovers stem from reduced intermediate goods prices and increased trade credit from upstream to downstream firms caused by CDB loans. Notably, this surge in import activity displaces U.S. firms within the same industry but bolsters downstream U.S. firms’ business performance and employment.</content>
+    <link href="https://doi.org/10.1017/s0022109024000413"/>
     <category term="Journal of Financial and Quantitative Analysis"/>
     <published>2025-01-20T00:00:00+00:00</published>
   </entry>
@@ -545,5 +473,125 @@
     <link href="https://doi.org/10.1093/jcr/ucaf002"/>
     <category term="Journal of Consumer Research"/>
     <published>2025-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.3686</id>
+    <title>Informal networks and information environments</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Yonghoon G. Lee, Joon Nak Choi</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Managers draw on their informal networks of peers outside of their firm to better understand uncertain markets and help their firms adapt. This helps firms enhance their performance in information environments characterized by idiosyncratic and difficult‐to‐standardize soft information. However, in information environments characterized by standardized hard information, joint discussions facilitated by informal networks can make managers and their firms maladaptive towards uncertain markets. Based on the performance of two different categories of hedge funds during the 2008 financial crisis, we find that long–short funds, which heavily draw on soft information, performed better when embedded into networks of closely connected managers. In contrast, relative value funds, which heavily draw on hard information, performed better when their managers were more disconnected.Managerial SummaryWhen are managers’ professional networks with peers in the industry valuable to the firm? We examined how hedge fund managers performed during the 2008 financial crisis to find out. When fund managers worked primarily with idiosyncratic and difficult‐to‐standardized soft information, we found that their networks helped them make sense of such information. In contrast, when fund managers worked primarily with quantified and codified hard information (e.g., financial statements and ratings), we found that their networks became echo chambers reinforcing similar opinions, which caused managers to fail to adapt quickly to the market crisis. Our findings counterintuitively suggest that funds using hard information may better off hiring relatively isolated managers who are not deeply tied to the industry.</content>
+    <link href="https://doi.org/10.1002/smj.3686"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478241309439</id>
+    <title>The Direct Effect of Managerial Responses: When Politeness Backfires</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Haofeng Jin, Lili Wang, Yayuan Liu, Yu Tong</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Managerial responses, which represent firms’ public replies to online reviews, are commonly employed in customer communications. Using a dataset collected from a leading mobile game app platform in China, this research examines the effect of managerial responses on the review updates of customers who receive them, that is, the direct effect of managerial responses. Platform users can update their reviews, and complete records of review updates are observable, which allows us to utilize variations in the same customer’s review ratings of a single game both before and after receiving a managerial response. Addressing concerns regarding the endogeneity of managerial responses, improvements in game quality, and censored data in rating updates, we find that users who update their reviews after receiving managerial responses upgrade their ratings by an average of one star. In addition, we find that the positive direct effect of managerial responses is negatively moderated by the level of response politeness, measured separately using both machine learning and large language models. By conducting a survey study, we further show that as the level of politeness increases, the likelihood of reviewers perceiving a managerial response as an attempt to persuade them also increases. These findings highlight the positive direct effect of managerial response and the importance of response style, specifically politeness, which can produce a backfire effect in online communications.</content>
+    <link href="https://doi.org/10.1177/10591478241309439"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251317137</id>
+    <title>EXPRESS: Investor Learning in Crowdfunded Supply Chain Finance Markets</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Shengsheng Xiao, Yi-Chun (Chad) Ho, Zhijin Zhou, Yong Tan, Mingrui Zhang</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Crowdfunded Supply Chain Finance (SCF) represents a novel market design that transforms financial flows within the SCF paradigm. It enables crowd investors to serve as financers, lending vital working capital to suppliers facing liquidity problems. A distinctive feature of this market is the mandatory involvement of loan guarantors, which facilitates repeated interactions between investors and fundraisers, potentially fostering investor learning. To understand how such learning dynamics shape investor decision-making, we develop a Bayesian learning model that conceptualizes investor perceptions of guarantor reliability as a subjective attitude underlying the perceived risk of a loan listing. The model posits that investors can learn about a guarantor’s reliability through a series of scheduled repayments involving the same guarantor over time.We consider investor decision-making a joint process comprising two interdependent components: (1) the incidence decision of whether to invest and (2) the amount decision of how much to invest. Our results reveal that investor perceptions of guarantor reliability play a crucial role in shaping both decisions, albeit in distinct ways. While perceived reliability exerts a positive, monotonic effect on amount decisions, its impact on incidence decisions follows an inverted U-shaped pattern. Furthermore, perceived reliability attenuates the positive effect of loan interest rates on both decisions, suggesting that the appeal of higher returns diminishes as investors’ reliability perceptions increase. A posterior analysis further shows that offering high interest rates may become counterproductive when perceived reliability is sufficiently high. These findings provide actionable implications for platform designers and participants in crowdfunded SCF markets.</content>
+    <link href="https://doi.org/10.1177/10591478251317137"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478241305340</id>
+    <title>Tapping into User Effort? Improving Referral Outcomes in Crowdfunding Markets</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Yang Jiang, Yong Tan, Xi Chen</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Referral programs have received increasing attention as a way to enhance project fundraising in crowdfunding. To improve operational efficiency and performance, many crowdfunding platforms allow users to exert more effort (referral effort) when making referrals. In this paper, we study the impact of users’ referral efforts on referral outcomes, using a unique data set from a reward-based crowdfunding platform. We analyze three types of referral effort beyond merely sharing the referral link, namely, writing the referral message, matching the referral recipients’ pledges, and supporting their own referrals. Our results suggest that users’ referral efforts can help improve the outcome of referrals, as these efforts may be perceived as positive signals of quality, thus reducing referral recipients’ uncertainty about the crowdfunding project. We further explore the heterogeneity in this observed impact, and find that matching recipients’ pledges have a greater impact than the other two types of referral effort. Furthermore, the impact of referral effort is attenuated under conditions of low uncertainty, wherein project quality can be inferred from observable features, such as projects launched by large creators, selected by editors, or referred by experienced backers. Our analyses also indicate that referring users’ efforts can collectively improve the fundraising performance of projects that receive referrals. We discuss the implications of our findings for platform managers, policy makers, and users in crowdfunding marketplaces.</content>
+    <link href="https://doi.org/10.1177/10591478241305340"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0629</id>
+    <title>Coverage-Validity-Aware Algorithmic Recourse</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Ngoc Bui, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;In “Coverage-Validity-Aware Algorithmic Recourse,” Bui, Nguyen, Yue, and Nguyen introduce a novel framework to enhance the explainability and robustness of algorithmic recourse in machine learning models. Algorithmic recourse provides actionable steps for individuals to achieve favorable outcomes from predictive models, addressing ethical and transparency challenges. However, existing methods often fail to account for the evolving nature of predictive models, rendering current recourses invalid as models update with new data. To address this, the authors propose a novel model-agnostic framework designed to generate recourses robust to future model shifts. The framework constructs a coverage-validity-aware linear surrogate of the nonlinear (black box) model for recourse generation, enabling recourses that remain valid across model updates. The approach leverages theoretical insights from minimax probability machines, demonstrating how varying covariance robustness recovers widely used regularizations, such as ℓ2regularization and class reweighting. This method holds promise for applications in credit scoring, hiring algorithms, and other domains where fairness, transparency, and adaptability are critical to maintaining trust and accountability in artificial intelligence systems.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0629"/>
+    <category term="Operations Research"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0612</id>
+    <title>Coordinate Partitioning for Difficult Euclidean Max-Sum Diversity Problems</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Sandy Spiers, Hoa T. Bui, Ryan Loxton</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Divide and Conquer: Solving the Euclidean Diversity Problem Through Coordinate PartitioningA common technique for solving difficult optimization problems is to break them into easier-to-manage pieces, yet it is rarely obvious how to do so. This is especially true for the Euclidean max-sum diversity problem, which becomes increasingly difficult as the number of coordinates grows despite the problem size remaining the same. In “Coordinate Partitioning for Difficult Euclidean Max-Sum Diversity Problems,” Spiers, Bui, and Loxton use an old result by Schoenberg to transform Euclidean distances into their squared counterparts, enabling a functional decomposition of the problem’s objective. The authors introduce novel partitioning strategies as well as a globally convergent cutting-plane algorithm, which can effectively solve high-dimension instances. They also present a new class of challenging instances characterized by locations on the surface of a hyperball.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0612"/>
+    <category term="Operations Research"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437241291481</id>
+    <title>Groceries or School Cafeterias:  How Households Respond to School  Nutrition Mandates</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Mike Palazzolo, Zoey Hu, Kusum Ailawadi, Adithya Pattabhiramaiah</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;The Healthy, Hunger-Free Kids Act (HHFKA) placed strict nutritional mandates on meals served at U.S. public schools. This policy offers a unique opportunity to study household response to a large, exogenous change in healthiness of food available to their children. Did more healthy school meals lead households to substitute toward them, and away from grocery food purchases? Which households were more responsive to the nutritional mandates? And was there any spillover effect on the nutritional quality of their grocery food purchases? The authors document a meaningful decrease in the quantity of grocery food in response to the HHFKA, and a small decrease in quality. Consistent with substitution toward school meals, more of the quantity decrease is attributable to items likely to be purchased for children and categories traditionally associated with breakfast and lunch (the meals served at school). The HHFKA attracted even greater participation from financially constrained and time-constrained households for whom school meals were already important and were now coupled with the additional benefit of healthier food. These findings have important implications for policy makers and researchers, but also for food manufacturers and retailers.</content>
+    <link href="https://doi.org/10.1177/00222437241291481"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13177</id>
+    <title>It's Amazing – But Terrifying!: Unveiling the Combined Effect of Emotional and Cognitive Trust on Organizational Member' Behaviours, AI Performance, and Adoption</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Natalia Vuori, Barbara Burkhard, Leena Pitkäranta</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;We conducted a qualitative, real‐life study where we tracked the introduction, implementation, and use of a new AI technology in a company. We identified four distinct trust configurations among organizational members: full trust (high cognitive/high emotional), full distrust (low cognitive/low emotional), uncomfortable trust (high cognitive/low emotional), and blind trust (low cognitive/high emotional). Furthermore, we found that organizational members exhibited distinct behaviours under the four trust configurations: Some responded by detailing their digital footprints, while others engaged in manipulating, confining, or withdrawing them. These behaviours triggered a ‘vicious cycle’, where biased (due to manipulation) and unbalanced and asymmetric (due to detailing, confining, or withdrawing) data inputs degraded AI performance, further eroding trust and stalling adoption. Our primary contribution is a model that explains how organizational members behave under different trust configurations and how these behaviours affect AI performance and, ultimately, AI adoption in organizations. We also provide valuable insights for managers.</content>
+    <link href="https://doi.org/10.1111/joms.13177"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13425</id>
+    <title>The Allocation of Socially Responsible Capital</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>DANIEL GREEN, BENJAMIN N. ROTH</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Portfolio allocation decisions increasingly incorporate social values. We develop a tractable framework to study how competition between investors to own socially valuable assets affects social welfare. Relative to the most common social‐investing strategies, we identify alternative strategies that result in higher impact and higher financial returns. We identify strategies for investors to have impact when impact is difficult to measure. From the firm's perspective, increasing profitability can have greater impact than directly increasing social value. We present new empirical evidence on the social preferences of investors that demonstrates the practical relevance of our theory.</content>
+    <link href="https://doi.org/10.1111/jofi.13425"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-01-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587241300432</id>
+    <title>Misconceptions About the Theoretical Support for Family Firm Long-Term Orientation</title>
+    <updated>2025-01-22T00:00:00+00:00</updated>
+    <author>
+      <name>Jess H. Chua, James J. Chrisman, Hao Wang, Saisai Wu</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Long-term orientation has been proposed as one of the differences between family and nonfamily firms. Family business scholars base this difference theoretically on the incumbent generation’s altruism for the next generation and the intention for intrafamily succession. We point out that the applicable boundaries for these two theoretical bases are limited. We also point out misconceptions regarding what these two theoretical bases imply about the long-term oriented behavior of family businesses and discuss implications for empirical research and theory development.</content>
+    <link href="https://doi.org/10.1177/10422587241300432"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2025-01-22T00:00:00+00:00</published>
   </entry>
 </feed>
