@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-02-03T14:39:33.523922+00:00</updated>
+  <updated>2025-02-04T14:39:38.746910+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -27,6 +27,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper characterizes the optimal taxation of top earners in a world with externalities. It takes a reduced-form approach that spans a broad class of models where top earners create externalities on the economy. The model allows for a flexible relationship between top earnings and the distribution of earnings capacities in the population, including positive externalities (such as innovation) and negative externalities (such as rent-extraction). The model allows for simple optimal tax formulas that clarify the role of different externality patterns. In general, externalities that run from top earners to bottom earners have much stronger tax implications than externalities within the top group. The results are expressed in terms of estimable sufficient statistics and linked to recent evidence on the externalities of top entrepreneurs. A calibration to the US economy suggests that the optimal top tax rate, while lower than the Mirrleesian optimum, remains higher than the current top tax rate.</content>
     <link href="https://www.nber.org/papers/w33345"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33344</id>
+    <title>Large Language Models: An Applied Econometric Framework</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jens Ludwig, Sendhil Mullainathan &amp; Ashesh Rambachan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How can we use the novel capacities of large language models (LLMs) in empirical research? And how can we do so while accounting for their limitations, which are themselves only poorly understood? We develop an econometric framework to answer this question that distinguishes between two types of empirical tasks. Using LLMs for prediction problems (including hypothesis generation) is valid under one condition: no “leakage” between the LLM’s training dataset and the researcher’s sample. No leakage can be ensured by using open-source LLMs with documented training data and published weights. Using LLM outputs for estimation problems to automate the measurement of some economic concept (expressed either by some text or from human subjects) requires the researcher to collect at least some validation data: without such data, the errors of the LLM’s automation cannot be assessed and accounted for. As long as these steps are taken, LLM outputs can be used in empirical research with the familiar econometric guarantees we desire. Using two illustrative applications to finance and political economy, we find that these requirements are stringent; when they are violated, the limitations of LLMs now result in unreliable empirical estimates. Our results suggest the excitement around the empirical uses of LLMs is warranted – they allow researchers to effectively use even small amounts of language data for both prediction and estimation – but only with these safeguards in place.</content>
+    <link href="https://www.nber.org/papers/w33344"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
@@ -175,18 +187,6 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33344</id>
-    <title>Large Language Models: An Applied Econometric Framework</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jens Ludwig, Sendhil Mullainathan &amp; Ashesh Rambachan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How can we use the novel capacities of large language models (LLMs) in empirical research? And how can we do so while accounting for their limitations, which are themselves only poorly understood? We develop an econometric framework to answer this question that distinguishes between two types of empirical tasks. Using LLMs for prediction problems (including hypothesis generation) is valid under one condition: no “leakage” between the LLM’s training dataset and the researcher’s sample. No leakage can be ensured by using open-source LLMs with documented training data and published weights. Using LLM outputs for estimation problems to automate the measurement of some economic concept (expressed either by some text or from human subjects) requires the researcher to collect at least some validation data: without such data, the errors of the LLM’s automation cannot be assessed and accounted for. As long as these steps are taken, LLM outputs can be used in empirical research with the familiar econometric guarantees we desire. Using two illustrative applications to finance and political economy, we find that these requirements are stringent; when they are violated, the limitations of LLMs now result in unreliable empirical estimates. Our results suggest the excitement around the empirical uses of LLMs is warranted – they allow researchers to effectively use even small amounts of language data for both prediction and estimation – but only with these safeguards in place.</content>
-    <link href="https://www.nber.org/papers/w33344"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33343</id>
     <title>The Economy, the Ghost in Your Gene, and the Escape from Premature Mortality</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
@@ -219,6 +219,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How managers frame the adoption of organizational practices may impact the returns to such practices, but managerial justification is often correlated with the use of particular practices or other dimensions of managerial quality. Using a randomized control trial, we study how the causal impacts of a frequently used monitoring management practice for remote work employers–digital worker surveillance–varies by randomly allocated justification for its use. In an online labor market, we divide workers into low and high-productivity performers, and randomize both whether surveillance is used and whether its use is justified based on the workers’ baseline productivity. We find that digital surveillance does not have significant effects on worker performance on average, but that not explaining the presence or elimination of digital surveillance based on worker performance significantly reduces worker output. Our results demonstrate a nuanced relationship between monitoring and worker performance that depends on how monitoring is rationalized to workers.</content>
     <link href="https://www.nber.org/papers/w33348"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33375</id>
+    <title>The Growth Dividend and Excess Interest</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Danny Yagan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Standard deficit accounting neglects the growth dividend: the amount by which annual GDP growth shrinks the debt-GDP ratio. America's growth dividend has more than doubled since the Great Recession because the debt ratio has more than doubled, leading to headline deficits that far exceed changes in the debt ratio. Each year's change in the debt ratio can be decomposed into three components: the primary deficit (non-interest spending minus tax revenue), interest payments, and the growth dividend. The sum of the latter two is excess interest: the impact of past debt on the debt ratio, roughly equal to last year's debt ratio times the excess interest rate (r-g)/(1+g) where r is the average nominal interest rate on federal debt and g is the nominal GDP growth rate. Excess interest remains slightly negative in CBO's baseline ten-year projection. Hence, current debt is sustainable in the CBO baseline despite high interest payments, and primary deficits entirely drive the unsustainable projected debt ratio path and provide a good guide for how the debt ratio is projected to change. However, America's higher debt ratio implies higher vulnerability to the risk that the excess interest rate turns persistently positive.</content>
+    <link href="https://www.nber.org/papers/w33375"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
@@ -343,18 +355,6 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33375</id>
-    <title>The Growth Dividend and Excess Interest</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Danny Yagan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Standard deficit accounting neglects the growth dividend: the amount by which annual GDP growth shrinks the debt-GDP ratio. America's growth dividend has more than doubled since the Great Recession because the debt ratio has more than doubled, leading to headline deficits that far exceed changes in the debt ratio. Each year's change in the debt ratio can be decomposed into three components: the primary deficit (non-interest spending minus tax revenue), interest payments, and the growth dividend. The sum of the latter two is excess interest: the impact of past debt on the debt ratio, roughly equal to last year's debt ratio times the excess interest rate (r-g)/(1+g) where r is the average nominal interest rate on federal debt and g is the nominal GDP growth rate. Excess interest remains slightly negative in CBO's baseline ten-year projection. Hence, current debt is sustainable in the CBO baseline despite high interest payments, and primary deficits entirely drive the unsustainable projected debt ratio path and provide a good guide for how the debt ratio is projected to change. However, America's higher debt ratio implies higher vulnerability to the risk that the excess interest rate turns persistently positive.</content>
-    <link href="https://www.nber.org/papers/w33375"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33374</id>
     <title>Robust Fiscal Stabilization</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
@@ -463,50 +463,62 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33395</id>
-    <title>From Fiscal Deadlock to Financial Repression: Anatomy of a Fall</title>
+    <id>https://www.nber.org/papers/w33403</id>
+    <title>Understanding Racial Disparities in Criminal Court Outcomes</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Olivier Jeanne</name>
+      <name>Shawn Bushway, Andrew Jordan, Derek Neal &amp; Steven Raphael</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial repression can be used to avoid a government default when fiscal policy is constrained. We present a model showing that optimal financial repression progresses through successive stages with increasing levels of distortion. Data from advanced economies suggest that the initial stage of financial repression typically begins when government debt exceeds 100% to 120% of GDP. Moreover, Japan’s experience suggests that countries such as the U.S. have significant leeway before resorting to the most distortive forms of financial repression.</content>
-    <link href="https://www.nber.org/papers/w33395"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We construct a framework that defines optimal outcomes in criminal courts, and we use this framework to interpret and organize the existing literature on racial disparities in pretrial detention, sentencing, and community corrections outcomes. Existing research indicates that some actors within courts and within the agencies that implement the sentences that courts impose make decisions that are contaminated by racial animus or racially biased assessments of the recidivism risks posed by some offenders. However, the most important sources of racial disparities in case outcomes are numerous practices, regulations, and laws that are too punitive, i.e. their social costs are likely greater than any derived social benefits. Since minorities, especially Blacks, face arrest at much higher rates than whites, they bear large disparate impacts from such policies.</content>
+    <link href="https://www.nber.org/papers/w33403"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33394</id>
-    <title>Passing as White: Racial Identity and Old-Age Longevity</title>
+    <id>https://www.nber.org/papers/w33402</id>
+    <title>Estimating the Economic and Budgetary Effects of Research Investments</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Hamid Noghanibehambari &amp; Jason Fletcher</name>
+      <name>Theresa Gullo, Benjamin Page, David Weiner &amp; Heidi L. Williams</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In the presence of segregation and discrimination during the late 19th and early 20th century, many African American men changed their racial identity and “passed” for white. Previous studies have suggested that this activity was associated with increases in income and socioeconomic status despite the costs associated with cutting ties with their black communities. This study adds to this literature by evaluating the long-run effects of passing on old-age longevity. We construct longitudinal data of black families in historical censuses (1880-1940) linked to their male children’s Social Security Administration death records (1975-2005). We use family fixed effects to demonstrate that individuals passing as white live approximately 9.4 months longer, on average, than their non-passing siblings. Additional analyses suggest substantial improvements in education and occupational standing scores as well as differential parental investments as potential pathways.</content>
-    <link href="https://www.nber.org/papers/w33394"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many US federal agencies model the economic and budgetary effects of research and development (R&amp;D) investments -- both public R&amp;D and private R&amp;D -- as if R&amp;D were the same as any other form of investment, such as physical capital investment. However, in recent decades a broad base of evidence has developed suggesting that such modeling may result in projections that are not well-aligned with the actual economic and budgetary effects of R&amp;D investments. In this paper, we attempt to synthesize the economic evidence relevant to estimating the economic and budgetary effects of R&amp;D, and examine how and where this research literature could potentially be incorporated into the standard projections produced by various federal agencies.</content>
+    <link href="https://www.nber.org/papers/w33402"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33377</id>
-    <title>Spatial Environmental Economics</title>
+    <id>https://www.nber.org/papers/w33401</id>
+    <title>Information and the Welfare Benefits from Differentiated Products</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Clare A. Balboni &amp; Joseph S. Shapiro</name>
+      <name>Imke Reimers, Christoph Riedl &amp; Joel Waldfogel</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do environmental goods and policies shape spatial patterns of economic activity? How will climate change modify these impacts over the coming decades? How do agglomeration, commuting, and other spatial forces and policies affect environmental quality? We distill theoretical and empirical research linking urban, regional, and spatial economics to the environment. We present stylized facts on spatial environmental economics, describe insights from canonical environmental models and spatial models, and discuss the building blocks for papers and the research frontier in enviro-spatial economics. Most enviro-spatial research remains bifurcated into either primarily environmental or spatial papers. Research is only beginning to realize potential insights from more closely combining spatial and environmental approaches.</content>
-    <link href="https://www.nber.org/papers/w33377"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Differentiated product consumption choices made without full information can lead to welfare losses from regret and missed opportunities, but a lack of post-purchase usage data has prevented their exploration. Using novel data on individual ownership and post-purchase usage of video games, we explore both the potential welfare benefits of full information prior to purchase and the ability of contemporary prediction technology to produce these gains. We find large potential gains: Among currently owned games, fully informed consumers could achieve 90 percent of their status quo playtime with 40 percent of current expenditure; and current expenditure reallocated among all available games could double status quo playtime. We develop a tractable model of consumer choice among bundles based on hours of playtime relative to overall spending, which we implement using both a Cobb Douglas calibration and a logit model of bundle choice. Full information would raise consumer surplus by more than the value of status quo expenditure; and it would reduce expenditure by half. Consumers heeding sophisticated, personalized predictions would obtain roughly 40 percent of these welfare benefits with a fifth less spending.</content>
+    <link href="https://www.nber.org/papers/w33401"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33398</id>
-    <title>Human Capital Impacts of In Utero Exposure to War Conflict in Afghanistan</title>
+    <id>https://www.nber.org/papers/w33400</id>
+    <title>Have We Got News For You: Firm-Level Evidence on the Optimal Choice of Expected Capacity Utilization</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Erkmen G. Aslim, Rafiuddin Najam &amp; Erdal Tekin</name>
+      <name>Niklas Amberg, Richard Friberg &amp; Chad Syverson</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study examines the long-term effects of prenatal exposure to war violence on cognitive and developmental outcomes, focusing on children in Afghanistan, a country deeply affected by prolonged violent conflict. Using data from the 2022 Afghanistan Multiple Indicator Cluster Surveys and geo-referenced information on violent incidents, we estimate the effects of prenatal exposure to civilian casualties on educational attainment, math performance, and functional and disciplinary outcomes. Our findings reveal significant gender disparities, with girls exposed in utero demonstrating substantially worse cognitive and developmental outcomes compared to boys, including lower school attendance, reduced math performance, and increased functional difficulties. These adverse effects appear to be driven by disruptions in foundational cognitive skills during critical developmental periods. Post-birth exposure, while negatively affecting both genders, has less pronounced and consistent effects. These results highlight the intergenerational consequences of war conflict, emphasizing the need for interventions that address the unique vulnerabilities of children in conflict-affected regions.</content>
-    <link href="https://www.nber.org/papers/w33398"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using quarterly micro data on capacity utilization among Swedish manufacturing firms, we show that idiosyncratic factors are much more important than aggregate influences in explaining variation in capacity utilization across firms and over time. Idiosyncratic does not mean unpredictable, however. A simple newsvendor model of optimally set capacity predicts that higher demand uncertainty lowers capacity utilization, especially for high-markup firms. We test these predictions using data that contain firm-specific, forward-looking measures of uncertainty. Firms in the top of the uncertainty distribution on average have seven percentage points lower capacity utilization than firms in the bottom. The fall in capacity utilization is more than double for firms in the top rather than bottom tercile of the markup distribution.</content>
+    <link href="https://www.nber.org/papers/w33400"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33404</id>
+    <title>The Granular Origins of Inflation</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Santiago Alvarez-Blaser, Raphael Auer, Sarah M. Lein &amp; Andrei A. Levchenko</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses barcode-level price data for 16 advanced and emerging market countries over the period 2005–2022 to investigate the role of individual firms and product categories in aggregate inflation. We decompose inflation into the component due to macroeconomic shocks and the granular residuals capturing the impact of individual firms and product categories, respectively. In advanced economies, the firm granular residual accounts for 41% of the variance of overall inflation, while the product category granular residual accounts for another 15%. Most of the variation in the firm granular residual is due to idiosyncratic shocks rather than to higher sensitivity of larger firms to common shocks. In the cross-section of countries, granular residuals are less important in economies with less concentrated market shares and higher inflation, such as emerging markets. Lastly, granular residuals contributed to the post-COVID inflation surge, with the firm-level component accounting for roughly one-third of the 2021-2022 inflation in advanced economies.</content>
+    <link href="https://www.nber.org/papers/w33404"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
@@ -535,6 +547,54 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33389</id>
+    <title>How Test Optional Policies in College Admissions Disproportionately Harm High Achieving Applicants from Disadvantaged Backgrounds</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bruce Sacerdote, Douglas O. Staiger &amp; Michele Tine</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We find that test score optional policies harm the likelihood of elite college admission for high achieving applicants from disadvantaged backgrounds. We show that at one elite college campus, SAT (and ACT) scores predict first year college GPA equally well across income and other demographic groups; high school GPA and class rank offer little additional predictive power. Under test score optional policies, less advantaged applicants who are high achieving submit test scores at too low a rate, significantly reducing their admissions chances; such applicants increase their admissions probability by a factor of 3.6x (from 2.9 percent to 10.2 percent) when they report their scores. High achieving first-generation applicants raise admissions chances by 2.4x by reporting scores. Much more than commonly understood, elite institutions interpret test scores in the context of background, and availability of test scores on an application can promote rather than hinder social mobility.</content>
+    <link href="https://www.nber.org/papers/w33389"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33377</id>
+    <title>Spatial Environmental Economics</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Clare A. Balboni &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do environmental goods and policies shape spatial patterns of economic activity? How will climate change modify these impacts over the coming decades? How do agglomeration, commuting, and other spatial forces and policies affect environmental quality? We distill theoretical and empirical research linking urban, regional, and spatial economics to the environment. We present stylized facts on spatial environmental economics, describe insights from canonical environmental models and spatial models, and discuss the building blocks for papers and the research frontier in enviro-spatial economics. Most enviro-spatial research remains bifurcated into either primarily environmental or spatial papers. Research is only beginning to realize potential insights from more closely combining spatial and environmental approaches.</content>
+    <link href="https://www.nber.org/papers/w33377"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33395</id>
+    <title>From Fiscal Deadlock to Financial Repression: Anatomy of a Fall</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Olivier Jeanne</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial repression can be used to avoid a government default when fiscal policy is constrained. We present a model showing that optimal financial repression progresses through successive stages with increasing levels of distortion. Data from advanced economies suggest that the initial stage of financial repression typically begins when government debt exceeds 100% to 120% of GDP. Moreover, Japan’s experience suggests that countries such as the U.S. have significant leeway before resorting to the most distortive forms of financial repression.</content>
+    <link href="https://www.nber.org/papers/w33395"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33394</id>
+    <title>Passing as White: Racial Identity and Old-Age Longevity</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hamid Noghanibehambari &amp; Jason Fletcher</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In the presence of segregation and discrimination during the late 19th and early 20th century, many African American men changed their racial identity and “passed” for white. Previous studies have suggested that this activity was associated with increases in income and socioeconomic status despite the costs associated with cutting ties with their black communities. This study adds to this literature by evaluating the long-run effects of passing on old-age longevity. We construct longitudinal data of black families in historical censuses (1880-1940) linked to their male children’s Social Security Administration death records (1975-2005). We use family fixed effects to demonstrate that individuals passing as white live approximately 9.4 months longer, on average, than their non-passing siblings. Additional analyses suggest substantial improvements in education and occupational standing scores as well as differential parental investments as potential pathways.</content>
+    <link href="https://www.nber.org/papers/w33394"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33387</id>
     <title>Do Behavioral Frictions Prevent Firms from Adopting Profitable Opportunities?</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
@@ -547,6 +607,42 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33383</id>
+    <title>Home Sweet Home: How Much Do Employees Value Remote Work?</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Zoe B. Cullen, Bobak Pakzad-Hurson &amp; Ricardo Perez-Truglia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the value employees place on remote work using revealed preferences in a high-stakes, real-world context, focusing on U.S. tech workers. On average, employees are willing to accept a 25% pay cut for partly or fully remote roles. Our estimates are three to five times that of previous studies. We attribute this discrepancy partly to methodological differences, suggesting that existing methods may understate preferences for remote work. Because of the strong preference for remote work, we expected to find a compensating wage differential, with remote positions offering lower compensation than otherwise identical in-person positions. However, using novel data on salaries for tech jobs, we reject that hypothesis. We propose potential explanations for this puzzle, including optimization frictions and worker sorting.</content>
+    <link href="https://www.nber.org/papers/w33383"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33382</id>
+    <title>The Impact of World War II Army Service on Income and Mobility in the 1960s by Ethnoracial Group</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sergio E. Barrera, Andreas Ferrara, Price V. Fishback &amp; Misty L. Heggeness</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the impact of World War II service on income and mobility among male Army and Army Airforce veterans from various racial and ethnic groups, using linked 1940 Census, WWII enlistment, and 1969 administrative tax return data. The dataset includes non-Hispanic White, Black, Hispanic, Asian, and Native American men, providing insight into underexplored groups. Ordinary Least Squares estimates indicate that, compared to non-Army men within their groups, Army veterans earned higher incomes and were less likely to migrate across counties between 1940 and 1969, particularly among non-Hispanic Whites, Blacks, and Hispanics. To address potential selection bias, we applied a fuzzy regression discontinuity design, comparing men just eligible for service to those slightly too young. These estimates revealed that, in 1969, Army veterans generally had lower adjusted gross incomes than non-Army counterparts among non-Hispanic Whites, Blacks, and Asians, while Hispanic and Native American veterans earned slightly more. Income effects varied by type of income. Veterans also showed lower rates of county migration, particularly among non-Hispanic Whites, Asians, and Native Americans. Migration differences were minor for Blacks and Hispanics. These findings highlight nuanced outcomes of WWII service across diverse racial and ethnic groups.</content>
+    <link href="https://www.nber.org/papers/w33382"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33381</id>
+    <title>Does Old Age Social Security Help Children? The Impact of Social Security on Grandchild Resources</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lucie Schmidt, Lara Shore-Sheppard &amp; Tara Watson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Though Social Security is typically considered a program to support retirees, nearly one in ten children live in a home with Social Security income. Children are substantially more likely to live with an older adult than they were two decades ago, and they are twice as likely to report Social Security income in their household as traditional cash welfare. We use the sharp increase in eligibility for Social Security benefits at age 62 to investigate the role played by the Social Security program in childhood economic resources among children who live with their grandparents. We do not find that Social Security eligibility increases household income on average, but it is associated with a shift towards Social Security income and reductions in deep poverty. We also see increased availability of household members’ time for home production.</content>
+    <link href="https://www.nber.org/papers/w33381"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33386</id>
     <title>Demographic Preferences and Income Segregation</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
@@ -555,6 +651,78 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how preferences over the demographic composition of co-patrons affects income segregation in shared spaces. To distinguish demographic preferences from tastes for other venue attributes, we study venue choices within business chains. We find two notable regularities: preferences for high-income co-patrons are similar across racial groups, and racial homophily does not vary by income. These demographic preferences are economically large, explain much of the cross-group variation in exposure to high-income co-patrons, and correlate with movers' neighborhood choices.</content>
     <link href="https://www.nber.org/papers/w33386"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33393</id>
+    <title>Winning the Bread and Baking it Too: Gendered Frictions in the Allocation of Home Production</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kyle Hancock, Jeanne Lafortune &amp; Corinne Low</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We document that female breadwinners do more home production than their male partners, driven by “housework” like cooking and cleaning. By comparing to same sex couples, we highlight that specialization within heterosexual households does not appear to be “gender neutral” even after accounting for average earnings differences. One possible explanation would be a large comparative advantage in housework by women, a supposition commonly used to match aggregate labor supply statistics. Using a model, we show that while comparative advantage can match some stylized facts about how couples divide housework, it fails to match others, particularly that men’s housework time is inelastic to relative household wages. Matching these facts requires some gendered wedge between the opportunity cost of housework time and its assignment within the household. We then turn to the implications for household formation. Gendered rigidities in the allocation of household tasks result in lower surplus for couples where women out-earn men than vice versa, providing a micro-founded reason for substantial literature showing that lower relative earning by men decreases marriage rates. We show that our mechanism—allocation of housework, rather than norms about earnings—plays a role by relating marriage rates to the ratio of home production time in US immigrants’ countries of origin.</content>
+    <link href="https://www.nber.org/papers/w33393"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33385</id>
+    <title>Fiscal Progressivity of the U.S. Federal and State Governments</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Johannes Fleck, Jonathan Heathcote, Kjetil Storesletten &amp; Giovanni L. Violante</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Combining a variety of survey and administrative data, this paper measures the progressivity of taxes and transfers at the U.S. federal level and separately for each state. The findings are as follows. (i) The federal tax and transfer system is progressive. (ii) State and local tax and transfer systems are close to proportional, on average. (iii) There is substantial heterogeneity in tax levels and tax progressivity across states. (iv) States that are funded mostly by sales and property taxes tend to have regressive tax systems and low average tax rates. States that are funded mostly by income taxes tend to have progressive tax systems and high average tax rates. (v) Regressive states are concentrated in the South and attract more inter-state net migration, especially of high-income migrants. (vi) State progressivity has remained broadly stable between 2005 and 2016. (vii) Incorporating corporate income and business taxes decreases average state progressivity but increases federal progressivity. (viii) Including spending on public goods and services as a transfer has a large positive impact on measured progressivity.</content>
+    <link href="https://www.nber.org/papers/w33385"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33384</id>
+    <title>Rationalizing Firm Forecasts</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicholas Bloom, Mihai A. Codreanu &amp; Robert A. Fletcher</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We partner with a large US payment-processing company to run a 5-year, 10 wave panel survey of incentivized quarterly sales forecasts on over 6,000 firms. We match firm predictions to proprietary revenue data to assess accuracy. We find firms forecast poorly, with issues of inaccuracy, over-optimism, predictable errors and over-precision. To assess the causes of these forecasting issues we run experiments on: (i) data use, (ii) incentives, (iii) forecasting skill, and (iv) contingent thinking. We find greater data use primarily decreases noise and reduces over-precision, while higher incentives moderate over-optimism. Both moderately increase accuracy. The other two treatments have no impact. These results suggest forecasting biases can be reduced but are hard to eliminate. In a simple simulation model, we show these biases change firm responsiveness to changes in taxes and productivity, highlighting their macro importance.</content>
+    <link href="https://www.nber.org/papers/w33384"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33388</id>
+    <title>Is There Intersectional Labor Market Discrimination?</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joanne S. McLaughlin &amp; David Neumark</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present new and rich evidence on intersectional discrimination in labor markets, focusing on wages in the traditional residual wage differential approach to discrimination. We interpret “intersectional discrimination” in the framework of interactions, in which discrimination along two intersecting dimensions leads to discrimination that exceeds the sum of its parts. We make three contributions. First, we resolve puzzling contradictory findings on intersectional discrimination in existing research – with studies using similar data and methods reaching diametrically opposite conclusions. Second, we extend the analysis of potential intersectional discrimination to more dimensions than have typically been considered in past research. Third, we explore issues of bias in the wage equations we estimate from selection on employment. Our overall conclusion from these different types of evidence is that there is little or no evidence consistent with intersectional discrimination in wage differentials among the large set of groups (and combinations of groups) we study, and indeed most evidence points in the opposite direction.</content>
+    <link href="https://www.nber.org/papers/w33388"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33396</id>
+    <title>Bargaining and Inequality in the Labor Market</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sydnee Caldwell, Ingrid Haegele &amp; Jörg Heining</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use novel surveys of firms and workers, linked to administrative employer-employee data, to study the prevalence and importance of individual bargaining in wage determination. We show that simple survey questions accurately elicit firms’ bargaining strategies. Using the elicited strategies for 772 German firms, we document that the majority of firms are willing to engage in individual wage bargaining. Labor market factors predict firms’ strategies better than firm characteristics. Survey responses from nearly 10,000 full-time workers indicate that most worker-firm interactions begin with the worker providing their salary expectations. Most interactions end with the worker rejecting the offer and remaining at the incumbent firm. There is substantial heterogeneity in workers’ bargaining behavior, which translates into within-firm wage inequality. Firms that set pay via individual bargaining have a 3 percentage point higher gender wage gap.</content>
+    <link href="https://www.nber.org/papers/w33396"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33397</id>
+    <title>Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Paul L. E. Grieco, Charles Murry, Joris Pinkse &amp; Stephan Sagl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a conformant likelihood estimator with exogeneity restrictions (CLEER) for random coefficients discrete choice demand models that is applicable in a broad range of data settings. It combines the likelihoods of two mixed logit estimators—one for consumer level data, and one for product level data—with product level exogeneity restrictions. Our estimator is both efficient and conformant: its rates of convergence will be the fastest possible given the variation available in the data.  The researcher does not need to pre-test or adjust the estimator and the inference procedure is valid across a wide variety of scenarios. Moreover, it can be tractably applied to large datasets. We illustrate the features of our estimator by comparing it to alternatives in the literature.</content>
+    <link href="https://www.nber.org/papers/w33397"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
@@ -619,254 +787,86 @@
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33403</id>
-    <title>Understanding Racial Disparities in Criminal Court Outcomes</title>
+    <id>https://www.nber.org/papers/w33398</id>
+    <title>Human Capital Impacts of In Utero Exposure to War Conflict in Afghanistan</title>
     <updated>2025-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Shawn Bushway, Andrew Jordan, Derek Neal &amp; Steven Raphael</name>
+      <name>Erkmen G. Aslim, Rafiuddin Najam &amp; Erdal Tekin</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We construct a framework that defines optimal outcomes in criminal courts, and we use this framework to interpret and organize the existing literature on racial disparities in pretrial detention, sentencing, and community corrections outcomes. Existing research indicates that some actors within courts and within the agencies that implement the sentences that courts impose make decisions that are contaminated by racial animus or racially biased assessments of the recidivism risks posed by some offenders. However, the most important sources of racial disparities in case outcomes are numerous practices, regulations, and laws that are too punitive, i.e. their social costs are likely greater than any derived social benefits. Since minorities, especially Blacks, face arrest at much higher rates than whites, they bear large disparate impacts from such policies.</content>
-    <link href="https://www.nber.org/papers/w33403"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study examines the long-term effects of prenatal exposure to war violence on cognitive and developmental outcomes, focusing on children in Afghanistan, a country deeply affected by prolonged violent conflict. Using data from the 2022 Afghanistan Multiple Indicator Cluster Surveys and geo-referenced information on violent incidents, we estimate the effects of prenatal exposure to civilian casualties on educational attainment, math performance, and functional and disciplinary outcomes. Our findings reveal significant gender disparities, with girls exposed in utero demonstrating substantially worse cognitive and developmental outcomes compared to boys, including lower school attendance, reduced math performance, and increased functional difficulties. These adverse effects appear to be driven by disruptions in foundational cognitive skills during critical developmental periods. Post-birth exposure, while negatively affecting both genders, has less pronounced and consistent effects. These results highlight the intergenerational consequences of war conflict, emphasizing the need for interventions that address the unique vulnerabilities of children in conflict-affected regions.</content>
+    <link href="https://www.nber.org/papers/w33398"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33402</id>
-    <title>Estimating the Economic and Budgetary Effects of Research Investments</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Theresa Gullo, Benjamin Page, David Weiner &amp; Heidi L. Williams</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many US federal agencies model the economic and budgetary effects of research and development (R&amp;D) investments -- both public R&amp;D and private R&amp;D -- as if R&amp;D were the same as any other form of investment, such as physical capital investment. However, in recent decades a broad base of evidence has developed suggesting that such modeling may result in projections that are not well-aligned with the actual economic and budgetary effects of R&amp;D investments. In this paper, we attempt to synthesize the economic evidence relevant to estimating the economic and budgetary effects of R&amp;D, and examine how and where this research literature could potentially be incorporated into the standard projections produced by various federal agencies.</content>
-    <link href="https://www.nber.org/papers/w33402"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33401</id>
-    <title>Information and the Welfare Benefits from Differentiated Products</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Imke Reimers, Christoph Riedl &amp; Joel Waldfogel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Differentiated product consumption choices made without full information can lead to welfare losses from regret and missed opportunities, but a lack of post-purchase usage data has prevented their exploration. Using novel data on individual ownership and post-purchase usage of video games, we explore both the potential welfare benefits of full information prior to purchase and the ability of contemporary prediction technology to produce these gains. We find large potential gains: Among currently owned games, fully informed consumers could achieve 90 percent of their status quo playtime with 40 percent of current expenditure; and current expenditure reallocated among all available games could double status quo playtime. We develop a tractable model of consumer choice among bundles based on hours of playtime relative to overall spending, which we implement using both a Cobb Douglas calibration and a logit model of bundle choice. Full information would raise consumer surplus by more than the value of status quo expenditure; and it would reduce expenditure by half. Consumers heeding sophisticated, personalized predictions would obtain roughly 40 percent of these welfare benefits with a fifth less spending.</content>
-    <link href="https://www.nber.org/papers/w33401"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33400</id>
-    <title>Have We Got News For You: Firm-Level Evidence on the Optimal Choice of Expected Capacity Utilization</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Niklas Amberg, Richard Friberg &amp; Chad Syverson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using quarterly micro data on capacity utilization among Swedish manufacturing firms, we show that idiosyncratic factors are much more important than aggregate influences in explaining variation in capacity utilization across firms and over time. Idiosyncratic does not mean unpredictable, however. A simple newsvendor model of optimally set capacity predicts that higher demand uncertainty lowers capacity utilization, especially for high-markup firms. We test these predictions using data that contain firm-specific, forward-looking measures of uncertainty. Firms in the top of the uncertainty distribution on average have seven percentage points lower capacity utilization than firms in the bottom. The fall in capacity utilization is more than double for firms in the top rather than bottom tercile of the markup distribution.</content>
-    <link href="https://www.nber.org/papers/w33400"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33404</id>
-    <title>The Granular Origins of Inflation</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Santiago Alvarez-Blaser, Raphael Auer, Sarah M. Lein &amp; Andrei A. Levchenko</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses barcode-level price data for 16 advanced and emerging market countries over the period 2005–2022 to investigate the role of individual firms and product categories in aggregate inflation. We decompose inflation into the component due to macroeconomic shocks and the granular residuals capturing the impact of individual firms and product categories, respectively. In advanced economies, the firm granular residual accounts for 41% of the variance of overall inflation, while the product category granular residual accounts for another 15%. Most of the variation in the firm granular residual is due to idiosyncratic shocks rather than to higher sensitivity of larger firms to common shocks. In the cross-section of countries, granular residuals are less important in economies with less concentrated market shares and higher inflation, such as emerging markets. Lastly, granular residuals contributed to the post-COVID inflation surge, with the firm-level component accounting for roughly one-third of the 2021-2022 inflation in advanced economies.</content>
-    <link href="https://www.nber.org/papers/w33404"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33389</id>
-    <title>How Test Optional Policies in College Admissions Disproportionately Harm High Achieving Applicants from Disadvantaged Backgrounds</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Bruce Sacerdote, Douglas O. Staiger &amp; Michele Tine</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We find that test score optional policies harm the likelihood of elite college admission for high achieving applicants from disadvantaged backgrounds. We show that at one elite college campus, SAT (and ACT) scores predict first year college GPA equally well across income and other demographic groups; high school GPA and class rank offer little additional predictive power. Under test score optional policies, less advantaged applicants who are high achieving submit test scores at too low a rate, significantly reducing their admissions chances; such applicants increase their admissions probability by a factor of 3.6x (from 2.9 percent to 10.2 percent) when they report their scores. High achieving first-generation applicants raise admissions chances by 2.4x by reporting scores. Much more than commonly understood, elite institutions interpret test scores in the context of background, and availability of test scores on an application can promote rather than hinder social mobility.</content>
-    <link href="https://www.nber.org/papers/w33389"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33388</id>
-    <title>Is There Intersectional Labor Market Discrimination?</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joanne S. McLaughlin &amp; David Neumark</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present new and rich evidence on intersectional discrimination in labor markets, focusing on wages in the traditional residual wage differential approach to discrimination. We interpret “intersectional discrimination” in the framework of interactions, in which discrimination along two intersecting dimensions leads to discrimination that exceeds the sum of its parts. We make three contributions. First, we resolve puzzling contradictory findings on intersectional discrimination in existing research – with studies using similar data and methods reaching diametrically opposite conclusions. Second, we extend the analysis of potential intersectional discrimination to more dimensions than have typically been considered in past research. Third, we explore issues of bias in the wage equations we estimate from selection on employment. Our overall conclusion from these different types of evidence is that there is little or no evidence consistent with intersectional discrimination in wage differentials among the large set of groups (and combinations of groups) we study, and indeed most evidence points in the opposite direction.</content>
-    <link href="https://www.nber.org/papers/w33388"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33396</id>
-    <title>Bargaining and Inequality in the Labor Market</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sydnee Caldwell, Ingrid Haegele &amp; Jörg Heining</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use novel surveys of firms and workers, linked to administrative employer-employee data, to study the prevalence and importance of individual bargaining in wage determination. We show that simple survey questions accurately elicit firms’ bargaining strategies. Using the elicited strategies for 772 German firms, we document that the majority of firms are willing to engage in individual wage bargaining. Labor market factors predict firms’ strategies better than firm characteristics. Survey responses from nearly 10,000 full-time workers indicate that most worker-firm interactions begin with the worker providing their salary expectations. Most interactions end with the worker rejecting the offer and remaining at the incumbent firm. There is substantial heterogeneity in workers’ bargaining behavior, which translates into within-firm wage inequality. Firms that set pay via individual bargaining have a 3 percentage point higher gender wage gap.</content>
-    <link href="https://www.nber.org/papers/w33396"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33397</id>
-    <title>Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Paul L. E. Grieco, Charles Murry, Joris Pinkse &amp; Stephan Sagl</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a conformant likelihood estimator with exogeneity restrictions (CLEER) for random coefficients discrete choice demand models that is applicable in a broad range of data settings. It combines the likelihoods of two mixed logit estimators—one for consumer level data, and one for product level data—with product level exogeneity restrictions. Our estimator is both efficient and conformant: its rates of convergence will be the fastest possible given the variation available in the data.  The researcher does not need to pre-test or adjust the estimator and the inference procedure is valid across a wide variety of scenarios. Moreover, it can be tractably applied to large datasets. We illustrate the features of our estimator by comparing it to alternatives in the literature.</content>
-    <link href="https://www.nber.org/papers/w33397"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33382</id>
-    <title>The Impact of World War II Army Service on Income and Mobility in the 1960s by Ethnoracial Group</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sergio E. Barrera, Andreas Ferrara, Price V. Fishback &amp; Misty L. Heggeness</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the impact of World War II service on income and mobility among male Army and Army Airforce veterans from various racial and ethnic groups, using linked 1940 Census, WWII enlistment, and 1969 administrative tax return data. The dataset includes non-Hispanic White, Black, Hispanic, Asian, and Native American men, providing insight into underexplored groups. Ordinary Least Squares estimates indicate that, compared to non-Army men within their groups, Army veterans earned higher incomes and were less likely to migrate across counties between 1940 and 1969, particularly among non-Hispanic Whites, Blacks, and Hispanics. To address potential selection bias, we applied a fuzzy regression discontinuity design, comparing men just eligible for service to those slightly too young. These estimates revealed that, in 1969, Army veterans generally had lower adjusted gross incomes than non-Army counterparts among non-Hispanic Whites, Blacks, and Asians, while Hispanic and Native American veterans earned slightly more. Income effects varied by type of income. Veterans also showed lower rates of county migration, particularly among non-Hispanic Whites, Asians, and Native Americans. Migration differences were minor for Blacks and Hispanics. These findings highlight nuanced outcomes of WWII service across diverse racial and ethnic groups.</content>
-    <link href="https://www.nber.org/papers/w33382"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33381</id>
-    <title>Does Old Age Social Security Help Children? The Impact of Social Security on Grandchild Resources</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Lucie Schmidt, Lara Shore-Sheppard &amp; Tara Watson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Though Social Security is typically considered a program to support retirees, nearly one in ten children live in a home with Social Security income. Children are substantially more likely to live with an older adult than they were two decades ago, and they are twice as likely to report Social Security income in their household as traditional cash welfare. We use the sharp increase in eligibility for Social Security benefits at age 62 to investigate the role played by the Social Security program in childhood economic resources among children who live with their grandparents. We do not find that Social Security eligibility increases household income on average, but it is associated with a shift towards Social Security income and reductions in deep poverty. We also see increased availability of household members’ time for home production.</content>
-    <link href="https://www.nber.org/papers/w33381"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33393</id>
-    <title>Winning the Bread and Baking it Too: Gendered Frictions in the Allocation of Home Production</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kyle Hancock, Jeanne Lafortune &amp; Corinne Low</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We document that female breadwinners do more home production than their male partners, driven by “housework” like cooking and cleaning. By comparing to same sex couples, we highlight that specialization within heterosexual households does not appear to be “gender neutral” even after accounting for average earnings differences. One possible explanation would be a large comparative advantage in housework by women, a supposition commonly used to match aggregate labor supply statistics. Using a model, we show that while comparative advantage can match some stylized facts about how couples divide housework, it fails to match others, particularly that men’s housework time is inelastic to relative household wages. Matching these facts requires some gendered wedge between the opportunity cost of housework time and its assignment within the household. We then turn to the implications for household formation. Gendered rigidities in the allocation of household tasks result in lower surplus for couples where women out-earn men than vice versa, providing a micro-founded reason for substantial literature showing that lower relative earning by men decreases marriage rates. We show that our mechanism—allocation of housework, rather than norms about earnings—plays a role by relating marriage rates to the ratio of home production time in US immigrants’ countries of origin.</content>
-    <link href="https://www.nber.org/papers/w33393"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33385</id>
-    <title>Fiscal Progressivity of the U.S. Federal and State Governments</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Johannes Fleck, Jonathan Heathcote, Kjetil Storesletten &amp; Giovanni L. Violante</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Combining a variety of survey and administrative data, this paper measures the progressivity of taxes and transfers at the U.S. federal level and separately for each state. The findings are as follows. (i) The federal tax and transfer system is progressive. (ii) State and local tax and transfer systems are close to proportional, on average. (iii) There is substantial heterogeneity in tax levels and tax progressivity across states. (iv) States that are funded mostly by sales and property taxes tend to have regressive tax systems and low average tax rates. States that are funded mostly by income taxes tend to have progressive tax systems and high average tax rates. (v) Regressive states are concentrated in the South and attract more inter-state net migration, especially of high-income migrants. (vi) State progressivity has remained broadly stable between 2005 and 2016. (vii) Incorporating corporate income and business taxes decreases average state progressivity but increases federal progressivity. (viii) Including spending on public goods and services as a transfer has a large positive impact on measured progressivity.</content>
-    <link href="https://www.nber.org/papers/w33385"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33384</id>
-    <title>Rationalizing Firm Forecasts</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas Bloom, Mihai A. Codreanu &amp; Robert A. Fletcher</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We partner with a large US payment-processing company to run a 5-year, 10 wave panel survey of incentivized quarterly sales forecasts on over 6,000 firms. We match firm predictions to proprietary revenue data to assess accuracy. We find firms forecast poorly, with issues of inaccuracy, over-optimism, predictable errors and over-precision. To assess the causes of these forecasting issues we run experiments on: (i) data use, (ii) incentives, (iii) forecasting skill, and (iv) contingent thinking. We find greater data use primarily decreases noise and reduces over-precision, while higher incentives moderate over-optimism. Both moderately increase accuracy. The other two treatments have no impact. These results suggest forecasting biases can be reduced but are hard to eliminate. In a simple simulation model, we show these biases change firm responsiveness to changes in taxes and productivity, highlighting their macro importance.</content>
-    <link href="https://www.nber.org/papers/w33384"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33383</id>
-    <title>Home Sweet Home: How Much Do Employees Value Remote Work?</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Zoe B. Cullen, Bobak Pakzad-Hurson &amp; Ricardo Perez-Truglia</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the value employees place on remote work using revealed preferences in a high-stakes, real-world context, focusing on U.S. tech workers. On average, employees are willing to accept a 25% pay cut for partly or fully remote roles. Our estimates are three to five times that of previous studies. We attribute this discrepancy partly to methodological differences, suggesting that existing methods may understate preferences for remote work. Because of the strong preference for remote work, we expected to find a compensating wage differential, with remote positions offering lower compensation than otherwise identical in-person positions. However, using novel data on salaries for tech jobs, we reject that hypothesis. We propose potential explanations for this puzzle, including optimization frictions and worker sorting.</content>
-    <link href="https://www.nber.org/papers/w33383"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33414</id>
-    <title>The Targeting of Place-Based Policies: The New Markets Tax Credit Versus Opportunity Zones</title>
+    <id>https://www.nber.org/papers/w33439</id>
+    <title>The Role of Physician Altruism in the Physician-Industry Relationship: Evidence from Linking Experimental and Observational Data</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Kevin Corinth, David Coyne, Naomi E. Feldman &amp; Craig Johnson</name>
+      <name>Shan Huang, Jing Li &amp; Anirban Basu</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;For a place-based policy to succeed, it must target the right areas—typically those with lower economic development and resident well-being. The U.S. has two major place-based tax policies: the New Markets Tax Credit (NMTC), where government approved entities select investments, and Opportunity Zones (OZs), where private investors choose projects. Despite underlying design differences, both target census tracts with relatively high poverty rates, low median income and weak labor markets. However, OZs tend to attract more investment in areas with higher pre-existing private investment, often located in prosperous counties and high-growth regions. Census tracts lacking investment from either program generally have less private investment, lower home value growth, and lower population growth, suggesting that additional policies may be needed to reach areas less primed for investment.</content>
-    <link href="https://www.nber.org/papers/w33414"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Altruism is a key component of medical professionalism that underlies the physician's role as a representative agent for patients. However, physician behavior can be influenced when private gains enter the objective function. We study the relationship between altruism and physicians' receipt of financial benefits from pharmaceutical manufacturers, as well as the extent to which altruism mitigates physicians' responsiveness to these industry payments. We link data on altruistic preferences for 280 physicians, identified using a revealed preference economic experiment, with administrative information on their receipt of financial transfers from pharmaceutical firms along with drug prescription claims data. Non-altruistic physicians receive industry transfers that are on average 2,184 USD or 254% higher than altruistic physicians. While industry transfers lead to higher drug spending and prescribing on paid drugs, these relationships are entirely driven by non-altruistic physicians. Our results indicate that altruism is an important determinant of physicians’ relationships with and responses to industry benefits.</content>
+    <link href="https://www.nber.org/papers/w33439"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33428</id>
-    <title>A Bayesian Assessment of the Origins of COVID-19 using Spatiotemporal and Zoonotic Data</title>
+    <id>https://www.nber.org/papers/w33423</id>
+    <title>Monetary Policy Predicts Currency Movements</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Andrew T. Levin</name>
+      <name>Söhnke M. Bartram, Mark Grinblatt &amp; Yan Xu</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses Bayesian methods in conjunction with spatiotemporal and zoonotic data to evaluate the odds ratio for two hypotheses regarding the origin of the COVID-19 pandemic, namely, an accidental laboratory leak of a chimera virus or the transmission of a natural virus from an infected wildlife mammal. The overall Bayes factor is decomposed into 4 components: (1) the odds that the outbreak would occur in the People’s Republic of China (PRC); (2) the odds that the outbreak would occur in Wuhan, conditional on its location in PRC; (3) the odds of observing the spatiotemporal pattern of confirmed COVID-19 cases with no known link to the specific wholesale market where wildlife mammals were being sold, conditional on the outbreak taking place in Wuhan; and (4) the odds of observing the spatiotemporal pattern of confirmed vendor cases at that market, conditional on the outbreak taking place in Wuhan. These four conditional Bayes factors are estimated as 2.3:1, 20:1, 27:1, and 12:1, respectively, and hence the overall odds ratio is 14,900:1, indicating overwhelming evidence in favor of the hypothesis that the pandemic resulted from an accidental lab leak. This conclusion is robust to alternative specifications of the detailed statistical analysis.</content>
-    <link href="https://www.nber.org/papers/w33428"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The relative restrictiveness of a central bank’s supply of money predicts the raw and risk-adjusted returns of its currency—both next month and at least three years into the future. Archived data, known by currency traders at the time, estimates central bank restrictiveness as a scaling of the residual from out-of-sample panel regressions of M1 on macroeconomic variables tied to domestic and international transaction requirements. Carry’s ability to forecast currency returns is subsumed by the central bank restrictiveness signal, which also forecasts inflation.</content>
+    <link href="https://www.nber.org/papers/w33423"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33429</id>
-    <title>Health Insurance as Economic Stimulus? Evidence from Long-Term Care Jobs</title>
+    <id>https://www.nber.org/papers/w33422</id>
+    <title>Causes and Extent of Increasing Partisan Segregation in the U.S. – Evidence from Migration Patterns of 212 Million Voters</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Martin B. Hackmann, Jörg Heining, Roman Klimke, Maria Polyakova &amp; Holger Seibert</name>
+      <name>Jacob R. Brown, Enrico Cantoni, Ryan Enos, Vincent Pons &amp; Emilie Sartre</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We leverage decades of administrative data and quasi-experimental variation in the introduction of universal long-term care (LTC) insurance in Germany in 1995 to examine whether health insurance expansions can stimulate local economies. We find that the LTC insurance rollout led not only to sizeable growth of the target LTC sector, but also to an aggregate fall in unemployment and an increase in the labor force participation. Quantitatively, a 10 percentage point increase in the share of insured LTC patients led to 4 more nursing home workers per 1,000 individuals age 65 and older (12% increase). Wages did not rise in the LTC sector or other sectors of the economy. The quality of newly hired nursing home workers declined, but this had no negative effect on old-age life expectancy. Overall, the insurance expansion brought lower-skilled workers into new jobs rather than reallocating workers away from other productive sectors. Our marginal value of public funds (MVPF) analysis suggests that the reform paid for itself when taking the positive fiscal externalities in the labor market into account. To understand which market primitives underpin our findings and to inform the external validity of our results, we develop and estimate a general model of labor markets with product-market subsidies in the presence of wedges, such as income taxes. Our model simulations show that the aggregate welfare effects of insurance expansions are theoretically ambiguous and depend centrally on the magnitude of frictions in input markets.</content>
-    <link href="https://www.nber.org/papers/w33429"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using data on the residential location and migration for every voter in U.S. states recording partisan registration between 2008–2020, we find that residential segregation between Democrats and Republicans has increased year over year at all geographic levels, from neighborhoods to Congressional Districts. Individual demographic information reveals that segregation increases for voters of most demographic backgrounds, but that Democratic and Republican trending places have starkly different demographic profiles, thus contributing to the growing confluence of demographics, partisanship, and geography in the United States. We further decompose the change in segregation into different sources. Increases in segregation have not been driven primarily by migration but rather by generational change, as young voters enter the electorate, causing some places to become more homogeneously Democratic, and by existing voters leaving the Democratic party and causing other places to become more Republican.</content>
+    <link href="https://www.nber.org/papers/w33422"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33424</id>
-    <title>Places versus People: The Ins and Outs of Labor Market Adjustment to Globalization</title>
+    <id>https://www.nber.org/papers/w33408</id>
+    <title>Housing Subsidies for Refugees: Experimental Evidence on Life Outcomes and Social Integration in Jordan</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>David Autor, David Dorn, Gordon H. Hanson, Maggie R. Jones &amp; Bradley Setzler</name>
+      <name>Abdulrazzak Tamim ⓡ Emma C. Smith ⓡ Bailey Palmer ⓡ Edward Miguel ⓡ Samuel Leone ⓡ Sandra V. Rozo ⓡ Sarah Stillman</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter analyzes the distinct adjustment paths of U.S. labor markets (places) and U.S. workers (people) to increased Chinese import competition during the 2000s. Using comprehensive register data for 2000–2019, we document that employment levels more than fully rebound in trade-exposed places after 2010, while employment-to-population ratios remain depressed and manufacturing employment further atrophies. The adjustment of places to trade shocks is generational: affected areas recover primarily by adding workers to non-manufacturing who were below working age when the shock occurred. Entrants are disproportionately native-born Hispanics, foreign-born immigrants, women, and the college-educated, who find employment in relatively low-wage service sectors such as medical services, education, retail, and hospitality. Using the panel structure of the employer-employee data, we decompose changes in the employment composition of places into trade-induced shifts in the gross flows of people across sectors, locations, and non-employment status. Contrary to standard models, trade shocks reduce geographic mobility, with both in- and out-migration remaining depressed through 2019. The employment recovery stems almost entirely from young adults and foreign-born immigrants taking their first U.S. jobs in affected areas, with minimal contributions from cross-sector transitions of former manufacturing workers. Although worker inflows into non-manufacturing more than fully offset manufacturing employment losses in trade-exposed locations after 2010, incumbent workers neither fully recover earnings losses nor predominantly exit the labor market, but rather age in place as communities undergo rapid demographic and industrial transitions.</content>
-    <link href="https://www.nber.org/papers/w33424"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Refugees require assistance for basic needs like housing but local host communities may feel excluded from that assistance, potentially affecting community relations. This study experimentally evaluates the effect of a housing assistance program for Syrian refugees in Jordan on both the recipients and their neighbors. The program offered full rental subsidies and landlord incentives for housing improvements, but saw only moderate uptake, in part due to landlord reluctance. The program improved short-run housing quality and lowered housing expenditures, but did not yield sustained economic benefits, partly due to redistribution of aid. The program unexpectedly led to a deterioration in child socio-emotional well-being, and also strained relations between Jordanian neighbors and refugees. In all, housing subsidies had limited measurable benefits for refugee well-being while worsening social cohesion, highlighting the possible need for alternative forms of aid.</content>
+    <link href="https://www.nber.org/papers/w33408"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33427</id>
-    <title>The Long-Run Effects of America's Largest Residential Racial Desegregation Program: Gautreaux</title>
+    <id>https://www.nber.org/papers/w33405</id>
+    <title>Does the Gender Wage Gap Actually Reflect Taste Discrimination Against Women?</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Eric Chyn, Robert Collinson &amp; Danielle H. Sandler</name>
+      <name>Molly Maloney &amp; David Neumark</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the effects of the largest residential racial desegregation initiative in U.S. history, the Gautreaux Assisted Housing Program. From the late 1970s to the 1990s, Gautreaux moved thousands of Black families into predominantly white neighborhoods to support racial and economic integration. We link historical program records to administrative data and use plausibly exogenous variation in neighborhood placements to study how desegregating moves impact children in the long-run. Being placed in the predominantly white neighborhoods targeted by the program significantly increases children’s future lifetime earnings and wealth. These moves also increase the likelihood of marriage and particularly raise the probability of being married to a white spouse. Moreover, placements through Gautreaux impact neighborhood choices in adulthood. Those placed in predominantly white neighborhoods during childhood live in more racially diverse areas with higher rates of upward mobility nearly 40 years later.</content>
-    <link href="https://www.nber.org/papers/w33427"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One explanation of the gender wage gap is taste discrimination, as in Becker (1957). We test for taste discrimination by constructing a novel measure of misogyny using Google Trends data on searches that include derogatory terms for women. We find—surprisingly, in our view—that misogyny is an economically meaningful and statistically significant predictor of the wage gap. We also test more explicit implications of taste discrimination. The data are inconsistent with the Becker taste discrimination model, based on the tests used in Charles and Guryan (2008). But the data are consistent with the effects of taste discrimination against women in search models (Black, 1995), in which discrimination on the part of even a small group of misogynists can result in a wage gap.</content>
+    <link href="https://www.nber.org/papers/w33405"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33426</id>
-    <title>Trade Policy, Exchange Rates, and the Globalization Surge of the 1990s</title>
+    <id>https://www.nber.org/papers/w33418</id>
+    <title>Do Place-Based Industrial Interventions Help "Left-Behind" Workers? Lessons from WWII and Beyond</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Douglas A. Irwin</name>
+      <name>Andrew Garin</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The decision by developing countries to open up their economies to foreign trade and investment in the 1980s and 1990s was a momentous event in world history. How and why did this trade policy revolution take place? Most accounts of trade politics stress domestic interest groups or trade agreements as driving policy changes, but these explanations fail in this period. This paper notes that many import restrictions were imposed for balance of payments purposes, as a way of avoiding a devaluation and protecting foreign exchange reserves from depletion under fixed exchange rates. A shortage of foreign exchange in the mid-1980s led countries, under the guidance of economists, to adopt more flexible exchange rate arrangements that boosted export earnings and made import controls unnecessary for payments balance. Like during the Great Depression, the exchange rate regime was a key factor behind a country’s trade policy.</content>
-    <link href="https://www.nber.org/papers/w33426"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Place-based industrial interventions—policies that promote production and investment in specific regions—are often proposed with the intent of improving economic conditions for residents, particularly "left-behind" workers in distressed local labor markets. This chapter discusses the theoretical rationale for the use of industrial interventions to achieve distributional goals and evidence about their effectiveness to that end. I use government-funded plant construction during World War II (WWII) in the United States as a focal case study, which I then compare and contrast to other industrial interventions studied in the literature. While government plant construction during WWII drove an expansion of high-wage semi-skilled jobs open to local residents, which in turn fueled an increase in upward mobility among local residents, the evidence from more recent interventions suggests that modern plant sitings often fail to yield similar benefits to local workers. The implementation details of industrial interventions matter crucially for their incidence on local workers. Interventions that generate opportunities for up-skilling and occupational advancement accessible to target populations appear to be most likely to generate meaningful distributional benefits. I argue that while core production goals during WWII happened to inherently align with the promotion of upward mobility, such alignment is not guaranteed in general and may be the exception rather than the rule in modern contexts.</content>
+    <link href="https://www.nber.org/papers/w33418"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -903,30 +903,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economic activity, when sufficiently ambitious, requires motivating and coordinating individuals to work toward a common goal. These aims are the purview of managers. What, however, do managers actually do? We outline three defining principles of economic research on managers and relate them to the set of skills reported by managers on LinkedIn. We highlight “managers of people” and “managers of projects” as a useful distinction for categorizing theoretical, empirical, and descriptive accounts of managers. In light of our three principles, we review research on how managers can create value— namely, by hiring, retaining, training, monitoring, evaluating, allocating, and supervising. We propose that managers apply these skills in different proportions depending on the production technology in which they are embedded and that research on managers should seek to produce generalizable insights by exploring managers’ contributions in different contexts.</content>
     <link href="https://www.nber.org/papers/w33431"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33430</id>
-    <title>Education and Dementia Risk</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Silvia H. Barcellos, Leandro Carvalho, Kenneth Langa, Sneha Nimmagadda &amp; Patrick Turley</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;There is little causal evidence on factors that can protect individuals against Alzheimer’s Disease and Related Dementias (ADRD) risk. We study the causal effect of education on ADRD, exploiting a regression discontinuity generated by a compulsory schooling reform. ADRD was ascertained based on medical history, hospital records, and death registries, addressing concerns about selective sample attrition. We find that education reduces incidence of ADRD and may delay its onset. Using molecular genetic data, we show that the reform weakened the relationship between genetics and ADRD incidence, implying this genetic risk is not immutable and can be modified by social policy.</content>
-    <link href="https://www.nber.org/papers/w33430"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33439</id>
-    <title>The Role of Physician Altruism in the Physician-Industry Relationship: Evidence from Linking Experimental and Observational Data</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Shan Huang, Jing Li &amp; Anirban Basu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Altruism is a key component of medical professionalism that underlies the physician's role as a representative agent for patients. However, physician behavior can be influenced when private gains enter the objective function. We study the relationship between altruism and physicians' receipt of financial benefits from pharmaceutical manufacturers, as well as the extent to which altruism mitigates physicians' responsiveness to these industry payments. We link data on altruistic preferences for 280 physicians, identified using a revealed preference economic experiment, with administrative information on their receipt of financial transfers from pharmaceutical firms along with drug prescription claims data. Non-altruistic physicians receive industry transfers that are on average 2,184 USD or 254% higher than altruistic physicians. While industry transfers lead to higher drug spending and prescribing on paid drugs, these relationships are entirely driven by non-altruistic physicians. Our results indicate that altruism is an important determinant of physicians’ relationships with and responses to industry benefits.</content>
-    <link href="https://www.nber.org/papers/w33439"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -979,146 +955,38 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33435</id>
-    <title>Leveraged Payouts: How Using New Debt to Pay Returns in Private Equity Affects Firms, Employees, Creditors, and Investors</title>
+    <id>https://www.nber.org/papers/w33430</id>
+    <title>Education and Dementia Risk</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Abhishek Bhardwaj, Abhinav Gupta &amp; Sabrina T. Howell</name>
+      <name>Silvia H. Barcellos, Leandro Carvalho, Kenneth Langa, Sneha Nimmagadda &amp; Patrick Turley</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the causal effect of a large increase in firm leverage. Our setting is dividend recapitalizations in private equity (PE), where portfolio companies take on new debt to pay investor returns. After accounting for positive selection into more debt, we show that large leverage increases make firms much riskier, dramatically raising exit and bankruptcy rates but also IPOs. The debt-bankruptcy relationship is in line with Altman-Z model predictions for private firms. Dividend recapitalizations increase deal returns but reduce: (a) wages among surviving firms; (b) pre-existing loan prices; and (c) fund returns, which seems to reflect moral hazard via new fundraising. These results suggest negative implications for employees, pre-existing creditors, and investors.</content>
-    <link href="https://www.nber.org/papers/w33435"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;There is little causal evidence on factors that can protect individuals against Alzheimer’s Disease and Related Dementias (ADRD) risk. We study the causal effect of education on ADRD, exploiting a regression discontinuity generated by a compulsory schooling reform. ADRD was ascertained based on medical history, hospital records, and death registries, addressing concerns about selective sample attrition. We find that education reduces incidence of ADRD and may delay its onset. Using molecular genetic data, we show that the reform weakened the relationship between genetics and ADRD incidence, implying this genetic risk is not immutable and can be modified by social policy.</content>
+    <link href="https://www.nber.org/papers/w33430"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33433</id>
-    <title>Minimum Wage Laws and Job Search</title>
+    <id>https://www.nber.org/papers/w33429</id>
+    <title>Health Insurance as Economic Stimulus? Evidence from Long-Term Care Jobs</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Vitor C. Melo, Christopher Kaiser, David Neumark, Liya Palagashvili &amp; Michael D. Farren</name>
+      <name>Martin B. Hackmann, Jörg Heining, Roman Klimke, Maria Polyakova &amp; Holger Seibert</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large theoretical literature on job search predicts that a higher minimum wage will increase the number of job seekers for affected jobs, which can lead to more job creation and higher employment. This paper uses novel data on job search in all U.S. states to examine the effect of minimum wage increases on the number of job seekers for low-skilled positions. We find no evidence that higher minimum wages increase job search for low-skilled jobs. Instead, the evidence suggests that higher minimum wages decrease the number of workers seeking employment.</content>
-    <link href="https://www.nber.org/papers/w33433"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We leverage decades of administrative data and quasi-experimental variation in the introduction of universal long-term care (LTC) insurance in Germany in 1995 to examine whether health insurance expansions can stimulate local economies. We find that the LTC insurance rollout led not only to sizeable growth of the target LTC sector, but also to an aggregate fall in unemployment and an increase in the labor force participation. Quantitatively, a 10 percentage point increase in the share of insured LTC patients led to 4 more nursing home workers per 1,000 individuals age 65 and older (12% increase). Wages did not rise in the LTC sector or other sectors of the economy. The quality of newly hired nursing home workers declined, but this had no negative effect on old-age life expectancy. Overall, the insurance expansion brought lower-skilled workers into new jobs rather than reallocating workers away from other productive sectors. Our marginal value of public funds (MVPF) analysis suggests that the reform paid for itself when taking the positive fiscal externalities in the labor market into account. To understand which market primitives underpin our findings and to inform the external validity of our results, we develop and estimate a general model of labor markets with product-market subsidies in the presence of wedges, such as income taxes. Our model simulations show that the aggregate welfare effects of insurance expansions are theoretically ambiguous and depend centrally on the magnitude of frictions in input markets.</content>
+    <link href="https://www.nber.org/papers/w33429"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33413</id>
-    <title>Climate Transition Risks and the Energy Sector</title>
+    <id>https://www.nber.org/papers/w33424</id>
+    <title>Places versus People: The Ins and Outs of Labor Market Adjustment to Globalization</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Viral V. Acharya, Stefano Giglio, Stefano Pastore, Johannes Stroebel, Zhenhao Tan &amp; Tiffany Yong</name>
+      <name>David Autor, David Dorn, Gordon H. Hanson, Maggie R. Jones &amp; Bradley Setzler</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a general equilibrium model to study how climate transition risks affect energy prices and the valuations of different firms in the energy sector. We consider two types of fossil fuel firms: incumbents that have developed oil reserves they can extract today or tomorrow, and new entrants that must invest in exploration and drilling today to have reserves to potentially extract tomorrow. There are also renewable energy firms that produce emission-free energy but cannot currently serve non-electrifiable sectors of the economy. We analyze three sources of climate transition risk: (i) changes in the probability of a technological breakthrough that allows renewable energy firms to serve all economic sectors; (ii) changes in expected future taxes on carbon emissions; and (iii) restrictions on today's development of additional fossil fuel production capacity. We show that different transition risks—and, importantly, uncertainty about their realizations—have distinct effects on firms' decisions, on their valuations, and on equilibrium energy prices. We provide empirical support for the heterogeneous effects of different transition risks on energy prices and stock returns of firms in different energy sub-sectors.</content>
-    <link href="https://www.nber.org/papers/w33413"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33410</id>
-    <title>Sources of Market Power in Web Search: Evidence from a Field Experiment</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Hunt Allcott, Juan Camilo Castillo, Matthew Gentzkow, Leon Musolff &amp; Tobias Salz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We evaluate the economic forces that contribute to Google’s large market share in web search. We develop a model of search engine demand in which consumer choices are influenced by switching costs, quality beliefs, and inattention, and estimate it using a field experiment with US desktop internet users. We find that (i) requiring Google users to make an active choice among search engines increases Bing’s market share by only 1.1 percentage points, implying that switching costs play a limited role; (ii) Google users who accept our payment to try Bing for two weeks update positively about its relative quality, with 33 percent preferring to continue using it; and (iii) after changing the default from Google to Bing, many users do not switch back, consistent with persistent inattention. In our model, correcting beliefs and removing choice frictions would increase Bing’s market share by 15 percentage points and increase consumer surplus by $6 per consumer-year. Policies that expose users to alternative search engines lower Google’s market share more than those requiring active choice. We then use Microsoft search logs to assess the impact of additional data on search result relevance. The results suggest that sharing Google’s click-and-query data with Microsoft may have a limited effect on market shares.</content>
-    <link href="https://www.nber.org/papers/w33410"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33407</id>
-    <title>The Evolution of Unobserved Skill Returns in the U.S.: A New Approach Using Panel Data</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Lance Lochner, Youngmin Park &amp; Youngki Shin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economists disagree about the factors driving the substantial increase in residual wage inequality in the US over the past few decades. To identify changes in the returns to unobserved skills, we make a novel assumption about the dynamics of skills rather than about the stability of skill distributions across cohorts, as is standard. We show that our assumption is supported by data on test score dynamics for older workers in the HRS. Using survey data from the PSID and administrative data from the IRS and SSA, we estimate that the returns to unobserved skills declined substantially in the late-1980s and 1990s despite an increase in residual inequality. Accounting for firm-specific pay differences yields similar results. Extending our framework to consider occupational differences in returns to skill and multiple unobserved skills, we further show that skill returns display similar patterns for workers employed in each of cognitive, routine, and social occupations. Finally, our results suggest that increasing skill dispersion, driven by rising skill volatility, explains most of the growth in residual wage inequality since the 1980s.</content>
-    <link href="https://www.nber.org/papers/w33407"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33409</id>
-    <title>Environmental Migration and Race during the Great American Drought, 1935-1940</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Sichko, Ariell Zimran &amp; Aparna Howlader</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study racial differences in internal migration responses to one of the most severe climatic shocks in US history—the drought of the 1930s. Using data from the 1940 census on 65 million adults, we find that individuals exposed to more severe drought between 1935 and 1940 were more likely to make an inter-county move and that this responsiveness was greater for black individuals than white individuals. This racial difference was particularly pronounced among the rural population. Black individuals' migration premium came despite their systematic disadvantage in the economy of the 1930s and evidence along dimensions other than race that disadvantage limited individuals' ability to adapt to the drought through migration. Federal relief spending under the Agricultural Adjustment Act (AAA) magnified this racial difference, reducing the migration response to drought for white individuals and increasing it for black individuals. These results help to better understand how the reaction of different groups aggregate to determine the magnitude and composition of migration responses to natural disasters, as well as the roles of migration and government policy in disadvantaged groups' responses to natural disasters.</content>
-    <link href="https://www.nber.org/papers/w33409"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33408</id>
-    <title>Housing Subsidies for Refugees: Experimental Evidence on Life Outcomes and Social Integration in Jordan</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Abdulrazzak Tamim ⓡ Emma C. Smith ⓡ Bailey Palmer ⓡ Edward Miguel ⓡ Samuel Leone ⓡ Sandra V. Rozo ⓡ Sarah Stillman</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Refugees require assistance for basic needs like housing but local host communities may feel excluded from that assistance, potentially affecting community relations. This study experimentally evaluates the effect of a housing assistance program for Syrian refugees in Jordan on both the recipients and their neighbors. The program offered full rental subsidies and landlord incentives for housing improvements, but saw only moderate uptake, in part due to landlord reluctance. The program improved short-run housing quality and lowered housing expenditures, but did not yield sustained economic benefits, partly due to redistribution of aid. The program unexpectedly led to a deterioration in child socio-emotional well-being, and also strained relations between Jordanian neighbors and refugees. In all, housing subsidies had limited measurable benefits for refugee well-being while worsening social cohesion, highlighting the possible need for alternative forms of aid.</content>
-    <link href="https://www.nber.org/papers/w33408"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33405</id>
-    <title>Does the Gender Wage Gap Actually Reflect Taste Discrimination Against Women?</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Molly Maloney &amp; David Neumark</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One explanation of the gender wage gap is taste discrimination, as in Becker (1957). We test for taste discrimination by constructing a novel measure of misogyny using Google Trends data on searches that include derogatory terms for women. We find—surprisingly, in our view—that misogyny is an economically meaningful and statistically significant predictor of the wage gap. We also test more explicit implications of taste discrimination. The data are inconsistent with the Becker taste discrimination model, based on the tests used in Charles and Guryan (2008). But the data are consistent with the effects of taste discrimination against women in search models (Black, 1995), in which discrimination on the part of even a small group of misogynists can result in a wage gap.</content>
-    <link href="https://www.nber.org/papers/w33405"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33418</id>
-    <title>Do Place-Based Industrial Interventions Help "Left-Behind" Workers? Lessons from WWII and Beyond</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andrew Garin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Place-based industrial interventions—policies that promote production and investment in specific regions—are often proposed with the intent of improving economic conditions for residents, particularly "left-behind" workers in distressed local labor markets. This chapter discusses the theoretical rationale for the use of industrial interventions to achieve distributional goals and evidence about their effectiveness to that end. I use government-funded plant construction during World War II (WWII) in the United States as a focal case study, which I then compare and contrast to other industrial interventions studied in the literature. While government plant construction during WWII drove an expansion of high-wage semi-skilled jobs open to local residents, which in turn fueled an increase in upward mobility among local residents, the evidence from more recent interventions suggests that modern plant sitings often fail to yield similar benefits to local workers. The implementation details of industrial interventions matter crucially for their incidence on local workers. Interventions that generate opportunities for up-skilling and occupational advancement accessible to target populations appear to be most likely to generate meaningful distributional benefits. I argue that while core production goals during WWII happened to inherently align with the promotion of upward mobility, such alignment is not guaranteed in general and may be the exception rather than the rule in modern contexts.</content>
-    <link href="https://www.nber.org/papers/w33418"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33331</id>
-    <title>HANK's Response to Aggregate Uncertainty in an Estimated Business Cycle Model</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Cosmin L. Ilut, Ralph Luetticke &amp; Martin Schneider</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies a HANK model with agents who respond to both idiosyncratic and aggregate uncertainty. Since aggregate uncertainty is modeled as ambiguity, it affects the steady state and linearized dynamics, allowing for fast computation and estimation. The interaction of aggregate uncertainty shocks and portfolio frictions generates a high capital premium as well as most cyclical comovement in macroeconomic aggregates. Heterogeneity in portfolios is crucial: when it is shut down, the model fails to explain investment dynamics and the capital premium disappears. Cautious price and wage setting by firms in anticipation of aggregate uncertainty shapes employment and inflation dynamics.</content>
-    <link href="https://www.nber.org/papers/w33331"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33423</id>
-    <title>Monetary Policy Predicts Currency Movements</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Söhnke M. Bartram, Mark Grinblatt &amp; Yan Xu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The relative restrictiveness of a central bank’s supply of money predicts the raw and risk-adjusted returns of its currency—both next month and at least three years into the future. Archived data, known by currency traders at the time, estimates central bank restrictiveness as a scaling of the residual from out-of-sample panel regressions of M1 on macroeconomic variables tied to domestic and international transaction requirements. Carry’s ability to forecast currency returns is subsumed by the central bank restrictiveness signal, which also forecasts inflation.</content>
-    <link href="https://www.nber.org/papers/w33423"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33422</id>
-    <title>Causes and Extent of Increasing Partisan Segregation in the U.S. – Evidence from Migration Patterns of 212 Million Voters</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jacob R. Brown, Enrico Cantoni, Ryan Enos, Vincent Pons &amp; Emilie Sartre</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using data on the residential location and migration for every voter in U.S. states recording partisan registration between 2008–2020, we find that residential segregation between Democrats and Republicans has increased year over year at all geographic levels, from neighborhoods to Congressional Districts. Individual demographic information reveals that segregation increases for voters of most demographic backgrounds, but that Democratic and Republican trending places have starkly different demographic profiles, thus contributing to the growing confluence of demographics, partisanship, and geography in the United States. We further decompose the change in segregation into different sources. Increases in segregation have not been driven primarily by migration but rather by generational change, as young voters enter the electorate, causing some places to become more homogeneously Democratic, and by existing voters leaving the Democratic party and causing other places to become more Republican.</content>
-    <link href="https://www.nber.org/papers/w33422"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter analyzes the distinct adjustment paths of U.S. labor markets (places) and U.S. workers (people) to increased Chinese import competition during the 2000s. Using comprehensive register data for 2000–2019, we document that employment levels more than fully rebound in trade-exposed places after 2010, while employment-to-population ratios remain depressed and manufacturing employment further atrophies. The adjustment of places to trade shocks is generational: affected areas recover primarily by adding workers to non-manufacturing who were below working age when the shock occurred. Entrants are disproportionately native-born Hispanics, foreign-born immigrants, women, and the college-educated, who find employment in relatively low-wage service sectors such as medical services, education, retail, and hospitality. Using the panel structure of the employer-employee data, we decompose changes in the employment composition of places into trade-induced shifts in the gross flows of people across sectors, locations, and non-employment status. Contrary to standard models, trade shocks reduce geographic mobility, with both in- and out-migration remaining depressed through 2019. The employment recovery stems almost entirely from young adults and foreign-born immigrants taking their first U.S. jobs in affected areas, with minimal contributions from cross-sector transitions of former manufacturing workers. Although worker inflows into non-manufacturing more than fully offset manufacturing employment losses in trade-exposed locations after 2010, incumbent workers neither fully recover earnings losses nor predominantly exit the labor market, but rather age in place as communities undergo rapid demographic and industrial transitions.</content>
+    <link href="https://www.nber.org/papers/w33424"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -1183,6 +1051,66 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33435</id>
+    <title>Leveraged Payouts: How Using New Debt to Pay Returns in Private Equity Affects Firms, Employees, Creditors, and Investors</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Abhishek Bhardwaj, Abhinav Gupta &amp; Sabrina T. Howell</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the causal effect of a large increase in firm leverage. Our setting is dividend recapitalizations in private equity (PE), where portfolio companies take on new debt to pay investor returns. After accounting for positive selection into more debt, we show that large leverage increases make firms much riskier, dramatically raising exit and bankruptcy rates but also IPOs. The debt-bankruptcy relationship is in line with Altman-Z model predictions for private firms. Dividend recapitalizations increase deal returns but reduce: (a) wages among surviving firms; (b) pre-existing loan prices; and (c) fund returns, which seems to reflect moral hazard via new fundraising. These results suggest negative implications for employees, pre-existing creditors, and investors.</content>
+    <link href="https://www.nber.org/papers/w33435"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33433</id>
+    <title>Minimum Wage Laws and Job Search</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Vitor C. Melo, Christopher Kaiser, David Neumark, Liya Palagashvili &amp; Michael D. Farren</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large theoretical literature on job search predicts that a higher minimum wage will increase the number of job seekers for affected jobs, which can lead to more job creation and higher employment. This paper uses novel data on job search in all U.S. states to examine the effect of minimum wage increases on the number of job seekers for low-skilled positions. We find no evidence that higher minimum wages increase job search for low-skilled jobs. Instead, the evidence suggests that higher minimum wages decrease the number of workers seeking employment.</content>
+    <link href="https://www.nber.org/papers/w33433"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33428</id>
+    <title>A Bayesian Assessment of the Origins of COVID-19 using Spatiotemporal and Zoonotic Data</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew T. Levin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses Bayesian methods in conjunction with spatiotemporal and zoonotic data to evaluate the odds ratio for two hypotheses regarding the origin of the COVID-19 pandemic, namely, an accidental laboratory leak of a chimera virus or the transmission of a natural virus from an infected wildlife mammal. The overall Bayes factor is decomposed into 4 components: (1) the odds that the outbreak would occur in the People’s Republic of China (PRC); (2) the odds that the outbreak would occur in Wuhan, conditional on its location in PRC; (3) the odds of observing the spatiotemporal pattern of confirmed COVID-19 cases with no known link to the specific wholesale market where wildlife mammals were being sold, conditional on the outbreak taking place in Wuhan; and (4) the odds of observing the spatiotemporal pattern of confirmed vendor cases at that market, conditional on the outbreak taking place in Wuhan. These four conditional Bayes factors are estimated as 2.3:1, 20:1, 27:1, and 12:1, respectively, and hence the overall odds ratio is 14,900:1, indicating overwhelming evidence in favor of the hypothesis that the pandemic resulted from an accidental lab leak. This conclusion is robust to alternative specifications of the detailed statistical analysis.</content>
+    <link href="https://www.nber.org/papers/w33428"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33427</id>
+    <title>The Long-Run Effects of America's Largest Residential Racial Desegregation Program: Gautreaux</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eric Chyn, Robert Collinson &amp; Danielle H. Sandler</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the effects of the largest residential racial desegregation initiative in U.S. history, the Gautreaux Assisted Housing Program. From the late 1970s to the 1990s, Gautreaux moved thousands of Black families into predominantly white neighborhoods to support racial and economic integration. We link historical program records to administrative data and use plausibly exogenous variation in neighborhood placements to study how desegregating moves impact children in the long-run. Being placed in the predominantly white neighborhoods targeted by the program significantly increases children’s future lifetime earnings and wealth. These moves also increase the likelihood of marriage and particularly raise the probability of being married to a white spouse. Moreover, placements through Gautreaux impact neighborhood choices in adulthood. Those placed in predominantly white neighborhoods during childhood live in more racially diverse areas with higher rates of upward mobility nearly 40 years later.</content>
+    <link href="https://www.nber.org/papers/w33427"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33426</id>
+    <title>Trade Policy, Exchange Rates, and the Globalization Surge of the 1990s</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Douglas A. Irwin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The decision by developing countries to open up their economies to foreign trade and investment in the 1980s and 1990s was a momentous event in world history. How and why did this trade policy revolution take place? Most accounts of trade politics stress domestic interest groups or trade agreements as driving policy changes, but these explanations fail in this period. This paper notes that many import restrictions were imposed for balance of payments purposes, as a way of avoiding a devaluation and protecting foreign exchange reserves from depletion under fixed exchange rates. A shortage of foreign exchange in the mid-1980s led countries, under the guidance of economists, to adopt more flexible exchange rate arrangements that boosted export earnings and made import controls unnecessary for payments balance. Like during the Great Depression, the exchange rate regime was a key factor behind a country’s trade policy.</content>
+    <link href="https://www.nber.org/papers/w33426"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33415</id>
     <title>Declining Youth Well-being in 167 UN Countries. Does Survey Mode, or Question Matter?</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -1203,6 +1131,78 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large literature uses nonattainment status under the U.S. Clean Air Act (CAA) to measure regulatory stringency and to instrument for air pollution in studies of the impact of the CAA on health and other endpoints. Since 1978 U.S. Environmental Protection Agency (EPA) has regulated ambient air quality at the county level; however, prior to 1978 nonattainment status was imposed on Air Quality Control Regions, contiguous counties that comprise an airshed. This is not the definition of nonattainment used in the literature. Using county-level data, we examine the impacts of EPA’s definition of nonattainment status for TSP, CO, ozone, and SO2 in 1972 on ambient air quality and manufacturing employment between 1969 and 1976 and EPA’s definition of nonattainment in 1978 on air quality and manufacturing employment between 1975 and 1988. Nonattainment status in 1972 had no significant impact on either ambient TSP or on the ratio of dirty manufacturing to total employment between 1969 and 1976. We do, however, find significant impacts on ambient TSP using 1978 nonattainment status, and significant impacts of TSP, CO, ozone and SO2 nonattainment in 1978 on the fraction of employment in dirty manufacturing industries from 1975 to 1988. We discuss the implications of these findings for EPA’s decision regarding the geographic level at which to regulate air pollution.</content>
     <link href="https://www.nber.org/papers/w33412"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33414</id>
+    <title>The Targeting of Place-Based Policies: The New Markets Tax Credit Versus Opportunity Zones</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kevin Corinth, David Coyne, Naomi E. Feldman &amp; Craig Johnson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;For a place-based policy to succeed, it must target the right areas—typically those with lower economic development and resident well-being. The U.S. has two major place-based tax policies: the New Markets Tax Credit (NMTC), where government approved entities select investments, and Opportunity Zones (OZs), where private investors choose projects. Despite underlying design differences, both target census tracts with relatively high poverty rates, low median income and weak labor markets. However, OZs tend to attract more investment in areas with higher pre-existing private investment, often located in prosperous counties and high-growth regions. Census tracts lacking investment from either program generally have less private investment, lower home value growth, and lower population growth, suggesting that additional policies may be needed to reach areas less primed for investment.</content>
+    <link href="https://www.nber.org/papers/w33414"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33413</id>
+    <title>Climate Transition Risks and the Energy Sector</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Viral V. Acharya, Stefano Giglio, Stefano Pastore, Johannes Stroebel, Zhenhao Tan &amp; Tiffany Yong</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a general equilibrium model to study how climate transition risks affect energy prices and the valuations of different firms in the energy sector. We consider two types of fossil fuel firms: incumbents that have developed oil reserves they can extract today or tomorrow, and new entrants that must invest in exploration and drilling today to have reserves to potentially extract tomorrow. There are also renewable energy firms that produce emission-free energy but cannot currently serve non-electrifiable sectors of the economy. We analyze three sources of climate transition risk: (i) changes in the probability of a technological breakthrough that allows renewable energy firms to serve all economic sectors; (ii) changes in expected future taxes on carbon emissions; and (iii) restrictions on today's development of additional fossil fuel production capacity. We show that different transition risks—and, importantly, uncertainty about their realizations—have distinct effects on firms' decisions, on their valuations, and on equilibrium energy prices. We provide empirical support for the heterogeneous effects of different transition risks on energy prices and stock returns of firms in different energy sub-sectors.</content>
+    <link href="https://www.nber.org/papers/w33413"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33410</id>
+    <title>Sources of Market Power in Web Search: Evidence from a Field Experiment</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hunt Allcott, Juan Camilo Castillo, Matthew Gentzkow, Leon Musolff &amp; Tobias Salz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We evaluate the economic forces that contribute to Google’s large market share in web search. We develop a model of search engine demand in which consumer choices are influenced by switching costs, quality beliefs, and inattention, and estimate it using a field experiment with US desktop internet users. We find that (i) requiring Google users to make an active choice among search engines increases Bing’s market share by only 1.1 percentage points, implying that switching costs play a limited role; (ii) Google users who accept our payment to try Bing for two weeks update positively about its relative quality, with 33 percent preferring to continue using it; and (iii) after changing the default from Google to Bing, many users do not switch back, consistent with persistent inattention. In our model, correcting beliefs and removing choice frictions would increase Bing’s market share by 15 percentage points and increase consumer surplus by $6 per consumer-year. Policies that expose users to alternative search engines lower Google’s market share more than those requiring active choice. We then use Microsoft search logs to assess the impact of additional data on search result relevance. The results suggest that sharing Google’s click-and-query data with Microsoft may have a limited effect on market shares.</content>
+    <link href="https://www.nber.org/papers/w33410"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33407</id>
+    <title>The Evolution of Unobserved Skill Returns in the U.S.: A New Approach Using Panel Data</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lance Lochner, Youngmin Park &amp; Youngki Shin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economists disagree about the factors driving the substantial increase in residual wage inequality in the US over the past few decades. To identify changes in the returns to unobserved skills, we make a novel assumption about the dynamics of skills rather than about the stability of skill distributions across cohorts, as is standard. We show that our assumption is supported by data on test score dynamics for older workers in the HRS. Using survey data from the PSID and administrative data from the IRS and SSA, we estimate that the returns to unobserved skills declined substantially in the late-1980s and 1990s despite an increase in residual inequality. Accounting for firm-specific pay differences yields similar results. Extending our framework to consider occupational differences in returns to skill and multiple unobserved skills, we further show that skill returns display similar patterns for workers employed in each of cognitive, routine, and social occupations. Finally, our results suggest that increasing skill dispersion, driven by rising skill volatility, explains most of the growth in residual wage inequality since the 1980s.</content>
+    <link href="https://www.nber.org/papers/w33407"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33409</id>
+    <title>Environmental Migration and Race during the Great American Drought, 1935-1940</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher Sichko, Ariell Zimran &amp; Aparna Howlader</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study racial differences in internal migration responses to one of the most severe climatic shocks in US history—the drought of the 1930s. Using data from the 1940 census on 65 million adults, we find that individuals exposed to more severe drought between 1935 and 1940 were more likely to make an inter-county move and that this responsiveness was greater for black individuals than white individuals. This racial difference was particularly pronounced among the rural population. Black individuals' migration premium came despite their systematic disadvantage in the economy of the 1930s and evidence along dimensions other than race that disadvantage limited individuals' ability to adapt to the drought through migration. Federal relief spending under the Agricultural Adjustment Act (AAA) magnified this racial difference, reducing the migration response to drought for white individuals and increasing it for black individuals. These results help to better understand how the reaction of different groups aggregate to determine the magnitude and composition of migration responses to natural disasters, as well as the roles of migration and government policy in disadvantaged groups' responses to natural disasters.</content>
+    <link href="https://www.nber.org/papers/w33409"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33331</id>
+    <title>HANK's Response to Aggregate Uncertainty in an Estimated Business Cycle Model</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Cosmin L. Ilut, Ralph Luetticke &amp; Martin Schneider</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies a HANK model with agents who respond to both idiosyncratic and aggregate uncertainty. Since aggregate uncertainty is modeled as ambiguity, it affects the steady state and linearized dynamics, allowing for fast computation and estimation. The interaction of aggregate uncertainty shocks and portfolio frictions generates a high capital premium as well as most cyclical comovement in macroeconomic aggregates. Heterogeneity in portfolios is crucial: when it is shut down, the model fails to explain investment dynamics and the capital premium disappears. Cautious price and wage setting by firms in anticipation of aggregate uncertainty shapes employment and inflation dynamics.</content>
+    <link href="https://www.nber.org/papers/w33331"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
