@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-02-14T14:39:59.313144+00:00</updated>
+  <updated>2025-02-15T14:39:50.888071+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w33367</id>
+    <title>Modernizing Access to Credit for Younger Entrepreneurs: From FICO to Cash Flow</title>
+    <updated>2025-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher M. Hair, Sabrina T. Howell, Mark J. Johnson &amp; Siena Matsumoto</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Younger entrepreneurs are disadvantaged by traditional loan underwriting, which relies heavily on personal credit scores. With data from three fintech companies, we show that incorporating timely information about ability to repay from business checking account statements particularly improves default prediction performance for younger business owners. We develop a novel method to compare model predictions across subgroups—Tail Analysis for Comparative Outcomes (TACO)—which finds that switching from a Baseline (FICO-driven) model to a Cash Flow-enhanced model benefits younger entrepreneurs. We confirm this in causal analysis of approval decisions, showing that access to cash flow-intensive underwriting increases approval rates for younger vs. older entrepreneurs.</content>
+    <link href="https://www.nber.org/papers/w33367"/>
+    <category term="NBER"/>
+    <published>2025-01-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w33368</id>
     <title>Valuing Solar Subsidies</title>
@@ -123,18 +135,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The core statistical technology in artificial intelligence is the large-scale transformer network. We propose a new asset pricing model that implants a transformer in the stochastic discount factor. This structure leverages conditional pricing information via cross-asset information sharing and nonlinearity. We also develop a linear transformer that serves as a simplified surrogate from which we derive an intuitive decomposition of the transformer's asset pricing mechanisms. We find large reductions in pricing errors from our artificial intelligence pricing model (AIPM) relative to previous machine learning models and dissect the sources of these gains.</content>
     <link href="https://www.nber.org/papers/w33351"/>
-    <category term="NBER"/>
-    <published>2025-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33294</id>
-    <title>Does Q&amp;A Boost Engagement? Health Messaging Experiments in the U.S. and Ghana</title>
-    <updated>2025-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Erika Kirgios, Susan Athey, Angela L. Duckworth, Dean Karlan, Michael Luca, Katherine L. Milkman &amp; Molly Offer-Westort</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Effective information sharing is critical for the success of organizations and governments. Because information that is easy to access is more likely to be adopted, leaders often minimize friction in information delivery. However, one type of friction may increase engagement: piquing curiosity by posing relevant questions prior to sharing information. To test this, we shared identical information about COVID-19 in either question-and-answer format or via direct statements across two preregistered field experiments in Ghana and Michigan (total N=49,395). Q&amp;A-style communication increased information seeking about directly related topics (e.g., how to wear a mask properly) by 1.0 percentage-point (216%) in Ghana and by 1.1 percentage-points (19%) in Michigan (p’s&lt;0.001), and increased self-reported behavior change by 1.3 percentage-points (4%) in Michigan (p=0.002). However, sharing information in Q&amp;A format did not increase interest in general COVID-19 information in either setting, suggesting that the impact of Q&amp;A-style messaging on information seeking may be issue-specific. In Michigan, both Q&amp;A-style and direct statement messaging produced less information-seeking than sending no informational messages, likely due to differential attrition: the more texts participants received, the more likely they were to opt out of receiving messages, which made it impossible for them to seek more information via text. In a follow-up implementation experiment with social media ads (a messaging strategy without attrition challenges) Q&amp;A-style ads generated 9-11% more unique clicks to the CDC website per dollar spent than ads that directly stated information about vaccines (p&lt;0.001). We speculate that Q&amp;A-style information delivery may stimulate curiosity, driving its benefits.</content>
-    <link href="https://www.nber.org/papers/w33294"/>
     <category term="NBER"/>
     <published>2025-01-01T00:00:00+00:00</published>
   </entry>
@@ -487,6 +487,18 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33412</id>
+    <title>Geographic Resolution in Environmental Policy: EPA's Shift from Regions to Counties Under the Clean Air Act</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Maureen L. Cropper, Mengjia Hu, Yongjoon Park &amp; Nicholas Z. Muller</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large literature uses nonattainment status under the U.S. Clean Air Act (CAA) to measure regulatory stringency and to instrument for air pollution in studies of the impact of the CAA on health and other endpoints. Since 1978 U.S. Environmental Protection Agency (EPA) has regulated ambient air quality at the county level; however, prior to 1978 nonattainment status was imposed on Air Quality Control Regions, contiguous counties that comprise an airshed. This is not the definition of nonattainment used in the literature. Using county-level data, we examine the impacts of EPA’s definition of nonattainment status for TSP, CO, ozone, and SO2 in 1972 on ambient air quality and manufacturing employment between 1969 and 1976 and EPA’s definition of nonattainment in 1978 on air quality and manufacturing employment between 1975 and 1988. Nonattainment status in 1972 had no significant impact on either ambient TSP or on the ratio of dirty manufacturing to total employment between 1969 and 1976. We do, however, find significant impacts on ambient TSP using 1978 nonattainment status, and significant impacts of TSP, CO, ozone and SO2 nonattainment in 1978 on the fraction of employment in dirty manufacturing industries from 1975 to 1988. We discuss the implications of these findings for EPA’s decision regarding the geographic level at which to regulate air pollution.</content>
+    <link href="https://www.nber.org/papers/w33412"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33430</id>
     <title>Education and Dementia Risk</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -691,18 +703,6 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33412</id>
-    <title>Geographic Resolution in Environmental Policy: EPA's Shift from Regions to Counties Under the Clean Air Act</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Maureen L. Cropper, Mengjia Hu, Yongjoon Park &amp; Nicholas Z. Muller</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large literature uses nonattainment status under the U.S. Clean Air Act (CAA) to measure regulatory stringency and to instrument for air pollution in studies of the impact of the CAA on health and other endpoints. Since 1978 U.S. Environmental Protection Agency (EPA) has regulated ambient air quality at the county level; however, prior to 1978 nonattainment status was imposed on Air Quality Control Regions, contiguous counties that comprise an airshed. This is not the definition of nonattainment used in the literature. Using county-level data, we examine the impacts of EPA’s definition of nonattainment status for TSP, CO, ozone, and SO2 in 1972 on ambient air quality and manufacturing employment between 1969 and 1976 and EPA’s definition of nonattainment in 1978 on air quality and manufacturing employment between 1975 and 1988. Nonattainment status in 1972 had no significant impact on either ambient TSP or on the ratio of dirty manufacturing to total employment between 1969 and 1976. We do, however, find significant impacts on ambient TSP using 1978 nonattainment status, and significant impacts of TSP, CO, ozone and SO2 nonattainment in 1978 on the fraction of employment in dirty manufacturing industries from 1975 to 1988. We discuss the implications of these findings for EPA’s decision regarding the geographic level at which to regulate air pollution.</content>
-    <link href="https://www.nber.org/papers/w33412"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33414</id>
     <title>The Targeting of Place-Based Policies: The New Markets Tax Credit Versus Opportunity Zones</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -883,78 +883,6 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33460</id>
-    <title>Vanguard: Black Veterans and Civil Rights after World War I</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Desmond Ang &amp; Sahil Chinoy</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nearly 400,000 Black men were drafted into the National Army during World War I, where they toiled in segregated units and received little formal training. Leveraging novel variation from the WWI draft lottery and millions of digitized military and NAACP records, we document the pioneering role these men would play in the early civil rights movement. Relative to observably similar individuals from the same draft board, Black men randomly inducted into the Army were significantly more likely to join the nascent NAACP and to become prominent community leaders in the New Negro era. We find little evidence that these effects are explained by migration or improved socioeconomic status. Rather, corroborating historical accounts about the catalyzing influence of institutional racism in the military, we show that increased civic activism was driven by soldiers who experienced the most discriminatory treatment while serving their country.</content>
-    <link href="https://www.nber.org/papers/w33460"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33458</id>
-    <title>Local GDP Estimates Around the World</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Esteban Rossi-Hansberg &amp; Jialing Zhang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use high-resolution spatial data to build a novel global annual gridded GDP dataset at 1°, 0.5°, and 0.25° resolutions from 2012 onward. Our random forest model trained on local and national GDP achieves an R² above 0.92 for GDP levels and above 0.62 for annual changes in regions left out of the training sample. By incorporating diverse indicators beyond population and nighttime lights, our estimates offer more precise subnational GDP measurements for analyzing economic shocks, local policies, and regional disparities. We evaluate the precision of our estimates with a sample case of COVID-19’s impact on local GDP in China.</content>
-    <link href="https://www.nber.org/papers/w33458"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33459</id>
-    <title>Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andrew Atkeson, Jonathan Heathcote &amp; Fabrizio Perri</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how to quantitatively reconcile the high volatility of market valuations of U.S. corporations with the relative stability of macroeconomic quantities since 1929. Macroeconomic and financial variables are measured in a consistent fashion using the Integrated Macroeconomic Accounts (IMA) of the United States. We first use a finance- style valuation model that builds on Campbell and Shiller (1987) to interpret fluctuations in the market value of U.S. corporations from 1929 to 2023, using these IMA data. We find that fluctuations in expected cash flows to firm owners have been the dominant driver of those fluctuations in value; fluctuations in expected rates of return have played a smaller role. We then develop a stochastic growth model, extended to incorporate factorless income, which we use to decompose corporate cash flows and associated valuations into income and value due to physical capital and factorless income. Finally, we ask whether expected returns to investing in capital in our macroeconomic model are consistent with the series for expected returns estimated from our finance-style valuation model. We find that they are. In this sense, we reconcile volatile market valuations and stable capital output ratios.</content>
-    <link href="https://www.nber.org/papers/w33459"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33464</id>
-    <title>Quick-Fixing: Near-Rationality in Consumption and Savings Behavior</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Andre, Joel P. Flynn, Georgios Nikolakoudis &amp; Karthik Sastry</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When optimizing consumption-savings decisions is costly, people may instead rely on quick-fixes, simple policy functions that avoid these costs. We introduce a model of quick-fixing. To study it empirically, we field a novel survey that measures households' consumption policy functions in response to income shocks. Almost 70% of households follow one of four simple quick-fixes that fully consume or fully save out of small shocks, but they abruptly adjust their behavior for large shocks. This behavior accounts for almost half of the cross-sectional variance in marginal propensities to consume, but is poorly predicted by other demographic and economic information. In an incomplete-markets model calibrated to match our evidence, we find that quick-fixing is near-rational: the average opportunity cost of quick-fixing is only $17 per quarter. Yet, this small, empirically realistic deviation from the rational model significantly alters aggregate consumption responses to income shocks of varying sizes.</content>
-    <link href="https://www.nber.org/papers/w33464"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33462</id>
-    <title>Student Loan Forgiveness</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael Dinerstein, Samuel Earnest, Dmitri K. Koustas &amp; Constantine Yannelis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Student loan forgiveness has been proposed as a means to alleviate soaring student loan burdens. This paper uses administrative credit bureau data to study the distributional, consumption, borrowing, and employment effects of the largest event of student loan forgiveness in history. Beginning in March 2021, the United States federal government ordered $132 billion in student loans cancelled, or 7.8% of the total $1.7 trillion in outstanding student debt. We estimate that forgiven borrowers’ predicted monthly earnings were $115 higher than borrowers who did not receive forgiveness and $193 more than the general population. We find that student loan forgiveness led to increases in mortgage, auto, and credit card debt by 9 cents for every dollar forgiven. Borrowers’ monthly earnings and employment fell, at increasing rates for each month post forgiveness. The implied Marginal Propensities for Consumption (MPC) and Earnings (MPE) are 0.27 and -0.49, respectively.</content>
-    <link href="https://www.nber.org/papers/w33462"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33461</id>
-    <title>Sex-Based Wage Gaps in Nursing</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pablo Estrada, Sara Markowitz &amp; Alexia Witthaus</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Males comprise a small fraction of the nurse labor force, yet across the distribution of wages, male nurses earn more than females. In this paper, we use nurse survey data to decompose the sex-based wage gap and to explore why male nurses earn a premium in a female-dominated profession. We consider the role of traditional factors such as human capital and family structure, along with explanations that are more specific to nursing. Results indicate that overtime pay is a significant factor, particularly among hospital workers, but otherwise, after accounting for an extensive set of job-related characteristics, the wage gap persists.</content>
-    <link href="https://www.nber.org/papers/w33461"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33446</id>
     <title>Did the Modern Mortgage Set the Stage for the U.S. Baby Boom?</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -963,102 +891,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper proposes that the adoption of the modern U.S. mortgage (i.e., low down payment, long-term, and fixed-rate)—led by the Federal Housing Administration (FHA) and Veteran’s Administration (VA) loan insurance programs—set the stage for the mid-twentieth century U.S. baby boom by dramatically raising rates of home ownership for young families. Using newly digitized data on FHA- and VA- backed loan issuance and births by state-year, and a novel instrumental variables strategy that isolates supply-side variation in loan issuance, we find that the FHA and VA mortgage insurance programs led to 3 million additional births from 1935-1957, roughly 10 percent of the excess births in the baby boom. Aggregate effects mask differences by group—we find no effects of FHA/VA lending on births for Nonwhite women, consistent with well-documented racial discrimination in these lending programs. Our results highlight the importance of access to home ownership for fertility decisions.</content>
     <link href="https://www.nber.org/papers/w33446"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33445</id>
-    <title>Firm Pay and Worker Search</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sydnee Caldwell, Ingrid Haegele &amp; Jörg Heining</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Whether and how workers search on the job depends on their beliefs about pay and working conditions in other firms. Yet little is known about workers' knowledge of outside pay. We use a large-scale survey of full-time German workers, linked to their Social Security records, to elicit pay expectations and preferences over specific outside firms. Workers believe that they face considerable heterogeneity in their outside pay options, and direct their search toward firms they believe would pay them more. Workers' expected firm-specific pay premia are highly correlated with pay policies observed in administrative records and with workers' valuations of firm-specific amenities. Most workers are unwilling to search for a new job—or leave their current firm—even for substantial pay increases. Switching costs are equivalent to 7 to 18% of a worker’s annual pay. Attachment varies across firms, and cannot be explained by either differences in firm-specific amenities or switching costs.</content>
-    <link href="https://www.nber.org/papers/w33445"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33450</id>
-    <title>Moral Hazard among the Employed: Evidence from Regression Discontinuity</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jonas Jessen, Robin Jessen, Andrew C. Johnston &amp; Ewa Gałecka-Burdziak</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We exploit policy discontinuities in Poland's unemployment insurance to examine the causal effect of changes to both benefit durations and levels. Using a regression discontinuity approach, we uncover three findings: (1) Higher benefit levels distort employment more than benefit extensions. (2) Benefit durations and levels interact: Longer durations substantially increase the distortionary effect of more generous payments. (3) Higher payments increase the transition of employed workers into unemployment. We develop a model of optimal unemployment insurance that accounts for moral hazard among both employed and unemployed workers. Notably, for level increases, distortionary costs are larger among the employed than unemployed.</content>
-    <link href="https://www.nber.org/papers/w33450"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33440</id>
-    <title>Do Inflation Expectations Become More Anchored During a Disinflation Episode? Evidence for Euro Area Firms</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ursel Baumann, Annalisa Ferrando, Dimitris Georgarakos, Yuriy Gorodnichenko &amp; Timo Reinelt</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does a successful disinflation contribute to the anchoring of inflation expectations? We provide novel survey evidence on the dynamics of euro area firms’ inflation expectations during the disinflation episode since 2022. We show that firms’ short term inflation expectations declined steadily towards the inflation target as the disinflation progressed. However, we also document a thick tail in longer-term inflation expectations, substantial disagreement about the inflation outlook, and an increased sensitivity of longer-term inflation expectations to short-term inflation expectations. These findings suggest that it may take more time to bring inflation expectations fully in line with central bank objectives.</content>
-    <link href="https://www.nber.org/papers/w33440"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33463</id>
-    <title>Evidence on the Importance of Market Competition in Distress Propagation</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Winston Wei Dou, Shane A. Johnson &amp; Wei Wu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using local natural disasters as a quasi-experimental setting, we show that heightened distress risk in shocked firms drives both these firms and their unshocked competitors to cut profit margins by about 0.8 percentage points. These reductions stem from predatory pricing, inventory liquidation, and weakened tacit collusion in product markets. Distress propagates horizontally as unshocked competitors rationally respond almost 1-for-1 with profit-margin cuts, significantly increasing their distress risk. Spillovers are more pronounced in tradable industries or those with higher barriers to leadership, larger inventories, greater price flexibility, or tighter financial constraints, revealing a novel channel for distress propagation across the economy.</content>
-    <link href="https://www.nber.org/papers/w33463"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33452</id>
-    <title>Rigidities in Transportation and Supply Chain Disruptions</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Giulia Brancaccio, Myrto Kalouptsidi &amp; Theodore Papageorgiou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In this paper we provide a simple and intuitive story for supply chain disruptions driven by the rigidities in the transportation sector. Focusing on maritime shipping, we argue that the frequent macroeconomic shocks that shape demand for transportation, meet a highly inelastic supply curve for transportation services. The steepness is driven by equilibrium bottlenecks in ships (transportation agents) and ports (transportation infrastructure). This leads to highly volatile shipping prices and port congestion, affecting importers and exporters worldwide. We discuss how both global trade and inflation react to these costs, so that disruptions pass through to the entire economy.</content>
-    <link href="https://www.nber.org/papers/w33452"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33451</id>
-    <title>AI and Women's Employment in Europe</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stefania Albanesi, António Dias da Silva, Juan F. Jimeno, Ana Lamo &amp; Alena Wabitsch</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the link between the diffusion of artificial intelligence (AI) enabled technologies and changes in the female employment share  in 16 European countries over the period 2011-2019. Using data for occupations at the 3-digit level, we find that on average female employment shares  increased in occupations more exposed to AI.   Countries with high initial female labor force participation and higher initial female relative education show a stronger positive association. While there exists heterogeneity across countries, almost all show a positive relation between changes in female employment shares within occupations and exposure to AI-enabled automation.</content>
-    <link href="https://www.nber.org/papers/w33451"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33444</id>
-    <title>Income Equality in The Nordic Countries: Myths, Facts, and Lessons</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Magne Mogstad, Kjell G. Salvanes &amp; Gaute Torsvik</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Policymakers, public commentators, and researchers often cite the Nordic countries as examples of a social and economic model that successfully combines low income inequality with prosperity and growth. This article aims to critically assess this claim by integrating theoretical perspectives and empirical evidence to illustrate how the Nordic model functions and why these countries experience low inequality. Our analysis suggests that income equality in the Nordics is primarily driven by a significant compression of hourly wages, reducing the returns to labor market skills and education. This appears to be achieved through a wage bargaining system characterized by strong coordination both within and across industries. This finding contrasts with other commonly cited explanations for Nordic income equality, such as redistribution through the tax-transfer system, public spending on goods that complement employment, and public policies aimed at equalizing skills and human capital distribution. We consider the potential lessons for other economies that seek to reduce income equality. We conclude by discussing several underexplored or unresolved questions and issues.</content>
-    <link href="https://www.nber.org/papers/w33444"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33443</id>
-    <title>Spatial Dynamics</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Klaus Desmet &amp; Fernando Parro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the recent literature that studies the spatial distribution of economic activity across both space and time. We discuss the methodological advances enabling the incorporation of dynamic forces of economic activity—such as endogenous innovation, forward-looking location choices, capital and asset accumulation, idea diffusion, and stochastic fundamentals—into frameworks with many heterogeneous locations and a rich economic geography. These frameworks remain tractable for quantitative evaluations. We also discuss the wide range of empirical questions explored in recent work through the lens of these frameworks, including the global and local economic impacts of climate change, the dynamic effects of trade and migration policy, labor market adjustments to import competition, the spatial consequences of structural change, the dynamic effects of place-based policies, and the long-run spatial effects of large-scale infrastructure projects.</content>
-    <link href="https://www.nber.org/papers/w33443"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -1083,6 +915,78 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Emerging markets face large and persistent fluctuations in sovereign spreads. To what extent are these fluctuations driven by local shocks versus financial conditions in advanced economies? To answer this question, we develop a neoclassical business cycle model of a world economy with an advanced country, the North, and many emerging market economies, the South. Northern households invest in domestic stocks, domestic defaultable bonds, and international sovereign debt. Over the 2008-2016 period, the global cycle phase, the North accounts for 68% of Southern spreads’ fluctuations. Over the whole 1994-2024 period, however, Northern shocks account for less than 20% of these fluctuations.</content>
     <link href="https://www.nber.org/papers/w33441"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33449</id>
+    <title>Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Abhishek Bhardwaj, Shan Ge &amp; Saptarshi Mukherjee</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;CLOs fund 65% of syndicated loans, theoretically insulating borrowers from bank and idiosyncratic investor shocks. However, concentrated capital and sticky relationships expose firms to idiosyncratic shocks to insurers, the largest CLO investors. We find that: 1) insurers experiencing favorable cash flows invest more in CLOs, especially with familiar managers; 2) CLO managers exposed to these cash flows launch more deals; 3) using an instrumental–variable approach, affected firms take out more loans at lower spreads, increase employment, and expand operations; 4) effects are stronger for private than public firms. These findings reveal significant frictions in the loan securitization market.</content>
+    <link href="https://www.nber.org/papers/w33449"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33448</id>
+    <title>Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>John Bonney, Luigi Pistaferri &amp; Alessandra Voena</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using multiple administrative data sources from Norway, we examine how firm performance changes after entrepreneurs become parents. Female-owned businesses experience a substantial decline in profits, steadily decreasing to 30% below baseline ten years post-childbirth. In contrast, male-owned businesses show no decline, often growing in revenues and costs after childbirth. The profit decline for female-owned firms is most pronounced among highly capable entrepreneurs, women who are majority owners, and those with working spouses. Entrepreneurial effort is key to performance, and our findings suggest that time demands from childbirth and childcare are a significant determinant of the decline in firm profits.</content>
+    <link href="https://www.nber.org/papers/w33448"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33447</id>
+    <title>The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Karen Clay, Edson R. Severnini &amp; Xiao Wang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses U.S. Toxic Release Inventory data on air lead emissions to provide IV estimates of the effects of air lead concentration on infant mortality. The causal effect of lead on infant mortality is identified by annual variation in air fugitive lead emissions interacted with wind speed near reporting plants, which together determine local ambient lead concentration. Unlike stack emissions, which occur routinely and may prompt avoidance behavior, fugitive emissions are intermittent and influenced by both historical and current factors, such as wind speed variation, making them difficult to avoid. The paper has two main findings. First, higher air lead concentration causes higher infant mortality in the first month and in the first year, suggesting that both in utero and environmental exposures matter. Second, higher lead concentration increases deaths from low birthweight, sudden unexplained infant death (SUID), and respiratory and nervous system causes, which is consistent with findings from animal studies, even when accounting for behavioral responses. Back of the envelope calculations indicate that declines in fugitive lead emissions prevented 34-59 infant deaths per year, generating benefits of $380-$670 million annually in 2023 dollars.</content>
+    <link href="https://www.nber.org/papers/w33447"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33445</id>
+    <title>Firm Pay and Worker Search</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sydnee Caldwell, Ingrid Haegele &amp; Jörg Heining</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Whether and how workers search on the job depends on their beliefs about pay and working conditions in other firms. Yet little is known about workers' knowledge of outside pay. We use a large-scale survey of full-time German workers, linked to their Social Security records, to elicit pay expectations and preferences over specific outside firms. Workers believe that they face considerable heterogeneity in their outside pay options, and direct their search toward firms they believe would pay them more. Workers' expected firm-specific pay premia are highly correlated with pay policies observed in administrative records and with workers' valuations of firm-specific amenities. Most workers are unwilling to search for a new job—or leave their current firm—even for substantial pay increases. Switching costs are equivalent to 7 to 18% of a worker’s annual pay. Attachment varies across firms, and cannot be explained by either differences in firm-specific amenities or switching costs.</content>
+    <link href="https://www.nber.org/papers/w33445"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33444</id>
+    <title>Income Equality in The Nordic Countries: Myths, Facts, and Lessons</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Magne Mogstad, Kjell G. Salvanes &amp; Gaute Torsvik</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Policymakers, public commentators, and researchers often cite the Nordic countries as examples of a social and economic model that successfully combines low income inequality with prosperity and growth. This article aims to critically assess this claim by integrating theoretical perspectives and empirical evidence to illustrate how the Nordic model functions and why these countries experience low inequality. Our analysis suggests that income equality in the Nordics is primarily driven by a significant compression of hourly wages, reducing the returns to labor market skills and education. This appears to be achieved through a wage bargaining system characterized by strong coordination both within and across industries. This finding contrasts with other commonly cited explanations for Nordic income equality, such as redistribution through the tax-transfer system, public spending on goods that complement employment, and public policies aimed at equalizing skills and human capital distribution. We consider the potential lessons for other economies that seek to reduce income equality. We conclude by discussing several underexplored or unresolved questions and issues.</content>
+    <link href="https://www.nber.org/papers/w33444"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33443</id>
+    <title>Spatial Dynamics</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Klaus Desmet &amp; Fernando Parro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the recent literature that studies the spatial distribution of economic activity across both space and time. We discuss the methodological advances enabling the incorporation of dynamic forces of economic activity—such as endogenous innovation, forward-looking location choices, capital and asset accumulation, idea diffusion, and stochastic fundamentals—into frameworks with many heterogeneous locations and a rich economic geography. These frameworks remain tractable for quantitative evaluations. We also discuss the wide range of empirical questions explored in recent work through the lens of these frameworks, including the global and local economic impacts of climate change, the dynamic effects of trade and migration policy, labor market adjustments to import competition, the spatial consequences of structural change, the dynamic effects of place-based policies, and the long-run spatial effects of large-scale infrastructure projects.</content>
+    <link href="https://www.nber.org/papers/w33443"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -1147,50 +1051,86 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33449</id>
-    <title>Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers</title>
+    <id>https://www.nber.org/papers/w33464</id>
+    <title>Quick-Fixing: Near-Rationality in Consumption and Savings Behavior</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Abhishek Bhardwaj, Shan Ge &amp; Saptarshi Mukherjee</name>
+      <name>Peter Andre, Joel P. Flynn, Georgios Nikolakoudis &amp; Karthik Sastry</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;CLOs fund 65% of syndicated loans, theoretically insulating borrowers from bank and idiosyncratic investor shocks. However, concentrated capital and sticky relationships expose firms to idiosyncratic shocks to insurers, the largest CLO investors. We find that: 1) insurers experiencing favorable cash flows invest more in CLOs, especially with familiar managers; 2) CLO managers exposed to these cash flows launch more deals; 3) using an instrumental–variable approach, affected firms take out more loans at lower spreads, increase employment, and expand operations; 4) effects are stronger for private than public firms. These findings reveal significant frictions in the loan securitization market.</content>
-    <link href="https://www.nber.org/papers/w33449"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When optimizing consumption-savings decisions is costly, people may instead rely on quick-fixes, simple policy functions that avoid these costs. We introduce a model of quick-fixing. To study it empirically, we field a novel survey that measures households' consumption policy functions in response to income shocks. Almost 70% of households follow one of four simple quick-fixes that fully consume or fully save out of small shocks, but they abruptly adjust their behavior for large shocks. This behavior accounts for almost half of the cross-sectional variance in marginal propensities to consume, but is poorly predicted by other demographic and economic information. In an incomplete-markets model calibrated to match our evidence, we find that quick-fixing is near-rational: the average opportunity cost of quick-fixing is only $17 per quarter. Yet, this small, empirically realistic deviation from the rational model significantly alters aggregate consumption responses to income shocks of varying sizes.</content>
+    <link href="https://www.nber.org/papers/w33464"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33448</id>
-    <title>Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs</title>
+    <id>https://www.nber.org/papers/w33462</id>
+    <title>Student Loan Forgiveness</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>John Bonney, Luigi Pistaferri &amp; Alessandra Voena</name>
+      <name>Michael Dinerstein, Samuel Earnest, Dmitri K. Koustas &amp; Constantine Yannelis</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using multiple administrative data sources from Norway, we examine how firm performance changes after entrepreneurs become parents. Female-owned businesses experience a substantial decline in profits, steadily decreasing to 30% below baseline ten years post-childbirth. In contrast, male-owned businesses show no decline, often growing in revenues and costs after childbirth. The profit decline for female-owned firms is most pronounced among highly capable entrepreneurs, women who are majority owners, and those with working spouses. Entrepreneurial effort is key to performance, and our findings suggest that time demands from childbirth and childcare are a significant determinant of the decline in firm profits.</content>
-    <link href="https://www.nber.org/papers/w33448"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Student loan forgiveness has been proposed as a means to alleviate soaring student loan burdens. This paper uses administrative credit bureau data to study the distributional, consumption, borrowing, and employment effects of the largest event of student loan forgiveness in history. Beginning in March 2021, the United States federal government ordered $132 billion in student loans cancelled, or 7.8% of the total $1.7 trillion in outstanding student debt. We estimate that forgiven borrowers’ predicted monthly earnings were $115 higher than borrowers who did not receive forgiveness and $193 more than the general population. We find that student loan forgiveness led to increases in mortgage, auto, and credit card debt by 9 cents for every dollar forgiven. Borrowers’ monthly earnings and employment fell, at increasing rates for each month post forgiveness. The implied Marginal Propensities for Consumption (MPC) and Earnings (MPE) are 0.27 and -0.49, respectively.</content>
+    <link href="https://www.nber.org/papers/w33462"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33447</id>
-    <title>The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution</title>
+    <id>https://www.nber.org/papers/w33461</id>
+    <title>Sex-Based Wage Gaps in Nursing</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Karen Clay, Edson R. Severnini &amp; Xiao Wang</name>
+      <name>Pablo Estrada, Sara Markowitz &amp; Alexia Witthaus</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses U.S. Toxic Release Inventory data on air lead emissions to provide IV estimates of the effects of air lead concentration on infant mortality. The causal effect of lead on infant mortality is identified by annual variation in air fugitive lead emissions interacted with wind speed near reporting plants, which together determine local ambient lead concentration. Unlike stack emissions, which occur routinely and may prompt avoidance behavior, fugitive emissions are intermittent and influenced by both historical and current factors, such as wind speed variation, making them difficult to avoid. The paper has two main findings. First, higher air lead concentration causes higher infant mortality in the first month and in the first year, suggesting that both in utero and environmental exposures matter. Second, higher lead concentration increases deaths from low birthweight, sudden unexplained infant death (SUID), and respiratory and nervous system causes, which is consistent with findings from animal studies, even when accounting for behavioral responses. Back of the envelope calculations indicate that declines in fugitive lead emissions prevented 34-59 infant deaths per year, generating benefits of $380-$670 million annually in 2023 dollars.</content>
-    <link href="https://www.nber.org/papers/w33447"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Males comprise a small fraction of the nurse labor force, yet across the distribution of wages, male nurses earn more than females. In this paper, we use nurse survey data to decompose the sex-based wage gap and to explore why male nurses earn a premium in a female-dominated profession. We consider the role of traditional factors such as human capital and family structure, along with explanations that are more specific to nursing. Results indicate that overtime pay is a significant factor, particularly among hospital workers, but otherwise, after accounting for an extensive set of job-related characteristics, the wage gap persists.</content>
+    <link href="https://www.nber.org/papers/w33461"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33411</id>
-    <title>Moral Hazard and the Sustainability of Income-Driven Repayment Plans</title>
+    <id>https://www.nber.org/papers/w33460</id>
+    <title>Vanguard: Black Veterans and Civil Rights after World War I</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Chao Fu, Xiaomeng Li &amp; Basit Zafar</name>
+      <name>Desmond Ang &amp; Sahil Chinoy</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Income-Driven Repayment (IDR) plans tie student loan repayment to income and forgive unpaid debt after certain years of repayment. We investigate how these features affect one’s career choices through a survey where the same student is asked to select job profiles under various repayment plans. Consistent with our Ben-Porath style model, the survey results reveal that IDR is a double-edged sword. On the one hand, 36% of students underinvest in their human capital under the standard repayment plan relative to their would-be choices in a debt-free scenario; an IDR resembling the Saving on a Valuable Education (SAVE) plan reduces this fraction to 20%. On the other hand, IDRs induce moral hazards: Under a SAVE-like plan, 22% of students choose job profiles with lower initial wages and higher wage growth than their choices in a debt-free scenario, leaving part of their debt forgiven. A simple calculation indicates that this type of moral hazard alone would render SAVE-like plans inviable were they carried out by private lenders; however, government-run IDRs are sustainable due to the government’s capacity to collect individuals’ lifetime income taxes.</content>
-    <link href="https://www.nber.org/papers/w33411"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nearly 400,000 Black men were drafted into the National Army during World War I, where they toiled in segregated units and received little formal training. Leveraging novel variation from the WWI draft lottery and millions of digitized military and NAACP records, we document the pioneering role these men would play in the early civil rights movement. Relative to observably similar individuals from the same draft board, Black men randomly inducted into the Army were significantly more likely to join the nascent NAACP and to become prominent community leaders in the New Negro era. We find little evidence that these effects are explained by migration or improved socioeconomic status. Rather, corroborating historical accounts about the catalyzing influence of institutional racism in the military, we show that increased civic activism was driven by soldiers who experienced the most discriminatory treatment while serving their country.</content>
+    <link href="https://www.nber.org/papers/w33460"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33458</id>
+    <title>Local GDP Estimates Around the World</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Esteban Rossi-Hansberg &amp; Jialing Zhang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use high-resolution spatial data to build a novel global annual gridded GDP dataset at 1°, 0.5°, and 0.25° resolutions from 2012 onward. Our random forest model trained on local and national GDP achieves an R² above 0.92 for GDP levels and above 0.62 for annual changes in regions left out of the training sample. By incorporating diverse indicators beyond population and nighttime lights, our estimates offer more precise subnational GDP measurements for analyzing economic shocks, local policies, and regional disparities. We evaluate the precision of our estimates with a sample case of COVID-19’s impact on local GDP in China.</content>
+    <link href="https://www.nber.org/papers/w33458"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33459</id>
+    <title>Reconciling Macroeconomics and Finance for the U.S. Corporate Sector: 1929 to Present</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew Atkeson, Jonathan Heathcote &amp; Fabrizio Perri</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how to quantitatively reconcile the high volatility of market valuations of U.S. corporations with the relative stability of macroeconomic quantities since 1929. Macroeconomic and financial variables are measured in a consistent fashion using the Integrated Macroeconomic Accounts (IMA) of the United States. We first use a finance- style valuation model that builds on Campbell and Shiller (1987) to interpret fluctuations in the market value of U.S. corporations from 1929 to 2023, using these IMA data. We find that fluctuations in expected cash flows to firm owners have been the dominant driver of those fluctuations in value; fluctuations in expected rates of return have played a smaller role. We then develop a stochastic growth model, extended to incorporate factorless income, which we use to decompose corporate cash flows and associated valuations into income and value due to physical capital and factorless income. Finally, we ask whether expected returns to investing in capital in our macroeconomic model are consistent with the series for expected returns estimated from our finance-style valuation model. We find that they are. In this sense, we reconcile volatile market valuations and stable capital output ratios.</content>
+    <link href="https://www.nber.org/papers/w33459"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33451</id>
+    <title>AI and Women's Employment in Europe</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stefania Albanesi, António Dias da Silva, Juan F. Jimeno, Ana Lamo &amp; Alena Wabitsch</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the link between the diffusion of artificial intelligence (AI) enabled technologies and changes in the female employment share  in 16 European countries over the period 2011-2019. Using data for occupations at the 3-digit level, we find that on average female employment shares  increased in occupations more exposed to AI.   Countries with high initial female labor force participation and higher initial female relative education show a stronger positive association. While there exists heterogeneity across countries, almost all show a positive relation between changes in female employment shares within occupations and exposure to AI-enabled automation.</content>
+    <link href="https://www.nber.org/papers/w33451"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -1203,6 +1143,66 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a theory of preemptive controls on capital outflows by residents as a second-best tool to mitigate boom-bust cycles in domestic asset markets and prevent wealth transfers from uninformed traders to pump-and-dump speculators, or financial “looters,” as in Akerlof and Romer (1993). The model implies that when domestic financial regulation is imperfectly designed or enforced, controls on residents' outflows reduce retail investor manipulation (which we call looting), stabilize asset prices, and diminish capital flight. The paper also provides compelling evidence that supports the main implications of the model when applied to housing markets, which is particularly relevant to institutions in developing countries. We find that deposit outflows to haven countries increase before busts in house prices, and countries with stricter controls on resident outflows experience significantly more contained deposit outflows to such destinations. The empirical analysis reveals a similar pattern for new incorporations in haven countries based on data from the Panama Papers.</content>
     <link href="https://www.nber.org/papers/w33406"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33450</id>
+    <title>Moral Hazard among the Employed: Evidence from Regression Discontinuity</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jonas Jessen, Robin Jessen, Andrew C. Johnston &amp; Ewa Gałecka-Burdziak</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We exploit policy discontinuities in Poland's unemployment insurance to examine the causal effect of changes to both benefit durations and levels. Using a regression discontinuity approach, we uncover three findings: (1) Higher benefit levels distort employment more than benefit extensions. (2) Benefit durations and levels interact: Longer durations substantially increase the distortionary effect of more generous payments. (3) Higher payments increase the transition of employed workers into unemployment. We develop a model of optimal unemployment insurance that accounts for moral hazard among both employed and unemployed workers. Notably, for level increases, distortionary costs are larger among the employed than unemployed.</content>
+    <link href="https://www.nber.org/papers/w33450"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33440</id>
+    <title>Do Inflation Expectations Become More Anchored During a Disinflation Episode? Evidence for Euro Area Firms</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ursel Baumann, Annalisa Ferrando, Dimitris Georgarakos, Yuriy Gorodnichenko &amp; Timo Reinelt</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does a successful disinflation contribute to the anchoring of inflation expectations? We provide novel survey evidence on the dynamics of euro area firms’ inflation expectations during the disinflation episode since 2022. We show that firms’ short term inflation expectations declined steadily towards the inflation target as the disinflation progressed. However, we also document a thick tail in longer-term inflation expectations, substantial disagreement about the inflation outlook, and an increased sensitivity of longer-term inflation expectations to short-term inflation expectations. These findings suggest that it may take more time to bring inflation expectations fully in line with central bank objectives.</content>
+    <link href="https://www.nber.org/papers/w33440"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33463</id>
+    <title>Evidence on the Importance of Market Competition in Distress Propagation</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Winston Wei Dou, Shane A. Johnson &amp; Wei Wu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using local natural disasters as a quasi-experimental setting, we show that heightened distress risk in shocked firms drives both these firms and their unshocked competitors to cut profit margins by about 0.8 percentage points. These reductions stem from predatory pricing, inventory liquidation, and weakened tacit collusion in product markets. Distress propagates horizontally as unshocked competitors rationally respond almost 1-for-1 with profit-margin cuts, significantly increasing their distress risk. Spillovers are more pronounced in tradable industries or those with higher barriers to leadership, larger inventories, greater price flexibility, or tighter financial constraints, revealing a novel channel for distress propagation across the economy.</content>
+    <link href="https://www.nber.org/papers/w33463"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33452</id>
+    <title>Rigidities in Transportation and Supply Chain Disruptions</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Giulia Brancaccio, Myrto Kalouptsidi &amp; Theodore Papageorgiou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In this paper we provide a simple and intuitive story for supply chain disruptions driven by the rigidities in the transportation sector. Focusing on maritime shipping, we argue that the frequent macroeconomic shocks that shape demand for transportation, meet a highly inelastic supply curve for transportation services. The steepness is driven by equilibrium bottlenecks in ships (transportation agents) and ports (transportation infrastructure). This leads to highly volatile shipping prices and port congestion, affecting importers and exporters worldwide. We discuss how both global trade and inflation react to these costs, so that disruptions pass through to the entire economy.</content>
+    <link href="https://www.nber.org/papers/w33452"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33411</id>
+    <title>Moral Hazard and the Sustainability of Income-Driven Repayment Plans</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chao Fu, Xiaomeng Li &amp; Basit Zafar</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Income-Driven Repayment (IDR) plans tie student loan repayment to income and forgive unpaid debt after certain years of repayment. We investigate how these features affect one’s career choices through a survey where the same student is asked to select job profiles under various repayment plans. Consistent with our Ben-Porath style model, the survey results reveal that IDR is a double-edged sword. On the one hand, 36% of students underinvest in their human capital under the standard repayment plan relative to their would-be choices in a debt-free scenario; an IDR resembling the Saving on a Valuable Education (SAVE) plan reduces this fraction to 20%. On the other hand, IDRs induce moral hazards: Under a SAVE-like plan, 22% of students choose job profiles with lower initial wages and higher wage growth than their choices in a debt-free scenario, leaving part of their debt forgiven. A simple calculation indicates that this type of moral hazard alone would render SAVE-like plans inviable were they carried out by private lenders; however, government-run IDRs are sustainable due to the government’s capacity to collect individuals’ lifetime income taxes.</content>
+    <link href="https://www.nber.org/papers/w33411"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
