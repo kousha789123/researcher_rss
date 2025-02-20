@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-02-19T14:41:22.306211+00:00</updated>
+  <updated>2025-02-20T14:40:39.750514+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -523,14 +523,14 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33448</id>
-    <title>Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs</title>
+    <id>https://www.nber.org/papers/w33449</id>
+    <title>Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>John Bonney, Luigi Pistaferri &amp; Alessandra Voena</name>
+      <name>Abhishek Bhardwaj, Shan Ge &amp; Saptarshi Mukherjee</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using multiple administrative data sources from Norway, we examine how firm performance changes after entrepreneurs become parents. Female-owned businesses experience a substantial decline in profits, steadily decreasing to 30% below baseline ten years post-childbirth. In contrast, male-owned businesses show no decline, often growing in revenues and costs after childbirth. The profit decline for female-owned firms is most pronounced among highly capable entrepreneurs, women who are majority owners, and those with working spouses. Entrepreneurial effort is key to performance, and our findings suggest that time demands from childbirth and childcare are a significant determinant of the decline in firm profits.</content>
-    <link href="https://www.nber.org/papers/w33448"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;CLOs fund 65% of syndicated loans, theoretically insulating borrowers from bank and idiosyncratic investor shocks. However, concentrated capital and sticky relationships expose firms to idiosyncratic shocks to insurers, the largest CLO investors. We find that: 1) insurers experiencing favorable cash flows invest more in CLOs, especially with familiar managers; 2) CLO managers exposed to these cash flows launch more deals; 3) using an instrumental–variable approach, affected firms take out more loans at lower spreads, increase employment, and expand operations; 4) effects are stronger for private than public firms. These findings reveal significant frictions in the loan securitization market.</content>
+    <link href="https://www.nber.org/papers/w33449"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -559,6 +559,18 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33448</id>
+    <title>Childbirth and Firm Performance: Evidence from Norwegian Entrepreneurs</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>John Bonney, Luigi Pistaferri &amp; Alessandra Voena</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using multiple administrative data sources from Norway, we examine how firm performance changes after entrepreneurs become parents. Female-owned businesses experience a substantial decline in profits, steadily decreasing to 30% below baseline ten years post-childbirth. In contrast, male-owned businesses show no decline, often growing in revenues and costs after childbirth. The profit decline for female-owned firms is most pronounced among highly capable entrepreneurs, women who are majority owners, and those with working spouses. Entrepreneurial effort is key to performance, and our findings suggest that time demands from childbirth and childcare are a significant determinant of the decline in firm profits.</content>
+    <link href="https://www.nber.org/papers/w33448"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33451</id>
     <title>AI and Women's Employment in Europe</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -583,18 +595,6 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33447</id>
-    <title>The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Karen Clay, Edson R. Severnini &amp; Xiao Wang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses U.S. Toxic Release Inventory data on air lead emissions to provide IV estimates of the effects of air lead concentration on infant mortality. The causal effect of lead on infant mortality is identified by annual variation in air fugitive lead emissions interacted with wind speed near reporting plants, which together determine local ambient lead concentration. Unlike stack emissions, which occur routinely and may prompt avoidance behavior, fugitive emissions are intermittent and influenced by both historical and current factors, such as wind speed variation, making them difficult to avoid. The paper has two main findings. First, higher air lead concentration causes higher infant mortality in the first month and in the first year, suggesting that both in utero and environmental exposures matter. Second, higher lead concentration increases deaths from low birthweight, sudden unexplained infant death (SUID), and respiratory and nervous system causes, which is consistent with findings from animal studies, even when accounting for behavioral responses. Back of the envelope calculations indicate that declines in fugitive lead emissions prevented 34-59 infant deaths per year, generating benefits of $380-$670 million annually in 2023 dollars.</content>
-    <link href="https://www.nber.org/papers/w33447"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33464</id>
     <title>Quick-Fixing: Near-Rationality in Consumption and Savings Behavior</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -603,42 +603,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When optimizing consumption-savings decisions is costly, people may instead rely on quick-fixes, simple policy functions that avoid these costs. We introduce a model of quick-fixing. To study it empirically, we field a novel survey that measures households' consumption policy functions in response to income shocks. Almost 70% of households follow one of four simple quick-fixes that fully consume or fully save out of small shocks, but they abruptly adjust their behavior for large shocks. This behavior accounts for almost half of the cross-sectional variance in marginal propensities to consume, but is poorly predicted by other demographic and economic information. In an incomplete-markets model calibrated to match our evidence, we find that quick-fixing is near-rational: the average opportunity cost of quick-fixing is only $17 per quarter. Yet, this small, empirically realistic deviation from the rational model significantly alters aggregate consumption responses to income shocks of varying sizes.</content>
     <link href="https://www.nber.org/papers/w33464"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33462</id>
-    <title>Student Loan Forgiveness</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael Dinerstein, Samuel Earnest, Dmitri K. Koustas &amp; Constantine Yannelis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Student loan forgiveness has been proposed as a means to alleviate soaring student loan burdens. This paper uses administrative credit bureau data to study the distributional, consumption, borrowing, and employment effects of the largest event of student loan forgiveness in history. Beginning in March 2021, the United States federal government ordered $132 billion in student loans cancelled, or 7.8% of the total $1.7 trillion in outstanding student debt. We estimate that forgiven borrowers’ predicted monthly earnings were $115 higher than borrowers who did not receive forgiveness and $193 more than the general population. We find that student loan forgiveness led to increases in mortgage, auto, and credit card debt by 9 cents for every dollar forgiven. Borrowers’ monthly earnings and employment fell, at increasing rates for each month post forgiveness. The implied Marginal Propensities for Consumption (MPC) and Earnings (MPE) are 0.27 and -0.49, respectively.</content>
-    <link href="https://www.nber.org/papers/w33462"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33453</id>
-    <title>Spatial Economics for Low- and Middle-Income Countries</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gharad T. Bryan, Kyra Frye &amp; Melanie Morten</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Research at the intersection of development and spatial economics is increasingly important to address pressing issues in rapidly-urbanizing cities in low- and middle- income countries. This handbook chapter presents the canonical spatial model and then explores it through the lens of development economics, pointing out the "on-the-ground" facts of missing markets, frictions, and context-specific parameters that are often absent in applications of the model. We then discuss what the existing literature and the spatial model tell us about the optimal allocation of labor across space. We close by highlighting exciting possibilities for future work that integrates the spatial model with the reality of low- and middle-income countries.</content>
-    <link href="https://www.nber.org/papers/w33453"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33449</id>
-    <title>Does Loan Securitization Expose Borrowers to Non-Bank Investor Shocks?—Evidence from Insurers</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Abhishek Bhardwaj, Shan Ge &amp; Saptarshi Mukherjee</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;CLOs fund 65% of syndicated loans, theoretically insulating borrowers from bank and idiosyncratic investor shocks. However, concentrated capital and sticky relationships expose firms to idiosyncratic shocks to insurers, the largest CLO investors. We find that: 1) insurers experiencing favorable cash flows invest more in CLOs, especially with familiar managers; 2) CLO managers exposed to these cash flows launch more deals; 3) using an instrumental–variable approach, affected firms take out more loans at lower spreads, increase employment, and expand operations; 4) effects are stronger for private than public firms. These findings reveal significant frictions in the loan securitization market.</content>
-    <link href="https://www.nber.org/papers/w33449"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -663,6 +627,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Emerging markets face large and persistent fluctuations in sovereign spreads. To what extent are these fluctuations driven by local shocks versus financial conditions in advanced economies? To answer this question, we develop a neoclassical business cycle model of a world economy with an advanced country, the North, and many emerging market economies, the South. Northern households invest in domestic stocks, domestic defaultable bonds, and international sovereign debt. Over the 2008-2016 period, the global cycle phase, the North accounts for 68% of Southern spreads’ fluctuations. Over the whole 1994-2024 period, however, Northern shocks account for less than 20% of these fluctuations.</content>
     <link href="https://www.nber.org/papers/w33441"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33462</id>
+    <title>Student Loan Forgiveness</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael Dinerstein, Samuel Earnest, Dmitri K. Koustas &amp; Constantine Yannelis</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Student loan forgiveness has been proposed as a means to alleviate soaring student loan burdens. This paper uses administrative credit bureau data to study the distributional, consumption, borrowing, and employment effects of the largest event of student loan forgiveness in history. Beginning in March 2021, the United States federal government ordered $132 billion in student loans cancelled, or 7.8% of the total $1.7 trillion in outstanding student debt. We estimate that forgiven borrowers’ predicted monthly earnings were $115 higher than borrowers who did not receive forgiveness and $193 more than the general population. We find that student loan forgiveness led to increases in mortgage, auto, and credit card debt by 9 cents for every dollar forgiven. Borrowers’ monthly earnings and employment fell, at increasing rates for each month post forgiveness. The implied Marginal Propensities for Consumption (MPC) and Earnings (MPE) are 0.27 and -0.49, respectively.</content>
+    <link href="https://www.nber.org/papers/w33462"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -763,6 +739,30 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33453</id>
+    <title>Spatial Economics for Low- and Middle-Income Countries</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gharad T. Bryan, Kyra Frye &amp; Melanie Morten</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Research at the intersection of development and spatial economics is increasingly important to address pressing issues in rapidly-urbanizing cities in low- and middle- income countries. This handbook chapter presents the canonical spatial model and then explores it through the lens of development economics, pointing out the "on-the-ground" facts of missing markets, frictions, and context-specific parameters that are often absent in applications of the model. We then discuss what the existing literature and the spatial model tell us about the optimal allocation of labor across space. We close by highlighting exciting possibilities for future work that integrates the spatial model with the reality of low- and middle-income countries.</content>
+    <link href="https://www.nber.org/papers/w33453"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33447</id>
+    <title>The Hidden Toll of Airborne Lead: Infant Mortality Impacts of Industrial Lead Pollution</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Karen Clay, Edson R. Severnini &amp; Xiao Wang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper uses U.S. Toxic Release Inventory data on air lead emissions to provide IV estimates of the effects of air lead concentration on infant mortality. The causal effect of lead on infant mortality is identified by annual variation in air fugitive lead emissions interacted with wind speed near reporting plants, which together determine local ambient lead concentration. Unlike stack emissions, which occur routinely and may prompt avoidance behavior, fugitive emissions are intermittent and influenced by both historical and current factors, such as wind speed variation, making them difficult to avoid. The paper has two main findings. First, higher air lead concentration causes higher infant mortality in the first month and in the first year, suggesting that both in utero and environmental exposures matter. Second, higher lead concentration increases deaths from low birthweight, sudden unexplained infant death (SUID), and respiratory and nervous system causes, which is consistent with findings from animal studies, even when accounting for behavioral responses. Back of the envelope calculations indicate that declines in fugitive lead emissions prevented 34-59 infant deaths per year, generating benefits of $380-$670 million annually in 2023 dollars.</content>
+    <link href="https://www.nber.org/papers/w33447"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33446</id>
     <title>Did the Modern Mortgage Set the Stage for the U.S. Baby Boom?</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -847,6 +847,102 @@
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33489</id>
+    <title>High-Speed Rail and China's Electric Vehicle Adoption Miracle</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hanming Fang, Ming Li, Long Wang &amp; Zoe Yang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using China's expansion of the high-speed rail system (HSR) as a quasi-natural experiment, we analyze the comprehensive vehicle registration data from 2010 to 2023 to estimate the causal impact of HSR connectivity on the adoption of electric vehicles (EVs). Implementing several identification strategies, including staggered difference-in-differences (DID), Callaway and Sant'Anna (CS) DID, and two instrumental-variable approaches, we consistently find that, by alleviating range anxiety, the expansion of HSR can account for up to one third of the increase in EV market share and EV sales in China during our sample period, with effects particularly pronounced in cities served by faster HSR lines. The results remain robust when controlling for local industrial policies, charging infrastructure growth, supply-side factors, and economic development. We also find that HSR connectivity amplifies the effectiveness of charging infrastructure and consumer purchase subsidies in promoting EV adoption.</content>
+    <link href="https://www.nber.org/papers/w33489"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33470</id>
+    <title>An Alpha in Affordable Housing?</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sven Damen, Matthijs Korevaar &amp; Stijn Van Nieuwerburgh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Residential properties with the lowest rent levels provide the highest investment returns to their owners. Using detailed rent, cost, and price data from the United States, Belgium, and The Netherlands, we show that this phenomenon holds across housing markets and time. If anything, low-rent units hedge business cycle risk. We also find no evidence for differential regulatory risk exposure. We document segmentation of investors, with large corporate landlords shying away from the low-tier segment possibly for reputational reasons. Financial constraints prevent renters from purchasing their property and medium-sized landlords from scaling up, sustaining excess risk-adjusted returns. Low-income tenants ultimately pay the price for this segmentation in the form of a high rent burden.</content>
+    <link href="https://www.nber.org/papers/w33470"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33469</id>
+    <title>The Labor Market Impact of Digital Technologies</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sangmin Aum &amp; Yongseok Shin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We investigate the impact of digital technology on employment patterns in Korea, where firms have rapidly adopted digital technologies such as artificial intelligence (AI), big data, and the internet of things (IoT). By exploiting regional variations in technology exposure, we find significant negative effects on high-skill and female workers, particularly those in non-IT (information technology) services. This contrasts with previous technological disruptions, such as the IT revolution and robotization, which primarily affected low-skill male workers in manufacturing. In IT services, although high-skill employment declined, vacancy postings for high-skill workers increased, implying a shift in labor demand toward newer skill sets. These findings highlight both the labor displacement and the new opportunities generated by digital transformation.</content>
+    <link href="https://www.nber.org/papers/w33469"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33488</id>
+    <title>Monetary Policy Under Okun’s Hypothesis</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Felipe Alves &amp; Giovanni L. Violante</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The current monetary policy framework of the Fed intends to be more ’inclusive’ by running the economy hot for longer during expansions. The logic of this strategy rests on Okun’s (1973) hypothesis that sustaining a ‘high-pressure economy’ persistently improves labor market outcomes of low-wage workers. To evaluate this conjecture, we develop a Heterogeneous Agent New Keynesian framework with a three-state frictional model of the labor market where low-skilled workers are more exposed to the business cycle and recessions have a long-lasting effect on their labor force participation and earnings, in line with the evidence. Under a canonical Inflation Targeting rule, the ZLB generates a deflationary bias and severely amplifies the persistent scars of recessions at the bottom of the wage distribution. The Lower-for-Longer strategy is an effective antidote to the ZLB-driven hysteresis and leads to notable earnings gains for low-wage workers and a reduction to overall earnings inequality. If pursued aggressively, however, the policy reverts the inflation bias from negative to positive. Since policymakers might prioritize differently inflation relative to inclusion, we conclude by quantifying the inflation-inclusion trade-off implied by various monetary policy rules.</content>
+    <link href="https://www.nber.org/papers/w33488"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33487</id>
+    <title>Economic Shocks and Healthcare Capital Investments</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael R. Richards, Maggie Shi &amp; Christopher M. Whaley</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Information technology (IT) can enhance firms’ long-run performance but is also a risky investment, with high fixed costs and uncertain returns. Whether market events influence this tradeoff has received limited attention. We leverage the healthcare context to empirically examine hospitals’ IT investments following economic downturns and public insurance expansions––i.e., large industry shocks in opposite directions. We find novel and symmetrical responses. Recessions restrain investments while expansion policy indirectly stimulates them. Importantly, the IT margin is more elastic than other spending responses to market fluctuations. Supplementary analyses suggest that hospitals’ finances and perceptions of uncertainty drive these capital investment adjustments.</content>
+    <link href="https://www.nber.org/papers/w33487"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33468</id>
+    <title>Dodging Day Zero: Drought, Adaptation, and Inequality in Cape Town</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alexander C. Abajian, Cassandra Cole, Kelsey Jack, Kyle C. Meng &amp; Martine Visser</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A near-catastrophic drought in Cape Town, South Africa illustrates three general implications of climate change for publicly-provided utility services. First, to reduce aggregate water demand, the public utility increased prices, leading to large demand reductions by richer households. Prior to the drought they use twice the public piped water of poorer households. At the peak of the drought, they use less. Second, some of the differential demand reduction comes from richer households substituting away from public water toward privately financed groundwater.  This private adaptation both lowers the public utility's total revenue and shifts costs onto poorer households, consequences that persist after the drought abates.  Third, policy interventions mitigate some of the fiscal and distributional impacts of private adaptation. These findings highlight how climate adaptation, in the context of publicly provided goods and services, can create pecuniary and environmental externalities with equity consequences.</content>
+    <link href="https://www.nber.org/papers/w33468"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33476</id>
+    <title>How Costly Are Business Cycle Volatility and Inflation? A Vox Populi Approach</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Dimitris Georgarakos ⓡ Kwang Hwan Kim ⓡ Olivier Coibion ⓡ Myungkyu Shim ⓡ Myunghwan Andrew Lee ⓡ Yuriy Gorodnichenko ⓡ Geoff Kenny ⓡ Seowoo Han ⓡ Michael Weber</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using surveys of households across thirteen countries, we study how much individuals would be willing to pay to eliminate business cycles. These direct estimates are much higher than traditional measures following Lucas (2003): on average, households would be prepared to sacrifice around 5-6% of their lifetime consumption to eliminate business cycle fluctuations. A similar result holds for inflation: to bring inflation to their desired rate, individuals would be willing to sacrifice around 5% of their consumption. Willingness to pay to eliminate business cycles and inflation is generally higher for those whose consumption is more pro-cyclical, those who are more uncertain about the economic outlook, and those who live in countries with greater historical volatility.</content>
+    <link href="https://www.nber.org/papers/w33476"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33475</id>
+    <title>The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>David G. Blanchflower &amp; Alex Bryson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the age profile of subjective wellbeing and illbeing in nine Asian countries (Bangladesh, Hong Kong, India, Indonesia, Japan, Pakistan, Philippines, Singapore, Sri Lanka) and seven Middle Eastern countries (Iraq, Israel, Jordan, Turkey, Saudi Arabia, the UAE and Yemen).  We find the relationship between age and reported wellbeing differs according to the way the survey is conducted. In the Gallup World Poll, where the data are collected by interviewers face-to-face or by telephone (computer-aided telephone interviews, or CATI) the young are the happiest and the results are the same across the two survey modes.  We find the same result in CATI surveys in the Global Flourishing Survey (GFS) of 2022-2024 in 7 Asian and Middle Eastern (AME) countries.  However, when the GFS survey is conducted on the web (computer-aided web interview, or CAWI) wellbeing is u-shaped in age, and is highest among the oldest respondents. If we turn to negative affect measures (loneliness, anxiety, depression, worry) these rise with age using CATI but fall with age using CAWI. We look for survey mode switching in the age coefficient across 40 outcomes.  In general, the switch is confined to subjective wellbeing and illbeing metrics.  Switching does not occur when respondents are asked about their physical health, bodily pain, unemployment status, drinking and smoking, or personality-related questions.  It appears that the mode effect is largely confined to how individuals rate their subjective wellbeing and illbeing. The results are suggestive of social desirability response bias which leads young people to under-report socially undesirable affective states to interviewers.</content>
+    <link href="https://www.nber.org/papers/w33475"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33474</id>
     <title>Misspecification-Robust Shrinkage and Selection for VAR Forecasts and IRFs</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -855,42 +951,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;VARs are often estimated with Bayesian techniques to cope with model dimensionality. The posterior means define a class of shrinkage estimators, indexed by hyperparameters that determine the relative weight on maximum likelihood estimates and prior means. In a Bayesian setting, it is natural to choose these  hyperparameters by maximizing  the marginal data density. However, this is undesirable if the VAR is misspecified. In this paper, we derive asymptotically unbiased estimates of the multi-step forecasting risk and the impulse response estimation risk to determine hyperparameters in settings where the VAR is (potentially)  misspecified. The proposed criteria can be used to jointly select the optimal shrinkage hyperparameter, VAR lag length, and to choose among different types of multi-step-ahead predictors; or among IRF estimates based on VARs and local projections. The selection approach is illustrated in a Monte Carlo study and an empirical application.</content>
     <link href="https://www.nber.org/papers/w33474"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33495</id>
-    <title>Does Peer Review Penalize Scientific Risk Taking? Evidence from NIH Grant Renewals</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pierre Azoulay &amp; Wesley H. Greenblatt</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Scientific projects that carry a high degree of risk may be more likely to lead to breakthroughs yet also face challenges in winning the support necessary to be carried out. We analyze the determinants of renewal for more than 100,000 R01 grants from the National Institutes of Health between 1980 and 2015. We use four distinct proxies to measure risk taking: extreme tail outcomes, disruptiveness, pivoting from an investigator’s prior work, and standing out from the crowd in one’s field. After carefully controlling for investigator, grant, and institution characteristics, we measure the association between risk taking and grant renewal. Across each of these measures, we find that risky grants are renewed at markedly lower rates than less risky ones. We also provide evidence that the magnitude of the risk penalty is magnified for more novel areas of research and novice investigators, consistent with the academic community’s perception that current scientific institutions do not motivate exploratory research adequately.</content>
-    <link href="https://www.nber.org/papers/w33495"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33483</id>
-    <title>Venture Capital Start-up Selection</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Young Soo Jang &amp; Steven N. Kaplan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study venture capital (VC) selection using the deal flow and investment decisions for more than 8,000 sourced deals from one early-stage VC in detail.  The (unconditional) likelihood that a sourced start-up raises at least $1 million in VC funding from some VC firm is roughly 30%.  The deals the VC scored and invested in perform better than the deals the VC scored and did not invest which perform better than the deals the VC did not score, suggesting that the VC has selection ability.  At the same time, the selection is noisy as only 32% (13%) of the invested firms have raised more than $10 ($25) million in VC funding.  The VC evaluated the deals it scored on team, market, product and exit characteristics.  Team is most successful at explaining VC funding of at least $1 million, but does not explain larger financings or success.  Market and product have more explanatory power for VC funding of more than $10, $25 and $50 million as well as longer term outcomes.  Consistent with other recent work, this is consistent with VCs overweighting team in their initial investment decision.</content>
-    <link href="https://www.nber.org/papers/w33483"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33482</id>
-    <title>The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eduardo Montero, Dean Yang &amp; Triana Yentzen</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do economic costs affect religious choices, and how do religious institutions adapt to economic realities? We study the Seventh-Day Adventist (SDA) church in Sub-Saharan Africa, which prohibits production of tobacco, coffee, and tea, creating salient opportunity costs for potential members in areas suitable for these crops. We construct a measure of SDA membership opportunity cost that varies over time and space based on local crop suitability and export prices. Using church administrative data and member surveys, we find that increased opportunity costs lead to lower membership growth and lower satisfaction with the church among existing members. The church responds by establishing new educational and health institutions and reducing emphasis on "healthy living" religious tenets. These findings reveal how religious organizations can show striking flexibility in balancing tradition and adaptation when faced with economic pressures. Our study provides new insights into the microeconomics of cultural change, as mediated by religious institutions.</content>
-    <link href="https://www.nber.org/papers/w33482"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -927,6 +987,114 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present a theory of decisions in which attention to the features of choice options is determined by the decision maker's categorization of the current choice problem in a set of problems she solved in the past. Categorization depends on goal-relevant as well as contextual problem-level features. The model yields systematic heterogeneity in attention and choice in a given problem based on different past experiences, rigidity of choices when categorization does not change despite new data, and discontinuous shifts when changes in bottom-up salient features cause re-categorization. The model unifies major puzzles and framing effects in riskless, statistical, and lottery choice based on heterogenous and unstable mental representations.</content>
     <link href="https://www.nber.org/papers/w33466"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33465</id>
+    <title>The Effect of US COVID-19 Excess Mortality on Social Security Outlays</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hanke Heun-Johnson, Darius Lakdawalla, Julian Reif &amp; Bryan Tysinger</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic has resulted in significant excess mortality among the US population, impacting the future outlays of the US Social Security Administration (SSA) Old Age, Survivors, and Disability Insurance (OASDI) program. This study aimed to estimate the net effects of pandemic-induced excess deaths on OASDI liabilities, utilizing dynamic microsimulation models, and examined how these effects vary across different socioeconomic and racial-ethnic groups. Data on excess deaths were obtained from the CDC and processed to account for seasonal variations and demographic disparities. The simulation incorporated demographic and health status variables to project OASDI retirement and disability benefits, and survivors’ benefits for spouses and children, for respondents with highest COVID mortality risk. The pandemic resulted in approximately 1.7 million excess deaths among individuals aged 25 and older between 2020 and 2023. These premature deaths reduced future retirement payments, which increased the Social Security fund by $294 billion. However, this gain was offset by reductions in future payroll tax flows ($58 billion) and increased payments to surviving spouses and children ($32 billion), resulting in a net impact of $205 billion. Non-Hispanic Black and Hispanic decedents left behind more underage children per capita, yet payments to their surviving family members were lower compared to non-Hispanic White decedents, across all educational levels. Excess mortality during the COVID-19 pandemic has complex implications for the OASDI program. While there is an estimated net positive financial impact due to reduced future retirement benefits, this effect is mitigated by decreased payroll tax contributions and increased survivors’ benefits. The differential impact by race and ethnicity highlights existing inequalities and underscores the importance of considering demographic disparities in future projections of Social Security liabilities. These findings provide critical insights for informing SSA trust fund projections and policy decisions.</content>
+    <link href="https://www.nber.org/papers/w33465"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33486</id>
+    <title>The (Un)Intended Consequences of Oil Sanctions Through the Dark Shipping of Sanctioned Oil</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Le Xu &amp; Francesco Zanetti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the rise of dark shipping—oil tankers disabling AIS transceivers to evade detection—amid Western sanctions on Iran, Syria, North Korea, Venezuela, and Russia. Using a machine learning-based ship clustering model, we track dark-shipped crude oil trade flows worldwide and detect unauthorized ship-to-ship transfers. From 2017 to 2023, dark ships transported an estimated 7.8 million metric tons of crude oil monthly—43% of global seaborne crude exports—with China absorbing 15%. These sanctioned flows offset recorded declines in global oil exports but create distinct economic shifts. The U.S., a net oil exporter, faces lower oil prices but benefits from cheaper Chinese imports, driving deflationary growth. The EU, a net importer, contends with rising energy costs yet gains from Chinese demand, fueling inflationary expansion. China, leveraging discounted oil, boosts industrial output, propagating global economic shocks. Our findings expose dark shipping's central role in reshaping oil markets and macroeconomic dynamics.</content>
+    <link href="https://www.nber.org/papers/w33486"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33485</id>
+    <title>Policy Interventions and China’s Stock Market in the Early Stages of the COVID-19 Pandemic</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Steven J. Davis, Dingqian Liu, Xuguang Simon Sheng &amp; Yan Wang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;China’s stock market greatly outperformed other national markets during the first several months of the COVID-19 pandemic, and it did so even before it became evident that early containment efforts would flounder in the United States and many other countries. As to why, one view holds that aggressive monetary and credit easing propped up Chinese equity values. To assess this view, we consider several interventions that eased monetary and credit conditions in the first six months of 2020. Our analysis finds clear evidence that these interventions raised implied stock market volatility but little evidence that they influenced stock price levels. We also consider policy actions that restricted short selling, limited stock sales, and boosted stock purchases. These efforts to raise net equity demand were small in scale and highly time-limited, as we discuss, suggesting that any direct effects on stock prices were also modest. Neither our study nor other work known to us provides a ready explanation for the extraordinary performance of China’s stock market in the first half of 2020. This performance is even more striking in hindsight, given later developments in China’s economy and stock market.</content>
+    <link href="https://www.nber.org/papers/w33485"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33495</id>
+    <title>Does Peer Review Penalize Scientific Risk Taking? Evidence from NIH Grant Renewals</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pierre Azoulay &amp; Wesley H. Greenblatt</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Scientific projects that carry a high degree of risk may be more likely to lead to breakthroughs yet also face challenges in winning the support necessary to be carried out. We analyze the determinants of renewal for more than 100,000 R01 grants from the National Institutes of Health between 1980 and 2015. We use four distinct proxies to measure risk taking: extreme tail outcomes, disruptiveness, pivoting from an investigator’s prior work, and standing out from the crowd in one’s field. After carefully controlling for investigator, grant, and institution characteristics, we measure the association between risk taking and grant renewal. Across each of these measures, we find that risky grants are renewed at markedly lower rates than less risky ones. We also provide evidence that the magnitude of the risk penalty is magnified for more novel areas of research and novice investigators, consistent with the academic community’s perception that current scientific institutions do not motivate exploratory research adequately.</content>
+    <link href="https://www.nber.org/papers/w33495"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33494</id>
+    <title>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jorge Luis García</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I investigate the intra-household labor and resource allocation consequences of an employment guarantee targeting rural households in India. The guarantee insures household earnings, replacing women as added workers and shutting down a motive for saving. Despite sizable program-job take-up, the guarantee decreases participation in other working activities, and, thus, the labor force participation of married women and total time worked by their husbands. The guarantee accounts for up to 30% of a recent countrywide decrease in rural female labor force participation. Though it increases household consumption, the guarantee reduces the command of household earnings by women, and, thereby, their well-being.</content>
+    <link href="https://www.nber.org/papers/w33494"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33493</id>
+    <title>Optimal Spatial Policies</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pablo D. Fajgelbaum &amp; Cecile Gaubert</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We summarize recent methods to study optimal spatial policies. We center the discussion on policies that implement the optimal distribution of population in the presence of spatial spillovers, spatial transfers to optimally tackle redistribution between rich and poor regions, and optimal transportation investments.</content>
+    <link href="https://www.nber.org/papers/w33493"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33484</id>
+    <title>The Welfare Benefits of Pay-As-You-Go Financing</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Paul Gertler, Brett Green, Renping Li &amp; David Sraer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Pay-as-you-go (PAYGo) financing is a novel contract that has recently become a popular form of credit, especially in low- and middle-income countries (LMICs). PAYGo financing relies on lockout technology that enables the lender to remotely disable the flow benefits of collateral when the borrower misses payments. This paper quantifies the welfare implications of PAYGo financing. We develop a dynamic structural model of consumers and estimate the model using a multi-arm, large scale pricing experiment conducted by a fintech lender that offers PAYGo financing for smartphones. We find that the welfare gains from access to PAYGo financing are equivalent to a 3.4% increase in income while remaining highly profitable for the lender. The welfare gains are larger for low-risk consumers and consumers in the middle of the income distribution. Under reasonable assumptions, PAYGo financing outperforms traditional secured loans for all but the riskiest consumers. We explore contract design and identify variations of the PAYGo contract that further improve welfare.</content>
+    <link href="https://www.nber.org/papers/w33484"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33483</id>
+    <title>Venture Capital Start-up Selection</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Young Soo Jang &amp; Steven N. Kaplan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study venture capital (VC) selection using the deal flow and investment decisions for more than 8,000 sourced deals from one early-stage VC in detail.  The (unconditional) likelihood that a sourced start-up raises at least $1 million in VC funding from some VC firm is roughly 30%.  The deals the VC scored and invested in perform better than the deals the VC scored and did not invest which perform better than the deals the VC did not score, suggesting that the VC has selection ability.  At the same time, the selection is noisy as only 32% (13%) of the invested firms have raised more than $10 ($25) million in VC funding.  The VC evaluated the deals it scored on team, market, product and exit characteristics.  Team is most successful at explaining VC funding of at least $1 million, but does not explain larger financings or success.  Market and product have more explanatory power for VC funding of more than $10, $25 and $50 million as well as longer term outcomes.  Consistent with other recent work, this is consistent with VCs overweighting team in their initial investment decision.</content>
+    <link href="https://www.nber.org/papers/w33483"/>
+    <category term="NBER"/>
+    <published>2025-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33482</id>
+    <title>The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa</title>
+    <updated>2025-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eduardo Montero, Dean Yang &amp; Triana Yentzen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do economic costs affect religious choices, and how do religious institutions adapt to economic realities? We study the Seventh-Day Adventist (SDA) church in Sub-Saharan Africa, which prohibits production of tobacco, coffee, and tea, creating salient opportunity costs for potential members in areas suitable for these crops. We construct a measure of SDA membership opportunity cost that varies over time and space based on local crop suitability and export prices. Using church administrative data and member surveys, we find that increased opportunity costs lead to lower membership growth and lower satisfaction with the church among existing members. The church responds by establishing new educational and health institutions and reducing emphasis on "healthy living" religious tenets. These findings reveal how religious organizations can show striking flexibility in balancing tradition and adaptation when faced with economic pressures. Our study provides new insights into the microeconomics of cultural change, as mediated by religious institutions.</content>
+    <link href="https://www.nber.org/papers/w33482"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
@@ -980,150 +1148,6 @@ Our results show that the firm composition of shock exposure does matter for med
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33476</id>
-    <title>How Costly Are Business Cycle Volatility and Inflation? A Vox Populi Approach</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Dimitris Georgarakos ⓡ Kwang Hwan Kim ⓡ Olivier Coibion ⓡ Myungkyu Shim ⓡ Myunghwan Andrew Lee ⓡ Yuriy Gorodnichenko ⓡ Geoff Kenny ⓡ Seowoo Han ⓡ Michael Weber</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using surveys of households across thirteen countries, we study how much individuals would be willing to pay to eliminate business cycles. These direct estimates are much higher than traditional measures following Lucas (2003): on average, households would be prepared to sacrifice around 5-6% of their lifetime consumption to eliminate business cycle fluctuations. A similar result holds for inflation: to bring inflation to their desired rate, individuals would be willing to sacrifice around 5% of their consumption. Willingness to pay to eliminate business cycles and inflation is generally higher for those whose consumption is more pro-cyclical, those who are more uncertain about the economic outlook, and those who live in countries with greater historical volatility.</content>
-    <link href="https://www.nber.org/papers/w33476"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33475</id>
-    <title>The Mental Health of the Young in Asia and the Middle East: The Importance of Self-Reports</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>David G. Blanchflower &amp; Alex Bryson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the age profile of subjective wellbeing and illbeing in nine Asian countries (Bangladesh, Hong Kong, India, Indonesia, Japan, Pakistan, Philippines, Singapore, Sri Lanka) and seven Middle Eastern countries (Iraq, Israel, Jordan, Turkey, Saudi Arabia, the UAE and Yemen).  We find the relationship between age and reported wellbeing differs according to the way the survey is conducted. In the Gallup World Poll, where the data are collected by interviewers face-to-face or by telephone (computer-aided telephone interviews, or CATI) the young are the happiest and the results are the same across the two survey modes.  We find the same result in CATI surveys in the Global Flourishing Survey (GFS) of 2022-2024 in 7 Asian and Middle Eastern (AME) countries.  However, when the GFS survey is conducted on the web (computer-aided web interview, or CAWI) wellbeing is u-shaped in age, and is highest among the oldest respondents. If we turn to negative affect measures (loneliness, anxiety, depression, worry) these rise with age using CATI but fall with age using CAWI. We look for survey mode switching in the age coefficient across 40 outcomes.  In general, the switch is confined to subjective wellbeing and illbeing metrics.  Switching does not occur when respondents are asked about their physical health, bodily pain, unemployment status, drinking and smoking, or personality-related questions.  It appears that the mode effect is largely confined to how individuals rate their subjective wellbeing and illbeing. The results are suggestive of social desirability response bias which leads young people to under-report socially undesirable affective states to interviewers.</content>
-    <link href="https://www.nber.org/papers/w33475"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33494</id>
-    <title>Guaranteed Employment in Rural India: Intra-Household Labor and Resource Allocation Consequences</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jorge Luis García</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I investigate the intra-household labor and resource allocation consequences of an employment guarantee targeting rural households in India. The guarantee insures household earnings, replacing women as added workers and shutting down a motive for saving. Despite sizable program-job take-up, the guarantee decreases participation in other working activities, and, thus, the labor force participation of married women and total time worked by their husbands. The guarantee accounts for up to 30% of a recent countrywide decrease in rural female labor force participation. Though it increases household consumption, the guarantee reduces the command of household earnings by women, and, thereby, their well-being.</content>
-    <link href="https://www.nber.org/papers/w33494"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33493</id>
-    <title>Optimal Spatial Policies</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pablo D. Fajgelbaum &amp; Cecile Gaubert</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We summarize recent methods to study optimal spatial policies. We center the discussion on policies that implement the optimal distribution of population in the presence of spatial spillovers, spatial transfers to optimally tackle redistribution between rich and poor regions, and optimal transportation investments.</content>
-    <link href="https://www.nber.org/papers/w33493"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33486</id>
-    <title>The (Un)Intended Consequences of Oil Sanctions Through the Dark Shipping of Sanctioned Oil</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Le Xu &amp; Francesco Zanetti</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the rise of dark shipping—oil tankers disabling AIS transceivers to evade detection—amid Western sanctions on Iran, Syria, North Korea, Venezuela, and Russia. Using a machine learning-based ship clustering model, we track dark-shipped crude oil trade flows worldwide and detect unauthorized ship-to-ship transfers. From 2017 to 2023, dark ships transported an estimated 7.8 million metric tons of crude oil monthly—43% of global seaborne crude exports—with China absorbing 15%. These sanctioned flows offset recorded declines in global oil exports but create distinct economic shifts. The U.S., a net oil exporter, faces lower oil prices but benefits from cheaper Chinese imports, driving deflationary growth. The EU, a net importer, contends with rising energy costs yet gains from Chinese demand, fueling inflationary expansion. China, leveraging discounted oil, boosts industrial output, propagating global economic shocks. Our findings expose dark shipping's central role in reshaping oil markets and macroeconomic dynamics.</content>
-    <link href="https://www.nber.org/papers/w33486"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33485</id>
-    <title>Policy Interventions and China’s Stock Market in the Early Stages of the COVID-19 Pandemic</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Steven J. Davis, Dingqian Liu, Xuguang Simon Sheng &amp; Yan Wang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;China’s stock market greatly outperformed other national markets during the first several months of the COVID-19 pandemic, and it did so even before it became evident that early containment efforts would flounder in the United States and many other countries. As to why, one view holds that aggressive monetary and credit easing propped up Chinese equity values. To assess this view, we consider several interventions that eased monetary and credit conditions in the first six months of 2020. Our analysis finds clear evidence that these interventions raised implied stock market volatility but little evidence that they influenced stock price levels. We also consider policy actions that restricted short selling, limited stock sales, and boosted stock purchases. These efforts to raise net equity demand were small in scale and highly time-limited, as we discuss, suggesting that any direct effects on stock prices were also modest. Neither our study nor other work known to us provides a ready explanation for the extraordinary performance of China’s stock market in the first half of 2020. This performance is even more striking in hindsight, given later developments in China’s economy and stock market.</content>
-    <link href="https://www.nber.org/papers/w33485"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33484</id>
-    <title>The Welfare Benefits of Pay-As-You-Go Financing</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Paul Gertler, Brett Green, Renping Li &amp; David Sraer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Pay-as-you-go (PAYGo) financing is a novel contract that has recently become a popular form of credit, especially in low- and middle-income countries (LMICs). PAYGo financing relies on lockout technology that enables the lender to remotely disable the flow benefits of collateral when the borrower misses payments. This paper quantifies the welfare implications of PAYGo financing. We develop a dynamic structural model of consumers and estimate the model using a multi-arm, large scale pricing experiment conducted by a fintech lender that offers PAYGo financing for smartphones. We find that the welfare gains from access to PAYGo financing are equivalent to a 3.4% increase in income while remaining highly profitable for the lender. The welfare gains are larger for low-risk consumers and consumers in the middle of the income distribution. Under reasonable assumptions, PAYGo financing outperforms traditional secured loans for all but the riskiest consumers. We explore contract design and identify variations of the PAYGo contract that further improve welfare.</content>
-    <link href="https://www.nber.org/papers/w33484"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33467</id>
-    <title>Labor Market Monopsony: Fundamentals and Frontiers</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Patrick M. Kline</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter reviews the theory of monopsonistic wage setting, its empirical implications, and some puzzles the framework has struggled to explain. We begin by examining the fundamentals of monopsonistic wage determination. The core of the theory is a mapping from the distribution of worker outside options to wages. We study non-parametric shape restrictions that ensure this mapping is unique. Building on these results, we introduce a menu of tractable parametrizations of labor supply to the firm, some of which are shown to emerge naturally from equilibrium search models. Next, we review why wage markdowns do not necessarily signal inefficiency and discuss some criteria for assessing misallocation in a monopsony model with search frictions. Turning to the model’s empirical implications, we examine how the magnitude of productivity-wage passthrough depends on the super-elasticity of labor supply to the firm and establish that compensating differentials for firm amenities depend on the curvature of the outside option distribution. We show that firm-specific shifts in either productivity or amenities can be used as instruments to identify labor supply elasticities and review strategies for estimating non-constant elasticities. We then consider extensions of the basic model involving third-degree wage discrimination and examine their ability to rationalize patterns of worker-firm sorting. Monopsony models traditionally assume that firms commit to posted wages. Relaxing this assumption, we develop a connection between the first-order conditions of the monopsony model and models of bargaining with incomplete information. These models explain why bilateral inefficiencies may persist in the presence of negotiation, yield predictions about the response of within-firm wage dispersion to productivity shocks, and suggest reasons why some productivity shifters may not constitute excludable instruments. Next, we endogenize productivity by allowing for efficiency wages, non-constant returns to scale, and price-cost markups. Empirical monopsony estimates often suggest that firms enjoy implausibly large profit margins. We argue that allowing for non-constant labor supply elasticities and firm adjustment costs can potentially resolve this difficulty. Finally, we review why the strong passthrough of minimum wages to product prices presents a challenging puzzle for standard monopsony models and discuss potential reconciliations to this puzzle involving firm heterogeneity, quality changes, and lumpy price adjustment.</content>
-    <link href="https://www.nber.org/papers/w33467"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33473</id>
-    <title>Understanding the Role of Genetic Heterogeneity in Smoking Interventions: Experimental Evidence from the Lung Health Study</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Shubhashrita Basu, Jason Fletcher, Qiongshi Lu, Jiacheng Miao &amp; Lauren L. Schmitz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine whether genome-wide summary measures of genetic risk known as polygenic indices (PGIs) provide new insights into the efficacy of the Lung Health Study (LHS)–a large, randomized controlled trial (RCT) that evaluated the effect of a smoking cessation intervention program on cessation maintenance and lung function. Results indicate that the intervention was less successful for participants with higher PGIs for smoking initiation and intensity. Given the increasing availability and affordability of genomic data, we argue that in the context of RCTs, PGIs can further our understanding of heterogeneous treatment effects and the mechanisms that may be driving them.</content>
-    <link href="https://www.nber.org/papers/w33473"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33465</id>
-    <title>The Effect of US COVID-19 Excess Mortality on Social Security Outlays</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Hanke Heun-Johnson, Darius Lakdawalla, Julian Reif &amp; Bryan Tysinger</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic has resulted in significant excess mortality among the US population, impacting the future outlays of the US Social Security Administration (SSA) Old Age, Survivors, and Disability Insurance (OASDI) program. This study aimed to estimate the net effects of pandemic-induced excess deaths on OASDI liabilities, utilizing dynamic microsimulation models, and examined how these effects vary across different socioeconomic and racial-ethnic groups. Data on excess deaths were obtained from the CDC and processed to account for seasonal variations and demographic disparities. The simulation incorporated demographic and health status variables to project OASDI retirement and disability benefits, and survivors’ benefits for spouses and children, for respondents with highest COVID mortality risk. The pandemic resulted in approximately 1.7 million excess deaths among individuals aged 25 and older between 2020 and 2023. These premature deaths reduced future retirement payments, which increased the Social Security fund by $294 billion. However, this gain was offset by reductions in future payroll tax flows ($58 billion) and increased payments to surviving spouses and children ($32 billion), resulting in a net impact of $205 billion. Non-Hispanic Black and Hispanic decedents left behind more underage children per capita, yet payments to their surviving family members were lower compared to non-Hispanic White decedents, across all educational levels. Excess mortality during the COVID-19 pandemic has complex implications for the OASDI program. While there is an estimated net positive financial impact due to reduced future retirement benefits, this effect is mitigated by decreased payroll tax contributions and increased survivors’ benefits. The differential impact by race and ethnicity highlights existing inequalities and underscores the importance of considering demographic disparities in future projections of Social Security liabilities. These findings provide critical insights for informing SSA trust fund projections and policy decisions.</content>
-    <link href="https://www.nber.org/papers/w33465"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33487</id>
-    <title>Economic Shocks and Healthcare Capital Investments</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael R. Richards, Maggie Shi &amp; Christopher M. Whaley</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Information technology (IT) can enhance firms’ long-run performance but is also a risky investment, with high fixed costs and uncertain returns. Whether market events influence this tradeoff has received limited attention. We leverage the healthcare context to empirically examine hospitals’ IT investments following economic downturns and public insurance expansions––i.e., large industry shocks in opposite directions. We find novel and symmetrical responses. Recessions restrain investments while expansion policy indirectly stimulates them. Importantly, the IT margin is more elastic than other spending responses to market fluctuations. Supplementary analyses suggest that hospitals’ finances and perceptions of uncertainty drive these capital investment adjustments.</content>
-    <link href="https://www.nber.org/papers/w33487"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33468</id>
-    <title>Dodging Day Zero: Drought, Adaptation, and Inequality in Cape Town</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alexander C. Abajian, Cassandra Cole, Kelsey Jack, Kyle C. Meng &amp; Martine Visser</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A near-catastrophic drought in Cape Town, South Africa illustrates three general implications of climate change for publicly-provided utility services. First, to reduce aggregate water demand, the public utility increased prices, leading to large demand reductions by richer households. Prior to the drought they use twice the public piped water of poorer households. At the peak of the drought, they use less. Second, some of the differential demand reduction comes from richer households substituting away from public water toward privately financed groundwater.  This private adaptation both lowers the public utility's total revenue and shifts costs onto poorer households, consequences that persist after the drought abates.  Third, policy interventions mitigate some of the fiscal and distributional impacts of private adaptation. These findings highlight how climate adaptation, in the context of publicly provided goods and services, can create pecuniary and environmental externalities with equity consequences.</content>
-    <link href="https://www.nber.org/papers/w33468"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33492</id>
     <title>The Effect of Application Fees on Entry into Patenting</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
@@ -1160,50 +1184,26 @@ Our results show that the firm composition of shock exposure does matter for med
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33489</id>
-    <title>High-Speed Rail and China's Electric Vehicle Adoption Miracle</title>
+    <id>https://www.nber.org/papers/w33467</id>
+    <title>Labor Market Monopsony: Fundamentals and Frontiers</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Hanming Fang, Ming Li, Long Wang &amp; Zoe Yang</name>
+      <name>Patrick M. Kline</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using China's expansion of the high-speed rail system (HSR) as a quasi-natural experiment, we analyze the comprehensive vehicle registration data from 2010 to 2023 to estimate the causal impact of HSR connectivity on the adoption of electric vehicles (EVs). Implementing several identification strategies, including staggered difference-in-differences (DID), Callaway and Sant'Anna (CS) DID, and two instrumental-variable approaches, we consistently find that, by alleviating range anxiety, the expansion of HSR can account for up to one third of the increase in EV market share and EV sales in China during our sample period, with effects particularly pronounced in cities served by faster HSR lines. The results remain robust when controlling for local industrial policies, charging infrastructure growth, supply-side factors, and economic development. We also find that HSR connectivity amplifies the effectiveness of charging infrastructure and consumer purchase subsidies in promoting EV adoption.</content>
-    <link href="https://www.nber.org/papers/w33489"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter reviews the theory of monopsonistic wage setting, its empirical implications, and some puzzles the framework has struggled to explain. We begin by examining the fundamentals of monopsonistic wage determination. The core of the theory is a mapping from the distribution of worker outside options to wages. We study non-parametric shape restrictions that ensure this mapping is unique. Building on these results, we introduce a menu of tractable parametrizations of labor supply to the firm, some of which are shown to emerge naturally from equilibrium search models. Next, we review why wage markdowns do not necessarily signal inefficiency and discuss some criteria for assessing misallocation in a monopsony model with search frictions. Turning to the model’s empirical implications, we examine how the magnitude of productivity-wage passthrough depends on the super-elasticity of labor supply to the firm and establish that compensating differentials for firm amenities depend on the curvature of the outside option distribution. We show that firm-specific shifts in either productivity or amenities can be used as instruments to identify labor supply elasticities and review strategies for estimating non-constant elasticities. We then consider extensions of the basic model involving third-degree wage discrimination and examine their ability to rationalize patterns of worker-firm sorting. Monopsony models traditionally assume that firms commit to posted wages. Relaxing this assumption, we develop a connection between the first-order conditions of the monopsony model and models of bargaining with incomplete information. These models explain why bilateral inefficiencies may persist in the presence of negotiation, yield predictions about the response of within-firm wage dispersion to productivity shocks, and suggest reasons why some productivity shifters may not constitute excludable instruments. Next, we endogenize productivity by allowing for efficiency wages, non-constant returns to scale, and price-cost markups. Empirical monopsony estimates often suggest that firms enjoy implausibly large profit margins. We argue that allowing for non-constant labor supply elasticities and firm adjustment costs can potentially resolve this difficulty. Finally, we review why the strong passthrough of minimum wages to product prices presents a challenging puzzle for standard monopsony models and discuss potential reconciliations to this puzzle involving firm heterogeneity, quality changes, and lumpy price adjustment.</content>
+    <link href="https://www.nber.org/papers/w33467"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33470</id>
-    <title>An Alpha in Affordable Housing?</title>
+    <id>https://www.nber.org/papers/w33473</id>
+    <title>Understanding the Role of Genetic Heterogeneity in Smoking Interventions: Experimental Evidence from the Lung Health Study</title>
     <updated>2025-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Sven Damen, Matthijs Korevaar &amp; Stijn Van Nieuwerburgh</name>
+      <name>Shubhashrita Basu, Jason Fletcher, Qiongshi Lu, Jiacheng Miao &amp; Lauren L. Schmitz</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Residential properties with the lowest rent levels provide the highest investment returns to their owners. Using detailed rent, cost, and price data from the United States, Belgium, and The Netherlands, we show that this phenomenon holds across housing markets and time. If anything, low-rent units hedge business cycle risk. We also find no evidence for differential regulatory risk exposure. We document segmentation of investors, with large corporate landlords shying away from the low-tier segment possibly for reputational reasons. Financial constraints prevent renters from purchasing their property and medium-sized landlords from scaling up, sustaining excess risk-adjusted returns. Low-income tenants ultimately pay the price for this segmentation in the form of a high rent burden.</content>
-    <link href="https://www.nber.org/papers/w33470"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33469</id>
-    <title>The Labor Market Impact of Digital Technologies</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sangmin Aum &amp; Yongseok Shin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We investigate the impact of digital technology on employment patterns in Korea, where firms have rapidly adopted digital technologies such as artificial intelligence (AI), big data, and the internet of things (IoT). By exploiting regional variations in technology exposure, we find significant negative effects on high-skill and female workers, particularly those in non-IT (information technology) services. This contrasts with previous technological disruptions, such as the IT revolution and robotization, which primarily affected low-skill male workers in manufacturing. In IT services, although high-skill employment declined, vacancy postings for high-skill workers increased, implying a shift in labor demand toward newer skill sets. These findings highlight both the labor displacement and the new opportunities generated by digital transformation.</content>
-    <link href="https://www.nber.org/papers/w33469"/>
-    <category term="NBER"/>
-    <published>2025-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33488</id>
-    <title>Monetary Policy Under Okun’s Hypothesis</title>
-    <updated>2025-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Felipe Alves &amp; Giovanni L. Violante</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The current monetary policy framework of the Fed intends to be more ’inclusive’ by running the economy hot for longer during expansions. The logic of this strategy rests on Okun’s (1973) hypothesis that sustaining a ‘high-pressure economy’ persistently improves labor market outcomes of low-wage workers. To evaluate this conjecture, we develop a Heterogeneous Agent New Keynesian framework with a three-state frictional model of the labor market where low-skilled workers are more exposed to the business cycle and recessions have a long-lasting effect on their labor force participation and earnings, in line with the evidence. Under a canonical Inflation Targeting rule, the ZLB generates a deflationary bias and severely amplifies the persistent scars of recessions at the bottom of the wage distribution. The Lower-for-Longer strategy is an effective antidote to the ZLB-driven hysteresis and leads to notable earnings gains for low-wage workers and a reduction to overall earnings inequality. If pursued aggressively, however, the policy reverts the inflation bias from negative to positive. Since policymakers might prioritize differently inflation relative to inclusion, we conclude by quantifying the inflation-inclusion trade-off implied by various monetary policy rules.</content>
-    <link href="https://www.nber.org/papers/w33488"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine whether genome-wide summary measures of genetic risk known as polygenic indices (PGIs) provide new insights into the efficacy of the Lung Health Study (LHS)–a large, randomized controlled trial (RCT) that evaluated the effect of a smoking cessation intervention program on cessation maintenance and lung function. Results indicate that the intervention was less successful for participants with higher PGIs for smoking initiation and intensity. Given the increasing availability and affordability of genomic data, we argue that in the context of RCTs, PGIs can further our understanding of heterogeneous treatment effects and the mechanisms that may be driving them.</content>
+    <link href="https://www.nber.org/papers/w33473"/>
     <category term="NBER"/>
     <published>2025-02-01T00:00:00+00:00</published>
   </entry>
