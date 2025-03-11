@@ -2,117 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>kourosh shafi - daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-03-10T13:39:42.381577+00:00</updated>
+  <updated>2025-03-11T13:40:03.939359+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
   <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf006</id>
-    <title>Investor Memory</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/opre.2023.0218</id>
+    <title>Differential Privacy via Distributionally Robust Optimization</title>
+    <updated>2025-03-10T00:00:00+00:00</updated>
     <author>
-      <name>Katrin Gödker, Peiran Jiao, Paul Smeets</name>
+      <name>Aras Selvi, Huikang Liu, Wolfram Wiesemann</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We provide experimental evidence of a positive memory bias that affects individuals’ beliefs, decisions to reinvest, and overconfidence in the stock market. Individuals overremember positive investment outcomes of chosen assets and underremember negative ones. Based on their memories, subjects form overly optimistic beliefs about their investment, reinvest too much, and become overconfident about their investment ability relative to others. We further provide evidence on motivation driving the memory bias. This positive memory bias offers a cognitive microfoundation for why gains weight more than losses when people learn from experiences. This helps reconcile various stylized facts in investor beliefs and behavior. (JEL D01, G4)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf006"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-03-03T00:00:00+00:00</published>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Privacy-Accuracy Trade-off from an Optimization Lens: Fix a Desired Level of Privacy, Then Maximize AccuracyIn differential privacy, the de facto standard for safeguarding individual information in data analysis, noise is added to statistics to limit the disclosure of sensitive information. Greater privacy requires more noise, creating a trade-off as the added noise reduces the accuracy of the resulting statistics. Historically, researchers have addressed this by restricting themselves to families of noise mechanisms that are sufficient for a predefined privacy level and proving their performance under specific conditions. Selvi, Liu, and Wiesemann propose a novel approach that guarantees optimal accuracy for any specified privacy level. They formulate the design of privacy mechanisms as an optimization problem that minimizes the expected loss associated with the random noise mechanism while encoding differential privacy as constraints. Through detailed analyses and by leveraging tools from distributionally robust optimization, they develop an efficient optimization algorithm and derive implementable solutions with provable guarantees to solve the problem within seconds.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0218"/>
+    <category term="Operations Research"/>
+    <published>2025-03-10T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdaf005</id>
-    <title>Voting on a Trade Agreement: Firm Networks and Attitudes Towards Openness</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2022.02199</id>
+    <title>Promotion Decisions and the Adoption of Explicit Potential Assessment</title>
+    <updated>2025-03-10T00:00:00+00:00</updated>
     <author>
-      <name>Esteban Méndez, Diana Van Patten</name>
+      <name>Isabella Grabner, Judith Künneke, Frank Moers</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We exploit a unique event to study the extent to which popular attitudes towards trade are driven by economic fundamentals. In 2007, Costa Rica put a free trade agreement (FTA) to a national referendum. With a single question on the ballot, 59% of Costa Rican adult citizens cast a vote on whether they wanted an FTA with the U.S. to be ratified or not. We merge disaggregated referendum results, which break new ground on anonymity-compatible voting data, with employer–employee, customs, and firm-to-firm transactions data, and data on household composition and expenditures. We document that a firm’s exposure to the FTA, directly and via input–output linkages, significantly influences the voting behaviour of its employees. This effect dominates that of sector-level exposure and is greater for voters aligned with pro-FTA political candidates. We also show that citizens considered the expected decrease in consumer prices when exercising their vote. Overall, economic factors explain 7% of the variation in voting patterns, which cannot be accounted for by non-economic factors such as political ideology, and played a pivotal role in this vote.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf005"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-03-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251320528</id>
-    <title>Inventory and Supply Chain Planning Systems as Drivers of Supply Chain Resilience: Analyses of Firm Performance Through the COVID-19 Pandemic</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
-    <author>
-      <name>Morgan Swink, Jeremy J Kovach, Joseph Roh</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We combine insights from information processing theory (IPT), supply chain resilience literature, and collaboration with a leading supply chain planning technology provider to study the effects of excess inventory (a buffering tactic) and usage of supply chain planning systems (SCPSs) (a bridging technology) on supply chain resilience. Utilizing the exogenous disruptions caused by the COVID-19 pandemic as the setting for quasi-natural experiments, we compare profit impact and time-to-recover across manufacturing firms that operated with varied levels of inventory and SCPS use in the period leading up to the onset of the pandemic. The results of multiple tests provide no evidence that inventory buffering aided firms in being more resilient, even for firms in industries that experienced positive demand shocks during the pandemic. In contrast, we find that firms that used SCPS evidenced fewer negative financial impacts throughout the disruptive period, and they recovered faster than their peers. The results are robust to sample characteristics, time frame, and control-group matching procedures. Our study extends a growing literature on supply chain resilience by offering a more refined explanation of IPT in a disruptive context, highlighting the limitations of inventory as a buffering tactic, and describing how SCPSs help planners cope with uncertainty and disruptions. In addition, interviews with managers from a leading SCPS provider and from user firms highlight specific ways in which SCPSs provide faster and more effective responses to disruptions. We discuss the implications of these findings for future research.</content>
-    <link href="https://doi.org/10.1177/10591478251320528"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2020.03494</id>
-    <title>Startup Accelerators, Information Asymmetry, and Corporate Venture Capital Investments</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
-    <author>
-      <name>Raveesh Mayya, Peng Huang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Beyond financial incentives, investments by Corporate Venture Capitalists (CVCs) are often motivated by strategic objectives, such as gaining early exposure to emerging technologies. However, in the presence of information asymmetry, CVCs tend to invest in startups with a high degree of business relatedness—startups that are less risky but lacking in knowledge novelty—which are not ideal for achieving their strategic objectives. With startup accelerators showing promise in mitigating the information asymmetry problem, we examine how a CVC’s investment pattern in a region shifts following a startup accelerator’s entry, with a particular interest in the degree of business relatedness between the CVC’s parent corporation and its portfolio companies. Analyses reveal that CVCs increase investments in startups that are dissimilar to their parent’s business following the entry of startup accelerators. We show that the two pathways through which accelerators reduce information asymmetry—quality signals, and mentorship and training—likely contribute to this change. In addition, the change is most pronounced for CVCs whose parent firm operates in an IT-using—rather than an IT-producing—industry, suggesting that accelerators help IT-using firms gain a foothold in the technology space through CVC investments. These findings deepen the understanding of the role that startup accelerators play in the entrepreneurial ecosystem against the backdrop of digital transformation occurring in nearly every industry.This paper was accepted by Kartik Hosanagar, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2020.03494 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2020.03494"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In this study, we leverage the transformation of a performance management system that shifts from only providing a performance rating to also providing an explicit assessment of potential. Although performance measures enable organizations to evaluate an employee’s past performance, they provide limited information regarding the employee’s potential to perform in a prospective job that requires a different skill set. Consequently, firms are gradually moving toward the incorporation of explicit potential assessments in their annual appraisal process to evaluate the employee’s promotability to a different task environment. Our data access allows us to provide evidence on the consequences of implementing a performance management system that adopted the explicit assessment of potential. We find that, on average, the performance of promoted employees is lower after implementation, suggesting that the potential assessment system is less effective in identifying candidates suitable for promotion. Additional analyses lead us to conclude that the difficulty of evaluating employee potential reduces performance upon promotion because of inaccurate recommendations of supervisors who do not sufficiently differentiate in their ratings. We thus identify variation in supervisors’ evaluation quality as an important source of the Peter Principle.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.02199 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.02199"/>
     <category term="Management Science"/>
-    <published>2025-03-03T00:00:00+00:00</published>
+    <published>2025-03-10T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.04104</id>
-    <title>Strategic Liquidity Provision and Extreme Volatility Spikes</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1057/s41267-025-00775-1</id>
+    <title>Global virtual work: a review, integrative framework, and future research opportunities</title>
+    <updated>2025-03-10T00:00:00+00:00</updated>
     <author>
-      <name>Jonathan Brogaard, Konstantin Sokolov, Jiang Zhang</name>
+      <name>Fabian Jintae Froese, Tobias Blay, Cristina B. Gibson, Margaret A. Shaffer, Jose Benitez</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We test competing theories of liquidity dynamics during extreme volatility spikes (EVSs). We find that liquidity providers strategically allow for price pressures and are compensated from correcting pricing errors. As a result, liquidity provision intensifies toward the end of a typical EVS. This goes counter to a widespread concern that market-making constraints cause liquidity to deteriorate as EVSs develop. The prevailing limit order book dynamics during EVSs are in line with the socially beneficial equilibrium presented in the theoretical literature.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.04104 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.04104"/>
-    <category term="Management Science"/>
-    <published>2025-03-03T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Digitalization and global disruptions have fundamentally changed how we approach work. Global virtual work has become increasingly widespread in recent years, often replacing or complementing traditional expatriation and international business travel. To advance our understanding of this phenomenon, we systematically reviewed the literature on global virtual work, distinguishing it into three domains: global virtual teams, distributed work, and the use of digital technologies. For each domain, we examined key actors, their objectives, underlying theories, methodologies, and findings. The first domain provides insights into the antecedents, moderators, and mediators of the effectiveness of global virtual teams. The second domain explores individual and organizational research on diverse distributed work arrangements, such as offshoring, global platforms, and global nomads. The third domain addresses the enabling and moderating roles that digital technologies play in facilitating global virtual work. Synthesizing prior research, we developed a multilevel conceptual framework that integrates inputs, processes, and outcomes of global virtual work, offering novel perspectives. We outlined promising opportunities for future research across four themes: people, technology, context, and time. Additionally, we examined the practical implications of our findings for policymakers, managers, and individual workers as they navigate the evolving landscape of global virtual work.</content>
+    <link href="https://doi.org/10.1057/s41267-025-00775-1"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2025-03-10T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.03243</id>
-    <title>Shaping Police Officer Mindsets and Behaviors: Experimental Evidence of Procedural Justice Training</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2023.0103</id>
+    <title>Artificial Intelligence (AI) Assistant in Online Shopping: A Randomized Field Experiment on a Livestream Selling Platform</title>
+    <updated>2025-03-10T00:00:00+00:00</updated>
     <author>
-      <name>Rodrigo Canales, Juan Francisco Santini, Marina González Magaña, Alexis Cherem</name>
+      <name>Lingli Wang, Ni Huang, Yumei He, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Research on organizational justice shows that perceptions of justice by internal and external agents are reliable predictors of key organizational outcomes. But how can we promote the enactment of fair behavior by those with decision-making authority within organizations? This is particularly important for organizations that depend on frequent client interactions, in which individual discretion is required to make consequential decisions, and where necessary evils are unavoidable. Few organizations face this challenge as intensely as police forces, in which misconduct and bad decisions by their street-level bureaucrats can have large negative consequences. This paper analyzes whether police officers can be trained to effectively incorporate the principles of procedural justice in their interactions with citizens. In collaboration with the Mexico City police, we implemented a randomized controlled trial with 1,854 officers to measure whether procedural justice training changed their perceptions of policing and actual behavior on the field. We find significant and positive effects of the training across all measures of the procedural justice model. Our research yields insights into critical elements to consider in organizational training programs, including managerial alignment with the objectives of the training and a consideration of employees’ perceptions of the extent to which their work is understood by others.This paper was accepted by Isabel Fernandez-Mateo, organizations.Funding: This research was funded by the U.S. State Department’s Bureau of International Narcotics and Law Enforcement Affairs (INL) [Grant SINLEC17CA2007].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03243 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.03243"/>
-    <category term="Management Science"/>
-    <published>2025-03-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2020.03850</id>
-    <title>Online Stochastic Optimization with Wasserstein-Based Nonstationarity</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
-    <author>
-      <name>Jiashuo Jiang, Xiaocheng Li, Jiawei Zhang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We consider a general online stochastic optimization problem with multiple resource constraints over a horizon of finite time periods. In each time period, a reward function and multiple cost functions are revealed, and the decision maker needs to specify an action from a convex and compact action set to collect the reward and consume the resources. Each cost function corresponds to the consumption of one resource. The reward function and the cost functions of each time period are drawn from an unknown distribution, which is nonstationary across time. The objective of the decision maker is to maximize the cumulative reward subject to the resource constraints. This formulation captures a wide range of applications including online linear programming and network revenue management, among others. In this paper, we consider two settings: (i) a data-driven setting where the true distribution is unknown but a prior estimate (possibly inaccurate) is available and (ii) an uninformative setting where the true distribution is completely unknown. We propose a unified Wasserstein distance–based measure to quantify the inaccuracy of the prior estimate in setting (i) and the nonstationarity of the environment in setting (ii). We show that the proposed measure leads to a necessary and sufficient condition for the attainability of a sublinear regret in both settings. For setting (i), we propose an informative gradient descent algorithm. The algorithm takes a primal-dual perspective, and it integrates the prior information of the underlying distributions into an online gradient descent procedure in the dual space. The algorithm also naturally extends to the uninformative setting (ii). Under both settings, we show the corresponding algorithm achieves a regret of optimal order. We illustrate the algorithm’s performance through numerical experiments.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.03850 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2020.03850"/>
-    <category term="Management Science"/>
-    <published>2025-03-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251316479</id>
-    <title>Methods and Theory for Using Parcels in Management Research: An Overview and Guide for Improved Analysis</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
-    <author>
-      <name>Larry J. Williams, Andrew A. Hanna, Troy A. Smith</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Research questions and subsequent methodology in the field of management continue to evolve, bringing about more complex models and heightened data requirements and considerations. Thus, the difficulties associated with meeting the requirements of growing methodological rigor (e.g., increasing sample size) have influenced scholars to develop procedures aimed at mitigating these challenges. One such practice is parceling or combining subsets of scale items to form composite indicators of latent variables. Since introduced, parceling approaches have proliferated in a piecemeal fashion, leading to inconsistencies and inaccuracies regarding how parceling is both conducted and reported. With limited consensus about how to parcel, scholars risk perpetuating disjointed, incomplete, or errant approaches that confound the quality of research, accenting the need for a review that organizes the concept of parceling. In response, we offer an examination of parceling in management research with the aim of offering much-needed insight and instruction. To accomplish this, we provide insights that include an overview of parceling from practical and theoretical standpoints, needed clarification surrounding the importance of construct dimensionality when parceling, and robust, informed insights into best practices to aid future researchers in appropriately crafting and reporting on parceling moving forward.</content>
-    <link href="https://doi.org/10.1177/01492063251316479"/>
-    <category term="Journal of Management"/>
-    <published>2025-03-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/jcr/ucaf009</id>
-    <title>Consumptive Work in Coworking: Using Consumption Strategically for Work</title>
-    <updated>2025-03-03T00:00:00+00:00</updated>
-    <author>
-      <name>Adèle Gruen, Fleura Bardhi</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Consumption has always been part of the workplace, yet it has traditionally been seen as nonwork—an activity that depletes rather than creates value. In the knowledge and digital economy, however, consumption and work are becoming increasingly intertwined, calling for a relational perspective on consumption’s productive role. We develop this perspective through a four-year ethnography of coworking spaces across Paris and London, supplemented by post-pandemic archival data. We introduce consumptive work as the instrumentalization of consumption activities in the workplace to generate productive value. Consumptive work emerges within a postindustrial societal context where workplace culture is shaped by consumer ideology, leading to 1) customer entitlement in the workplace, 2) consumer desire toward the workplace, and 3) consumer lifestyle aspirations toward work. Consumptive work is characterized by inconspicuousness, boundarilessness, and communal and market exchange. While it can be empowering, it also fosters neo-normative alienation, particularly through performative play and leisure, and the pursuit of productive wellness. Ultimately, consumptive work reinforces evolving consumer desires and aspirations about office work and workplaces. This study advances interdisciplinary research on consumption and consumption ideology in the workplace, workplace alienation, new ways of working, and consumer research connecting work, home, and leisure.</content>
-    <link href="https://doi.org/10.1093/jcr/ucaf009"/>
-    <category term="Journal of Consumer Research"/>
-    <published>2025-03-03T00:00:00+00:00</published>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Livestream selling is an innovative form of online shopping that supports real-time interactions between streamers and consumers. However, a key challenge remains: Streamers have limited capacity to answer individual inquiries, whereas shoppers expect fast, personalized responses. This study investigates whether an AI-powered streaming assistant can address this tension by providing interactive, chat-based support to help consumers access and process information. Through a large-scale randomized field experiment on a leading livestream selling platform, we find that the AI assistant increases sales by 3.00% and reduces product return rates by 12.55%. Our analysis suggests that the AI assistant helps consumers feel more informed and confident in their purchases, thereby reducing uncertainty. At the same time, the AI assistant can occasionally disrupt the consumers’ livestream experience. Overall, the benefits of uncertainty reduction outweigh the negative influence of interruptions. For platform managers and policymakers, these findings evidence the potential of AI technology to enhance online commerce. The AI assistant is particularly effective for high-uncertainty products and for streamers with large audiences, offering implications for strategic deployment. Our research provides actionable insights for integrating AI into livestream selling and other digital commerce scenarios where real-time, AI-powered support can facilitate both consumer satisfaction and business growth.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0103"/>
+    <category term="Information Systems Research"/>
+    <published>2025-03-10T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/opre.2023.0032</id>
