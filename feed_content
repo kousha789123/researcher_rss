@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>kourosh shafi - daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-03-11T13:40:03.939359+00:00</updated>
+  <updated>2025-03-12T13:40:43.537531+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -55,16 +55,52 @@
     <published>2025-03-10T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2023.0032</id>
-    <title>Matching Queues with Abandonments in Quantum Switches: Stability and Throughput Analysis</title>
-    <updated>2025-03-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2023.01058</id>
+    <title>Timely Cybersecurity Disclosure and Information Manipulation</title>
+    <updated>2025-03-11T00:00:00+00:00</updated>
     <author>
-      <name>Martin Zubeldia, Prakirt R. Jhunjhunwala, Siva Theja Maguluri</name>
+      <name>Xuanpu Lin, Guoman She</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Researchers have developed a novel model inspired by quantum switches to address the complexities of matching requests for entangled qubits in a discrete-time system. The study examines two types of arrivals: requests for entangled qubits between nodes and qubits supplied by nodes, which are subject to decoherence over time. Unlike classical queueing models, this system features server-less multiway matching and correlated abandonments, posing unique analytical challenges. By applying a max-weight policy, the researchers characterized the system’s stability using a two-time-scale fluid limit to account for qubit abandonments. They demonstrated that the max-weight policy is throughput optimal, outperforming nonidling policies under certain conditions. Intriguingly, the study revealed counterintuitive behavior: The longest request queue may grow temporarily, even in a stable system. These findings offer new insights into managing quantum-inspired systems with practical constraints, opening avenues for further research into quantum network optimization.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0032"/>
-    <category term="Operations Research"/>
-    <published>2025-03-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Regulators have increasingly mandated firms to promptly disclose material cybersecurity incidents upon discovering these incidents. We find suggestive evidence indicating that some firms manipulate the discovery date (“misreport”) of a cybersecurity incident to postpone the disclosure of the incident, as evidenced by a pronounced spike in insider sales before the reported discovery date. We also find that misreporting is more prevalent among firms with weak internal control systems, when firms face low litigation risk, and when firms have greater pressure to meet a disclosure deadline. Further, firms suspected of misreporting tend to disclose their remedial actions and assert the restoration of business, mitigating negative market reactions upon disclosure of incidents. Collectively, our results suggest that firms might strategically misreport information about a cybersecurity incident to delay disclosure to gain additional time for remedial actions, which helps them prevent exposing vulnerabilities to malicious actors and alleviate stakeholder anxiety.This paper was accepted by Eric So, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01058 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01058"/>
+    <category term="Management Science"/>
+    <published>2025-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2021.01299</id>
+    <title>Position Auctions with Endogenous Product Information: Why Live-Streaming Advertising Is Thriving</title>
+    <updated>2025-03-11T00:00:00+00:00</updated>
+    <author>
+      <name>Ying-Ju Chen, Guillermo Gallego, Pin Gao, Yang Li</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Live-streaming advertising in e-commerce is soaring. Both Amazon and Alibaba have employed this novel marketing model to engage consumers by sequentially exhibiting different products through live-streaming videos. In this paper, we adopt a mechanism design framework to model live-streaming e-commerce as a position auction with endogenous provision of product information. We prove that finding the mechanism that simultaneously optimizes position allocation and information provision is NP-hard. Thus, we develop several approximation algorithms. Building on the connection to the order selection problem, our analysis establishes that heuristics relying solely on product information provision can achieve up to 66.9% of the optimal revenue in the worst case. In contrast, heuristics exploiting position allocation alone may result in arbitrarily large revenue losses. We attribute the efficacy of product information provision to its enhancement of the value of ad spots in position auctions. Our findings suggest that advertising that focuses on differentiating product information—as in live-streaming e-commerce—is more lucrative than conventional position-based sponsored search. This managerial insight remains valid when accommodating multiproduct purchases with dependency or accounting for random consumer attention spans.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72201234, 72192805], the Hong Kong Research Grants Council [Grants 16211619, 16502219, 16212821, 16501722, C6032-21G], and the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [Grant 2023B1212010001].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.01299 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2021.01299"/>
+    <category term="Management Science"/>
+    <published>2025-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05299</id>
+    <title>Do Managers Successfully Shop for Auditors Who Allow Them to Opportunistically Report Positive News? Evidence from Accounting Estimates</title>
+    <updated>2025-03-11T00:00:00+00:00</updated>
+    <author>
+      <name>Mark DeFond, Jieying Zhang, Yuping Zhao</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Prior auditor shopping literature examines managers’ attempts to opportunistically underreport negative news by finding auditors who will allow them to avoid negative audit opinions or underreport goodwill impairments or financial misstatements. We advance this literature by examining management attempts to opportunistically report positive news, as captured by income-increasing changes in accounting estimates. Adapting a previous framework, we find that, ex ante, managers are more (less) likely to dismiss their auditor if it increases (decreases) the expected likelihood of reporting income-increasing changes in accounting estimates (POSCHGs). We also find that, ex post, following auditor dismissals, the frequency and magnitude of POSCHGs increase, and companies reporting POSCHGs are more likely to restate earnings, receive Securities and Exchange Commission comment letters related to estimates, meet or beat earnings targets, and less likely to receive going concern opinions or violate debt covenants. Placebo tests show that none of the above results hold for income-decreasing changes in estimates. Finally, we identify several institutional factors that constrain managers’ ability to shop for lenient auditors, including the quality of the successor auditor and strong corporate governance. Collectively, our findings are consistent with managers successfully shopping for auditors who allow them to opportunistically report positive news following auditor dismissals.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.05299 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05299"/>
+    <category term="Management Science"/>
+    <published>2025-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/joom.1353</id>
+    <title>Towards the Integration of Precision Medicine in Psychiatric Care Delivery: Evaluating the Impact of Clinical Guidelines on Drug‐Related Adverse Events</title>
+    <updated>2025-03-11T00:00:00+00:00</updated>
+    <author>
+      <name>Jingwen Yang, Anant Mishra, Kingshuk K. Sinha</name>
+    </author>
+    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;Despite the immense potential of precision medicine to revolutionize healthcare, its integration into routine clinical practice remains a significant challenge. This study investigates the impact of Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines, which provide synthesized evidence and pharmacogenetics‐based drug dosing recommendations, on the delivery of psychiatric care enabled by precision medicine. Specifically, we conduct a comprehensive evaluation of the effect of CPIC guidelines on serious drug‐related adverse events and explore how drug characteristics related to therapeutic uncertainty, namely drug age and drug label warning, moderate this effect. Our findings suggest that the availability of CPIC guidelines is associated with almost a 25% decrease in serious drug‐related adverse events in the context of psychiatric care delivery enabled by precision medicine. Furthermore, we find that the presence of drug label warning, as FDA‐endorsed negative news on pharmacogenetics‐related drug use, enhances the effect of CPIC guidelines and is associated with a further decrease in serious drug‐related adverse events. Post hoc analysis reveals that CPIC guidelines with high strength of evidence are associated with a significant decrease in serious drug‐related adverse events, while no such effect is observed for guidelines with low strength of evidence. These findings contribute to the nascent literature on integrating precision medicine into routine clinical practice, highlighting the consequential role of clinical guidelines in improving the effectiveness of psychiatric care delivery for individual patients enabled by precision medicine. In addition, by demonstrating how the development and implementation of robust clinical guidelines are central to minimizing serious drug‐related adverse events, the findings have policy implications for minimizing the downside risks of psychiatric care delivery.</content>
+    <link href="https://doi.org/10.1002/joom.1353"/>
+    <category term="Journal of Operations Management"/>
+    <published>2025-03-11T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rof/rfaf011</id>
@@ -233,5 +269,29 @@
     <link href="https://doi.org/10.1287/isre.2022.0160"/>
     <category term="Information Systems Research"/>
     <published>2025-03-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13436</id>
+    <title>Banks, Low Interest Rates, and Monetary Policy Transmission</title>
+    <updated>2025-03-09T00:00:00+00:00</updated>
+    <author>
+      <name>OLIVIER WANG</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;I study how the secular decline in interest rates affects banks' intermediation spreads and credit supply. Following a permanent decrease in rates, bank lending may rise initially but contracts in the long run. As lower rates compress deposit spreads even well above the zero lower bound, banks' retained earnings, equity, and lending fall until loan spreads have risen enough to offset the reduction in deposit spreads. A higher inflation target can support bank lending at the cost of higher liquidity premia. I find support for the model's predictions in U.S. aggregate and bank‐level data.</content>
+    <link href="https://doi.org/10.1111/jofi.13436"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-03-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13437</id>
+    <title>Intrahousehold Disagreement about Macroeconomic Expectations</title>
+    <updated>2025-03-09T00:00:00+00:00</updated>
+    <author>
+      <name>DA KE</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;This paper highlights the simple fact that households typically consist of multiple members who may hold divergent views, a fact that existing approaches to measuring and modeling household macroeconomic expectations largely abstract from. Using unique data on the macroeconomic expectations of both spouses, I document substantial intrahousehold disagreement about inflation, economic recessions, and stock market returns. I further show that household asset allocation decisions are shaped by disagreement between spouses about future stock returns, and a preregistered randomized survey experiment confirms the causal impact of such disagreement on portfolio choice.</content>
+    <link href="https://doi.org/10.1111/jofi.13437"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-03-09T00:00:00+00:00</published>
   </entry>
 </feed>
