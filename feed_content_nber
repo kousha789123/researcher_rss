@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-04-10T13:39:54.636175+00:00</updated>
+  <updated>2025-04-11T13:39:20.139809+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -283,14 +283,14 @@
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33598</id>
-    <title>Cloze Encounters: The Impact of Pirated Data Access on LLM Performance</title>
+    <id>https://www.nber.org/papers/w33599</id>
+    <title>Beyond Tariffs: How Did China’s State–Owned Enterprises Shape the US–China Trade War?</title>
     <updated>2025-03-01T00:00:00+00:00</updated>
     <author>
-      <name>Stella Jia &amp; Abhishek Nagaraj</name>
+      <name>Felipe Benguria &amp; Felipe Saffie</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large Language Models (LLMs) have demonstrated remarkable capabilities in text generation, but their performance may be influenced by the datasets on which they are trained, including potentially unauthorized or pirated content. We investigate the extent to which data access through pirated books influences LLM responses. We test the performance of leading foundation models (GPT, Claude, Llama, and Gemini) on a set of books that were and were not included in the Books3 dataset, which contains full-text pirated books and could be used for LLM training. We assess book-level performance using the “name cloze” word-prediction task. To examine the causal effect of Books3 inclusion we employ an instrumental variables strategy that exploits the pattern of book publication years in the Books3 dataset. In our sample of 12,916 books, we find significant improvements in LLM name cloze accuracy on books available within the Books3 dataset compared to those not present in these data. These effects are more pronounced for less popular books as compared to more popular books and vary across leading models. These findings have crucial implications for the economics of digitization, copyright policy, and the design and training of AI systems.</content>
-    <link href="https://www.nber.org/papers/w33598"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the role played by Chinese state–owned firms during the US–China trade war. Based on measures constructed from Chinese firm–level customs microdata, we show that the presence of state–owned enterprises (SOEs) in Chinese imports led to a large negative impact on US exports in addition to the effect of tariffs. Abstracting from general equilibrium effects, while tariffs account for an 8% decline in US exports to China, the SOE effect accounts for a 4% decline. This SOE effect was concentrated toward the end of 2018 and start of 2019, point at which a vast majority of products had already been targeted by tariffs. Further, the SOE effect was concentrated among agricultural goods and industrial supplies, as well as among industries located in US regions with a high share of Republican votes. We also find that US exports were rerouted to the rest of the world in response to Chinese tariffs, but not in response to reduced imports by Chinese SOEs.</content>
+    <link href="https://www.nber.org/papers/w33599"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -315,6 +315,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We investigate the effects of sewer access on neighborhood characteristics in developing world cities. Because it is more difficult to move sewage uphill than downhill, otherwise similar neighborhoods on opposite sides of drainage basin divides may face different costs of sewer access. We exploit this intuition to identify the effect of sewer access by comparing outcomes for neighborhoods on opposite sides of drainage basin divides. We estimate the effect of sewer access on census tract population density, literacy, and income for Brazil, Colombia, South Africa, Jordan, and Tanzania. On average, sewer access has a large effect on population density and almost none on demographics. These estimates imply that sewer networks are often as important for the economic geography of cities as transportation networks.</content>
     <link href="https://www.nber.org/papers/w33597"/>
+    <category term="NBER"/>
+    <published>2025-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33598</id>
+    <title>Cloze Encounters: The Impact of Pirated Data Access on LLM Performance</title>
+    <updated>2025-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stella Jia &amp; Abhishek Nagaraj</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large Language Models (LLMs) have demonstrated remarkable capabilities in text generation, but their performance may be influenced by the datasets on which they are trained, including potentially unauthorized or pirated content. We investigate the extent to which data access through pirated books influences LLM responses. We test the performance of leading foundation models (GPT, Claude, Llama, and Gemini) on a set of books that were and were not included in the Books3 dataset, which contains full-text pirated books and could be used for LLM training. We assess book-level performance using the “name cloze” word-prediction task. To examine the causal effect of Books3 inclusion we employ an instrumental variables strategy that exploits the pattern of book publication years in the Books3 dataset. In our sample of 12,916 books, we find significant improvements in LLM name cloze accuracy on books available within the Books3 dataset compared to those not present in these data. These effects are more pronounced for less popular books as compared to more popular books and vary across leading models. These findings have crucial implications for the economics of digitization, copyright policy, and the design and training of AI systems.</content>
+    <link href="https://www.nber.org/papers/w33598"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -535,14 +547,14 @@
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33599</id>
-    <title>Beyond Tariffs: How Did China’s State–Owned Enterprises Shape the US–China Trade War?</title>
+    <id>https://www.nber.org/papers/w33622</id>
+    <title>Putting School Surveys to the Test</title>
     <updated>2025-03-01T00:00:00+00:00</updated>
     <author>
-      <name>Felipe Benguria &amp; Felipe Saffie</name>
+      <name>Joshua Angrist, Peter Hull, Russell Legate-Yang, Parag A. Pathak &amp; Christopher R. Walters</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the role played by Chinese state–owned firms during the US–China trade war. Based on measures constructed from Chinese firm–level customs microdata, we show that the presence of state–owned enterprises (SOEs) in Chinese imports led to a large negative impact on US exports in addition to the effect of tariffs. Abstracting from general equilibrium effects, while tariffs account for an 8% decline in US exports to China, the SOE effect accounts for a 4% decline. This SOE effect was concentrated toward the end of 2018 and start of 2019, point at which a vast majority of products had already been targeted by tariffs. Further, the SOE effect was concentrated among agricultural goods and industrial supplies, as well as among industries located in US regions with a high share of Republican votes. We also find that US exports were rerouted to the rest of the world in response to Chinese tariffs, but not in response to reduced imports by Chinese SOEs.</content>
-    <link href="https://www.nber.org/papers/w33599"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;School districts increasingly gauge school quality with surveys that ask about school climate and student engagement. We use data from New York City’s middle and high schools to compare the long-run predictive validity of surveys with that of conventional test score value-added models (VAMs). Our analysis leverages the New York school match, which includes an element of random assignment, to validate a wide range of school quality estimates. We contrast the predictiveness of survey- and test-based measures for school effects on consequential outcomes related to high school graduation and college enrollment. Survey data generate better predictions of school impacts on high school graduation than test scores. But school effects on advanced high school diplomas and college attainment are better predicted by test score VAMs than surveys. We quantify the practical value of test-based and survey-based school quality measures by simulating the effects of access to one or both types of information for parents. Parents interested in boosting their children’s college attainment benefit more from test score value-added than from survey data.</content>
+    <link href="https://www.nber.org/papers/w33622"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -567,18 +579,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter examines the role of spatial sorting in shaping economic inequality in the United States. We first document the evolution of firm and worker sorting by skill level between 1980 and 2017. We highlight a shift since 2000, where both high-education workers and firms increasingly sort away from high-wage, high-rent areas. Throughout the entire time period, high-education workers continue to sort to high amenity areas. We then develop a spatial equilibrium model that incorporates idiosyncratic worker and firm sorting and discuss estimation techniques to identify model parameters. We review recent empirical advancements in spatial sorting, including firm and worker location choices and their interactions with housing policy. We conclude by outlining the model’s limitations and proposing directions for future research.</content>
     <link href="https://www.nber.org/papers/w33609"/>
-    <category term="NBER"/>
-    <published>2025-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33622</id>
-    <title>Putting School Surveys to the Test</title>
-    <updated>2025-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua Angrist, Peter Hull, Russell Legate-Yang, Parag A. Pathak &amp; Christopher R. Walters</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;School districts increasingly gauge school quality with surveys that ask about school climate and student engagement. We use data from New York City’s middle and high schools to compare the long-run predictive validity of surveys with that of conventional test score value-added models (VAMs). Our analysis leverages the New York school match, which includes an element of random assignment, to validate a wide range of school quality estimates. We contrast the predictiveness of survey- and test-based measures for school effects on consequential outcomes related to high school graduation and college enrollment. Survey data generate better predictions of school impacts on high school graduation than test scores. But school effects on advanced high school diplomas and college attainment are better predicted by test score VAMs than surveys. We quantify the practical value of test-based and survey-based school quality measures by simulating the effects of access to one or both types of information for parents. Parents interested in boosting their children’s college attainment benefit more from test score value-added than from survey data.</content>
-    <link href="https://www.nber.org/papers/w33622"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -871,26 +871,14 @@
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33651</id>
-    <title>Asset Embeddings</title>
+    <id>https://www.nber.org/papers/w33666</id>
+    <title>The Political Consequences of Controversial Education Reform: Lessons from Wisconsin’s Act 10</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Xavier Gabaix, Ralph S. J. Koijen, Robert J. Richmond &amp; Motohiro Yogo</name>
+      <name>Barbara Biasi &amp; Wayne Aaron Sandholtz</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Firm characteristics, based on accounting and financial market data, are commonly used to represent firms in economics and finance. However, investors collectively use a much richer information set beyond firm characteristics, including sources of information that are not readily available to researchers. We show theoretically that portfolio holdings contain all relevant information for asset pricing, which can be recovered under empirically realistic conditions. Such guarantees do not exist for other data sources, such as accounting or text data. We build on recent advances in artificial intelligence (AI) and machine learning (ML) that represent unstructured data (e.g., text, audio, and images) by high-dimensional latent vectors called embeddings. Just as word embeddings leverage the document structure to represent words, asset embeddings leverage portfolio holdings to represent firms. Thus, this paper is a bridge from recent advances in AI and ML to economics and finance. We explore various methods to estimate asset embeddings, including recommender systems, shallow neural network models such as Word2Vec, and transformer models such as BERT. We evaluate the performance of these models on three benchmarks that can be evaluated using a single quarter of data: predicting relative valuations, explaining the comovement of stock returns, and predicting institutional portfolio decisions. We also estimate investor embeddings (i.e., representations of investors and their strategies), which are useful for investor classification, performance evaluation, and detecting crowded trades. We discuss other applications of asset embeddings, including generative portfolios, risk management, and stress testing. Finally, we develop a framework to give an economic narrative to a group of similar firms, by applying large language models to firm-level text data.</content>
-    <link href="https://www.nber.org/papers/w33651"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33649</id>
-    <title>The Memory Premium</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yuval Salant ⓡ Jorg L. Spenkuch ⓡ David Almog</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We explore the role of memory for choice behavior in unfamiliar environments. Using a unique data set, we document that  decision makers exhibit a "memory premium." They tend to choose in-memory alternatives over out-of-memory ones, even when the latter are objectively better. Consistent with well-established regularities regarding the inner workings of human memory, the memory premium is associative, subject to interference and repetition effects, and decays over time. Even as decision makers gain familiarity with the environment, the memory premium remains economically large. Our results imply that the ease with which past experiences come to mind plays an important role in shaping choice behavior.</content>
-    <link href="https://www.nber.org/papers/w33649"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Public service reforms often provoke political backlash. Can they also yield political benefits for the politicians who champion them? We study a Wisconsin law that weakened teachers’ unions and liberalized pay, prompting mass protests. Exploiting its staggered implementation across school districts, we find that the reform cut union revenues, raised student test scores, and increased pay for some teachers. Exposure to the law increased the incumbent governor’s vote share by about 20% of his margin of victory and reduced campaign contributions to his opponent. Gains were larger in districts with stronger unions ex ante and in those where more voters benefited from the reform. Our findings highlight how even politically risky reforms can generate electoral benefits under the right circumstances.</content>
+    <link href="https://www.nber.org/papers/w33666"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -919,62 +907,14 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33645</id>
-    <title>The Conflict-of-Interest Discount in the Marketplace of Ideas</title>
+    <id>https://www.nber.org/papers/w33651</id>
+    <title>Asset Embeddings</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>John M. Barrios, Filippo Lancieri, Joshua Levy, Shashank Singh, Tommaso Valletti &amp; Luigi Zingales</name>
+      <name>Xavier Gabaix, Ralph S. J. Koijen, Robert J. Richmond &amp; Motohiro Yogo</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how conflicts of interest (CoI)—defined as financial, professional, or ideological stakes held by authors—affect perceived credibility in economics research. Using a randomized controlled survey of both economists and a representative sample of the U.S. public, we find that the presence of a CoI reduces trust in a paper’s findings by 28% on average, with substantial heterogeneity across conflict types. We develop a model in which this reduction in trust reflects both the prevalence of conflicted papers and the expected bias conditional on conflict. To isolate the latter, we introduce the CoI Discount: the perceived value of a conflicted paper relative to an otherwise identical, non-conflicted one. We estimate an average CoI Discount of 39%, implying that conflicted papers are valued at just 61% of non-conflicted ones. We validate these survey-based estimates through three complementary exercises: an empirical analysis of actual citation and disclosure patterns in economics, a meta-analysis of evidence from the medical literature, and simulations using large-language models. Our findings highlight a persistent credibility gap that is not eliminated by current disclosure practices and suggest a broader challenge for scientific trust in the presence of author conflicts.</content>
-    <link href="https://www.nber.org/papers/w33645"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33644</id>
-    <title>The Effects of Deleting Medical Debt from Consumer Credit Reports</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Victor Duarte, Julia Fonseca, Divij Kohli &amp; Julian Reif</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One in seven Americans carry medical debt, with $88 billion reported on consumer credit reports. In April 2023, the three major credit bureaus stopped reporting medical debts below $500. We study the effects of this information deletion on consumer credit scores, credit limits and utilization, repayment behavior, and payday borrowing. Using a machine learning model, we show that small medical debts are not meaningfully predictive of defaults, suggesting their deletion should have minimal effect on lending decisions. We test this prediction using two complementary research designs. First, a regression discontinuity analysis comparing individuals above and below the $500 threshold finds no direct benefits from the information deletion, ruling out small changes in credit access. Second, to assess indirect effects, we classify consumers based on whether their predicted default probability increases or decreases when debts are deleted. A difference-in-differences analysis comparing these groups before and after the 2023 policy change reveals no evidence of negative spillover effects. Finally, we show that larger medical debts (≥ $500) are also not meaningfully predictive of default, suggesting that eliminating medical debts entirely from credit reports, as planned under a January 2025 decision by the Consumer Financial Protection Bureau, is unlikely to affect credit outcomes.</content>
-    <link href="https://www.nber.org/papers/w33644"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33663</id>
-    <title>Forward Selection Fama-MacBeth Regression with Higher Order Asset-Pricing Factors</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicola Borri, Denis Chetverikov, Yukun Liu &amp; Aleh Tsyvinski</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that the higher-orders and their interactions of the common sparse linear factors can effectively subsume the factor zoo. We propose a forward selection Fama-MacBeth procedure as a method to estimate a high-dimensional stochastic discount factor model, isolating the most relevant higher-order factors. Applying this approach to terms derived from six widely used factors (the Fama-French five-factor model and the momentum factor), we show that the resulting higher-order model with only a small number of selected higher-order terms significantly outperforms traditional benchmarks both in-sample and out-of-sample. Moreover, it effectively subsumes a majority of the factors from the extensive factor zoo, suggesting that the pricing power of most zoo factors is attributable to their exposure to higher-order terms of common linear factors.</content>
-    <link href="https://www.nber.org/papers/w33663"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33661</id>
-    <title>Credit, Land Speculation, and Low-Interest-Rate Policy</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Tomohiro Hirano &amp; Joseph E. Stiglitz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper analyses the impact of credit expansions arising from increases in collateral values or lower interest rate policies on long-run productivity and economic growth in a two-sector endogenous growth economy with credit frictions, with the driver of growth lying in one sector (manufacturing) but not in the other (real estate). We show that it is not so much aggregate credit expansion that matters for long-run productivity and economic growth but sectoral credit expansions. Credit expansions associated mainly with relaxation of real estate financing (capital investment financing) will be productivity-and growth-retarding (enhancing). Without financial regulations, low interest rates and more expansionary monetary policy may so encourage land speculation using leverage that productive capital investment and economic growth are decreased. Unlike in standard macroeconomic models, in ours, the equilibrium price of land will be finite even if the safe rate of interest is less than the rate of output growth.</content>
-    <link href="https://www.nber.org/papers/w33661"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33666</id>
-    <title>The Political Consequences of Controversial Education Reform: Lessons from Wisconsin’s Act 10</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Barbara Biasi &amp; Wayne Aaron Sandholtz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Public service reforms often provoke political backlash. Can they also yield political benefits for the politicians who champion them? We study a Wisconsin law that weakened teachers’ unions and liberalized pay, prompting mass protests. Exploiting its staggered implementation across school districts, we find that the reform cut union revenues, raised student test scores, and increased pay for some teachers. Exposure to the law increased the incumbent governor’s vote share by about 20% of his margin of victory and reduced campaign contributions to his opponent. Gains were larger in districts with stronger unions ex ante and in those where more voters benefited from the reform. Our findings highlight how even politically risky reforms can generate electoral benefits under the right circumstances.</content>
-    <link href="https://www.nber.org/papers/w33666"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Firm characteristics, based on accounting and financial market data, are commonly used to represent firms in economics and finance. However, investors collectively use a much richer information set beyond firm characteristics, including sources of information that are not readily available to researchers. We show theoretically that portfolio holdings contain all relevant information for asset pricing, which can be recovered under empirically realistic conditions. Such guarantees do not exist for other data sources, such as accounting or text data. We build on recent advances in artificial intelligence (AI) and machine learning (ML) that represent unstructured data (e.g., text, audio, and images) by high-dimensional latent vectors called embeddings. Just as word embeddings leverage the document structure to represent words, asset embeddings leverage portfolio holdings to represent firms. Thus, this paper is a bridge from recent advances in AI and ML to economics and finance. We explore various methods to estimate asset embeddings, including recommender systems, shallow neural network models such as Word2Vec, and transformer models such as BERT. We evaluate the performance of these models on three benchmarks that can be evaluated using a single quarter of data: predicting relative valuations, explaining the comovement of stock returns, and predicting institutional portfolio decisions. We also estimate investor embeddings (i.e., representations of investors and their strategies), which are useful for investor classification, performance evaluation, and detecting crowded trades. We discuss other applications of asset embeddings, including generative portfolios, risk management, and stress testing. Finally, we develop a framework to give an economic narrative to a group of similar firms, by applying large language models to firm-level text data.</content>
+    <link href="https://www.nber.org/papers/w33651"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -1039,6 +979,18 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33649</id>
+    <title>The Memory Premium</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yuval Salant ⓡ Jorg L. Spenkuch ⓡ David Almog</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We explore the role of memory for choice behavior in unfamiliar environments. Using a unique data set, we document that  decision makers exhibit a "memory premium." They tend to choose in-memory alternatives over out-of-memory ones, even when the latter are objectively better. Consistent with well-established regularities regarding the inner workings of human memory, the memory premium is associative, subject to interference and repetition effects, and decays over time. Even as decision makers gain familiarity with the environment, the memory premium remains economically large. Our results imply that the ease with which past experiences come to mind plays an important role in shaping choice behavior.</content>
+    <link href="https://www.nber.org/papers/w33649"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33648</id>
     <title>Moral Hazard under Liquidity Constraints</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
@@ -1071,6 +1023,126 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artisanal and small-scale mining (ASM) supplies livelihoods and critical minerals but has been linked to conflict and environmental degradation. We enable monitoring of this largely informal sector by creating high-resolution maps of ASM's footprint in Africa using machine learning models that integrate geographic features and satellite imagery. We find ASM is more extensive than documented: in five countries with on-the-ground surveys, we predict over 231,000 1-km2 grid cells [±2 standard errors: 170,153-297,710] contain ASM activity – over 40 times that recorded by surveyors. Adapting methods for spatial domain adaptation, we map ASM across 20 total countries, estimating that 4% [2-8%] of territory and 17% [10-30%] of the population are impacted by ASM, which encroaches on a larger share of settlements and ecosystems than previously understood.</content>
     <link href="https://www.nber.org/papers/w33646"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33645</id>
+    <title>The Conflict-of-Interest Discount in the Marketplace of Ideas</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>John M. Barrios, Filippo Lancieri, Joshua Levy, Shashank Singh, Tommaso Valletti &amp; Luigi Zingales</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how conflicts of interest (CoI)—defined as financial, professional, or ideological stakes held by authors—affect perceived credibility in economics research. Using a randomized controlled survey of both economists and a representative sample of the U.S. public, we find that the presence of a CoI reduces trust in a paper’s findings by 28% on average, with substantial heterogeneity across conflict types. We develop a model in which this reduction in trust reflects both the prevalence of conflicted papers and the expected bias conditional on conflict. To isolate the latter, we introduce the CoI Discount: the perceived value of a conflicted paper relative to an otherwise identical, non-conflicted one. We estimate an average CoI Discount of 39%, implying that conflicted papers are valued at just 61% of non-conflicted ones. We validate these survey-based estimates through three complementary exercises: an empirical analysis of actual citation and disclosure patterns in economics, a meta-analysis of evidence from the medical literature, and simulations using large-language models. Our findings highlight a persistent credibility gap that is not eliminated by current disclosure practices and suggest a broader challenge for scientific trust in the presence of author conflicts.</content>
+    <link href="https://www.nber.org/papers/w33645"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33644</id>
+    <title>The Effects of Deleting Medical Debt from Consumer Credit Reports</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Victor Duarte, Julia Fonseca, Divij Kohli &amp; Julian Reif</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One in seven Americans carry medical debt, with $88 billion reported on consumer credit reports. In April 2023, the three major credit bureaus stopped reporting medical debts below $500. We study the effects of this information deletion on consumer credit scores, credit limits and utilization, repayment behavior, and payday borrowing. Using a machine learning model, we show that small medical debts are not meaningfully predictive of defaults, suggesting their deletion should have minimal effect on lending decisions. We test this prediction using two complementary research designs. First, a regression discontinuity analysis comparing individuals above and below the $500 threshold finds no direct benefits from the information deletion, ruling out small changes in credit access. Second, to assess indirect effects, we classify consumers based on whether their predicted default probability increases or decreases when debts are deleted. A difference-in-differences analysis comparing these groups before and after the 2023 policy change reveals no evidence of negative spillover effects. Finally, we show that larger medical debts (≥ $500) are also not meaningfully predictive of default, suggesting that eliminating medical debts entirely from credit reports, as planned under a January 2025 decision by the Consumer Financial Protection Bureau, is unlikely to affect credit outcomes.</content>
+    <link href="https://www.nber.org/papers/w33644"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33663</id>
+    <title>Forward Selection Fama-MacBeth Regression with Higher Order Asset-Pricing Factors</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicola Borri, Denis Chetverikov, Yukun Liu &amp; Aleh Tsyvinski</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that the higher-orders and their interactions of the common sparse linear factors can effectively subsume the factor zoo. We propose a forward selection Fama-MacBeth procedure as a method to estimate a high-dimensional stochastic discount factor model, isolating the most relevant higher-order factors. Applying this approach to terms derived from six widely used factors (the Fama-French five-factor model and the momentum factor), we show that the resulting higher-order model with only a small number of selected higher-order terms significantly outperforms traditional benchmarks both in-sample and out-of-sample. Moreover, it effectively subsumes a majority of the factors from the extensive factor zoo, suggesting that the pricing power of most zoo factors is attributable to their exposure to higher-order terms of common linear factors.</content>
+    <link href="https://www.nber.org/papers/w33663"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33661</id>
+    <title>Credit, Land Speculation, and Low-Interest-Rate Policy</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Tomohiro Hirano &amp; Joseph E. Stiglitz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper analyses the impact of credit expansions arising from increases in collateral values or lower interest rate policies on long-run productivity and economic growth in a two-sector endogenous growth economy with credit frictions, with the driver of growth lying in one sector (manufacturing) but not in the other (real estate). We show that it is not so much aggregate credit expansion that matters for long-run productivity and economic growth but sectoral credit expansions. Credit expansions associated mainly with relaxation of real estate financing (capital investment financing) will be productivity-and growth-retarding (enhancing). Without financial regulations, low interest rates and more expansionary monetary policy may so encourage land speculation using leverage that productive capital investment and economic growth are decreased. Unlike in standard macroeconomic models, in ours, the equilibrium price of land will be finite even if the safe rate of interest is less than the rate of output growth.</content>
+    <link href="https://www.nber.org/papers/w33661"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33664</id>
+    <title>Taxes on Lifetime Income: A Good Idea?</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Dirk Krueger &amp; Chunzan Wu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Household consumption and welfare are more strongly associated with lifetime income, but most countries base income taxes on current income and use progressive taxes to reduce inequality and provide social insurance. Is lifetime income a better tax base for a government seeking to provide social insurance and redistribution? To answer this question, we build a quantitative life-cycle model of heterogeneous households with endogenous labor supply and idiosyncratic wage risks, and calibrate it to the U.S. economy. We document that switching to a lifetime income tax leads to a more efficient distribution of hours worked over time and across states of the world. This benefit rises with tax progressivity under a lifetime income tax, whereas the opposite is true under an annual income tax. Consequently, the optimal lifetime income tax is more progressive and achieves larger ex-ante welfare for a cohort of households than the optimal annual income tax.</content>
+    <link href="https://www.nber.org/papers/w33664"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33662</id>
+    <title>Measuring Human Leadership Skills with AI Agents</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ben Weidmann, Yixian Xu &amp; David J. Deming</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that leadership skill with artificially intelligent (AI) agents predicts leadership skill with human groups. In a large pre-registered lab experiment, human leaders worked with AI agents to solve problems. Their performance on this “AI leadership test” was strongly correlated (ρ=0.81) with their causal impact as leaders of human teams, which we estimate by repeatedly randomly assigning leaders to groups of human followers and measuring team performance. Successful leaders of both humans and AI agents ask more questions and engage in more conversational turn-taking; they score higher on measures of social intelligence, fluid intelligence, and decision-making skill, but do not differ in gender, age, ethnicity or education. Our findings indicate that AI agents can be effective proxies for human participants in social experiments, which greatly simplifies the measurement of leadership and teamwork skills.</content>
+    <link href="https://www.nber.org/papers/w33662"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33660</id>
+    <title>Voluntary Report of Standardized Test Scores: An Experimental Study</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Marty Haoyuan Chen &amp; Ginger Zhe Jin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The past few years have seen a shift in many universities' admission policies from test-required to either test-optional or test-blind. This paper uses laboratory experiments to examine students' reporting behavior given their application package and the school's interpretation of non-reported standardized test scores. We find that voluntary disclosure is incomplete and selective, supporting the incentives of both partial unraveling and reverse unraveling. Subjects exhibit some ability to learn about the hidden school interpretation, though their learning is imperfect. Using a structural model of student reporting behavior, we simulate the potential tradeoff between academic preparedness and diversity in a school's admission cohort. We find that, if students have perfect information about the school's interpretation of non-reporting, test-blind is the worst and test-required is the best in both dimensions, while test-optional lies between the two extremes. When students do not have perfect information, some test-optional policies can generate more diversity than test-required, because some students with better observable attributes may underestimate the penalty on their non-reporting. This allows the school to admit more students that have worse observable attributes but report. We test the results’ robustness to a variety of extensions.</content>
+    <link href="https://www.nber.org/papers/w33660"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33642</id>
+    <title>Non-User Utility and Market Power: The Case of Smartphones</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Leonardo Bursztyn, Rafael Jiménez-Durán, Aaron Leonard, Filip Milojević &amp; Christopher Roth</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Firms can increase the demand for their products and consolidate their market power not only by increasing user utility but also by decreasing non-user utility. In this paper, we examine this mechanism by considering the case of smartphones. In particular, Apple has faced criticism for allegedly degrading the Android user experience by making messages to Android devices appear as green bubbles on iPhones—a salient signal often perceived as reflecting a lower socioeconomic status. Using samples of US college students, we show that green bubbles are widely stigmatized and that a majority of both iPhone and Android users would prefer green bubbles to no longer exist. We then conduct an incentivized deactivation experiment, revealing that iPhone users have a significant willingness to pay to prevent their messages from appearing as green bubbles on other iPhones. Next, we examine the market implications of non-user utility and find that respondents are substantially more likely to choose an Android over an iPhone when green bubbles are removed. We conclude by presenting case studies that illustrate how companies use product features to reduce non-user utility in various markets.</content>
+    <link href="https://www.nber.org/papers/w33642"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33641</id>
+    <title>The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Fabrizio Dell'Acqua, Charles Ayoubi, Hila Lifshitz, Raffaella Sadun, Ethan Mollick, Lilach Mollick, Yi Han, Jeff Goldman, Hari Nair, Stewart Taub &amp; Karim Lakhani et al. (View all)</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how artificial intelligence transforms the core pillars of collaboration—performance, expertise sharing, and social engagement—through a pre-registered field experiment with 776 professionals at Procter &amp; Gamble, a global consumer packaged goods company. Working on real product innovation challenges, professionals were randomly assigned to work either with or without AI, and either individually or with another professional in new product development teams. Our findings reveal that AI significantly enhances performance: individuals with AI matched the performance of teams without AI, demonstrating that AI can effectively replicate certain benefits of human collaboration. Moreover, AI breaks down functional silos. Without AI, R&amp;D professionals tended to suggest more technical solutions, while Commercial professionals leaned towards commercially-oriented proposals. Professionals using AI produced balanced solutions, regardless of their professional background. Finally, AI’s language-based interface prompted more positive self-reported emotional responses among participants, suggesting it can fulfill part of the social and motivational role traditionally offered by human teammates. Our results suggest that AI adoption at scale in knowledge work reshapes not only performance but also how expertise and social connectivity manifest within teams, compelling organizations to rethink the very structure of collaborative work.</content>
+    <link href="https://www.nber.org/papers/w33641"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33650</id>
+    <title>AI as Strategist</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the role of artificial intelligence as a strategist in organizational decision-making by extending van den Steen's formal theory of strategy. A mathematical model is developed comparing AI and human strategists across different decision contexts, focusing on how each type generates confidence, achieves agreement, and implements decisions through control versus influence. The analysis presumes that AI excels in data-rich domains but faces credibility challenges in judgment-intensive contexts, creating a counterintuitive result where AI requires less formal authority precisely where it demonstrates superior analytical capabilities. The paper identifies distinct mechanisms through which strategic value is created: direct decision quality improvement and enhanced coordination. The authors propose domain-contingent approaches to AI integration, including differentiated authority systems across decision types and progressive control models that evolve as AI demonstrates effectiveness. These findings contribute to strategy theory while providing practical guidance for organizations seeking to effectively integrate AI into strategic processes, highlighting that organizations must adapt to their strategists' capabilities as much as strategists must match their organizations.</content>
+    <link href="https://www.nber.org/papers/w33650"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -1123,54 +1195,6 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33664</id>
-    <title>Taxes on Lifetime Income: A Good Idea?</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Dirk Krueger &amp; Chunzan Wu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Household consumption and welfare are more strongly associated with lifetime income, but most countries base income taxes on current income and use progressive taxes to reduce inequality and provide social insurance. Is lifetime income a better tax base for a government seeking to provide social insurance and redistribution? To answer this question, we build a quantitative life-cycle model of heterogeneous households with endogenous labor supply and idiosyncratic wage risks, and calibrate it to the U.S. economy. We document that switching to a lifetime income tax leads to a more efficient distribution of hours worked over time and across states of the world. This benefit rises with tax progressivity under a lifetime income tax, whereas the opposite is true under an annual income tax. Consequently, the optimal lifetime income tax is more progressive and achieves larger ex-ante welfare for a cohort of households than the optimal annual income tax.</content>
-    <link href="https://www.nber.org/papers/w33664"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33662</id>
-    <title>Measuring Human Leadership Skills with AI Agents</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ben Weidmann, Yixian Xu &amp; David J. Deming</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that leadership skill with artificially intelligent (AI) agents predicts leadership skill with human groups. In a large pre-registered lab experiment, human leaders worked with AI agents to solve problems. Their performance on this “AI leadership test” was strongly correlated (ρ=0.81) with their causal impact as leaders of human teams, which we estimate by repeatedly randomly assigning leaders to groups of human followers and measuring team performance. Successful leaders of both humans and AI agents ask more questions and engage in more conversational turn-taking; they score higher on measures of social intelligence, fluid intelligence, and decision-making skill, but do not differ in gender, age, ethnicity or education. Our findings indicate that AI agents can be effective proxies for human participants in social experiments, which greatly simplifies the measurement of leadership and teamwork skills.</content>
-    <link href="https://www.nber.org/papers/w33662"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33660</id>
-    <title>Voluntary Report of Standardized Test Scores: An Experimental Study</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Marty Haoyuan Chen &amp; Ginger Zhe Jin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The past few years have seen a shift in many universities' admission policies from test-required to either test-optional or test-blind. This paper uses laboratory experiments to examine students' reporting behavior given their application package and the school's interpretation of non-reported standardized test scores. We find that voluntary disclosure is incomplete and selective, supporting the incentives of both partial unraveling and reverse unraveling. Subjects exhibit some ability to learn about the hidden school interpretation, though their learning is imperfect. Using a structural model of student reporting behavior, we simulate the potential tradeoff between academic preparedness and diversity in a school's admission cohort. We find that, if students have perfect information about the school's interpretation of non-reporting, test-blind is the worst and test-required is the best in both dimensions, while test-optional lies between the two extremes. When students do not have perfect information, some test-optional policies can generate more diversity than test-required, because some students with better observable attributes may underestimate the penalty on their non-reporting. This allows the school to admit more students that have worse observable attributes but report. We test the results’ robustness to a variety of extensions.</content>
-    <link href="https://www.nber.org/papers/w33660"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33650</id>
-    <title>AI as Strategist</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the role of artificial intelligence as a strategist in organizational decision-making by extending van den Steen's formal theory of strategy. A mathematical model is developed comparing AI and human strategists across different decision contexts, focusing on how each type generates confidence, achieves agreement, and implements decisions through control versus influence. The analysis presumes that AI excels in data-rich domains but faces credibility challenges in judgment-intensive contexts, creating a counterintuitive result where AI requires less formal authority precisely where it demonstrates superior analytical capabilities. The paper identifies distinct mechanisms through which strategic value is created: direct decision quality improvement and enhanced coordination. The authors propose domain-contingent approaches to AI integration, including differentiated authority systems across decision types and progressive control models that evolve as AI demonstrates effectiveness. These findings contribute to strategy theory while providing practical guidance for organizations seeking to effectively integrate AI into strategic processes, highlighting that organizations must adapt to their strategists' capabilities as much as strategists must match their organizations.</content>
-    <link href="https://www.nber.org/papers/w33650"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33643</id>
     <title>Non-Wage Amenities</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
@@ -1179,30 +1203,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter reviews the analysis of non-wage amenities in the workplace. The competitive model is the point of departure, but the emphasis is on models of imperfect competition that have greater empirical relevance. In addition to the traditional hedonic model for estimating preferences over job characteristics, I review revealed-preference methods that are better suited when there are deviations from perfect competition.</content>
     <link href="https://www.nber.org/papers/w33643"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33642</id>
-    <title>Non-User Utility and Market Power: The Case of Smartphones</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Leonardo Bursztyn, Rafael Jiménez-Durán, Aaron Leonard, Filip Milojević &amp; Christopher Roth</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Firms can increase the demand for their products and consolidate their market power not only by increasing user utility but also by decreasing non-user utility. In this paper, we examine this mechanism by considering the case of smartphones. In particular, Apple has faced criticism for allegedly degrading the Android user experience by making messages to Android devices appear as green bubbles on iPhones—a salient signal often perceived as reflecting a lower socioeconomic status. Using samples of US college students, we show that green bubbles are widely stigmatized and that a majority of both iPhone and Android users would prefer green bubbles to no longer exist. We then conduct an incentivized deactivation experiment, revealing that iPhone users have a significant willingness to pay to prevent their messages from appearing as green bubbles on other iPhones. Next, we examine the market implications of non-user utility and find that respondents are substantially more likely to choose an Android over an iPhone when green bubbles are removed. We conclude by presenting case studies that illustrate how companies use product features to reduce non-user utility in various markets.</content>
-    <link href="https://www.nber.org/papers/w33642"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33641</id>
-    <title>The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Fabrizio Dell'Acqua, Charles Ayoubi, Hila Lifshitz, Raffaella Sadun, Ethan Mollick, Lilach Mollick, Yi Han, Jeff Goldman, Hari Nair, Stewart Taub &amp; Karim Lakhani et al. (View all)</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how artificial intelligence transforms the core pillars of collaboration—performance, expertise sharing, and social engagement—through a pre-registered field experiment with 776 professionals at Procter &amp; Gamble, a global consumer packaged goods company. Working on real product innovation challenges, professionals were randomly assigned to work either with or without AI, and either individually or with another professional in new product development teams. Our findings reveal that AI significantly enhances performance: individuals with AI matched the performance of teams without AI, demonstrating that AI can effectively replicate certain benefits of human collaboration. Moreover, AI breaks down functional silos. Without AI, R&amp;D professionals tended to suggest more technical solutions, while Commercial professionals leaned towards commercially-oriented proposals. Professionals using AI produced balanced solutions, regardless of their professional background. Finally, AI’s language-based interface prompted more positive self-reported emotional responses among participants, suggesting it can fulfill part of the social and motivational role traditionally offered by human teammates. Our results suggest that AI adoption at scale in knowledge work reshapes not only performance but also how expertise and social connectivity manifest within teams, compelling organizations to rethink the very structure of collaborative work.</content>
-    <link href="https://www.nber.org/papers/w33641"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
