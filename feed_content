@@ -2,190 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-04-11T13:38:40.266363+00:00</updated>
+  <updated>2025-04-14T13:38:34.120326+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/rof/rfaf020</id>
-    <title>Not in my backyard: intrinsic motivation and corporate pollution abatement</title>
-    <updated>2025-03-22T00:00:00+00:00</updated>
-    <author>
-      <name>Angie Andrikogiannopoulou, Alexia Ventouri, Scott E Yonker</name>
-    </author>
-    <content>&lt;b&gt;Review of Finance&lt;/b&gt; &lt;br&gt;We investigate whether managers’ intrinsic incentives affect firms’ environmental policies. Exploiting within-facility variation in facility-to-CEO-birthplace distances, we find that facilities located near CEOs’ birthplaces experience toxic emission reductions relative to those farther away. This is achieved by reducing waste generation at source rather than by downsizing operations or substituting pollution across locations. The effect is strongest for hometown facilities in high-polluting areas, and in firms with higher cash holdings and with CEOs with weaker pay incentives. Our results suggest that local representation in management could be a powerful means of encouraging corporate pollution abatement.</content>
-    <link href="https://doi.org/10.1093/rof/rfaf020"/>
-    <category term="Review of Finance"/>
-    <published>2025-03-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.13225</id>
-    <title>Performing Micro‐Role Transitions in Open Strategy</title>
-    <updated>2025-03-22T00:00:00+00:00</updated>
-    <author>
-      <name>Anna Plotnikova, Christoph Brielmaier, Martin Friesl</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Open strategy (OS) requires contributors with a variety of functional backgrounds to episodically perform a strategy role in addition to their functional responsibilities. These actors engage in micro‐role transitions as they temporarily shift from one role to another. In this study, we identify the discursive tactics through which such micro‐role transitions are enacted by drawing on data from an online OS community. We show that in OS, micro‐role transitions occur in an ambiguous role environment where actors actively construct role entry using downplaying tactics and justifying tactics, and imbue ill‐defined strategy roles with meaning by applying idealizing tactics. These moralized discourses enable actors to distance themselves not only from their functional roles but also from the role of professional strategists. We show that the interplay of role distance and responses of different relevant actors shapes actors' strategy role formation in OS. We synthesize these arguments into a conceptual model and provide new insights into the role dynamics involved in OS and beyond, as well as the role‐level factors underpinning the efficacy of OS.</content>
-    <link href="https://doi.org/10.1111/joms.13225"/>
-    <category term="Journal of Management Studies"/>
-    <published>2025-03-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251330062</id>
-    <title>EXPRESS: Customer Concentration and Suppliers’ Blockchain Technology Adoption: Evidence from China</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Chaofan Li, Qiliang Liu, Wenming Wang, Cheng (Colin) Zeng, Pin Zhou</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study examines the relationship between major customer concentration and supplier firms’ adoption of blockchain. Using a sample of 9,745 Chinese firm-year observations spanning 2018–2021, we find that the likelihood of suppliers’ blockchain technology adoption in supply chain management is negatively associated with major customer concentration. The negative relation is reduced when supplier firms possess greater bargaining power and demonstrate governance mechanisms against information leakage, and when major customers have less incentive to engage in opportunistic behaviors, and have fewer concerns regarding information leakage by suppliers. Our findings suggest that major customers tend to discourage supplier firms from adopting blockchain due to the concerns regarding competitive advantages and information leakage risk.</content>
-    <link href="https://doi.org/10.1177/10591478251330062"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251331345</id>
-    <title>EXPRESS: Competitive Industry’s Response to Environmental Taxation</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Dmitry Krass, Anton Ovchinnikov</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We analyze howNfirms producing a commodity good with a polluting by-product respond to environmental taxes. These firms vary in operational and environmental efficiency. Under Cournot competition, we examine two demand functions: iso-elastic and linear. We establish the existence and uniqueness of the equilibrium and how it changes with tax levels and environmental efficiency. Our findings suggest that taxes may not always benefit firms with green, low-cost technologies, as they erode the advantages of operational efficiency. Additionally, total and per-unit emissions may increase with higher taxes or improved environmental efficiency. Finally, the observed effects can qualitatively differ based on the form of market demand.</content>
-    <link href="https://doi.org/10.1177/10591478251331345"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251331143</id>
-    <title>EXPRESS: Dynamic Distributed Ambulatory Care Scheduling</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Amirhossein Moosavi, Onur Ozturk, Jonathan Patrick</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We investigate an ambulatory care scheduling problem derived from a real case in Ontario, Canada that offers multi-appointment, multi-class, multi-priority treatments in geographically distributed campuses with multiple resources. We consider a dynamic setting with uncertain patient arrival and use of the emergency department. This problem is formulated as an infinite-horizon Markov decision process model. Since we cannot solve large-sized instances via conventional approaches, we hybridize this model with a neural network to simplify feasibility constraints while respecting all assumptions. Given the curse of dimensionality, we use an affine approximation architecture to estimate the value function. An equivalent linear programming model is solved through column generation in order to compute approximate optimal policies and derive two easy-to-implement scheduling policies. Simulation results demonstrate that the approximate optimal policy and heuristics outperform alternative scheduling policies. Finally, we demonstrate that the application of our methodology can enhance performance metrics in a large ambulatory care center in Canada. We show that a template-based scheduling rule can result in high resource utilization but poor scheduling decisions. However, an efficient scheduling policy equips a booking clerk with intelligent scheduling rules that are difficult for her to predict in real-time and work well in comparison to scheduling templates.</content>
-    <link href="https://doi.org/10.1177/10591478251331143"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251331125</id>
-    <title>EXPRESS: Mitigating Churn after Online Financial Fraud: the Value of Blame Attribution</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Sriram Somanchi, Vamsi K. Kanuri, Rahul Telang</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The financial industry is plagued with account-based fraudulent transactions in which perpetrators surreptitiously siphon away money from customer accounts. To address this recurrent problem, service operations teams at financial institutions (e.g., the fraud detection and mitigation teams) spend millions yearly identifying perpetrators, attributing blame, and averting customer churn. However, in the vast majority of cases, the service operations teams cannot trace fraudulent transactions back to the perpetrators, and hence it remains unclear whether they should continue to expend significant resources into investigating account-based fraud and attributing blame. Employing a wide range of econometric and machine learning techniques on a rich dataset from a U.S. bank, and an experiment, we attempt to offer the first empirical assessment of the association between blame attribution, or lack of it, in response to customer-identified account-based fraud and customer churn. The results indicate that relative to the customers that did not experience fraud, those that did and received a resolutionlackingblame attribution have 40.69%Lift(95% CI = [24.41%Lift, 56.97%Lift]) in churn rate. However, customers that experienced fraud and received a resolution involving blame attribution have -62.45%Lift(95% CI = [-31.22%Lift, -93.68%Lift]) in churn rate, making them less likely to churn than those that did not experience fraud. The latter result offers one of the first field evidence of the well-known service recovery paradox. Additionally, we observe significant heterogeneity in the findings based on customer tenure and the number of customer-firm interactions and document the long-term effects of attributing and not attributing blame. These insights can assist service operations teams in their post-service failure efforts to mend customer-firm relationships. Overall, the results underscore the importance of blame attribution during service recovery for service operations teams and inform a topical debate on a banking reform proposed by the U.S. Department of Treasury.</content>
-    <link href="https://doi.org/10.1177/10591478251331125"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251329858</id>
-    <title>Pricing in the Presence of Strategic Consumers and Social Learning Under Contingent Pricing and Price Guarantee</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Zhong-Zhong Jiang, Jinlong Zhao, Zelong Yi, Ying-Ju Chen, Guang Li</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Purchasing new experience products or services often involves significant quality uncertainty for both consumers and firms. Social learning through online reviews helps reduce this uncertainty but exacerbates strategic waiting, as consumers delay purchases to gain more information. This paper examines the impact of social learning on firms’ pricing policies in the presence of strategic consumers under two widely adopted schemes: Contingent pricing and price guarantee. We find that while social learning always benefits the firm, it enables the price guarantee scheme to outperform contingent pricing in terms of profitability for highly patient consumers, which would not be possible without social learning. Notably, social learning drives a range of pricing patterns, even making price skimming optimal under price guarantee for highly patient consumers, as high initial prices combined with markdowns effectively alleviate strategic waiting, enhancing review outcomes and the firm’s profitability. Additionally, social learning always enables the firm to extract greater consumer surplus for impatient consumers under price guarantee. In contrast, social learning under contingent pricing consistently benefits consumers and can achieve win-win outcomes when consumers are moderately patient. Our extensions validate the robustness of these findings under different assumptions, including fully rational consumers and partially forward-looking firms. In particular, a partially forward-looking firm can achieve win-win outcomes with social learning under price guarantee, expanding its practical applicability. This study provides novel insights into the role of social learning in shaping pricing strategies, highlighting its implications for firm profitability and consumer welfare in markets influenced by review dynamics and strategic consumers.</content>
-    <link href="https://doi.org/10.1177/10591478251329858"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251331095</id>
-    <title>EXPRESS: Algorithmic Supervisor and Employee Performance</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Wei Gu, Meng Li, Shichen Zhang</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In this paper, we explore the impact of implementing an algorithmic supervisor, a data analytics tool that offers real-time feedback to employees, on their overall performance. We collaborate with a leading service company that initiated the transition from human supervisors to an algorithmic supervisor for managing call agents in their outbound call center on September 18, 2019. We collect data for 220,085 calls over a span of 6 months—that is, 3 months before and 3 months after the introduction of the algorithmic supervisor. We find that the introduction of the algorithmic supervisor improved the agents’ service quality in terms of customer satisfaction; however, this came at the expense of quantity as fewer customers were served. In particular, the adoption of the algorithmic supervisor resulted in a 15.80% reduction in the number of served customers, accompanied by a 14.91% increase in the number of satisfied customers. Moreover, our study uncovers a gender-related dimension to the impact of the algorithmic supervisor. Before its adoption, male agents outperformed their female counterparts. However, after its adoption, female agents exhibited an 11.52% increase in the number of served customers, and a remarkable 14.00% increase in the number of satisfied customers as compared to their male counterparts. Our results suggest that the adoption of the algorithmic supervisor strikes a new economic balance between service quality and service quantity and generates a social impact in differently affecting service performance of female and male employees.</content>
-    <link href="https://doi.org/10.1177/10591478251331095"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251331129</id>
-    <title>EXPRESS: Enhancing User Experience: Unveiling the Role of the Quality Score Metrics</title>
-    <updated>2025-03-23T00:00:00+00:00</updated>
-    <author>
-      <name>Zsolt Katona, Yi Zhu, Lei Zhuang</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Social advertising platforms and search engines employ the so-called quality score to favor certain advertisers in ad auctions. These scores typically consider a number of factors including ad relevance, clickthrough rate, and landing page quality. While quality scores are often justified as a mechanism to enhance ad rank and reduce cost per click for high-quality ads, this study examines their broader role in incentivizing advertisers with varying investment costs to improve landing page quality and explores the implications for advertisers’ profits and the platform’s revenue in a setting where landing page quality is an endogenous decision made by advertisers.The results suggest that a quality score function rewarding landing page quality in excess of the clickthrough rate incentivizes advertisers to invest in page quality in a non-monotonic way. These incentives have dual effects on auction dynamics: while advertisers can lower their cost per click by improving quality, such incentives also increase advertisers’ competitive pressure to maintain their quality advantage and secure the discount per click, particularly for those in higher positions. Our findings reveal that the former effect dominates, leading to increased advertiser profits with higher rewards. However, the intensified competition slows the profit growth for the top-position advertiser when the bottom-position advertiser invests. For platform revenue, which comprises both auction revenue and benefits derived from user experience, a quality score in excess of CTR is recommended when the user experience benefits are substantial enough to compensate for auction revenue losses. In a scenario where page quality is capped, our results show that a quality score in excess of CTR can generate higher platform revenue, even in the absence of user experience benefits. Several managerial implications for both advertisers and the platform are discussed.</content>
-    <link href="https://doi.org/10.1177/10591478251331129"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-03-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0329</id>
-    <title>Binary Diversification Characterizes Exact Capacities</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <author>
-      <name>Lorenz Hartmann, T. Florian Kauffeldt</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Axiomatic Insights into Ambiguity Aversion: Binary Diversification and Exact CapacitiesIn decision sciences, ambiguity refers to uncertainty about event probabilities, and aversion to it is a well-studied phenomenon. In “Binary Diversification Characterizes Exact Capacities,” Hartmann and Kauffeldt consider the Choquet expected utility model, a framework for modeling ambiguity. They provide the first axiomatic characterization of exact capacities, solving an old problem. Their characterizing axiom, binary diversification, captures a specific level of ambiguity aversion—a preference for diversifications that lead to (at most) binary outcomes. They also propose an intuitive hierarchy of ambiguity aversion and illustrate that this hierarchy reflects increasingly strong levels of ambiguity aversion within the more general invariant biseparable model, whereas the hierarchy has limited bite in the Choquet model. They conclude by illustrating the implications for multiobjective shortest-path problems, demonstrating how the results can be applied.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0329"/>
-    <category term="Operations Research"/>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2024.0838</id>
-    <title>Frontiers: How Much Influencer Marketing Is Undisclosed? Evidence from Twitter</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <author>
-      <name>Daniel Ershov, Yanting He, Stephan Seiler</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This paper uses a text-based machine learning classifier to detect hidden sponsored posts on Twitter and finds that 96% of sponsored posts lack disclosure.</content>
-    <link href="https://doi.org/10.1287/mksc.2024.0838"/>
-    <category term="Marketing Science"/>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2024.1121</id>
-    <title>Frontiers: Recommending What to Search: Sales Volume and Consumption Diversity Effects of a Query Recommender System</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <author>
-      <name>Shuang Zheng, Siliang (Jack) Tong, Hyeokkoo Eric Kwon, Gordon Burtch, Xianneng Li</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This study examines the impact of a query recommender system on user search behavior, sales volume, and consumption diversity.</content>
-    <link href="https://doi.org/10.1287/mksc.2024.1121"/>
-    <category term="Marketing Science"/>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.02947</id>
-    <title>A Sample Size Calculation for Training and Certifying Targeting Policies</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <author>
-      <name>Duncan Simester, Artem Timoshenko, Spyros I. Zoumpoulis</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose an approach for determining the sample size required when using an experiment to train and certify a targeting policy. Calculating the rate at which the performance of a targeting model improves with additional training data is a complex problem. We address this challenge by assuming that customers are grouped into segments that capture relevant information about their responsiveness to the firm’s marketing actions. We consider two problem formulations. The first formulation identifies the sample size required to train a targeting policy and certify that its expected performance exceeds a predefined threshold. The second formulation identifies the sample size required to train a targeting policy and certify that it outperforms a baseline in an out-of-sample statistical test. We establish theoretical properties of these problems, based on which we propose computationally efficient algorithms for optimal sample size calculations. We illustrate our algorithms and analysis using data from a luxury fashion retailer.This paper was accepted by David Simchi-Levi, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02947 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.02947"/>
-    <category term="Management Science"/>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01413</id>
-    <title>The Informativeness of Balance Sheet Disaggregations: Evidence from Forecasting Operating Assets</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Noordermeer, Patrick Vorst</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We investigate the usefulness of balance sheet disaggregations in the context of forecasting operating asset growth and its implications for revenue growth. We show that models using disaggregated balance sheet information have greater accuracy than models that use only aggregate information, with the most accurate disaggregation scheme separately considering property, plant, and equipment, intangible assets, other noncurrent operating assets, and current operating assets. When investigating market participants’ use of disaggregated balance sheet information, we find that differences in growth predictions from a disaggregated model and an aggregate model are associated with year-ahead abnormal returns, suggesting that investors do not fully utilize disaggregated balance sheet information. We corroborate this result by showing that returns are concentrated around the earnings announcement, are more pronounced for stocks with low transient institutional ownership, and are consistent with subsequent improvements in actual financial performance. Finally, we find that these returns are driven by both the asset growth predictions of a disaggregated model and the ability of such a model to incorporate the unique revenue-generating ability of individual asset components. Importantly, we find that our results are incremental to the information embedded in income statement disaggregations, even when forecasting income statement items such as profitability. Overall, our study provides evidence on the informativeness of balance sheet disaggregations and proposes the use of disaggregated models when forecasting growth in operating assets and its implications for future revenues.This paper was accepted by Eric So, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org10.1287/mnsc.2023.01413 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01413"/>
-    <category term="Management Science"/>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.03850</id>
-    <title>Human-Algorithm Collaboration with Private Information: Naïve Advice-Weighting Behavior and Mitigation</title>
-    <updated>2025-03-24T00:00:00+00:00</updated>
-    <author>
-      <name>Maya Balakrishnan, Kris Johnson Ferreira, Jordan Tong</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Even if algorithms make better predictions than humans on average, humans may sometimes have private information that an algorithm does not have access to that can improve performance. How can we help humans effectively use and adjust recommendations made by algorithms in such situations? When deciding whether and how to override an algorithm’s recommendations, we hypothesize that people are biased toward following naïve advice-weighting (NAW) behavior; they take a weighted average between their own prediction and the algorithm’s prediction, with a constant weight across prediction instances regardless of whether they have valuable private information. This leads to humans overadhering to the algorithm’s predictions when their private information is valuable and underadhering when it is not. In an online experiment where participants were tasked with making demand predictions for 20 products while having access to an algorithm’s predictions, we confirm this bias toward NAW and find that it leads to a 20%–61% increase in prediction error. In a second experiment, we find that feature transparency—even when the underlying algorithm is a black box—helps users more effectively discriminate how to deviate from algorithms, resulting in a 25% reduction in prediction error. We make further improvements in a third experiment via an intervention designed to move users away from advice weighting and instead, use only their private information to inform deviations, leading to a 34% reduction in prediction error.This paper has been This paper was accepted by Elena Katok for the Special Issue on the Human-Algorithm Connection.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03850 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.03850"/>
-    <category term="Management Science"/>
-    <published>2025-03-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.3707</id>
     <title>Pay transparency and productivity</title>
@@ -244,42 +64,6 @@
     <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Consumers and other audiences often penalize products that combine unrelated elements. In this paper, we document the consequences of that penalty for the evaluation of the elements being combined. Building on the idea that audiences cannot fully disentangle the quality of “fit” between elements from the quality of the elements individually, we argue that audiences are likely to direct their dislike of a misfit product to the individual elements being combined. Using an archival study of the music industry and an online experiment with photographic galleries, we find that evaluations of individual elements (songs, photographs) are influenced by product-level fit (albums, galleries). Elements of misfit products are evaluated less favorably than they would have been otherwise. Moreover, this bias is exacerbated when the evaluation of the whole product is emphasized. We discuss the implications of this “misfit bias” for the innovation, entrepreneurship, and categories literatures.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2023.17462 .</content>
     <link href="https://doi.org/10.1287/orsc.2023.17462"/>
     <category term="Organization Science"/>
-    <published>2025-03-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2021.03890</id>
-    <title>The (Heterogeneous) Economic Effects of Private Equity Buyouts</title>
-    <updated>2025-03-25T00:00:00+00:00</updated>
-    <author>
-      <name>Steven J. Davis, John Haltiwanger, Kyle Handley, Ben Lipsius, Josh Lerner, Javier Miranda</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The effects of private equity buyouts on employment, productivity, and job reallocation vary tremendously with macroeconomic and credit conditions, across private equity groups, and by type of buyout. We reach this conclusion by examining the most extensive database of U.S. buyouts ever compiled, encompassing thousands of buyout targets from 1980 to 2013 and millions of control firms. Employment shrinks 12% over two years after buyouts of publicly listed firms—on average, and relative to control firms—but expands 15% after buyouts of privately held firms. Postbuyout productivity gains at target firms are large on average and much larger yet for deals executed amid tight credit conditions. A postbuyout tightening of credit conditions or slowing of gross domestic product growth curtails employment growth and intrafirm job reallocation at target firms. We also show that buyout effects differ across the private equity groups that sponsor buyouts, and these differences persist over time at the group level. Rapid upscaling in deal flow at the group level brings lower employment growth at target firms. We relate these findings to theories of private equity that highlight agency problems at portfolio firms and within the private equity industry itself.This paper was accepted by David Sraer, finance.Funding: This work was supported by Harvard Business School’s Division of Research, the Ewing Marion Kauffman Foundation, the Smith Richardson Foundation [Grant no. 2014-0136], and the Private Capital Research Institute.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2021.03890 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2021.03890"/>
-    <category term="Management Science"/>
-    <published>2025-03-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.03257</id>
-    <title>Evidence on Expectations of Household Finances</title>
-    <updated>2025-03-25T00:00:00+00:00</updated>
-    <author>
-      <name>João F. Cocco, Francisco Gomes, Paula Lopes</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We use panel data on expected and realized changes in household finances to study the process of expectation formation. Households extrapolate from improvements in financial situation, but deteriorations are associated with an increased dispersion of forecasts, and higher probabilities of both negative and positive forecast errors. Individuals who expect earnings declines to revert too quickly save less and are more likely to be financially worse off again in the future. Learning from past errors reduces the likelihood that individuals are optimistic following a deterioration in their finances. The evidence shows how experiences, learning, and life events matter for expectation formation.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03257 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.03257"/>
-    <category term="Management Science"/>
-    <published>2025-03-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06997</id>
-    <title>Central Bank Liquidity Backstops, Bank Regulation, and Risk-Taking by Asset Managers</title>
-    <updated>2025-03-25T00:00:00+00:00</updated>
-    <author>
-      <name>Iñaki Aldasoro, Wenqian Huang, Nikola Tarashev</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Central bank liquidity backstops and bank leverage regulation interact across financial intermediaries and states of the world. A backstop is implemented only in some states to grease the wheels of bank dealers that absorb fire sales. It also incentivizes asset managers to take on excessive redemption risk. Regulation binds in other states, in which it hamstrings market making. Because this outcome increases asset managers’ fire sale costs, it reins in their risk-taking. Empirically, we confirm such a disciplining effect of regulation on U.S. money market funds. Theoretically, we derive that the two policy measures complement each other in raising social welfare because they address different sources of redemption-driven losses—fire sale costs for given risk-taking and excessive risk-taking, respectively.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06997 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06997"/>
-    <category term="Management Science"/>
     <published>2025-03-25T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -344,12 +128,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rof/rfaf021</id>
-    <title>Extrapolative Income Expectations and Retirement Savings</title>
+    <title>Extrapolative income expectations and retirement savings</title>
     <updated>2025-03-26T00:00:00+00:00</updated>
     <author>
       <name>Marta Cota</name>
     </author>
-    <content>&lt;b&gt;Review of Finance&lt;/b&gt; &lt;br&gt;This paper examines how biased income expectations affect annual contributions to retirement accounts, highlighting variations across income levels. Empirical findings show that low-income workers are generally pessimistic about future earnings, whereas high-income workers tend to be overly optimistic. I develop a lifecycle model that merges these expectation biases with U.S. 401(k) plan features. The model reveals that biased expectations can account for observed delays in retirement contributions, which increase gradually with tenure. Contributions rise at different rates, with low-income workers starting later than high-income workers. Policy simulations indicate that automatic enrollment boosts initial contributions but results in a relative decline compared to active enrollment. Nonetheless, cumulative savings increase by 4.8 percent on average, with gains surpassing 10 percent for the lowest income quartile. These results highlight the significance of addressing income expectations in retirement policies and show that automatic enrollment can enhance welfare, particularly for lower-income individuals.</content>
+    <content>&lt;b&gt;Review of Finance&lt;/b&gt; &lt;br&gt;This article examines how biased income expectations affect annual contributions to retirement accounts, highlighting variations across income levels. Empirical findings show that low-income workers are generally pessimistic about future earnings, whereas high-income workers tend to be overly optimistic. I develop a lifecycle model that merges these expectation biases with US 401(k) plan features. The model reveals that biased expectations can account for observed delays in retirement contributions, which increase gradually with tenure. Contributions rise at different rates, with low-income workers starting later than high-income workers. Policy simulations indicate that automatic enrollment boosts initial contributions but results in a relative decline compared to active enrollment. Nonetheless, cumulative savings increase by 4.8 percent on average, with gains surpassing 10 percent for the lowest income quartile. These results highlight the significance of addressing income expectations in retirement policies and show that automatic enrollment can enhance welfare, particularly for lower-income individuals.</content>
     <link href="https://doi.org/10.1093/rof/rfaf021"/>
     <category term="Review of Finance"/>
     <published>2025-03-26T00:00:00+00:00</published>
@@ -451,30 +235,6 @@
     <published>2025-03-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2020.01838</id>
-    <title>Price-Fixing Cartels and Firm Innovation</title>
-    <updated>2025-03-27T00:00:00+00:00</updated>
-    <author>
-      <name>Hyo Kang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines the relationship between price-fixing cartels and firm innovation using a data set encompassing all 461 cartel cases and 1,818 firms identified in the United States in the years 1975–2016. A difference-in-differences estimation reveals a positive relationship between collusion and innovation. Colluding firms exhibited increases of 28% in patent filings, 20% in top-quality patents, and 16% in research and development investment. Innovation breadth also expanded by 16%, suggesting that firms explored new technological areas. Once cartels were dissolved, innovation activities reverted to precollusion levels. The effect varied across industries and was more pronounced in fast-growing and patent-intensive industries, underscoring the importance of technological opportunities. Further, the umbrella pricing effect that also benefits noncolluding competitors offers a unique opportunity to unpack mechanisms. Results reveal that the extra financial resources account for at least a quarter of the effect with stronger cartels exhibiting more pronounced effects. Specifically, firms that relied more on internal financing before collusion and that generated higher revenues during collusion showed a greater effect; no evidence was found of capital reallocation within firms. As much as the remaining three quarters of the effect can be attributed to managerial expectations of future profitability. These findings offer insights for managers and policymakers aiming to foster novel innovation although careful interpretation is required given the heterogeneous effects.This paper was accepted by Ashish Arora, entrepreneurship and innovation.Funding: This work was supported by the Institute of Management Research, Seoul National University; Ewing Marion Kauffman Foundation.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.01838 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2020.01838"/>
-    <category term="Management Science"/>
-    <published>2025-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00969</id>
-    <title>The Impact of Cryptocurrency on Cybersecurity</title>
-    <updated>2025-03-27T00:00:00+00:00</updated>
-    <author>
-      <name>Terrence August, Duy Dao, Kihoon Kim, Marius Florin Niculescu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Cryptocurrencies have prompted a shift away from classic security attacks toward ransomware-based extortion. To better understand the impact of cryptocurrencies on the cybersecurity landscape, we conduct a comparative analysis of cybersecurity metrics prior to and after the adoption of cryptocurrency using a series of connected software-use models in the presence of security externalities. In this framework, we endogenize the actions of both heterogeneous consumers and attackers, with entry of the latter being driven by both the size of the unpatched consumer population and, as a subset of it, the size of the ransom-paying consumer population. We first examine users’ adoption and patching behavior under both security scenarios. We explore how changes in attacker entry costs impact outcomes under both conventional and post-crypto ransomware threat landscapes. We show that ransomware scenarios may be more desirable than conventional ones when attacker entry costs are low, provided that the gains from entering with standard attacks under the ransomware scenario are not too high. However, under such scenarios, social welfare can increase under the same conditions that lead to larger ransoms being demanded and a higher expected total ransom being paid, which presents a conundrum to policymakers. We also examine the impact of market parameters associated with security losses from conventional attacks and residual losses when victims pay in ransomware attacks.This paper was accepted by Kay Giesecke, finance.Funding: This work was partially supported by Insung Research Grant of KUBS, the LG Yonam Foundation (of Korea), and an award from the Georgia Institute of Technology Center of International Business Education and Research as part of its funded research program.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.00969 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00969"/>
-    <category term="Management Science"/>
-    <published>2025-03-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1093/restud/rdaf011</id>
     <title>Industrial Policy Implementation: Empirical Evidence from China’s Shipbuilding Industry</title>
     <updated>2025-03-28T00:00:00+00:00</updated>
@@ -508,42 +268,6 @@
     <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This study provides a dynamic structural analysis of agents’ comprehensive time assessment—time dependence and time preference.</content>
     <link href="https://doi.org/10.1287/mksc.2022.0037"/>
     <category term="Marketing Science"/>
-    <published>2025-03-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00315</id>
-    <title>Retailer-Led Marketplaces</title>
-    <updated>2025-03-28T00:00:00+00:00</updated>
-    <author>
-      <name>Andres Hervas-Drane, Sandro Shelegia</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Leading retailers have opened up their online storefronts to competitors by operating marketplaces for third-party sellers. We develop a model of entry and price competition at the product market level to analyze the competitive interactions arising within these retailer-led marketplaces. We show that the retailer benefits from the marketplace by mitigating his own capacity constraints and manages competition from third-party sellers through his control of the storefront: by setting the marketplace fee, by steering consumers, and by allocating his own capacity in response to the product supply choices of third-party sellers. We draw managerial implications and examine policy interventions. We find that regulation of marketplace fees has the strongest potential to increase welfare outcomes. Our model provides novel insights into the mechanisms at play in retailer-led marketplaces and explains their prominent role in online retail.This paper was accepted by Raphael Thomadsen, marketing.Funding: This work was supported by H2020 European Research Council [Grant FAPoD 101044072]; Fundación Carmen y Severo Ochoa [Grant CEX2019-000915-S]; Ministerio de Economía y Competitividad [Grant RYC-2016-20307]; BBVA Foundation grant within program “Ayudas Fundacion BBVA a Equipos de Investigacion Cientifica 2019.”</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00315"/>
-    <category term="Management Science"/>
-    <published>2025-03-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03292</id>
-    <title>A Blessing or a Curse? Teletriage Service in Healthcare</title>
-    <updated>2025-03-28T00:00:00+00:00</updated>
-    <author>
-      <name>Xu Guan, Krista Li, Hao Wu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Teletriage is a telehealth service that uses telecommunication technologies to remotely assess patients’ conditions and determine their needs for medical treatment. This paper examines how teletriage affects patients’ decisions to seek treatment and when healthcare providers (e.g., medical businesses, hospitals, or clinics) should launch teletriage services. Our findings reveal that teletriage can encourage more mild patients to seek treatment, discouraging more severe patients. This occurs when teletriage lacks sufficient precision and patients’ hassle cost of seeking treatment falls outside a moderate range. Specifically, when hassle costs are low, patients are generally inclined to seek treatment, but teletriage can misclassify severe patients, leading them to avoid necessary care. Conversely, when hassle costs are high, patients tend to stay home, yet teletriage can misidentify mild patients, prompting them to seek unnecessary treatment. As a result, even if teletriage is costless, healthcare providers may abandon this service even though teletriage always increases patient surplus by improving their assessment of their medical needs. Interestingly, patients can be better off seeking treatment from providers who charge higher prices as these providers are more likely to adopt teletriage services. These results caution healthcare policymakers that teletriage can exacerbate healthcare inefficiency instead of alleviating it. Nevertheless, to improve patient surplus, the government should sometimes subsidize providers to offer teletriage or allow providers to charge a higher treatment fee.This paper was accepted by Dmitri Kuksov, marketing.Funding: This work was supported by the National Natural Science Foundation of China [Grants 71821001, 72325005] and the Blanche “Peg” Philpott Professorship.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03292 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03292"/>
-    <category term="Management Science"/>
-    <published>2025-03-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.04792</id>
-    <title>Does Sponsored Search Advertising Augment Organic Search? Evidence from an E-Commerce Platform</title>
-    <updated>2025-03-28T00:00:00+00:00</updated>
-    <author>
-      <name>Sarah Moshary</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper provides empirical evidence on the performance of sponsored search advertising in a case study of an unnamed e-commerce platform. I leverage a field experiment that blocks all sponsored search advertising for 3% of site visitors. The experiment shows that sponsored search advertising both steals business from organic listings and also reduces the total volume of transactions intermediated by the platform. However, in this case study, I find that sponsored search is nonetheless profitable for the platform because ad revenue more than compensates for the reduction in commissions that the platform earns on transactions.This paper was accepted by Raphael Thomadsen, marketing.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04792 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.04792"/>
-    <category term="Management Science"/>
     <published>2025-03-28T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -619,42 +343,6 @@
     <published>2025-03-31T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00459</id>
-    <title>Network-Motivated Forbearance Lending</title>
-    <updated>2025-03-31T00:00:00+00:00</updated>
-    <author>
-      <name>Yoshiaki Ogura, Ryo Okui, Yukiko Umeno Saito</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper develops a theoretical framework for network-motivated forbearance lending, or forbearance lending to influential buyers and sellers in a supply network. Because dominant banks in a financial market internalize the negative externality of an influential firm’s exit, they may continue to refinance a loss-making influential firm at an interest rate lower than the prime rate. This type of forbearance lending is distinct from other strategies such as evergreening or gambling for resurrection, and we show that network-motivated forbearance lending is independent of the financial soundness of the bank and can be welfare improving. To evaluate the extent of the externality of an influential seller or buyer, we propose two measures: the price influence coefficient and the demand influence coefficient, respectively.This paper was accepted by Agostino Capponi, finance.Funding: This work was supported by the Seimeikai Foundation; the Seoul National University Institute of Economic Research, Housing and Commercial Bank Economic Research Fund; the Nomura Foundation; and the Japan Society for the Promotion of Science [Grants 15K01217, 16K13367, 17K03818, 20K20511, 23243050, 26245037, 26590051].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.00459 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00459"/>
-    <category term="Management Science"/>
-    <published>2025-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2021.00380</id>
-    <title>Does Employer-Paid, Job-Protected Maternity Leave Help or Hurt Female IT Workers? Evidence from Millions of Job Applications</title>
-    <updated>2025-03-31T00:00:00+00:00</updated>
-    <author>
-      <name>Sofia Bapna, Russell J. Funk</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Paid maternity leave is considered an important pathway to increasing women’s participation in information technology (IT), as it helps address work-family balance concerns, which are pronounced in the field due to long hours, travel, and the need to keep up with technology. Many governments require that employers pay for maternity leave. Using microlevel data on millions of applications from an online job portal, our study examines whether a policy change in India that expanded employer-paid, job-protected maternity leave for companies with 10 or more employees from short-term (12 weeks) to medium-term (26 weeks) changes companies’ likelihood of considering female applicants for IT jobs. Specifically, postlegislation, we expect that less profitable companies may penalize women in the hiring process because employers must bear the costs associated with providing maternity benefits; we find that women were ∼22% less likely to be invited for an interview, postlegislation, at companies with low profitability. Moreover, at such companies, we do not observe a postlegislation change in applications by women. These results identify an important source of leakage in the pipeline for female IT workers. Additionally, our study suggests that legislation which mandates that maternity leave be paid for by employers (50% of economies that guarantee maternity leave of 14 weeks or longer require that employers fully or partially pay for maternity leave) should be accompanied by the introduction and enforcement of associated laws and guardrails—for example, parental leave and antidiscriminatory laws—to ensure that the spirit of the maternity leave legislation is upheld.This paper was accepted by Anindya Ghose, information systems.Funding: Financial support from the National Science Foundation [Award 2151311] and Bright Data [in-kind contributions] is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.00380 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2021.00380"/>
-    <category term="Management Science"/>
-    <published>2025-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.01029</id>
-    <title>Mitigating the Negative Effects of Customer Anxiety by Facilitating Access to Human Contact</title>
-    <updated>2025-03-31T00:00:00+00:00</updated>
-    <author>
-      <name>Michelle A. Kinch, Ryan W. Buell</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Prior research in social psychology has shown that when people feel anxious, they seek advice from others. Yet, companies that operate in high-anxiety settings (like financial services, healthcare, and education) are increasingly deploying self-service technologies (SSTs), through which anxious customers transact without access to human contact. These companies may therefore face a classic efficiency–service trade-off where gains in operational efficiency through automation also hamper service outcomes by neglecting customer anxiety. This paper, set in the high-anxiety domain of financial services, investigates the value of facilitating access to human contact during SST usage. In a field experiment conducted within the context of a credit union’s SST loan-approval process, an invitation to connect with a human loan agent increases the customer uptake rate of approved loans by 24%. Subsequent controlled laboratory experiments, which explicitly investigate the linkages among anxiety, choice satisfaction, and firm trust during SST encounters show that compared with participants without anxiety, those who are anxious consistently report lower satisfaction with their choices and less trust in the firm, regardless of the source of their anxiety. When anxiety is related to the SST encounter, facilitating access to human contact dampens anxiety’s negative effects on choice satisfaction and, by extension, increases firm trust. We further observe that these benefits of facilitating access to human contact arise even though very few customers choose to access a person. Taken together, this research reveals an opportunity for firms to maintain operational efficiency in high-anxiety self-service settings without compromising customer experiences and service outcomes.This paper was accepted by Charles Corbett, operations management.Funding: Funding for this research, apart from internal business costs incurred by our field study partner to support the experiment, was primarily provided by Harvard Business School and partially provided by Dartmouth College.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01029 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.01029"/>
-    <category term="Management Science"/>
-    <published>2025-03-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/01492063251318257</id>
     <title>Expanding the Caring Capacity: An Integrative Review of Nontraditional Caregiving and the Workplace Caregiving Literature</title>
     <updated>2025-03-31T00:00:00+00:00</updated>
@@ -705,50 +393,62 @@
   <entry>
     <id>https://doi.org/10.1002/smj.3696</id>
     <title>On the heels of giants: Internal network structure and the race to build on prior innovation</title>
-    <updated>2025-04-11T13:38:40+00:00</updated>
+    <updated>2025-04-14T13:38:34+00:00</updated>
     <author>
       <name>Nicholas Argyres, Luis A. Rios, Brian S. Silverman</name>
     </author>
     <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Strategy research has long been concerned with how firms build on the technological knowledge they create, and has focused on legal enforcement, complementary assets, and location decisions. Less attention has been paid to how internal firm structures support the appropriation of future cumulative innovations: what has been termed “generative appropriability.” Drawing on innovation and social network research, we propose that more integrated intrafirm inventor networks, and those with nearly decomposable structures, facilitate generative appropriability by accelerating within‐firm generation of follow‐on innovations, thus outpacing rivals. We find evidence for these effects in patent data from 1417 large corporations over 26 years. The acceleration effect is strongest in the critical first few years after an initial invention.Managerial SummaryInnovation is a cumulative and competitive process, so if firms fail to build on their own innovations quickly, rivals will capture value by doing so. We study how the degree to which a firm's inventors are connected to each other through co‐patenting relationships is related to its ability to build on its prior innovations faster than rivals. We find that firms whose researchers are connected to more of its other researchers are better able to quickly develop follow‐on innovations, but this advantage decays over time. We also find that the pattern of connectedness most associated with this outcome is one in which tight clusters of researchers in the core of the network are linked to each other by “bridging ties.”</content>
     <link href="https://doi.org/10.1002/smj.3696"/>
     <category term="Strategic Management Journal"/>
-    <published>2025-04-11T13:38:40+00:00</published>
+    <published>2025-04-14T13:38:34+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1111/poms.14001</id>
     <title>Undiversity, Inequity, and Exclusion in Supply Chains: The Unintended Fallout of Economic Sanctions and Consumer Boycotts</title>
-    <updated>2025-04-11T13:38:40+00:00</updated>
+    <updated>2025-04-14T13:38:34+00:00</updated>
     <author>
       <name>Timofey Shalpegin, Ajay Kumar, Tyson R Browning</name>
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Economic sanctions and consumer boycotts are common tools to punish organizations for undesirable behavior and attempt to coerce them to change their actions. However, these tools occasionally spill over beyond the intended recipients and affect guiltless supply chain members, jeopardizing the principles of diversity, equity, and inclusion in supply chains. This study identifies four channels through which sanctions and boycotts propagate through supply chains. In particular, supply chain members can be affected by direct relationships with targeted organizations, disruptions in accessing foreign markets, inability to access technology, and logistics failures. Potential solutions include mapping supply chains, proactive cooperation, network analysis, and shortening supply chains. While the work provides a general framework for research and practitioners, it also identifies areas for further studies, such as the role of new technologies and the effect of sanctions and boycotts on supply chain sustainability.</content>
     <link href="https://doi.org/10.1111/poms.14001"/>
     <category term="Production and Operations Management"/>
-    <published>2025-04-11T13:38:40+00:00</published>
+    <published>2025-04-14T13:38:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2020.00038</id>
+    <title>Self-Guided Approximate Linear Programs: Randomized Multi-Shot Approximation of Discounted Cost Markov Decision Processes</title>
+    <updated>2025-04-14T13:38:34+00:00</updated>
+    <author>
+      <name>Parshan Pakiman, Selvaprabu Nadarajah, Negar Soheili, Qihang Lin</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Approximate linear programs (ALPs) are well-known models based on value function approximations (VFAs) to obtain policies and lower bounds on the optimal policy cost of discounted-cost Markov decision processes (MDPs). Formulating an ALP requires (i) basis functions, the linear combination of which defines the VFA, and (ii) a state-relevance distribution, which determines the relative importance of different states in the ALP objective for the purpose of minimizing VFA error. Both of these choices are typically heuristic; basis function selection relies on domain knowledge, whereas the state-relevance distribution is specified using the frequency of states visited by a baseline policy. We propose a self-guided sequence of ALPs that embeds random basis functions obtained via inexpensive sampling and uses the known VFA from the previous iteration to guide VFA computation in the current iteration. In other words, this sequence takes multiple shots at randomly approximating the MDP value function with VFA-based guidance between consecutive approximation attempts. Self-guided ALPs mitigate domain knowledge during basis function selection and the impact of the state-relevance-distribution choice, thus reducing the ALP implementation burden. We establish high-probability error bounds on the VFAs from this sequence and show that a worst-case measure of policy performance is improved. We find that these favorable implementation and theoretical properties translate to encouraging numerical results on perishable inventory control and options pricing applications, where self-guided ALP policies improve upon policies from problem-specific methods. More broadly, our research takes a meaningful step toward application-agnostic policies and bounds for MDPs.This paper was accepted by Chung Piaw Teo, optimization.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.00038 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2020.00038"/>
+    <category term="Management Science"/>
+    <published>2025-04-14T13:38:34+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/01492063251318260</id>
     <title>Thirty Years of Managerial Mental Representations: A Review Guiding Conceptualization and Future Research</title>
-    <updated>2025-04-11T13:38:40+00:00</updated>
+    <updated>2025-04-14T13:38:34+00:00</updated>
     <author>
       <name>Philipp Benedikt Becker, Daniella Laureiro-Martinez, Zorica Zagorac- Uremović</name>
     </author>
     <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Managerial mental representations (MMRs) are mental constructs that structure cognitive content to guide perception and interpretation. MMRs have been examined across a broad spectrum of management research contexts, leading to the use of numerous related terms such as “mental representation,” “schema,” “mental model,” “cognitive frame,” “cognitive map,” and “mindset.” This proliferation of terms has caused considerable definitional overlap and ambiguity. To foster definitional clarity, this review systematically analyzes 206 articles employing any of 33 MMR terms used during the past 30 years. We identify the conceptual and functional definition facets of MMRs and use them to analyze commonalities and differences among the most prominent MMR terms. We further examine both established and emerging discussions surrounding the characteristics of MMRs. Established discussions focus on MMR content and levels of analysis, while emerging discussions explore MMR permanence and implicitness. We propose suggestions to advance each conversation. Based on this comprehensive analysis, we create a guiding framework aiding future research to conceptualize MMRs and navigate terminology choices. Finally, we propose two future research directions: integrating the content and process perspectives on MMRs and applying an MMR lens to examine the emergence of artificial intelligence in organizations.</content>
     <link href="https://doi.org/10.1177/01492063251318260"/>
     <category term="Journal of Management"/>
-    <published>2025-04-11T13:38:40+00:00</published>
+    <published>2025-04-14T13:38:34+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1111/jofi.13451</id>
     <title>Venture Capital and Startup Agglomeration</title>
-    <updated>2025-04-11T13:38:40+00:00</updated>
+    <updated>2025-04-14T13:38:34+00:00</updated>
     <author>
       <name>JUN CHEN, MICHAEL EWENS</name>
     </author>
     <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;This paper examines venture capital's (VC) role in the geographic clustering of high‐growth startups. We exploit a rule change that disproportionately impacted U.S. regions that historically lacked VC financing via a restriction of banks to invest in the asset class. A one‐standard‐deviation increase in VCs' exposure to the rule led to a 20% decline in fund size and a 10% decrease in the likelihood of raising a follow‐on fund. Startups were not wholly cushioned: financing and valuations declined. Startups also moved out of impacted states after the rule change, likely exacerbating existing geographic disparity in entrepreneurship.</content>
     <link href="https://doi.org/10.1111/jofi.13451"/>
     <category term="The Journal of Finance"/>
-    <published>2025-04-11T13:38:40+00:00</published>
+    <published>2025-04-14T13:38:34+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rof/rfaf023</id>
@@ -919,6 +619,18 @@
     <published>2025-04-10T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/jofi.13453</id>
+    <title>Raising Capital from Investor Syndicates with Strategic Communication</title>
+    <updated>2025-04-10T00:00:00+00:00</updated>
+    <author>
+      <name>DAN LUO</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;An entrepreneur makes offers to multiple investors to fund a project that requires a minimum investment. Concerned about other investors' decisions, each investor strategically communicates information about the project to others. When investors have conflicts of interest, those with contractually stronger incentives to invest attempt to persuade others to invest. Depending on the project's ex ante quality, the entrepreneur may promise investors different returns to create conflicts of interest and induce persuasion, or may promise investors an identical return to align their interests and induce truthful communication. The paper illustrates a new motivation for syndication and hierarchy within syndicates.</content>
+    <link href="https://doi.org/10.1111/jofi.13453"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-04-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/isre.2022.0484</id>
     <title>Exaptation in Platforms: A Theory of Origins, Mechanisms, and Consequences</title>
     <updated>2025-04-10T00:00:00+00:00</updated>
@@ -953,6 +665,126 @@
     <link href="https://doi.org/10.1007/s11142-025-09881-9"/>
     <category term="Review of Accounting Studies"/>
     <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjaf019</id>
+    <title>The Evolutionary Stability of Moral Foundations</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>Michelle Avataneo, Thomas Norman, Nicola Persico</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;Moral Foundations Theory is an influential empirical description of moral perception. According to this theory, individuals make moral judgments based on five distinct “moral foundations:” Care, Fairness, Loyalty, Authority and Sanctity. We provide a theory that explores the claimed evolutionary basis for these moral foundations. The theory conceptualizes these five moral foundations as specific modifications of fitness payoffs in a 2 × 2 game. We find that the five foundations are distinguishable from each other and evolutionarily stable. However, the five foundations are not a minimal set: strict subsets of the five moral foundations suffice to describe all preferences that are evolutionarily stable. Not all evolutionarily stable foundations deliver social-fitness improvement over the Nash equilibrium in the fitness game: we characterize which do. Finally, we study moral overdrive, i.e., the situation in which the moral component of preferences totally dominates fitness payoffs and drives decision-making entirely. While every one of the five foundations is compatible with moral overdrive in at least one fitness game, there is no fitness game in which moral overdrive is compatible with social-fitness improvement. These results are partially extended to n × n games. We derive two testable implications from the theory and find empirical support for them.</content>
+    <link href="https://doi.org/10.1093/qje/qjaf019"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251335156</id>
+    <title>EXPRESS: Combating Counterfeit Products: Anti-counterfeiting Technology and Law Enforcement</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>Shiqing Yao, Kaijie Zhu, Ruina Yang</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Counterfeits cause tremendous damages to brand companies by eroding their market shares and reducing customers’ buying motives. In response to such damages, many companies choose to develop and deploy anti-counterfeiting technologies, thus preventing counterfeiters from imitating their products. The companies can also rely on law enforcement exerted by local regulatory authorities to outlaw counterfeits. In this paper, we study how brand companies may leverage the two approaches effectively. Specifically, we consider an authentic company that sells its products to a market that is administered by its regulatory authority. A counterfeiter exists in the market and may imitate the product offered by the authentic company. To combat counterfeiting, the authentic company may invest in anti-counterfeiting technology with uncertain outcomes, aiming to help customers effectively distinguish between genuine and fake products. We show that an increase in the authentic company’s anti-counterfeiting capability does not necessarily yield a higher profit. We also find that, in equilibrium, the anti-counterfeiting effort exerted by the authentic company does not necessarily decrease with the penalty levied by the authority, even though they serve the same purpose. Our analysis further highlights the importance of coupling law enforcement type with anti-counterfeiting capability in the cooperation with the regularity authority. Specifically, when having a high (low, respectively) anti-counterfeiting capability, the authentic company should promote a cooperation that focuses on preventive (corrective, respectively) law enforcement.</content>
+    <link href="https://doi.org/10.1177/10591478251335156"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251334006</id>
+    <title>EXPRESS: Channel Pricing: A Retail Pass-Through Perspective</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>Quan Zheng, Honggang Hu, Xiajun Amy Pan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The concept of retail pass-through, including own-brand and cross-brand pass-throughs, is critical for channel management strategies. With a classical common retailer channel, our paper provides a novel perspective on channel pricing through the lens of retail pass-through, synthesizing and extending the existing results. By employing the conduct parameter approach, our study identifies two important driving forces behind channel pricing strategies:vertical strategic effectandcompetition moderation effect. In a symmetric setting, extant research has sidestepped the (upstream) competition moderation effect stemming from the retailer’s various cross-brand pass-through behaviors by assuming symmetric-at-symmetric prices. However, we find that this horizontal effect can outperform the previously esteemed vertical strategic effect, and the relative strength between the two forces is the key to formulating optimal channel pricing decisions. We apply the unifying framework to two well-known strategic questions in channel pricing—channel price leadership and product line pricing—leading to results qualitatively different from the literature. Our study not only emphasizes the necessity to account for both vertical and horizontal effects in channel analysis but also calls for practitioners in channel management to recognize the crucial role of cross-brand pass-through behavior in determining optimal channel pricing policy.</content>
+    <link href="https://doi.org/10.1177/10591478251334006"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251333724</id>
+    <title>EXPRESS: Information Sharing and Financing Services on Online Retailing Platforms</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>Xinru Hu, Jianbin Li, Lijian Lu</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online marketplaces such as Amazon and Tmall have been expanding services to boost the growth of their ecosystems. One is information service on sharing privately gathered massive consumer data that is unavailable to their sellers, and the other is financing service, e.g., Amazon Lending and Ant Financial, aiming to provide accessible and affordable financial support for small and medium-sized sellers. This paper develops a game-theoretical model to examine the interplay between information sharing and financing services on a retail platform, particularly when sellers are financially constrained. The results show that while the information-sharing service always makes the platform less likely to provide an attractive financing service, the financing service also makes the information-sharing service less likely to be provided under certain conditions. These conditions depend on the structure of capital market and the seller’s initial working capital. We find that such misalignment between these two services can be resolved by charging a fixed payment for the information service, leading to improved operational efficiency and social welfare. We finally extend our analytical results and managerial insights to general settings, demonstrating the robustness of our findings. Our findings could provide useful guidance for platform practitioners in designing integrated information-sharing and financing services.</content>
+    <link href="https://doi.org/10.1177/10591478251333724"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.01562</id>
+    <title>The Effects of Delay in Bargaining: Evidence from eBay</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>Jessica Fong, Caio Waisman</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Delay in negotiations is common in many settings, but the effects of delay have rarely been studied empirically in the field. We measure the causal effects of delay on bargaining outcomes using data from millions of negotiations on eBay. We find that for both buyers and sellers, the longer the bargaining party delays, the less likely the opponent is to continue the negotiation by countering, and the fewer rounds the negotiation takes to complete. The effects of delay are robust; they exist even under short amounts of delay (under six hours) and for negotiations for low-priced goods. We find that these effects are consistent with models of strategic delay, in which delay acts as a signal of bargaining power.This paper was accepted by Raphael Thomadsen, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01562 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01562"/>
+    <category term="Management Science"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.12617</id>
+    <title>Tax Strategy Disclosure: A Greenwashing Mandate?</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>KATARZYNA BILICKA, ELISA CASI, CAROL SEREGNI, BARBARA M. B. STAGE</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We investigate the effects of aqualitativetax disclosure mandate aimed at improving tax transparency and compliance by imposing reputational costs for firms. We use, as an exogenous shock, the 2016 UK reform that required large businesses to disclose their tax strategy. We find that treated firms—those that must publish a tax strategy report—also significantly increase the volume of tax strategy disclosure in their annual reports, but this disclosure contains more boilerplate. The standalone tax strategy reports contain narratives similar to those in the annual reports, are sticky, and their quality is correlated with those of disclosures on gender and human rights. Turning to real behavioral changes, we document no significant effect on tax planning across several proxies and firm characteristics. While we find that the mandate increased media attention on treated firms, our results suggest that this enforcement channel might not work in the context of qualitative disclosure, which may be hard to verify for outside stakeholders. Even in subsamples of firms for which we would expect higher reputational costs, we document similar responses. Taken together, our findings indicate that mandating qualitative tax disclosure has incentivized firms to portray themselves as good tax citizens without changing their practices.</content>
+    <link href="https://doi.org/10.1111/1475-679x.12617"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0621</id>
+    <title>Can Providing Algorithmic Performance Information Facilitate Humans’ Inventory Ordering Behaviors?</title>
+    <updated>2025-04-11T00:00:00+00:00</updated>
+    <author>
+      <name>Yingda Lu, Xueming Luo, Liqiang Huang, Danni Wang</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Over recent years, companies have been increasingly adopting algorithmic decision systems (ADS) to replace humans. In this paper, we focus on how ADS facilitates human managers’ decision making rather than replacing humans altogether in the context of inventory ordering decisions, specifically on the effect of providing ADS performance information to human managers. Using a pair of field experiments, our results suggest that providing ADS performance information can improve their inventory ordering decisions. Interestingly, providing both positive and negative ADS performance information enhances human managers’ inventory ordering decisions, with the latter proving even more effective. Our analyses reveal that compliance and deliberation are two mechanisms through which ADS performance transparency influences inventory ordering decisions. Furthermore, we explore the heterogeneous effect and find that disclosing ADS performance information is more helpful for human managers overseeing products with lower sales and higher uncertainty, thus solving the pain points where human managers rely on algorithmic recommendations the most. Our results also show that ADS performance information serves as an equalizer that benefits low-performing managers more. These results demonstrate the importance of algorithm performance transparency in the human adoption of ADS and shed light on the managerial implications of using ADS within corporations.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0621"/>
+    <category term="Information Systems Research"/>
+    <published>2025-04-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rof/rfaf025</id>
+    <title>Market Dominance in the Digital Age</title>
+    <updated>2025-04-12T00:00:00+00:00</updated>
+    <author>
+      <name>Logan P Emery</name>
+    </author>
+    <content>&lt;b&gt;Review of Finance&lt;/b&gt; &lt;br&gt;I document that the network structure of the online economy significantly contributes to rising industry concentration. Firms that are central in the online economy benefit more from increased economies of scale, decreased search costs, and network effects resulting from digitalization. Industries with firms that are more central become more concentrated and central firms have larger increases in market share. These results are driven by firms’ ability to generate revenue, as evidenced by central firms earning higher risk-adjusted returns and having more positive earnings surprises. Centrality is also associated with increasing productivity, but profitability only increases for central firms in business-to-consumer industries.</content>
+    <link href="https://doi.org/10.1093/rof/rfaf025"/>
+    <category term="Review of Finance"/>
+    <published>2025-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063251328256</id>
+    <title>Ownership Matters: How Family Control Affects the Value of Board Chair Types After CEO Successions</title>
+    <updated>2025-04-12T00:00:00+00:00</updated>
+    <author>
+      <name>Christine Scheef, Thomas Zellweger</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;This study examines the performance consequences of Chief Executive Officer (CEO) successions, focusing on the types of board chairs and firm ownership structures. While CEO successions can bring adaptation benefits and performance gains through strategic realignment, they can also cause disruption costs and performance losses by disturbing stakeholder relationships. We examine how the presence of a predecessor CEO or an independent individual as board chair affects postsuccession performance differently depending on the level of family control. Our analysis of a panel dataset of S&amp;P 1500 firms from 2003 to 2022 and a series of robustness tests provide strong support for our predictions. We found that with increasing family control, predecessor CEOs as board chairs have a more positive effect on postsuccession performance, while the opposite holds true for independent board chairs. Further, within family-controlled firms, the effect of predecessor retention is stronger for outside than inside CEO successions. Our findings expand CEO succession and board chair research by demonstrating that the value of a board chair type after a CEO succession depends on a firm’s ownership structure, particularly the degree of family control.</content>
+    <link href="https://doi.org/10.1177/01492063251328256"/>
+    <category term="Journal of Management"/>
+    <published>2025-04-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf024</id>
+    <title>The Impact of Green Energy Production on Healthiness Perceptions and Preferences</title>
+    <updated>2025-04-12T00:00:00+00:00</updated>
+    <author>
+      <name>Iman Paul, Smaraki Mohanty, Jeffrey R Parker</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;This research finds that products that have been produced using renewable (“green”) energy, and labeled as such, are perceived to be healthier and, consequently, are more likely to be purchased than otherwise identical products produced with non-green or conventional energy. The effect of green energy production on the perceived healthiness of food products is found to be driven via perceived contagion: Consumers believe that the “good for you” essence of green energy is transferred to the food product during the production process, thereby rendering it healthier and more preferred. Evidence for this relationship is found across 8 studies (N = 1762) using a variety of common food products. Alternative accounts are assessed and ruled out, and it is also found that the impact of green energy production on preferences is moderated by consumers' health orientation. These findings contribute to the growing literature on the broader topic of sustainability initiatives and research examining the complexity and nuances of consumer responses to sustainable products and initiatives.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf024"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-04-12T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478251331127</id>
