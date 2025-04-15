@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-04-14T13:39:11.483967+00:00</updated>
+  <updated>2025-04-15T13:39:28.809254+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
   <entry>
-    <id>https://www.nber.org/papers/w33603</id>
-    <title>Robots and Crime</title>
+    <id>https://www.nber.org/papers/w33592</id>
+    <title>The Economics of Healthcare Fraud</title>
     <updated>2025-03-01T00:00:00+00:00</updated>
     <author>
-      <name>Yang Liang, Joseph J. Sabia &amp; Dhaval M. Dave</name>
+      <name>Jetson Leder-Luis &amp; Anup Malani</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Leveraging county-level variation in exposure to industry-specific foreign-based robotics shocks, this study is the first to explore the relationship between U.S. robotics expansions and crime. Instrumental variables estimates show that a 10 percent increase in robotics exposure led to a 0.2 to 0.3 percent increase in property crime arrests.  In contrast, we find little evidence of a relationship between robotics expansions and violent crime. Our estimates are consistent with robotics-induced declines in employment and earnings among low-skilled manufacturing workers. A back-of-the-envelope calculation suggests that during the period over which robotics exposure induced adverse employment effects, such exposure generated approximately $322 million (2024$) in additional crime costs nationally.</content>
-    <link href="https://www.nber.org/papers/w33603"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Healthcare fraud imposes a sizable cost on U.S. public healthcare budgets and distorts health care provision. We examine the economics of health care fraud and enforcement using theory and data and connect to a growing literature on the topic. We first offer a new economic definition of health care fraud that captures and connects the wide range of activities prosecuted as fraud. We define fraud as any divergence between the care an insurer says a patient qualifies for, the care a provider provides, and the care a provider bills for. Our definition clarifies the economic consequences of different categories of fraud and provides a framework for understanding the slate of existing studies. Next, we examine the incentives for committing and for prosecuting fraud. We show how fraud is driven by a combination of inadequate (expected) penalties for fraud and imperfect reimbursement rates. Public anti-fraud litigation is driven by the relative monetary, political or career returns to prosecuting fraud and by prosecutorial budgets. Finally, we examine the prevalence of health care fraud prosecutions across types of fraud and types of care, and across the US, by machine learning on text data from Department of Justice press releases.</content>
+    <link href="https://www.nber.org/papers/w33592"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -151,18 +151,6 @@
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33609</id>
-    <title>Spatial Sorting and Inequality</title>
-    <updated>2025-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Rebecca Diamond &amp; Juan Carlos Suárez Serrato</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter examines the role of spatial sorting in shaping economic inequality in the United States. We first document the evolution of firm and worker sorting by skill level between 1980 and 2017. We highlight a shift since 2000, where both high-education workers and firms increasingly sort away from high-wage, high-rent areas. Throughout the entire time period, high-education workers continue to sort to high amenity areas. We then develop a spatial equilibrium model that incorporates idiosyncratic worker and firm sorting and discuss estimation techniques to identify model parameters. We review recent empirical advancements in spatial sorting, including firm and worker location choices and their interactions with housing policy. We conclude by outlining the model’s limitations and proposing directions for future research.</content>
-    <link href="https://www.nber.org/papers/w33609"/>
-    <category term="NBER"/>
-    <published>2025-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33622</id>
     <title>Putting School Surveys to the Test</title>
     <updated>2025-03-01T00:00:00+00:00</updated>
@@ -171,6 +159,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;School districts increasingly gauge school quality with surveys that ask about school climate and student engagement. We use data from New York City’s middle and high schools to compare the long-run predictive validity of surveys with that of conventional test score value-added models (VAMs). Our analysis leverages the New York school match, which includes an element of random assignment, to validate a wide range of school quality estimates. We contrast the predictiveness of survey- and test-based measures for school effects on consequential outcomes related to high school graduation and college enrollment. Survey data generate better predictions of school impacts on high school graduation than test scores. But school effects on advanced high school diplomas and college attainment are better predicted by test score VAMs than surveys. We quantify the practical value of test-based and survey-based school quality measures by simulating the effects of access to one or both types of information for parents. Parents interested in boosting their children’s college attainment benefit more from test score value-added than from survey data.</content>
     <link href="https://www.nber.org/papers/w33622"/>
+    <category term="NBER"/>
+    <published>2025-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33609</id>
+    <title>Spatial Sorting and Inequality</title>
+    <updated>2025-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Rebecca Diamond &amp; Juan Carlos Suárez Serrato</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter examines the role of spatial sorting in shaping economic inequality in the United States. We first document the evolution of firm and worker sorting by skill level between 1980 and 2017. We highlight a shift since 2000, where both high-education workers and firms increasingly sort away from high-wage, high-rent areas. Throughout the entire time period, high-education workers continue to sort to high amenity areas. We then develop a spatial equilibrium model that incorporates idiosyncratic worker and firm sorting and discuss estimation techniques to identify model parameters. We review recent empirical advancements in spatial sorting, including firm and worker location choices and their interactions with housing policy. We conclude by outlining the model’s limitations and proposing directions for future research.</content>
+    <link href="https://www.nber.org/papers/w33609"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -487,38 +487,158 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33662</id>
-    <title>Measuring Human Leadership Skills with AI Agents</title>
+    <id>https://www.nber.org/papers/w33649</id>
+    <title>The Memory Premium</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Ben Weidmann, Yixian Xu &amp; David J. Deming</name>
+      <name>Yuval Salant ⓡ Jorg L. Spenkuch ⓡ David Almog</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that leadership skill with artificially intelligent (AI) agents predicts leadership skill with human groups. In a large pre-registered lab experiment, human leaders worked with AI agents to solve problems. Their performance on this “AI leadership test” was strongly correlated (ρ=0.81) with their causal impact as leaders of human teams, which we estimate by repeatedly randomly assigning leaders to groups of human followers and measuring team performance. Successful leaders of both humans and AI agents ask more questions and engage in more conversational turn-taking; they score higher on measures of social intelligence, fluid intelligence, and decision-making skill, but do not differ in gender, age, ethnicity or education. Our findings indicate that AI agents can be effective proxies for human participants in social experiments, which greatly simplifies the measurement of leadership and teamwork skills.</content>
-    <link href="https://www.nber.org/papers/w33662"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We explore the role of memory for choice behavior in unfamiliar environments. Using a unique data set, we document that  decision makers exhibit a "memory premium." They tend to choose in-memory alternatives over out-of-memory ones, even when the latter are objectively better. Consistent with well-established regularities regarding the inner workings of human memory, the memory premium is associative, subject to interference and repetition effects, and decays over time. Even as decision makers gain familiarity with the environment, the memory premium remains economically large. Our results imply that the ease with which past experiences come to mind plays an important role in shaping choice behavior.</content>
+    <link href="https://www.nber.org/papers/w33649"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33660</id>
-    <title>Voluntary Report of Standardized Test Scores: An Experimental Study</title>
+    <id>https://www.nber.org/papers/w33648</id>
+    <title>Moral Hazard under Liquidity Constraints</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Marty Haoyuan Chen &amp; Ginger Zhe Jin</name>
+      <name>Keith Marzilli Ericson, Johannes G. Jaspersen &amp; Justin R. Sydnor</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The past few years have seen a shift in many universities' admission policies from test-required to either test-optional or test-blind. This paper uses laboratory experiments to examine students' reporting behavior given their application package and the school's interpretation of non-reported standardized test scores. We find that voluntary disclosure is incomplete and selective, supporting the incentives of both partial unraveling and reverse unraveling. Subjects exhibit some ability to learn about the hidden school interpretation, though their learning is imperfect. Using a structural model of student reporting behavior, we simulate the potential tradeoff between academic preparedness and diversity in a school's admission cohort. We find that, if students have perfect information about the school's interpretation of non-reporting, test-blind is the worst and test-required is the best in both dimensions, while test-optional lies between the two extremes. When students do not have perfect information, some test-optional policies can generate more diversity than test-required, because some students with better observable attributes may underestimate the penalty on their non-reporting. This allows the school to admit more students that have worse observable attributes but report. We test the results’ robustness to a variety of extensions.</content>
-    <link href="https://www.nber.org/papers/w33660"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Spending induced by health insurance is often called moral hazard and definitionally assumed to be inefficient. We adapt standard models and show that for those living "hand-to-mouth", the financing benefits of insurance cause a portion of moral hazard to be efficient. Although insurance's price distortions also create some inefficient spending, the net welfare impacts of moral hazard can be positive. We present an intuitive graphical framework and formal results to distinguish moral hazard’s efficient and inefficient components. Simulations show economically significant net benefits of moral hazard in many cases. Our framework also provides a new way of modeling the "income effect'" induced by  insurance, and distinguishes it from the "liquidity effect". While both can lead to efficient moral hazard, moral-hazard benefits from the "liquidity effect" are often substantially larger. We use our framework to revisit prior estimates of Medicaid’s value from the Oregon Health Insurance Experiment. For individuals with minimal liquidity, Medicaid's value is more than twice prior estimates.</content>
+    <link href="https://www.nber.org/papers/w33648"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33650</id>
-    <title>AI as Strategist</title>
+    <id>https://www.nber.org/papers/w33647</id>
+    <title>Global Spillovers of Climate Policy Shocks</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Joshua S. Gans</name>
+      <name>Julian di Giovanni, Galina Hale, Neel Lahiri &amp; Anirban Sanyal</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the role of artificial intelligence as a strategist in organizational decision-making by extending van den Steen's formal theory of strategy. A mathematical model is developed comparing AI and human strategists across different decision contexts, focusing on how each type generates confidence, achieves agreement, and implements decisions through control versus influence. The analysis presumes that AI excels in data-rich domains but faces credibility challenges in judgment-intensive contexts, creating a counterintuitive result where AI requires less formal authority precisely where it demonstrates superior analytical capabilities. The paper identifies distinct mechanisms through which strategic value is created: direct decision quality improvement and enhanced coordination. The authors propose domain-contingent approaches to AI integration, including differentiated authority systems across decision types and progressive control models that evolve as AI demonstrates effectiveness. These findings contribute to strategy theory while providing practical guidance for organizations seeking to effectively integrate AI into strategic processes, highlighting that organizations must adapt to their strategists' capabilities as much as strategists must match their organizations.</content>
-    <link href="https://www.nber.org/papers/w33650"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The slow adoption of climate change policies stems from concerns about their economic impact. The EU has led global carbon pricing through its Emissions Trading Scheme (ETS). This study examines the effect of ETS policy shocks on global stock market returns at the country-industry level using linear and spatial autoregression models. Results show that while markets react negatively to rising carbon prices, the impact is small in magnitude. Global spillovers are limited to sectors linked to EU industries via intermediate goods trade, with no significant effects beyond these supply chain linkages. Overall, the unintended consequences of EU climate policies appear negligible, with minimal effects on targeted industries’ stock returns and no spillovers outside supply chain linkages.</content>
+    <link href="https://www.nber.org/papers/w33647"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33658</id>
+    <title>Information-Concealing Credit Architecture</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gary B. Gorton, Ye Li &amp; Guillermo Ordoñez</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When the value of a pledgeable asset (or project) is uncertain, investors are tempted to examine it. The asset owner ultimately bears the information cost, reducing her financing capacity. A pecking order emerges. Debt generates a greater financing capacity than equity: unlike equity investors who own the asset directly, creditors own the asset only if the borrower defaults and, therefore, have weaker incentives to acquire information. Probabilistic asset ownership can be further diluted by introducing intermediaries between the borrower and the creditor, leading to a new theory of financial intermediation and credit chains. We demonstrate that the optimal financial architecture involves systematically sequencing multiple intermediaries with heterogeneous information costs and asset correlations, rationalizing the seemingly excessive complexity of intermediated credit flows.</content>
+    <link href="https://www.nber.org/papers/w33658"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33652</id>
+    <title>Sorting to Expensive Cities</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Cécile Gaubert &amp; Frédéric Robert-Nicoud</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a spatial equilibrium model with heterogeneous households holding general non-homothetic preferences over tradable goods and housing. In equilibrium, desirable and productive locations command high housing prices. So long as housing is a necessity, these locations are disproportionately inhabited by high-income earners who are relatively less affected by high housing prices. We clarify how this source of sorting complements other potential sorting forces in spatial equilibrium models, namely, comparative advantage in production and heterogeneous preferences for locations. We show how to measure changes in welfare inequality across income groups in a theoretically-consistent way when housing is a necessity, extending the approach popular in models with homothetic preferences. We use our framework to track the evolution of welfare inequality between college and non-college graduates in the United States between 1980 and 2020. We find that, accounting for change in prices, it has risen by more than nominal wage inequality, even as college graduates increasingly sort into cities with expensive housing over this time period.</content>
+    <link href="https://www.nber.org/papers/w33652"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33651</id>
+    <title>Asset Embeddings</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xavier Gabaix, Ralph S. J. Koijen, Robert J. Richmond &amp; Motohiro Yogo</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Firm characteristics, based on accounting and financial market data, are commonly used to represent firms in economics and finance. However, investors collectively use a much richer information set beyond firm characteristics, including sources of information that are not readily available to researchers. We show theoretically that portfolio holdings contain all relevant information for asset pricing, which can be recovered under empirically realistic conditions. Such guarantees do not exist for other data sources, such as accounting or text data. We build on recent advances in artificial intelligence (AI) and machine learning (ML) that represent unstructured data (e.g., text, audio, and images) by high-dimensional latent vectors called embeddings. Just as word embeddings leverage the document structure to represent words, asset embeddings leverage portfolio holdings to represent firms. Thus, this paper is a bridge from recent advances in AI and ML to economics and finance. We explore various methods to estimate asset embeddings, including recommender systems, shallow neural network models such as Word2Vec, and transformer models such as BERT. We evaluate the performance of these models on three benchmarks that can be evaluated using a single quarter of data: predicting relative valuations, explaining the comovement of stock returns, and predicting institutional portfolio decisions. We also estimate investor embeddings (i.e., representations of investors and their strategies), which are useful for investor classification, performance evaluation, and detecting crowded trades. We discuss other applications of asset embeddings, including generative portfolios, risk management, and stress testing. Finally, we develop a framework to give an economic narrative to a group of similar firms, by applying large language models to firm-level text data.</content>
+    <link href="https://www.nber.org/papers/w33651"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33657</id>
+    <title>Leaving Money on the Table</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mackenzie Alston, Tatyana Deryugina &amp; Olga Shurchkov</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;There is much disagreement about the extent to which financial incentives motivate study participants. We elicit preferences for being paid for completing a survey, including a one-in-twenty chance of winning a $100 electronic gift card, a guaranteed electronic gift card with the same expected value, and an option to refuse payment. More than twice as many participants chose the lottery as chose the guaranteed payment.  Given that most people are risk averse, this pattern suggests that factors beyond risk preferences—such as hassle costs—influenced their decision-making. Almost 20 percent of participants actively refused payment, demonstrating low monetary motivation. We find both systematic and unobserved heterogeneity in the characteristics of who turned down payment. The propensity to refuse payment is more than four times as large among individuals 50 and older compared to younger individuals, suggesting a tradeoff between financially motivating participants and obtaining a representative sample. Overall, our results suggest that modest electronic gift card payments violate key requirements of Vernon Smith’s induced value theory.</content>
+    <link href="https://www.nber.org/papers/w33657"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33656</id>
+    <title>Counting the Poor: The Liquidity-Adjusted Supplemental Expenditure Poverty Measure</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sung Ah Bahk, John Fitzgerald &amp; Robert A. Moffitt</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most poverty calculations use income-based or consumption-based measures. We introduce a new, third measure of poverty status which is based on household expenditure. Expenditure is the theoretically correct measure of resources actually transferred into a given period in the life cycle. But the presence of illiquid service flows from durable goods, which can only be used to purchase that good in the minimum standard of living bundle and no other good, requires an adjustment both to resources and to the poverty threshold to allow a proper comparison of liquid resources to liquidity-adjusted thresholds. We also show that the expenditure impact of transfers on the poverty rate requires an adjustment for effects of transfers on precautionary saving and for their role as consumption insurance. Using the 2009-2022 Consumer Expenditure Survey, our liquidity-adjusted poverty measure yields a 2022 poverty rate of 8.3 percent, declining by 11 percent since 2009. Our measure trends in broadly similar ways to income- and consumption-based measures but only because differences in how thresholds and resources are calculated are offsetting. We also find that accounting for precautionary saving and the insurance role of transfers could make the anti-poverty impact of transfers somewhat smaller than that estimated ignoring these effects.</content>
+    <link href="https://www.nber.org/papers/w33656"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33655</id>
+    <title>Asylum Seekers and the Rise in Homelessness</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bruce D. Meyer, Angela Wyse &amp; Douglas Williams</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data from the Department of Housing and Urban Development (HUD) indicate an unprecedented 43 percent increase in the number of people residing in homeless shelters in the United States between 2022 and 2024, reversing the gradual decline over the preceding sixteen years. Three-quarters of this rise was concentrated in four localities – New York City, Chicago, Massachusetts, and Denver – where large inflows of new immigrants seeking asylum were housed in emergency shelters. Using direct estimates from local government sources and indirect methods based on demographic changes, we estimate that asylum seekers accounted for about 60 percent of the two-year rise in sheltered homelessness during this period, challenging media and policy narratives that primarily attribute this rise to local economic conditions and housing affordability.</content>
+    <link href="https://www.nber.org/papers/w33655"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33654</id>
+    <title>Failures of Contingent Reasoning in Annuitization Decisions</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Erzo F.P. Luttmer ⓡ Priscila de Oliveira ⓡ Dmitry Taubinsky</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies psychological biases in take-up of annuities, using an incentivized experiment with a probability-based sample (N = 3,038). Choosing an annuity was payoff-maximizing in the experiment at all prices, but take-up was incomplete and price elastic. Reformulating decisions as insurance against a “bad” outcome rather than insurance against “longevity risk” did not increase take-up. Instead, we find substantial failures of contingent reasoning: participants under-appreciated how annuitization mitigated the need for less-efficient means of saving for retirement. Increasing the salience of the interaction with savings decisions, or eliminating the need to think through this interaction altogether, substantially increased annuity take-up.</content>
+    <link href="https://www.nber.org/papers/w33654"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33653</id>
+    <title>Workplace Segregation between College and Non-college Workers</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Francis M. Dillon, Edward L. Glaeser &amp; William R. Kerr</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure the level and growth of education segregation in American workplaces from 2000 to 2020. American workplaces show an educational segregation, measured by the degree to which the establishment has mostly workers of similar education levels, that is comparable to racial residential segregation in a typical metro area. Workplace isolation was particularly high for young and male workers without college degrees. The isolation of non-college workers is increasing over time.</content>
+    <link href="https://www.nber.org/papers/w33653"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33646</id>
+    <title>Estimating the Footprint of Artisanal Mining in Africa</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Darin Christensen, Tamma Carleton, Esther Rolf, Cullen Molitor, Shopnavo Biswas, Karena Yan &amp; Graeme Blair</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artisanal and small-scale mining (ASM) supplies livelihoods and critical minerals but has been linked to conflict and environmental degradation. We enable monitoring of this largely informal sector by creating high-resolution maps of ASM's footprint in Africa using machine learning models that integrate geographic features and satellite imagery. We find ASM is more extensive than documented: in five countries with on-the-ground surveys, we predict over 231,000 1-km2 grid cells [±2 standard errors: 170,153-297,710] contain ASM activity – over 40 times that recorded by surveyors. Adapting methods for spatial domain adaptation, we map ASM across 20 total countries, estimating that 4% [2-8%] of territory and 17% [10-30%] of the population are impacted by ASM, which encroaches on a larger share of settlements and ecosystems than previously understood.</content>
+    <link href="https://www.nber.org/papers/w33646"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33645</id>
+    <title>The Conflict-of-Interest Discount in the Marketplace of Ideas</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>John M. Barrios, Filippo Lancieri, Joshua Levy, Shashank Singh, Tommaso Valletti &amp; Luigi Zingales</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how conflicts of interest (CoI)—defined as financial, professional, or ideological stakes held by authors—affect perceived credibility in economics research. Using a randomized controlled survey of both economists and a representative sample of the U.S. public, we find that the presence of a CoI reduces trust in a paper’s findings by 28% on average, with substantial heterogeneity across conflict types. We develop a model in which this reduction in trust reflects both the prevalence of conflicted papers and the expected bias conditional on conflict. To isolate the latter, we introduce the CoI Discount: the perceived value of a conflicted paper relative to an otherwise identical, non-conflicted one. We estimate an average CoI Discount of 39%, implying that conflicted papers are valued at just 61% of non-conflicted ones. We validate these survey-based estimates through three complementary exercises: an empirical analysis of actual citation and disclosure patterns in economics, a meta-analysis of evidence from the medical literature, and simulations using large-language models. Our findings highlight a persistent credibility gap that is not eliminated by current disclosure practices and suggest a broader challenge for scientific trust in the presence of author conflicts.</content>
+    <link href="https://www.nber.org/papers/w33645"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -571,86 +691,50 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33652</id>
-    <title>Sorting to Expensive Cities</title>
+    <id>https://www.nber.org/papers/w33641</id>
+    <title>The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Cécile Gaubert &amp; Frédéric Robert-Nicoud</name>
+      <name>Fabrizio Dell'Acqua, Charles Ayoubi, Hila Lifshitz, Raffaella Sadun, Ethan Mollick, Lilach Mollick, Yi Han, Jeff Goldman, Hari Nair, Stewart Taub &amp; Karim Lakhani et al. (View all)</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a spatial equilibrium model with heterogeneous households holding general non-homothetic preferences over tradable goods and housing. In equilibrium, desirable and productive locations command high housing prices. So long as housing is a necessity, these locations are disproportionately inhabited by high-income earners who are relatively less affected by high housing prices. We clarify how this source of sorting complements other potential sorting forces in spatial equilibrium models, namely, comparative advantage in production and heterogeneous preferences for locations. We show how to measure changes in welfare inequality across income groups in a theoretically-consistent way when housing is a necessity, extending the approach popular in models with homothetic preferences. We use our framework to track the evolution of welfare inequality between college and non-college graduates in the United States between 1980 and 2020. We find that, accounting for change in prices, it has risen by more than nominal wage inequality, even as college graduates increasingly sort into cities with expensive housing over this time period.</content>
-    <link href="https://www.nber.org/papers/w33652"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how artificial intelligence transforms the core pillars of collaboration—performance, expertise sharing, and social engagement—through a pre-registered field experiment with 776 professionals at Procter &amp; Gamble, a global consumer packaged goods company. Working on real product innovation challenges, professionals were randomly assigned to work either with or without AI, and either individually or with another professional in new product development teams. Our findings reveal that AI significantly enhances performance: individuals with AI matched the performance of teams without AI, demonstrating that AI can effectively replicate certain benefits of human collaboration. Moreover, AI breaks down functional silos. Without AI, R&amp;D professionals tended to suggest more technical solutions, while Commercial professionals leaned towards commercially-oriented proposals. Professionals using AI produced balanced solutions, regardless of their professional background. Finally, AI’s language-based interface prompted more positive self-reported emotional responses among participants, suggesting it can fulfill part of the social and motivational role traditionally offered by human teammates. Our results suggest that AI adoption at scale in knowledge work reshapes not only performance but also how expertise and social connectivity manifest within teams, compelling organizations to rethink the very structure of collaborative work.</content>
+    <link href="https://www.nber.org/papers/w33641"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33651</id>
-    <title>Asset Embeddings</title>
+    <id>https://www.nber.org/papers/w33662</id>
+    <title>Measuring Human Leadership Skills with AI Agents</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Xavier Gabaix, Ralph S. J. Koijen, Robert J. Richmond &amp; Motohiro Yogo</name>
+      <name>Ben Weidmann, Yixian Xu &amp; David J. Deming</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Firm characteristics, based on accounting and financial market data, are commonly used to represent firms in economics and finance. However, investors collectively use a much richer information set beyond firm characteristics, including sources of information that are not readily available to researchers. We show theoretically that portfolio holdings contain all relevant information for asset pricing, which can be recovered under empirically realistic conditions. Such guarantees do not exist for other data sources, such as accounting or text data. We build on recent advances in artificial intelligence (AI) and machine learning (ML) that represent unstructured data (e.g., text, audio, and images) by high-dimensional latent vectors called embeddings. Just as word embeddings leverage the document structure to represent words, asset embeddings leverage portfolio holdings to represent firms. Thus, this paper is a bridge from recent advances in AI and ML to economics and finance. We explore various methods to estimate asset embeddings, including recommender systems, shallow neural network models such as Word2Vec, and transformer models such as BERT. We evaluate the performance of these models on three benchmarks that can be evaluated using a single quarter of data: predicting relative valuations, explaining the comovement of stock returns, and predicting institutional portfolio decisions. We also estimate investor embeddings (i.e., representations of investors and their strategies), which are useful for investor classification, performance evaluation, and detecting crowded trades. We discuss other applications of asset embeddings, including generative portfolios, risk management, and stress testing. Finally, we develop a framework to give an economic narrative to a group of similar firms, by applying large language models to firm-level text data.</content>
-    <link href="https://www.nber.org/papers/w33651"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that leadership skill with artificially intelligent (AI) agents predicts leadership skill with human groups. In a large pre-registered lab experiment, human leaders worked with AI agents to solve problems. Their performance on this “AI leadership test” was strongly correlated (ρ=0.81) with their causal impact as leaders of human teams, which we estimate by repeatedly randomly assigning leaders to groups of human followers and measuring team performance. Successful leaders of both humans and AI agents ask more questions and engage in more conversational turn-taking; they score higher on measures of social intelligence, fluid intelligence, and decision-making skill, but do not differ in gender, age, ethnicity or education. Our findings indicate that AI agents can be effective proxies for human participants in social experiments, which greatly simplifies the measurement of leadership and teamwork skills.</content>
+    <link href="https://www.nber.org/papers/w33662"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33649</id>
-    <title>The Memory Premium</title>
+    <id>https://www.nber.org/papers/w33660</id>
+    <title>Voluntary Report of Standardized Test Scores: An Experimental Study</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Yuval Salant ⓡ Jorg L. Spenkuch ⓡ David Almog</name>
+      <name>Marty Haoyuan Chen &amp; Ginger Zhe Jin</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We explore the role of memory for choice behavior in unfamiliar environments. Using a unique data set, we document that  decision makers exhibit a "memory premium." They tend to choose in-memory alternatives over out-of-memory ones, even when the latter are objectively better. Consistent with well-established regularities regarding the inner workings of human memory, the memory premium is associative, subject to interference and repetition effects, and decays over time. Even as decision makers gain familiarity with the environment, the memory premium remains economically large. Our results imply that the ease with which past experiences come to mind plays an important role in shaping choice behavior.</content>
-    <link href="https://www.nber.org/papers/w33649"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The past few years have seen a shift in many universities' admission policies from test-required to either test-optional or test-blind. This paper uses laboratory experiments to examine students' reporting behavior given their application package and the school's interpretation of non-reported standardized test scores. We find that voluntary disclosure is incomplete and selective, supporting the incentives of both partial unraveling and reverse unraveling. Subjects exhibit some ability to learn about the hidden school interpretation, though their learning is imperfect. Using a structural model of student reporting behavior, we simulate the potential tradeoff between academic preparedness and diversity in a school's admission cohort. We find that, if students have perfect information about the school's interpretation of non-reporting, test-blind is the worst and test-required is the best in both dimensions, while test-optional lies between the two extremes. When students do not have perfect information, some test-optional policies can generate more diversity than test-required, because some students with better observable attributes may underestimate the penalty on their non-reporting. This allows the school to admit more students that have worse observable attributes but report. We test the results’ robustness to a variety of extensions.</content>
+    <link href="https://www.nber.org/papers/w33660"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33648</id>
-    <title>Moral Hazard under Liquidity Constraints</title>
+    <id>https://www.nber.org/papers/w33650</id>
+    <title>AI as Strategist</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Keith Marzilli Ericson, Johannes G. Jaspersen &amp; Justin R. Sydnor</name>
+      <name>Joshua S. Gans</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Spending induced by health insurance is often called moral hazard and definitionally assumed to be inefficient. We adapt standard models and show that for those living "hand-to-mouth", the financing benefits of insurance cause a portion of moral hazard to be efficient. Although insurance's price distortions also create some inefficient spending, the net welfare impacts of moral hazard can be positive. We present an intuitive graphical framework and formal results to distinguish moral hazard’s efficient and inefficient components. Simulations show economically significant net benefits of moral hazard in many cases. Our framework also provides a new way of modeling the "income effect'" induced by  insurance, and distinguishes it from the "liquidity effect". While both can lead to efficient moral hazard, moral-hazard benefits from the "liquidity effect" are often substantially larger. We use our framework to revisit prior estimates of Medicaid’s value from the Oregon Health Insurance Experiment. For individuals with minimal liquidity, Medicaid's value is more than twice prior estimates.</content>
-    <link href="https://www.nber.org/papers/w33648"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33647</id>
-    <title>Global Spillovers of Climate Policy Shocks</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Julian di Giovanni, Galina Hale, Neel Lahiri &amp; Anirban Sanyal</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The slow adoption of climate change policies stems from concerns about their economic impact. The EU has led global carbon pricing through its Emissions Trading Scheme (ETS). This study examines the effect of ETS policy shocks on global stock market returns at the country-industry level using linear and spatial autoregression models. Results show that while markets react negatively to rising carbon prices, the impact is small in magnitude. Global spillovers are limited to sectors linked to EU industries via intermediate goods trade, with no significant effects beyond these supply chain linkages. Overall, the unintended consequences of EU climate policies appear negligible, with minimal effects on targeted industries’ stock returns and no spillovers outside supply chain linkages.</content>
-    <link href="https://www.nber.org/papers/w33647"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33646</id>
-    <title>Estimating the Footprint of Artisanal Mining in Africa</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Darin Christensen, Tamma Carleton, Esther Rolf, Cullen Molitor, Shopnavo Biswas, Karena Yan &amp; Graeme Blair</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artisanal and small-scale mining (ASM) supplies livelihoods and critical minerals but has been linked to conflict and environmental degradation. We enable monitoring of this largely informal sector by creating high-resolution maps of ASM's footprint in Africa using machine learning models that integrate geographic features and satellite imagery. We find ASM is more extensive than documented: in five countries with on-the-ground surveys, we predict over 231,000 1-km2 grid cells [±2 standard errors: 170,153-297,710] contain ASM activity – over 40 times that recorded by surveyors. Adapting methods for spatial domain adaptation, we map ASM across 20 total countries, estimating that 4% [2-8%] of territory and 17% [10-30%] of the population are impacted by ASM, which encroaches on a larger share of settlements and ecosystems than previously understood.</content>
-    <link href="https://www.nber.org/papers/w33646"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33645</id>
-    <title>The Conflict-of-Interest Discount in the Marketplace of Ideas</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>John M. Barrios, Filippo Lancieri, Joshua Levy, Shashank Singh, Tommaso Valletti &amp; Luigi Zingales</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how conflicts of interest (CoI)—defined as financial, professional, or ideological stakes held by authors—affect perceived credibility in economics research. Using a randomized controlled survey of both economists and a representative sample of the U.S. public, we find that the presence of a CoI reduces trust in a paper’s findings by 28% on average, with substantial heterogeneity across conflict types. We develop a model in which this reduction in trust reflects both the prevalence of conflicted papers and the expected bias conditional on conflict. To isolate the latter, we introduce the CoI Discount: the perceived value of a conflicted paper relative to an otherwise identical, non-conflicted one. We estimate an average CoI Discount of 39%, implying that conflicted papers are valued at just 61% of non-conflicted ones. We validate these survey-based estimates through three complementary exercises: an empirical analysis of actual citation and disclosure patterns in economics, a meta-analysis of evidence from the medical literature, and simulations using large-language models. Our findings highlight a persistent credibility gap that is not eliminated by current disclosure practices and suggest a broader challenge for scientific trust in the presence of author conflicts.</content>
-    <link href="https://www.nber.org/papers/w33645"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the role of artificial intelligence as a strategist in organizational decision-making by extending van den Steen's formal theory of strategy. A mathematical model is developed comparing AI and human strategists across different decision contexts, focusing on how each type generates confidence, achieves agreement, and implements decisions through control versus influence. The analysis presumes that AI excels in data-rich domains but faces credibility challenges in judgment-intensive contexts, creating a counterintuitive result where AI requires less formal authority precisely where it demonstrates superior analytical capabilities. The paper identifies distinct mechanisms through which strategic value is created: direct decision quality improvement and enhanced coordination. The authors propose domain-contingent approaches to AI integration, including differentiated authority systems across decision types and progressive control models that evolve as AI demonstrates effectiveness. These findings contribute to strategy theory while providing practical guidance for organizations seeking to effectively integrate AI into strategic processes, highlighting that organizations must adapt to their strategists' capabilities as much as strategists must match their organizations.</content>
+    <link href="https://www.nber.org/papers/w33650"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -727,86 +811,74 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33641</id>
-    <title>The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise</title>
+    <id>https://www.nber.org/papers/w33694</id>
+    <title>Housing Supply and Housing Affordability</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Fabrizio Dell'Acqua, Charles Ayoubi, Hila Lifshitz, Raffaella Sadun, Ethan Mollick, Lilach Mollick, Yi Han, Jeff Goldman, Hari Nair, Stewart Taub &amp; Karim Lakhani et al. (View all)</name>
+      <name>Nathaniel Baum-Snow &amp; Gilles Duranton</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how artificial intelligence transforms the core pillars of collaboration—performance, expertise sharing, and social engagement—through a pre-registered field experiment with 776 professionals at Procter &amp; Gamble, a global consumer packaged goods company. Working on real product innovation challenges, professionals were randomly assigned to work either with or without AI, and either individually or with another professional in new product development teams. Our findings reveal that AI significantly enhances performance: individuals with AI matched the performance of teams without AI, demonstrating that AI can effectively replicate certain benefits of human collaboration. Moreover, AI breaks down functional silos. Without AI, R&amp;D professionals tended to suggest more technical solutions, while Commercial professionals leaned towards commercially-oriented proposals. Professionals using AI produced balanced solutions, regardless of their professional background. Finally, AI’s language-based interface prompted more positive self-reported emotional responses among participants, suggesting it can fulfill part of the social and motivational role traditionally offered by human teammates. Our results suggest that AI adoption at scale in knowledge work reshapes not only performance but also how expertise and social connectivity manifest within teams, compelling organizations to rethink the very structure of collaborative work.</content>
-    <link href="https://www.nber.org/papers/w33641"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The decline in housing affordability over recent decades has promoted an enhanced interest in housing supply. This chapter presents descriptive evidence about the evolution of us housing prices, quantities, and regulations since 1980, indicating that supply constraints appear to be increasingly binding. We then provide an overview of the various approaches used to model construction and land development for homogeneous and heterogeneous housing in static and dynamic contexts to understand housing supply. Our treatment incorporates empirical implementation and policy implications throughout. Finally, we provide an overview of quantitative evidence on the consequences of relaxing various types of supply constraints.</content>
+    <link href="https://www.nber.org/papers/w33694"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33655</id>
-    <title>Asylum Seekers and the Rise in Homelessness</title>
+    <id>https://www.nber.org/papers/w33693</id>
+    <title>Performance Capital Flows in DC Pensions</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Bruce D. Meyer, Angela Wyse &amp; Douglas Williams</name>
+      <name>Bryan Gutierrez Cortez, Victoria Ivashina &amp; Juliana Salomao</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data from the Department of Housing and Urban Development (HUD) indicate an unprecedented 43 percent increase in the number of people residing in homeless shelters in the United States between 2022 and 2024, reversing the gradual decline over the preceding sixteen years. Three-quarters of this rise was concentrated in four localities – New York City, Chicago, Massachusetts, and Denver – where large inflows of new immigrants seeking asylum were housed in emergency shelters. Using direct estimates from local government sources and indirect methods based on demographic changes, we estimate that asylum seekers accounted for about 60 percent of the two-year rise in sheltered homelessness during this period, challenging media and policy narratives that primarily attribute this rise to local economic conditions and housing affordability.</content>
-    <link href="https://www.nber.org/papers/w33655"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Are defined contribution (DC) pension funds' capital flows sensitive to performance? We examine pressures from individual account holders who can switch their pension managers. Using novel data on retirement accounts for nearly 10 million individuals, we analyze switching behavior based on the plan’s risk profile. Switching across managers within the same pension product is not uncommon, and the tendency to change managers rises over time. Capital flows are sensitive to and increase with fund performance. This sensitivity creates pressure on managers, shaping their incentives and portfolio decisions. A quasi-exogenous increase in outflows leads managers to shift toward higher-yielding bond holdings.</content>
+    <link href="https://www.nber.org/papers/w33693"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33654</id>
-    <title>Failures of Contingent Reasoning in Annuitization Decisions</title>
+    <id>https://www.nber.org/papers/w33691</id>
+    <title>Public Finance Implications of Economic Inequality</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Erzo F.P. Luttmer ⓡ Priscila de Oliveira ⓡ Dmitry Taubinsky</name>
+      <name>Alan J. Auerbach</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies psychological biases in take-up of annuities, using an incentivized experiment with a probability-based sample (N = 3,038). Choosing an annuity was payoff-maximizing in the experiment at all prices, but take-up was incomplete and price elastic. Reformulating decisions as insurance against a “bad” outcome rather than insurance against “longevity risk” did not increase take-up. Instead, we find substantial failures of contingent reasoning: participants under-appreciated how annuitization mitigated the need for less-efficient means of saving for retirement. Increasing the salience of the interaction with savings decisions, or eliminating the need to think through this interaction altogether, substantially increased annuity take-up.</content>
-    <link href="https://www.nber.org/papers/w33654"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers questions about the implications of rising inequality for the theory and practice of public finance. It begins by addressing fundamental reasons why the distribution of income or wealth on an annual basis before taxes and transfers offers insufficient information: (1) it does not tell us what resources are actually available to households for consumption; and (2) in providing a snapshot of the resources available to individuals of different ages at a given moment in time, without controlling for life-cycle related differences or income dynamics, it can provide a misleading estimate of the underlying degree of inequality. The paper then considers the implications of high and perhaps rising economic inequality for the design of government policy: top marginal tax rates, phase-outs of government policies for those with higher incomes, the political economy of inequality, and other subjects.</content>
+    <link href="https://www.nber.org/papers/w33691"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33653</id>
-    <title>Workplace Segregation between College and Non-college Workers</title>
+    <id>https://www.nber.org/papers/w33692</id>
+    <title>Does Homeownership Matter? The Long-Term Consequences of Losing a House during the Great Recession</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Francis M. Dillon, Edward L. Glaeser &amp; William R. Kerr</name>
+      <name>Heidi Artigue, Patrick Bayer, Fernando V. Ferreira &amp; Stephen Ross</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure the level and growth of education segregation in American workplaces from 2000 to 2020. American workplaces show an educational segregation, measured by the degree to which the establishment has mostly workers of similar education levels, that is comparable to racial residential segregation in a typical metro area. Workplace isolation was particularly high for young and male workers without college degrees. The isolation of non-college workers is increasing over time.</content>
-    <link href="https://www.nber.org/papers/w33653"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the long-term impact of keeping versus losing one’s home following a mortgage delinquency in the aftermath of the Great Recession, studying the trajectory of homeownership, consumption, and financial well-being over the subsequent decade. Our research design leverages the substantial number of households that experienced temporary income shocks and the turbulence of the foreclosure crisis — we focus on individuals who were seriously delinquent on their mortgages and compare outcomes between those who received a mortgage modification and those who did not. These two groups exhibit highly similar pre-trends in financial outcomes prior and during the Great Recession but diverge by 36 percentage points in their short-term likelihood of retaining homeownership. More than half of this disparity persists nearly a decade later, translating into an average capital gain of $83,000 in the housing market. Despite these significant differences in homeownership and wealth accumulation, keeping a home does not appear to influence the path of creditworthiness, proxies for consumption, and the income rank of one's residential neighborhood.</content>
+    <link href="https://www.nber.org/papers/w33692"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33658</id>
-    <title>Information-Concealing Credit Architecture</title>
+    <id>https://www.nber.org/papers/w33690</id>
+    <title>The Long Road to Equality: Racial Capital and Generational Convergence</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Gary B. Gorton, Ye Li &amp; Guillermo Ordoñez</name>
+      <name>Patrick Bayer, Kerwin Kofi Charles &amp; JoonYup Park</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When the value of a pledgeable asset (or project) is uncertain, investors are tempted to examine it. The asset owner ultimately bears the information cost, reducing her financing capacity. A pecking order emerges. Debt generates a greater financing capacity than equity: unlike equity investors who own the asset directly, creditors own the asset only if the borrower defaults and, therefore, have weaker incentives to acquire information. Probabilistic asset ownership can be further diluted by introducing intermediaries between the borrower and the creditor, leading to a new theory of financial intermediation and credit chains. We demonstrate that the optimal financial architecture involves systematically sequencing multiple intermediaries with heterogeneous information costs and asset correlations, rationalizing the seemingly excessive complexity of intermediated credit flows.</content>
-    <link href="https://www.nber.org/papers/w33658"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce the concept of racial capital, defined as the collective material and non- material assets of the racial groups to which a child is exposed while growing up, and examine its potential to explain racial disparities in life outcomes that persist even after accounting for a broad range of parental and neighborhood resources. Estimates for Asian, Black, Hispanic, and White children born around 1980 imply that metro-level racial capital measures: (i) have substantial power to explain racial differences in life outcomes, (ii) sharply close and, in many cases, reverse the sign of racial intergenerational mobility gaps in education, income, and employment, and (iii) matter most when racial dissociation, as measured by residential and marriage segregation, is greatest. In contrast to standard estimates, our empirical framework implies a steady state equilibrium that is characterized by near equality for Black and White Americans. The inclusion of racial capital in the model, however, greatly slows the speed of convergence to the steady state, helping to explain the historically slow speed of racial economic convergence in the United States over the past two centuries. Finally, our framework highlights the complementary way that policies related to racial dissociation and wealth transfers affect the speed of convergence across generations.</content>
+    <link href="https://www.nber.org/papers/w33690"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33657</id>
-    <title>Leaving Money on the Table</title>
+    <id>https://www.nber.org/papers/w33688</id>
+    <title>Interventionist Preferences and the Welfare State: The Case of In-Kind Aid</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Mackenzie Alston, Tatyana Deryugina &amp; Olga Shurchkov</name>
+      <name>Sandro Ambuehl, B. Douglas Bernheim, Tony Q. Fan &amp; Zachary Freitas-Groff</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;There is much disagreement about the extent to which financial incentives motivate study participants. We elicit preferences for being paid for completing a survey, including a one-in-twenty chance of winning a $100 electronic gift card, a guaranteed electronic gift card with the same expected value, and an option to refuse payment. More than twice as many participants chose the lottery as chose the guaranteed payment.  Given that most people are risk averse, this pattern suggests that factors beyond risk preferences—such as hassle costs—influenced their decision-making. Almost 20 percent of participants actively refused payment, demonstrating low monetary motivation. We find both systematic and unobserved heterogeneity in the characteristics of who turned down payment. The propensity to refuse payment is more than four times as large among individuals 50 and older compared to younger individuals, suggesting a tradeoff between financially motivating participants and obtaining a representative sample. Overall, our results suggest that modest electronic gift card payments violate key requirements of Vernon Smith’s induced value theory.</content>
-    <link href="https://www.nber.org/papers/w33657"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33656</id>
-    <title>Counting the Poor: The Liquidity-Adjusted Supplemental Expenditure Poverty Measure</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sung Ah Bahk, John Fitzgerald &amp; Robert A. Moffitt</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most poverty calculations use income-based or consumption-based measures. We introduce a new, third measure of poverty status which is based on household expenditure. Expenditure is the theoretically correct measure of resources actually transferred into a given period in the life cycle. But the presence of illiquid service flows from durable goods, which can only be used to purchase that good in the minimum standard of living bundle and no other good, requires an adjustment both to resources and to the poverty threshold to allow a proper comparison of liquid resources to liquidity-adjusted thresholds. We also show that the expenditure impact of transfers on the poverty rate requires an adjustment for effects of transfers on precautionary saving and for their role as consumption insurance. Using the 2009-2022 Consumer Expenditure Survey, our liquidity-adjusted poverty measure yields a 2022 poverty rate of 8.3 percent, declining by 11 percent since 2009. Our measure trends in broadly similar ways to income- and consumption-based measures but only because differences in how thresholds and resources are calculated are offsetting. We also find that accounting for precautionary saving and the insurance role of transfers could make the anti-poverty impact of transfers somewhat smaller than that estimated ignoring these effects.</content>
-    <link href="https://www.nber.org/papers/w33656"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Why is in-kind aid a prominent feature of welfare systems? We present a lab-in-the-field experiment involving members of the general U.S. population and SNAP recipients. After documenting a widespread desire to limit recipients’ choices, we quantify the relative importance of (i) welfarist motives, (ii) utility or disutility derived from curtailing another’s autonomy, and (iii) absolutist attitudes concerning the appropriate form of aid. Choices primarily reflect the two non-welfarist motives. Because people systematically misperceive recipient preferences, their interventions are more restrictive than they intend. Interventionist preferences and non-welfarist motives are more pronounced among the political right, particularly when recipients are black.</content>
+    <link href="https://www.nber.org/papers/w33688"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -831,6 +903,126 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the forces driving polarization and higher wage inequality since 1980 using a structural model of occupation choice in the tradition of Roy (1951). In our model, changes in relative occupational skill prices proxy for changes in relative demand for occupational labor services. Our analysis yields three main findings. First, although changes in skill prices have quantitatively important effects on employment shares and mean wages, they play essentially no role in accounting for the sharp rise in wage inequality. Second, changes in relative wages are driven by changes in higher order moments and do not reflect changes in relative demand. Third, changes in the variance of idiosyncratic within occupation productivity are the dominant factor behind the sharp rise in inequality.</content>
     <link href="https://www.nber.org/papers/w33687"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33669</id>
+    <title>How Good is AI at Twisting Arms? Experiments in Debt Collection</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>James J. Choi, Dong Huang, Zhishu Yang &amp; Qi Zhang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How good is AI at persuading humans to perform costly actions? We study calls made to get delinquent consumer borrowers to repay. Regression discontinuity and a randomized experiment reveal that AI is substantially less effective than human callers. Replacing AI with humans six days into delinquency closes much of the gap. But borrowers initially contacted by AI have repaid 1% less of the initial late payment one year later and are more likely to miss subsequent payments than borrowers who were always called by humans. AI’s lesser ability to extract promises that feel binding may contribute to the performance gap.</content>
+    <link href="https://www.nber.org/papers/w33669"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33668</id>
+    <title>Scoring and Cartel Discipline in Procurement Auctions</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang &amp; Kei Kawai</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Auctioneers suspecting bidder collusion often lack the formal evidence needed for legal recourse. A practical alternative is to design auctions that hinder collusion. Since Abreu et al. (1986), economic theory has emphasized imperfect monitoring as a constraint on collusion, but evidence remains scarce on whether: (i) information frictions meaningfully limit real-world collusion; and (ii) auctioneers can effectively exploit these frictions. Indeed, transparency concerns often prevent the introduction of explicit randomness in auction design. We make progress on this issue by studying the impact of subjective scoring in auctions run by Japan’s Ministry of Land, Infrastructure, and Transportation. The adoption of scoring auctions significantly reduced winning bids in ways inconsistent with competition. Model-based inference suggests that the cartel’s dynamic obedience constraints were binding and were tightened by imperfect monitoring. Subjective scoring can successfully leverage imperfect monitoring frictions to reduce the scope of collusion.</content>
+    <link href="https://www.nber.org/papers/w33668"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33696</id>
+    <title>The Political Power of Firms</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matilde Bombardini &amp; Francesco Trebbi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents a holistic view of the channels of political influence of large corporations in modern democracies, focusing not only on well-studied instruments, such as campaign contributions and lobbying, but also on more opaque ones, such as charitable giving, political connections, dark money, public advocacy, and employee mobilization. Our quantitative perspective draws on recent work on US politics, including congressional voting, special interest politics, corporate political connections, grassroots, and philanthropic activities. In the process, the chapter offers also a discussion of recent methodological innovations around money in politics. We conclude with some considerations on corporate political disclosure.</content>
+    <link href="https://www.nber.org/papers/w33696"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33695</id>
+    <title>Quotas in General Equilibrium</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>David Baqaee &amp; Kunal Sangani</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze economies with quotas and other quantity-based distortions. We show that any feasible, distorted allocation of resources can be implemented as the competitive equilibrium of an economy with quotas. Unlike economies with wedges, economies with quotas are constrained efficient and thus satisfy macro-envelope conditions. This means that the effects of changes in technologies, distortions, or policies can be expressed in terms of a small set of sufficient statistics. We provide a non-parametric and nonlinear characterization of the effects of quota and productivity changes on aggregate output. We also calculate the costs of misallocation due to quotas. These costs are expressed in terms of the price elasticities of an inverse demand system capturing how quota prices respond to changes in quota levels. We illustrate our results using several examples: we estimate efficiency gains from increasing the cap on H-1B visas, relaxing zoning restrictions on single-family housing in American cities, removing capital controls in Argentina, phasing out U.S. quotas on Chinese clothing and textiles, and eliminating the taxicab medallion system in New York City. Our results offer a flexible method for quantifying the costs of quota distortions and the effects of policy reforms across these settings.</content>
+    <link href="https://www.nber.org/papers/w33695"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33682</id>
+    <title>If You Had One Shot: Scale and Herding in Innovation Experiments</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ashish Arora, Sharique Hasan &amp; William D. Miles</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Solving complex problems- in medicine, engineering, and other technological domains- often requires exploring multiple approaches, particularly when significant uncertainty exists about which one will lead to success. Conventional wisdom assumes that having many experimenters independently decide which approaches to pursue increases diversity and, thus, also the chances of finding a solution. However, if experimenters herd toward the most promising approach, this convergence may reduce diversity and thus the likelihood of solving the problem. In this paper, we develop a simple model to show that, holding the total number of experiments constant, markets dominated by a few large-scale experimenters- firms conducting multiple experiments- explore more diverse approaches than markets with many single-shot experimenters. Single-shot experimenters tend to converge on the most promising approach, while multi-experimenters are more likely to diversify to avoid the correlation inherent in pursuing multiple experiments within the same approach. We test our model's predictions using data from pharmaceutical R&amp;D. Our analysis shows that increasing the average number of experiments per firm by one unit raises target diversity by over three standard deviations. In turn, a one-standard deviation increase from the mean in target diversity boosts the likelihood of at least one experiment reaching Phase 1 clinical trials by 25.9 percentage points. Our findings inform policies for the optimal allocation of experiments across firms to maximize approach diversity and market-level success.</content>
+    <link href="https://www.nber.org/papers/w33682"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33681</id>
+    <title>Putting Economics Back Into Geoeconomics</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher Clayton, Matteo Maggiori &amp; Jesse Schreger</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Geoeconomics is the use of a country’s economic strength to exert influence on foreign entities to achieve geopolitical or economic goals. We discuss how concepts of power in the political science and economics literature can be used to guide research on geoeconomics. Economic threats as a form of coercion have seen a recent resurgence. We show how different types of threats can be modeled using simple tools and discuss what channels their potential effectiveness is based on. We discuss important open questions for the future literature to pursue.</content>
+    <link href="https://www.nber.org/papers/w33681"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33673</id>
+    <title>Pension Reform and Labor Supply: Retention and Productivity under a Pension Cut</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew C. Johnston, Jonah E. Rockoff &amp; James R. Harrington</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the effect of a representative pension reform on the retention and productivity of workers. The reform cut pension annuities and early retirement benefits for public school teachers, projected to save eight percent of pension revenues. We leverage administrative records and a discontinuity in the reform to estimate its effect. Contrary to expectations, the cut increased retention by discouraging early retirement. Using idiosyncratic within-school variation in exposure, we find the reform somewhat increased student achievement by 0.01–0.03 standard deviations, partly through reduced turnover. The reform thus maintained or improved both teacher retention and productivity.</content>
+    <link href="https://www.nber.org/papers/w33673"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33672</id>
+    <title>Heterogeneous Beliefs, Asset Prices, and Business Cycles</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Saki Bigio, Dejanir Silva &amp; Eduardo Zilberman</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a complete-market production economy with heterogeneous beliefs about TFP growth. Hiring occurs before TFP is known and is, therefore, risky (operational leverage). The firm's discount factor depends on a wealth-weighted average of investors' beliefs. Waves of optimism influence asset markets and percolate to labor hiring, tying together the equity premium, equity volatility, and labor volatility puzzles. A taxonomy of belief systems shows that only extrapolative beliefs amplify the volatility of asset prices and hours and lead to risk build up. Disciplined by survey data, the model matches asset-pricing and business-cycle moments, highlighting how heterogeneous beliefs can be a direct driver of aggregate fluctuations.</content>
+    <link href="https://www.nber.org/papers/w33672"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33671</id>
+    <title>Paths to the Periphery</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>James A. Robinson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;My research suggests that world inequality is explained by the incidence of extractive and inclusive institutions. But why do some countries have extractive institutions? I distinguish between two main reasons; first, power relations; second, the “normative order.” Normative orders provide justifications and legitimacy for institutions which may not generate prosperity, but may achieve other goals. These distinctions are critical because they create very different challenges in trying to make institutions more inclusive and create prosperity. I show how countries move from the economic periphery as a consequence of changing both. My own intellectual journey has been in the other direction, however, hence the title of the paper: I was fortunate to be born in Britain, but I have had to unlearn much of my own experience, socialization and training in order to see other societies on their own terms. That’s crucial to be able to help them, but also to learn from them.</content>
+    <link href="https://www.nber.org/papers/w33671"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33659</id>
+    <title>The Effects of Eviction on Children</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Robert Collinson, Deniz Dutz, John Eric Humphries, Nicholas S. Mader, Daniel Tannenbaum &amp; Winnie van Dijk</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Eviction may be an important channel for the intergenerational transmission of poverty, and concerns about its effects on children are often raised as a rationale for tenant protection policies. We study how eviction impacts children's home environment, school engagement, educational achievement, and high school completion by assembling new data sets linking eviction court records in Chicago and New York to administrative public school records and restricted Census records. To disentangle the consequences of eviction from the effects of correlated sources of economic distress, we use a research design based on the random assignment of court cases to judges who vary in their leniency. We find that eviction increases children's residential mobility, homelessness, and likelihood of doubling up with grandparents or other adults. Eviction also disrupts school engagement, causing increased absences and school changes. While we find little impact on elementary and middle school test scores, eviction substantially reduces high school course credits. Lastly, we find that eviction reduces high school graduation and use a novel bounding method to show that this finding is not driven by differential attrition. The disruptive effects of eviction appear worse for older children and boys. Our evidence suggests that the impact of eviction on children runs through the disruption to the home environment or school engagement rather than deterioration in school or neighborhood quality, and may be moderated by access to family support networks.</content>
+    <link href="https://www.nber.org/papers/w33659"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -895,42 +1087,6 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33673</id>
-    <title>Pension Reform and Labor Supply: Retention and Productivity under a Pension Cut</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andrew C. Johnston, Jonah E. Rockoff &amp; James R. Harrington</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the effect of a representative pension reform on the retention and productivity of workers. The reform cut pension annuities and early retirement benefits for public school teachers, projected to save eight percent of pension revenues. We leverage administrative records and a discontinuity in the reform to estimate its effect. Contrary to expectations, the cut increased retention by discouraging early retirement. Using idiosyncratic within-school variation in exposure, we find the reform somewhat increased student achievement by 0.01–0.03 standard deviations, partly through reduced turnover. The reform thus maintained or improved both teacher retention and productivity.</content>
-    <link href="https://www.nber.org/papers/w33673"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33672</id>
-    <title>Heterogeneous Beliefs, Asset Prices, and Business Cycles</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Saki Bigio, Dejanir Silva &amp; Eduardo Zilberman</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a complete-market production economy with heterogeneous beliefs about TFP growth. Hiring occurs before TFP is known and is, therefore, risky (operational leverage). The firm's discount factor depends on a wealth-weighted average of investors' beliefs. Waves of optimism influence asset markets and percolate to labor hiring, tying together the equity premium, equity volatility, and labor volatility puzzles. A taxonomy of belief systems shows that only extrapolative beliefs amplify the volatility of asset prices and hours and lead to risk build up. Disciplined by survey data, the model matches asset-pricing and business-cycle moments, highlighting how heterogeneous beliefs can be a direct driver of aggregate fluctuations.</content>
-    <link href="https://www.nber.org/papers/w33672"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33671</id>
-    <title>Paths to the Periphery</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>James A. Robinson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;My research suggests that world inequality is explained by the incidence of extractive and inclusive institutions. But why do some countries have extractive institutions? I distinguish between two main reasons; first, power relations; second, the “normative order.” Normative orders provide justifications and legitimacy for institutions which may not generate prosperity, but may achieve other goals. These distinctions are critical because they create very different challenges in trying to make institutions more inclusive and create prosperity. I show how countries move from the economic periphery as a consequence of changing both. My own intellectual journey has been in the other direction, however, hence the title of the paper: I was fortunate to be born in Britain, but I have had to unlearn much of my own experience, socialization and training in order to see other societies on their own terms. That’s crucial to be able to help them, but also to learn from them.</content>
-    <link href="https://www.nber.org/papers/w33671"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33684</id>
     <title>Partisan Trust in the Federal Reserve</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
@@ -951,90 +1107,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Training investments are essential for improving worker and firm productivity, yet their implementation is often hindered by low participation rates and insufficient worker engagement. This study uses data from three firms—a car manufacturer, a quick-service restaurant chain, and a retail company—to show that variation in training participation among employees is closely tied to differences in middle managers’ behavior and practices. Middle managers who actively engage with their employees and emphasize their well-being and development are associated with significantly higher participation in training programs. These managerial differences significantly influence employee performance and absenteeism, especially during periods of organizational change. Together, these findings underscore the importance of middle managers in bridging the gap between centrally designed HR policies and their effective on-the-ground execution.</content>
     <link href="https://www.nber.org/papers/w33670"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33669</id>
-    <title>How Good is AI at Twisting Arms? Experiments in Debt Collection</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>James J. Choi, Dong Huang, Zhishu Yang &amp; Qi Zhang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How good is AI at persuading humans to perform costly actions? We study calls made to get delinquent consumer borrowers to repay. Regression discontinuity and a randomized experiment reveal that AI is substantially less effective than human callers. Replacing AI with humans six days into delinquency closes much of the gap. But borrowers initially contacted by AI have repaid 1% less of the initial late payment one year later and are more likely to miss subsequent payments than borrowers who were always called by humans. AI’s lesser ability to extract promises that feel binding may contribute to the performance gap.</content>
-    <link href="https://www.nber.org/papers/w33669"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33668</id>
-    <title>Scoring and Cartel Discipline in Procurement Auctions</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jun Nakabayashi, Juan M. Ortner, Sylvain Chassang &amp; Kei Kawai</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Auctioneers suspecting bidder collusion often lack the formal evidence needed for legal recourse. A practical alternative is to design auctions that hinder collusion. Since Abreu et al. (1986), economic theory has emphasized imperfect monitoring as a constraint on collusion, but evidence remains scarce on whether: (i) information frictions meaningfully limit real-world collusion; and (ii) auctioneers can effectively exploit these frictions. Indeed, transparency concerns often prevent the introduction of explicit randomness in auction design. We make progress on this issue by studying the impact of subjective scoring in auctions run by Japan’s Ministry of Land, Infrastructure, and Transportation. The adoption of scoring auctions significantly reduced winning bids in ways inconsistent with competition. Model-based inference suggests that the cartel’s dynamic obedience constraints were binding and were tightened by imperfect monitoring. Subjective scoring can successfully leverage imperfect monitoring frictions to reduce the scope of collusion.</content>
-    <link href="https://www.nber.org/papers/w33668"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33696</id>
-    <title>The Political Power of Firms</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matilde Bombardini &amp; Francesco Trebbi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents a holistic view of the channels of political influence of large corporations in modern democracies, focusing not only on well-studied instruments, such as campaign contributions and lobbying, but also on more opaque ones, such as charitable giving, political connections, dark money, public advocacy, and employee mobilization. Our quantitative perspective draws on recent work on US politics, including congressional voting, special interest politics, corporate political connections, grassroots, and philanthropic activities. In the process, the chapter offers also a discussion of recent methodological innovations around money in politics. We conclude with some considerations on corporate political disclosure.</content>
-    <link href="https://www.nber.org/papers/w33696"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33695</id>
-    <title>Quotas in General Equilibrium</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>David Baqaee &amp; Kunal Sangani</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze economies with quotas and other quantity-based distortions. We show that any feasible, distorted allocation of resources can be implemented as the competitive equilibrium of an economy with quotas. Unlike economies with wedges, economies with quotas are constrained efficient and thus satisfy macro-envelope conditions. This means that the effects of changes in technologies, distortions, or policies can be expressed in terms of a small set of sufficient statistics. We provide a non-parametric and nonlinear characterization of the effects of quota and productivity changes on aggregate output. We also calculate the costs of misallocation due to quotas. These costs are expressed in terms of the price elasticities of an inverse demand system capturing how quota prices respond to changes in quota levels. We illustrate our results using several examples: we estimate efficiency gains from increasing the cap on H-1B visas, relaxing zoning restrictions on single-family housing in American cities, removing capital controls in Argentina, phasing out U.S. quotas on Chinese clothing and textiles, and eliminating the taxicab medallion system in New York City. Our results offer a flexible method for quantifying the costs of quota distortions and the effects of policy reforms across these settings.</content>
-    <link href="https://www.nber.org/papers/w33695"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33694</id>
-    <title>Housing Supply and Housing Affordability</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nathaniel Baum-Snow &amp; Gilles Duranton</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The decline in housing affordability over recent decades has promoted an enhanced interest in housing supply. This chapter presents descriptive evidence about the evolution of us housing prices, quantities, and regulations since 1980, indicating that supply constraints appear to be increasingly binding. We then provide an overview of the various approaches used to model construction and land development for homogeneous and heterogeneous housing in static and dynamic contexts to understand housing supply. Our treatment incorporates empirical implementation and policy implications throughout. Finally, we provide an overview of quantitative evidence on the consequences of relaxing various types of supply constraints.</content>
-    <link href="https://www.nber.org/papers/w33694"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33693</id>
-    <title>Performance Capital Flows in DC Pensions</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Bryan Gutierrez Cortez, Victoria Ivashina &amp; Juliana Salomao</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Are defined contribution (DC) pension funds' capital flows sensitive to performance? We examine pressures from individual account holders who can switch their pension managers. Using novel data on retirement accounts for nearly 10 million individuals, we analyze switching behavior based on the plan’s risk profile. Switching across managers within the same pension product is not uncommon, and the tendency to change managers rises over time. Capital flows are sensitive to and increase with fund performance. This sensitivity creates pressure on managers, shaping their incentives and portfolio decisions. A quasi-exogenous increase in outflows leads managers to shift toward higher-yielding bond holdings.</content>
-    <link href="https://www.nber.org/papers/w33693"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33691</id>
-    <title>Public Finance Implications of Economic Inequality</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alan J. Auerbach</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers questions about the implications of rising inequality for the theory and practice of public finance. It begins by addressing fundamental reasons why the distribution of income or wealth on an annual basis before taxes and transfers offers insufficient information: (1) it does not tell us what resources are actually available to households for consumption; and (2) in providing a snapshot of the resources available to individuals of different ages at a given moment in time, without controlling for life-cycle related differences or income dynamics, it can provide a misleading estimate of the underlying degree of inequality. The paper then considers the implications of high and perhaps rising economic inequality for the design of government policy: top marginal tax rates, phase-outs of government policies for those with higher incomes, the political economy of inequality, and other subjects.</content>
-    <link href="https://www.nber.org/papers/w33691"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -1087,42 +1159,6 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33692</id>
-    <title>Does Homeownership Matter? The Long-Term Consequences of Losing a House during the Great Recession</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Heidi Artigue, Patrick Bayer, Fernando V. Ferreira &amp; Stephen Ross</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the long-term impact of keeping versus losing one’s home following a mortgage delinquency in the aftermath of the Great Recession, studying the trajectory of homeownership, consumption, and financial well-being over the subsequent decade. Our research design leverages the substantial number of households that experienced temporary income shocks and the turbulence of the foreclosure crisis — we focus on individuals who were seriously delinquent on their mortgages and compare outcomes between those who received a mortgage modification and those who did not. These two groups exhibit highly similar pre-trends in financial outcomes prior and during the Great Recession but diverge by 36 percentage points in their short-term likelihood of retaining homeownership. More than half of this disparity persists nearly a decade later, translating into an average capital gain of $83,000 in the housing market. Despite these significant differences in homeownership and wealth accumulation, keeping a home does not appear to influence the path of creditworthiness, proxies for consumption, and the income rank of one's residential neighborhood.</content>
-    <link href="https://www.nber.org/papers/w33692"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33690</id>
-    <title>The Long Road to Equality: Racial Capital and Generational Convergence</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Patrick Bayer, Kerwin Kofi Charles &amp; JoonYup Park</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce the concept of racial capital, defined as the collective material and non- material assets of the racial groups to which a child is exposed while growing up, and examine its potential to explain racial disparities in life outcomes that persist even after accounting for a broad range of parental and neighborhood resources. Estimates for Asian, Black, Hispanic, and White children born around 1980 imply that metro-level racial capital measures: (i) have substantial power to explain racial differences in life outcomes, (ii) sharply close and, in many cases, reverse the sign of racial intergenerational mobility gaps in education, income, and employment, and (iii) matter most when racial dissociation, as measured by residential and marriage segregation, is greatest. In contrast to standard estimates, our empirical framework implies a steady state equilibrium that is characterized by near equality for Black and White Americans. The inclusion of racial capital in the model, however, greatly slows the speed of convergence to the steady state, helping to explain the historically slow speed of racial economic convergence in the United States over the past two centuries. Finally, our framework highlights the complementary way that policies related to racial dissociation and wealth transfers affect the speed of convergence across generations.</content>
-    <link href="https://www.nber.org/papers/w33690"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33688</id>
-    <title>Interventionist Preferences and the Welfare State: The Case of In-Kind Aid</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sandro Ambuehl, B. Douglas Bernheim, Tony Q. Fan &amp; Zachary Freitas-Groff</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Why is in-kind aid a prominent feature of welfare systems? We present a lab-in-the-field experiment involving members of the general U.S. population and SNAP recipients. After documenting a widespread desire to limit recipients’ choices, we quantify the relative importance of (i) welfarist motives, (ii) utility or disutility derived from curtailing another’s autonomy, and (iii) absolutist attitudes concerning the appropriate form of aid. Choices primarily reflect the two non-welfarist motives. Because people systematically misperceive recipient preferences, their interventions are more restrictive than they intend. Interventionist preferences and non-welfarist motives are more pronounced among the political right, particularly when recipients are black.</content>
-    <link href="https://www.nber.org/papers/w33688"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33679</id>
     <title>Do Time-Constraints Matter? How, Why, and For Whom?</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
@@ -1131,42 +1167,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Exams are designed to rank students objectively by their abilities, including elements such as time limits, the number and difficulty of questions, and negative marking policies. Using data from a lab-in-field experiment, we develop and estimate a model of student behavior in multiple-choice exams that incorporates the effects of time constraints and use it to conduct policy analyses for designing more efficient exams in sorting students. We find that additional time benefits men more than women. Our estimated model shows that this is driven by gender differences in the signal production function for the correct answers. Time has a smaller impact on women, while ability and difficulty play a larger role. Risk aversion, in contrast to what is suggested in the literature, does not differ significantly by gender, and confidence rises with more time. Our policy experiments find that exams more effectively rank students when ranking is gender-specific and that time pressure, question difficulty, and student ability have non-monotonic effects on sorting.</content>
     <link href="https://www.nber.org/papers/w33679"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33682</id>
-    <title>If You Had One Shot: Scale and Herding in Innovation Experiments</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ashish Arora, Sharique Hasan &amp; William D. Miles</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Solving complex problems- in medicine, engineering, and other technological domains- often requires exploring multiple approaches, particularly when significant uncertainty exists about which one will lead to success. Conventional wisdom assumes that having many experimenters independently decide which approaches to pursue increases diversity and, thus, also the chances of finding a solution. However, if experimenters herd toward the most promising approach, this convergence may reduce diversity and thus the likelihood of solving the problem. In this paper, we develop a simple model to show that, holding the total number of experiments constant, markets dominated by a few large-scale experimenters- firms conducting multiple experiments- explore more diverse approaches than markets with many single-shot experimenters. Single-shot experimenters tend to converge on the most promising approach, while multi-experimenters are more likely to diversify to avoid the correlation inherent in pursuing multiple experiments within the same approach. We test our model's predictions using data from pharmaceutical R&amp;D. Our analysis shows that increasing the average number of experiments per firm by one unit raises target diversity by over three standard deviations. In turn, a one-standard deviation increase from the mean in target diversity boosts the likelihood of at least one experiment reaching Phase 1 clinical trials by 25.9 percentage points. Our findings inform policies for the optimal allocation of experiments across firms to maximize approach diversity and market-level success.</content>
-    <link href="https://www.nber.org/papers/w33682"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33681</id>
-    <title>Putting Economics Back Into Geoeconomics</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Clayton, Matteo Maggiori &amp; Jesse Schreger</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Geoeconomics is the use of a country’s economic strength to exert influence on foreign entities to achieve geopolitical or economic goals. We discuss how concepts of power in the political science and economics literature can be used to guide research on geoeconomics. Economic threats as a form of coercion have seen a recent resurgence. We show how different types of threats can be modeled using simple tools and discuss what channels their potential effectiveness is based on. We discuss important open questions for the future literature to pursue.</content>
-    <link href="https://www.nber.org/papers/w33681"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33659</id>
-    <title>The Effects of Eviction on Children</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Robert Collinson, Deniz Dutz, John Eric Humphries, Nicholas S. Mader, Daniel Tannenbaum &amp; Winnie van Dijk</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Eviction may be an important channel for the intergenerational transmission of poverty, and concerns about its effects on children are often raised as a rationale for tenant protection policies. We study how eviction impacts children's home environment, school engagement, educational achievement, and high school completion by assembling new data sets linking eviction court records in Chicago and New York to administrative public school records and restricted Census records. To disentangle the consequences of eviction from the effects of correlated sources of economic distress, we use a research design based on the random assignment of court cases to judges who vary in their leniency. We find that eviction increases children's residential mobility, homelessness, and likelihood of doubling up with grandparents or other adults. Eviction also disrupts school engagement, causing increased absences and school changes. While we find little impact on elementary and middle school test scores, eviction substantially reduces high school course credits. Lastly, we find that eviction reduces high school graduation and use a novel bounding method to show that this finding is not driven by differential attrition. The disruptive effects of eviction appear worse for older children and boys. Our evidence suggests that the impact of eviction on children runs through the disruption to the home environment or school engagement rather than deterioration in school or neighborhood quality, and may be moderated by access to family support networks.</content>
-    <link href="https://www.nber.org/papers/w33659"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
