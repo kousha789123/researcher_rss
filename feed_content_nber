@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-04-17T13:39:37.992149+00:00</updated>
+  <updated>2025-04-18T14:44:17.139245+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w33598</id>
+    <title>Cloze Encounters: The Impact of Pirated Data Access on LLM Performance</title>
+    <updated>2025-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stella Jia &amp; Abhishek Nagaraj</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large Language Models (LLMs) have demonstrated remarkable capabilities in text generation, but their performance may be influenced by the datasets on which they are trained, including potentially unauthorized or pirated content. We investigate the extent to which data access through pirated books influences LLM responses. We test the performance of leading foundation models (GPT, Claude, Llama, and Gemini) on a set of books that were and were not included in the Books3 dataset, which contains full-text pirated books and could be used for LLM training. We assess book-level performance using the “name cloze” word-prediction task. To examine the causal effect of Books3 inclusion we employ an instrumental variables strategy that exploits the pattern of book publication years in the Books3 dataset. In our sample of 12,916 books, we find significant improvements in LLM name cloze accuracy on books available within the Books3 dataset compared to those not present in these data. These effects are more pronounced for less popular books as compared to more popular books and vary across leading models. These findings have crucial implications for the economics of digitization, copyright policy, and the design and training of AI systems.</content>
+    <link href="https://www.nber.org/papers/w33598"/>
+    <category term="NBER"/>
+    <published>2025-03-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w33596</id>
     <title>Does Fund Size Affect Private Equity Performance? Evidence from Donation Inflows to Private Universities</title>
@@ -75,18 +87,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Given the ubiquitous presence of endogenous regressors and the challenges in finding good instruments to overcome the endogeneity problem, a forefront of recent research is the development and application of endogeneity correction methods without requiring instruments. In this article,  we formulate the regressor endogeneity problem using a novel conditional copula endogeneity model to capture the regressor-error dependence unexplained by exogenous regressors. The model relaxes the key assumption of Gaussian copula regressor-error dependence structure and eliminates unnecessary modeling of  regressors.  Under the model, we develop an instrument-free two-stage nonparametric copula endogeneity control function approach (2sCOPE-np), which generalizes existing copula endogeneity correction methods and minimizes the assumptions in the first-stage auxiliary model for endogenous regressors. Specifically, the 2sCOPE-np employs robust model-free kernel estimates of copula control functions. We elucidate and demonstrate the  robustness and broad applicability of 2sCOPE-np, compared to existing copula endogeneity correction methods.  Simulation studies further demonstrate that 2sCOPE-np outperforms existing methods. We illustrate the usage of 2sCOPE-np in an empirical application of the store sales demand estimation.</content>
     <link href="https://www.nber.org/papers/w33607"/>
-    <category term="NBER"/>
-    <published>2025-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33606</id>
-    <title>A Bid Strategy for Earlier Payment: Evidence and Implications of Front-End Loading in Procurement</title>
-    <updated>2025-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Justin Marion &amp; Benjamin Rosa</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Liquidity management is key in industries with variable cash flows. We study how businesses in the highway construction industry manage cash flow by strategically bidding more on work with an earlier payout—a practice known as front-end loading. We find that small contractors, infrequent bidders, and Disadvantaged Business Enterprises front-end load more intensely, indicating a stronger preference for earlier payment. An equilibrium bidding model highlights a novel pathway through which this preference can affect procurement and its managerial and policy implications.</content>
-    <link href="https://www.nber.org/papers/w33606"/>
     <category term="NBER"/>
     <published>2025-03-01T00:00:00+00:00</published>
   </entry>
@@ -811,98 +811,50 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33637</id>
-    <title>Interim Valuations, Predictability, and Outcomes in Private Equity</title>
+    <id>https://www.nber.org/papers/w33676</id>
+    <title>The Economics of Encouragement: Can A Simple Email Shape Major Choice?</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Ege Y. Ercan, Steven N. Kaplan &amp; Ilya A. Strebulaev</name>
+      <name>Olivia Edwards &amp; Jonathan Meer</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a novel dataset of U.S. buyout and VC investments, we study the informativeness of fund managers’ interim valuation reports about portfolio companies on final outcomes. We find that when investors assess the performance of individual portfolio companies, they can do better than just relying on the most recent reported valuation. The history of reported valuations is also informative. Investments with greater past staleness or more frequent markdowns tend to perform more poorly in the future than other investments. We also find that the timing of an investment’s exit is predictable. Moreover, the combined knowledge of interim realized and unrealized returns, past staleness, and past markdown frequency can help predict whether an investment will end up in the left or right tail of all investments. These predictions are informative as early as the first year of the investment.</content>
-    <link href="https://www.nber.org/papers/w33637"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the impact of encouragement emails sent to high-performing students in a principles of microeconomics course at a large state university, aimed at motivating them to take additional economics courses and consider an economics major or minor. Using a regression discontinuity design, we find some evidence of an increase in the likelihood of enrolling in intermediate microeconomics, especially for first-generation college students and underrepresented minorities, but limited effects on major switching or declaring an economics minor. Our findings suggest sustained interventions may be necessary to produce lasting effects</content>
+    <link href="https://www.nber.org/papers/w33676"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33694</id>
-    <title>Housing Supply and Housing Affordability</title>
+    <id>https://www.nber.org/papers/w33680</id>
+    <title>Anticipated Discrimination and Major Choice</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Nathaniel Baum-Snow &amp; Gilles Duranton</name>
+      <name>Louis-Pierre Lepage, Xiaomeng Li &amp; Basit Zafar</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The decline in housing affordability over recent decades has promoted an enhanced interest in housing supply. This chapter presents descriptive evidence about the evolution of us housing prices, quantities, and regulations since 1980, indicating that supply constraints appear to be increasingly binding. We then provide an overview of the various approaches used to model construction and land development for homogeneous and heterogeneous housing in static and dynamic contexts to understand housing supply. Our treatment incorporates empirical implementation and policy implications throughout. Finally, we provide an overview of quantitative evidence on the consequences of relaxing various types of supply constraints.</content>
-    <link href="https://www.nber.org/papers/w33694"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study whether gender differences in university major choices result from anticipated labor market discrimination. First, we document two novel facts using administrative transcript records from a large Midwestern university: women are less likely to study science, technology, engineering, and mathematics (STEM) as well as business and economics, but 1) those who do are positively selected on ability, and 2) obtain higher grades conditional on ability. Second, we show that these facts are consistent with a signaling model in which women anticipate greater labor market discrimination in STEM, business, and economics than in other fields. Third, we provide direct empirical evidence of anticipated discrimination using a student survey. The survey reveals striking patterns of anticipated discrimination by women, particularly in STEM, business, and economics, affecting both expected economic outcomes such as wages as well as expected workplace conditions. We conclude by showing that anticipated discrimination explains women's course taking and intended major choices, but not men's.</content>
+    <link href="https://www.nber.org/papers/w33680"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33636</id>
-    <title>Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism</title>
+    <id>https://www.nber.org/papers/w33691</id>
+    <title>Public Finance Implications of Economic Inequality</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Qiaoyi Chen, Nicholas Ryan &amp; Daniel Xu</name>
+      <name>Alan J. Auerbach</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study carbon offsets sold by firms in China under the Clean Development Mechanism (CDM). We find that offset-selling firms, meant to cut carbon emissions, instead increase them by 49% after starting an offset project. In a model of firm investment decisions and offset review, we estimate that CDM firms increase emissions due to both the selection of higher-growth firms into projects (35 pp) and because offset projects themselves boost firm growth and therefore emissions (14 pp). The CDM reduces global surplus by causing damages from increased emissions four times greater than private gains from trade in the offset market.</content>
-    <link href="https://www.nber.org/papers/w33636"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers questions about the implications of rising inequality for the theory and practice of public finance. It begins by addressing fundamental reasons why the distribution of income or wealth on an annual basis before taxes and transfers offers insufficient information: (1) it does not tell us what resources are actually available to households for consumption; and (2) in providing a snapshot of the resources available to individuals of different ages at a given moment in time, without controlling for life-cycle related differences or income dynamics, it can provide a misleading estimate of the underlying degree of inequality. The paper then considers the implications of high and perhaps rising economic inequality for the design of government policy: top marginal tax rates, phase-outs of government policies for those with higher incomes, the political economy of inequality, and other subjects.</content>
+    <link href="https://www.nber.org/papers/w33691"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33681</id>
-    <title>Putting Economics Back Into Geoeconomics</title>
+    <id>https://www.nber.org/papers/w33692</id>
+    <title>Does Homeownership Matter? The Long-Term Consequences of Losing a House during the Great Recession</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Christopher Clayton, Matteo Maggiori &amp; Jesse Schreger</name>
+      <name>Heidi Artigue, Patrick Bayer, Fernando V. Ferreira &amp; Stephen Ross</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Geoeconomics is the use of a country’s economic strength to exert influence on foreign entities to achieve geopolitical or economic goals. We discuss how concepts of power in the political science and economics literature can be used to guide research on geoeconomics. Economic threats as a form of coercion have seen a recent resurgence. We show how different types of threats can be modeled using simple tools and discuss what channels their potential effectiveness is based on. We discuss important open questions for the future literature to pursue.</content>
-    <link href="https://www.nber.org/papers/w33681"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33673</id>
-    <title>Pension Reform and Labor Supply: Retention and Productivity under a Pension Cut</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andrew C. Johnston, Jonah E. Rockoff &amp; James R. Harrington</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the effect of a representative pension reform on the retention and productivity of workers. The reform cut pension annuities and early retirement benefits for public school teachers, projected to save eight percent of pension revenues. We leverage administrative records and a discontinuity in the reform to estimate its effect. Contrary to expectations, the cut increased retention by discouraging early retirement. Using idiosyncratic within-school variation in exposure, we find the reform somewhat increased student achievement by 0.01–0.03 standard deviations, partly through reduced turnover. The reform thus maintained or improved both teacher retention and productivity.</content>
-    <link href="https://www.nber.org/papers/w33673"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33672</id>
-    <title>Heterogeneous Beliefs, Asset Prices, and Business Cycles</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Saki Bigio, Dejanir Silva &amp; Eduardo Zilberman</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a complete-market production economy with heterogeneous beliefs about TFP growth. Hiring occurs before TFP is known and is, therefore, risky (operational leverage). The firm's discount factor depends on a wealth-weighted average of investors' beliefs. Waves of optimism influence asset markets and percolate to labor hiring, tying together the equity premium, equity volatility, and labor volatility puzzles. A taxonomy of belief systems shows that only extrapolative beliefs amplify the volatility of asset prices and hours and lead to risk build up. Disciplined by survey data, the model matches asset-pricing and business-cycle moments, highlighting how heterogeneous beliefs can be a direct driver of aggregate fluctuations.</content>
-    <link href="https://www.nber.org/papers/w33672"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33671</id>
-    <title>Paths to the Periphery</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>James A. Robinson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;My research suggests that world inequality is explained by the incidence of extractive and inclusive institutions. But why do some countries have extractive institutions? I distinguish between two main reasons; first, power relations; second, the “normative order.” Normative orders provide justifications and legitimacy for institutions which may not generate prosperity, but may achieve other goals. These distinctions are critical because they create very different challenges in trying to make institutions more inclusive and create prosperity. I show how countries move from the economic periphery as a consequence of changing both. My own intellectual journey has been in the other direction, however, hence the title of the paper: I was fortunate to be born in Britain, but I have had to unlearn much of my own experience, socialization and training in order to see other societies on their own terms. That’s crucial to be able to help them, but also to learn from them.</content>
-    <link href="https://www.nber.org/papers/w33671"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33684</id>
-    <title>Partisan Trust in the Federal Reserve</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Carola Binder, Cody Couture &amp; Abhiprerna Smit</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines partisanship in public perceptions of the Federal Reserve. In all years from 2001 through 2023, trust in the Federal Reserve was highest for respondents of the same party as the President. The partisan effects were larger than other demographic differences in trust, but do not explain the large partisan gap in inflation expectations in those years. We conducted a new survey-based information experiment before and after the Presidential inauguration in 2025, and found a changed pattern: Republicans continued to have lower trust in the Fed than did Democrats, even after a Republican President was elected and took office. Yet, Republicans had much lower inflation expectations than Democrats. Responses to open-ended survey questions point to tariffs and President Trump himself as most salient to consumers when considering how inflation will evolve.</content>
-    <link href="https://www.nber.org/papers/w33684"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the long-term impact of keeping versus losing one’s home following a mortgage delinquency in the aftermath of the Great Recession, studying the trajectory of homeownership, consumption, and financial well-being over the subsequent decade. Our research design leverages the substantial number of households that experienced temporary income shocks and the turbulence of the foreclosure crisis — we focus on individuals who were seriously delinquent on their mortgages and compare outcomes between those who received a mortgage modification and those who did not. These two groups exhibit highly similar pre-trends in financial outcomes prior and during the Great Recession but diverge by 36 percentage points in their short-term likelihood of retaining homeownership. More than half of this disparity persists nearly a decade later, translating into an average capital gain of $83,000 in the housing market. Despite these significant differences in homeownership and wealth accumulation, keeping a home does not appear to influence the path of creditworthiness, proxies for consumption, and the income rank of one's residential neighborhood.</content>
+    <link href="https://www.nber.org/papers/w33692"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -931,66 +883,6 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33696</id>
-    <title>The Political Power of Firms</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matilde Bombardini &amp; Francesco Trebbi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents a holistic view of the channels of political influence of large corporations in modern democracies, focusing not only on well-studied instruments, such as campaign contributions and lobbying, but also on more opaque ones, such as charitable giving, political connections, dark money, public advocacy, and employee mobilization. Our quantitative perspective draws on recent work on US politics, including congressional voting, special interest politics, corporate political connections, grassroots, and philanthropic activities. In the process, the chapter offers also a discussion of recent methodological innovations around money in politics. We conclude with some considerations on corporate political disclosure.</content>
-    <link href="https://www.nber.org/papers/w33696"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33695</id>
-    <title>Quotas in General Equilibrium</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>David Baqaee &amp; Kunal Sangani</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze economies with quotas and other quantity-based distortions. We show that any feasible, distorted allocation of resources can be implemented as the competitive equilibrium of an economy with quotas. Unlike economies with wedges, economies with quotas are constrained efficient and thus satisfy macro-envelope conditions. This means that the effects of changes in technologies, distortions, or policies can be expressed in terms of a small set of sufficient statistics. We provide a non-parametric and nonlinear characterization of the effects of quota and productivity changes on aggregate output. We also calculate the costs of misallocation due to quotas. These costs are expressed in terms of the price elasticities of an inverse demand system capturing how quota prices respond to changes in quota levels. We illustrate our results using several examples: we estimate efficiency gains from increasing the cap on H-1B visas, relaxing zoning restrictions on single-family housing in American cities, removing capital controls in Argentina, phasing out U.S. quotas on Chinese clothing and textiles, and eliminating the taxicab medallion system in New York City. Our results offer a flexible method for quantifying the costs of quota distortions and the effects of policy reforms across these settings.</content>
-    <link href="https://www.nber.org/papers/w33695"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33686</id>
-    <title>Global Networks, Monetary Policy and Trade</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ṣebnem Kalemli-Özcan, Can Soylu &amp; Muhammed A. Yildirim</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a novel framework to study the interaction between monetary policy and trade. Our New Keynesian open economy model incorporates international production networks, sectoral heterogeneity in price rigidities, and trade distortions. We decompose the general equilibrium response to trade shocks into distinct channels that account for demand shifts, policy effects, exchange rate adjustments, expectations, price stickiness, and input–output linkages. Tariffs act simultaneously as demand and supply shocks, leading to endogenous fragmentation through changes in trade and production network linkages. We show that the net impact of tariffs on domestic inflation, output, employment, and the dollar depends on the endogenous monetary policy response in both the tariff-imposing and tariff-exposed countries, within a global general equilibrium framework. Our quantitative exercise replicates the observed effects of the 2018 tariffs on the U.S. economy and predicts a 1.6 pp decline in U.S. output, a 0.8 pp rise in inflation, and a 4.8% appreciation of the dollar in response to a retaliatory trade war linked to tariffs announced on “Liberation Day.” Tariff threats, even in the absence of actual implementation, are self-defeating—leading to a 4.1% appreciation of the dollar, 0.6% deflation, and a 0.7 pp decline in output, as agents re-optimize in anticipation of future distortions. Dollar appreciates less or even can depreciate under retaliation, tariff threats, and increased global uncertainty.</content>
-    <link href="https://www.nber.org/papers/w33686"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33677</id>
-    <title>Talk Therapy and Human Capital in Adolescence: Evidence from Nepal</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eric V. Edmonds, Priya Mukherjee, Nikhilesh Prakash, Nishith Prakash &amp; Shwetlena Sabarwal</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the impact of a randomized therapy intervention on Nepali adolescents at risk of school dropout. Our study is the largest of its kind (N = 1,707) and is novel in that participation does not require a preexisting diagnosis. Ninety percent of those offered therapy participated, with younger adolescents demonstrating higher compliance. Among those who complied, therapy significantly reduced psychological distress, improved emotional regulation, and enhanced life perspective, even in individuals without baseline mental health issues. However, these improvements in well-being did not lead to increased school attendance or better cognitive performance, suggesting that additional interventions may be necessary to enhance educational engagement in low-resource settings.</content>
-    <link href="https://www.nber.org/papers/w33677"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33675</id>
-    <title>Growing Awareness: Evaluating the Impact of Environmental Education on Attitudes, Knowledge, and Behavior</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jennifer Alix-García &amp; Christopher R. Knittel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Mangroves provide vital ecosystem services like storm surge protection and carbon sequestration, but their coverage is rapidly declining. This study evaluates an environmental education program in the Dominican Republic, targeting children’s attitudes, knowledge, behaviors, and willingness to pay for conservation. The program boosted attitudes, especially in girls, with modest, non-significant behavioral changes. There were also positive spillover effects on peers and parents, with non-treated peers in clubs showing increased mangrove preference and positive attitude shifts in parents.</content>
-    <link href="https://www.nber.org/papers/w33675"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33674</id>
     <title>The Risk Sensitivity of Global Liquidity Flows: Heterogeneity, Evolution and Drivers</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
@@ -1003,38 +895,14 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33670</id>
-    <title>Training within Firms</title>
+    <id>https://www.nber.org/papers/w33673</id>
+    <title>Pension Reform and Labor Supply: Retention and Productivity under a Pension Cut</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Brayan S. Diaz, Andrea Neyra Nazarrett, Julian Ramirez, Raffaella Sadun &amp; Jorge A. Tamayo</name>
+      <name>Andrew C. Johnston, Jonah E. Rockoff &amp; James R. Harrington</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Training investments are essential for improving worker and firm productivity, yet their implementation is often hindered by low participation rates and insufficient worker engagement. This study uses data from three firms—a car manufacturer, a quick-service restaurant chain, and a retail company—to show that variation in training participation among employees is closely tied to differences in middle managers’ behavior and practices. Middle managers who actively engage with their employees and emphasize their well-being and development are associated with significantly higher participation in training programs. These managerial differences significantly influence employee performance and absenteeism, especially during periods of organizational change. Together, these findings underscore the importance of middle managers in bridging the gap between centrally designed HR policies and their effective on-the-ground execution.</content>
-    <link href="https://www.nber.org/papers/w33670"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33676</id>
-    <title>The Economics of Encouragement: Can A Simple Email Shape Major Choice?</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Olivia Edwards &amp; Jonathan Meer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the impact of encouragement emails sent to high-performing students in a principles of microeconomics course at a large state university, aimed at motivating them to take additional economics courses and consider an economics major or minor. Using a regression discontinuity design, we find some evidence of an increase in the likelihood of enrolling in intermediate microeconomics, especially for first-generation college students and underrepresented minorities, but limited effects on major switching or declaring an economics minor. Our findings suggest sustained interventions may be necessary to produce lasting effects</content>
-    <link href="https://www.nber.org/papers/w33676"/>
-    <category term="NBER"/>
-    <published>2025-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33680</id>
-    <title>Anticipated Discrimination and Major Choice</title>
-    <updated>2025-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Louis-Pierre Lepage, Xiaomeng Li &amp; Basit Zafar</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study whether gender differences in university major choices result from anticipated labor market discrimination. First, we document two novel facts using administrative transcript records from a large Midwestern university: women are less likely to study science, technology, engineering, and mathematics (STEM) as well as business and economics, but 1) those who do are positively selected on ability, and 2) obtain higher grades conditional on ability. Second, we show that these facts are consistent with a signaling model in which women anticipate greater labor market discrimination in STEM, business, and economics than in other fields. Third, we provide direct empirical evidence of anticipated discrimination using a student survey. The survey reveals striking patterns of anticipated discrimination by women, particularly in STEM, business, and economics, affecting both expected economic outcomes such as wages as well as expected workplace conditions. We conclude by showing that anticipated discrimination explains women's course taking and intended major choices, but not men's.</content>
-    <link href="https://www.nber.org/papers/w33680"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the effect of a representative pension reform on the retention and productivity of workers. The reform cut pension annuities and early retirement benefits for public school teachers, projected to save eight percent of pension revenues. We leverage administrative records and a discontinuity in the reform to estimate its effect. Contrary to expectations, the cut increased retention by discouraging early retirement. Using idiosyncratic within-school variation in exposure, we find the reform somewhat increased student achievement by 0.01–0.03 standard deviations, partly through reduced turnover. The reform thus maintained or improved both teacher retention and productivity.</content>
+    <link href="https://www.nber.org/papers/w33673"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -1075,14 +943,86 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33682</id>
-    <title>If You Had One Shot: Scale and Herding in Innovation Experiments</title>
+    <id>https://www.nber.org/papers/w33672</id>
+    <title>Heterogeneous Beliefs, Asset Prices, and Business Cycles</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Ashish Arora, Sharique Hasan &amp; William D. Miles</name>
+      <name>Saki Bigio, Dejanir Silva &amp; Eduardo Zilberman</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Solving complex problems- in medicine, engineering, and other technological domains- often requires exploring multiple approaches, particularly when significant uncertainty exists about which one will lead to success. Conventional wisdom assumes that having many experimenters independently decide which approaches to pursue increases diversity and, thus, also the chances of finding a solution. However, if experimenters herd toward the most promising approach, this convergence may reduce diversity and thus the likelihood of solving the problem. In this paper, we develop a simple model to show that, holding the total number of experiments constant, markets dominated by a few large-scale experimenters- firms conducting multiple experiments- explore more diverse approaches than markets with many single-shot experimenters. Single-shot experimenters tend to converge on the most promising approach, while multi-experimenters are more likely to diversify to avoid the correlation inherent in pursuing multiple experiments within the same approach. We test our model's predictions using data from pharmaceutical R&amp;D. Our analysis shows that increasing the average number of experiments per firm by one unit raises target diversity by over three standard deviations. In turn, a one-standard deviation increase from the mean in target diversity boosts the likelihood of at least one experiment reaching Phase 1 clinical trials by 25.9 percentage points. Our findings inform policies for the optimal allocation of experiments across firms to maximize approach diversity and market-level success.</content>
-    <link href="https://www.nber.org/papers/w33682"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a complete-market production economy with heterogeneous beliefs about TFP growth. Hiring occurs before TFP is known and is, therefore, risky (operational leverage). The firm's discount factor depends on a wealth-weighted average of investors' beliefs. Waves of optimism influence asset markets and percolate to labor hiring, tying together the equity premium, equity volatility, and labor volatility puzzles. A taxonomy of belief systems shows that only extrapolative beliefs amplify the volatility of asset prices and hours and lead to risk build up. Disciplined by survey data, the model matches asset-pricing and business-cycle moments, highlighting how heterogeneous beliefs can be a direct driver of aggregate fluctuations.</content>
+    <link href="https://www.nber.org/papers/w33672"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33671</id>
+    <title>Paths to the Periphery</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>James A. Robinson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;My research suggests that world inequality is explained by the incidence of extractive and inclusive institutions. But why do some countries have extractive institutions? I distinguish between two main reasons; first, power relations; second, the “normative order.” Normative orders provide justifications and legitimacy for institutions which may not generate prosperity, but may achieve other goals. These distinctions are critical because they create very different challenges in trying to make institutions more inclusive and create prosperity. I show how countries move from the economic periphery as a consequence of changing both. My own intellectual journey has been in the other direction, however, hence the title of the paper: I was fortunate to be born in Britain, but I have had to unlearn much of my own experience, socialization and training in order to see other societies on their own terms. That’s crucial to be able to help them, but also to learn from them.</content>
+    <link href="https://www.nber.org/papers/w33671"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33684</id>
+    <title>Partisan Trust in the Federal Reserve</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Carola Binder, Cody Couture &amp; Abhiprerna Smit</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines partisanship in public perceptions of the Federal Reserve. In all years from 2001 through 2023, trust in the Federal Reserve was highest for respondents of the same party as the President. The partisan effects were larger than other demographic differences in trust, but do not explain the large partisan gap in inflation expectations in those years. We conducted a new survey-based information experiment before and after the Presidential inauguration in 2025, and found a changed pattern: Republicans continued to have lower trust in the Fed than did Democrats, even after a Republican President was elected and took office. Yet, Republicans had much lower inflation expectations than Democrats. Responses to open-ended survey questions point to tariffs and President Trump himself as most salient to consumers when considering how inflation will evolve.</content>
+    <link href="https://www.nber.org/papers/w33684"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33670</id>
+    <title>Training within Firms</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Brayan S. Diaz, Andrea Neyra Nazarrett, Julian Ramirez, Raffaella Sadun &amp; Jorge A. Tamayo</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Training investments are essential for improving worker and firm productivity, yet their implementation is often hindered by low participation rates and insufficient worker engagement. This study uses data from three firms—a car manufacturer, a quick-service restaurant chain, and a retail company—to show that variation in training participation among employees is closely tied to differences in middle managers’ behavior and practices. Middle managers who actively engage with their employees and emphasize their well-being and development are associated with significantly higher participation in training programs. These managerial differences significantly influence employee performance and absenteeism, especially during periods of organizational change. Together, these findings underscore the importance of middle managers in bridging the gap between centrally designed HR policies and their effective on-the-ground execution.</content>
+    <link href="https://www.nber.org/papers/w33670"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33696</id>
+    <title>The Political Power of Firms</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matilde Bombardini &amp; Francesco Trebbi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents a holistic view of the channels of political influence of large corporations in modern democracies, focusing not only on well-studied instruments, such as campaign contributions and lobbying, but also on more opaque ones, such as charitable giving, political connections, dark money, public advocacy, and employee mobilization. Our quantitative perspective draws on recent work on US politics, including congressional voting, special interest politics, corporate political connections, grassroots, and philanthropic activities. In the process, the chapter offers also a discussion of recent methodological innovations around money in politics. We conclude with some considerations on corporate political disclosure.</content>
+    <link href="https://www.nber.org/papers/w33696"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33695</id>
+    <title>Quotas in General Equilibrium</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>David Baqaee &amp; Kunal Sangani</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze economies with quotas and other quantity-based distortions. We show that any feasible, distorted allocation of resources can be implemented as the competitive equilibrium of an economy with quotas. Unlike economies with wedges, economies with quotas are constrained efficient and thus satisfy macro-envelope conditions. This means that the effects of changes in technologies, distortions, or policies can be expressed in terms of a small set of sufficient statistics. We provide a non-parametric and nonlinear characterization of the effects of quota and productivity changes on aggregate output. We also calculate the costs of misallocation due to quotas. These costs are expressed in terms of the price elasticities of an inverse demand system capturing how quota prices respond to changes in quota levels. We illustrate our results using several examples: we estimate efficiency gains from increasing the cap on H-1B visas, relaxing zoning restrictions on single-family housing in American cities, removing capital controls in Argentina, phasing out U.S. quotas on Chinese clothing and textiles, and eliminating the taxicab medallion system in New York City. Our results offer a flexible method for quantifying the costs of quota distortions and the effects of policy reforms across these settings.</content>
+    <link href="https://www.nber.org/papers/w33695"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33694</id>
+    <title>Housing Supply and Housing Affordability</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nathaniel Baum-Snow &amp; Gilles Duranton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The decline in housing affordability over recent decades has promoted an enhanced interest in housing supply. This chapter presents descriptive evidence about the evolution of us housing prices, quantities, and regulations since 1980, indicating that supply constraints appear to be increasingly binding. We then provide an overview of the various approaches used to model construction and land development for homogeneous and heterogeneous housing in static and dynamic contexts to understand housing supply. Our treatment incorporates empirical implementation and policy implications throughout. Finally, we provide an overview of quantitative evidence on the consequences of relaxing various types of supply constraints.</content>
+    <link href="https://www.nber.org/papers/w33694"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -1099,26 +1039,74 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33691</id>
-    <title>Public Finance Implications of Economic Inequality</title>
+    <id>https://www.nber.org/papers/w33682</id>
+    <title>If You Had One Shot: Scale and Herding in Innovation Experiments</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Alan J. Auerbach</name>
+      <name>Ashish Arora, Sharique Hasan &amp; William D. Miles</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers questions about the implications of rising inequality for the theory and practice of public finance. It begins by addressing fundamental reasons why the distribution of income or wealth on an annual basis before taxes and transfers offers insufficient information: (1) it does not tell us what resources are actually available to households for consumption; and (2) in providing a snapshot of the resources available to individuals of different ages at a given moment in time, without controlling for life-cycle related differences or income dynamics, it can provide a misleading estimate of the underlying degree of inequality. The paper then considers the implications of high and perhaps rising economic inequality for the design of government policy: top marginal tax rates, phase-outs of government policies for those with higher incomes, the political economy of inequality, and other subjects.</content>
-    <link href="https://www.nber.org/papers/w33691"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Solving complex problems- in medicine, engineering, and other technological domains- often requires exploring multiple approaches, particularly when significant uncertainty exists about which one will lead to success. Conventional wisdom assumes that having many experimenters independently decide which approaches to pursue increases diversity and, thus, also the chances of finding a solution. However, if experimenters herd toward the most promising approach, this convergence may reduce diversity and thus the likelihood of solving the problem. In this paper, we develop a simple model to show that, holding the total number of experiments constant, markets dominated by a few large-scale experimenters- firms conducting multiple experiments- explore more diverse approaches than markets with many single-shot experimenters. Single-shot experimenters tend to converge on the most promising approach, while multi-experimenters are more likely to diversify to avoid the correlation inherent in pursuing multiple experiments within the same approach. We test our model's predictions using data from pharmaceutical R&amp;D. Our analysis shows that increasing the average number of experiments per firm by one unit raises target diversity by over three standard deviations. In turn, a one-standard deviation increase from the mean in target diversity boosts the likelihood of at least one experiment reaching Phase 1 clinical trials by 25.9 percentage points. Our findings inform policies for the optimal allocation of experiments across firms to maximize approach diversity and market-level success.</content>
+    <link href="https://www.nber.org/papers/w33682"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33692</id>
-    <title>Does Homeownership Matter? The Long-Term Consequences of Losing a House during the Great Recession</title>
+    <id>https://www.nber.org/papers/w33681</id>
+    <title>Putting Economics Back Into Geoeconomics</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Heidi Artigue, Patrick Bayer, Fernando V. Ferreira &amp; Stephen Ross</name>
+      <name>Christopher Clayton, Matteo Maggiori &amp; Jesse Schreger</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the long-term impact of keeping versus losing one’s home following a mortgage delinquency in the aftermath of the Great Recession, studying the trajectory of homeownership, consumption, and financial well-being over the subsequent decade. Our research design leverages the substantial number of households that experienced temporary income shocks and the turbulence of the foreclosure crisis — we focus on individuals who were seriously delinquent on their mortgages and compare outcomes between those who received a mortgage modification and those who did not. These two groups exhibit highly similar pre-trends in financial outcomes prior and during the Great Recession but diverge by 36 percentage points in their short-term likelihood of retaining homeownership. More than half of this disparity persists nearly a decade later, translating into an average capital gain of $83,000 in the housing market. Despite these significant differences in homeownership and wealth accumulation, keeping a home does not appear to influence the path of creditworthiness, proxies for consumption, and the income rank of one's residential neighborhood.</content>
-    <link href="https://www.nber.org/papers/w33692"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Geoeconomics is the use of a country’s economic strength to exert influence on foreign entities to achieve geopolitical or economic goals. We discuss how concepts of power in the political science and economics literature can be used to guide research on geoeconomics. Economic threats as a form of coercion have seen a recent resurgence. We show how different types of threats can be modeled using simple tools and discuss what channels their potential effectiveness is based on. We discuss important open questions for the future literature to pursue.</content>
+    <link href="https://www.nber.org/papers/w33681"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33659</id>
+    <title>The Effects of Eviction on Children</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Robert Collinson, Deniz Dutz, John Eric Humphries, Nicholas S. Mader, Daniel Tannenbaum &amp; Winnie van Dijk</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Eviction may be an important channel for the intergenerational transmission of poverty, and concerns about its effects on children are often raised as a rationale for tenant protection policies. We study how eviction impacts children's home environment, school engagement, educational achievement, and high school completion by assembling new data sets linking eviction court records in Chicago and New York to administrative public school records and restricted Census records. To disentangle the consequences of eviction from the effects of correlated sources of economic distress, we use a research design based on the random assignment of court cases to judges who vary in their leniency. We find that eviction increases children's residential mobility, homelessness, and likelihood of doubling up with grandparents or other adults. Eviction also disrupts school engagement, causing increased absences and school changes. While we find little impact on elementary and middle school test scores, eviction substantially reduces high school course credits. Lastly, we find that eviction reduces high school graduation and use a novel bounding method to show that this finding is not driven by differential attrition. The disruptive effects of eviction appear worse for older children and boys. Our evidence suggests that the impact of eviction on children runs through the disruption to the home environment or school engagement rather than deterioration in school or neighborhood quality, and may be moderated by access to family support networks.</content>
+    <link href="https://www.nber.org/papers/w33659"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33665</id>
+    <title>Substitution Bias and Fixed-Weight Price Indices in Time-Dependent Pricing Models</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lawrence Christiano, Martin S. Eichenbaum &amp; Benjamin K. Johannsen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper compares inflation in true price indices to inflation in fixed-weight price indices. We construct model-based inflation measures in time-dependent pricing models that are analogous to measures of inflation in the data, e.g., the Consumer Price Index. In the standard new Keynesian model, when inflation rises rapidly, the differences between inflation in those indices and true price indices are increasing in the degree of price stickiness and the elasticity of substitution across goods. For commonly used parameter values, those differences are large and persistent for increases in inflation of the size seen after 2020 in the U.S.</content>
+    <link href="https://www.nber.org/papers/w33665"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33637</id>
+    <title>Interim Valuations, Predictability, and Outcomes in Private Equity</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ege Y. Ercan, Steven N. Kaplan &amp; Ilya A. Strebulaev</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a novel dataset of U.S. buyout and VC investments, we study the informativeness of fund managers’ interim valuation reports about portfolio companies on final outcomes. We find that when investors assess the performance of individual portfolio companies, they can do better than just relying on the most recent reported valuation. The history of reported valuations is also informative. Investments with greater past staleness or more frequent markdowns tend to perform more poorly in the future than other investments. We also find that the timing of an investment’s exit is predictable. Moreover, the combined knowledge of interim realized and unrealized returns, past staleness, and past markdown frequency can help predict whether an investment will end up in the left or right tail of all investments. These predictions are informative as early as the first year of the investment.</content>
+    <link href="https://www.nber.org/papers/w33637"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33636</id>
+    <title>Firm Selection and Growth in Carbon Offset Markets: Evidence from the Clean Development Mechanism</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Qiaoyi Chen, Nicholas Ryan &amp; Daniel Xu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study carbon offsets sold by firms in China under the Clean Development Mechanism (CDM). We find that offset-selling firms, meant to cut carbon emissions, instead increase them by 49% after starting an offset project. In a model of firm investment decisions and offset review, we estimate that CDM firms increase emissions due to both the selection of higher-growth firms into projects (35 pp) and because offset projects themselves boost firm growth and therefore emissions (14 pp). The CDM reduces global surplus by causing damages from increased emissions four times greater than private gains from trade in the offset market.</content>
+    <link href="https://www.nber.org/papers/w33636"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
@@ -1183,26 +1171,38 @@
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33659</id>
-    <title>The Effects of Eviction on Children</title>
+    <id>https://www.nber.org/papers/w33686</id>
+    <title>Global Networks, Monetary Policy and Trade</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Robert Collinson, Deniz Dutz, John Eric Humphries, Nicholas S. Mader, Daniel Tannenbaum &amp; Winnie van Dijk</name>
+      <name>Ṣebnem Kalemli-Özcan, Can Soylu &amp; Muhammed A. Yildirim</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Eviction may be an important channel for the intergenerational transmission of poverty, and concerns about its effects on children are often raised as a rationale for tenant protection policies. We study how eviction impacts children's home environment, school engagement, educational achievement, and high school completion by assembling new data sets linking eviction court records in Chicago and New York to administrative public school records and restricted Census records. To disentangle the consequences of eviction from the effects of correlated sources of economic distress, we use a research design based on the random assignment of court cases to judges who vary in their leniency. We find that eviction increases children's residential mobility, homelessness, and likelihood of doubling up with grandparents or other adults. Eviction also disrupts school engagement, causing increased absences and school changes. While we find little impact on elementary and middle school test scores, eviction substantially reduces high school course credits. Lastly, we find that eviction reduces high school graduation and use a novel bounding method to show that this finding is not driven by differential attrition. The disruptive effects of eviction appear worse for older children and boys. Our evidence suggests that the impact of eviction on children runs through the disruption to the home environment or school engagement rather than deterioration in school or neighborhood quality, and may be moderated by access to family support networks.</content>
-    <link href="https://www.nber.org/papers/w33659"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a novel framework to study the interaction between monetary policy and trade. Our New Keynesian open economy model incorporates international production networks, sectoral heterogeneity in price rigidities, and trade distortions. We decompose the general equilibrium response to trade shocks into distinct channels that account for demand shifts, policy effects, exchange rate adjustments, expectations, price stickiness, and input–output linkages. Tariffs act simultaneously as demand and supply shocks, leading to endogenous fragmentation through changes in trade and production network linkages. We show that the net impact of tariffs on domestic inflation, output, employment, and the dollar depends on the endogenous monetary policy response in both the tariff-imposing and tariff-exposed countries, within a global general equilibrium framework. Our quantitative exercise replicates the observed effects of the 2018 tariffs on the U.S. economy and predicts a 1.6 pp decline in U.S. output, a 0.8 pp rise in inflation, and a 4.8% appreciation of the dollar in response to a retaliatory trade war linked to tariffs announced on “Liberation Day.” Tariff threats, even in the absence of actual implementation, are self-defeating—leading to a 4.1% appreciation of the dollar, 0.6% deflation, and a 0.7 pp decline in output, as agents re-optimize in anticipation of future distortions. Dollar appreciates less or even can depreciate under retaliation, tariff threats, and increased global uncertainty.</content>
+    <link href="https://www.nber.org/papers/w33686"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33665</id>
-    <title>Substitution Bias and Fixed-Weight Price Indices in Time-Dependent Pricing Models</title>
+    <id>https://www.nber.org/papers/w33677</id>
+    <title>Talk Therapy and Human Capital in Adolescence: Evidence from Nepal</title>
     <updated>2025-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Lawrence Christiano, Martin S. Eichenbaum &amp; Benjamin K. Johannsen</name>
+      <name>Eric V. Edmonds, Priya Mukherjee, Nikhilesh Prakash, Nishith Prakash &amp; Shwetlena Sabarwal</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper compares inflation in true price indices to inflation in fixed-weight price indices. We construct model-based inflation measures in time-dependent pricing models that are analogous to measures of inflation in the data, e.g., the Consumer Price Index. In the standard new Keynesian model, when inflation rises rapidly, the differences between inflation in those indices and true price indices are increasing in the degree of price stickiness and the elasticity of substitution across goods. For commonly used parameter values, those differences are large and persistent for increases in inflation of the size seen after 2020 in the U.S.</content>
-    <link href="https://www.nber.org/papers/w33665"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the impact of a randomized therapy intervention on Nepali adolescents at risk of school dropout. Our study is the largest of its kind (N = 1,707) and is novel in that participation does not require a preexisting diagnosis. Ninety percent of those offered therapy participated, with younger adolescents demonstrating higher compliance. Among those who complied, therapy significantly reduced psychological distress, improved emotional regulation, and enhanced life perspective, even in individuals without baseline mental health issues. However, these improvements in well-being did not lead to increased school attendance or better cognitive performance, suggesting that additional interventions may be necessary to enhance educational engagement in low-resource settings.</content>
+    <link href="https://www.nber.org/papers/w33677"/>
+    <category term="NBER"/>
+    <published>2025-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33675</id>
+    <title>Growing Awareness: Evaluating the Impact of Environmental Education on Attitudes, Knowledge, and Behavior</title>
+    <updated>2025-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jennifer Alix-García &amp; Christopher R. Knittel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Mangroves provide vital ecosystem services like storm surge protection and carbon sequestration, but their coverage is rapidly declining. This study evaluates an environmental education program in the Dominican Republic, targeting children’s attitudes, knowledge, behaviors, and willingness to pay for conservation. The program boosted attitudes, especially in girls, with modest, non-significant behavioral changes. There were also positive spillover effects on peers and parents, with non-treated peers in clubs showing increased mangrove preference and positive attitude shifts in parents.</content>
+    <link href="https://www.nber.org/papers/w33675"/>
     <category term="NBER"/>
     <published>2025-04-01T00:00:00+00:00</published>
   </entry>
