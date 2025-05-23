@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-05-22T13:41:05.478369+00:00</updated>
+  <updated>2025-05-23T13:40:21.473653+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -751,66 +751,6 @@
     <published>2025-05-19T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/rof/rfaf026</id>
-    <title>Industry Tournament Incentives and the U.S. Financial Systemic Risk</title>
-    <updated>2025-05-02T00:00:00+00:00</updated>
-    <author>
-      <name>Tu Nguyen, Sandy Suardi, Jing Zhao</name>
-    </author>
-    <content>&lt;b&gt;Review of Finance&lt;/b&gt; &lt;br&gt;Motivated by Coles, Li, and Wang (2020)’s prediction that industry tournament incentives are linked to heightened risk-seeking behavior, we examine whether these incentives contribute positively to systemic risk. Using a measure of systemic risk that captures the cross-sectional tail-dependency between the U.S. financial system and individual financial institutions, we find that the external pay gap is positively related to an institution’s contribution to systemic risk. Consistent with our expectation, industry tournament incentives are positively associated with individual financial institutions’ stock return volatility, Value at Risk, and crash risk, thus indirectly contributing to systemic risk due to financial institutions’ inherent interconnectedness. More interestingly, the external pay gap is positively related to an institution’s financial industry beta and encourages systemically risky activities, suggesting an important impact channel through institutions’ undertaking correlated activities.</content>
-    <link href="https://doi.org/10.1093/rof/rfaf026"/>
-    <category term="Review of Finance"/>
-    <published>2025-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00159</id>
-    <title>Bank Compensation for the Penalty-Free Loan Prepayment Option: Theory and Evidence</title>
-    <updated>2025-05-02T00:00:00+00:00</updated>
-    <author>
-      <name>B. Espen Eckbo, Xunhua Su, Karin S. Thorburn</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;While it is standard for corporate bonds to include a loan cancellation fee, a surprising 90% of tranche A commercial and industrial term loans allow borrowers to prepay the loan without penalty. We use a simple framework with dynamic learning to derive testable implications for the required bank compensation when including a penalty-free prepayment option. In this framework, after loan origination, borrowers receive noncontractible public information about the value of the project funded by the bank loan. This information causes some ex post high-value borrowers to prepay or renegotiate the loan to obtain a lower rate, deteriorating the credit quality of the bank’s remaining borrower pool. To avoid credit rationing of borrowers with a high prepayment risk, we show that the bank’s compensation must be in the form of an upfront fee rather than a higher initial loan rate, as the latter only exacerbates the adverse prepayment incentive. The model also accounts for the possibility that in relationship lending, an upfront fee may dominate a loan cancellation fee when the latter triggers costly ex post bargaining with high-value clients. To test model predictions, we construct a prepayment risk index, which contains proxies for borrower upside potential and loan renegotiation costs, and we use aggregate industry-level merger and acquisition (M&amp;A) activity as an instrument for exogenous variation in loan prepayment risk. The tests support that upfront fees increase with borrower prepayment risk. In addition, upfront fees are lower for credit lines and loans with performance-sensitive pricing, as predicted.This paper was accepted by Victoria Ivashina, finance.Funding: Partial financial support from Tuck’s Lindenauer Forum for Corporate Governance (Eckbo) and from the Norwegian Research Council [Grant 273678] (Thorburn and Su) is gratefully acknowledged.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.00159 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00159"/>
-    <category term="Management Science"/>
-    <published>2025-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2019.03211</id>
-    <title>Contextual Learning with Online Convex Optimization: Theory and Application to Medical Decision-Making</title>
-    <updated>2025-05-02T00:00:00+00:00</updated>
-    <author>
-      <name>Esmaeil Keyvanshokooh, Mohammad Zhalechian, Cong Shi, Mark P. Van Oyen, Pooyan Kazemian</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Optimizing the treatment regimen is a fundamental medical decision-making problem. This can be thought of as a two-dimensional decision-making problem with a nested structure because it involves determining both the optimal medication and its optimal dose. Identifying the most effective medication for an individual often poses considerable difficulty, and even when a suitable medication is ascertained, dosing it optimally remains a significant challenge. Making these two nested decisions necessitates the adaptive learning of a personalized disease progression control model. To address this problem, we propose a novel contextual multiarmed bandit model under a two-dimensional control with a nested structure. For this model, we develop a new joint contextual learning and optimization algorithm, termed the stochastic subgradient descent atop contextual multiarmed bandit (SGD-MAB) algorithm. It sequentially selects for a patient (i) the best medication based on their contextual information and (ii) the corresponding dose optimized over the prior history of those patients who received the same medication. We prove that it admits a sublinear regret, which is tight up to a logarithmic factor. Our regret analysis leverages the strengths of both contextual bandit approaches and online convex optimization techniques in a seamless fashion. We substantiate the practicality of SGD-MAB using clinical data on patients with hypertension and heightened cardiovascular risks. Our analysis indicates that SGD-MAB has the potential to surpass current practices. We benchmark several policies to show the advantages of our approach and offer critical insights. Our framework holds promise for various applications beyond healthcare that require nested decision-making.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by the National Science Foundation (CMMI-1548201, CMMI-1634505) and the National Eye Institute (NIH Grant R01EY026641).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2019.03211 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2019.03211"/>
-    <category term="Management Science"/>
-    <published>2025-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1057/s41267-025-00778-y</id>
-    <title>Indigenous peoples’ reactions to foreign direct investment: a social movement perspective</title>
-    <updated>2025-05-02T00:00:00+00:00</updated>
-    <author>
-      <name>Anne Spencer Jamison, Doron Tadmor, Witold Jerzy Henisz</name>
-    </author>
-    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;A growing body of literature highlights that large-scale investments in sensitive contexts can undermine both firm financial performance and peace-positive development. We investigate whether and under what conditions foreign direct investment (FDI) proximate to Indigenous land claims increases or decreases conflict. Drawing on social movement theory’s identification of powerful frames and political opportunity structures as drivers of mobilization, we predict that FDI proximate to Indigenous land claims will promote conflict. We leverage novel data on the global location of Indigenous land claims and a global corpus of more than 4 billion news articles. We find that when locations with Indigenous land claims are treated with FDI, we observe an increase in media-reported armed conflict events. We further argue and find this effect to be driven by rebels acting on behalf of Indigenous people who target (multinational) corporations and the governments who offer them the formal license to operate. These negative effects are found across a wide range of industries. Our results underscore that for investments in sensitive socio-political contexts, such as Indigenous lands, firm performance and the livelihoods of community members are heavily influenced by conflict risk mitigation efforts.</content>
-    <link href="https://doi.org/10.1057/s41267-025-00778-y"/>
-    <category term="Journal of International Business Studies"/>
-    <published>2025-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1160</id>
-    <title>“Extortionality” in Ransomware Attacks: A Microeconomic Study of Extortion and Externality</title>
-    <updated>2025-05-02T00:00:00+00:00</updated>
-    <author>
-      <name>Debabrata Dey, Atanu Lahiri</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Practice- and Policy-Oriented AbstractRansomware attacks have emerged as one of the biggest threats to cybersecurity. Faced with business disruptions, many organizations accede to ransom demands, and in doing so, they embolden the attackers to launch more attacks, elevating the chance of a future breach for others. We study this externality using a multiperiod game among multiple firms, each of which has a choice to pay or not pay if breached in a particular period, its action having implications for future periods. How should a policymaker intervene to mitigate this externality, and is prohibition necessary? What might work or how it might work as a policy tool depends critically on the behavior of the attacker (extortionist). If the attacker is not strategic, fiscal interventions could work, and a complete prohibition on ransom payment is unnecessary. If the attackers are strategic, though, they may respond to the policymaker’s tax/subsidy in a manner that could increase victims’ propensity to pay, rendering fiscal intervention ineffective as a policy lever. In such a case, prohibition may be the only way to mitigate the externality. Overall, our analysis provides a framework for comparing different types of policy interventions and raises concerns for policymakers and social planners to pause and ponder.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1160"/>
-    <category term="Information Systems Research"/>
-    <published>2025-05-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/opre.2024.0717</id>
     <title>Near-Optimal Mixed (&lt;i&gt;s,S&lt;/i&gt;) Policy for a Multiwarehouse, Multistore Inventory System with Lost Sales and Fixed Cost</title>
     <updated>2025-05-20T00:00:00+00:00</updated>
@@ -893,6 +833,18 @@
     <link href="https://doi.org/10.1177/00018392251340351"/>
     <category term="Administrative Science Quarterly"/>
     <published>2025-05-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/sej.1541</id>
+    <title>Micro‐transitions and work identity: The case of academic entrepreneurs</title>
+    <updated>2025-05-21T00:00:00+00:00</updated>
+    <author>
+      <name>Marouane Bousfiha, Henrik Berglund</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;This paper examines how academic entrepreneurs—scientists who found research‐based startups while remaining in academia—construct and sustain their professional identities amid frequent transitions between academic and entrepreneurial roles. Drawing on 27 interviews with Swedish academic entrepreneurs, we show that hybrid identities are not simply the result of reconciling abstract role categories but are shaped through the material and practical organization of everyday work. We introduce the concept of professional micro‐transitions as a key site of identity formation and argue that material artifacts and routines play a central role in this process. This study contributes to the literatures on identity work, role transitions, and academic entrepreneurship by offering a granular, materially grounded account of how hybrid identities are enacted and sustained in practice.Managerial SummaryThis article investigates how academic entrepreneurs—university scientists who create startups to commercialize research results while remaining in academia—manage to build a hybrid professional identity when frequently switching back and forth between their jobs as academics and for‐profit entrepreneurs. The findings reveal how they creatively find cross‐fertilizing effects between their academic and entrepreneurial work tasks. This in turn allows them to reevaluate and extend their professional identity. For universities, incubators, and policymakers, this study suggests that supporting academic entrepreneurship is not just about funding or IP policies. It also requires recognizing the practical identity work involved and creating flexible environments that allow scientists to integrate both roles in meaningful ways.</content>
+    <link href="https://doi.org/10.1002/sej.1541"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2025-05-21T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhaf033</id>
@@ -1015,6 +967,66 @@
     <published>2025-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdaf038</id>
+    <title>Racial Discrimination and the Social Contract: Evidence from U.S. Army Enlistment during WWII</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Nancy Qian, Marco Tabellini</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This paper documents that the Pearl Harbor attack triggered a sharp increase in volunteer enlistment rates of American men, the magnitude of the increase was smaller for Black men than for white men and the Black-white gap was larger in counties with higher levels of racial discrimination. The results suggest that political exclusion and discrimination can undermine support for the government during critical times such as war.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf038"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdaf030</id>
+    <title>How Important Is Health Inequality for Lifetime Earnings Inequality?</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Roozbeh Hosseini, Karen Kopecky, Kai Zhao</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Using a dynamic panel approach, we provide empirical evidence that negative health shocks significantly reduce earnings. The effect is primarily driven by the participation margin and is concentrated among the less educated and those in poor health. Next, we develop a life-cycle model of labour supply featuring risky and heterogeneous frailty profiles that affect individuals’ productivity, likelihood of access to social insurance, disutility from work, mortality, and medical expenses. Individuals can either work or not work and apply for social security disability insurance (SSDI/SSI). Eliminating health inequality in our model reduces the variance of log lifetime (accumulated) earnings by 28% at age 55. About 60% of this effect is due to the impact of poor health on the probability of obtaining SSDI/SSI benefits. Despite this, we show that eliminating the SSDI/SSI program reduces ex ante welfare.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf030"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdaf022</id>
+    <title>How People Use Statistics</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Pedro Bordalo, John Conlon, Nicola Gennaioli, Spencer Kwon, Andrei Shleifer</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;For standard statistical problems, we provide new evidence documenting (1) multimodality and (2) instability in probability estimates, including from irrelevant changes in problem description. The evidence motivates a model in which, when solving a problem, people represent each hypothesis by attending to its salient features while neglecting other, potentially more relevant, ones. Only the statistics associated with salient features are used. The model unifies biases in judgments about i.i.d. draws, such as the Gambler's Fallacy and insensitivity to sample size, with biases in inference such as under- and overreaction and insensitivity to the weight of evidence. The model makes predictions for how changes in the salience of specific features jointly shapes known biases and measured attention to features, but also create entirely new biases. We test and confirm these predictions experimentally. Salience-driven attention to features emerges as a unifying framework for biases conventionally explained using a variety of stable heuristics or distortions of Bayes' rule.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf022"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdaf031</id>
+    <title>Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Rafael Araujo, Francisco Costa, Marcelo Sant’Anna</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This paper estimates the Brazilian Amazon’s carbon-efficient forest cover—i.e. when farmers internalize the social cost of carbon. We propose a dynamic discrete choice land-use model and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. The business-as-usual scenario implies an inefficient release of 42 billion tons of CO2 in the long run, resulting from the deforestation of an area twice the size of France. A carbon tax that makes farmers internalize the social cost of carbon would implement the efficient allocation and generate welfare gains exceeding 1.6 trillion dollars. Responses from a carbon tax are highly convex: a carbon tax of only $10/ton would preserve 95% of the efficient carbon stock. An excise tax on cattle ranching, a second-best policy, achieves at most 87% of the first-best welfare gains.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf031"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdaf036</id>
+    <title>Cascades and Fluctuations in an Economy with an Endogenous Production Network</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Mathieu Taschereau-Dumouchel</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This paper studies the efficient allocation in an economy in which firms are connected through input-output linkages and must pay a fixed cost to produce. When economic conditions are poor, some firms might decide not to operate, thereby severing the links with their neighbors and changing the structure of the production network. Since producers benefit from having access to additional suppliers, nearby firms tend to operate, or not, together. As a result, the production network features clusters of operating firms, and the exit of a producer can create a cascade of firm shutdowns. While well-connected firms are better able to withstand shocks, they trigger larger cascades upon exit. The theory also predicts how the structure of the production network changes over the business cycle. As in the data, recessions are associated with more dispersed networks that feature fewer highly connected firms. In the calibrated economy, the endogenous reorganization of the network substantially dampens the impact of idiosyncratic shocks on aggregate fluctuations.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf036"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10591478251345522</id>
     <title>EXPRESS: Impact of Recreational Marijuana Legalization on Hotel Performance and Operations: A Bayesian Causal Inference Approach</title>
     <updated>2025-05-22T00:00:00+00:00</updated>
@@ -1024,6 +1036,42 @@
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This article investigates the effects of legalizing recreational marijuana dispensaries on hotel performance and operations using Bayesian causal inference within the potential outcomes framework. Focusing on Colorado, the study finds that, on average, hotel revenue increases by 25.2% (or $63,671 monthly) due to dispensary legalization, with the effect continuing to grow even six years after legalization. The revenue boost arises from a 7.9% increase in room night bookings and a 16.0% rise in daily room rates. The impact, however, varies depending on hotel characteristics, such as the distance to dispensaries, age, class, location types, and operating structure, with greater effects seen in hotels that are closer to dispensaries, younger in age, more upscale, located in areas populated with potential recreational marijuana consumers (e.g., resort, urban, airport), and managed directly by corporate entities. Furthermore, hotels expand their room inventory by 3.9% in response to the legalization of retail dispensaries, partially mediating the revenue impact. These findings are relevant for professionals in marketing, operations management, hospitality, tourism, and public policy.</content>
     <link href="https://doi.org/10.1177/10591478251345522"/>
     <category term="Production and Operations Management"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0123</id>
+    <title>Dynamic Pricing with Fairness Constraints</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Maxime C. Cohen, Sentao Miao, Yining Wang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Personalized prices can boost revenue, but they increasingly draw fire for hidden discrimination. A new study, “Dynamic Pricing with Fairness Constraints,” by Maxime C. Cohen, Sentao Miao, and Yining Wang, shows that firms can learn demand while staying fair at the same time. The authors embed two complementary notions of fairness into the classic learning-and-earning problem. The first, price fairness, limits price gaps across customer groups and over time, whereas the second, demand fairness, keeps realized demand shares balanced. To enforce price fairness, the authors design FaPU, an infrequently updated upper confidence bound algorithm that respects both group and temporal limits while securing near-optimal regret and matching lower bounds. For demand fairness, they propose FaPD, a primal-dual learner that meets aggregate demand quotas with high probability and the same near-optimal regret rate. Beyond providing tight theoretical analyses, the paper quantifies the “price of fairness” and outlines extensions to non-stationary markets, offering regulators and practitioners evidence that equity and profitability can coexist in algorithmic pricing.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0123"/>
+    <category term="Operations Research"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2021.0427</id>
+    <title>Event-Triggered Bayesian Control Chart</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Abderrahmane Abbou, Viliam Makis</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Control charts are practical tools for fault detection and recovery. However, traditional control charts rely on random samples collected from a production process at fixed time intervals, causing late detection if sampling intervals are too long or excessive sampling if the intervals are too short. In “Event-Triggered Bayesian Control Chart,” Abbou and Makis develop a novel control chart leveraging real-time data from smart sensors to jointly decide when to collect samples and when to stop the production process, leading to quick fault detection and recovery using few samples. Applying optimal stopping theory and dynamic programming analysis, the authors establish the average-cost optimality of their control chart and propose an efficient procedure for computing the optimal sampling and stopping thresholds. Through an empirical study, the control chart is shown to achieve substantial cost savings compared to benchmarks. Furthermore, thanks to its event-triggering mechanism, the proposed control chart requires little data communication from sensors, which is crucial from an energy-efficiency perspective.</content>
+    <link href="https://doi.org/10.1287/opre.2021.0427"/>
+    <category term="Operations Research"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.02455</id>
+    <title>Improving Human Sequential Decision Making with Reinforcement Learning</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Hamsa Bastani, Osbert Bastani, Wichinpong Park Sinchaisri</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Workers spend a significant amount of time learning how to make good decisions. Evaluating the efficacy of a given decision, however, can be complicated—for example, decision outcomes are often long-term and relate to the original decision in complex ways. Surprisingly, even though learning good decision-making strategies is difficult, the strategies can often be expressed in simple and concise forms. Focusing on sequential decision making, we design a novel machine learning algorithm that is capable of extracting “best practices” from trace data and conveying its insights to humans in the form of interpretable “tips.” Our algorithm selects the tip that best bridges the gap between the actions taken by human workers and those taken by the optimal policy in a way that accounts for which actions are consequential for achieving higher performance. We evaluate our approach through a series of randomized controlled experiments where participants manage a virtual kitchen. Our experiments show that the tips generated by our algorithm can significantly improve human performance relative to intuitive baselines. In addition, we discuss a number of empirical insights that can help inform the design of algorithms intended for human-AI interfaces. For instance, we find evidence that participants do not simply blindly follow our tips; instead, they combine them with their own experience to discover additional strategies for improving performance.This paper has been This paper was accepted by Elena Katok for the Special Issue on The Human-Algorithm Connection.Funding: This work was supported by the Mack Institute for Innovation Management, the Berkeley Artificial Intelligence Research Open Research Commons, and The Wharton Behavioral Lab.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02455 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.02455"/>
+    <category term="Management Science"/>
     <published>2025-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
