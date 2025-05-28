@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-05-27T13:49:34.372384+00:00</updated>
+  <updated>2025-05-28T13:42:28.523792+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -67,6 +67,18 @@
     <published>2025-05-12T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07047</id>
+    <title>Stock-Bond Return Dynamics and the Expected Country Stock Returns</title>
+    <updated>2025-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Sungjune Pyun</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Stock and bond prices of a country move together with increasing country-specific risk. Bonds effectively hedge growth expectation risk when country-specific risk is low, resulting in a negative stock-bond correlation. However, as country-specific risk increases, hedging is less effective because (1) rising domestic prices tend to reduce a country’s growth potential and (2) global growth expectation shocks are more persistent than country-specific ones. Consequently, countries with greater country-specific risk exhibit a relatively positive stock-bond correlation. Equity investments in these countries outperform those with negative relationships by 7%–11% annually. The superior performance is not driven by investing in a fixed set of countries.This paper was accepted by Lukas Schmidt, finance.Funding: This work was supported by Yonsei University [Grant 2024-22-0467].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07047 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07047"/>
+    <category term="Management Science"/>
+    <published>2025-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.02673</id>
     <title>Business Acquisition Disclosures: The Effect of Identifying Intangible Assets on Investors’ Judgments</title>
     <updated>2025-05-12T00:00:00+00:00</updated>
@@ -76,6 +88,18 @@
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Disclosures about a business acquisition help investors understand what assets are acquired and how the acquiring company plans to benefit from the transaction. However, in practice, these disclosures exhibit significant variation and often fall short of providing meaningful information to investors. Our experiment provides evidence that separately identifying intangible assets acquired in a business combination (i.e., what was acquired) can compensate for shortcomings in an acquirer’s disclosures about how the transaction will benefit the acquiring firm. An additional experiment indicates that the benefits of separately identifying acquired assets do not extend to tangible assets, suggesting our insights may be unique to intangibles.This paper was accepted by Ranjani Krishnan, accounting.Funding: Z. Leitter acknowledges funding from the Eugene and Dora Bonham Endowment Fund. L. Koonce acknowledges funding from the Deloitte Foundation. B. White acknowledges funding from a Clifford H. Whitcomb Faculty Fellowship.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.02673 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.02673"/>
     <category term="Management Science"/>
+    <published>2025-05-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/joom.1372</id>
+    <title>From Power to Sustainability? Unpacking the Role of Justice in Agricultural Commodity Supply Networks</title>
+    <updated>2025-05-12T00:00:00+00:00</updated>
+    <author>
+      <name>Felipe Alexandre de Lima, Evelyne Vanpoucke, Stefan Gold, Stefan Seuring</name>
+    </author>
+    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;Agricultural commodity supply networks in the Global South are essential for securing the global supply of crops and livestock. However, they are challenged by power asymmetries, which cause injustice and jeopardize social equity, environmental stewardship, and economic viability for disadvantaged actors. To address this challenge, it is imperative to understand how power impacts justice and sustainability. To this end, we examined a supply network in Mato Grosso, Brazil, that faced power asymmetries through 49 semi‐structured interviews, field observations, and archival data. The analysis unveiled three forms of power use—excessive, strategic, and balanced—and associated tactics, impacting justice and sustainability outcomes in various ways. We illustrate, for example, how excessive power manifested in traders' abusive tactics, who compelled farmers to accept quality discounts due to external factors, such as heavy rain or poor road conditions. In response to these injustices, farmers cascaded the pressure through the supply network, disproportionately affecting disadvantaged actors, for instance, by withholding rural workers' wages for low productivity or eradicating wildlife deemed detrimental to profitability. Based on these findings, we provide a set of six propositions and a theoretical model that elucidate how power can be leveraged to foster fairer and more sustainable agricultural commodity supply networks.</content>
+    <link href="https://doi.org/10.1002/joom.1372"/>
+    <category term="Journal of Operations Management"/>
     <published>2025-05-12T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -172,6 +196,30 @@
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper advances the literature on the optimality of the base-stock policy for a general demand distribution and a general prior belief, which we update as we observe realized demands, assumed to be continuous, i.i.d., random variables. The value function depends on the belief, so the functional Bellman equation is infinite-dimensional. Significantly, in contrast with the traditional approach, we derive a functional equation for the derivative of the value function with respect to the inventory level, which provides a direct approach to computing the optimal base-stock policy. In two well-known cases, we characterize how the base-stock level depends on the belief, and we implement the approach to compute the optimal base-stock level. In the first case of conjugate probabilities, the infinite-dimensional state reduces to a finite-dimensional sufficient statistic. That allows us to solve two numerical examples of exponential and Weibull demands. Moreover, for the exponential demand example, we compare the optimal cost with the costs achieved by two myopic policies with three guesses of the initial belief. We find that the optimal policy improves upon the first myopic policy by 12.6%, 13%, and 9.2%, and upon the second myopic policy by 29.2%, 26.9%, and 27.7%. The second case considers the demand to come from one of two possible distributions, but we do not know which. Here, we derive a functional equation in one hyperparameter expressing the ratio of the weights assigned to the two distributions. We then develop an approximation scheme to solve it, show that it converges, and implement it numerically to obtain the optimal base-stock levels over time.</content>
     <link href="https://doi.org/10.1177/10591478251345135"/>
     <category term="Production and Operations Management"/>
+    <published>2025-05-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0603</id>
+    <title>On the Sparsity of Optimal Linear Decision Rules for a Class of Robust Optimization Problems with Box Uncertainty Sets</title>
+    <updated>2025-05-13T00:00:00+00:00</updated>
+    <author>
+      <name>Haihao Lu, Bradley Sturt</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;One of the major reasons for the popularity of robust optimization is that these problems are often amenable to efficient approximations in operational planning problems where decisions must be made over time under uncertainty. The most common approximation is based on restricting the control policies to “linear decision rules”, that is, linear functions of the information revealed up in the past. In the paper “On the Sparsity of Optimal Linear Decision Rules for a Class of Robust Optimization Problems with Box Uncertainty Sets,” Lu and Sturt prove for a class of robust inventory management problems that there always exists an optimal linear decision rule in which the number of nonzero parameters in the linear decision rule grows linearly in the number of time periods. This is the first result to prove that optimal linear decision rules are sparse in a widely studied class of robust optimization problems with many time periods. Harnessing this sparsity guarantee, the authors develop a novel reformulation technique and active set algorithm for computing optimal linear decision rules that yield a 32× speedup over state-of-the-art linear programming solvers in numerical experiments on production–inventory problems with hundreds of time periods.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0603"/>
+    <category term="Operations Research"/>
+    <published>2025-05-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0077</id>
+    <title>Bricks Processing Returns for Clicks: Can Foes Become Friends?</title>
+    <updated>2025-05-13T00:00:00+00:00</updated>
+    <author>
+      <name>Ahmed Timoumi, Abhinav Uppal</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This paper analyzes buy online, return in store agreements between competing online and offline retailers, revealing how such agreements can strategically soften price competition, reduce showrooming, and potentially benefit both firms and consumers.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0077"/>
+    <category term="Marketing Science"/>
     <published>2025-05-13T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -283,18 +331,6 @@
     <published>2025-05-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19506</id>
-    <title>Employee “Free” Speech vs. Organizational Censorship on Social Media: Balancing the Tension Between Free Expression and Safeguards to Foster Psychological Safety</title>
-    <updated>2025-05-14T00:00:00+00:00</updated>
-    <author>
-      <name>Brittany C. Solomon, Alexandra K. Scott, Matthew E. K. Hall</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Free speech is a core principle in most democratic societies. However, the proliferation of prejudiced speech on social media has prompted intense debates about censorship. As a corollary in the workplace, and against the backdrop of online boundary blurring, we recruited a U.S. nationally representative sample to document that coworkers’ prejudiced social media posts concern Democrats whereas employer censorship of such posts concerns Republicans. To investigate this tension, we integrated boundary research into the psychological safety literature to theorize that organizational censorship on social media differentially affects liberals’ and conservatives’ individual-level psychological safety at work. We also theorized that psychological safety may be fostered—for all employees—by exploiting the tension between safeguards and free expression in organizational social media policies. Taking a multimethod approach, we first explored reactions to organizational censorship of prejudiced speech using open-ended responses (Study 1). Next, we demonstrated in preregistered observational and experimental surveys that such censorship increases Democrats’ psychological safety but decreases Republicans’ psychological safety (Studies 2–3). Finally, in a preregistered, conjoint survey experiment (Study 4), we examined moderators that could help manage this tension. We found that alignment between organizational values and censorship practices, as well as censorship of anti-Black speech, threatening speech, and references to one’s organization, can improve psychological safety for Democrats without undermining psychological safety for Republicans. As political polarization permeates societies worldwide, maintaining the social-relational fabric of organizations will require policies that balance ideological demands. We conclude by discussing implications for psychological safety, “free” speech, and organizational censorship.Funding: This project was funded by the University of Notre Dame’s Mendoza College of Business and Rooney Center for the Study of American Democracy.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19506 .</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19506"/>
-    <category term="Organization Science"/>
-    <published>2025-05-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/orsc.2023.17482</id>
     <title>Selection Regimes and Selection Errors</title>
     <updated>2025-05-14T00:00:00+00:00</updated>
@@ -307,6 +343,30 @@
     <published>2025-05-14T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/orsc.2024.19506</id>
+    <title>Employee “Free” Speech vs. Organizational Censorship on Social Media: Balancing the Tension Between Free Expression and Safeguards to Foster Psychological Safety</title>
+    <updated>2025-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Brittany C. Solomon, Alexandra K. Scott, Matthew E. K. Hall</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Free speech is a core principle in most democratic societies. However, the proliferation of prejudiced speech on social media has prompted intense debates about censorship. As a corollary in the workplace, and against the backdrop of online boundary blurring, we recruited a U.S. nationally representative sample to document that coworkers’ prejudiced social media posts concern Democrats whereas employer censorship of such posts concerns Republicans. To investigate this tension, we integrated boundary research into the psychological safety literature to theorize that organizational censorship on social media differentially affects liberals’ and conservatives’ individual-level psychological safety at work. We also theorized that psychological safety may be fostered—for all employees—by exploiting the tension between safeguards and free expression in organizational social media policies. Taking a multimethod approach, we first explored reactions to organizational censorship of prejudiced speech using open-ended responses (Study 1). Next, we demonstrated in preregistered observational and experimental surveys that such censorship increases Democrats’ psychological safety but decreases Republicans’ psychological safety (Studies 2–3). Finally, in a preregistered, conjoint survey experiment (Study 4), we examined moderators that could help manage this tension. We found that alignment between organizational values and censorship practices, as well as censorship of anti-Black speech, threatening speech, and references to one’s organization, can improve psychological safety for Democrats without undermining psychological safety for Republicans. As political polarization permeates societies worldwide, maintaining the social-relational fabric of organizations will require policies that balance ideological demands. We conclude by discussing implications for psychological safety, “free” speech, and organizational censorship.Funding: This project was funded by the University of Notre Dame’s Mendoza College of Business and Rooney Center for the Study of American Democracy.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19506 .</content>
+    <link href="https://doi.org/10.1287/orsc.2024.19506"/>
+    <category term="Organization Science"/>
+    <published>2025-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.0854</id>
+    <title>Reusing Historical Trajectories in Natural Policy Gradient via Importance Sampling: Convergence and Convergence Rate</title>
+    <updated>2025-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Yifan Lin, Yuhao Wang, Enlu Zhou</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Theoretical Findings Validate Historical Data Reuse for Improved Policy OptimizationA new study, “Reusing Historical Trajectories in Natural Policy Gradient via Importance Sampling: Convergence and Convergence Rate” by Yifan Lin, Yuhao Wang, and Enlu Zhou, explores an advanced approach to reinforcement learning. The research focuses on improving policy optimization by reusing historical trajectories through importance sampling in natural policy gradient methods. The authors rigorously analyze the convergence properties of this approach and demonstrate that reusing past data enhances convergence rates while maintaining theoretical guarantees. Their findings have practical implications for applications where data collection is costly or limited, such as robotics and autonomous systems. By integrating these insights into policy optimization frameworks, the study provides a valuable contribution to the field of reinforcement learning.</content>
+    <link href="https://doi.org/10.1287/opre.2024.0854"/>
+    <category term="Operations Research"/>
+    <published>2025-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2022.00304</id>
     <title>Using AI and Behavioral Finance to Cope with Limited Attention and Reduce Overdraft Fees</title>
     <updated>2025-05-14T00:00:00+00:00</updated>
@@ -315,6 +375,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We test how effective a human–algorithm interaction is at stopping users from overdrawing their bank accounts. We use a randomized field experiment and draw our sample from users of a large personal financial management platform operating in the United States and Canada. We find that sending as-needed reminders is effective in and of itself, and the impact is intensified by the human response to the structure of the message. More simple messages are more effective, and the framing of the simplified message makes a difference. Users with medium to high annual incomes and users with fair to good credit scores are most likely to respond positively. We find that the investigated artificial intelligence solution reduces information-gathering costs and has a positive effect but is not sufficient in all cases. Those with challenging financial situations may find it harder to act upon the warning. For our analysis, we employ parametric identifications and time-to-event semiparametric analysis. Our work contributes to the literature on financial technology as advisors, human–computer interaction, limited attention, behavioral finance, and experimental finance.This paper has been accepted by Jean-Edouard Colliard for the Special Issue on The Human–Algorithm Connection.Funding: O. Sade acknowledges financial support for this research from the Krueger Center and the Albertson-Waltuch Chair in Business Administration.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00304 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.00304"/>
+    <category term="Management Science"/>
+    <published>2025-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2021.04086</id>
+    <title>Dealer Financing in the Subprime Auto Market: Markups and Implicit Subsidies</title>
+    <updated>2025-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Mark Jansen, Samuel Kruger, Gonzalo Maturana</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Do dealers use their financing discretion to charge higher interest rate markups to high-risk customers? We use unique transaction-level data to examine finance and vehicle profits in the subprime auto market with three main results. First, financing subprime customers is costly for dealerships because of loan discounts that are only partially offset by proceeds from interest rate markups. Second, financing is costliest to dealers for deep subprime customers with low credit scores and low incomes. Third, instead of offsetting financing costs, vehicle markups are lowest for deep subprime customers. Finance margins and vehicle markups are also positively correlated more generally.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.04086 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2021.04086"/>
     <category term="Management Science"/>
     <published>2025-05-14T00:00:00+00:00</published>
   </entry>
@@ -427,6 +499,18 @@
     <published>2025-05-15T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2022.0572</id>
+    <title>Technical Note: What’s in a Constraint? On the Ambiguity of Standard Delay Targets</title>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+    <author>
+      <name>Seung Bum Soh, Itai Gurvich</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Ambiguities in Average Speed of Answer TargetsStaffing problems are often formulated as satisfization problems, in which the cost of servers is minimized subject to quality of service constraints. These constraints are intended to capture customers’ disutility from waiting or, at least, its structure. In “What’s in a constraint? On the ambiguity of standard delay targets,” Soh and Gurvich show that such targets—especially the popular average speed of answer—are ambiguous: they give rise to multiple optimal solutions (prioritization policies), each consistent with different assumptions about how customers value their time. By choosing, among all optimal solutions, the one that minimizes a weighted index of diversion (a generalization of variance for the multiclass queue), a service provider can ensure that its ASA-based staffing and prioritization decisions align with a convex model of customer delay disutility. Nonambiguity can also be enforced by restricting attention to fixed queue ratio priority policies.</content>
+    <link href="https://doi.org/10.1287/opre.2022.0572"/>
+    <category term="Operations Research"/>
+    <published>2025-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01469</id>
     <title>The Effect of Uncertainty About Future Accounting Standards on Financial Reporting Quality</title>
     <updated>2025-05-15T00:00:00+00:00</updated>
@@ -448,6 +532,54 @@
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines how giving front-line employees direct access to their performance data affects performance. To explore that impact, we conducted a field experiment at a service organization that made employees’ daily time-use analytics—previously available only to supervisors—simultaneously available to the employees themselves. We find, compared with the preintervention mean value, a significant treatment effect (an 11% decrease) in nonproductive time relative to the control group. That time, however, flows not strictly to productive (revenue-generating) activities but largely to the most convenient outlets, suggesting—as supported by our qualitative evidence—that data transparency on average shifted behavior more toward avoiding nonproductive activities than toward approaching productive activities. (As one participant observed, it led people to “conform, not excel.”) We examine three relational factors we believed, based on prior feedback research, could moderate the performance effect: perceived supervisor support, social comparison orientation, and work motivation type. Performance improvements are greater for employees who perceived their supervisors as less supportive and for those with low intrinsic motivation or high extrinsic motivation; we fail to find a moderating effect of social comparison orientation. Therefore, although we identify the avoidance (although not approach) value of transparent performance data, our results also tell a nuanced story about the supervisor’s optimal role in delivering feedback: The ability to shift people away from “bad” and toward other uses of time depends on the employee’s perception of supervisor quality and the employee’s motivation type.This paper was accepted by David Simchi-Levi, organizations.Funding: We are grateful to the Division of Research and Faculty Development at the Harvard Business School and the USC Marshall School of Business for funding this research.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.02395 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.02395"/>
     <category term="Management Science"/>
+    <published>2025-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf012</id>
+    <title>Ideation with Generative AI—in Consumer Research and Beyond</title>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+    <author>
+      <name>Julian De Freitas, Gideon Nave, Stefano Puntoni</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;The use of generative AI (genAI) in consumer research is rapidly evolving, with applications including synthetic data generation, data analysis, and more. However, their role in creative ideation—a cornerstone of consumer research—remains underexplored. Drawing on the human creativity literature, we propose that ideation with genAI is facilitated by its productivity and semantic breadth, which are psychologically analogous to the dual pathways of persistence and flexibility in human ideation. Further, we distinguish between the utility of genAI as a key ideator versus humans as key ideator, conceptualized through the genAI ideation roles of Designer and Writer and of Interviewer and Actor. While genAI excels in generating incremental improvements, its potential for groundbreaking innovation could be unlocked by leveraging its ability to prompt human creativity. This article advances the theoretical and practical understanding of genAI in ideation for consumer research, offering numerous practical guidelines for integrating generative AI into research while emphasizing human–AI collaboration to achieve radical insights.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf012"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf013</id>
+    <title>The GenAI Future of Consumer Research</title>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+    <author>
+      <name>Ming-Hui Huang, Roland T Rust</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;We develop a novel generative AI (GenAI) trajectory, “democratization-average trap-model collapse,” to identify data and model challenges posed by GenAI, from which we project the GenAI future of consumer research. This trajectory consists of three key phenomena: democratization broadens consumer participation, the average trap produces generic responses, and model collapse occurs when GenAI outputs lose human sensibilities. Data and model challenges arise as democratization enhances data representation while also embedding real-world biases. The average trap, caused by next-token prediction models, leads to generic outputs that lack individuality. Additionally, model collapse occurs when GenAI increasingly learns from its own outputs, amplifying machine bias and diverging from human behavior. To address these challenges, researchers can leverage democratization to study marginalized consumers and prioritize human-centered research over purely data-driven methods. The average trap can be mitigated by fine-tuning models with task-specific and marginalized consumption data while engineering responses for uniqueness. Preventing model collapse requires integrating human–machine hybrid data and applying theories of mind to realign AI with human-centric consumption. Finally, we outline three future research directions: preserving data distribution tails to support consumption democratization, countering the average trap in next-token prediction, and reversing the trajectory from democratization to model collapse.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf013"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf015</id>
+    <title>GenAI and Consumer Research: Are We the Last Generation of Human Consumer Researchers?</title>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+    <author>
+      <name>Bernd Schmitt</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Explorations of Generative artificial intelligence (GenAI) have moved to the forefront of consumer research, as scholars examine its implications for ideation and conceptualization, data collection and analysis, and writing and publishing. Introducing this special section of the Journal of Consumer Research on GenAI and consumer research, the author calls for a critical—and self-critical—engagement with GenAI, calling on researchers to embrace its potential while remaining mindful of both its constraints and their own biases. The author concludes that, given GenAI’s rapid evolution, the insights in this special section remain provisional and may require reconsideration as the technology advances.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf015"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf014</id>
+    <title>Collaborating with Generative AI in Consumer Culture Research</title>
+    <updated>2025-05-15T00:00:00+00:00</updated>
+    <author>
+      <name>Amber M Epp, Ashlee Humphreys</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Generative Artificial Intelligence (GenAI) has introduced new possibilities for both the creation and analysis of language, which is one key input for consumer culture researchers who analyze qualitative and textual data. How can consumer culture researchers use GenAI to produce insights and work with qualitative data? What are the possibilities and challenges of using these tools? And what are some valuable practices and principles for integrating GenAI into the research process? Building from interviews with researchers who use these tools, the authors identify relevant theoretical, embodied, empirical, and historical contextual dimensions that produce opportunities and challenges for human–AI collaboration. The authors then propose a set of collaborative practices and offer practical guidelines for using GenAI to generate novel and meaningful insights into consumer culture and society.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf014"/>
+    <category term="Journal of Consumer Research"/>
     <published>2025-05-15T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -484,6 +616,30 @@
     <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;How well CEOs manage and protect their stakeholders’ interests has risen as an important criterion in boards’ evaluation of CEOs. Research supports this notion by showing that CEOs who underinvest in corporate social responsibility (CSR) often face bleak job prospects. Therefore, when firms are involved in regulatory sanctions concerning stakeholders’ interests, CEOs may face the risk of dismissal, albeit to different degrees because boards may interpret such events in light of their expectations of CEOs’ stakeholder orientation. We suggest that these expectations are in part formed by boards’ perception of CEOs’ agency and communion—fundamental and distinct motives that signal CEOs’ differential commitment to personal competence, independence, control, and managing relationships with stakeholders. Building upon expectancy violations theory, we argue that following stakeholder-related regulatory sanctions, a CEO faces a higher likelihood of dismissal when perceived by the board as more communal or less agentic but a lower likelihood of dismissal when perceived as more agentic or less communal. We also posit that such tendencies hinge on firms’ CSR efforts and media sentiment, which further affect boards’ expectations of CEOs’ stakeholder management. A series of analyses shows strong support for our predictions, offering novel insights into the role of CEOs’ agency and communion in influencing CEOs’ career outcomes following stakeholder regulatory sanctions.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2022.17114 .</content>
     <link href="https://doi.org/10.1287/orsc.2022.17114"/>
     <category term="Organization Science"/>
+    <published>2025-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0470</id>
+    <title>D-Optimal Orienteering for Post-Earthquake Reconnaissance Planning</title>
+    <updated>2025-05-16T00:00:00+00:00</updated>
+    <author>
+      <name>Jiaqi Wang, Weijun Xie, Ilya O. Ryzhov, Nikola Marković, Ge Ou</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Routing a Vehicle to Collect Data After an EarthquakeIn the immediate aftermath of a major earthquake, it is crucial to quickly and accurately assess structural damage throughout the region. It is especially important to identify buildings that have become unsafe in order to prioritize evacuation efforts. Only a very small number of building inspections can be feasibly performed in a narrow time frame; however, their results can then be combined with other data sources to predict damage at other locations that were not inspected. In “D-Optimal Orienteering for Postearthquake Reconnaissance Planning,” Wang, Xie, Ryzhov, Marković, and Ou present a novel nonlinear integer program that combines vehicle routing with a statistical objective, the goal being to maximize data quality. An exact method based on row and column generation is developed to solve problems with up to 200 buildings. The approach is validated in a realistic case study using real-world building data obtained from a state-of-the-art earthquake simulator.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0470"/>
+    <category term="Operations Research"/>
+    <published>2025-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0309</id>
+    <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
+    <updated>2025-05-16T00:00:00+00:00</updated>
+    <author>
+      <name>K. Sudhir, Onesun Steve Yoo, Zihao Zhou</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Information asymmetry between investors and entrepreneurs brings about distortions to product experimentations and inefficiencies to innovation outcomes, which are exacerbated by investors’ stereotypes on entrepreneurs.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0309"/>
+    <category term="Marketing Science"/>
     <published>2025-05-16T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -607,6 +763,18 @@
     <published>2025-05-19T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2024.0717</id>
+    <title>Near-Optimal Mixed (&lt;i&gt;s,S&lt;/i&gt;) Policy for a Multiwarehouse, Multistore Inventory System with Lost Sales and Fixed Cost</title>
+    <updated>2025-05-20T00:00:00+00:00</updated>
+    <author>
+      <name>Sentao Miao, Stefanus Jasin, Xiuli Chao</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Smarter Inventory Control Through Policy MixingCoordinating inventory across multiple warehouses and retail stores becomes significantly more complex when fixed ordering costs and lost sales are involved. The paper “Near-Optimal Mixed (s,S) Policy for a Multiwarehouse, Multistore Inventory System with Lost Sales and Fixed Cost,” introduces a novel solution to this challenge. By leveraging Lagrangian relaxation, the authors develop a mixed (s,S) policy that assigns two carefully selected ordering strategies to each store: one for the early phase of the selling horizon and another for the later phase. This structured mix allows the policy to approximate the optimal solution, satisfying inventory constraints and managing costs effectively. The approach achieves a provable near-optimality guarantee and highlights the power of combining simple policies to tackle complex supply chain problems.</content>
+    <link href="https://doi.org/10.1287/opre.2024.0717"/>
+    <category term="Operations Research"/>
+    <published>2025-05-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2022.02039</id>
     <title>Integrated Fleet and Demand Control for On-Demand Meal Delivery Platforms</title>
     <updated>2025-05-20T00:00:00+00:00</updated>
@@ -664,6 +832,18 @@
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As consumer awareness of fake online reviews grows, platforms face increasing challenges in maintaining trust. Although skepticism toward reviews is rising, our research finds that consumers still exhibit a “truth bias,” meaning that they tend to accept individual reviews as genuine—even when fake review detection rates are low. This highlights the need for platforms to proactively identify and address fraudulent content rather than relying on user reporting of suspected fakes, which is largely ineffective. Platforms might also consider labeling suspected fake reviews with warning badges or fact-check indicators. Additionally, we find that truth bias is stronger for negative reviews, making fake negative reviews particularly impactful and damaging. Consequently, platforms should prioritize detecting and mitigating fake negative reviews over fake positive ones. Our findings also suggest that structuring reviews into separate positive and negative sections or allowing (or defaulting to) valence-based review sorting might reduce consumer likelihood of being fooled by fake negative reviews. These insights inform platform policy by emphasizing the importance of proactive fraud detection, transparent labeling, and interface design in safeguarding consumer trust and lowering fraud.</content>
     <link href="https://doi.org/10.1287/isre.2023.0339"/>
     <category term="Information Systems Research"/>
+    <published>2025-05-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00018392251340351</id>
+    <title>Applying While Black: The Collateral Effects of Racial Differences in Work Histories</title>
+    <updated>2025-05-20T00:00:00+00:00</updated>
+    <author>
+      <name>Prasanna Parasurama, Ming D. Leung, Sharon Koppman</name>
+    </author>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;It is well known that hiring practices that treat job seekers differently by race contribute to racial disparities in employment. Yet, practices that treat job seekers equivalently may also contribute to racial disparities if there are pre-existing racial differences among the applicants. We focus on employers’ prominent practice of using job seekers’ work histories to make inferences about their suitability for jobs. Scholars and practitioners alike have long assumed that work histories are race neutral because they result from job seekers’ strategic choices about where to apply and what jobs to accept. However, Black job seekers face structural constraints—namely, anticipating and experiencing racial discrimination—that restrict the job search strategies and resulting jobs available to them. As a result, they are less likely than their White peers to construct the work histories that employers value—those composed of prior experience closely related to the job at hand and specialized within a narrow domain of work. These differences in work histories contribute to the racial disparities that Black job seekers experience. We test and find support for this argument, using over 490,000 job applications for all 3,683 publicly posted jobs over seven years at two U.S. technology companies. This study contributes to the literature on racial discrimination and categorization in labor markets by uncovering a novel pathway through which race shapes employment.</content>
+    <link href="https://doi.org/10.1177/00018392251340351"/>
+    <category term="Administrative Science Quarterly"/>
     <published>2025-05-20T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -763,6 +943,18 @@
     <published>2025-05-21T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf031</id>
+    <title>Consumers’ Mental Representation of Expenditures: Implications for Spending and Savings Decisions</title>
+    <updated>2025-05-21T00:00:00+00:00</updated>
+    <author>
+      <name>Lin Fei, Daniel M Bartels, Walter W Zhang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;People’s mental representation of expenditures is crucial to their budgeting. This article proposes that much like how they represent natural kinds (e.g., animals and plants), people represent expenditures in a hierarchical taxonomy. Seven studies, supported by six norming studies and three pilots, revealed that expenditures are represented hierarchically. We first recover people’s mental representations using a successive pile-sort method that asks people to form hierarchies of categories with common expenditures (e.g., rent, dining out, etc). The pile-sort reveals consensus in people’s representations of expenditures and that these representations are relatively stable over time. Further, people’s adjustment in their spending behavior can be predicted by the distance between items in their representation. Specifically, when people overspent on an item, they spontaneously adjust spending more on taxonomically closer items. We examine this spontaneous adjustment behavior using both lab studies and field data with 6.5 million grocery shopping trips over twelve years. The findings highlight the connection between mental representation and consumer behavior, and they emphasize the importance of studying concepts and categories in the context of consumption.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf031"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10422587251328602</id>
     <title>The Influence of Economics Education in School on Future Entrepreneurial Behavior</title>
     <updated>2025-05-21T00:00:00+00:00</updated>
@@ -823,6 +1015,18 @@
     <published>2025-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdaf031</id>
+    <title>Efficient Conservation of the Brazilian Amazon: Estimates from a Dynamic Model</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Rafael Araujo, Francisco Costa, Marcelo Sant’Anna</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This paper estimates the Brazilian Amazon’s carbon-efficient forest cover—i.e. when farmers internalize the social cost of carbon. We propose a dynamic discrete choice land-use model and estimate it using a panel of land use and carbon stock of 5.7 billion pixels between 2008 and 2017. The business-as-usual scenario implies an inefficient release of 42 billion tons of CO2 in the long run, resulting from the deforestation of an area twice the size of France. A carbon tax that makes farmers internalize the social cost of carbon would implement the efficient allocation and generate welfare gains exceeding 1.6 trillion dollars. Responses from a carbon tax are highly convex: a carbon tax of only $10/ton would preserve 95% of the efficient carbon stock. An excise tax on cattle ranching, a second-best policy, achieves at most 87% of the first-best welfare gains.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf031"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/restud/rdaf036</id>
     <title>Cascades and Fluctuations in an Economy with an Endogenous Production Network</title>
     <updated>2025-05-22T00:00:00+00:00</updated>
@@ -844,6 +1048,30 @@
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This article investigates the effects of legalizing recreational marijuana dispensaries on hotel performance and operations using Bayesian causal inference within the potential outcomes framework. Focusing on Colorado, the study finds that, on average, hotel revenue increases by 25.2% (or $63,671 monthly) due to dispensary legalization, with the effect continuing to grow even six years after legalization. The revenue boost arises from a 7.9% increase in room night bookings and a 16.0% rise in daily room rates. The impact, however, varies depending on hotel characteristics, such as the distance to dispensaries, age, class, location types, and operating structure, with greater effects seen in hotels that are closer to dispensaries, younger in age, more upscale, located in areas populated with potential recreational marijuana consumers (e.g., resort, urban, airport), and managed directly by corporate entities. Furthermore, hotels expand their room inventory by 3.9% in response to the legalization of retail dispensaries, partially mediating the revenue impact. These findings are relevant for professionals in marketing, operations management, hospitality, tourism, and public policy.</content>
     <link href="https://doi.org/10.1177/10591478251345522"/>
     <category term="Production and Operations Management"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0123</id>
+    <title>Dynamic Pricing with Fairness Constraints</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Maxime C. Cohen, Sentao Miao, Yining Wang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Personalized prices can boost revenue, but they increasingly draw fire for hidden discrimination. A new study, “Dynamic Pricing with Fairness Constraints,” by Maxime C. Cohen, Sentao Miao, and Yining Wang, shows that firms can learn demand while staying fair at the same time. The authors embed two complementary notions of fairness into the classic learning-and-earning problem. The first, price fairness, limits price gaps across customer groups and over time, whereas the second, demand fairness, keeps realized demand shares balanced. To enforce price fairness, the authors design FaPU, an infrequently updated upper confidence bound algorithm that respects both group and temporal limits while securing near-optimal regret and matching lower bounds. For demand fairness, they propose FaPD, a primal-dual learner that meets aggregate demand quotas with high probability and the same near-optimal regret rate. Beyond providing tight theoretical analyses, the paper quantifies the “price of fairness” and outlines extensions to non-stationary markets, offering regulators and practitioners evidence that equity and profitability can coexist in algorithmic pricing.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0123"/>
+    <category term="Operations Research"/>
+    <published>2025-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2021.0427</id>
+    <title>Event-Triggered Bayesian Control Chart</title>
+    <updated>2025-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>Abderrahmane Abbou, Viliam Makis</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Control charts are practical tools for fault detection and recovery. However, traditional control charts rely on random samples collected from a production process at fixed time intervals, causing late detection if sampling intervals are too long or excessive sampling if the intervals are too short. In “Event-Triggered Bayesian Control Chart,” Abbou and Makis develop a novel control chart leveraging real-time data from smart sensors to jointly decide when to collect samples and when to stop the production process, leading to quick fault detection and recovery using few samples. Applying optimal stopping theory and dynamic programming analysis, the authors establish the average-cost optimality of their control chart and propose an efficient procedure for computing the optimal sampling and stopping thresholds. Through an empirical study, the control chart is shown to achieve substantial cost savings compared to benchmarks. Furthermore, thanks to its event-triggering mechanism, the proposed control chart requires little data communication from sensors, which is crucial from an energy-efficiency perspective.</content>
+    <link href="https://doi.org/10.1287/opre.2021.0427"/>
+    <category term="Operations Research"/>
     <published>2025-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -907,6 +1135,18 @@
     <published>2025-05-23T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2024.1193</id>
+    <title>On the Almost Threshold Policy for Multisourcing Under Uncertain Supplies</title>
+    <updated>2025-05-23T00:00:00+00:00</updated>
+    <author>
+      <name>Awi Federgruen, Qi Feng, George Shanthikumar</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;On the Almost Threshold Policy for Multisourcing Under Uncertain SuppliesIn “On the Almost Threshold Policy for Multisourcing Under Uncertain Supplies,” Federgruen, Feng, and Shanthikumar examine optimal multisourcing strategies in the presence of supply uncertainty. The authors develop a general framework based on the concept of stochastic midpoint linearity and demonstrate that a simple almost threshold policy is optimal under broad and realistic conditions. Their findings provide both theoretical insights and practical guidance for designing resilient and data-driven multisourcing systems.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1193"/>
+    <category term="Operations Research"/>
+    <published>2025-05-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05585</id>
     <title>Humans’ Use of AI Assistance: The Effect of Loss Aversion on Willingness to Delegate Decisions</title>
     <updated>2025-05-23T00:00:00+00:00</updated>
@@ -967,6 +1207,18 @@
     <published>2025-05-23T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/00018392251339638</id>
+    <title>A Racialized Engine of Anxiety? Race, Reactivity, and the Uneven Tax of Credit Scores</title>
+    <updated>2025-05-23T00:00:00+00:00</updated>
+    <author>
+      <name>Davon Norris</name>
+    </author>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;Research demonstrates that evaluations made via scores often induce anxiety and alter the behaviors of those being evaluated. Research further suggests that this so-called reactivity is not experienced equally. Yet, scholars do not fully understand what explains this variation.For whomdoes being scored induce reactivity andwhy? Drawing on insights from W.E.B. Du Bois and Frantz Fanon, I argue that the experience of being scored differs across racial groups. I evaluate this claim by using a mixed-methods approach that combines interviews and an original national survey on consumer credit scoring. The interviews demonstrate that Black respondents’ credit scores exact a psychological and behavioral tax as the respondents indicate higher levels of anxiety and feeling that their score is a controlling factor in their lives. In contrast, White respondents recognize the importance of their credit scores for determining access to resources but do not see their scores as more significant beyond that. Survey analyses generalize these findings, showing substantial disparities in reactivity to credit scores between Black and White respondents even after the analyses account for economic factors like differences in their credit scores. These findings reveal credit scores asracialized engines of anxietyand yield new insight into the mechanisms that condition whether and to what extent being scored shapes behaviors.</content>
+    <link href="https://doi.org/10.1177/00018392251339638"/>
+    <category term="Administrative Science Quarterly"/>
+    <published>2025-05-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/smj.3723</id>
     <title>Defending the throne: The influence of performance feedback on &lt;scp&gt;CEO&lt;/scp&gt; succession in family‐controlled firms</title>
     <updated>2025-05-24T00:00:00+00:00</updated>
@@ -1015,6 +1267,18 @@
     <published>2025-05-26T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2022.0643</id>
+    <title>Optimal Abort Policy for Mission-Critical Systems Under Imperfect Condition Monitoring</title>
+    <updated>2025-05-26T00:00:00+00:00</updated>
+    <author>
+      <name>Qiuzhuang Sun, Jiawen Hu, Zhi-Sheng Ye</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Controlling stochastic systems often relies on the assumption of Markovian dynamics. However, this assumption frequently breaks down in mission-critical systems subject to failures—such as drones for power grid inspections—where the system failure rate increases over time. To enhance system survivability, operators may choose to abort missions based on noisy condition-monitoring signals. Yet, determining the optimal abort time in such settings leads to an intractable stopping problem under partial observability and non-Markovian behavior. In “Optimal Abort Policy for Mission-Critical Systems Under Imperfect Condition Monitoring,” Sun, Hu, and Ye introduce a novel Erlang mixture-based approximation that transforms the original non-Markovian process into continuous-time Markov chains. This approximation enables the formulation of partially observable Markov decision processes (POMDPs), whose optimal policies are shown to converge almost surely to the original optimal abort decision rules as the Erlang rate increases. Structural properties of the optimal POMDP policy are established, and a modified point-based value iteration algorithm is proposed to numerically solve the POMDP.</content>
+    <link href="https://doi.org/10.1287/opre.2022.0643"/>
+    <category term="Operations Research"/>
+    <published>2025-05-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2022.03606</id>
     <title>Marketplace Expansion Through Marquee Seller Adoption: Externalities and Reputation Implications</title>
     <updated>2025-05-26T00:00:00+00:00</updated>
@@ -1051,28 +1315,100 @@
     <published>2025-05-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/smj.3721</id>
-    <title>Tiered status hierarchies and competitive actions</title>
-    <updated>2025-05-07T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/jcr/ucaf032</id>
+    <title>Fast Fashion Consumption Signals Low Self-Control</title>
+    <updated>2025-05-26T00:00:00+00:00</updated>
     <author>
-      <name>Chunhu Jeon, Jonathan Bundy, Wei Shen</name>
+      <name>Yunhui Huang, Ke Zhang, Xiaoyan Deng, Qiang Zhang</name>
     </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Rankings often create tiered status hierarchies—for example, top, middle, and lower status tiers—of the ranked organizations. We study how an organization's position within a tier, particularly near tier boundaries, influences its competitive behavior. We propose atier‐aspiration effect, where those at the top of a lower tier pursue more and riskier competitive actions to advance to the higher tier, and atier‐maintenance effect, where those at the bottom a tier engage in more and riskier competitive actions to maintain their position when there is a greater threat from competitors at the top of the neighboring lower tier. Empirical analyses of Korean business groups' rankings and acquisitions between 2001 and 2018 support these predictions, revealing how positional differences shape competitive actions within tiered status hierarchies.Managerial SummaryRankings often group organizations into tiers—like top, middle, and lower tiers—but not all companies within a tier behave the same. We analyze acquisitions of Korean business groups ranked in an asset‐based ranking and find that firms near the top or bottom of a tier act more competitively than those in the middle. More specifically, those at the top of a lower tier tend to engage in greater and more unrelated acquisitions to move up to a higher tier. Meanwhile, those just above a tier cut‐off engage in greater and more unrelated acquisitions to retain their tier position, especially if they face strong competition from below. These insights can help managers better understand how rankings drive competitive behavior, beyond economic motivations.</content>
-    <link href="https://doi.org/10.1002/smj.3721"/>
-    <category term="Strategic Management Journal"/>
-    <published>2025-05-07T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;We argue that the fast fashion business model has three defining characteristics: high trendiness, high disposability, and unsustainable practices. These characteristics collectively suggest that consumers of fast fashion brands have a short-term focus, which evokes the perception that they lack self-control. A ChatGPT study and six experiments (five pre-registered) provide convergent evidence for the effect of fast fashion consumption on perceived self-control (H1). We establish that this effect is mediated by the belief that fast fashion consumers maintain a short-term focus (H2). Additionally, fast fashion consumers are viewed as having lower self-control compared to consumers of luxury, mid-luxury, and supermarket fashion (H3). Serious consumers of fast fashion are perceived to have lower self-control than casual consumers (H4). Furthermore, this effect disappears when cues (e.g., sustainability) imply a long-term focus among consumers (H5). Finally, we reveal the downstream consequences of this effect, offering important insights for consumers and marketers. For instance, fast fashion consumers and influencers are seen as less compatible with products, services, jobs, and activities associated with self-control and long-term benefits (H6). Overall, our research enhances our understanding of fast fashion consumption and contributes to broader discussions on self-control, consumption-based inference-making, and interpersonal perception.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf032"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-05-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01294</id>
-    <title>Market Returns and a Tale of Two Types of Attention</title>
-    <updated>2025-05-07T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/rfs/hhaf036</id>
+    <title>Fast and Slow Arbitrage: The Predictive Power of (Persistent) Capital Flows for Factor Returns</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
     <author>
-      <name>Zhi Da, Jian Hua, Tim Chih-Ching Hung, Lin Peng</name>
+      <name>Xi Dong, Namho Kang, Joel Peress</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We provide novel evidence that aggregate investor attention to stocks predicts marketwide returns, but with a striking difference across investor clienteles. Daily aggregate retail attention (ARA) negatively predicts one-week-ahead market returns, is associated with aggregate retail order imbalance and flows to equity mutual funds, and exhibits a stronger predictability during periods of high marketwide uncertainty, poor liquidity, or more costly short selling. In contrast, aggregate institutional attention (AIA), when observed before major news announcements, positively predict future marketwide returns. In cross-sectional analysis, we show that the predictability is stronger for ARA among illiquid stocks and for AIA among high-beta stocks. The predictability results are robust out-of-sample and correspond to meaningful expected utility gains even for diversified investors. The findings are consistent with the idea that attention-driven retail buying can generate an aggregate price pressure on the stock market, whereas institutional attention precedes the resolution of marketwide uncertainty and the accrual of risk premiums.This paper was accepted by Will Cong, finance.Funding: J. Hua acknowledges the Professional Staff Congress-City University of New York Research Foundation for financial support. L. Peng acknowledges the Wasserman Summer Research Grant and the Krell Research Fund for financial support. T.C.-C. Hung acknowledges research support from the Ministry of Science and Technology, Taiwan [Grants 110-2410-H-002-245 and 111-2410-H-002-197], and the E. Sun Academic Award.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01294 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01294"/>
-    <category term="Management Science"/>
-    <published>2025-05-07T00:00:00+00:00</published>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We document that persistent aggregate capital flows to hedge and mutual funds predict monthly factor returns with an out-of-sample R  2 reaching 6.6%. Transient flows display no such power despite being more predictable. We show—both empirically and theoretically—that persistent flows’ predictive power stems from active fund managers’ capital constraints. Consequently, managers invest persistent but not transient flows into factor trading strategies, leading to factor-return predictability and factor momentum yet greater price efficiency. Our key insight is that capital-constrained managers account for both current and anticipated future flows in the arbitrage sector, incorporating the dynamics of capital into their strategies. (JEL G12, G14, G17, G23)</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf036"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjaf021</id>
+    <title>The Optimal Taxation of Couples</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Mikhail Golosov, Ilia Krasikov</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We study optimal nonlinear taxation of single and married households. Taxes on couples depend on the earnings of both spouses and are an example of multi-dimensional tax schedules. We develop novel analytical techniques to study properties of such taxes. We show that the optimal marginal taxes for married individuals are generally lower than for single individuals because resource-sharing within couples provides socially valuable redistribution. Under realistic assumptions, the optimal tax rates for married individuals increase with the correlation of spousal earnings, the marginal tax rates for one spouse increase (decrease) in the earnings of the other if both spouses have low (high) earnings, and the primary earner faces lower marginal taxes than the secondary earner.</content>
+    <link href="https://doi.org/10.1093/qje/qjaf021"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2022.0402</id>
+    <title>Vertical Competition on a Common Platform</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaojuan Puyang, Zheyin (Jane) Gu, Rachel R. Chen, Juan Li</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.</content>
+    <link href="https://doi.org/10.1287/mksc.2022.0402"/>
+    <category term="Marketing Science"/>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13464</id>
+    <title>Interlocking Directorates and Competition in Banking</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>GUGLIELMO BARONE, FABIANO SCHIVARDI, ENRICO SETTE</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We study the effects on corporate loan rates of an unexpected change in the Italian legislation that forbade interlocking directorates between banks. Exploiting multiple firm‐bank relationships to fully account for all unobserved heterogeneity, we find that prohibiting interlocks decreased the interest rates of previously interlocked banks by 14 basis points relative to other banks. The effect is stronger for high‐quality firms and for loans extended by interlocked banks with a large joint market share. Interest rates on loans from previously interlocked banks become more dispersed. Finally, firms borrowing more from previously interlocked banks expand investment, employment, and sales.</content>
+    <link href="https://doi.org/10.1111/jofi.13464"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.12623</id>
+    <title>The Signaling Value of Internal Employee Coordination</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>WEI CAI, DENNIS CAMPBELL, JIEHANG YU</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We examine the effect of internal employee coordination on customer trust, focusing specifically on employees’ responsiveness to each other as an important, quantifiable, and objective aspect of internal coordination. Using proprietary data from a company with exogenous assignment of employees to teams that serve individual customers, we study how inter‐employee responsiveness influences customer trust. Each customer is served via an app‐based group chat by a randomly assigned team of employees. Our data include more than 2 million group chat messages with over 16 thousand customers. We find that inter‐employee responsiveness serves as a credible signal that helps build customer trust, as evidenced by their subsequent contracting choices. The effect is more pronounced when the signal is (1) more frequent and (2) more intense. Our findings highlight the novel value of internal employee responsiveness as a credible signal that helps build trust with external stakeholders.</content>
+    <link href="https://doi.org/10.1111/1475-679x.12623"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0303</id>
+    <title>All That Glitters Is Not Gold: The Impact of Certification Test Costs in Online Labor Markets</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Jiaru Bai, Qiang Gao, Paulo Goes, Mingfeng Lin</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Our study examines how the value of skill certifications changes when an online labor platform eliminates testing fees. Although the policy led to a sharp increase in certification rates and faster hiring, it also reduced the signaling power of certifications. Employers became less likely to hire certified workers or offer them higher pay because their average performance declined. This drop in credibility disproportionately affected inexperienced workers who depended on certifications to establish trust. Importantly, we find that the negative effects of free certification can be reduced through better platform design. Showing more detailed certification information, such as test scores and how recently the certification was earned, helps employers interpret credentials more effectively. These design improvements can help preserve the value of certifications while expanding access.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0303"/>
+    <category term="Information Systems Research"/>
+    <published>2025-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0402</id>
+    <title>Forced to Change? Media Exposure of Labor Issues and Firm Artificial Intelligence Investment</title>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Boshuo Li, Ni Huang, Wei Shi</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Firms are increasingly interested in investing in artificial intelligence (AI), but what drives this trend? Our research reveals that media coverage of labor issues plays a significant role. When firms face public scrutiny through media exposure of labor issues, the reputational pressure pushes them to act. AI emerges as a strategic response, offering powerful capabilities to automate and augment human tasks. Analyzing data from U.S. public firms, we found that labor issue-related media coverage significantly increases AI investments, particularly among firms with the motivation and resources to invest in AI, whereas other IT or general investments are not similarly influenced, suggesting that firms view AI as uniquely suitable to address labor challenges. Interestingly, firms appear to prioritize AI for its automation capabilities, particularly targeting high-skilled labor, contrasting with traditional automation investments focused on lower-skilled tasks. This shift signals a transformation in how companies are reimaging the future of work. For business leaders, our findings also reveal that AI investment not only reduces future media scrutiny but also decreases labor reliance. Policymakers, however, must consider the broader implications, particularly the impact of AI investment on labor markets and the need for proactive workforce planning.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0402"/>
+    <category term="Information Systems Research"/>
+    <published>2025-05-27T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhaf030</id>
@@ -1087,6 +1423,54 @@
     <published>2025-05-08T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2019.0402</id>
+    <title>Markdown Policies for Demand Learning with Forward-Looking Customers</title>
+    <updated>2025-05-08T00:00:00+00:00</updated>
+    <author>
+      <name>John R. Birge, Hongfan (Kevin) Chen, N. Bora Keskin</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Markdown Policies for Demand Learning with Forward-Looking CustomersDemand uncertainty and forward-looking customer behavior pose substantial challenges for sellers. In “Markdown policies for demand learning with forward-looking customers,” Birge, Chen, and Keskin analyze a markdown pricing problem involving demand model uncertainty and strategic customers. The authors identify that strategic customer behavior creates a strong intertemporal dependence, where early markdowns influence later demand outcomes. They characterize the impact of this intertemporal dependence on demand learning and develop near-optimal policies that judiciously delay markdowns to manage forward-looking customer behavior while ensuring efficient learning.</content>
+    <link href="https://doi.org/10.1287/opre.2019.0402"/>
+    <category term="Operations Research"/>
+    <published>2025-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1233</id>
+    <title>ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling</title>
+    <updated>2025-05-08T00:00:00+00:00</updated>
+    <author>
+      <name>Chenyu Huang, Zhengyang Tang, Shixi Hu, Ruoqing Jiang, Xin Zheng, Dongdong Ge, Benyou Wang, Zizhuo Wang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;ORLM: Pioneering Open-Source Framework for Automated Optimization ModelingA study titled "ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling" has been published, introducing the first open-source framework designed to automate optimization modeling using large language models (LLMs). This innovative approach addresses critical challenges in the field of operations research (OR), particularly the overreliance on closed-source LLMs like GPT-4, which raises privacy concerns and limits customization in industrial applications.The research team proposed OR-Instruct, a semiautomated data synthesis framework that generates high-quality training data tailored to specific optimization modeling requirements. They also introduced IndustryOR, the first benchmark for evaluating LLMs’ performance on real-world OR problems. By training several 7B-scale open-source LLMs with the synthesized data, the team achieved state-of-the-art results across multiple benchmarks, including NL4Opt, MAMO, and IndustryOR.This advancement not only enhances the accessibility and applicability of optimization modeling, but also paves the way for more efficient and privacy-conscious solutions in various industrial sectors. The ORLM framework exemplifies the potential of open-source initiatives in driving innovation and democratizing advanced analytical tools for operations research.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1233"/>
+    <category term="Operations Research"/>
+    <published>2025-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0575</id>
+    <title>Is the Money Spent on Short-Form Video Social Platforms Worth It? The Role of Advertising Spillover in a Large-Scale Randomized Field Experiment on ByteDance</title>
+    <updated>2025-05-08T00:00:00+00:00</updated>
+    <author>
+      <name>Yitian (Sky) Liang, Xinlei (Jack) Chen, Shengnan Han, Jinglong Zhang, Yubo Chen</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Spillover plays a crucial role in advertising effect on short-form video social platforms.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0575"/>
+    <category term="Marketing Science"/>
+    <published>2025-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0494</id>
+    <title>Frontiers: Generative AI and Personalized Video Advertisements</title>
+    <updated>2025-05-08T00:00:00+00:00</updated>
+    <author>
+      <name>Anuj Kapoor, Madhav Kumar</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Experimental evidence on the impact of GenAI-created personalized video advertisements on engagement.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0494"/>
+    <category term="Marketing Science"/>
+    <published>2025-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00165</id>
     <title>Hidden in Plain Sight: The Role of Corporate Board of Directors in Public Charity Lobbying</title>
     <updated>2025-05-08T00:00:00+00:00</updated>
@@ -1097,6 +1481,18 @@
     <link href="https://doi.org/10.1287/mnsc.2023.00165"/>
     <category term="Management Science"/>
     <published>2025-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2024.0879</id>
+    <title>Advertising Platforms and Privacy</title>
+    <updated>2025-05-09T00:00:00+00:00</updated>
+    <author>
+      <name>Ruizhi Zhu, Sridhar Moorthy, Xianwen Shi</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This paper examines the implications of privacy-motivated targeting restrictions on consumer welfare, advertisers’ customer acquisition costs, and platform revenue.</content>
+    <link href="https://doi.org/10.1287/mksc.2024.0879"/>
+    <category term="Marketing Science"/>
+    <published>2025-05-09T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.01896</id>
