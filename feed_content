@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-06-23T13:40:10.044743+00:00</updated>
+  <updated>2025-06-24T13:42:49.375095+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -705,52 +705,100 @@
     <published>2025-06-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2022.0401</id>
-    <title>Optimal Dual-Sourcing Inventory Policies with Order Tracking: Backlogging and Lost Sales Under Uncertain Lead Times</title>
-    <updated>2025-06-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/sej.1548</id>
+    <title>Generational imprints: A contingency approach to corruption and entrepreneurship</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Jing-Sheng Song, Li Xiao, Hanqin Zhang</name>
+      <name>Yifan Wei, Milo Shaoqing Wang, Jingjiang Liu</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Dual-Sourcing in the Dark? Order Tracking as Your GuideThis research unlocks the power of real-time order tracking in dual-sourcing inventory systems, tackling both backlogging and lost-sales scenarios. We model a hybrid supply chain: a normal source (a two-stage tandem queue with Erlang processing times) and a fast-track emergency source that skips the first stage. We prove that, under key conditions, the optimal policy follows a dual-threshold structure with an adaptive switching curve, dictated by the emergency source’s workload. We prove this through a three-stage approach: 1) state-space simplification – cutting through complexity; 2) auxiliary system design – introducing a tractable proxy with a novel exchange axiom property to reveal optimal structure; 3) sample-path magic – bridging the proxy’s policy back to the original system. When reality breaks the ideal conditions, we craft a near-optimal heuristic that fully leverages order-tracking information. The analysis reveals a striking contrast; although order tracking benefits both systems, its impact is markedly stronger in lost-sales environments compared to backlogging scenarios.</content>
-    <link href="https://doi.org/10.1287/opre.2022.0401"/>
-    <category term="Operations Research"/>
-    <published>2025-06-03T00:00:00+00:00</published>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Existing research offers conflicting evidence on how corruption affects entrepreneurship. We adopt a contingency approach highlighting the role of generational imprinting. Drawing on imprinting and generational research, we argue entrepreneurs develop distinct generational imprints shaped by the environment during their formative years. Using a proprietary dataset of Chinese private firms, our findings suggest that in corrupt environments, market‐generation entrepreneurs with a transactional imprint tend to outperform their premarket‐generation counterparts in the short run, as the latter's principled imprint likely limits public relations spending. Personal life experiences—rural living and higher education—attenuate the influence of the transactional imprint, narrowing intergenerational differences in firm performance. Our study advances research on corruption and entrepreneurship by integrating institutional, generational, and individual‐level perspectives to explain how corruption affects entrepreneurs differently.Managerial SummaryThe relationship between corruption and entrepreneurship remains contested. Our study takes a novel angle by examining generational differences among entrepreneurs. We suggest that the distinct environments entrepreneurs experienced during adolescence shape their value orientations, leading to variation in firm performance in corrupt environments. Using a dataset of Chinese private firms, we show that, in corrupt environments, younger‐generation entrepreneurs with a transactional orientation (i.e., transactional imprint) tend to outperform older‐generation entrepreneurs with a principled orientation (i.e., principled imprint) in the short run. However, this performance gap narrows among those who lived in rural areas or received higher education. Our work highlights the crucial role of institutional environments in shaping entrepreneurs' values across generations and advocates for initiatives that cultivate more ethically grounded entrepreneurial mindsets.</content>
+    <link href="https://doi.org/10.1002/sej.1548"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2025-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1012</id>
-    <title>Distributed Speed Scaling in Large-Scale Service Systems</title>
-    <updated>2025-06-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2022.01808</id>
+    <title>Disclosing Low Product Availability: An Online Platform’s Strategy for Mitigating Stockout Risk</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Daan Rutten, Martin Zubeldia, Debankur Mukherjee</name>
+      <name>Benjamin Knight, Dmitry Mitrofanov</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Smart Servers, Smarter Speed Scaling: A Decentralized Algorithm for Data Center EfficiencyA team of researchers from Georgia Tech and the University of Minnesota has introduced a cutting-edge algorithm designed to optimize energy use in large-scale data centers. As detailed in their paper “Distributed Rate Scaling in Large-Scale Service Systems,” the team developed a decentralized method allowing each server to adjust its processing speed autonomously without the need for communication or knowledge of system-wide traffic. The algorithm uses idle time as a local signal to guide processing speed, ensuring that all servers converge toward a globally optimal performance rate. This innovation addresses a critical issue in modern computing infrastructure: balancing energy efficiency with performance under uncertainty and scale. The authors demonstrate that their approach not only stabilizes the system but achieves asymptotic optimality as the number of servers increases. The work is poised to significantly reduce energy consumption in data centers, which are projected to account for up to 8% of U.S. electricity use by 2030.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1012"/>
-    <category term="Operations Research"/>
-    <published>2025-06-03T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Ensuring product availability and successful order fulfillment are critical priorities for any retail company. In this paper, we explore how sharing information about low-availability items (LAIs) can influence customer purchase decisions both in preventing stockouts and mitigating their negative effects. The net impact of sharing information on LAIs is difficult to predict ex ante because multiple effects may act in opposite directions. On the one hand, sharing information could discourage LAI purchases from customers who are averse to stockouts. On the other hand, such information might increase the demand for LAIs because of cognitive biases that make scarce items seem more appealing. In a field experiment with more than 840,000 Instacart customers, we first find that customers are 25% less likely to purchase LAIs when item availability information is disclosed. This effect is not uniform; it is more pronounced when customers shop at new stores, when they have previously encountered lower found rates on the platform, and when they have less experience using the platform. Importantly, LAI disclosure has a positive impact on the platform’s performance in both the short and long term. Specifically, this innovative and extremely low-cost policy results in a 5.8% increase in customer spending and a 5.7% increase in order frequency over the long term. Our analysis suggests that this positive effect is driven by several factors: the improved service quality experienced by customers, as evidenced by a 3.7% reduction in refunds, a 2.9% decrease in product replacements, and a 7.5% reduction in poor product replacement ratings when replacements do occur; increased customer exploration of different stores; and higher spending per order because of fewer refunds and the exploration of potentially more expensive product substitutes. In the context of online retail, a policy of disclosing LAIs can improve customer decision-making by providing stock information, reduce stockouts, enhance satisfaction by managing expectations and transparency, and promote exploration of more platform options.This paper was accepted by Victor Martinez de Albéniz, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01808 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.01808"/>
+    <category term="Management Science"/>
+    <published>2025-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/joms.13249</id>
-    <title>A Theory of Leadership Meta‐Talk and the Talking‐Doing Gap</title>
-    <updated>2025-06-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2024.04352</id>
+    <title>Volatility During the COVID-19 Pandemic</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Thomas Fischer, Mats Alvesson</name>
+      <name>Tony Berrada, Jerome Detemple, Marcel Rindisbacher</name>
     </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;We identify managers' meta‐level talk about the positive purpose, meaning, and significance of their actions as an overlooked type of leadership behaviour and call it leadership meta‐talk. We outline why leadership meta‐talk is not necessarily truthful or deceptive, but selective and loosely coupled with leadership practice. We discuss varieties of leadership meta‐talk, namely aspirational, sub‐texting, and sensemaking meta‐talk, as well as principled, situational, formulaic, and casual meta‐talk. We show how all varieties of leadership meta‐talk draw people's attention to positive aspects of leadership practice and provide positive interpretations of it. Thus, leadership meta‐talk can positively influence attributions of leadership and portray workplaces as overly harmonious and well‐ordered, masking power imbalances and tensions and creating a quantitative and qualitative talking‐doing gap. We argue that these talking‐doing gaps are systemic rather than pathological features of the contemporary workplace because overly positive leadership meta‐talk responds to systemic pressures and opportunities for managers and provides egocentric, psycho‐relational, and public‐image benefits. In contrast, leadership practice that lives up to leadership meta‐talk is more costly, difficult, and time‐consuming than commonly assumed. Our theory reconciles attributional, behavioural, and romancing views of leadership, and offers new insights into key organizational and societal challenges, including managing healthy workplace expectations.</content>
-    <link href="https://doi.org/10.1111/joms.13249"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the impact of COVID-19 on market volatility in an equilibrium framework. The model combines beliefs-dependent preferences for economic dynamics and a stochastic Susceptible-Exposed-Infectious-Recovered-Deceased (SEIRD) model with unpredictable birth/vaccine events and mitigating policies for disease propagation. The estimated model explains the realized trajectories of the S&amp;P 500 volatility and number of new cases and identifies the source and composition of the volatility spike while providing a good match for 25 unconditional moments of economic series. Beliefs dependence, in conjunction with real effects due to the short-term decline of the effective workforce early in the pandemic, is critical for this comprehensive explanation of short- and long-run properties. A model comparison study is performed. Out-of-sample volatility prediction exercises document that the good in-sample model fit for volatility and cases is not due to over-parametrization. The effects of alternative mitigation policies such as changes in contamination rate, shelter-in-place duration, and shelter-in-place compliance rate are examined. They document the tradeoff in number of cases and stock volatility during the pandemic, and the dominant role of unemployment news volatility.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04352 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04352"/>
+    <category term="Management Science"/>
+    <published>2025-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13257</id>
+    <title>Financial/Social Trade‐Offs in Dual‐Purpose Companies</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Fengbin Wang, Changwei Guo, Jianxun Chen, Sunny Li Sun</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Dual‐purpose companies (DPCs) encounter numerous financial and social trade‐offs in their operations. However, existing research has not fully explored the heterogeneity and antecedents of these trade‐offs. To bridge this gap, we first distinguish between scenarios in which trade‐offs are mitigated or intensified, and then categorize the intensification into two directions: social dominance and financial dominance. We hypothesize that unique combinations of governance arrangements and organizational capabilities result in different trade‐off scenarios. To test our hypothesis, we conducted a fsQCA of 46 subsidiaries within a Chinese state‐owned enterprise group. We identify three patterns that mitigate trade‐offs and three patterns that intensify them. The findings highlight the complex interplay between governance mechanisms and organizational capabilities related to different trade‐off scenarios, and the diverse pathways towards trade‐off mitigation, and the causal asymmetry between patterns of different trade‐off scenarios. Overall, this study advances our understanding of the heterogeneity of financial/social trade‐offs in DPCs.</content>
+    <link href="https://doi.org/10.1111/joms.13257"/>
     <category term="Journal of Management Studies"/>
-    <published>2025-06-03T00:00:00+00:00</published>
+    <published>2025-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/hrm.22312</id>
-    <title>Support for Sustainable Development Goal 5 and Social Performance: The Role of Diversity Targets, Work‐Life Balance Practices, and Female Representation</title>
-    <updated>2025-06-03T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/1475-679x.12624</id>
+    <title>ESG Rating Competition and Rating Quality</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
     <author>
-      <name>M. Fernanda Garcia, Hua Fang Liu, María del Carmen Triana, Len J. Treviño</name>
+      <name>CAI CHEN, SVENJA DUBE, SHIRAN FROYMOVICH</name>
     </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Human resource management (HRM) scholarship has neither fully engaged with the United Nation's sustainable development goal 5 (SDG 5—gender equality) nor deepened knowledge of the human resource practices that most likely contribute to the implementation of this goal. We address this gap by investigating the link between SDG 5 and multinational enterprises' (MNEs) social performance. We posit that attention to SDG 5 will facilitate MNEs' capacity to formulate and implement practices to increase gender equality in work settings. Drawing from the sustainable HRM framework and social role theory, we develop three hypotheses related to the role of diversity targets and work‐life balance practices as mediators of the relationship between support for SDG 5 and MNEs' social performance. We also posit that women's representation across the organizational structure strengthens the relationship between support for SDG 5 and diversity targets as well as work‐life balance practices. We tested these relationships with 418 MNEs in the S&amp;P 500. We found that diversity targets and work‐life balance practices (i.e., flexible arrangements and daycare services) mediate the relationship between support for SDG 5 and social performance. In addition, the interaction between women's representation and support for SDG 5 enhances diversity targets and flexible arrangements. We theoretically contribute to the sustainable HRM literature by (a) revealing the reasons for a spillover effect of support for gender equality to other demographic groups; (b) explaining broader societal impacts of support for SDG 5 on the workforce, community, human rights, and product responsibility. To successfully integrate SDG 5, MNEs must weave diversity targets and work‐life balance practices into strategic planning.</content>
-    <link href="https://doi.org/10.1002/hrm.22312"/>
-    <category term="Human Resource Management"/>
-    <published>2025-06-03T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;This paper examines how increased competition among environmental, social, and governance (ESG) rating agencies relates to ESG rating quality. We exploit the entry of Sustainalytics as a new ESG rating agency in 2010. We conduct a difference‐in‐differences analysis and provide three main findings. First, we find that higher competition decreases incumbents' ESG rating disagreements of the same scope. The negative relation between competition and ESG rating disagreement persists for same‐scope rating metrics not covered by Sustainalytics, suggesting that neither learning nor herding drive the results. The relationship between competition and rating disagreement strengthens for firms with more ESG disclosures, which generally require more effort to analyze. Second, we find that incumbents' ratings of ESG concerns are more strongly associated with future negative ESG news for firms additionally covered by Sustainalytics. This finding is consistent with competition improving ratings' ability to predict future negative ESG incidents. Third, we find that incumbents evaluate more difficult‐to‐measure outcome metrics for firms covered by Sustainalytics, consistent with competition inducing more effort. Overall, our findings suggest that competition serves as an implicit disciplining mechanism of ESG rating agencies' quality.</content>
+    <link href="https://doi.org/10.1111/1475-679x.12624"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2021.0575</id>
+    <title>Data Donations for Digital Contact Tracing: Short- and Long-Term Effects of Monetary Incentives</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Victoria Fast, Daniel Schnurr</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Practice- and Policy-Oriented AbstractData donations promise to unlock the social benefits of personal data. Recently, contact-tracing apps were developed to collect data from individuals to fight the COVID-19 pandemic. Because the success of these apps depends on widespread adoption and continuous data collection, we evaluate the effectiveness of monetary incentive mechanisms at promoting verified installations of the German Corona-Warn-App and short- and long-term data donations. We find monetary incentives are effective in the short term: They significantly increase app installations and short-term data donations, tripling the number of data donors after 14 days compared to no compensation. However, the positive stimulus of monetary incentives vanishes in the long term: After eight months, installers in treatments with monetary incentives are significantly more likely to have stopped donating data than intrinsically motivated installers who did not receive monetary incentives, as a consequence of experienced opportunity costs and a lack of perceived benefits. Consequently, long-term data donation rates are not significantly higher in treatments with monetary incentives. This suggests one-time payments are ineffective at promoting long-term data donations, as the short-term crowding-in of less intrinsically motivated installers is difficult to sustain when passive app usage limits opportunities for habit formation and convincing users of contact-tracing benefits.</content>
+    <link href="https://doi.org/10.1287/isre.2021.0575"/>
+    <category term="Information Systems Research"/>
+    <published>2025-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0568</id>
+    <title>To Split or to Merge? How Partitioning Affects Consumption and Engagement with Digital Content</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Heeseung Andrew Lee, Angela Aerry Choi, Wonseok Oh, Tianshu Sun</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study reveals how partitioning serialized e-books into many short episodes (small partitioning (SP)) or fewer but lengthier segments (large partitioning (LP)) shapes reading behavior and economic outcomes. Using actual consumption data, we find that SP fosters higher total word consumption but can reduce overall progression through a title. Conversely, LP boosts completion rates, encourages deeper engagement through annotations and reviews, and spurs subsequent purchases. These positive effects are stronger when a book is popular or high in quality. Our results challenge the conventional view that shorter episodes automatically increase user attention, highlighting the need for a tailored approach. Stakeholders can implement LP for well-regarded or lengthy titles to maximize reader satisfaction and stimulate both reviews and further sales. Smaller partitions, however, might be beneficial for shorter works under a pay-per-word scheme or for certain audience preferences. By aligning partitioning strategies with content characteristics, publishers and platform owners can maintain robust consumer engagement, manage possible drawbacks of segmentation, and support sustainable growth. This research provides clear, actionable insights for digital publishing professionals seeking to optimize user experiences and drive profitability. These findings also encourage further inquiry into how partitioning strategies interact with rapidly evolving consumer preferences and reading technologies.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0568"/>
+    <category term="Information Systems Research"/>
+    <published>2025-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1071</id>
+    <title>Short-Form Videos and Mental Health: A Knowledge-Guided Neural Topic Model</title>
+    <updated>2025-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Jiaheng Xie, Yidong Chai, Ruicheng Liang, Yang Liu, Daniel Dajun Zeng</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Short-form video platforms such as TikTok and Douyin are widely used but have sparked serious concerns about their impact on youth mental health, especially suicidal thoughts. This study introduces a novel knowledge-guided neural topic model that predicts a video’s potential to induce suicidal thoughts in viewers at the time of upload. Unlike existing models, our approach integrates medical knowledge on suicide risk factors with user-generated content to improve prediction accuracy and explainability. Tested on real-world data from two major platforms, the model not only outperforms current machine learning and deep learning benchmarks but also uncovers emerging content themes linked to suicidal thought risk. For practice, this tool can be directly integrated into platforms’ content moderation pipelines, identifying high-risk videos for follow-up human review before harm spreads. For policy, it offers a scalable and ethically informed method to mitigate digital risks to youth mental health, balancing user safety with content creator rights. This work offers a critical step forward in responsible AI and public mental health protection in the era of algorithm-driven media.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1071"/>
+    <category term="Information Systems Research"/>
+    <published>2025-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.3727</id>
