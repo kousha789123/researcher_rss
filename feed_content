@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-06-24T13:42:49.375095+00:00</updated>
+  <updated>2025-06-26T13:40:06.719869+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -116,12 +116,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdaf044</id>
-    <title>Surviving Childhood: Effects of Removing a Child from Home</title>
+    <title>Surviving Childhood: Effects of Removing a Child From Home</title>
     <updated>2025-06-11T00:00:00+00:00</updated>
     <author>
       <name>Ronja Helénsdotter</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This paper studies the effects of the court-ordered removal of children from home on health, crime, and education. To isolate causal effects, I exploit quasi-random variation in judge assignment together with across-judge variation in the tendency to favor removal in an instrumental variable (IV) design. Using a novel data set (N=26,579) based on Swedish court documents that I transcribe and link with detailed register data, I find that court-ordered out-of-home placement has large adverse effects on the mortality of the marginal child. These effects are primarily driven by suicides that occur while the removed child is still placed in out-of-home care. Removal also causes an increase in hospitalizations for mental illness and non-narcotic crimes. There is little evidence of adverse health effects for birth parents. I explore potential explanations for the detrimental effects on child health. Adverse care conditions and peer exposure appear to be important channels.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This paper studies the effects of the court-ordered removal of children from home on health, crime, and education. To isolate causal effects, I exploit quasi-random variation in judge assignment together with across-judge variation in the tendency to favour removal in an instrumental variable design. Using a novel data set (N=26,579) based on Swedish court documents that I transcribe and link with detailed register data, I find that court-ordered out-of-home placement has large adverse effects on the mortality of the marginal child. These effects are primarily driven by suicides that occur while the removed child is still placed in out-of-home care. Removal also causes an increase in hospitalizations for mental illness and non-narcotic crimes. There is little evidence of adverse health effects for birth parents. I explore potential explanations for the detrimental effects on child health. Adverse care conditions and peer exposure appear to be important channels.</content>
     <link href="https://doi.org/10.1093/restud/rdaf044"/>
     <category term="Review of Economic Studies"/>
     <published>2025-06-11T00:00:00+00:00</published>
@@ -801,148 +801,232 @@
     <published>2025-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/smj.3727</id>
-    <title>How founders' values enable business model innovation in new ventures: The case of Magnum Photos</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2023.01951</id>
+    <title>The Asymmetric Effects of Posting an Online Review on Future Spending and the Dark Side of Solicitations</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
     <author>
-      <name>Anastasia Sergeeva, Christoph Zott</name>
+      <name>Hülya Karaman</name>
     </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;This study explores why and how founders' values lead them to design novel business models. To address these questions, we conducted a historical case study of Magnum Photos, a photo agency whose novel business model revolutionized magazine photography in the mid‐20th century. Our abductive analysis reveals that personal values can be a principal driving force for business model innovation (BMI). Actors who believe that their personal values are difficult to reconcile with existing business models engage in BMI to retain control over activities that are perceived to be central to their values. Our findings highlight values as an important and hitherto under‐studied antecedent of BMI and of entrepreneurial innovation and strategy more generally.Managerial SummaryWhat drives business model innovation in startups? Our study finds that personal values can be a powerful force. Through an in‐depth historical analysis of Magnum Photos, a pioneering photo agency, we reveal how its founders' commitment to creative freedom and integrity led them to reject conventional business models and design an entirely new one. Unlike traditional agencies, Magnum's founders saw certain activities—such as taking, editing, and distributing photographs—as inseparable. This led them to create a cooperative model where photographers retained full control over their work. The new business model not only protected their values but also reshaped the photojournalism industry. This study highlights an overlooked driver of innovation: when personal values clash with existing models, entrepreneurs may be compelled to create new ones.</content>
-    <link href="https://doi.org/10.1002/smj.3727"/>
-    <category term="Strategic Management Journal"/>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251350853</id>
-    <title>EXPRESS: Intra-Category Multi-Choice Preferences Learning and Assortment Recommendation in E-Commerce</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
-    <author>
-      <name>Hongyuan Lin, Xiaobo Li, Lixia Wu</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper proposes a framework for learning customer preferences and optimizing e-commerce assortments, focusing on intra-category multi-choice behavior, where customers buy multiple items within the same category. Unlike traditional discrete choice models (DCMs) that assume single-product purchases, e-commerce data show frequent intra-category multi-product purchases, especially during promotions. To capture this, we introduce the multi-choice rank list model (MC-RLM), which accounts for both multi-choice and substitution effects. Each customer type is defined by a preference ranking and an intended purchase quantity (IPQ), allowing selection of up to IPQ products. The MC-RLM adheres to the regularity axiom and aligns with random utility theory.We present the multi-choice market discovery (MCMD) algorithm to estimate the MC-RLM, extending single-purchase methods to multi-purchase settings. We also introduce behavior-reveal-preference (BRP) rules, using customer behavior data (e.g., clicks, cart additions) to enhance preference estimation. Given the NP-hardness of the assortment optimization problem, we analyze the performance of the revenue-ordered assortments heuristic and provide guarantees. The problem is formulated as a mixed-integer linear program (MILP) that can generate personalized recommendations based on real-time customer data. Extensive numerical experiments, including a case study using Tmall data, demonstrate that the MC-RLM outperforms models such as the Independent Choice Model (ICM) and the Multi-Purchase Multinomial Logit (MP-MNL) in predictive accuracy, with BRP rules further enhancing performance. Synthetic experiments confirm that accurately modeling multi-purchase behavior significantly boosts expected revenue.</content>
-    <link href="https://doi.org/10.1177/10591478251350853"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02483</id>
-    <title>Competition Avoidance vs. Herding in Job Search: Evidence from Large-Scale Field Experiments on an Online Job Board</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
-    <author>
-      <name>Andrey Fradkin, Monica Bhole, John J. Horton</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Information about the number of applicants to a job vacancy might simultaneously signal the degree of competition and vacancy quality. We study how this information affects job search. To do so, we conduct three experiments on a large online job platform in which the treatment varies what information is shown to job seekers. Information about the number of prior applicants to a vacancy increases the number of applications and redirects them to vacancies with few prior applications. Information about vacancy age increases application rates, especially to new vacancies. To further investigate the causal mechanisms, we conduct and analyze a survey choice experiment. We conclude that job seekers prefer to avoid competition rather than use the popularity of a vacancy as a signal of quality.This paper was accepted by Karan Girotra, operations management.Funding: This research was facilitated through a research consulting agreement between A. Fradkin, J. J. Horton, and Meta. A. Fradkin and J. J Horton were employed as contractors as part of the agreement.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02483 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02483"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Motivated by the prevalence of online review creation and solicitation, this paper examines whether posting an online review impacts the reviewer’s future spending on the reviewed brand. Identifying the causal effects of posting an online review is challenging because reviewers self-select into posting, making it an endogenous decision. I overcome this challenge by using randomized online review solicitations as an instrument for the endogenous treatment variable of posting an online review and establish that doing so decreases the average future spending by the reviewers on the reviewed brand. Additionally, I show that soliciting customers to post increases their propensity to write a review and thus in turn reduces their average future spending on the solicited brand. From a managerial standpoint, this finding suggests that online review solicitations can backfire, decreasing the average future spending by solicited customers. I therefore investigate whether the impact of posting (and hence soliciting) is heterogeneous with respect to customer satisfaction and loyalty. At the highest satisfaction level, posting does not change future spending regardless of customer loyalty. However, posting has a detrimental impact on future spending by dissatisfied reviewers. These adverse effects of posting emerge in the most loyal customers as soon as their satisfaction deviates from a perfect score (despite writing a positive review) and carry over to their future spending, even on nonreviewed brands of the company. Based on my findings, I present a set of guidelines for managers to follow when soliciting online reviews and responding to reviewers.This paper was accepted by Duncan Simester, marketing.Funding: This work was supported by the Singapore Ministry of Education Academic Research Fund Tier 1 grant [Grant C207MSS20B006].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01951 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01951"/>
     <category term="Management Science"/>
-    <published>2025-06-04T00:00:00+00:00</published>
+    <published>2025-06-24T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/00222437251350150</id>
-    <title>EXPRESS: How Fatal School Shootings Impact a Community’s Consumption</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2023.0078</id>
+    <title>Toward Sustainable Electricity Markets: Capacity-Based Pricing for Electric Vehicle Smart Charging</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
     <author>
-      <name>Muzeeb Shaik, John P. Costello, Mike Palazzolo, Adithya Pattabhiramaiah, Shrihari Sridhar</name>
+      <name>Konstantina Valogianni, Wolfgang Ketter, John Collins, Gediminas Adomavicius</name>
     </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;School shootings are a disturbingly regular occurrence in the US. While their direct impact on those involved are well-researched, their broader effects on communities are less understood. We focus on the under-researched question of how such traumatic incidents affect community consumption. Using data from various sources, we find that fatal school shootings decrease grocery purchases by 2.09% in affected communities, lasting up to 6 months. This economic impact is felt more in liberal than conservative-leaning counties. Additionally, extended analysis reveals that these incidents reduce spending at food services and drinking places by 8% and at food and beverage stores by 3%. Three experimental studies provide evidence that this decrease is driven by heightened anxiety around consumption in public spaces, particularly for political liberals. Our work suggests the violence has far-reaching consequences, harming the local economy. The decline in spending highlights the need for community leaders to develop supportive community responses to such horrific incidents, in addition to the resources currently offered to the victims and their families.</content>
-    <link href="https://doi.org/10.1177/00222437251350150"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429251350657</id>
-    <title>EXPRESS: The Impact of Ad Length on Ad Effectiveness: Do Micro Ads Work?</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
-    <author>
-      <name>Beth L. Fossen, Philip Kim, Inyoung Chae</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;As media viewers shift expectations toward content and ads, advertisers are increasingly exploring micro ads. Yet, limited research has examined micro ads, especially on TV. This research uses a multimethod approach to investigate micro ad effectiveness on behavioral outcomes and, more broadly, provide insights into the relationship between ad length and ad effectiveness in the current media landscape. Analyzing observational data on retailers’ TV advertising, web traffic, and online sales, the authors find that micro ads spur more immediate web traffic than longer ads. Micro and non-micro ads exhibit similar direct impacts on online sales, but micro ads can indirectly increase online sales more by driving increased traffic. Results from a field experiment using social media ads corroborate these findings, showing that micro ads outperform non-micro ads in driving web traffic and social media engagement. The analyses suggest that viewer impatience for longer ads may be a plausible mechanism that explains why micro ads see increased effectiveness. The findings offer timely insights for advertisers and ad platforms seeking economical, attractive ad inventory.</content>
-    <link href="https://doi.org/10.1177/00222429251350657"/>
-    <category term="Journal of Marketing"/>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.13250</id>
-    <title>The Persistence or Diminishment of Employee Stewardship Behaviour: Exploring the Crucial Roles of Supervisors' Cultural Orientation, Admiration, and Status Conferral</title>
-    <updated>2025-06-04T00:00:00+00:00</updated>
-    <author>
-      <name>Yongjun Kang, Qi Nie, Jian Peng</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Scholars and practitioners have long sought to clarify ways to motivate employees to engage in stewardship behaviour, which involves personal sacrifices for the public interest. However, a critical question remains unanswered: How does a supervisor's cultural orientation, admiration, and status conferral determine the persistence or diminishment of employees' stewardship behaviour? Drawing on the moral virtue theory of status attainment, we argue that employees' stewardship behaviour either promotes or diminishes subsequent actions through increased or decreased admiration and status conferral from supervisors, depending on supervisors' cultural orientations. Study 1, a vignette‐based experiment involving 222 participants, revealed that supervisors with a collectivist orientation tend to admire and grant status to employees who exhibit stewardship behaviour, whereas those with an individualist orientation tend to decrease such feedback. Study 2, a four‐wave survey with 302 leader–employee dyads, replicated these findings and further explained the role of status conferral in sustaining or diminishing stewardship behaviour in the future. This research advances stewardship theory by revealing the complex dynamics that sustain stewardship behaviour and provides valuable insights for managers aiming to motivate employees to consistently engage in stewardship behaviour.</content>
-    <link href="https://doi.org/10.1111/joms.13250"/>
-    <category term="Journal of Management Studies"/>
-    <published>2025-06-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2021.0374</id>
-    <title>Consumer Response to Monetary Subsidies: A Structural Demand Analysis of the Supplemental Nutrition Assistance Program</title>
-    <updated>2025-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Rudolf-Harri Oberg, Andrés Musalem</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;We study how consumers would respond to alternative designs of the supplemental nutrition assistance program (SNAP) with different spending restrictions.</content>
-    <link href="https://doi.org/10.1287/mksc.2021.0374"/>
-    <category term="Marketing Science"/>
-    <published>2025-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01955</id>
-    <title>Frequent Reporting and Short-Termism: An Experimental Investigation</title>
-    <updated>2025-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Douglas Davis, Caleb Cox, Oleg Korenok, John Lightle</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Financial market regulators have long debated the appropriate frequency of mandatory corporate financial disclosures. Whereas frequent disclosures may help deter overinvestment, they may also encourage short-termism. This paper reports an experiment that examines the effects of varying reporting frequencies on managerial investment decisions. Experimental results indicate that frequent reporting modestly induces short-termism, but it fails to reduce the overinvestment observed in the infrequent reporting regime. Nonbinding communication of intended investment plans does reduce overinvestment, but only in the infrequent reporting regime.This paper was accepted by Ranjani Krishnan, accounting.Funding: This work was supported by the National Science Foundation [Grant SES 1949112].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01955 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01955"/>
-    <category term="Management Science"/>
-    <published>2025-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05720</id>
-    <title>The Consequences of Narrow Framing for Risk Taking: A Stress Test of Myopic Loss Aversion</title>
-    <updated>2025-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Rene Schwaiger, Markus Strucks, Stefan Zeisberger</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Narrow bracketing in combination with loss aversion has been shown to reduce individual risk taking. This is known as myopic loss aversion (MLA) and has been corroborated by many studies. Recent evidence has contested this notion, indicating that MLA’s applicability is confined to highly artificial settings. Given the impact of these findings, we reevaluated the evidence on MLA with substantially higher statistical power than in almost all previous studies. We systematically modified the seminal study design by Gneezy and Potters [Gneezy U, Potters J (1997) An experiment on risk taking and evaluation periods. Quart. J. Econom. 112(2):631–645] to include five key adjustments. These involved downscaled returns, return compounding, and extended investment horizons. Our results, which are highly robust to analytical heterogeneity, consistently document the presence of MLA across all experimental conditions.This paper was accepted by John Beshears, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05720 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05720"/>
-    <category term="Management Science"/>
-    <published>2025-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1057/s41267-025-00788-w</id>
-    <title>Venture capital funding in Africa: a mixed-methods study of evolving ecosystems and financial discrimination</title>
-    <updated>2025-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Christian Kabengele, Rüdiger Hahn</name>
-    </author>
-    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Africa’s startup ecosystem is growing rapidly, yet venture capital (VC) funding remains disproportionately allocated to non-African founders. This study investigates the factors driving this disparity, focusing on institutional voids – gaps in legal frameworks, financial infrastructure, and market-supporting institutions – and investors’ perceptions of risk and financial discrimination. We conducted 37 interviews with investors and entrepreneurs to identify the determinants of VC funding, including startup location, founder origin, and international networks. Additionally, a qualitative comparative analysis of 335 African fintech startups revealed the factor configurations that enable startups to secure high levels of VC investment. Historically, the findings reveal that non-African founders have benefited from investor homophily, a preference for investing in individuals with similar backgrounds, to mitigate the perceived risks related to institutional voids. By contrast, African founders faced greater barriers to funding. However, as Africa’s VC ecosystem has matured, local founders have begun to overcome these obstacles. By linking institutional voids to homophily and embedding a postcolonial perspective, acknowledging how historical power dynamics and colonial legacies shape investor perceptions and market structures, this study sheds light on the systemic biases that shape VC funding. These findings offer actionable insights for investors, policymakers, and entrepreneurs aiming to foster a more inclusive VC landscape.</content>
-    <link href="https://doi.org/10.1057/s41267-025-00788-w"/>
-    <category term="Journal of International Business Studies"/>
-    <published>2025-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1057/s41267-025-00786-y</id>
-    <title>Success and failure in family firm internationalization: The case of Rothschild</title>
-    <updated>2025-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Liena Kano, Luciano Ciravegna, Andrew Johnston, Alain Verbeke</name>
-    </author>
-    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;In this study, we examine over 100 years of Rothschild’s international activity: we analyze this multinational enterprise’s (MNE’s) cross-border transfer of family-derived firm-specific advantages (FSAs) and the challenges of recombination thereof with novel resources. Family-derived FSAs hinge on the resources and features of the owning and controlling family. During the period of Rothschild’s international success in 19th-century Europe, the family itself served as a recombination mechanism for linking family-derived FSAs with complementary resources across borders. However, deploying family-derived FSAs in the American market and recombining these with nonfamily resources was hindered by bifurcation bias (a dysfunctional, affect-based heuristic characterizing family firms). We trace the manifestations of bifurcation bias over time and investigate its multifaceted impact on Rothschild’s internationalization. We suggest that effective resource recombination in host markets can be constrained by atwo-stage authenticationprocess. Here, the bifurcation bias in a first stage can influence which complementary resources in foreign markets will be accessed and how these will be integrated inside the firm. In a second stage, bifurcation bias can affect the functioning of the very actors supposed to be linking the complementary resources to be utilized and the extant, family-derived FSAs.</content>
-    <link href="https://doi.org/10.1057/s41267-025-00786-y"/>
-    <category term="Journal of International Business Studies"/>
-    <published>2025-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2023.0343</id>
-    <title>Sparking Innovation: The Effect of Inventor Gender Diversity on Recombinant Innovation</title>
-    <updated>2025-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Naveenkumar Ramaraju, Shagun Pant, Gautam Pant</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study examines how inventor gender diversity influences firm innovation, particularly recombinant intensity that signifies the firm’s capacity to combine distant knowledge domains into new solutions. Using 23 years of U.S. patent data (1.8 million patents, 4,769 firms) and a novel text-based recombination measure (SPaRK), the study finds that a higher share of female inventors increases firms’ recombinant innovation intensity, patent output, citations, and innovation efficiency. Moreover, inventor gender diversity enhances the innovation productivity of female inventors. Cross-gender collaboration emerges as the key mechanism for these gains, enabling firms to unlock the “diversity bonus,” especially for recombinant intensity. Interestingly, the diversity bonus is not homogenous and depends on how central females are within the firm’s knowledge network. Greater gender diversity also translates into better financial outcomes for firms, indicating that the innovation gains outweigh the costs of diversity. For managers, the study suggests not only hiring and retaining a gender-diverse inventor workforce, but also facilitating cross-gender collaborative environments to activate recombinant intensity and other innovation gains, especially at firms where female inventors are not central. For policymakers, the study provides support for expanding female STEM higher education pipelines to enhance the supply of female inventors and ultimately spark corporate innovation.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0343"/>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As electric vehicles (EVs) become more widespread, cities face the growing challenge of managing charging demand without overloading the grid. This study presents a novel information systems (IS) solution that supports smart and sustainable EV integration. The authors develop a capacity-based pricing model that adjusts in real time based on charging rates and grid capacity. Unlike many existing approaches, it avoids “avalanche effects” where synchronized charging behavior creates new demand peaks. The presented solution is also computationally efficient, making it practical for real-world use. Evaluated through simulations based on realistic urban scenarios, the model reduces demand volatility, aligns EV charging with renewable energy availability, and maintains overall charging costs for users. This work offers policy makers and energy providers a concrete tool to balance environmental goals with energy system reliability. For urban mobility planners, it provides a scalable, adaptive method to support the transition to cleaner urban mobility.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0078"/>
     <category term="Information Systems Research"/>
-    <published>2025-06-05T00:00:00+00:00</published>
+    <published>2025-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.22320</id>
+    <title>Family Demands Diversity, Team Work–Family Conflict, and Team Effort: A Moderated Mediation Model</title>
+    <updated>2025-06-24T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew Li, Jason L. Huang, Sherry M. B. Thatcher, Ping Shao, Xiaoling Sun, Baoguo Xie, Xin'an Zhang</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Most research on family demands has been conducted at the individual level, showing that they can negatively influence employees' abilities to manage the work‐family interface. We challenge this existing paradigm by arguing that at the team level, family demands diversity (i.e., differences among members of the same team with respect to their family demands) can enable the entire team to better manage the work‐family interface. Drawing on the categorization‐elaboration model and social exchange theory, we found that family demands diversity was indirectly and positively related to team effort through team backup behavior and team work‐to‐family conflict, and these effects were stronger when team family identity was low and supervisor family support was high. We discuss the theoretical implications of our findings and the practical implications for HR policies and practices.</content>
+    <link href="https://doi.org/10.1002/hrm.22320"/>
+    <category term="Human Resource Management"/>
+    <published>2025-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251356474</id>
+    <title>EXPRESS: Advance Multi-Priority, Multi-Appointment Patient Scheduling with Dependent Demand and Lead Times</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Shahryar Moradi, Antoine Sauré, Jonathan Patrick</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study examines a patient scheduling problem with multiple appointment types and priority levels, where certain appointments must precede others and lead times play a crucial role. Although both factors significantly influence the quality of care—particularly when specialist assessments depend on timely diagnostic tests—they have been largely overlooked in existing healthcare scheduling models. To address this gap, we propose a dynamic scheduling model that explicitly incorporates appointment dependencies, lead times, and patient heterogeneity across multiple priority levels. The model reflects the real-world complexities of coordinating diagnostic and consult appointments in time-sensitive clinical settings. Using Approximate Dynamic Programming (ADP) techniques, we develop an Approximate Optimal Policy (AOP) that efficiently allocates clinical resources, minimizes patient wait times, and ensures the availability of test results prior to consult appointments.We further derive a closed-form solution for the optimal approximation parameters, supported by a mathematical proof, which offers significant computational advantages. We evaluate the performance of the proposed AOP through simulation and compare it against a set of benchmark policies, including heuristics adapted from existing scheduling logic and current clinical practice. The solution is applied to a case study created based on data from a Stroke Prevention Clinic (SPC), where the complexity of care protocols and high demand present substantial scheduling challenges. The results demonstrate that the AOP consistently outperforms all benchmarks in terms of reducing wait times, ensuring timely diagnostic completion before consults, and meeting wait-time targets. We also introduce a practical, easy-to-implement heuristic called (MSP), which is derived from the AOP and designed for operational use. While simpler in structure, MSP performs comparably well and is well-suited for adoption in real healthcare settings due to its interpretability and minimal computational requirements. Finally, although the proposed approach is demonstrated in the context of an SPC, it has broader applicability to other areas such as cancer care, kidney transplant scheduling, and other complex care pathways involving interdependent appointments and prioritization.</content>
+    <link href="https://doi.org/10.1177/10591478251356474"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251356940</id>
+    <title>EXPRESS: Improving the Spatial Fairness of Spatiotemporal Sequence Forecasting Service Systems</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Gang Xue, Long Ren, Xiaojie Yan, Ziruo Cui, Daqing Gong, Jian Chen</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Spatial unfairness in spatiotemporal forecasting tasks can lead to critical issues, e.g., inefficient resource allocation during pandemics or air pollution crises, exacerbating the spread of diseases or increasing exposure to pollution. The existing fair forecasting methods often struggle with spatiotemporal data that lack clear sensitive attributes and exhibit dynamic complexity. A pseudogrouping adversarial machine learning method that combines a spatiotemporal clustering-based pseudogrouping generator with an auxiliary classifier-based adversarial learning framework is proposed in this paper. The proposed pseudogrouping strategy identifies and labels hidden sensitive attributes, enabling fair forecasting models to effectively handle explicit sensitive attributes. Moreover, the existing adversarial learning methods are enhanced in this paper to accommodate the complex dynamics between the features and sensitive attributes contained in the input data. The proposed model is evaluated on three real-world datasets (pandemic, PM2.5, and traffic flow data) and is benchmarked against five existing models using three fairness metrics and three accuracy metrics. The experimental results show that the proposed model significantly outperforms the existing fairness-focused models in terms of accuracy while maintaining fairness, and it markedly improves upon the fairness of accuracy-focused models without sacrificing accuracy. Furthermore, we examine the impact of a fairer forecasting model on the resource allocation process conducted during a pandemic by employing two types of fair resource allocation models. The numerical results derived from the mean–deviation tradeoff model show that using the forecasts obtained from our model can enhance both the efficiency and fairness of allocations when fairness is prioritized during decision-making. When efficiency is prioritized, the forecasting procedure of the proposed model yields improved allocation efficiency, albeit at the cost of reduced fairness. Additionally, results obtained from the α-fairness model indicate that the proposed fair forecasting model consistently outperforms the benchmark across diverse resource allocation objectives, especially when prioritizing one of fairness or efficiency. The findings of this study provide crucial insights into the fairness of forecasting algorithms, illustrating how the introduction of a pseudogrouping strategy and an enhanced adversarial learning framework can significantly improve the fairness of predictive algorithms.</content>
+    <link href="https://doi.org/10.1177/10591478251356940"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251356753</id>
+    <title>EXPRESS: The Value of Flexibility in Robust Supply Chain Network Design</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Amin Ahmadi Digehsara, Amir Ardestani-Jaafari, Vahid Roshanaei, Shumail Mazahir</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;A supply chain network design problem (SCNDP) involves making long-term, irreversible strategic decisions whose cost efficiency depends on effectively leveraging flexibility and demand information. After analyzing the interaction of these factors, we propose five distinct policies for addressing the SCNDP. Starting with a localized production model where demand is satisfied locally, the study extends to scenarios where production capacity at one location serves other nodes (Policy II). Further flexibility is introduced by enabling capacity sharing among facilities with prearranged links (Policy III). Unlike these policies, which optimize capacities as proxies for production decisions prior to demand realization, Policies IV and V defer production decisions until demand is realized. The robustness and resilience of these policies are evaluated under varying levels of demand uncertainty and risks of supply disruptions. To provide actionable insights, we develop robust two-stage optimization frameworks for the proposed policies and design efficient methods to address varying uncertainty budgets for both supply and demand risks. Our results reveal that under demand uncertainty alone: (i) Capacity-sharing links among facilities yield the highest cost savings across all uncertainty budgets due to the pooling effect and significantly reduce shortage probability (Policy III), and (ii) Production postponement offers only marginal benefits, highlighting the greater importance of upstream capacity-sharing over postponing production, particularly for moderate uncertainty budgets. Under simultaneous demand and supply risks, we demonstrate that (iii) capacity-sharing retains its value, while flexibility from production postponement deteriorates performance, favoring partially flexible networks with only capacity-sharing links over fully flexible ones with both sources of flexibility. To contextualize these findings, we apply the most effective policies to a real-world case study, quantifying their impact and providing design recommendations. Finally, we extend our models to an event-wise ambiguity set and demonstrate that by (iv) leveraging the supermodular structure of the second-stage problems, one can solve instances up to eight times larger.</content>
+    <link href="https://doi.org/10.1177/10591478251356753"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/poms.13923</id>
+    <title>Water Stress: Opportunities for Supply Chain Research</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Dustin Cole, Sriram Narayanan, Elizabeth Connors, Meenu Tewari, Kyle Onda</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Driven by climate change and overuse, water stress is a worsening sustainability concern that threatens businesses and communities across the globe. Leading global organizations such as the United Nations have expressed an urgent need for sustainable water management strategies across nations and economies. Yet, the field of supply chain management does not have a substantial research stream related to water. A key challenge is the lack of a persuasive organizing framework within this setting. This study presents a systematic literature review of water stress from a supply chain perspective. Literature spanning over two decades across an array of journals is synthesized into an overarching framework that organizes topics related to water. Challenges firms face due to operational and contextual water risks are presented. Based on the proposed framework, research gaps for further exploration of the relationship between supply chains and water stress are suggested.</content>
+    <link href="https://doi.org/10.1111/poms.13923"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251356431</id>
+    <title>EXPRESS: Network Structures, Audit Policies and the Cost of Security Breaches</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Vashkar Ghosh, Anand Paul, Na Zhang, Lingjiong Zhu</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In the last decade and recently, a wide range of industries and organizations have been subject to IT-related security threats and cybersecurity breaches of varying degrees of severity at an alarming rate. A common practice adopted by organizations to ensure system and network security is to conduct regular audits and assessments. This paper takes on an organizational strategy perspective to analytically model the cost impact of random breaches in various types of networks subject to different types of audit policy. The analysis focuses on the interplay between the cost associated with a security breach on the one hand, and audit policy on the other. We develop a model for a non-stationary stochastic arrival process of security breaches and analyze the impact on mean and variance of total cost of different network configurations and audit policies. The generality of our modeling of the arrival process and the cost function permits a variety of attack and cost landscapes to be modeled and analyzed, with different breach intensities and costs (as functions of time) leading to different recommendations in terms of effective audit policy. Our analysis highlights the impact of intensity of security breach and cost of breach on the interaction between different network configurations and audit policies. One of our counter-intuitive findings is that under high security threat conditions a centralized network has a lower mean as well as a lower variance of total cost than a decentralized network, in case of cyclic and random audits; this analytically derived proposition is an interesting instance of adual risk-pooling effectthat goes beyond conventional risk-pooling. We extend our analysis to consider an asymmetric network and correlated breaches.</content>
+    <link href="https://doi.org/10.1177/10591478251356431"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0053</id>
+    <title>Alone, Together: A Model of Social (Mis)Learning from Consumer Reviews</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Tommaso Bondi</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This article presents a theoretical model of social (mis)learning from consumer reviews.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0053"/>
+    <category term="Marketing Science"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437251356478</id>
+    <title>EXPRESS: Online Venting: the Impact of Temporal Proximity Cues and Emotionality on Perceptions of Negative Online Review Value</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Lauren Grewal, Andrew T. Stephen, Yakov Bart</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Because negative reviews have the potential to dissuade consumers, brands necessarily worry about them. Prior literature generally supports the notion that negative information offers greater value to and influences consumers more powerfully, yet in specific circumstances, negative online reviews might be less helpful and influential. As the current research establishes, when negative reviews exhibit near (vs. far) temporal proximity cues, relative to a reviewed experience with a product or service,andsome degree of negative emotionality, consumers tend to discount them in their decision-making. Such outcomes seemingly arise because consumers identify a negative review that combines near temporal proximity (i.e., posted or written in a way that makes the experience feel temporally close) with negative emotionality as a form of “venting.” They then ascribe the information in the negative review to reviewer-related rather than to relevant product or service quality attributes. Consistent evidence for this venting discount effect emerges from analyses of actual hotel reviews from TripAdvisor, as well as multiple experimental studies, involving both products and services.</content>
+    <link href="https://doi.org/10.1177/00222437251356478"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251356992</id>
+    <title>EXPRESS: Using Expenditure Reframes to Increase Interest in Claiming Government Benefits</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Wendy De La Rosa, Jackie Silverman, Abigail B. Sussman, Gwen Rino, Vince Dorie, Maximilian Hell, Eric Giannella, Lisa Dillman</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Millions of eligible lower-income people do not apply for government benefits. Increasing interest in applying for these benefits is a crucial concern for marketers and economists, as the underutilization of benefits limits their effectiveness. This research proposes thatexpenditure reframes, descriptions translating monetary amounts into expense categories, can increase interest in government benefits. Expenditure reframes enhance a benefit’s psychological value, helping consumers better understand its impact on their financial lives. Evidence from a large-scale preregistered field experiment (N= 14,267) aimed at encouraging lower-income individuals to claim a tax credit demonstrates that expenditure reframe messages increased interest, increasing visits to the claiming website. A second preregistered large-scale field experiment among Medicaid recipients (N= 71,939) identifies a boundary condition for the effect of expenditure reframes on interest. A third preregistered large-scale field experiment replicates the efficacy of expenditure reframes (N= 36,081) and highlights how the expense type featured in the reframe moderates these effects. Results from three preregistered online experiments support these findings and further elucidate the impact of expenditure reframes on psychological value. This work underscores how marketers, practitioners, and policymakers shape perceptions of government benefits and illustrates key considerations for designing effective outreach campaigns targeting lower-income households.</content>
+    <link href="https://doi.org/10.1177/00222429251356992"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251356484</id>
+    <title>EXPRESS: A Meta-Analysis of Product Visual Aesthetics</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Chenming Peng, Martin Eisend, Zengxiang Chen</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Despite firms’ emphasis on product visual aesthetics (PVA) for competitive advantage, questions remain regarding which aesthetic properties enhance PVA the most, the strength of PVA’s effect on consumer responses, and moderating factors. To address these gaps, the authors conduct a meta-analysis of 727 effect sizes from 263 independent samples spanning 1993-2024. Findings reveal that both organizational and meaningful aesthetic properties positively impact PVA, with harmony being the strongest property. PVA positively influences both consumer attitudes and behaviors. The authors develop a comprehensive framework of moderators across five key groups: brand, product, communication, consumer, and environmental factors. The moderator analyses yield multiple important insights and (1) identify economic growth and consumption publicity as particularly influential; (2) recognize previously unexplored but relevant moderators (e.g., aesthetic object type, individualism, and income inequality); (3) clarify debated moderators (e.g., brand familiarity, product quality level, and gender); (4) reveal that certain moderator combinations can turn PVA effects negative. For instance, focusing on packaging aesthetics with utilitarian, private, non-durable, and low-quality products can turn the effect of PVA on attitudes negative; and (5) find an attitude-behavior gap in the moderating effects of PVA. The study provides new insights into the nuanced effects of PVA for effective application.</content>
+    <link href="https://doi.org/10.1177/00222429251356484"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251356993</id>
+    <title>EXPRESS: Picture Perfect: Engaging Customers with Visual Generative AI</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Mark Heitmann, Tijmen P. J. Jansen, Martin Reisenbichler, David A. Schweidel</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Generative artificial intelligence (AI) is poised to transform how brands communicate with consumers. Recent research demonstrates AI’s benefits in producing text, but marketing research has not yet explored how marketers can leverage AI to create visual advertising. Despite their impressive capabilities, “off the shelf” generative AI models are not aligned with marketing objectives, raising the question whether fine-tuning generative AI directly on conventional advertising objectives like evoking attention or driving interest is possible. In this research, we train an open-source generative AI model on marketing mindset metrics and show that the resulting visual content can match and even exceed conventionally produced advertising content in associated performance metrics. We also demonstrate that generative AI can be fine-tuned on multiple communication objectives simultaneously and adapted to specific audiences. In addition to highlighting generative AI’s potential in marketing, we probe the limitations of aligning visual generative AI with marketing objectives.</content>
+    <link href="https://doi.org/10.1177/00222429251356993"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13258</id>
+    <title>From ‘Dirty Boots’ to ‘Distant Friends’: How A Colombian Social Intermediary Integrates Communities through Entrepreneurship</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Andrea Caldwell Marquez, Emily Block, Kelly Rubey, Viva Ona Bartkus</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Through an abductive qualitative case study of a Colombian peacebuilding NGO, we explore how social intermediaries facilitate the integration of fragmented ex‐combatant and campesino communities. Our analysis reveals a three‐stage process by which the social intermediary simultaneously engages in enterprise‐focused and community‐focused activities to transform loosely connected ‘communities of circumstance’ into tightly integrated ‘communities of choice’. First, the intermediary uses ‘dirty boots’ to establish itself as a trusted,shared relationshipbetween communities. It then employs an ‘accompaniment’ approach to cultivateshared spaces,shared practices, andshared interestsamong community members engaging in collective entrepreneurial activities. Finally, it shifts to ‘distant friends’ as it encourages communities to embrace ashared futuretogether. By clarifying how intermediaries can use entrepreneurship as a force for community integration, particularly within necessity contexts of conflict and poverty, we contribute to research on social intermediaries, communities, and entrepreneurship as a tool to address grand challenges.</content>
+    <link href="https://doi.org/10.1111/joms.13258"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf040</id>
+    <title>AI Companions Reduce Loneliness</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Julian De Freitas, Zeliha Oğuz-Uğuralp, Ahmet Kaan Uğuralp, Stefano Puntoni</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Chatbots are now able to engage in sophisticated conversations with consumers in the domain of relationships, providing a potential coping solution to widescale societal loneliness. Behavioral research provides little insight into whether these applications are effective at alleviating loneliness. We address this question by focusing on “AI companions”: applications designed to provide consumers with synthetic interaction partners. Study 1 examines user reviews of AI companion apps and finds correlational evidence suggesting that these apps help alleviate loneliness. Study 2 finds that AI companions successfully alleviate loneliness on par only with interacting with another person, and more than other activities such as watching YouTube videos. Moreover, consumers underestimate the degree to which AI companions improve their loneliness. Study 3 uses a longitudinal design and finds that an AI companion consistently provides momentary reductions in loneliness after use over the course of a week. Study 4 provides evidence that both the chatbots’ performance and, especially, whether it makes users feel heard, explain reductions in loneliness. Study 5 provides an additional robustness check for the loneliness-alleviating benefits of AI companions and shows that self-disclosure and distraction alone do not explain AI companions’ effectiveness.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf040"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.12628</id>
+    <title>Use and Design of Peer Evaluations for Bonus Allocations</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>MANUEL GRIEDER, KARL SCHUHMACHER</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We conduct an experiment to investigate the use of peer evaluations for compensation purposes. Although organizations often rely on peer evaluations for incentive compensation, it is not well understood how peer feedback should be used and designed to ensure non‐distorted evaluations and motivate effort provision. We study peer evaluations in form of bonus allocation proposals, thereby enabling a quantifiable test of our hypothesis. We distinguish between discretionary use (i.e., allocation by the manager) and formulaic use (i.e., allocation by the team via the average) of self‐including and self‐excluding proposals. We find that, relative to self‐including proposals, self‐excluding proposals are less distorted, irrespective of use, but lead to more effort provision only under formulaic use. Under discretionary use, the benefits of self‐excluding proposals are offset, as managerial biases enter bonus allocations. In sum, our findings illustrate benefits of delegating bonus allocations to teams through formulaic use of self‐excluding peer evaluations and extend the understanding of how organizations can effectively incorporate peer evaluations into incentive compensation.</content>
+    <link href="https://doi.org/10.1111/1475-679x.12628"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587251347058</id>
+    <title>Network Agency in Entrepreneurship: A Synthesis and Outlook</title>
+    <updated>2025-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Kim Klyver, Yudi Hou, Elco van Burg, Tom Elfring</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Network agency matters in entrepreneurship. As purposeful agents, entrepreneurs actively interact with their surroundings. However, scholars only have limited and dispersed knowledge about the antecedents, mechanisms, and outcomes of entrepreneurs’ network agency. We performed an integrative review of network agency in entrepreneurship to provide a much-needed synthesis of the fragmented insights into this topic. By moving away from a deterministic approach in which social structures shape entrepreneurs’ destinies and toward an agentic approach in which social networks shape entrepreneurs while simultaneously being shaped, managed, and developed by them, we contribute to a refined understanding of social networks.</content>
+    <link href="https://doi.org/10.1177/10422587251347058"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2025-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1017/s0022109024000863</id>
+    <title>Predatory Lending and Hidden Risks</title>
+    <updated>2025-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Sumit Agarwal, Gene Amromin, Itzhak Ben-David, Douglas D. Evanoff</name>
+    </author>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We study a specific practice of predatory lending: Borrowers being rejected and approved in rapid succession by the same lender. We show that in such cases borrower and contract characteristics and ex post performance are consistent with predatory steering. Steered borrowers are associated with groups with lower financial sophistication. They are more likely to enter non-amortizing contracts with high profit margins that are quickly securitized. Steered borrowers default less in boom years when refinancing is easy. However, their performance deteriorates sharply once falling prices trap them in contracts with rising payments, reflecting the long-term costs of predatory lending.</content>
+    <link href="https://doi.org/10.1017/s0022109024000863"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2025-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587251347059</id>
+    <title>The Interdependence Between Donors and Investors: Liability of Hybridity, Entrepreneurial Ecosystem Affordances, and Venture Financing</title>
+    <updated>2025-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Brandon Ofem, Ikenna Uzuegbunam, Satish Nambisan</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study investigates how spatial and digital affordances within entrepreneurial ecosystems (EEs) enable early-stage hybrid ventures to overcome the liability of hybridity and to secure funding from both philanthropic and equity funding sources. Using a simultaneous equation model with a U.S.-based sample of 2,723 hybrid ventures, we demonstrate that philanthropic and equity funding exhibit a statistically and economically significant complementary relationship. We further find that accelerator participation weakens this complementary relationship, while social media utilization strengthens it. These findings highlight the mechanisms through which EE-based affordances enhance hybrid ventures’ ability to navigate competing institutional logics and attract diverse funding sources.</content>
+    <link href="https://doi.org/10.1177/10422587251347059"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2025-06-26T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdaf041</id>
@@ -1083,7 +1167,7 @@
     <author>
       <name>Claire Célérier, Purnoor Tak</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We study how bank advertising practices contribute to racial disparities in financial markets by steering minorities toward inferior products. We exploit a regulatory change that incentivizes deposit collection at the Freedman’s Savings Bank, the first institution to collect deposits from African Americans post-Emancipation, by facilitating misuse of depositor funds. After deregulation, advertising volume rises, particularly in African American newspapers, leading to increased deposits from Black depositors despite the bank’s insolvency. We identify persuasion as a key mechanism; prescriptive stereotypes and false claims likely amplify advertising’s impact on African Americans, exacerbating historically large depositor losses after the bank’s collapse. (JEL G21, M37, J15, G51, N21)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We study how bank advertising practices contribute to racial disparities in financial markets by steering minorities toward inferior products. We exploit a regulatory change that incentivizes deposit collection at the Freedman’s Savings Bank, the first institution to collect deposits from African Americans post-Emancipation, by facilitating misuse of depositor funds. After deregulation, advertising volume rises, particularly in African American newspapers, leading to increased deposits from Black depositors despite the bank’s insolvency. We identify persuasion as a key mechanism; prescriptive stereotypes and false claims likely amplify advertising’s impact on African Americans, exacerbating historically large depositor losses after the bank’s collapse.</content>
     <link href="https://doi.org/10.1093/rfs/hhaf038"/>
     <category term="The Review of Financial Studies"/>
     <published>2025-06-09T00:00:00+00:00</published>
