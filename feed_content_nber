@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-06-28T13:43:46.810446+00:00</updated>
+  <updated>2025-06-29T13:41:41.833405+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -201,6 +201,18 @@ We call on researchers to carefully and thoughtfully collect (a variety of) SWB 
     <published>2025-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33877</id>
+    <title>Trade and Industrial Policy in Supply Chains: Directed Technological Change in Rare Earths</title>
+    <updated>2025-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Laura Alfaro, Harald Fadinger, Jan S. Schymik &amp; Gede Virananda</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Trade and industrial policies, while primarily intended to support domestic industries, may unintentionally stimulate technological progress abroad. We document this mechanism in the case of rare earth elements (REEs) – critical inputs for manufacturing at the knowledge frontier, with low elasticity of substitution, inelastic supply, and high production and processing concentration. To assess the importance of REEs across industries, we construct an input-output table that includes disaggregated REE inputs. Using REE-related patents categorized by a large language model, sectoral TFP data, trade data, and physical and chemical substitution properties of REEs,  we show that the introduction of REE export restrictions by China led to a global surge in innovation and exports in REE-intensive downstream sectors outside of China. To rationalize these findings and quantify the global impact of the adverse REE supply shock, we develop a quantitative general equilibrium model of trade and directed technological change. We also propose a structural method to estimate sectoral input substitution elasticities for REEs from patent data and find REEs to be complementary inputs. Under endogenous technologies and with complementary inputs, input supply restrictions on REEs induce a surge in REE-enhancing innovation and lead to an expansion of REE-intensive downstream sectors.</content>
+    <link href="https://www.nber.org/papers/w33877"/>
+    <category term="NBER"/>
+    <published>2025-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33871</id>
     <title>Local Projections or VARs? A Primer for Macroeconomists</title>
     <updated>2025-06-01T00:00:00+00:00</updated>
@@ -213,14 +225,14 @@ We call on researchers to carefully and thoughtfully collect (a variety of) SWB 
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33877</id>
-    <title>Trade and Industrial Policy in Supply Chains: Directed Technological Change in Rare Earths</title>
+    <id>https://www.nber.org/papers/w33878</id>
+    <title>Assessing Maximum Employment: A Flow-Based Approach</title>
     <updated>2025-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Laura Alfaro, Harald Fadinger, Jan S. Schymik &amp; Gede Virananda</name>
+      <name>Stefano Eusepi &amp; Ayşegül Şahin</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Trade and industrial policies, while primarily intended to support domestic industries, may unintentionally stimulate technological progress abroad. We document this mechanism in the case of rare earth elements (REEs) – critical inputs for manufacturing at the knowledge frontier, with low elasticity of substitution, inelastic supply, and high production and processing concentration. To assess the importance of REEs across industries, we construct an input-output table that includes disaggregated REE inputs. Using REE-related patents categorized by a large language model, sectoral TFP data, trade data, and physical and chemical substitution properties of REEs,  we show that the introduction of REE export restrictions by China led to a global surge in innovation and exports in REE-intensive downstream sectors outside of China. To rationalize these findings and quantify the global impact of the adverse REE supply shock, we develop a quantitative general equilibrium model of trade and directed technological change. We also propose a structural method to estimate sectoral input substitution elasticities for REEs from patent data and find REEs to be complementary inputs. Under endogenous technologies and with complementary inputs, input supply restrictions on REEs induce a surge in REE-enhancing innovation and lead to an expansion of REE-intensive downstream sectors.</content>
-    <link href="https://www.nber.org/papers/w33877"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Federal Reserve’s dual mandate, to achieve maximum employment and stable prices, requires monitoring a broad range of  indicators and carefully evaluating the trade-offs between these goals. We propose a flow-based framework to evaluate real-time shortfalls from maximum employment, focusing on unemployment and participation cycles. This approach highlights that employment stability—driven by improved job-finding and reduced job-loss rates—is the primary factor behind procyclicality of participation, rather than labor force entry. Moreover, we show that cyclical recoveries in participation are bound to lag those in unemployment—even during fast recoveries. We link unemployment dynamics to price stability by estimating a New Keynesian Phillips curve (NKPC) using data on labor market flows, prices, wages, and inflation expectations.  Our findings suggest that the natural rate of unemployment, u*, rose significantly following the pandemic, reflecting declines in job-filling rates, reduced matching efficiency, and a persistent increase in workers' real reservation wages. The model interprets the recent disinflation episode as a soft landing through rising expectations of a weaker labor market coinciding with the FOMC's tightening cycle. This observation emphasizes the  forward-looking nature of inflation dynamics.</content>
+    <link href="https://www.nber.org/papers/w33878"/>
     <category term="NBER"/>
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
@@ -413,18 +425,6 @@ We call on researchers to carefully and thoughtfully collect (a variety of) SWB 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We quantify the private returns to government R&amp;D contracts awarded to firms. We present new evidence that R&amp;D contracts not only finance innovation but also embed an implicit government guarantee of noncompetitive future procurement for the winning R&amp;D contractor. We measure its private value by analyzing stock market reactions to news about R&amp;D contract awards. Using all federal R&amp;D contracts awarded to U.S. publicly traded firms from 1984 through 2015, we find that the average private return on an R&amp;D contract is 19 times its maximum potential revenue. However, returns are highly skewed, with only 7.5% of firms receiving at least one top-quartile contract. Private returns are linked to future production contracts, but only for noncompetitive awards to vertically integrated or large firms. These results suggest that a procurement regime bundling R&amp;D and production contracts enhances value for firms with production capability. We develop a conceptual framework to clarify this innovation policy lever.</content>
     <link href="https://www.nber.org/papers/w33880"/>
-    <category term="NBER"/>
-    <published>2025-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33878</id>
-    <title>Assessing Maximum Employment: A Flow-Based Approach</title>
-    <updated>2025-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stefano Eusepi &amp; Ayşegül Şahin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Federal Reserve’s dual mandate, to achieve maximum employment and stable prices, requires monitoring a broad range of  indicators and carefully evaluating the trade-offs between these goals. We propose a flow-based framework to evaluate real-time shortfalls from maximum employment, focusing on unemployment and participation cycles. This approach highlights that employment stability—driven by improved job-finding and reduced job-loss rates—is the primary factor behind procyclicality of participation, rather than labor force entry. Moreover, we show that cyclical recoveries in participation are bound to lag those in unemployment—even during fast recoveries. We link unemployment dynamics to price stability by estimating a New Keynesian Phillips curve (NKPC) using data on labor market flows, prices, wages, and inflation expectations.  Our findings suggest that the natural rate of unemployment, u*, rose significantly following the pandemic, reflecting declines in job-filling rates, reduced matching efficiency, and a persistent increase in workers' real reservation wages. The model interprets the recent disinflation episode as a soft landing through rising expectations of a weaker labor market coinciding with the FOMC's tightening cycle. This observation emphasizes the  forward-looking nature of inflation dynamics.</content>
-    <link href="https://www.nber.org/papers/w33878"/>
     <category term="NBER"/>
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
