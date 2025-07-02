@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-07-01T13:34:31.665660+00:00</updated>
+  <updated>2025-07-02T13:42:30.452541+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w33862</id>
+    <title>City Size, Monopsony, and the Employment Effects of Minimum Wages</title>
+    <updated>2025-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Priyaranjan Jha, Jyotsana Kala, David Neumark &amp; Antonio Rodriguez-Lopez</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We assess how minimum wage effects on restaurant employment in the U.S. vary with labor market size and monopsony power. Using city-level data, we construct monopsony proxies based on labor flows and concentration. Minimum wages bind less in larger cities, consistent with the urban wage premium, and omitting this relationship overstates how labor market power reduces adverse employment effects of minimum wages. Nonetheless, accounting for city size, lower job market fluidity is linked to weaker negative employment effects, consistent with search models. By contrast, traditional concentration measures do not consistently predict variation in the effects of minimum wages.</content>
+    <link href="https://www.nber.org/papers/w33862"/>
+    <category term="NBER"/>
+    <published>2025-06-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w33845</id>
     <title>Monetary Stabilization of Sectoral Tariffs</title>
@@ -15,18 +27,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Central banks around the world have grappled with the question of how to respond to the mix of inflationary and output implications of a trade war. Recent tariff changes have impacted a wider cross-section of goods than was true in the previous tariff round, targeting final consumption goods in addition to materials such as aluminum and steel. This paper studies the optimal monetary stabilization of tariffs using a New Keynesian model enriched with comparative advantage between multiple traded sectors that differ in terms of tariff exposure as well as market structure and price rigidity. We find that, in the aggregate, the optimal monetary response is expansionary, supporting activity and producer prices at the cost of tolerating short-run headline inflation – both in response to tariffs aimed at differentiated consumption goods and to tariffs on non-differentiated goods. The output and export dynamics arising from tariffs on each sector differ sharply, as do the motivations for an expansionary monetary response. Sectoral reallocation is an order of magnitude larger than predicted by standard macro models featuring one tradable and one nontradable sector.</content>
     <link href="https://www.nber.org/papers/w33845"/>
-    <category term="NBER"/>
-    <published>2025-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33881</id>
-    <title>Using Discrepancies to Correct for False Matches in Historical Linked Data</title>
-    <updated>2025-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yuya Sasaki &amp; Ariell Zimran</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method to correct estimates from historical linked data for bias arising from type-I error—"false matches." We estimate the rate of false matching from the disagreement rate in characteristics that should agree across the two linked datasets. Combined with an understanding of the empirical patterns arising from false matches, knowledge of this rate enables us to correct for bias from false matches. Our method enables correction of estimates of both population moments and regression coefficients with valid inference. We illustrate the properties of our method via simulation and demonstrate them using linked US census data.</content>
-    <link href="https://www.nber.org/papers/w33881"/>
     <category term="NBER"/>
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
@@ -583,6 +583,18 @@
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33931</id>
+    <title>The Longevity of Older Wives and Their Husbands: Comparing Actual Couples with Synthetic Couples</title>
+    <updated>2025-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Janice Compton, Robert A. Pollak &amp; Seth G. Sanders</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using data from the National Health Interview Survey (NHIS), we construct two measures of the longevity of older wives and husbands. For definiteness, we focus on couples in which the wife was 60 and the husband 62 in 1988. Our first measure utilizes a 4 x 4 "longevity matrix" in which the bins correspond to the decades in which the spouses died. For example, an entry in the (3,2) bin indicates that the wife died in the 3rd decade (between ages 80 and 89) and the husband in the second decade (between ages 72 and 81). Our second measures use the Gompertz distribution to estimate the censored observations from the NHIS. We use the Gompertz estimates of age-specific mortalities to construct joint and survivor life expectancies for the couples in our working sample. We compare the longevity estimates based on actual couples from the NHIS with estimates based on synthetic couples constructed from the 1988 CDC life tables. Research based on randomly formed synthetic couples constructed from CDC life table data shows that the randomness of mortality and the overlap between spouses' age-specific mortality distributions imply dramatically long life spans for surviving spouses. The 4 x 4 longevity matrices show that longevity effects are magnified at the level of the couple by assortative marriage.</content>
+    <link href="https://www.nber.org/papers/w33931"/>
+    <category term="NBER"/>
+    <published>2025-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w33941</id>
     <title>Expertise</title>
     <updated>2025-06-01T00:00:00+00:00</updated>
@@ -627,18 +639,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A smaller human population would emit less carbon, other things equal, but how large is the effect? Here we test the widely-shared view that an important benefit of the ongoing, global decline in fertility will be reductions in long-run temperatures. We contrast a baseline of global depopulation (the most likely future) with a counterfactual in which the world population continues to grow for two more centuries. Although the two population paths differ by billions of people in 2200, we find that the implied temperatures would differ by less than one tenth of a degree C—far too small to impact climate goals. Timing drives the result. Depopulation is coming within the 21st century, but not for decades. Fertility shifts take generations to meaningfully change population size, by which time per capita emissions are projected to have significantly declined, even under pessimistic policy assumptions. Meanwhile, a smaller population slows the non-rival innovation that powers improvements in long-run productivity and living standards, an effect we estimate to be quantitatively important. Once the possibility of large-scale net-negative emissions is accounted for, even the sign of the population-temperature link becomes ambiguous. Humans cause greenhouse gas emissions, but human depopulation, starting in a few decades, will not meet today’s climate challenges.</content>
     <link href="https://www.nber.org/papers/w33932"/>
-    <category term="NBER"/>
-    <published>2025-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33931</id>
-    <title>The Longevity of Older Wives and Their Husbands: Comparing Actual Couples with Synthetic Couples</title>
-    <updated>2025-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Janice Compton, Robert A. Pollak &amp; Seth G. Sanders</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using data from the National Health Interview Survey (NHIS), we construct two measures of the longevity of older wives and husbands. For definiteness, we focus on couples in which the wife was 60 and the husband 62 in 1988. Our first measure utilizes a 4 x 4 "longevity matrix" in which the bins correspond to the decades in which the spouses died. For example, an entry in the (3,2) bin indicates that the wife died in the 3rd decade (between ages 80 and 89) and the husband in the second decade (between ages 72 and 81). Our second measures use the Gompertz distribution to estimate the censored observations from the NHIS. We use the Gompertz estimates of age-specific mortalities to construct joint and survivor life expectancies for the couples in our working sample. We compare the longevity estimates based on actual couples from the NHIS with estimates based on synthetic couples constructed from the 1988 CDC life tables. Research based on randomly formed synthetic couples constructed from CDC life table data shows that the randomness of mortality and the overlap between spouses' age-specific mortality distributions imply dramatically long life spans for surviving spouses. The 4 x 4 longevity matrices show that longevity effects are magnified at the level of the couple by assortative marriage.</content>
-    <link href="https://www.nber.org/papers/w33931"/>
     <category term="NBER"/>
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
