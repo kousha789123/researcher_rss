@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-07-09T13:40:37.621401+00:00</updated>
+  <updated>2025-07-10T13:42:48.060174+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w33898</id>
+    <title>A Dynamic Theory of Optimal Tariffs</title>
+    <updated>2025-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eduardo Dávila, Andrés Rodríguez-Clare, Andreas Schaab &amp; Stacy Tan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The classic tariff formula states that the optimal unilateral tariff equals the inverse of the foreign export supply elasticity. We generalize this result and show that an intertemporal tariff formula characterizes the efficient tariff in a large class of dynamic heterogeneous agent (HA) economies with multiple goods. Intertemporal export supply elasticities and relative tariff revenue weights are sufficient statistics for the optimal tariff that decentralizes the efficient allocation. We also develop a general theory of second-best optimal tariffs. In dynamic HA incomplete markets economies, Ramsey optimal tariffs trade off intertemporal terms of trade manipulation against production efficiency, risk-sharing, and redistribution. Intertemporal export supply elasticities and relative tariff revenue weights remain sufficient statistics for the intertemporal terms of trade manipulation motive of second-best optimal tariffs. We apply our results to a quantitative heterogeneous agent New Keynesian (HANK) model with trade.</content>
+    <link href="https://www.nber.org/papers/w33898"/>
+    <category term="NBER"/>
+    <published>2025-06-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w33897</id>
     <title>Public Debt Bubbles, Liquidity, and Risk: Policy Assessments Based on the Zero-Beta Interest Rate</title>
@@ -51,18 +63,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Why and when could basic income inhibit employment? We randomize 200 dollars of basic income per month for two years within a non-urban disadvantaged sample tracked using high-frequency administrative data. The amount provided is 21% of average all-source income. In the short term (0.5 years after baseline), relative to the control group, treatment-group employment decreases by 58%, average all-source income remains constant, and health-investment rates increase. In the longer term (1.25 years after baseline), employment and health-investment rates revert to their control-group counterparts. Treatment participants receive basic income, take time off work, address health needs, and, subsequently, reintegrate into employment.</content>
     <link href="https://www.nber.org/papers/w33891"/>
-    <category term="NBER"/>
-    <published>2025-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33889</id>
-    <title>Medicare Drug Price Negotiations May Not Reduce Patient Cost Sharing for Most Users of Targeted Drugs</title>
-    <updated>2025-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Debra Lederman, Alexander L. Olssen &amp; Mark Pauly</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies two major changes in the financing of Part D drugs for Medicare due to the Inflation Reduction Act (IRA).  Effective 2025 it capped out of pocket (OOP) payments at $2000 per year, and effective 2026 it will pay lower prices (negotiated by Medicare) for 10 targeted costly and effective drugs.  This paper uses a large representative claims sample to explore the combined effect of these two provisions on the marginal cost sharing that affects beneficiaries’ access to these drugs.  While many beneficiaries will be expected to see lower marginal OOP prices, we find that a majority of those using the targeted drugs will face either no change in their marginal OOP or, in a large fraction of cases, an increase in their dollar cost sharing per additional unit of use.  This happens even when beneficiaries see reductions in their annual OOP cost because of the nonlinear nature of cost sharing in the Medicare Part D drug.</content>
-    <link href="https://www.nber.org/papers/w33889"/>
     <category term="NBER"/>
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
@@ -559,18 +559,6 @@
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33978</id>
-    <title>How Does Wage Inequality Affect the Labor Movement?</title>
-    <updated>2025-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Barbara Biasi, Zoë B. Cullen, Julia H. Gilman &amp; Nina Roussille</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper provides causal evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units. Taken together, our findings highlight the potential for “inequality traps,” where rising inequality erodes the very institutions designed to counteract it.</content>
-    <link href="https://www.nber.org/papers/w33978"/>
-    <category term="NBER"/>
-    <published>2025-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w33949</id>
     <title>Designing Human-AI Collaboration: A Sufficient-Statistic Approach</title>
     <updated>2025-06-01T00:00:00+00:00</updated>
@@ -579,6 +567,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a sufficient statistic for designing AI information-disclosure and selective automation policies. The approach allows for endogenous and biased beliefs, and effort crowd-out, without using a structural model of human decision-making. We deploy and validate our approach in a fact-checking experiment. Humans under-respond to AI predictions and reduce effort when presented with confident AI predictions. Overconfidence in own-signal rather than under-confidence in AI drives AI under-response.  The optimal policy automates decisions where the AI is confident and delegates the other decisions while fully disclosing the AI prediction. Although automation is valuable, the benefit of assisting humans with AI is negligible.</content>
     <link href="https://www.nber.org/papers/w33949"/>
+    <category term="NBER"/>
+    <published>2025-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33978</id>
+    <title>How Does Wage Inequality Affect the Labor Movement?</title>
+    <updated>2025-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Barbara Biasi, Zoë B. Cullen, Julia H. Gilman &amp; Nina Roussille</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper provides causal evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units. Taken together, our findings highlight the potential for “inequality traps,” where rising inequality erodes the very institutions designed to counteract it.</content>
+    <link href="https://www.nber.org/papers/w33978"/>
     <category term="NBER"/>
     <published>2025-06-01T00:00:00+00:00</published>
   </entry>
