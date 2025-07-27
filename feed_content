@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-07-26T13:39:06.961500+00:00</updated>
+  <updated>2025-07-27T13:42:35.406390+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -128,12 +128,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478251360474</id>
-    <title>EXPRESS: Transaction Fee Mechanisms and User Welfare in Permissionless Blockchains</title>
+    <title>Transaction Fee Mechanisms and User Welfare in Permissionless Blockchains</title>
     <updated>2025-07-11T00:00:00+00:00</updated>
     <author>
-      <name>Xi Zhao, Zhichao Wu, GuangZhi Shang, Peilin Ai</name>
+      <name>Xi Zhao, Zhichao Wu, Guangzhi Shang, Peilin Ai</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Transaction fee is fundamental in maintaining the stability and decentralization of a permissionless blockchain, the infrastructure underlying major cryptocurrency networks such as Ethereum and Bitcoin. This fee, set and paid by users when initiating each transaction, aggregates to over $24 million daily on Ethereum, imposing a non-trivial barrier to wider adoption. What is worse is that it is disproportionately borne by small users. Like Bitcoin, Ethereum started with a name-your-own-price style fee mechanism. Under this Legacy mechanism, we demonstrate that, surprisingly, only three-quarters of the transaction fee is necessary for users to attain the service quality they receive; the remaining one-quarter thus constitutes welfare loss. In August 2021, Ethereum implemented a fee mechanism change. Together, the Legacy methods and the new scheme, which we call Cap-Tip, describe the two most widely used fee mechanisms in all major permissionless blockchains. We explain the innovations embedded in the Cap-Tip mechanism through the lens of information quality and task decomposition. Collecting over 123 million transactions covering the change period, we estimate the causal impact of Cap-Tip on welfare improvement using a doubly robust difference-in-difference estimator that accommodates heterogeneity across timing of and exposure after adoption. The result is an astounding 80% reduction in welfare loss, achieved by users only six days after adoption. Interestingly, we also find that adoption benefits small users more than large ones, alleviating fee disparity and improving fairness. We theorize this difference through user experience and the overconfidence bias. Our study offers a novel operational perspective to unpack how the arguably most significant fee mechanism change in the blockchain space affects user welfare.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;A transaction fee is fundamental in maintaining the stability and decentralization of a permissionless blockchain, the infrastructure underlying major cryptocurrency networks such as Ethereum and Bitcoin. This fee, set and paid by users when initiating each transaction, aggregates to over $24 million daily on Ethereum, imposing a nontrivial barrier to wider adoption. What is worse is that it is disproportionately borne by small users. Like Bitcoin, Ethereum started with a name-your-own-price style fee mechanism. Under this Legacy mechanism, we demonstrate that, surprisingly, only three-quarters of the transaction fee is necessary for users to attain the service quality they receive; the remaining one-quarter thus constitutes welfare loss. In August 2021, Ethereum implemented a fee mechanism change. Together, the Legacy methods and the new scheme, which we call Cap-Tip, describe the two most widely used fee mechanisms in all major permissionless blockchains. We explain the innovations embedded in the Cap-Tip mechanism through the lens of information quality and task decomposition. Collecting over 123 million transactions covering the change period, we estimate the causal impact of Cap-Tip on welfare improvement using a doubly robust difference-in-difference estimator that accommodates heterogeneity across timing of and exposure after adoption. The result is an astounding 80% reduction in welfare loss, achieved by users only 6 days after adoption. Interestingly, we also find that adoption benefits small users more than large ones, alleviating fee disparity and improving fairness. We theorize this difference through user experience and the overconfidence bias. Our study offers a novel operational perspective to unpack how the arguably most significant fee mechanism change in the blockchain space affects user welfare.</content>
     <link href="https://doi.org/10.1177/10591478251360474"/>
     <category term="Production and Operations Management"/>
     <published>2025-07-11T00:00:00+00:00</published>
@@ -1039,6 +1039,138 @@
     <published>2025-07-24T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478251365563</id>
+    <title>EXPRESS: Alliance Formations with Joint Sustainable Technology Innovation Efforts</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Junlin Chen, Shi Chen, Yujie Xie, Jinting Wang</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We study a supply chain comprising a downstream retailer and multiple complementary suppliers. Suppliers can form coalitions to jointly invest in sustainable production technologies and enhance the product’s corporate social responsibility (CSR) level. Coalition members benefit from efficiency gains through shared knowledge and information about green production. The retailer sources from these coalitions and sells the product to heterogeneous consumers. We develop a game-theoretical model and use the notion of Nash stability to characterize equilibrium coalition structures and firms’ optimal decisions under three profit allocation rules. Our key findings are as follows: (1) Forming supplier coalitions can benefit all stakeholders (including the retailer, suppliers, and society) but achieving such a win–win–win outcome hinges on two factors: the market’s consciousness rate (i.e., the proportion of socially conscious consumers) and the efficiency gains from coalition formation. (2) The grand coalition that maximizes the retailer’s profit and CSR level is not always stable due to free-riding behaviors. In particular, less efficient suppliers may defect to avoid the cost of sustainable innovation while still benefiting from the high innovation efforts of others (i.e., cross-coalition free-riding). (3) On the supply side, adopting the Shapley value allocation rule exacerbates within-coalition free-riding by assigning greater profit shares to less efficient suppliers. However, it also reduces their incentive to defect, thus enhancing coalition stability. Moreover, greater total efficiency and a smaller efficiency gap among suppliers further improve the stability of the grand coalition. (4) On the demand side, the impact of increasing the market’s consciousness rate is non-monotonic. Improperly influencing consumer awareness may destabilize coalitions and produce unintended consequences, suggesting that the retailer must proceed with caution.</content>
+    <link href="https://doi.org/10.1177/10591478251365563"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251363654</id>
+    <title>EXPRESS: A Deep Demand Response Program for Local Electricity Systems</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Marie-Louise Arlt, Gunther Gust, Dirk Neumann</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The decarbonization of power systems facilitates the electrification of appliances, many of which can be operated in a flexible way. Demand response (DR) programs can exploit this flexibility with retail price adjustment, thereby addressing several operational challenges. In this paper, we address the welfare optimization problem of local utilities that procure electricity for their customers at the wholesale market. We demonstrate how DR programs can be designed for local electricity systems where electricity demand and its response to temporary price changes is unknown. For this purpose, we address a novel and complex pricing problem – pricing under unknown, time-interdependent, and discontinuous demand – leveraging Deep Reinforcement Learning. Using a numerical case study calibrated on Californian electricity market data, we show that such a “Deep DR program” helps to identify effective prices that improve social welfare. The performance of the program is consistently positive across a variety of system conditions. We further demonstrate that our approach beats Time-of-Use tariff-based benchmarks already after five and a parametric benchmark after 19 simulation days, on average. Second, we provide novel insights regarding an important but frequently overlooked aspect of DR program design: the length of the notification interval, i.e. the timespan for which future prices must be set in advance. We find that the timing of price information is important and that longer notification intervals can improve social welfare. Finally, we provide insights into DR price setting and find that DR prices co-move with wholesale market prices but are lower for longer notification intervals and shorter event sequences. The presented Deep DR program provides an example of how advances in machine learning-based algorithms can help to meet the complex operational requirements of future local electricity systems.</content>
+    <link href="https://doi.org/10.1177/10591478251363654"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251365310</id>
+    <title>EXPRESS: Managing Quality Risk in a Decentralized Supply Chain: Contractual Incentives and Product Recall Insurance</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Jing Chen, Hang Wei, Lei Xie, Chaonan Zheng</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We consider a two-echelon decentralized supply chain where the probability of selling nondefective products depends on the supplier’s quality improvement and the buyer’s inspection efforts. Products assembled from defective components cause a recall that leads to external failure costs for the buyer. Both players’ efforts are not contractible and it is a challenge to align inspection and quality-improvement efforts in a decentralized supply chain. We find that a procurement contract can provide preventive incentives that induce high inspection efforts and enhancing incentives that enable the supplier to credibly commit to high-quality components. However, these contractual incentives only align two players’ efforts under certain conditions. Interestingly, our findings suggest that introducing a product recall (PR) insurance requirement into a standard procurement contract provided by the buyer can complement enhancing incentives and lead to quality improvement in components. More importantly, as PR insurance can improve the flexibility of risk-sharing arrangements between the supplier and the buyer, we show that it can also serve as a coordinating role in improving the performance of a decentralized supply chain.</content>
+    <link href="https://doi.org/10.1177/10591478251365310"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251365581</id>
+    <title>EXPRESS: Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Hongyuan Lin, Xiaobo Li, Fang Liu</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Order splitting is one of the key issues in the e-commerce order fulfillment process. It increases operational costs, elevates carbon emissions, and compromises customer satisfaction. This paper focuses on determining the product assortments to store within the multi-warehouse logistics network to minimize the total number of split orders subject to cardinality constraints. We show that this minimizing split orders (MSO) problem is NP-hard and demonstrate that even finding an optimal order fulfillment strategy with a given assortment selection is NP-hard. To further analyze the MSO problem, we introduce a concept termedthe second-order dominant indexing rule. This indexing rule corresponds to a group of demand distributions, under which we are able to characterize the structure of the optimal assortment selection for various scenarios. In particular, when assortment overlapping is prohibited, the optimal selection can be explicitly derived. When the demand exhibits a total nested structure, an optimal selection is non-overlapping with more popular products allocated to larger warehouses. We also bridge the two-warehouse order splitting minimization problem with the single-warehouse assortment selection problem in the literature. Building upon this connection, we propose an Extended Marginal Choice Indexing (MCI) policy, which is proven to achieve optimality when the demand has a second-order dominant MCI. In addition, we propose an Iterative Improvement Heuristic that refines any existing assortment selection. The efficiency of the proposed heuristics is validated by extensive numerical experiments, demonstrating that the extended MCI policy performs near-optimally even when customer demand is not ideal, and both heuristics outperform the best benchmark in existing literature. Additional experiments on real-world data further confirm their effectiveness and scalability. Finally, we extend our findings to a two-tier multi-warehouse scenario with a back-end warehouse.</content>
+    <link href="https://doi.org/10.1177/10591478251365581"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437251364729</id>
+    <title>EXPRESS: Marketing and Economics of Harm Reduction: Evidence from Conservation Field Experiments</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Kristina Brecko, Wesley R. Hartmann</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;This paper extends the canonical harm reduction approach to a wider set of applications, including conservation. We develop an economic model to illustrate the trade-offs inherent to harm reduction, weighing the benefits of reducing harm against the risk of drawing those previously abstaining into consumption, and identify contexts where it is not applicable. Using sequential campaigns with embedded experimentation that enables measurement, we market a harm reduction solution in the context of water conservation. We show that a smart irrigation controller that efficiently maintains stigmatized ornamental landscapes appeals to the heaviest irrigators and generates large and long-lasting individual and social benefits: cost recovery in six months and water savings covering another household’s basic needs. We find no evidence it cannibalizes abstinence (lawn removal) or increases irrigation by conservation-prone individuals. Our conceptual and measurement framework provides a foundation for implementing and evaluating harm reduction well beyond the typical drug and public health contexts.</content>
+    <link href="https://doi.org/10.1177/00222437251364729"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251365883</id>
+    <title>EXPRESS: Quality in Context: Experience-Relevant Consumption Context Influences Product Ratings</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Matt Meister, Nicholas Reinholtz</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Experience with a product is shaped by two things: (i) aspects of the product itself and (ii) aspects of the environment in which the product is consumed. This paper documents evidence that when translating their experiences into ratings for products, consumers overly attribute their experience to products, and under-attribute experience to context—the environment in which the product is consumed. First, 218,918 ratings collected from REI.com demonstrate that ratings for cold-weather gear (products designed to keep people warm) are positively correlated with temperature: These products get lower ratings when the weather is cold and higher ratings when the weather is warm, controlling for climate and season. Ratings for other products (e.g., bicycles, tents, skis) are not affected by temperature. This effect generalizes to other products and contexts both in the REI data (e.g., rain jackets and rain) and in a laboratory experiment. The paper also identifies attenuating conditions for this effect. Specifically, the effect seems to be smaller when reviewers explicitly consider context, and when context information is made more accessible, while rating. These findings inform several possible interventions for platforms, which are assessed and validated.</content>
+    <link href="https://doi.org/10.1177/00222429251365883"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251365938</id>
+    <title>EXPRESS: The Growth Department: The Emerging Role and Impact of Chief Growth Officers and their Cross-Functional Teams</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Yashar Atefi, Sebastian Hohenberg, Saeed Janani, Wei Zhou</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;This paper investigates “growth departments,” an increasingly popular governance structure in modern organizations. Using a multimethod approach across five studies, the authors examine the purpose, responsibilities, and effectiveness of these departments. In Studies 1A and 1B the authors analyze job ads to understand the growth department. Study 2 expands this understanding via interviews with Chief Growth Officers. Findings show that the growth department is a cross-functional unit distinct from marketing and sales departments, designed to unify and orchestrate growth throughout the organization. Studies 3 and 4 assess their impact on firm outcomes, drawing from boundary spanning and organizational ambidexterity theories. In startups, hiring a growth leader results in better advancement through funding rounds, a key proxy of startup growth, than hiring a marketing or sales leader (Study 3). In public firms, a powerful growth department improves performance metrics including Tobin’s Q, cash flow, and ROA (Study 4). The paper also identifies contingency factors influencing the growth department’s effectiveness, including the growth leader’s past sales or marketing experience and the firm’s strategic emphasis on exploration versus exploitation. Together, the findings advance theory and practice by clarifying what growth departments are, how they operate, and under what conditions they enhance firm performance.</content>
+    <link href="https://doi.org/10.1177/00222429251365938"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251364737</id>
+    <title>EXPRESS: Breaking Up to Move Forward: The Value Gains of Alliance Terminations</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Mariia Koval, Viacheslav Iurkov, Stefan Wuyts</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Prior alliance research in marketing has largely focused on factors enhancing alliance stability. Yet also alliance terminations can be valuable. They are intricately linked with firms’ strategies to (re)allocate resources to create financial value. The basic premise of this study is that an alliance termination increases firm value when investors interpret it as the firm’s intention to reallocate resources towards more promising market opportunities. The key question is how investors arrive at that interpretation. The prior literature suggests that the diversity of a firm’s alliance portfolio informs investors about its resource (re)allocation strategy. This argument relies on three assumptions: (1) firms face uncertainty, (2) resources invested in the terminated alliance are redeployable, and (3) the diverse alliance portfolio offers resource reallocation opportunities. These assumptions form the basis for the development of a contingency framework. Moderators are identified to capture (1) firms’ competitive environment and exposure to macroeconomic risk, (2) the fungible nature versus alliance-specificity of resources invested in the terminated alliance, and (3) efficiency and overlap with the other alliances in the portfolio. An event study of 427 firm-alliance termination announcements during 1985-2020 supports the predictions. The combined findings shed new light on alliance terminations, contributing to marketing theory and practice.</content>
+    <link href="https://doi.org/10.1177/00222429251364737"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251365531</id>
+    <title>EXPRESS: Too Painful to Donate: Why Don’t People Donate to Critical Illness Campaigns?</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Jingjing Ma, Yuanjie Zhao, Yitian (Sky) Liang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Charitable donations are increasingly shifting to online fundraising platforms, where numerous campaigns are displayed simultaneously. This research examines the role of campaign titles in attracting online traffic in this competitive environment, focusing specifically on a major category of medical fundraising. While fundraisers commonly include the names of critical illnesses in campaign titles (critical illness titles), our findings suggest that this emotion-laden driver can negatively impact donation performance. A series of seven studies—combining secondary data, field and controlled experiments—provides robust evidence for this undesirable critical illness title effect. Moreover, three studies offer mediation and moderation evidence showing that anticipated distress drives this effect. Donors tend to avoid critical illness title campaigns, opting instead for alternatives that still allow them to express empathy. However, this effect diminishes when there is a non-distress cue or when the alternatives are non-justifiable. This research contributes to the literature on charitable crowdfunding, prosocial behavior, and title effect, offering important practical implications for fundraisers.</content>
+    <link href="https://doi.org/10.1177/00222429251365531"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251363144</id>
+    <title>EXPRESS: More Ads, More Viewers? Analyzing Behavioral Shifts from Advertising Permissions to Live Streaming Consumption</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>Michael W. Wu, Sung H. Ham</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;There has been little exploration on how audience content consumption may change in response to advertising permissions on live streaming platforms. Ads are utilized by brands to generate revenue through ad exposure, but is this benefit thwarted by the reduction of audience consumption of content? Using a dataset containing over 12 million observations in the live streaming space and a difference-in-differences estimation approach, we study the effects of a policy intervention by a live streaming platform which provided (some) streamers the ability to display mid-roll advertisements (MRAs). Although the ad avoidance literature infers that ad-supported content should be viewed unfavorably by audiences, our results indicate that providing the mere ability to introduce MRAs has a notable positive effect on live streaming content consumption (average viewership and total hours watched). We discover that a viable explanation for this response is through increases in broadcasting airtime, stream frequency (somewhat) and quality by streamers after the intervention, as these adjustments are drastically easier to implement in a live streaming setting when compared to more “traditional” forms of media. We further explore heterogeneity in these effects in relation to initial success, streaming tenure, content activity, culture (of the streamer), and impact across time.</content>
+    <link href="https://doi.org/10.1177/00222429251363144"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70003</id>
+    <title>Internal Forecasts in Multi‐Location Firms</title>
+    <updated>2025-07-25T00:00:00+00:00</updated>
+    <author>
+      <name>LINDSEY GALLO, EVA LABRO, JAMES D. OMARTIAN</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We investigate the dynamics of internal forecasting in multi‐location firms and the relations between forecast characteristics and investment. Using U.S. Census microdata on plant‐level growth expectations, we find that plants within multi‐location firms make forecasts that are both more certain and less accurate than those of standalone plants. We provide evidence suggesting that headquarters infers uncertainty from inter‐plant forecast disagreement, and that headquarters is able to facilitate the use of relevant information held by one plant but applicable to another. Differences between peer and focal plants' forecasts predict forecast errors and relate to investment decisions at the focal plant, suggesting that information from multiple sources is integrated into capital allocation decisions. Headquarters' heavier use of peer plant forecast information when focal plants are more uncertain likely weakens focal plant managers' incentives to consider extreme scenarios when forecasting.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70003"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-07-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/jcpy.70001</id>
     <title>Bunch of jerks: How brands can benefit by reappropriating insults</title>
     <updated>2025-07-26T00:00:00+00:00</updated>
@@ -1051,16 +1183,16 @@
     <published>2025-07-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10422587251347042</id>
-    <title>Shades of Grey or Black and White? How Entrepreneurs’ Use of Cognitively Complex Language Affects Investor Funding</title>
-    <updated>2025-07-06T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/hrm.70010</id>
+    <title>From Workplace‐Based to Work‐Related Violence: Reframing &lt;scp&gt;HRM&lt;/scp&gt; Research and Practice in the Era of Growing Tensions</title>
+    <updated>2025-07-26T00:00:00+00:00</updated>
     <author>
-      <name>Patrick Figge, Lorenz Graf-Vlachy, Andreas König, Florian Demann, Martin Diessner</name>
+      <name>Fang Lee Cooke, Chidozie Umeh, Zhou Jiang, Shuang Ren</name>
     </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;We examine how entrepreneurs’ use of cognitively complex language—language that involves nuance, differentiation, and comparison—influences funding decisions of early-stage investors. Our theorizing builds on the notion that individuals interpret language as a social signal and attribute another person’s language use to that person’s general dispositions. On this basis, we surmise that investors perceive an entrepreneur as more cognitively complex—that is, engaging in more nuanced and differentiated thinking—the more the entrepreneur uses cognitively complex language. Arguing that perceived cognitive complexity matches investors’ prototypical construals of entrepreneurial competence, we hypothesize a positive relationship between an entrepreneur’s use of cognitively complex language and the investment amount they receive. Drawing on our theoretical framework, we also argue that signaling cognitive complexity has a decreasing marginal effect, and that elite education functions as a credibility signal, amplifying the association between cognitively complex language and investment amount. A field study of 547 actual investment pitches and a randomized experiment with 240 professionals support our ideas. Our study introduces a more nuanced portrayal of complexity in entrepreneurial communication, accentuates the role of entrepreneurs’ signals of cognitive dispositions, and introduces the concept of cognitive complexity, and linguistic displays thereof, to entrepreneurship theory.</content>
-    <link href="https://doi.org/10.1177/10422587251347042"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2025-07-06T00:00:00+00:00</published>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Violence at work has traditionally been conceptualized in human resource management (HRM) as workplace‐based violence—an episodic, interpersonal issue occurring within bounded organizational settings. This perspective article adopts the term work‐related violence as a more expansive and timely framing, encompassing physical, psychological, and symbolic harm related to work but occurring across dispersed geographies, identities, relationships, and organizational arrangements. It contends that prevailing HRM frameworks remain ill‐equipped to address these fragmented and often unacknowledged harms, particularly as work becomes increasingly hybrid, precarious, and digitally mediated. Drawing on interdisciplinary scholarship, we advance a multilevel and multistakeholder analytical framework that theorizes violence as relational and spatially unbounded, embedded across micro (identity and employees' lived experience, and psychological factors), meso (organizational culture, HRM systems and silencing mechanisms), and macro (regulatory, ideological, and institutional) levels. The framework further identifies underexplored domains of violence within HRM, including employee‐perpetrated violence, ideologically motivated aggression, and the critical role of community‐based interventions in mitigating harm. In doing so, the article contributes to HRM theory by problematizing the spatial and behavioral assumptions underpinning conventional approaches to workplace violence. We argue for a broadened research and practice agenda that expands the field's analytical and operational capacity, calling for the development of HRM models that are structurally, institutionally, and ideologically attuned to violence emerging from inequality, institutional complicity, and the broader political economies of contemporary work.</content>
+    <link href="https://doi.org/10.1002/hrm.70010"/>
+    <category term="Human Resource Management"/>
+    <published>2025-07-26T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhaf044</id>
