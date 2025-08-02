@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-08-01T13:40:38.319895+00:00</updated>
+  <updated>2025-08-02T13:39:43.870816+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -199,6 +199,18 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34012</id>
+    <title>Do Workforce Development Programs Bridge the Skills Gap</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eleanor W. Dillon, Lisa B. Kahn, Joanna Venator &amp; Michael Dalton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most U.S. states have workforce development programs that offer firms grants to train their own workers. We create unique data linkages between participating firms, employment, and vacancies to explore the determinants and consequences of such programs. Training grants are more prevalent in markets where firms face greater employee poaching risk, suggesting these programs help overcome a market failure in updating worker skills. After training, firms experience prolonged employment growth and down-skilling in their job posts, relative to a matched control group. Training appears to help firms move toward optimal scale and expand opportunities for less skilled workers.</content>
+    <link href="https://www.nber.org/papers/w34012"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34011</id>
     <title>Public Goods Under Financial Distress</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -331,134 +343,26 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34035</id>
-    <title>Adaptive Priority Mechanisms</title>
+    <id>https://www.nber.org/papers/w33987</id>
+    <title>Due Diligence and the Allocation of Venture Capital</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Oğuzhan Çelebi &amp; Joel P. Flynn</name>
+      <name>Xiaoyong (Jack) Fu &amp; Lucian A. Taylor</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How should authorities that care about match quality and diversity allocate resources in the face of uncertainty? We introduce adaptive priority mechanisms (APM) that prioritize agents based on their scores and characteristics. We show that APM uniquely implement the ex post optimal allocation. The ubiquitous priority and quota mechanisms are optimal if and only if the authority is risk-neutral or extremely risk-averse over diversity, respectively. Deferred Acceptance implements the unique stable matching when all authorities use the optimal APM. We provide a practical roadmap for implementing APM as a market-design solution and illustrate this using Chicago Public Schools data.</content>
-    <link href="https://www.nber.org/papers/w34035"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do investors choose the intensity of their due diligence, and how does that choice affect investment outcomes? Using cell phone signal data, we measure the duration of pre-investment meetings between venture capitalists (VCs) and startup employees. This measure captures one important component of VC due diligence. Less due diligence is associated with hotter deals and markets, busier investors, and greater distance, consistent with a theory of costly learning. Also consistent with that theory, less due diligence is associated with more volatile investment performance, as VCs allocate capital under greater uncertainty. Overall, VCs appear to trade off the costs of due diligence with its improvements to capital allocation.</content>
+    <link href="https://www.nber.org/papers/w33987"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34036</id>
-    <title>Rounding up the Effect of Tariffs on Financial Markets: Evidence from April 2, 2025</title>
+    <id>https://www.nber.org/papers/w33983</id>
+    <title>Carbon Rollercoaster: A Historical Analysis of Decarbonization in the United States</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Felipe Benguria &amp; Felipe Saffie</name>
+      <name>Karen Clay, Akshaya Jha, Joshua A. Lewis &amp; Edson R. Severnini</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure the response of financial outcomes to the US announcement on April 2, 2025, of tariffs on nearly all its trading partners. To address the challenge posed by potential anticipation by economic agents, we decompose these tariffs into a component associated with bilateral deficits and an arguably unanticipated component resulting from the rounding up of the continuous deficit measure to the next whole number or to the baseline 10% rate. We measure the short-term response of stock prices and exchange rates, focusing on all countries with which the US has a bilateral deficit. For both outcomes, the round-up component’s effect is an order of magnitude larger than that of the deficit component. We find that a one percentage point higher tariff is associated with a statistically significant 0.23% decline in stock prices. Further, we find no evidence of a dollar appreciation; if anything, higher tariffs are associated with a dollar depreciation, driven by countries with a floating regime. We show this is consistent with a model that allows for trade reallocation and in which exports to the US are invoiced in dollars while exports to the rest of the world are partly invoiced in producer currency.</content>
-    <link href="https://www.nber.org/papers/w34036"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34034</id>
-    <title>The Economics of Bicycles for the Mind</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ajay K. Agrawal, Joshua S. Gans &amp; Avi Goldfarb</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Steve Jobs described computers as “bicycles for the mind,” a tool that allowed people to dramatically leverage their capabilities. This paper presents a formal model of cognitive tools and technologies that enhance mental capabilities. We consider agents engaged in iterative task improvement, where cognitive tools are assumed to be substitutes for implementation skills and may or may not be complements to judgment, depending on their type. The ability to recognise opportunities to start or improve a process, which we term opportunity judgment, is shown to always complement cognitive tools. The ability to know which action to take in a given state, which we term payoff judgment, is not necessarily a complement to cognitive tools. Using these concepts, we can synthesise the empirical literature on the impact of computers and artificial intelligence (AI) on productivity and inequality. Specifically, while both computers and AI appear to increase productivity, computers have also contributed to increased inequality. Empirical work on the impact of AI on inequality has shown both increases and decreases, depending on the context. We also apply the model to understand how cognitive tools might influence incentives to automate processes and allocate decision-making authority within teams.</content>
-    <link href="https://www.nber.org/papers/w34034"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34032</id>
-    <title>The Effect of Hospital Breastfeeding Policies on Infant Health</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Emily C. Lawler &amp; Meghan M. Skira</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the effects of state hospital regulations intended to increase breastfeeding by requiring certain care standards during the postpartum hospital stay. Policy adoption increased breastfeeding initiation by 3.3–4.1 percentage points (4.2–5.2 percent) and breastfeeding at 3 months postpartum by 6–9 percent. Further, following adoption, infant mortality declined by 0.2 deaths per 1,000 live births (3.5 percent), and infant hospitalization charges fell. Declines in mortality and charges primarily occurred among medically vulnerable infants, consistent with evidence that breast milk supports immune development. Additional evidence suggests that improvements in infant sleep practices also played a role in reducing mortality.</content>
-    <link href="https://www.nber.org/papers/w34032"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34033</id>
-    <title>Did California's Fast Food Minimum Wage Reduce Employment?</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jeffrey Clemens, Olivia Edwards &amp; Jonathan Meer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the effect of California's $20 fast food minimum wage, which was enacted in September 2023 and went into effect in April 2024, on employment in the fast food sector. In unadjusted data from the Quarterly Census of Employment and Wages, we find that employment in California's fast food sector declined by 2.7 percent relative to employment in the fast food sector elsewhere in the United States from September 2023 through September 2024. Adjusting for pre-AB 1228 trends increases this differential decline to 3.2 percent, while netting out the equivalent employment changes in non-minimum-wage-intensive industries further increases the decline. Our median estimate translates into a loss of 18,000 jobs in California's fast food sector relative to the counterfactual.</content>
-    <link href="https://www.nber.org/papers/w34033"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34030</id>
-    <title>Does Universal Occupational Licensing Recognition Improve Patient Access? Evidence from Healthcare Utilization</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yun taek Oh &amp; Morris M. Kleiner</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Optimizing state and regional physician labor supply has been an important policy issue in healthcare in the United States. One of the proposed solutions has been the universal licensing recognition (ULR), which allows out-of-state physicians to provide healthcare services without relicensing and increases the local labor supply of physicians. There has been no empirical analysis of the effect of such regulatory relaxation on the local labor supply and subsequent improvements of consumer welfare. In this study, we use the Behavioral Risk Factor Surveillance System to investigate the effect of universal reciprocity of physician licenses on healthcare utilization, and use data from IPUMS-USA, IPUMS-CPS, and the Doctors and Clinicians National Downloadable File from the Centers for Medicare &amp; Medicaid Services to examine the changes in the local labor supply of physicians through interstate migration and out-of-state practices. Our results show that adopting the ULR significantly raises the proportion of individuals accessing healthcare, particularly among older individuals, and reduces the proportion of individuals not getting healthcare services because of costs. We provide empirical evidence that these effects are from the universal reciprocity of physician licenses, instead of unknown factors related to the ULR. We also show that the positive effect of the ULR on healthcare utilization is closely related to the increase in out-of-state practitioners to include temporary and telehealth physicians, by showing no changes in interstate migration of physicians and an increase in out-of-state practices. The adoption of ULR may allow for a more efficient regional distribution of physicians and result in greater access to healthcare.</content>
-    <link href="https://www.nber.org/papers/w34030"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34031</id>
-    <title>Evaluating Experimental Designs</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Erik Snowberg &amp; Leeat Yariv</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This introductory chapter outlines key criteria for evaluating experimental measures, and connects these criteria to the selection of experimental parameters across various contexts. We aim for this chapter to serve as a framework for assessing the different measures, elicitations, and designs explored throughout the handbook.</content>
-    <link href="https://www.nber.org/papers/w34031"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34038</id>
-    <title>Matching-Gift Incentives and Blood Donation: Linking Local and Global Altruism</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gary Charness, Ramon Cobo-Reyes, Nicola Lacetera, Juan A. Lacomba, Francisco Lagos, Mario Macis, Juliette Milgram-Baleix &amp; María José Ruiz-Martos</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conducted a large-scale field experiment in Granada, Spain, to assess the motivating effect on blood donation of matching each attempt to donate with a charitable contribution pledge for children in developing countries. The intervention involved 344 blood drives and 21,888 participants. Compared to a control condition with no pledges, the pro-social incentives significantly increased blood donation rates by approximately 5% on average. Offering a day or a week’s worth of food for vulnerable populations led to the largest and most robust increases in donations, and repeated exposure to incentives had a reinforcing effect on subsequent donation behavior, especially for individuals who previously donated when incentivized. An auxiliary survey examining the perceived importance and motivational impact of food-related incentives corroborates our findings. Our results suggest that coordination between blood donation campaigns and humanitarian aid programs could enhance the blood supply at minimal additional cost. More broadly, policymakers and nonprofit organizations can align global and local altruism by linking humanitarian assistance with initiatives promoting civic engagement and public health.</content>
-    <link href="https://www.nber.org/papers/w34038"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34029</id>
-    <title>The Death and Life of Great British Cities</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stephan Heblich, Dávid Krisztián Nagy, Alex Trew &amp; Yanos Zylberberg</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does industrial concentration shape the life and death of cities? We identify settlements from historical maps of England and Wales (1790–1820), isolate exogenous variation in their late 19th-century size and industrial concentration, and estimate the causal impact of size and concentration on later dynamics. Industrial concentration has a negative effect on long-run productivity—independent of industry trends and consistent with cross-industry Jacobs externalities. A spatial model quantifies the role of fundamentals, industry trends, and Jacobs externalities in shaping industry-city dynamics and isolates a new, dynamic trade-off in the design of place-based policies.</content>
-    <link href="https://www.nber.org/papers/w34029"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34037</id>
-    <title>Government Monitoring of Health Care Quality: Evidence from the Nursing Home Sector</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yiqun Chen &amp; Marcus Dillender</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In contracting out, monitoring is an important policy tool to extract information on firm quality and incentivize quality provision. This paper examines a central quality inspection of nursing homes, a sector with significant welfare implications but widespread public concerns about its quality of care. Using data on nursing homes across the US, we find that nursing homes exhibit strategic responses to the inspection. Nursing homes increase the quantity and quality of labor inputs, reduce admissions, increase temporary discharges, and improve patient care in response to the inspection. However, nearly all responses described above drop immediately once the inspection is completed. While inspection rating is unlikely to reflect nursing homes’ absolute quality given the strategic responses, using a quasi-experimental research design we find that inspection rating predicts nursing homes’ relative quality. Finally, we examine the effects of quality deficiency citations issued by the inspection on incentivizing nursing homes to improve quality of care, finding mixed impacts.</content>
-    <link href="https://www.nber.org/papers/w34037"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33975</id>
-    <title>Eurosclerosis at 40: Labor Market Institutions, Dynamism, and European Competitiveness</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Schoefer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores a repositioning of Europe’s labor market institutions as potential drivers of the transatlantic gap in macroeconomic performance. Institutional diagnoses were prominent in times of high European unemployment in the 1980-90s. But interest waned as joblessness fell—even though the decline was uneven, precarious work arrangements have grown, and labor markets remain largely unreformed (unlike product and financial markets). Yet, rigid labor market institutions might continue to matter because they can stifle labor market and business dynamism: Europeans switch jobs much less frequently, and restructuring is much rarer. Recent research argues that such immobility impedes wage and productivity growth. Moreover, this low dynamism might contribute to Europe’s specific underperformance in tech, R&amp;D, disruptive innovation, ICT adoption—where creative destruction requires fluid reallocation. This institutional labor market perspective on European competitiveness complements prevailing diagnoses focused on capital and product market fragmentation. Tight labor markets, lower unemployment, and shrinking labor supply might keep this nexus timely.</content>
-    <link href="https://www.nber.org/papers/w33975"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper documents the evolution of US carbon emissions and discusses the main factors that contributed to the historical carbon emissions rollercoaster. We divide the discussion into four periods – up to 1920, 1920-1960, 1960-2005 and after 2005. For each period, we discuss the main drivers of national carbon emissions. We then discuss trends in carbon emissions in the electricity sector. Electricity sector emissions were initially very small, but would become the largest source of US carbon emissions over the period 1980-2015, and the largest contributor to decarbonization since 2007. In the final section, we distill lessons from the U.S. experience that may inform decarbonization strategies in developing economies.</content>
+    <link href="https://www.nber.org/papers/w33983"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -495,30 +399,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a new rule-based linking method for historical Census records. We augment earlier algorithms based on name, age and place of birth (Abramitzky, Boustan, Eriksson, 2012, or “basic ABE”), with five matching characteristics – middle initial, county of residence, and spouse and parents’ names. Relative to basic ABE, ABE-Extra Information (“ABE-EI”) greatly increases match rates, improves accuracy and is similarly representative of the population on most attributes, with geographic mobility being one important exception. Relative to machine learning algorithms, ABE-EI has somewhat lower match rates, improved representativeness, and offers full replicability. We also create the first ABE-based links for women.</content>
     <link href="https://www.nber.org/papers/w33999"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33987</id>
-    <title>Due Diligence and the Allocation of Venture Capital</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xiaoyong (Jack) Fu &amp; Lucian A. Taylor</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do investors choose the intensity of their due diligence, and how does that choice affect investment outcomes? Using cell phone signal data, we measure the duration of pre-investment meetings between venture capitalists (VCs) and startup employees. This measure captures one important component of VC due diligence. Less due diligence is associated with hotter deals and markets, busier investors, and greater distance, consistent with a theory of costly learning. Also consistent with that theory, less due diligence is associated with more volatile investment performance, as VCs allocate capital under greater uncertainty. Overall, VCs appear to trade off the costs of due diligence with its improvements to capital allocation.</content>
-    <link href="https://www.nber.org/papers/w33987"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33983</id>
-    <title>Carbon Rollercoaster: A Historical Analysis of Decarbonization in the United States</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Karen Clay, Akshaya Jha, Joshua A. Lewis &amp; Edson R. Severnini</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper documents the evolution of US carbon emissions and discusses the main factors that contributed to the historical carbon emissions rollercoaster. We divide the discussion into four periods – up to 1920, 1920-1960, 1960-2005 and after 2005. For each period, we discuss the main drivers of national carbon emissions. We then discuss trends in carbon emissions in the electricity sector. Electricity sector emissions were initially very small, but would become the largest source of US carbon emissions over the period 1980-2015, and the largest contributor to decarbonization since 2007. In the final section, we distill lessons from the U.S. experience that may inform decarbonization strategies in developing economies.</content>
-    <link href="https://www.nber.org/papers/w33983"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -667,18 +547,6 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34012</id>
-    <title>Do Workforce Development Programs Bridge the Skills Gap</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eleanor W. Dillon, Lisa B. Kahn, Joanna Venator &amp; Michael Dalton</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most U.S. states have workforce development programs that offer firms grants to train their own workers. We create unique data linkages between participating firms, employment, and vacancies to explore the determinants and consequences of such programs. Training grants are more prevalent in markets where firms face greater employee poaching risk, suggesting these programs help overcome a market failure in updating worker skills. After training, firms experience prolonged employment growth and down-skilling in their job posts, relative to a matched control group. Training appears to help firms move toward optimal scale and expand opportunities for less skilled workers.</content>
-    <link href="https://www.nber.org/papers/w34012"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34009</id>
     <title>Unpriced Risks: Rethinking Cross-Sectional Asset Pricing</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -691,6 +559,138 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w33975</id>
+    <title>Eurosclerosis at 40: Labor Market Institutions, Dynamism, and European Competitiveness</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Schoefer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores a repositioning of Europe’s labor market institutions as potential drivers of the transatlantic gap in macroeconomic performance. Institutional diagnoses were prominent in times of high European unemployment in the 1980-90s. But interest waned as joblessness fell—even though the decline was uneven, precarious work arrangements have grown, and labor markets remain largely unreformed (unlike product and financial markets). Yet, rigid labor market institutions might continue to matter because they can stifle labor market and business dynamism: Europeans switch jobs much less frequently, and restructuring is much rarer. Recent research argues that such immobility impedes wage and productivity growth. Moreover, this low dynamism might contribute to Europe’s specific underperformance in tech, R&amp;D, disruptive innovation, ICT adoption—where creative destruction requires fluid reallocation. This institutional labor market perspective on European competitiveness complements prevailing diagnoses focused on capital and product market fragmentation. Tight labor markets, lower unemployment, and shrinking labor supply might keep this nexus timely.</content>
+    <link href="https://www.nber.org/papers/w33975"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34035</id>
+    <title>Adaptive Priority Mechanisms</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Oğuzhan Çelebi &amp; Joel P. Flynn</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How should authorities that care about match quality and diversity allocate resources in the face of uncertainty? We introduce adaptive priority mechanisms (APM) that prioritize agents based on their scores and characteristics. We show that APM uniquely implement the ex post optimal allocation. The ubiquitous priority and quota mechanisms are optimal if and only if the authority is risk-neutral or extremely risk-averse over diversity, respectively. Deferred Acceptance implements the unique stable matching when all authorities use the optimal APM. We provide a practical roadmap for implementing APM as a market-design solution and illustrate this using Chicago Public Schools data.</content>
+    <link href="https://www.nber.org/papers/w34035"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34036</id>
+    <title>Rounding up the Effect of Tariffs on Financial Markets: Evidence from April 2, 2025</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Felipe Benguria &amp; Felipe Saffie</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure the response of financial outcomes to the US announcement on April 2, 2025, of tariffs on nearly all its trading partners. To address the challenge posed by potential anticipation by economic agents, we decompose these tariffs into a component associated with bilateral deficits and an arguably unanticipated component resulting from the rounding up of the continuous deficit measure to the next whole number or to the baseline 10% rate. We measure the short-term response of stock prices and exchange rates, focusing on all countries with which the US has a bilateral deficit. For both outcomes, the round-up component’s effect is an order of magnitude larger than that of the deficit component. We find that a one percentage point higher tariff is associated with a statistically significant 0.23% decline in stock prices. Further, we find no evidence of a dollar appreciation; if anything, higher tariffs are associated with a dollar depreciation, driven by countries with a floating regime. We show this is consistent with a model that allows for trade reallocation and in which exports to the US are invoiced in dollars while exports to the rest of the world are partly invoiced in producer currency.</content>
+    <link href="https://www.nber.org/papers/w34036"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34034</id>
+    <title>The Economics of Bicycles for the Mind</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ajay K. Agrawal, Joshua S. Gans &amp; Avi Goldfarb</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Steve Jobs described computers as “bicycles for the mind,” a tool that allowed people to dramatically leverage their capabilities. This paper presents a formal model of cognitive tools and technologies that enhance mental capabilities. We consider agents engaged in iterative task improvement, where cognitive tools are assumed to be substitutes for implementation skills and may or may not be complements to judgment, depending on their type. The ability to recognise opportunities to start or improve a process, which we term opportunity judgment, is shown to always complement cognitive tools. The ability to know which action to take in a given state, which we term payoff judgment, is not necessarily a complement to cognitive tools. Using these concepts, we can synthesise the empirical literature on the impact of computers and artificial intelligence (AI) on productivity and inequality. Specifically, while both computers and AI appear to increase productivity, computers have also contributed to increased inequality. Empirical work on the impact of AI on inequality has shown both increases and decreases, depending on the context. We also apply the model to understand how cognitive tools might influence incentives to automate processes and allocate decision-making authority within teams.</content>
+    <link href="https://www.nber.org/papers/w34034"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34032</id>
+    <title>The Effect of Hospital Breastfeeding Policies on Infant Health</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Emily C. Lawler &amp; Meghan M. Skira</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the effects of state hospital regulations intended to increase breastfeeding by requiring certain care standards during the postpartum hospital stay. Policy adoption increased breastfeeding initiation by 3.3–4.1 percentage points (4.2–5.2 percent) and breastfeeding at 3 months postpartum by 6–9 percent. Further, following adoption, infant mortality declined by 0.2 deaths per 1,000 live births (3.5 percent), and infant hospitalization charges fell. Declines in mortality and charges primarily occurred among medically vulnerable infants, consistent with evidence that breast milk supports immune development. Additional evidence suggests that improvements in infant sleep practices also played a role in reducing mortality.</content>
+    <link href="https://www.nber.org/papers/w34032"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34033</id>
+    <title>Did California's Fast Food Minimum Wage Reduce Employment?</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jeffrey Clemens, Olivia Edwards &amp; Jonathan Meer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the effect of California's $20 fast food minimum wage, which was enacted in September 2023 and went into effect in April 2024, on employment in the fast food sector. In unadjusted data from the Quarterly Census of Employment and Wages, we find that employment in California's fast food sector declined by 2.7 percent relative to employment in the fast food sector elsewhere in the United States from September 2023 through September 2024. Adjusting for pre-AB 1228 trends increases this differential decline to 3.2 percent, while netting out the equivalent employment changes in non-minimum-wage-intensive industries further increases the decline. Our median estimate translates into a loss of 18,000 jobs in California's fast food sector relative to the counterfactual.</content>
+    <link href="https://www.nber.org/papers/w34033"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34030</id>
+    <title>Does Universal Occupational Licensing Recognition Improve Patient Access? Evidence from Healthcare Utilization</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yun taek Oh &amp; Morris M. Kleiner</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Optimizing state and regional physician labor supply has been an important policy issue in healthcare in the United States. One of the proposed solutions has been the universal licensing recognition (ULR), which allows out-of-state physicians to provide healthcare services without relicensing and increases the local labor supply of physicians. There has been no empirical analysis of the effect of such regulatory relaxation on the local labor supply and subsequent improvements of consumer welfare. In this study, we use the Behavioral Risk Factor Surveillance System to investigate the effect of universal reciprocity of physician licenses on healthcare utilization, and use data from IPUMS-USA, IPUMS-CPS, and the Doctors and Clinicians National Downloadable File from the Centers for Medicare &amp; Medicaid Services to examine the changes in the local labor supply of physicians through interstate migration and out-of-state practices. Our results show that adopting the ULR significantly raises the proportion of individuals accessing healthcare, particularly among older individuals, and reduces the proportion of individuals not getting healthcare services because of costs. We provide empirical evidence that these effects are from the universal reciprocity of physician licenses, instead of unknown factors related to the ULR. We also show that the positive effect of the ULR on healthcare utilization is closely related to the increase in out-of-state practitioners to include temporary and telehealth physicians, by showing no changes in interstate migration of physicians and an increase in out-of-state practices. The adoption of ULR may allow for a more efficient regional distribution of physicians and result in greater access to healthcare.</content>
+    <link href="https://www.nber.org/papers/w34030"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34031</id>
+    <title>Evaluating Experimental Designs</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Erik Snowberg &amp; Leeat Yariv</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This introductory chapter outlines key criteria for evaluating experimental measures, and connects these criteria to the selection of experimental parameters across various contexts. We aim for this chapter to serve as a framework for assessing the different measures, elicitations, and designs explored throughout the handbook.</content>
+    <link href="https://www.nber.org/papers/w34031"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34038</id>
+    <title>Matching-Gift Incentives and Blood Donation: Linking Local and Global Altruism</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gary Charness, Ramon Cobo-Reyes, Nicola Lacetera, Juan A. Lacomba, Francisco Lagos, Mario Macis, Juliette Milgram-Baleix &amp; María José Ruiz-Martos</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conducted a large-scale field experiment in Granada, Spain, to assess the motivating effect on blood donation of matching each attempt to donate with a charitable contribution pledge for children in developing countries. The intervention involved 344 blood drives and 21,888 participants. Compared to a control condition with no pledges, the pro-social incentives significantly increased blood donation rates by approximately 5% on average. Offering a day or a week’s worth of food for vulnerable populations led to the largest and most robust increases in donations, and repeated exposure to incentives had a reinforcing effect on subsequent donation behavior, especially for individuals who previously donated when incentivized. An auxiliary survey examining the perceived importance and motivational impact of food-related incentives corroborates our findings. Our results suggest that coordination between blood donation campaigns and humanitarian aid programs could enhance the blood supply at minimal additional cost. More broadly, policymakers and nonprofit organizations can align global and local altruism by linking humanitarian assistance with initiatives promoting civic engagement and public health.</content>
+    <link href="https://www.nber.org/papers/w34038"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34029</id>
+    <title>The Death and Life of Great British Cities</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stephan Heblich, Dávid Krisztián Nagy, Alex Trew &amp; Yanos Zylberberg</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does industrial concentration shape the life and death of cities? We identify settlements from historical maps of England and Wales (1790–1820), isolate exogenous variation in their late 19th-century size and industrial concentration, and estimate the causal impact of size and concentration on later dynamics. Industrial concentration has a negative effect on long-run productivity—independent of industry trends and consistent with cross-industry Jacobs externalities. A spatial model quantifies the role of fundamentals, industry trends, and Jacobs externalities in shaping industry-city dynamics and isolates a new, dynamic trade-off in the design of place-based policies.</content>
+    <link href="https://www.nber.org/papers/w34029"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34037</id>
+    <title>Government Monitoring of Health Care Quality: Evidence from the Nursing Home Sector</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yiqun Chen &amp; Marcus Dillender</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In contracting out, monitoring is an important policy tool to extract information on firm quality and incentivize quality provision. This paper examines a central quality inspection of nursing homes, a sector with significant welfare implications but widespread public concerns about its quality of care. Using data on nursing homes across the US, we find that nursing homes exhibit strategic responses to the inspection. Nursing homes increase the quantity and quality of labor inputs, reduce admissions, increase temporary discharges, and improve patient care in response to the inspection. However, nearly all responses described above drop immediately once the inspection is completed. While inspection rating is unlikely to reflect nursing homes’ absolute quality given the strategic responses, using a quasi-experimental research design we find that inspection rating predicts nursing homes’ relative quality. Finally, we examine the effects of quality deficiency citations issued by the inspection on incentivizing nursing homes to improve quality of care, finding mixed impacts.</content>
+    <link href="https://www.nber.org/papers/w34037"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34062</id>
     <title>Greener on the Other Side: Inequity and Tax Compliance</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -699,6 +699,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Governments frequently use proxies for deservingness—tags—to implement progressive tax and transfer policies. These proxies are often imperfect, leading to misclassification and inequities among equally deserving individuals. This paper studies the efficiency effects of such misclassification in the context of the property tax system in Manaus, Brazil. We leverage quasi-experimental variation in inequity generated by the boundaries of geographic sectors used to compute tax liabilities and a large tax reform in a series of augmented boundary discontinuity designs. We find that inequities significantly reduce tax compliance. The elasticity of compliance with respect to inequity is between 0.12 and 0.25, accounting for half of the overall change in compliance at the boundaries. A simple model of presumptive property taxation shows how mistagging affects the optimal tax schedule, highlighting the opposite implications of responses to the level of taxation and to inequity for optimal tax progressivity. Interpreting our findings through the lens of the model implies that optimal progressivity is around 50% lower than it would be absent inequity responses. These results underscore the importance of inequity for public policy design, especially in contexts with low fiscal capacity.</content>
     <link href="https://www.nber.org/papers/w34062"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34055</id>
+    <title>Targeting Distributional Impacts in the Presence of Behavioral Responses: Lessons from Maritime Emissions Regulation</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jamie Hansen-Lewis &amp; Michelle M. Marcus</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Targeting distributional impacts is gaining importance in the design of environmental policy. To achieve this, policy makers are adopting advances in air transport models to predict the benefits of air emissions regulation. These models offer policy makers accuracy in the spatial distribution of ambient air quality improvements for a given emissions reduction, but do not take into account behavioral responses to environmental policies. We consider how the failure to account for behavioral responses when making policy predictions may have important implications for the ultimate distributional impact of such policies. We compare the distributional impacts of maritime emission regulation predicted from the policy maker's air transport model to the realized distributional impacts. We then decompose the prediction error from two components: model error, whereby the predictions of air transport models fail to account for behavioral responses of polluting firms, and sorting error, whereby the targeted population migrates.</content>
+    <link href="https://www.nber.org/papers/w34055"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -763,6 +775,18 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34044</id>
+    <title>The Aggregate Welfare and Trade Implications of Contracting Frictions in Global Sourcing</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Davin Chor &amp; Lin Ma</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How much do contracting frictions between global firms and their suppliers impact country welfare and trade? We answer this by developing a model of global sourcing under partial contractibility, where firm-supplier relationships are exposed to a bilateral holdup problem. Sourcing decisions aggregate into a gravity equation for trade flows by organizational mode (intrafirm vs. arm’s length), which we take to structural estimation. We can then evaluate welfare changes with an extended Arkolakis, Costinot and Rodriguez-Clare (2012) formula that incorporates these contracting frictions. Our counterfactual analysis reveals a sizeable average country welfare gain of 9.2% from eliminating contracting frictions in global sourcing. We further show how accounting for these frictions significantly reshapes quantitative assessments of the welfare gains from trade, including the stakes in a US-China decoupling scenario.</content>
+    <link href="https://www.nber.org/papers/w34044"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34061</id>
     <title>Capital Budgeting For EPS Maximizers</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -783,30 +807,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper evaluates Laffer curves produced by reforms to nonlinear income taxes, focusing on individual taxpayers. A reform puts a taxpayer on the “wrong” side of the Laffer curve if it increases their tax burden while reducing tax payments. There always exist potential reforms with this property – and in particular, tax increases restricted to high-income taxpayers are guaranteed to consign some to the wrong side of the Laffer curve. The original design of the 2024 Australian tax reform would have put 15% of the taxpaying population on the wrong side of the Laffer curve, though subsequent modifications reduced this to 5%. Standard tax progressivity measures that ignore the endogeneity of taxable income generally understate the redistributive impact of progressive tax reforms.</content>
     <link href="https://www.nber.org/papers/w34059"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34055</id>
-    <title>Targeting Distributional Impacts in the Presence of Behavioral Responses: Lessons from Maritime Emissions Regulation</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jamie Hansen-Lewis &amp; Michelle M. Marcus</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Targeting distributional impacts is gaining importance in the design of environmental policy. To achieve this, policy makers are adopting advances in air transport models to predict the benefits of air emissions regulation. These models offer policy makers accuracy in the spatial distribution of ambient air quality improvements for a given emissions reduction, but do not take into account behavioral responses to environmental policies. We consider how the failure to account for behavioral responses when making policy predictions may have important implications for the ultimate distributional impact of such policies. We compare the distributional impacts of maritime emission regulation predicted from the policy maker's air transport model to the realized distributional impacts. We then decompose the prediction error from two components: model error, whereby the predictions of air transport models fail to account for behavioral responses of polluting firms, and sorting error, whereby the targeted population migrates.</content>
-    <link href="https://www.nber.org/papers/w34055"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34044</id>
-    <title>The Aggregate Welfare and Trade Implications of Contracting Frictions in Global Sourcing</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Davin Chor &amp; Lin Ma</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How much do contracting frictions between global firms and their suppliers impact country welfare and trade? We answer this by developing a model of global sourcing under partial contractibility, where firm-supplier relationships are exposed to a bilateral holdup problem. Sourcing decisions aggregate into a gravity equation for trade flows by organizational mode (intrafirm vs. arm’s length), which we take to structural estimation. We can then evaluate welfare changes with an extended Arkolakis, Costinot and Rodriguez-Clare (2012) formula that incorporates these contracting frictions. Our counterfactual analysis reveals a sizeable average country welfare gain of 9.2% from eliminating contracting frictions in global sourcing. We further show how accounting for these frictions significantly reshapes quantitative assessments of the welfare gains from trade, including the stakes in a US-China decoupling scenario.</content>
-    <link href="https://www.nber.org/papers/w34044"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
