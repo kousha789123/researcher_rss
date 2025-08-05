@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-08-04T13:47:18.610222+00:00</updated>
+  <updated>2025-08-05T13:41:41.245955+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34013</id>
+    <title>Racial Inequality in France</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yajna Govind ⓡ Paolo Santini ⓡ Ellora Derenoncourt</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study racial inequality in 21st century France. Using parents’ nationality at birth, we overcome the lack of ethno-racial statistics stemming from the country’s “color-blind” approach. We document substantial earnings penalties for racial minorities along the income distribution. Penalties are larger at the median than the top and for Middle-Eastern and North African (MENA) and Sub-Saharan African origin (Black) individuals. We compare racial inequality in France vs. the U.S. by simulating where French minorities would fall in the U.S. distribution. Black and Non-White individuals in France benefit from the country’s lower overall inequality, but experience comparable, occasionally larger, rank gaps.</content>
+    <link href="https://www.nber.org/papers/w34013"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34012</id>
     <title>Do Workforce Development Programs Bridge the Skills Gap</title>
@@ -451,18 +463,6 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34015</id>
-    <title>Early and Accurate Recession Detection Using Classifiers on the Anticipation-Precision Frontier</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pascal Michaillat</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a new algorithm for detecting US recessions in real time. The algorithm constructs millions of recession classifiers by combining unemployment and vacancy data to reduce detection noise. Classifiers are then selected to avoid both false negatives (missed recessions) and false positives (nonexistent recessions). The selected classifiers are therefore perfect, in that they identify all 15 historical recessions in the 1929–2021 training period without any false positives. By further selecting classifiers that lie on the high-precision segment of the anticipation-precision frontier, the algorithm optimizes early detection without sacrificing precision. On average, over 1929–2021, the classifier ensemble signals recessions 2.2 months after their true onset, with a standard deviation of detection errors of 1.9 months. Applied to May 2025 data, the classifier ensemble gives a 71% probability that the US economy is currently in recession. A placebo test and backtests confirm the algorithm’s reliability. The classifier ensembles trained on 1929–2004, 1929–1984, and 1929–1964 data in backtests give a current recession probability of 58%, 83%, and 25%, respectively.</content>
-    <link href="https://www.nber.org/papers/w34015"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34016</id>
     <title>Wealth Inequality, Labor Market Arrangements and the Secular Decline in the Real Interest Rate</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -787,114 +787,6 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34077</id>
-    <title>Understanding Cultural Change</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Raquel Fernández</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Culture’s influence on economic outcomes is no longer controversial among economists even if it remains largely ignored in many areas of economics.  This paper tackles a different question:  why does culture change?  The underlying premise adopted here is that culture changes because incentives change, transforming actions and beliefs. An idiosyncratic review of the literature follows that illustrates how the environment (e.g., the prevalence of pathogens or the suitability of land for pastoralism) and historical experiences (e.g., colonization, war, or migration) can affect relationships of power in society and shape people’s beliefs.  It then examines the role of new information and ideas (i.e., learning) and finally the role of policies in shaping incentives and changing culture.  A second part of the paper reviews work that models the mechanisms of cultural change more explicitly, using quantitative models to examine the interplay between economic incentives and evolving beliefs or preferences and to study the importance of intermediating mechanisms.  Given that one of the most profound cultural and economic transformations of the past 150 years concerns gender roles, this theme recurs throughout.</content>
-    <link href="https://www.nber.org/papers/w34077"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34076</id>
-    <title>Opting Out of Centralized Collective Bargaining: Evidence from Italy</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christian Dustmann, Chiara Giannetto, Lorenzo Incoronato, Chiara Lacava, Vincenzo Pezone, Raffaele Saggio &amp; Benjamin Schoefer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents micro-empirical evidence on the effects of wage-setting decentralization. Our setting is Italy, where employers are required to comply with occupation- and industry-specific wage floors set by national collective bargaining agreements. We show that opting out of these agreements reduces wages but increases workers’ employment and retention within firms. These effects are most pronounced in the more productive North, where the overall impact on workers’ earnings is slightly positive. In contrast, in the South, wage losses outweigh employment gains, leading to a net decline in earnings. We also find that increased wage-setting flexibility is associated with higher firm survival rates in both regions. The regional divergence in outcomes aligns with a monopsony framework in which productivity and labor supply elasticities vary spatially.</content>
-    <link href="https://www.nber.org/papers/w34076"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34068</id>
-    <title>The Time Cost of a Disability</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Daniel S. Hamermesh &amp; Michał Myck</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We consider how a physical disability alters patterns of time use. A disability may raise the time cost of all activities; of some—making them differentially less worth doing; or it may make switching activities more costly. The first yields no predictions about time use, but the latter two possibilities both predict that fewer activities will be undertaken, with more time spent on each. These explanations describe our findings based on non-working ATUS 2008-22 respondents ages 70+, 32 percent of whom self-assess a disability. Data from the Polish Time Use Survey, where disability is medically certified, show similar results; and they demonstrate the same loss of variety over multiple days. Remarkably similar basic results are found using homogenized British, Canadian, French, Spanish, and Italian time-diaries. Overall, a mobility/physical disability leads an otherwise identical person to engage in over 10 percent fewer activities on a typical day. The lost variety represents extra costs equivalent in data from six countries to over twice the average annual income among older individuals in the country.</content>
-    <link href="https://www.nber.org/papers/w34068"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34067</id>
-    <title>Multinational Firms and Cross-Border Mergers: Theory and Evidence</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kenneth R. Ahern</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Multinational firms play a pivotal role in the global economy, yet economic and finance research has largely examined them in isolation.  Economic theory focuses on trade and multinational activity but gives relatively little attention to cross-border mergers, while finance research emphasizes empirical studies of mergers but rarely integrates broader economic theories. This chapter aims to synthesize these two literatures into a unified framework for understanding multinational firms and cross-border mergers.  The discussion is organized around the decision-making process of multinational firms, from choosing to operate internationally to selecting between greenfield investment and mergers.  This framework reveals the theoretical and empirical evidence on the drivers of multinational production,  including productivity gains, knowledge transfers, and market frictions. The findings highlight the commonality between the two literatures, but also suggests that greater integration between economic theory and finance research will generate a deeper understanding of the role of multinational firms in the global economy.</content>
-    <link href="https://www.nber.org/papers/w34067"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34066</id>
-    <title>Digital Economy, Stablecoins, and the Global Financial System</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Marina Azzimonti &amp; Vincenzo Quadrini</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The rise of the Digital Economy has the potential to reshape international financial markets and the role of traditional reserve assets such as the US dollar. While the creation of Stablecoins may increase the demand for safe dollar-denominated instruments due to reserve backing requirements, they may also serve as substitutes, reducing the global demand for traditional reserve assets. We develop a multicountry model featuring the US, the rest of the world, and a distinct Digital Economy to quantify the impact of the potential expansion of the digital economy. Our results show that, in the long run, the reserve demand effect dominates the substitution effect, leading to lower US interest rates and greater US foreign borrowing. We also find that the expansion of the Digital Economy increases idiosyncratic consumption volatility in the US, while reducing it in the rest of the world.</content>
-    <link href="https://www.nber.org/papers/w34066"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34065</id>
-    <title>Flexible Data Centers and the Grid: Lower Costs, Higher Emissions?</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher R. Knittel, Juan Ramon L. Senga &amp; Shen Wang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data centers are among the fastest-growing electricity consumers, raising concerns about their impact on grid operations and decarbonization goals. Their temporal flexibility—the ability to shift workloads over time—offers a source of demand-side flexibility. We model power systems in three U.S. regions: Mid-Atlantic, Texas, and WECC, under varying flexibility levels. We evaluate flexibility's effects on grid operations, investment, system costs, and emissions. Across all scenarios, flexible data centers reduce costs by shifting load from peak to off-peak hours, flattening net demand, and supporting renewable and baseload resources. This load shifting facilitates renewable integration while improving the utilization of existing baseload capacity. As a result, the emissions impact depends on which effect dominates. Higher renewable penetration increases the emissions-reduction potential of data center flexibility, while lower shares favor baseload generation and may raise emissions. Our findings highlight the importance of aligning data center flexibility with renewable deployment and regional conditions.</content>
-    <link href="https://www.nber.org/papers/w34065"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34075</id>
-    <title>Unpacking Aggregate Welfare in a Spatial Economy</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eric Donald, Masao Fukui &amp; Yuhei Miyauchi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do regional productivity shocks or transportation infrastructure improvements affect aggregate welfare? In a general class of spatial equilibrium models, we provide a formula for aggregate welfare changes, decomposed into terms associated with (i) technology (Fogel 1964, Hulten 1978), (ii) spatial dispersion of marginal utility, (iii) fiscal externalities, (iv) technological externalities, and (v) redistribution. We further use this decomposition to derive a general formula for optimal spatial transfers and show that, whenever optimal transfers are in place, the technology term alone captures the aggregate welfare effects of technological shocks. We apply our framework to study welfare gains from improving the US highway network. We find that changes in the spatial dispersion of marginal utility are as important as technological externalities in accounting for the deviations from the Fogel-Hulten benchmark to assess welfare gains.</content>
-    <link href="https://www.nber.org/papers/w34075"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34074</id>
-    <title>Mobilizing Green Support through Digital Technology</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jiayin Hu, Shang-Jin Wei, Jianwei Xing &amp; Eric Zou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A central challenge in the climate crisis is how to mobilize collective action—and who can do it. We show that digital platforms can transform latent support for sustainability into measurable environmental outcomes, while also generating value for the platform itself. We study Ant Forest, a program embedded in Alipay, China’s leading fintech app, which rewards users’ low-carbon behaviors with game points redeemable for planting real trees in arid regions of the country. Since its launch in 2016, the program has engaged over 700 million users and funded the planting of 500 million trees. Using user-level data, we find that participation is significantly higher in cities that have experienced faster vegetation growth. We propose a “green experience” mechanism: visible environmental improvement fosters greater appreciation for nature and increases support for sustainability efforts elsewhere. Survey evidence supports this mechanism, with participants also citing gamification and warm glow as key motivators. We further document spillover effects: Ant Forest participation boosts donations to external environmental projects and increases overall use of the Alipay app. These findings highlight the potential of digital platforms to scale climate action while creating shared environmental and economic value.</content>
-    <link href="https://www.nber.org/papers/w34074"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34078</id>
-    <title>The Risk, Reward, and Asset Allocation of Nonprofit Endowment Funds</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andrew W. Lo, Egor V. Matveyev &amp; Stefan Zeume</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using tax filings from 374,351 U.S. nonprofit organizations from 2008 to 2020, we provide the first large-scale analysis of endowment prevalence, function, asset allocation, and returns. Endowment use varies systematically across sectors and revenue models. Organizations with endowments scale mission-related spending more effectively and hedge revenue risk through asset allocation. Yet most endowments underperform passive benchmarks, with the weakest performance concentrated among smaller, self-managed funds. Advisory fees are positively correlated with gross returns but negatively with net returns, suggesting overpayment for investment services. Stronger governance, lower discretionary spending, and the use of outsourced CIOs are associated with better performance.</content>
-    <link href="https://www.nber.org/papers/w34078"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34082</id>
     <title>Can Author Manipulation of AI Referees be Welfare Improving?</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -999,6 +891,114 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine a model in which one firm uses a pricing algorithm that enables faster pricing and multi-period commitment. We characterize a coercive equilibrium in which the algorithmic firm maximizes its profits subject to the incentive compatibility constraint of its rival. By adopting an algorithm that enables faster pricing and (imperfect) commitment, a firm can unilaterally induce substantially higher equilibrium prices even when its rival maximizes short-run profits and cannot collude. The algorithmic firm can earn profits that exceed its share of collusive profits, and coercive equilibrium outcomes can be worse for consumers than collusive outcomes. We use simulations to show how coercion arises rapidly when the algorithmic firm’s rival uses a simple learning process to set prices. Finally, we examine the implications of algorithm technology for platform design.</content>
     <link href="https://www.nber.org/papers/w34070"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34077</id>
+    <title>Understanding Cultural Change</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Raquel Fernández</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Culture’s influence on economic outcomes is no longer controversial among economists even if it remains largely ignored in many areas of economics.  This paper tackles a different question:  why does culture change?  The underlying premise adopted here is that culture changes because incentives change, transforming actions and beliefs. An idiosyncratic review of the literature follows that illustrates how the environment (e.g., the prevalence of pathogens or the suitability of land for pastoralism) and historical experiences (e.g., colonization, war, or migration) can affect relationships of power in society and shape people’s beliefs.  It then examines the role of new information and ideas (i.e., learning) and finally the role of policies in shaping incentives and changing culture.  A second part of the paper reviews work that models the mechanisms of cultural change more explicitly, using quantitative models to examine the interplay between economic incentives and evolving beliefs or preferences and to study the importance of intermediating mechanisms.  Given that one of the most profound cultural and economic transformations of the past 150 years concerns gender roles, this theme recurs throughout.</content>
+    <link href="https://www.nber.org/papers/w34077"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34076</id>
+    <title>Opting Out of Centralized Collective Bargaining: Evidence from Italy</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christian Dustmann, Chiara Giannetto, Lorenzo Incoronato, Chiara Lacava, Vincenzo Pezone, Raffaele Saggio &amp; Benjamin Schoefer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents micro-empirical evidence on the effects of wage-setting decentralization. Our setting is Italy, where employers are required to comply with occupation- and industry-specific wage floors set by national collective bargaining agreements. We show that opting out of these agreements reduces wages but increases workers’ employment and retention within firms. These effects are most pronounced in the more productive North, where the overall impact on workers’ earnings is slightly positive. In contrast, in the South, wage losses outweigh employment gains, leading to a net decline in earnings. We also find that increased wage-setting flexibility is associated with higher firm survival rates in both regions. The regional divergence in outcomes aligns with a monopsony framework in which productivity and labor supply elasticities vary spatially.</content>
+    <link href="https://www.nber.org/papers/w34076"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34068</id>
+    <title>The Time Cost of a Disability</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel S. Hamermesh &amp; Michał Myck</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We consider how a physical disability alters patterns of time use. A disability may raise the time cost of all activities; of some—making them differentially less worth doing; or it may make switching activities more costly. The first yields no predictions about time use, but the latter two possibilities both predict that fewer activities will be undertaken, with more time spent on each. These explanations describe our findings based on non-working ATUS 2008-22 respondents ages 70+, 32 percent of whom self-assess a disability. Data from the Polish Time Use Survey, where disability is medically certified, show similar results; and they demonstrate the same loss of variety over multiple days. Remarkably similar basic results are found using homogenized British, Canadian, French, Spanish, and Italian time-diaries. Overall, a mobility/physical disability leads an otherwise identical person to engage in over 10 percent fewer activities on a typical day. The lost variety represents extra costs equivalent in data from six countries to over twice the average annual income among older individuals in the country.</content>
+    <link href="https://www.nber.org/papers/w34068"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34067</id>
+    <title>Multinational Firms and Cross-Border Mergers: Theory and Evidence</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kenneth R. Ahern</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Multinational firms play a pivotal role in the global economy, yet economic and finance research has largely examined them in isolation.  Economic theory focuses on trade and multinational activity but gives relatively little attention to cross-border mergers, while finance research emphasizes empirical studies of mergers but rarely integrates broader economic theories. This chapter aims to synthesize these two literatures into a unified framework for understanding multinational firms and cross-border mergers.  The discussion is organized around the decision-making process of multinational firms, from choosing to operate internationally to selecting between greenfield investment and mergers.  This framework reveals the theoretical and empirical evidence on the drivers of multinational production,  including productivity gains, knowledge transfers, and market frictions. The findings highlight the commonality between the two literatures, but also suggests that greater integration between economic theory and finance research will generate a deeper understanding of the role of multinational firms in the global economy.</content>
+    <link href="https://www.nber.org/papers/w34067"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34066</id>
+    <title>Digital Economy, Stablecoins, and the Global Financial System</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Marina Azzimonti &amp; Vincenzo Quadrini</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The rise of the Digital Economy has the potential to reshape international financial markets and the role of traditional reserve assets such as the US dollar. While the creation of Stablecoins may increase the demand for safe dollar-denominated instruments due to reserve backing requirements, they may also serve as substitutes, reducing the global demand for traditional reserve assets. We develop a multicountry model featuring the US, the rest of the world, and a distinct Digital Economy to quantify the impact of the potential expansion of the digital economy. Our results show that, in the long run, the reserve demand effect dominates the substitution effect, leading to lower US interest rates and greater US foreign borrowing. We also find that the expansion of the Digital Economy increases idiosyncratic consumption volatility in the US, while reducing it in the rest of the world.</content>
+    <link href="https://www.nber.org/papers/w34066"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34065</id>
+    <title>Flexible Data Centers and the Grid: Lower Costs, Higher Emissions?</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher R. Knittel, Juan Ramon L. Senga &amp; Shen Wang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data centers are among the fastest-growing electricity consumers, raising concerns about their impact on grid operations and decarbonization goals. Their temporal flexibility—the ability to shift workloads over time—offers a source of demand-side flexibility. We model power systems in three U.S. regions: Mid-Atlantic, Texas, and WECC, under varying flexibility levels. We evaluate flexibility's effects on grid operations, investment, system costs, and emissions. Across all scenarios, flexible data centers reduce costs by shifting load from peak to off-peak hours, flattening net demand, and supporting renewable and baseload resources. This load shifting facilitates renewable integration while improving the utilization of existing baseload capacity. As a result, the emissions impact depends on which effect dominates. Higher renewable penetration increases the emissions-reduction potential of data center flexibility, while lower shares favor baseload generation and may raise emissions. Our findings highlight the importance of aligning data center flexibility with renewable deployment and regional conditions.</content>
+    <link href="https://www.nber.org/papers/w34065"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34075</id>
+    <title>Unpacking Aggregate Welfare in a Spatial Economy</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eric Donald, Masao Fukui &amp; Yuhei Miyauchi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do regional productivity shocks or transportation infrastructure improvements affect aggregate welfare? In a general class of spatial equilibrium models, we provide a formula for aggregate welfare changes, decomposed into terms associated with (i) technology (Fogel 1964, Hulten 1978), (ii) spatial dispersion of marginal utility, (iii) fiscal externalities, (iv) technological externalities, and (v) redistribution. We further use this decomposition to derive a general formula for optimal spatial transfers and show that, whenever optimal transfers are in place, the technology term alone captures the aggregate welfare effects of technological shocks. We apply our framework to study welfare gains from improving the US highway network. We find that changes in the spatial dispersion of marginal utility are as important as technological externalities in accounting for the deviations from the Fogel-Hulten benchmark to assess welfare gains.</content>
+    <link href="https://www.nber.org/papers/w34075"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34074</id>
+    <title>Mobilizing Green Support through Digital Technology</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jiayin Hu, Shang-Jin Wei, Jianwei Xing &amp; Eric Zou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A central challenge in the climate crisis is how to mobilize collective action—and who can do it. We show that digital platforms can transform latent support for sustainability into measurable environmental outcomes, while also generating value for the platform itself. We study Ant Forest, a program embedded in Alipay, China’s leading fintech app, which rewards users’ low-carbon behaviors with game points redeemable for planting real trees in arid regions of the country. Since its launch in 2016, the program has engaged over 700 million users and funded the planting of 500 million trees. Using user-level data, we find that participation is significantly higher in cities that have experienced faster vegetation growth. We propose a “green experience” mechanism: visible environmental improvement fosters greater appreciation for nature and increases support for sustainability efforts elsewhere. Survey evidence supports this mechanism, with participants also citing gamification and warm glow as key motivators. We further document spillover effects: Ant Forest participation boosts donations to external environmental projects and increases overall use of the Alipay app. These findings highlight the potential of digital platforms to scale climate action while creating shared environmental and economic value.</content>
+    <link href="https://www.nber.org/papers/w34074"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34078</id>
+    <title>The Risk, Reward, and Asset Allocation of Nonprofit Endowment Funds</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew W. Lo, Egor V. Matveyev &amp; Stefan Zeume</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using tax filings from 374,351 U.S. nonprofit organizations from 2008 to 2020, we provide the first large-scale analysis of endowment prevalence, function, asset allocation, and returns. Endowment use varies systematically across sectors and revenue models. Organizations with endowments scale mission-related spending more effectively and hedge revenue risk through asset allocation. Yet most endowments underperform passive benchmarks, with the weakest performance concentrated among smaller, self-managed funds. Advisory fees are positively correlated with gross returns but negatively with net returns, suggesting overpayment for investment services. Stronger governance, lower discretionary spending, and the use of outsourced CIOs are associated with better performance.</content>
+    <link href="https://www.nber.org/papers/w34078"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
