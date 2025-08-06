@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-08-05T13:41:41.245955+00:00</updated>
+  <updated>2025-08-06T13:53:21.716492+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34014</id>
+    <title>Optimal Estimation of Two-Way Effects under Limited Mobility</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xu Cheng, Sheng Chao Ho &amp; Frank Schorfheide</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose an empirical Bayes estimator for two-way effects in linked data sets based on a novel prior that leverages patterns of assortative matching observed in the data. To capture limited mobility we model the bipartite graph associated with the matched data in an asymptotic framework where its Laplacian matrix has small eigenvalues that converge to zero. The prior hyperparameters that control the shrinkage are determined by minimizing an unbiased risk estimate. We show the proposed empirical Bayes estimator is asymptotically optimal in compound loss, despite the weak connectivity of the bipartite graph and the potential misspecification of the prior. We estimate teacher values-added from a linked North Carolina Education Research Data Center student-teacher data set.</content>
+    <link href="https://www.nber.org/papers/w34014"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34013</id>
     <title>Racial Inequality in France</title>
@@ -19,14 +31,14 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34012</id>
-    <title>Do Workforce Development Programs Bridge the Skills Gap</title>
+    <id>https://www.nber.org/papers/w34011</id>
+    <title>Public Goods Under Financial Distress</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Eleanor W. Dillon, Lisa B. Kahn, Joanna Venator &amp; Michael Dalton</name>
+      <name>Pawel Janas</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most U.S. states have workforce development programs that offer firms grants to train their own workers. We create unique data linkages between participating firms, employment, and vacancies to explore the determinants and consequences of such programs. Training grants are more prevalent in markets where firms face greater employee poaching risk, suggesting these programs help overcome a market failure in updating worker skills. After training, firms experience prolonged employment growth and down-skilling in their job posts, relative to a matched control group. Training appears to help firms move toward optimal scale and expand opportunities for less skilled workers.</content>
-    <link href="https://www.nber.org/papers/w34012"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I examine the effects of public debt on municipal services and real outcomes during financial crises using a unique archival dataset of U.S. cities from 1924 to 1943. Unlike today’s countercyclical fiscal policies, the Great Depression provides a rare setting to observe fiscal shocks without substantial intergovernmental or Federal Reserve support. My findings show that financial market frictions – especially the need to refinance debt – led cities to sharply cut expenditures, particularly on capital projects and police services. As urban development halted during the Depression, cities with high pre-crisis debt levels faced significant austerity pressures, a decline in population growth, a rise in crime, and a departure of skilled public servants from municipal governments.</content>
+    <link href="https://www.nber.org/papers/w34011"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -43,14 +55,14 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34011</id>
-    <title>Public Goods Under Financial Distress</title>
+    <id>https://www.nber.org/papers/w34012</id>
+    <title>Do Workforce Development Programs Bridge the Skills Gap</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Pawel Janas</name>
+      <name>Eleanor W. Dillon, Lisa B. Kahn, Joanna Venator &amp; Michael Dalton</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I examine the effects of public debt on municipal services and real outcomes during financial crises using a unique archival dataset of U.S. cities from 1924 to 1943. Unlike today’s countercyclical fiscal policies, the Great Depression provides a rare setting to observe fiscal shocks without substantial intergovernmental or Federal Reserve support. My findings show that financial market frictions – especially the need to refinance debt – led cities to sharply cut expenditures, particularly on capital projects and police services. As urban development halted during the Depression, cities with high pre-crisis debt levels faced significant austerity pressures, a decline in population growth, a rise in crime, and a departure of skilled public servants from municipal governments.</content>
-    <link href="https://www.nber.org/papers/w34011"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most U.S. states have workforce development programs that offer firms grants to train their own workers. We create unique data linkages between participating firms, employment, and vacancies to explore the determinants and consequences of such programs. Training grants are more prevalent in markets where firms face greater employee poaching risk, suggesting these programs help overcome a market failure in updating worker skills. After training, firms experience prolonged employment growth and down-skilling in their job posts, relative to a matched control group. Training appears to help firms move toward optimal scale and expand opportunities for less skilled workers.</content>
+    <link href="https://www.nber.org/papers/w34012"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -115,18 +127,6 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34004</id>
-    <title>Political Foundations of Racial Violence in the Post-Reconstruction South</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Patrick A. Testa &amp; Jhacova A. Williams</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This paper shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. This backlash was enkindled by local elites, who amplified narratives of Black criminality through newspapers after such defeats. These findings point to the strategic use of racial violence by Democratic elites, prefiguring the formal vote suppression of Jim Crow.</content>
-    <link href="https://www.nber.org/papers/w34004"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34026</id>
     <title>How Do Certificate-of-Need Laws Affect Hospitals? A Review of the Evidence</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -151,6 +151,18 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34004</id>
+    <title>Political Foundations of Racial Violence in the Post-Reconstruction South</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Patrick A. Testa &amp; Jhacova A. Williams</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This paper shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. This backlash was enkindled by local elites, who amplified narratives of Black criminality through newspapers after such defeats. These findings point to the strategic use of racial violence by Democratic elites, prefiguring the formal vote suppression of Jim Crow.</content>
+    <link href="https://www.nber.org/papers/w34004"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34002</id>
     <title>Central Banks as Educators</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -159,6 +171,126 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In recent years, central bankers’ speeches and other forms of communication have become pedagogical in nature, aiming to shape public knowledge, beliefs, expectations, and attitudes. With the shift toward expectations management as a monetary policy tool, central banks’ educational role has become a central component of their monetary policymaking, and central bank communication with the public has become a rapidly-growing area of research. I argue that this research is closely related, both thematically and methodologically, to the field of educational psychology. I discuss insights from educational psychology research that could guide central bank communication research—including insights about the challenges and pitfalls that both fields share.</content>
     <link href="https://www.nber.org/papers/w34002"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34027</id>
+    <title>Credit Scores and Inequality across the Life Cycle</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Satyajit Chatterjee, Dean Corbae, Kyle P. Dempsey &amp; José-Víctor Ríos-Rull</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Credit scores are a primary screening device for the allocation of credit, housing, and sometimes even employment. In the data, credit scores grow and fan out with age; at the same time, income and consumption inequality also increase with a cohort’s age. We postulate a simple model with hidden information to explore the joint determination of credit scores, income, and consumption over an individual’s lifetime which can replicate these empirical facts. We use the model to understand the role of technologies like big data or legal restrictions limiting information on certain adverse events like medical expenses intended to increase credit market access.</content>
+    <link href="https://www.nber.org/papers/w34027"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34025</id>
+    <title>Designing Consent: Choice Architecture and Consumer Welfare in Data Sharing</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chiara Farronato, Andrey Fradkin &amp; Tesary Lin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the welfare consequences of choice architecture for online privacy using a field experiment that randomizes cookie consent banners. We study three ways in which firms or policymakers can influence choices: (1) nudging users through banner design to encourage acceptance of cookie tracking; (2) setting defaults when users dismiss banners; and (3) implementing consent decisions at the website versus browser level. Absent design manipulation, users accept all cookies more than half of the time. Placing cookie options behind extra clicks strongly influences choices, shifting users toward more easily accessible alternatives. Many users dismiss banners without making an explicit choice, underscoring the importance of default settings. Survey evidence further reveals substantial confusion about default settings. Using a structural model, we find that among consent policies requiring site-specific decisions, consumer surplus is maximized when consent interfaces clearly display all options and default to acceptance in the absence of an explicit choice. However, the welfare gains from optimizing banner design are much smaller than those from adopting browser-level consent, which eliminates the time costs of repeated decisions.</content>
+    <link href="https://www.nber.org/papers/w34025"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34028</id>
+    <title>Digital Media Mergers: Theory and Application to Facebook-Instagram</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Justin Katz &amp; Hunt Allcott</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present a new model of competition between digital media platforms with targeted advertising. The model adds new insights around how user heterogeneity and overlap, along with user and advertiser substitution patterns, determine equilibrium ad load. We apply the model to evaluate the proposed separation of Facebook and Instagram. We estimate structural parameters using evidence on diminishing returns to advertising from a new randomized experiment and information on user overlap, diversion ratios, and price elasticity from earlier experiments. In counterfactual simulations, a Facebook-Instagram separation increases ad loads, transferring surplus from platforms and users to advertisers, with limited total surplus effects.</content>
+    <link href="https://www.nber.org/papers/w34028"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34023</id>
+    <title>Introducing a High-School Exit Exam in Science: Consequences in Massachusetts</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ann Mantil, John Papay, Preeya P. Mbekeani &amp; Richard J. Murnane</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Preparing students for science, technology, and engineering careers is an urgent state policy challenge. We examine the design and roll-out of a science testing requirement for high-school graduation in Massachusetts. While science test performance has improved over time for all demographic subgroups, we observe rising inequality in failure rates and retest success. English learners, almost 8% of all test-takers, account for 53% of students who never pass. We find large differences by family income, even conditional on previous test scores, that raise equity implications. Using a regression-discontinuity design, we show that barely passing the exam increases high-school graduation and college outcomes of students near the score threshold, particularly for females and students from higher-income families.</content>
+    <link href="https://www.nber.org/papers/w34023"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34022</id>
+    <title>Jackpot for Good: Can Lottery Matches Increase Charitable Giving?</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Amelia Ahles, Joanna Lahey &amp; Marco A. Palma</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study investigates the effectiveness of donation matching gift schemes using lotteries for increasing charitable giving relative to deterministic matches of equivalent or higher expected value and a no-match control. We recruit 1,402 online participants and randomly assign them to one of seven conditions: No Match (Control), and two sets of matching schemes of varying equivalent expected values: EV=1 (1:1 Deterministic Match, 1:10% of 10 tokens, and 1:1% of 100) and EV=0.5 (2:1 Deterministic Match, 1:1% of 50 tokens and 1:0.5% of 100), where one token is $0.50. Participants complete three 10-token allocation decisions for hunger-related charities with one allocation randomly selected for realization. The 1:1 Match significantly increases giving by 15.7% compared to No Match. We find that matching schemes with a small probability of a very large amount (1% and 0.5% of 100) elicit significantly higher rates of giving compared to No Match (Mann-Whitney p=0.019 and p=0.096 respectively) and do not statistically differ from the 1:1 Match (Mann-Whitney p=0.976 and p=0.622 respectively). Our results suggest nonprofits can use matching gift donations more efficiently through lottery matching donation schemes while increasing downstream donations.</content>
+    <link href="https://www.nber.org/papers/w34022"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34021</id>
+    <title>Sovereign Default and the Decline in Interest Rates</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Max Miller, James D. Paron &amp; Jessica Wachter</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Sovereign debt yields have declined dramatically over the last half-century. Standard explanations, including aging populations and increases in asset demand from abroad, encounter difficulties when confronted with the full range of evidence. We propose an explanation based on a decline in inflation and default risk.  We show that a model with sovereign default captures the decline in interest rates, the stability of equity valuation ratios, and the reduction in investment and output growth.  Calibrations of the model post-Covid suggest that sovereign default risk may have returned.</content>
+    <link href="https://www.nber.org/papers/w34021"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34019</id>
+    <title>Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xing Guo, Pablo Ottonello, Thomas Winberry &amp; Toni Whited</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the macroeconomic consequences of asymmetric information between firms and external investors. To do so, we develop a heterogeneous firm macro model in which firms have private information about their quality. Private information creates a lemons problem in the market for external finance, depressing investment relative to the full information benchmark. We measure the distribution of private information, and therefore the magnitude of this lemons problem, using high-frequency stock price changes when firms raise new funding (revealing their quality to the market).  We find that changes in distribution of private information are a quantitatively important determinant of aggregate fluctuations. For example, a spike in private information accounts for 40% of the decline in aggregate investment during the 2007-2009 financial crisis and made monetary stimulus significantly less effective at that time.</content>
+    <link href="https://www.nber.org/papers/w34019"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34018</id>
+    <title>Revisiting the Interest Rate Effects of Federal Debt</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael Plante, Alexander W. Richter &amp; Sarah Zubairy</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper revisits the relationship between federal debt and interest rates, which is a key input for assessments of fiscal sustainability. Estimating this relationship is challenging due to confounding effects from business cycle dynamics and changes in monetary policy. A common approach is to regress long-term forward interest rates on long-term projections of federal debt. We show that issues regarding nonstationarity have become far more pronounced over the last 20 years, significantly biasing the recent estimates based on this methodology. Estimating the model in first differences addresses these concerns. We find that a 1 percentage point increase in the debt-to-GDP ratio raises the 5-year-ahead, 5-year Treasury rate by about 3 basis points, which is statistically and economically significant and highly robust. Roughly three-quarters of the increase in interest rates reflects term premia rather than expected short-term real rates.</content>
+    <link href="https://www.nber.org/papers/w34018"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34017</id>
+    <title>Broad Divisia Money, Supply Pressures, and U.S. Inflation Following the COVID-19 Recession</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael D. Bordo, John V. Duca &amp; Barry E. Jones</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The rise of U.S. inflation in 2021 and 2022 and its partial subsiding have sparked debates about the relative role of supply and demand factors. The initial surge surprised many macroeconomists despite the unprecedented jump in money growth in 2020-21. We find that the relationship between consumption and the theoretically based Divisia M3 measure of money (velocity) can be well modeled both in the short- and long-runs. We use the estimated long-run relationship to calculate the deviation of actual velocity from its long-run equilibrium and incorporate it into a P-Star framework. Our model of velocity significantly improves the performance of the P-Star model relative to using a one-sided HP filter to calculate trend velocity as, for example, used by Belongia and Ireland (2015, 2017). We also include a global supply pressures index in the model and find that recent movements in U.S. inflation largely owed to aggregate demand driven macroeconomic factors that are tracked by Divisia money with a smaller role played by supply factors.</content>
+    <link href="https://www.nber.org/papers/w34017"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34009</id>
+    <title>Unpriced Risks: Rethinking Cross-Sectional Asset Pricing</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mikhail Chernov, Magnus Dahlquist &amp; Lars A. Lochstoer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Characteristic-based factors embed large unpriced components that depress Sharpe ratios and deviate from the mean-variance efficient (MVE) frontier. We discuss how to decompose tradable factor returns into priced (MVE) and unpriced components, showing that hedging unpriced variation realigns factors with efficiency. We outline theoretical conditions for characteristic portfolios to span the MVE and describe practical hedge-portfolio construction. In some asset classes—currencies and sovereign bonds—real-time estimation of the MVE is feasible. In the case of equities, one can hedge unpriced risks from characteristic-based factors. Empirically, unpriced risks account for 30–99% of factor return variance, and hedging can more than double Sharpe ratios.</content>
+    <link href="https://www.nber.org/papers/w34009"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -355,134 +487,14 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34027</id>
-    <title>Credit Scores and Inequality across the Life Cycle</title>
+    <id>https://www.nber.org/papers/w34055</id>
+    <title>Targeting Distributional Impacts in the Presence of Behavioral Responses: Lessons from Maritime Emissions Regulation</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Satyajit Chatterjee, Dean Corbae, Kyle P. Dempsey &amp; José-Víctor Ríos-Rull</name>
+      <name>Jamie Hansen-Lewis &amp; Michelle M. Marcus</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Credit scores are a primary screening device for the allocation of credit, housing, and sometimes even employment. In the data, credit scores grow and fan out with age; at the same time, income and consumption inequality also increase with a cohort’s age. We postulate a simple model with hidden information to explore the joint determination of credit scores, income, and consumption over an individual’s lifetime which can replicate these empirical facts. We use the model to understand the role of technologies like big data or legal restrictions limiting information on certain adverse events like medical expenses intended to increase credit market access.</content>
-    <link href="https://www.nber.org/papers/w34027"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34025</id>
-    <title>Designing Consent: Choice Architecture and Consumer Welfare in Data Sharing</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chiara Farronato, Andrey Fradkin &amp; Tesary Lin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the welfare consequences of choice architecture for online privacy using a field experiment that randomizes cookie consent banners. We study three ways in which firms or policymakers can influence choices: (1) nudging users through banner design to encourage acceptance of cookie tracking; (2) setting defaults when users dismiss banners; and (3) implementing consent decisions at the website versus browser level. Absent design manipulation, users accept all cookies more than half of the time. Placing cookie options behind extra clicks strongly influences choices, shifting users toward more easily accessible alternatives. Many users dismiss banners without making an explicit choice, underscoring the importance of default settings. Survey evidence further reveals substantial confusion about default settings. Using a structural model, we find that among consent policies requiring site-specific decisions, consumer surplus is maximized when consent interfaces clearly display all options and default to acceptance in the absence of an explicit choice. However, the welfare gains from optimizing banner design are much smaller than those from adopting browser-level consent, which eliminates the time costs of repeated decisions.</content>
-    <link href="https://www.nber.org/papers/w34025"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34028</id>
-    <title>Digital Media Mergers: Theory and Application to Facebook-Instagram</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Justin Katz &amp; Hunt Allcott</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present a new model of competition between digital media platforms with targeted advertising. The model adds new insights around how user heterogeneity and overlap, along with user and advertiser substitution patterns, determine equilibrium ad load. We apply the model to evaluate the proposed separation of Facebook and Instagram. We estimate structural parameters using evidence on diminishing returns to advertising from a new randomized experiment and information on user overlap, diversion ratios, and price elasticity from earlier experiments. In counterfactual simulations, a Facebook-Instagram separation increases ad loads, transferring surplus from platforms and users to advertisers, with limited total surplus effects.</content>
-    <link href="https://www.nber.org/papers/w34028"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34023</id>
-    <title>Introducing a High-School Exit Exam in Science: Consequences in Massachusetts</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ann Mantil, John Papay, Preeya P. Mbekeani &amp; Richard J. Murnane</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Preparing students for science, technology, and engineering careers is an urgent state policy challenge. We examine the design and roll-out of a science testing requirement for high-school graduation in Massachusetts. While science test performance has improved over time for all demographic subgroups, we observe rising inequality in failure rates and retest success. English learners, almost 8% of all test-takers, account for 53% of students who never pass. We find large differences by family income, even conditional on previous test scores, that raise equity implications. Using a regression-discontinuity design, we show that barely passing the exam increases high-school graduation and college outcomes of students near the score threshold, particularly for females and students from higher-income families.</content>
-    <link href="https://www.nber.org/papers/w34023"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34022</id>
-    <title>Jackpot for Good: Can Lottery Matches Increase Charitable Giving?</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Amelia Ahles, Joanna Lahey &amp; Marco A. Palma</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study investigates the effectiveness of donation matching gift schemes using lotteries for increasing charitable giving relative to deterministic matches of equivalent or higher expected value and a no-match control. We recruit 1,402 online participants and randomly assign them to one of seven conditions: No Match (Control), and two sets of matching schemes of varying equivalent expected values: EV=1 (1:1 Deterministic Match, 1:10% of 10 tokens, and 1:1% of 100) and EV=0.5 (2:1 Deterministic Match, 1:1% of 50 tokens and 1:0.5% of 100), where one token is $0.50. Participants complete three 10-token allocation decisions for hunger-related charities with one allocation randomly selected for realization. The 1:1 Match significantly increases giving by 15.7% compared to No Match. We find that matching schemes with a small probability of a very large amount (1% and 0.5% of 100) elicit significantly higher rates of giving compared to No Match (Mann-Whitney p=0.019 and p=0.096 respectively) and do not statistically differ from the 1:1 Match (Mann-Whitney p=0.976 and p=0.622 respectively). Our results suggest nonprofits can use matching gift donations more efficiently through lottery matching donation schemes while increasing downstream donations.</content>
-    <link href="https://www.nber.org/papers/w34022"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34021</id>
-    <title>Sovereign Default and the Decline in Interest Rates</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Max Miller, James D. Paron &amp; Jessica Wachter</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Sovereign debt yields have declined dramatically over the last half-century. Standard explanations, including aging populations and increases in asset demand from abroad, encounter difficulties when confronted with the full range of evidence. We propose an explanation based on a decline in inflation and default risk.  We show that a model with sovereign default captures the decline in interest rates, the stability of equity valuation ratios, and the reduction in investment and output growth.  Calibrations of the model post-Covid suggest that sovereign default risk may have returned.</content>
-    <link href="https://www.nber.org/papers/w34021"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34019</id>
-    <title>Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xing Guo, Pablo Ottonello, Thomas Winberry &amp; Toni Whited</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the macroeconomic consequences of asymmetric information between firms and external investors. To do so, we develop a heterogeneous firm macro model in which firms have private information about their quality. Private information creates a lemons problem in the market for external finance, depressing investment relative to the full information benchmark. We measure the distribution of private information, and therefore the magnitude of this lemons problem, using high-frequency stock price changes when firms raise new funding (revealing their quality to the market).  We find that changes in distribution of private information are a quantitatively important determinant of aggregate fluctuations. For example, a spike in private information accounts for 40% of the decline in aggregate investment during the 2007-2009 financial crisis and made monetary stimulus significantly less effective at that time.</content>
-    <link href="https://www.nber.org/papers/w34019"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34018</id>
-    <title>Revisiting the Interest Rate Effects of Federal Debt</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael Plante, Alexander W. Richter &amp; Sarah Zubairy</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper revisits the relationship between federal debt and interest rates, which is a key input for assessments of fiscal sustainability. Estimating this relationship is challenging due to confounding effects from business cycle dynamics and changes in monetary policy. A common approach is to regress long-term forward interest rates on long-term projections of federal debt. We show that issues regarding nonstationarity have become far more pronounced over the last 20 years, significantly biasing the recent estimates based on this methodology. Estimating the model in first differences addresses these concerns. We find that a 1 percentage point increase in the debt-to-GDP ratio raises the 5-year-ahead, 5-year Treasury rate by about 3 basis points, which is statistically and economically significant and highly robust. Roughly three-quarters of the increase in interest rates reflects term premia rather than expected short-term real rates.</content>
-    <link href="https://www.nber.org/papers/w34018"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34017</id>
-    <title>Broad Divisia Money, Supply Pressures, and U.S. Inflation Following the COVID-19 Recession</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael D. Bordo, John V. Duca &amp; Barry E. Jones</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The rise of U.S. inflation in 2021 and 2022 and its partial subsiding have sparked debates about the relative role of supply and demand factors. The initial surge surprised many macroeconomists despite the unprecedented jump in money growth in 2020-21. We find that the relationship between consumption and the theoretically based Divisia M3 measure of money (velocity) can be well modeled both in the short- and long-runs. We use the estimated long-run relationship to calculate the deviation of actual velocity from its long-run equilibrium and incorporate it into a P-Star framework. Our model of velocity significantly improves the performance of the P-Star model relative to using a one-sided HP filter to calculate trend velocity as, for example, used by Belongia and Ireland (2015, 2017). We also include a global supply pressures index in the model and find that recent movements in U.S. inflation largely owed to aggregate demand driven macroeconomic factors that are tracked by Divisia money with a smaller role played by supply factors.</content>
-    <link href="https://www.nber.org/papers/w34017"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34016</id>
-    <title>Wealth Inequality, Labor Market Arrangements and the Secular Decline in the Real Interest Rate</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>John B. Donaldson, Hyung Seok E. Kim &amp; Rajnish Mehra</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a dynamic macroeconomic model in which the secular decline in real interest rates arises endogenously from rising wealth inequality. Challenging the standard “safe asset shortage” hypothesis, the model shows how falling real rates can coexist with a stable safe asset ratio—closely matching U.S. empirical patterns. The mechanism combines limited financial market participation, which concentrates capital ownership among a shrinking class of stockholders, with egalitarian wage bargaining, which generates time-varying labor income shares under incomplete markets. As inequality increases, stockholders face higher financial and operating leverage, increasing their consumption volatility and precautionary demand for bonds. At the same time, greater wage instability raises workers’ demand for safe assets. The resulting surge in precautionary savings from both groups depresses real returns and creates the appearance of a safe asset shortage, despite an unchanged supply. This outcome reflects a pecuniary externality: agents fail to internalize the aggregate constraint on safe assets, especially over the business cycle. Our calibrated model reproduces key macro-financial patterns and offers new insights into the joint dynamics of wealth distribution, labor market arrangements, and asset pricing.</content>
-    <link href="https://www.nber.org/papers/w34016"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34009</id>
-    <title>Unpriced Risks: Rethinking Cross-Sectional Asset Pricing</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mikhail Chernov, Magnus Dahlquist &amp; Lars A. Lochstoer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Characteristic-based factors embed large unpriced components that depress Sharpe ratios and deviate from the mean-variance efficient (MVE) frontier. We discuss how to decompose tradable factor returns into priced (MVE) and unpriced components, showing that hedging unpriced variation realigns factors with efficiency. We outline theoretical conditions for characteristic portfolios to span the MVE and describe practical hedge-portfolio construction. In some asset classes—currencies and sovereign bonds—real-time estimation of the MVE is feasible. In the case of equities, one can hedge unpriced risks from characteristic-based factors. Empirically, unpriced risks account for 30–99% of factor return variance, and hedging can more than double Sharpe ratios.</content>
-    <link href="https://www.nber.org/papers/w34009"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Targeting distributional impacts is gaining importance in the design of environmental policy. To achieve this, policy makers are adopting advances in air transport models to predict the benefits of air emissions regulation. These models offer policy makers accuracy in the spatial distribution of ambient air quality improvements for a given emissions reduction, but do not take into account behavioral responses to environmental policies. We consider how the failure to account for behavioral responses when making policy predictions may have important implications for the ultimate distributional impact of such policies. We compare the distributional impacts of maritime emission regulation predicted from the policy maker's air transport model to the realized distributional impacts. We then decompose the prediction error from two components: model error, whereby the predictions of air transport models fail to account for behavioral responses of polluting firms, and sorting error, whereby the targeted population migrates.</content>
+    <link href="https://www.nber.org/papers/w34055"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -495,18 +507,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Governments frequently use proxies for deservingness—tags—to implement progressive tax and transfer policies. These proxies are often imperfect, leading to misclassification and inequities among equally deserving individuals. This paper studies the efficiency effects of such misclassification in the context of the property tax system in Manaus, Brazil. We leverage quasi-experimental variation in inequity generated by the boundaries of geographic sectors used to compute tax liabilities and a large tax reform in a series of augmented boundary discontinuity designs. We find that inequities significantly reduce tax compliance. The elasticity of compliance with respect to inequity is between 0.12 and 0.25, accounting for half of the overall change in compliance at the boundaries. A simple model of presumptive property taxation shows how mistagging affects the optimal tax schedule, highlighting the opposite implications of responses to the level of taxation and to inequity for optimal tax progressivity. Interpreting our findings through the lens of the model implies that optimal progressivity is around 50% lower than it would be absent inequity responses. These results underscore the importance of inequity for public policy design, especially in contexts with low fiscal capacity.</content>
     <link href="https://www.nber.org/papers/w34062"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34055</id>
-    <title>Targeting Distributional Impacts in the Presence of Behavioral Responses: Lessons from Maritime Emissions Regulation</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jamie Hansen-Lewis &amp; Michelle M. Marcus</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Targeting distributional impacts is gaining importance in the design of environmental policy. To achieve this, policy makers are adopting advances in air transport models to predict the benefits of air emissions regulation. These models offer policy makers accuracy in the spatial distribution of ambient air quality improvements for a given emissions reduction, but do not take into account behavioral responses to environmental policies. We consider how the failure to account for behavioral responses when making policy predictions may have important implications for the ultimate distributional impact of such policies. We compare the distributional impacts of maritime emission regulation predicted from the policy maker's air transport model to the realized distributional impacts. We then decompose the prediction error from two components: model error, whereby the predictions of air transport models fail to account for behavioral responses of polluting firms, and sorting error, whereby the targeted population migrates.</content>
-    <link href="https://www.nber.org/papers/w34055"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -787,6 +787,30 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34079</id>
+    <title>The Role of Industrial Policy in the Renewable Energy Sector</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Todd D. Gerarden, Mar Reguant &amp; Daniel Xu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Renewable electricity generation technology costs have fallen dramatically, investment has grown rapidly, and renewables are now a pillar of climate and decarbonization policy. Part of the credit for these trends goes to environmental policy efforts to support renewable energy as a substitute to fossil energy. The recent rise in protectionism, industrial policy, and geopolitical tensions has the potential to either undermine or enhance these environmental policy objectives. In this paper, we provide an overview of renewable energy economics and policy, with a focus on solar and wind power. We outline theoretical rationales for industrial policy and review recent empirical research, paying particular attention to how renewable energy policies have generated spillovers across firms and countries. We close by highlighting how this recent evidence can inform ongoing industrial policy debates.</content>
+    <link href="https://www.nber.org/papers/w34079"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34070</id>
+    <title>Algorithmic Coercion with Faster Pricing</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Zach Y. Brown &amp; Alexander MacKay</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine a model in which one firm uses a pricing algorithm that enables faster pricing and multi-period commitment. We characterize a coercive equilibrium in which the algorithmic firm maximizes its profits subject to the incentive compatibility constraint of its rival. By adopting an algorithm that enables faster pricing and (imperfect) commitment, a firm can unilaterally induce substantially higher equilibrium prices even when its rival maximizes short-run profits and cannot collude. The algorithmic firm can earn profits that exceed its share of collusive profits, and coercive equilibrium outcomes can be worse for consumers than collusive outcomes. We use simulations to show how coercion arises rapidly when the algorithmic firm’s rival uses a simple learning process to set prices. Finally, we examine the implications of algorithm technology for platform design.</content>
+    <link href="https://www.nber.org/papers/w34070"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34082</id>
     <title>Can Author Manipulation of AI Referees be Welfare Improving?</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -819,18 +843,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine positive and normative questions that arise with the joint use of carbon taxes and green subsidies in an open economy. Moving from autarky to free trade induces countries to introduce green subsidies and reduce carbon taxes, in order to reduce foreign emissions. In contrast to the “leakage” effect of carbon taxes, green subsidies are associated with “reverse leakage,” as they decrease emissions both at home and abroad, and as a consequence, the availability of green subsidies tends to be good for global welfare. International climate agreements (ICAs) seek to increase carbon taxes, but the effect on green subsidies is more nuanced. An ICA removes green subsidies, even though they exert positive international externalities at the noncooperative equilibrium. If, however, policies can only be changed gradually, an ICA may start by increasing subsidies before decreasing them over time. We also consider the welfare implications of lobbying from the fossil and green energy sectors. In a noncooperative setting, we find that pressures from the fossil lobby tend to reduce welfare, whereas pressures from the green lobby tend to increase welfare. We also find that in the presence of lobbying, an ICA can decrease welfare relative to the noncooperative equilibrium, even if it changes carbon taxes and green subsidies toward their efficient levels.</content>
     <link href="https://www.nber.org/papers/w34080"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34079</id>
-    <title>The Role of Industrial Policy in the Renewable Energy Sector</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Todd D. Gerarden, Mar Reguant &amp; Daniel Xu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Renewable electricity generation technology costs have fallen dramatically, investment has grown rapidly, and renewables are now a pillar of climate and decarbonization policy. Part of the credit for these trends goes to environmental policy efforts to support renewable energy as a substitute to fossil energy. The recent rise in protectionism, industrial policy, and geopolitical tensions has the potential to either undermine or enhance these environmental policy objectives. In this paper, we provide an overview of renewable energy economics and policy, with a focus on solar and wind power. We outline theoretical rationales for industrial policy and review recent empirical research, paying particular attention to how renewable energy policies have generated spillovers across firms and countries. We close by highlighting how this recent evidence can inform ongoing industrial policy debates.</content>
-    <link href="https://www.nber.org/papers/w34079"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -879,18 +891,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper provides the first systematic and comprehensive empirical study of management and strategy consulting. We unveil the workings of this opaque industry by drawing on universal administrative business-to-business transaction data based on value-added tax links from Belgium (2002-2023). These data permit us to document the nature of consulting engagements, take-up patterns, and the effects on client firms. We document that consulting take-up is concentrated among large, high-labor-productivity firms. For TFP and profitability, we find a U-shaped pattern: both high and low performers hire consultants. New clients spend on average 3% of payroll on consulting, typically in episodic engagements lasting less than one year. Using difference-in-differences designs exploiting these sharp consulting events, we find positive effects on labor productivity of 3.6% over five years, driven by modest employment reductions alongside stable or growing revenue. Average wages rise by 2.7% with no decline in labor’s share of value added, suggesting productivity gains do not come at workers’ expense through rent-shifting. We do observe organizational restructuring with small increases in dismissal rates, and higher services procurement but reduced labor outsourcing. Our heterogeneity analysis reveals larger productivity gains for initially less productive firms, suggesting improvements in allocative efficiency. Our findings broadly align with ex-ante predictions from surveyed academic economists and consulting professionals, validating the productivity-enhancing view of consulting endorsed by most practitioners though only half of academics, while lending less support to a rent-shifting view favored by many economists.</content>
     <link href="https://www.nber.org/papers/w34072"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34070</id>
-    <title>Algorithmic Coercion with Faster Pricing</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Zach Y. Brown &amp; Alexander MacKay</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine a model in which one firm uses a pricing algorithm that enables faster pricing and multi-period commitment. We characterize a coercive equilibrium in which the algorithmic firm maximizes its profits subject to the incentive compatibility constraint of its rival. By adopting an algorithm that enables faster pricing and (imperfect) commitment, a firm can unilaterally induce substantially higher equilibrium prices even when its rival maximizes short-run profits and cannot collude. The algorithmic firm can earn profits that exceed its share of collusive profits, and coercive equilibrium outcomes can be worse for consumers than collusive outcomes. We use simulations to show how coercion arises rapidly when the algorithmic firm’s rival uses a simple learning process to set prices. Finally, we examine the implications of algorithm technology for platform design.</content>
-    <link href="https://www.nber.org/papers/w34070"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
