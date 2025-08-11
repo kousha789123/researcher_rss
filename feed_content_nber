@@ -2,199 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-08-10T13:41:21.140956+00:00</updated>
+  <updated>2025-08-11T13:42:52.287673+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
   <entry>
-    <id>https://www.nber.org/papers/w34016</id>
-    <title>Wealth Inequality, Labor Market Arrangements and the Secular Decline in the Real Interest Rate</title>
+    <id>https://www.nber.org/papers/w33983</id>
+    <title>Carbon Rollercoaster: A Historical Analysis of Decarbonization in the United States</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>John B. Donaldson, Hyung Seok E. Kim &amp; Rajnish Mehra</name>
+      <name>Karen Clay, Akshaya Jha, Joshua A. Lewis &amp; Edson R. Severnini</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a dynamic macroeconomic model in which the secular decline in real interest rates arises endogenously from rising wealth inequality. Challenging the standard “safe asset shortage” hypothesis, the model shows how falling real rates can coexist with a stable safe asset ratio—closely matching U.S. empirical patterns. The mechanism combines limited financial market participation, which concentrates capital ownership among a shrinking class of stockholders, with egalitarian wage bargaining, which generates time-varying labor income shares under incomplete markets. As inequality increases, stockholders face higher financial and operating leverage, increasing their consumption volatility and precautionary demand for bonds. At the same time, greater wage instability raises workers’ demand for safe assets. The resulting surge in precautionary savings from both groups depresses real returns and creates the appearance of a safe asset shortage, despite an unchanged supply. This outcome reflects a pecuniary externality: agents fail to internalize the aggregate constraint on safe assets, especially over the business cycle. Our calibrated model reproduces key macro-financial patterns and offers new insights into the joint dynamics of wealth distribution, labor market arrangements, and asset pricing.</content>
-    <link href="https://www.nber.org/papers/w34016"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper documents the evolution of US carbon emissions and discusses the main factors that contributed to the historical carbon emissions rollercoaster. We divide the discussion into four periods – up to 1920, 1920-1960, 1960-2005 and after 2005. For each period, we discuss the main drivers of national carbon emissions. We then discuss trends in carbon emissions in the electricity sector. Electricity sector emissions were initially very small, but would become the largest source of US carbon emissions over the period 1980-2015, and the largest contributor to decarbonization since 2007. In the final section, we distill lessons from the U.S. experience that may inform decarbonization strategies in developing economies.</content>
+    <link href="https://www.nber.org/papers/w33983"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34015</id>
-    <title>Early and Accurate Recession Detection Using Classifiers on the Anticipation-Precision Frontier</title>
+    <id>https://www.nber.org/papers/w34001</id>
+    <title>When Do Migrants Shape Culture?</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Pascal Michaillat</name>
+      <name>Samuel Bazzi &amp; Martin Fiszbein</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a new algorithm for detecting US recessions in real time. The algorithm constructs millions of recession classifiers by combining unemployment and vacancy data to reduce detection noise. Classifiers are then selected to avoid both false negatives (missed recessions) and false positives (nonexistent recessions). The selected classifiers are therefore perfect, in that they identify all 15 historical recessions in the 1929–2021 training period without any false positives. By further selecting classifiers that lie on the high-precision segment of the anticipation-precision frontier, the algorithm optimizes early detection without sacrificing precision. On average, over 1929–2021, the classifier ensemble signals recessions 2.2 months after their true onset, with a standard deviation of detection errors of 1.9 months. Applied to May 2025 data, the classifier ensemble gives a 71% probability that the US economy is currently in recession. A placebo test and backtests confirm the algorithm’s reliability. The classifier ensembles trained on 1929–2004, 1929–1984, and 1929–1964 data in backtests give a current recession probability of 58%, 83%, and 25%, respectively.</content>
-    <link href="https://www.nber.org/papers/w34015"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter explores the impacts of migrants on the culture of their destinations. Migrants often assimilate to local social norms and practices, but they also tend to maintain their own culture. Sometimes, beyond preserving their culture, they influence their new neighbors. We propose a conceptual framework to understand when migrants shape culture at their destination—and how. We identify two key conditions for influence (ideological intensity and power structure) and three channels of influence (cultural spillovers, organizational mobilization, and political leverage). We combine insights from political economy, social psychology, and evolutionary approaches to illuminate pathways of influence in historical perspective. Our review offers a new perspective on the mechanisms of cultural transmission, using illustrative cases to characterize the various ways in which migrants shape culture in their destinations.</content>
+    <link href="https://www.nber.org/papers/w34001"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34014</id>
-    <title>Optimal Estimation of Two-Way Effects under Limited Mobility</title>
+    <id>https://www.nber.org/papers/w34000</id>
+    <title>Productivity Beliefs and Efficiency in Science</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Xu Cheng, Sheng Chao Ho &amp; Frank Schorfheide</name>
+      <name>Fabio Bertolotti, Kyle R. Myers &amp; Wei Yang Tham</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose an empirical Bayes estimator for two-way effects in linked data sets based on a novel prior that leverages patterns of assortative matching observed in the data. To capture limited mobility we model the bipartite graph associated with the matched data in an asymptotic framework where its Laplacian matrix has small eigenvalues that converge to zero. The prior hyperparameters that control the shrinkage are determined by minimizing an unbiased risk estimate. We show the proposed empirical Bayes estimator is asymptotically optimal in compound loss, despite the weak connectivity of the bipartite graph and the potential misspecification of the prior. We estimate teacher values-added from a linked North Carolina Education Research Data Center student-teacher data set.</content>
-    <link href="https://www.nber.org/papers/w34014"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a method to estimate producers’ productivity beliefs in settings where output quantities and input prices are unobservable, and we use it to evaluate allocative efficiency in the market for science. Our model of researchers’ labor supply shows that their willingness to pay for their two key inputs, funding and time, reveals their underlying productivity beliefs. We estimate the model’s parameters using data from a nationally representative survey of research-active professors from all major fields of science. We find that the distribution of research productivity is highly skewed. Using these estimates, we assess the market’s allocative efficiency by comparing actual input allocations to optimal allocations given various objectives. Overall, the market for science is moderately efficient at maximizing output and researchers’ utility: actual input levels are positively correlated with the optimal levels implied by the model. However, the wedge between researchers’ actual and optimal input levels is often significant and difficult to predict. Our estimates imply that total budgets would need to increase by roughly 40% under actual allocations in order to achieve the same growth in scientific output that we predict under alternative allocations of the current budget. Scaling to the population level, this equates to billions of dollars in funding — there are substantial gains from developing new ways of identifying and supporting productive scientists.</content>
+    <link href="https://www.nber.org/papers/w34000"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34013</id>
-    <title>Racial Inequality in France</title>
+    <id>https://www.nber.org/papers/w33999</id>
+    <title>Finding John Smith: Using Extra Information for Historical Record Linkage</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
     <author>
-      <name>Yajna Govind ⓡ Paolo Santini ⓡ Ellora Derenoncourt</name>
+      <name>Ran Abramitzky, Leah Platt Boustan, Harriet M. Brookes Gray, Katherine Eriksson, Santiago Pérez, Hannah M. Postel, Myera Rashid &amp; Noah Simon</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study racial inequality in 21st century France. Using parents’ nationality at birth, we overcome the lack of ethno-racial statistics stemming from the country’s “color-blind” approach. We document substantial earnings penalties for racial minorities along the income distribution. Penalties are larger at the median than the top and for Middle-Eastern and North African (MENA) and Sub-Saharan African origin (Black) individuals. We compare racial inequality in France vs. the U.S. by simulating where French minorities would fall in the U.S. distribution. Black and Non-White individuals in France benefit from the country’s lower overall inequality, but experience comparable, occasionally larger, rank gaps.</content>
-    <link href="https://www.nber.org/papers/w34013"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34011</id>
-    <title>Public Goods Under Financial Distress</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pawel Janas</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I examine the effects of public debt on municipal services and real outcomes during financial crises using a unique archival dataset of U.S. cities from 1924 to 1943. Unlike today’s countercyclical fiscal policies, the Great Depression provides a rare setting to observe fiscal shocks without substantial intergovernmental or Federal Reserve support. My findings show that financial market frictions – especially the need to refinance debt – led cities to sharply cut expenditures, particularly on capital projects and police services. As urban development halted during the Depression, cities with high pre-crisis debt levels faced significant austerity pressures, a decline in population growth, a rise in crime, and a departure of skilled public servants from municipal governments.</content>
-    <link href="https://www.nber.org/papers/w34011"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34024</id>
-    <title>Strategic Patenting: Evidence from the Biopharmaceutical Industry</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael D. Frakes &amp; Melissa F. Wasserman</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Biological drugs account for just two percent of prescriptions filled in the U.S. but fifty percent of prescription-drug spending.  To explore the role patents play in explaining high biologics prices, we build the first comprehensive database of patents associated with all FDA-approved biologics.  We first establish that much of what drives biologic patenting is the desire to block entry by competing biosimilars.  For these purposes, we estimate the response to a 2010 Act that created an abbreviated pathway for biosimilars to receive FDA approval.  We then document robust evidence consistent with two patenting strategies that may block biosimilar competition: thicketing and evergreening, whereby firms supplement primary patents with a dense web of later-expiring patents on secondary drug features.  We conduct various exercises to suggest that these behaviors are undertaken with exclusionary purposes that go beyond the traditional justifications of the patent system.  We then set forth various descriptive statistics surrounding biosimilar entry to suggest that these patenting strategies are, in fact, effective at delaying biosimilar entry.  Finally, we simulate the degree to which biologics patent portfolios are impacted by policy proposals currently under consideration to address thicketing and evergreening.</content>
-    <link href="https://www.nber.org/papers/w34024"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34012</id>
-    <title>Do Workforce Development Programs Bridge the Skills Gap</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eleanor W. Dillon, Lisa B. Kahn, Joanna Venator &amp; Michael Dalton</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most U.S. states have workforce development programs that offer firms grants to train their own workers. We create unique data linkages between participating firms, employment, and vacancies to explore the determinants and consequences of such programs. Training grants are more prevalent in markets where firms face greater employee poaching risk, suggesting these programs help overcome a market failure in updating worker skills. After training, firms experience prolonged employment growth and down-skilling in their job posts, relative to a matched control group. Training appears to help firms move toward optimal scale and expand opportunities for less skilled workers.</content>
-    <link href="https://www.nber.org/papers/w34012"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34010</id>
-    <title>The Geography of Innovative Firms</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Craig A. Chikis, Benny Kleinman &amp; Marta Prato</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most U.S. innovation output originates from firms that operate R&amp;D facilities across multiple local markets. We study how this geographic structure influences aggregate innovation and growth, and whether it is socially optimal. First, we develop an endogenous growth model featuring multi-market innovative firms that generate knowledge spillovers to geographically proximate firms. In equilibrium, firms may operate in too few or too many local markets, depending on how sensitive are the local spillovers they generate to their local size. Second, to quantify these effects, we link the model to data on firms’ R&amp;D locations, patents, and citation networks. Using an event-study design, we show that firms’ spatial expansion increases spillovers to other firms and estimate how these spillovers depend on a firm's local footprint. Our estimates imply that U.S. innovative firms operate in too few markets relative to the social optimum. Third, using quantitative counterfactuals, we find that policies promoting broader spatial scope yield larger welfare gains than standard R&amp;D subsidies. Moreover, unlike R&amp;D subsidies, such policies can also reduce regional inequality.</content>
-    <link href="https://www.nber.org/papers/w34010"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34008</id>
-    <title>Debt and Assets</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Efraim Benmelech, Nitish Kumar &amp; Raghuram Rajan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the importance of corporate assets in supporting debt. Prior studies typically see only secured debt as asset backed, while the rest is deemed cash flow based. This implies only a small fraction of US debt is asset backed. Yet because corporations often resist offering security explicitly to debt, much unsecured debt is implicitly asset backed. Moreover, we find that the degree to which unsecured debt is asset backed can change with a firm’s condition and the economic situation. Consequently, asset values can affect the quantum and price of borrowing, with effects accentuated in adverse economic conditions, as suggested by financial accelerator theories. Given that a corporation’s debt is typically supported by both expected cash flows and assets, with the relative support varying with time and situation, the industry practice of classifying debt as “asset based” or “cash flow based” is overly categorical, especially for long term corporate bonds.</content>
-    <link href="https://www.nber.org/papers/w34008"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34020</id>
-    <title>Geoeconomic Pressure</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Clayton, Antonio Coppola, Matteo Maggiori &amp; Jesse Schreger</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Geoeconomic pressure—the use of existing economic relationships by governments to achieve geopolitical or economic goals—is a prominent feature of global power dynamics. This paper introduces a methodology using large language models (LLMs) to systematically identify the application of and response to geoeconomic pressure from large textual corpora. We classify which governments apply pressure to which foreign targets, using which instruments, firms, and products. We demonstrate that firms affected by tariffs respond primarily with price changes whereas firms affected by export controls respond disproportionately by investing in research and development. We document significant heterogeneity in how firms respond to pressure based on whether their home government is applying the pressure, whether their home country is the recipient of the pressure, or whether they are based in an affected third party country. Finally, we quantify the degree of measurement uncertainty generated by the LLM-based analysis by comparing the classifications across multiple open-weight models as well as considering a wide range of variations of our prompts.</content>
-    <link href="https://www.nber.org/papers/w34020"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34007</id>
-    <title>Income Elasticity of Demand for Healthy and Unhealthy Foods: Evidence from Lump-Sum Earned Income Tax Credit Payments</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Emma LaGuardia, Leslie McGranahan &amp; Diane Whitmore Schanzenbach</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Earned Income Tax Credit is unique among social programs in that benefits are not paid out evenly across the calendar year but are received in a lump-sum cash payment. We exploit this feature of the EITC to investigate how receiving this influx of cash affects food expenditure patterns of eligible households. We find consistent evidence that households increase their spending on healthy foods such as fresh fruit and vegetables, meat and poultry, and dairy products when they receive their tax credit. Causal estimates of the spending response to this lump-sum payment are about twice as large as the cross-section variation in spending by income implies. By contrast, there is no measurable increase in spending on soft drinks including sodas and sports drinks, and evidence suggests that spending on soft drinks is relatively inelastic with regard to income.</content>
-    <link href="https://www.nber.org/papers/w34007"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34005</id>
-    <title>From Rural Schools to City Factories: Assessing the Quality of Chinese Rural Schools</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eric A. Hanushek, Le Kang, Xueying Li &amp; Lei Zhang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The changing pattern of quality in China’s rural schools across time and province is extracted from the differential labor market earnings of rural migrant workers. Variations in rates of return to years of schooling across migrant workers working in the same urban labor market but having different sites of basic education provide for direct estimation of provincial school quality. Corroborating this approach, these school quality estimates prove to be highly correlated with provincial cognitive skill test scores for the same demographic group. Returns to quality increase with economic development level of destination cities. Importantly, quality appears higher and provincial variation appears lower for younger cohorts, indicating at least partial effectiveness of more recent policies aimed at improving rural school quality across provinces. Surprisingly, however, provincial variations in quality are uncorrelated with teacher-student ratio or per student spending.</content>
-    <link href="https://www.nber.org/papers/w34005"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34026</id>
-    <title>How Do Certificate-of-Need Laws Affect Hospitals? A Review of the Evidence</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Charles J. Courtemanche &amp; Joseph Garuccio</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The paper has been temporarily withdrawn at the request of the authors. Please check back later.</content>
-    <link href="https://www.nber.org/papers/w34026"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34003</id>
-    <title>Tariffs and Trade Deficits</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Lorenzo Caliendo, Samuel S. Kortum &amp; Fernando Parro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a dynamic multi-country Ricardian trade model with aggregate uncertainty, where countries trade goods and assets, leading to trade imbalances. We introduce a method for computing counterfactuals in this setting without specifying the stochastic process of shocks or solving for asset prices. Applying the model to tariff shocks, we quantify their effects on prices, income, expenditure, and trade imbalances. We find that higher U.S. tariffs reduce the U.S. trade deficit through general equilibrium adjustments, but raise domestic prices and lower real consumption. Our findings highlight that movements in trade imbalances are shaped by the structure of global trade and finance, and that attempts to influence external balances through changes in trade barriers carry significant implications for real economic outcomes.</content>
-    <link href="https://www.nber.org/papers/w34003"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34004</id>
-    <title>Political Foundations of Racial Violence in the Post-Reconstruction South</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Patrick A. Testa &amp; Jhacova A. Williams</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Election results act as powerful signals, shaping social behavior in ways that can be dramatic and even violent. This paper shows how racial violence in the post-Reconstruction U.S. South was tied to the local performance of the anti-Black Democratic Party in presidential elections. Using a regression discontinuity design based on close presidential vote shares, we find that Southern counties where Democrats lost the popular vote between 1880 and 1900 were nearly twice as likely to experience Black lynchings in the following four years. This backlash was enkindled by local elites, who amplified narratives of Black criminality through newspapers after such defeats. These findings point to the strategic use of racial violence by Democratic elites, prefiguring the formal vote suppression of Jim Crow.</content>
-    <link href="https://www.nber.org/papers/w34004"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34002</id>
-    <title>Central Banks as Educators</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Carola Binder</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In recent years, central bankers’ speeches and other forms of communication have become pedagogical in nature, aiming to shape public knowledge, beliefs, expectations, and attitudes. With the shift toward expectations management as a monetary policy tool, central banks’ educational role has become a central component of their monetary policymaking, and central bank communication with the public has become a rapidly-growing area of research. I argue that this research is closely related, both thematically and methodologically, to the field of educational psychology. I discuss insights from educational psychology research that could guide central bank communication research—including insights about the challenges and pitfalls that both fields share.</content>
-    <link href="https://www.nber.org/papers/w34002"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a new rule-based linking method for historical Census records. We augment earlier algorithms based on name, age and place of birth (Abramitzky, Boustan, Eriksson, 2012, or “basic ABE”), with five matching characteristics – middle initial, county of residence, and spouse and parents’ names. Relative to basic ABE, ABE-Extra Information (“ABE-EI”) greatly increases match rates, improves accuracy and is similarly representative of the population on most attributes, with geographic mobility being one important exception. Relative to machine learning algorithms, ABE-EI has somewhat lower match rates, improved representativeness, and offers full replicability. We also create the first ABE-based links for women.</content>
+    <link href="https://www.nber.org/papers/w33999"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -259,18 +115,6 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34021</id>
-    <title>Sovereign Default and the Decline in Interest Rates</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Max Miller, James D. Paron &amp; Jessica Wachter</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Sovereign debt yields have declined dramatically over the last half-century. Standard explanations, including aging populations and increases in asset demand from abroad, encounter difficulties when confronted with the full range of evidence. We propose an explanation based on a decline in inflation and default risk.  We show that a model with sovereign default captures the decline in interest rates, the stability of equity valuation ratios, and the reduction in investment and output growth.  Calibrations of the model post-Covid suggest that sovereign default risk may have returned.</content>
-    <link href="https://www.nber.org/papers/w34021"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34018</id>
     <title>Revisiting the Interest Rate Effects of Federal Debt</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -291,6 +135,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Characteristic-based factors embed large unpriced components that depress Sharpe ratios and deviate from the mean-variance efficient (MVE) frontier. We discuss how to decompose tradable factor returns into priced (MVE) and unpriced components, showing that hedging unpriced variation realigns factors with efficiency. We outline theoretical conditions for characteristic portfolios to span the MVE and describe practical hedge-portfolio construction. In some asset classes—currencies and sovereign bonds—real-time estimation of the MVE is feasible. In the case of equities, one can hedge unpriced risks from characteristic-based factors. Empirically, unpriced risks account for 30–99% of factor return variance, and hedging can more than double Sharpe ratios.</content>
     <link href="https://www.nber.org/papers/w34009"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w33975</id>
+    <title>Eurosclerosis at 40: Labor Market Institutions, Dynamism, and European Competitiveness</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Schoefer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores a repositioning of Europe’s labor market institutions as potential drivers of the transatlantic gap in macroeconomic performance. Institutional diagnoses were prominent in times of high European unemployment in the 1980-90s. But interest waned as joblessness fell—even though the decline was uneven, precarious work arrangements have grown, and labor markets remain largely unreformed (unlike product and financial markets). Yet, rigid labor market institutions might continue to matter because they can stifle labor market and business dynamism: Europeans switch jobs much less frequently, and restructuring is much rarer. Recent research argues that such immobility impedes wage and productivity growth. Moreover, this low dynamism might contribute to Europe’s specific underperformance in tech, R&amp;D, disruptive innovation, ICT adoption—where creative destruction requires fluid reallocation. This institutional labor market perspective on European competitiveness complements prevailing diagnoses focused on capital and product market fragmentation. Tight labor markets, lower unemployment, and shrinking labor supply might keep this nexus timely.</content>
+    <link href="https://www.nber.org/papers/w33975"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -415,78 +271,6 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w33975</id>
-    <title>Eurosclerosis at 40: Labor Market Institutions, Dynamism, and European Competitiveness</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Schoefer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores a repositioning of Europe’s labor market institutions as potential drivers of the transatlantic gap in macroeconomic performance. Institutional diagnoses were prominent in times of high European unemployment in the 1980-90s. But interest waned as joblessness fell—even though the decline was uneven, precarious work arrangements have grown, and labor markets remain largely unreformed (unlike product and financial markets). Yet, rigid labor market institutions might continue to matter because they can stifle labor market and business dynamism: Europeans switch jobs much less frequently, and restructuring is much rarer. Recent research argues that such immobility impedes wage and productivity growth. Moreover, this low dynamism might contribute to Europe’s specific underperformance in tech, R&amp;D, disruptive innovation, ICT adoption—where creative destruction requires fluid reallocation. This institutional labor market perspective on European competitiveness complements prevailing diagnoses focused on capital and product market fragmentation. Tight labor markets, lower unemployment, and shrinking labor supply might keep this nexus timely.</content>
-    <link href="https://www.nber.org/papers/w33975"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34001</id>
-    <title>When Do Migrants Shape Culture?</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Samuel Bazzi &amp; Martin Fiszbein</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter explores the impacts of migrants on the culture of their destinations. Migrants often assimilate to local social norms and practices, but they also tend to maintain their own culture. Sometimes, beyond preserving their culture, they influence their new neighbors. We propose a conceptual framework to understand when migrants shape culture at their destination—and how. We identify two key conditions for influence (ideological intensity and power structure) and three channels of influence (cultural spillovers, organizational mobilization, and political leverage). We combine insights from political economy, social psychology, and evolutionary approaches to illuminate pathways of influence in historical perspective. Our review offers a new perspective on the mechanisms of cultural transmission, using illustrative cases to characterize the various ways in which migrants shape culture in their destinations.</content>
-    <link href="https://www.nber.org/papers/w34001"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34000</id>
-    <title>Productivity Beliefs and Efficiency in Science</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Fabio Bertolotti, Kyle R. Myers &amp; Wei Yang Tham</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a method to estimate producers’ productivity beliefs in settings where output quantities and input prices are unobservable, and we use it to evaluate allocative efficiency in the market for science. Our model of researchers’ labor supply shows that their willingness to pay for their two key inputs, funding and time, reveals their underlying productivity beliefs. We estimate the model’s parameters using data from a nationally representative survey of research-active professors from all major fields of science. We find that the distribution of research productivity is highly skewed. Using these estimates, we assess the market’s allocative efficiency by comparing actual input allocations to optimal allocations given various objectives. Overall, the market for science is moderately efficient at maximizing output and researchers’ utility: actual input levels are positively correlated with the optimal levels implied by the model. However, the wedge between researchers’ actual and optimal input levels is often significant and difficult to predict. Our estimates imply that total budgets would need to increase by roughly 40% under actual allocations in order to achieve the same growth in scientific output that we predict under alternative allocations of the current budget. Scaling to the population level, this equates to billions of dollars in funding — there are substantial gains from developing new ways of identifying and supporting productive scientists.</content>
-    <link href="https://www.nber.org/papers/w34000"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33999</id>
-    <title>Finding John Smith: Using Extra Information for Historical Record Linkage</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ran Abramitzky, Leah Platt Boustan, Harriet M. Brookes Gray, Katherine Eriksson, Santiago Pérez, Hannah M. Postel, Myera Rashid &amp; Noah Simon</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a new rule-based linking method for historical Census records. We augment earlier algorithms based on name, age and place of birth (Abramitzky, Boustan, Eriksson, 2012, or “basic ABE”), with five matching characteristics – middle initial, county of residence, and spouse and parents’ names. Relative to basic ABE, ABE-Extra Information (“ABE-EI”) greatly increases match rates, improves accuracy and is similarly representative of the population on most attributes, with geographic mobility being one important exception. Relative to machine learning algorithms, ABE-EI has somewhat lower match rates, improved representativeness, and offers full replicability. We also create the first ABE-based links for women.</content>
-    <link href="https://www.nber.org/papers/w33999"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33987</id>
-    <title>Due Diligence and the Allocation of Venture Capital</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xiaoyong (Jack) Fu &amp; Lucian A. Taylor</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do investors choose the intensity of their due diligence, and how does that choice affect investment outcomes? Using cell phone signal data, we measure the duration of pre-investment meetings between venture capitalists (VCs) and startup employees. This measure captures one important component of VC due diligence. Less due diligence is associated with hotter deals and markets, busier investors, and greater distance, consistent with a theory of costly learning. Also consistent with that theory, less due diligence is associated with more volatile investment performance, as VCs allocate capital under greater uncertainty. Overall, VCs appear to trade off the costs of due diligence with its improvements to capital allocation.</content>
-    <link href="https://www.nber.org/papers/w33987"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w33983</id>
-    <title>Carbon Rollercoaster: A Historical Analysis of Decarbonization in the United States</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Karen Clay, Akshaya Jha, Joshua A. Lewis &amp; Edson R. Severnini</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper documents the evolution of US carbon emissions and discusses the main factors that contributed to the historical carbon emissions rollercoaster. We divide the discussion into four periods – up to 1920, 1920-1960, 1960-2005 and after 2005. For each period, we discuss the main drivers of national carbon emissions. We then discuss trends in carbon emissions in the electricity sector. Electricity sector emissions were initially very small, but would become the largest source of US carbon emissions over the period 1980-2015, and the largest contributor to decarbonization since 2007. In the final section, we distill lessons from the U.S. experience that may inform decarbonization strategies in developing economies.</content>
-    <link href="https://www.nber.org/papers/w33983"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34055</id>
     <title>Targeting Distributional Impacts in the Presence of Behavioral Responses: Lessons from Maritime Emissions Regulation</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -571,6 +355,18 @@
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34044</id>
+    <title>The Aggregate Welfare and Trade Implications of Contracting Frictions in Global Sourcing</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Davin Chor &amp; Lin Ma</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How much do contracting frictions between global firms and their suppliers impact country welfare and trade? We answer this by developing a model of global sourcing under partial contractibility, where firm-supplier relationships are exposed to a bilateral holdup problem. Sourcing decisions aggregate into a gravity equation for trade flows by organizational mode (intrafirm vs. arm’s length), which we take to structural estimation. We can then evaluate welfare changes with an extended Arkolakis, Costinot and Rodriguez-Clare (2012) formula that incorporates these contracting frictions. Our counterfactual analysis reveals a sizeable average country welfare gain of 9.2% from eliminating contracting frictions in global sourcing. We further show how accounting for these frictions significantly reshapes quantitative assessments of the welfare gains from trade, including the stakes in a US-China decoupling scenario.</content>
+    <link href="https://www.nber.org/papers/w34044"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34061</id>
     <title>Capital Budgeting For EPS Maximizers</title>
     <updated>2025-07-01T00:00:00+00:00</updated>
@@ -591,18 +387,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper evaluates Laffer curves produced by reforms to nonlinear income taxes, focusing on individual taxpayers. A reform puts a taxpayer on the “wrong” side of the Laffer curve if it increases their tax burden while reducing tax payments. There always exist potential reforms with this property – and in particular, tax increases restricted to high-income taxpayers are guaranteed to consign some to the wrong side of the Laffer curve. The original design of the 2024 Australian tax reform would have put 15% of the taxpaying population on the wrong side of the Laffer curve, though subsequent modifications reduced this to 5%. Standard tax progressivity measures that ignore the endogeneity of taxable income generally understate the redistributive impact of progressive tax reforms.</content>
     <link href="https://www.nber.org/papers/w34059"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34044</id>
-    <title>The Aggregate Welfare and Trade Implications of Contracting Frictions in Global Sourcing</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Davin Chor &amp; Lin Ma</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How much do contracting frictions between global firms and their suppliers impact country welfare and trade? We answer this by developing a model of global sourcing under partial contractibility, where firm-supplier relationships are exposed to a bilateral holdup problem. Sourcing decisions aggregate into a gravity equation for trade flows by organizational mode (intrafirm vs. arm’s length), which we take to structural estimation. We can then evaluate welfare changes with an extended Arkolakis, Costinot and Rodriguez-Clare (2012) formula that incorporates these contracting frictions. Our counterfactual analysis reveals a sizeable average country welfare gain of 9.2% from eliminating contracting frictions in global sourcing. We further show how accounting for these frictions significantly reshapes quantitative assessments of the welfare gains from trade, including the stakes in a US-China decoupling scenario.</content>
-    <link href="https://www.nber.org/papers/w34044"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -1204,6 +988,222 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper proposes a new unified accounting framework to measure Global Supply Chain (GSC) activities. It integrates decomposition frameworks on gross output, trade, and value added, and formally incorporates the role of Foreign Invested Enterprises (FIEs). Compared to the existing Global Value Chain (GVC) metrics that do not distinguish FIEs from domestic firms, the estimate of GSC activities in our approach is three times as large. The key contributions of our approach are: (1) distinguishing GSC activities based on their positions along production chains (upstream, downstream, or both) and mode of engagement (trade, FDI, or both); (2) extending Vertical Specialization (VS) measures to domestic supply chains, bridging trade-only and production-based analyses; and (3) reconciling net and gross decompositions to provide a comprehensive view of GSC participation and exposures.</content>
     <link href="https://www.nber.org/papers/w34073"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34117</id>
+    <title>Implications of Fiscal-Monetary Interaction from HANK Models</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Greg Kaplan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I describe nine implications of the interconnectedness of fiscal and monetary policy that surface in Heterogeneous Agent New Keynesian (HANK) models. Not all are unique to HANK models. (i) Long run fiscal changes force monetary adjustments. (ii) Sustainable permanent deficits are feasible. (iii) Monetary policy leaves fiscal footprints, even with passive fiscal policy. (iv) Fewer controversies around active fiscal policy. (v) Equilibria are unique under a wider class of fiscal and monetary rules. (vi) With short-term debt, raising nominal rates without a fiscal contraction raises inflation. (vii) Unfunded fiscal stimulus is more inflationary. (viii) Even fully funded fiscal stimulus is inflationary. (ix) Fiscal transfers can substitute for monetary policy in the aggregate.</content>
+    <link href="https://www.nber.org/papers/w34117"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34116</id>
+    <title>Misperceptions About Air Pollution: Implications for Willingness to Pay and Environmental Inequality</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matthew A. Tarduno &amp; Reed Walker</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores whether misperceptions about air pollution contribute to environmental inequality in the United States. We use a two-part survey experiment to elicit respondents' beliefs about local air quality and pollution's effects on life expectancy. We document how misperception differs across demographic groups and then how this misperception affects willingness to pay (WTP) for cleaner air. Since misperception or beliefs may be correlated with other unobservable determinants of WTP, we randomly show selected participants customized information about their actual air pollution. This allows us to trace out how experimentally induced changes in beliefs affect WTP for air quality. Our results suggest significant misperceptions about air pollution in the US. Respondents, on average, overestimate both their air pollution exposure and its impact on life expectancy. Beliefs about relative air pollution are not systematically biased but are noisy. Despite some differences in misperceptions between Black and White respondents, counterfactual exercises do not suggest that rectifying these misperceptions would meaningfully close the observed gap in WTP and/or pollution exposure.</content>
+    <link href="https://www.nber.org/papers/w34116"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34115</id>
+    <title>Fear and Risk Perception: Understanding Physicians' Dynamic Responses to Malpractice Lawsuits</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hanming Fang, Ming Li &amp; Jia Xiang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper investigates how physicians adjust their clinical decision-making following medical malpractice lawsuits and how these responses are driven by mental rather than ﬁnancial costs, and do not align with rational expectations. We combine a comprehensive health insurance claim database from a Chinese city with the universe of malpractice lawsuits to study changes in physician behavior and patient outcomes. We ﬁnd that physicians respond to lawsuits by practicing more conservatively, rejecting high-risk patients, reducing surgery rates, and increasing the use of diagnostic tests and traditional Chinese medicine. These changes are associated with worse patient outcomes, consistent with defensive medicine. The eﬀects are not limited to the directly involved departments but spill over to other departments within the same hospital. In addition, the changes are short-lived, with physicians reverting to their pre-lawsuit treatment patterns in eight weeks. We provide evidence that such responses are likely driven by mental cost (including fear) and deviate from rational expectations. First, physicians in hospitals with more and less frequent lawsuits exhibit similar responses to a new lawsuit; moreover, they respond similarly to winning and losing cases. Second, physicians’ reactions to a patient’s death vary depending on the recency of a salient lawsuit. Lastly, physician responses are especially strong following criminal violence against physicians, which is emotionally and psychologically salient.</content>
+    <link href="https://www.nber.org/papers/w34115"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34114</id>
+    <title>Concentration and Markups in International Trade</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Vanessa I. Alviarez, Michele Fioretti, Ken Kikkawa &amp; Monica Morlacco</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper derives a closed-form expression linking aggregate markups on imported inputs to concentration in a model of firm-to-firm trade with two-sided market power. Our theory extends standard oligopoly insights in two dimensions. First, it reveals that markups increase with exporter concentration and decrease with importer concentration, reflecting the balance of oligopoly and oligopsony forces. Second, it adapts conventional market definitions to reflect rigid trading relationships, yielding new concentration measures that capture competition in firm-to-firm trade. Analysis of Colombian transaction-level import data shows these differences are key to understanding markup dynamics in international trade.</content>
+    <link href="https://www.nber.org/papers/w34114"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34112</id>
+    <title>Random Walk Forecasts of Stationary Processes Have Low Bias</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kenneth D. West &amp; Kurt G. Lunsford</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the use of a misspecified overdifferenced model to forecast the level of a stationary scalar time series. Let x(t) be the series, and let bias be the sample average of a series of forecast errors. Then, the bias of forecasts of x(t) generated by a misspecified overdifferenced ARMA model for Δx(t) will tend to be smaller in magnitude than the bias of forecasts of x(t) generated by a correctly specified model for x(t). Formally, let P be the number of forecasts. The bias from the model for Δx(t) has a variance that is O(1/P^2), while the variance of the bias from the model for x(t) generally is O(1/P). With a driftless random walk as our baseline overdifferenced model, we confirm this theoretical result with simulations and empirical work: random walk bias is generally one-tenth to one-half that of an appropriately specified model fit to levels.</content>
+    <link href="https://www.nber.org/papers/w34112"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34113</id>
+    <title>Market Rents and CPI Shelter Inflation</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Laurence M. Ball &amp; Kyung Woong Koh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Recent research finds that the shelter component of CPI inflation responds with a lag to movements in market rents—the rents that tenants pay when they move into a new dwelling. This paper seeks to improve our understanding of this fact. We start by identifying three sources of lags between market rents and CPI shelter: the rents of most tenants are set in long-term leases; rents are smoothed for continuing tenants who renew leases; and CPI shelter inflation is measured with rent changes over six months. We incorporate these lags in a model of shelter inflation and compare the model to monthly data since 2015, using the Zillow Observed Rent Index to measure market rents. We find that the model performs fairly well, suggesting that it may be useful for understanding and forecasting inflation.</content>
+    <link href="https://www.nber.org/papers/w34113"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34111</id>
+    <title>Do Environmental Markets Improve Allocative Efficiency? Evidence from U.S. Air Pollution</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kyle C. Meng &amp; Vincent Thivierge</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The central appeal of environmental markets – efficient allocation of emission reductions – has been difficult to establish empirically. We develop a framework linking the theoretical change in allocative efficiency following a market-based policy to a quasi-experimental estimator. We apply this framework with administrative data to two major U.S. air pollution markets. We find allocative efficiency for pollution improved by 3.3 percentage points annually under California’s RECLAIM program but do not detect a change under the U.S.’ NOx Budget Trading Program. These results are supported by greater heterogeneity in baseline facility characteristics under RECLAIM and differences in program implementation.</content>
+    <link href="https://www.nber.org/papers/w34111"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34110</id>
+    <title>Markups and Cost Pass-through Along the Supply Chain</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Santiago Alvarez-Blaser, Alberto Cavallo, Alexander MacKay &amp; Paolo Mengano</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use a novel dataset of production costs, wholesale prices, and retail prices from a large global manufacturer to study markups and pricing behavior along the supply chain. We document several facts about markups covering the period July 2018 through June 2023, and we propose a model of supply chain pricing behavior that rationalizes key pat-terns in our data. We find substantial dispersion in markups across products at each supply chain level. Manufacturer and retail markups are negatively correlated in the cross section and over time. Despite time-series variation in firm-level markups, total markups—reflecting the relationship between retail prices and production costs—are stable over time, even when prices increased along with inflation in the United States in 2022. We apply our model to quantify factors that determine relative bargaining power between the manufacturer and retailers, leveraging variation across countries, products, and time. Finally, we consider the dynamics of cost pass-through and the mediating role of manufacturer-retailer bargaining in price dynamics, with implications for current policy debates, including trade policy and tariffs.</content>
+    <link href="https://www.nber.org/papers/w34110"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34109</id>
+    <title>The Social Lifecycle Impacts of Power Plant Siting in the Historical United States</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Karen Clay, Danae Hernandez-Cortes, Akshaya Jha, Joshua A. Lewis, Noah S. Miller &amp; Edson R. Severnini</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the relative contributions of siting decisions and post-siting demo-graphic shifts to current disparities in exposure to polluting fossil-fuel plants in the United States. Our analysis leverages newly digitized data on power plant siting and operations from 1900-2020, combined with spatially resolved demographics and population data from the U.S Census from 1870-2020. We find little evidence that fossil-fuel plants were disproportionately sited in counties with higher Black population shares on average. However, event study estimates indicate that Black population share grows in the decades after the first fossil-fuel plant is built in a county, with average increases in Black population share of 4 percentage points in the 50-70 years after first siting. These long-run demographic shifts are driven by counties that first hosted a fossil-fuel plant between 1900-1949. We close by exploring how these long-run demographic shifts were shaped by the Great Migration, differential sorting in response to pollution, and other factors. Our findings highlight that the equity implications of siting long-lived infrastructure can differ dramatically depending on the time span considered.</content>
+    <link href="https://www.nber.org/papers/w34109"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34108</id>
+    <title>Optimal Tariffs with Geopolitical Alignment</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>John S. Becko, Gene M. Grossman &amp; Elhanan Helpman</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;As geopolitical tensions intensify, great powers often turn to trade policy to influence international alignment. We examine the optimal design of tariffs in a world where large countries care not only about economic welfare but also about the political allegiance of smaller states. We consider both a unipolar setting, where a single hegemon uses preferential trade agreements to attract partners, and a bipolar world, where two great powers compete for influence. In both scenarios, we derive optimal tariffs that balance terms-of-trade considerations with strategic incentives to encourage political alignment. We find that when geopolitical concerns are active, the optimal tariff exceeds the classic Mill-Bickerdike level. In a bipolar world, optimal tariffs reflect both economic and political rivalry, and may be strategic complements or substitutes. A calibration exercise using U.N. voting patterns, an estimate of the cost of buying votes in the U.N., and military spending suggests that geopolitical motives can significantly amplify protectionist pressures and that the emergence of a second great power can contribute to a retreat from globalization.</content>
+    <link href="https://www.nber.org/papers/w34108"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34107</id>
+    <title>The Legacy of High Inflation on Monetary Policy Rules</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Luis I. Jacome, Nicolas E. Magud, Samuel Pienknagura &amp; Martín Uribe</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper shows the key, yet overlooked, role played by the legacy of a high inflation history on the strength of the monetary policy response to inflationary shocks. To rationalize this, we propose a New Keynesian model that diverges from the existing workhorse model by adding path-dependence (to a forward-looking model) and potentially imperfect central bank credibility. We show that achieving low inflation (hitting the target) requires more aggressive monetary policy reactions, and is costlier from an output point of view, when individuals’ past inflationary experiences shape their inflation expectation formation. In turn, we provide empirical evidence of the need for these two theoretical additions. Countries that experienced a high level of inflation before adopting the IT regime tend to respond more aggressively to deviations of inflation expectations from the central bank’s target. We also point to the existence of a credibility puzzle, whereby the strength of a central bank’s monetary policy response to deviations from the inflation target remains broadly unchanged even as central banks gain credibility over time. Put differently, a country’s inflationary past casts a long and persistent shadow on central banks.</content>
+    <link href="https://www.nber.org/papers/w34107"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34106</id>
+    <title>Are Juries Racially Discriminatory? Evidence from the Race-Blind Charging of Grand Jury Defendants with and without Racially Distinctive Names</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mark Hoekstra, Suhyeon Oh &amp; Meradee Tangvatcharapong</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We implement five different tests of whether grand juries, which are drawn from a representative cross-section of the public, discriminate against Black defendants when deciding to prosecute felony cases. Three tests exploit that while jurors do not directly observe defendant race, jurors do observe the “Blackness” of defendants’ names. All three tests—an audit-study-style test, a traditional outcome-based test, and a test that estimates racial bias using blinded/unblinded comparisons after purging omitted variable bias—indicate juries do not discriminate based on race. Two additional tests indicate racial bias explains at most 0.3 percent of the Black-White felony conviction gap.</content>
+    <link href="https://www.nber.org/papers/w34106"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34105</id>
+    <title>Sequential College Admission Mechanisms and Off-Platform Options</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Olivier De Groote, Anaïs Fabre, Margaux Luflade &amp; Arnaud Maurel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The optimal functioning of centralized allocation systems is undermined by the presence of institutions operating off-platform—a feature common to virtually all real-world implementations. These off-platform options generate justified envy, as students may reject their centralized assignment in favor of an outside offer, leaving vacant seats in programs that others would have preferred to their current match. We examine whether sequential assignment procedures can mitigate this inefficiency: they allow students to delay their enrollment decision to potentially receive a better offer later, at the cost of waiting before knowing their final admission outcome. To quantify this trade-off, we estimate a dynamic model of application and acceptance decisions using rich administrative data from the French college admission system, which include rank-ordered lists and waiting decisions. We find that waiting costs are large. Yet, by improving students’ assignment outcomes relative to a standard single-round system, the sequential mechanism decreases the share of students who leave the higher education system without a degree by 5.4% and leads to large welfare gains.</content>
+    <link href="https://www.nber.org/papers/w34105"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34104</id>
+    <title>Seemingly Virtuous Complexity in Return Prediction</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stefan Nagel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Return prediction with Random Fourier Features (RFF)—a very large number, P , of nonlinear trans-formations of a small number, K, of predictor variables—has become popular recently. Surprisingly, this approach appears to yield a successful out-of-sample stock market index timing strategy even when trained in rolling windows as small as T = 12 months with P in the thousands. However, when P ≫ T , the RFF-based forecast becomes a weighted average of the T training sample returns, with weights determined by the similarity between the predictor vectors in the training data and the current predictor vector. In short training windows, similarity primarily reflects temporal proximity, so the forecast reduces to a recency-weighted average of the T return observations in the training data—essentially a momentum strategy. Moreover, because similarity declines with predictor volatility, the result is a volatility-timed momentum strategy. The strong performance of the RFF-based strategy thus stems not from its ability to extract predictive signals from the training data, but from the fact that a volatility-timed momentum strategy happened to perform well in historical data. This point becomes clear when applying the same method to artificial data in which returns exhibit reversals rather than momentum: the RFF approach still constructs the same volatility-timed momentum strategy, which then performs poorly.</content>
+    <link href="https://www.nber.org/papers/w34104"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34102</id>
+    <title>Turning Points in Inflation: A Structural Breaks Approach with Micro Data</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alberto Cavallo &amp; Gaston Garcia Zavaleta</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a novel methodology for detecting inflation turning points that com-bines high-frequency, disaggregated price data with standard structural break techniques to provide policymakers with more timely and precise signals of inflation dynamics. The methodology consists of three key components: measuring inflation as the slope of the log price index rather than using conventional inflation rates, employing structural break techniques to detect shifts in this slope, and leveraging highly disaggregated price indexes to identify trend breaks at a granular level. We apply this approach to study two critical recent episodes: Argentina’s 2024–2025 disinflation and the inflationary impact of U.S. tariff adjustments in 2025. For Argentina, we detect a broad-based disinflationary turning point in May 2024. For the U.S., we find evidence of a turning point in February 2025, with significant sectoral inflation accelerations despite stable aggregate inflation measures. These applications demonstrate the utility of our approach for enhancing real-time inflation monitoring and policy decision-making.</content>
+    <link href="https://www.nber.org/papers/w34102"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34101</id>
+    <title>Why Did Air Conditioning Adoption Accelerate Faster Than Predicted? Evidence from Mexico</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lucas W. Davis &amp; Paul Gertler</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A common theme in the vast literature on climate change is the estimation of models using historical data to make predictions many decades into the future. Although there is a large and growing number of these types of studies, researchers rarely return later to check the accuracy of their predictions. In this paper, we perform such an exercise. In Davis and Gertler (2015), we used household-level microdata from Mexico to predict future air conditioning adoption as a function of income and temperature. Revisiting these predictions with 12 years of additional data, we find that air conditioning in Mexico has accelerated, significantly exceeding our predictions. Neither errors in predicting income growth or rising temperatures, nor migration patterns, nor an overly restrictive model can explain the large prediction gap. Instead, our results point to the failure to account for falling electricity prices and technological changes in air conditioner eﬀiciency as key drivers of the prediction gap.</content>
+    <link href="https://www.nber.org/papers/w34101"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34100</id>
+    <title>GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Filipe R. Campante, Ruben Durante, Felix Hagemeister &amp; Ananya Sen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how AI-generated misinformation affects demand for trustworthy news, using data from a field experiment by a major German outlet, Süddeutsche Zeitung (SZ). Readers were randomly assigned to a treatment highlighting the challenge of distinguishing real from AI-generated images. The treatment raised concern with misinformation (0.3 s.d.) and reduced trust in news (0.1 s.d.), including SZ. Importantly, it affected post-survey browsing behavior: daily visits to SZ digital content rose by 2.5% in the immediate aftermath of the treatment. Moreover, we find that subscriber retention increased by 1.1% after five months, corresponding to about a one-third drop in attrition rate. Results are consistent with a model where the relative value of trustworthy news sources increases with the prevalence of misinformation, which may thus boost engagement with those sources even while lowering trust in news content.</content>
+    <link href="https://www.nber.org/papers/w34100"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34099</id>
+    <title>When is Less More? Bank Arrangements for Liquidity vs Central Bank Support</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Viral V. Acharya, Raghuram Rajan &amp; Zhi Quan (Bill) Shu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Theory suggests that in the face of fire sale externalities, banks have incentives to overinvest in order to issue excessive money-like deposit liabilities. The existence of a private market for insurance such as contingent capital can eliminate the overinvestment incentives, leading to efficient outcomes. However, it does not eliminate fire sales. A central bank that can infuse liquidity cheaply may be motivated to intervene in the face of fire sales. If so, it can crowd out the private market and, if liquidity intervention is not priced at higher-than-breakeven rates, induce overinvestment. We examine various forms of public intervention to identify the least distortionary ones. Our analysis helps understand the historical prevalence of private insurance in the era preceding central banks and deposit insurance, their subsequent disappearance, as well as the continuing incidence of banking crises and speculative excesses.</content>
+    <link href="https://www.nber.org/papers/w34099"/>
     <category term="NBER"/>
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
