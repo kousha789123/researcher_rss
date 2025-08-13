@@ -2,94 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-08-12T13:40:43.813273+00:00</updated>
+  <updated>2025-08-13T13:40:04.555692+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdaf059</id>
-    <title>Does Tax-Benefit Linkage Matter for the Incidence of Payroll Taxes?</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Antoine Bozio, Thomas Breda, Julien Grenet, Arthur Guillouzouic</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We analyse earnings responses to six large payroll tax and income tax reforms in France. Our findings indicate full pass-through to workers when there is a strong and transparent link between contributions and expected benefits. In contrast, employer payroll taxes with no tax-benefit linkage exhibit limited pass-through to workers, while income tax nominally borne by employees show nearly full pass-through. Together with a meta-analysis of the literature, we interpret these results as empirical support for the long-standing hypothesis that tax-benefit linkage matters for the incidence of payroll taxes. In the absence of such linkage, our findings suggest that the individual-level incidence of payroll taxes aligns with their statutory incidence.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf059"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2021.15846</id>
-    <title>Virtually Even: Status Equalizing in Distributed Organizations</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Rebecca Hinds, Melissa Valentine, Katherine DeCelles, Justin M. Berg</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;In distributed organizations, perceived status differences between workers are ubiquitous and harmful. Yet research suggests that once they are formed, status beliefs in organizations become entrenched in hierarchies and are hard to dismantle. In an inductive qualitative study, we observed how established status differences between remote and in-person workers in distributed organizations dissolved during the initial stages of the COVID-19 pandemic when everyone began working remotely. We use these data to theorize a novel status-equalizing process through which remote workers came to see themselves on an “equal playing field” with their in-person peers. We theorize how this status equalizing occurred through workers’ changing their “in-person default” use of technology—that is, their new behavior challenged embedded cultural practices that had treated the in-person workplace experience as the standard, normal, and valued perspective, implicitly guiding how employees used technology. Workers adopted new and more inclusive technology practices—including the use of asynchronous communication, greater codification of work, and virtual socializing—which resulted in remote workers perceiving new and more equal communication standards, access to information, and opportunity for social connection. As a result, these workers reported feeling less negatively stereotyped and treated more fairly in their virtual interactions with colleagues, fostering feelings of inclusion and deepening relationships across the previously established status divide. At a time when many organizations are grappling with the challenges of distributed, remote, and hybrid work, our research illuminates how inclusive technology practices can help nullify entrenched status imbalances.</content>
-    <link href="https://doi.org/10.1287/orsc.2021.15846"/>
-    <category term="Organization Science"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0446</id>
-    <title>Episodic Bayesian Optimal Control with Unknown Randomness Distributions</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Alexander Shapiro, Enlu Zhou, Yifan Lin, Yuhao Wang</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Bayesian Learning for Data-Driven Stochastic Optimal ControlStochastic optimal control (SOC) provides a principled approach to dynamic decision making under uncertainty. It models the transition of the system state with a dynamic equation driven by randomness, with the assumption that the distribution of randomness is known. However, in practical problems, modeling randomness frequently depends on data or observations, which introduces uncertainty regarding the distribution of randomness. To address the data-driven SOC problem, in “Episodic Bayesian Optimal Control with Unknown Randomness Distributions,” Shapiro, Zhou, Lin, and Wang propose a new approach that incorporates Bayesian learning with optimal control in an episodic manner. They show the convergence and convergence rate results for their approach. They also develop an efficient computational method for a class of problems that have convex cost functions and linear state dynamics.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0446"/>
-    <category term="Operations Research"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06274</id>
-    <title>Closer to Home: A Structural Estimate-Then-Optimize Approach to Improve Access to Healthcare Services</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Fernanda Bravo, Ashvin Gandhi, Jingyuan Hu, Elisa F. Long</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Geographic inequalities in healthcare access extend beyond rural–urban divides to include socioeconomic, racial, and other disparities. Proximity to hospitals, clinics, healthcare providers, and pharmacies varies widely, posing a challenge in deciding where to strategically locate such facilities. Demand for each service depends on local population health, individual preferences, provider capacity, and other factors. This study introduces a novel structural estimate-then-optimize (SETO) framework, combining structural demand estimation using a modified Berry–Levinsohn–Pakes approach that accounts for provider capacity with a choice-based optimal facility location model to maximize health service utilization. Our methodology is illustrated with a case study on the Federal Retail Pharmacy Program in California, a public–private partnership that administered millions of COVID-19 vaccinations. Demand estimates indicate that residents of socioeconomically vulnerable communities are more sensitive to travel distances to pharmacy-based vaccination sites. Strategically adding 500 retail stores serving lower-income communities increases predicted vaccinations by 2.9% overall (770,000 additional vaccinations statewide) and by 5.3% in the least healthy neighborhoods. Our integrative SETO approach outperforms heuristics that allocate resources based on current vaccination rates, existing service gaps, population density, or predicted demand. The case study demonstrates the importance of (1) accounting for heterogeneity in estimating demand and (2) selecting partnerships to complement existing networks with spatially heterogeneous supply and efficiently fill service gaps. Our study provides a systematic approach to optimize healthcare delivery networks, using publicly available aggregate data while accounting for individuals’ preferences, highlighting the value of combining a structural demand model with prescriptive analytics.This paper was accepted by Stefan Sholtes, healthcare management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06274 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06274"/>
-    <category term="Management Science"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.13266</id>
-    <title>Unbottling Time: Indigenous Temporal Sovereignty and ‘Time‐Less Organizing’ at a Bottled Water Plant Occupation in Mexico</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Rajiv Maher</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This study examines how Indigenous Zapatista‐influenced activists enact temporal sovereignty to resist corporate water extraction, challenging dominant Western organizational temporalities. Through qualitative in‐person research of the 2021 occupation of a water bottling plant in Mexico, I explore how activists transformed the site into a non‐capitalist communal space, creating alternative temporal rhythms rooted in Zapatista principles such as ‘walking at the pace of the slowest’ and collective autonomy. The findings reveal how activists rejected efficiency‐driven deadlines, prioritized ecological cycles over productivity metrics, and fostered relational well‐being through inclusive decision‐making. These practices culminated in what I conceptualize as ‘time‐less organizing’ – a framework for non‐capitalist horizontal organizing that operates outside conventional time logics. The study contributes to the management and organizing literature by theorizing temporal sovereignty as resistance to imposed temporalities, extending critiques of stakeholder theory by exposing how corporate temporal constraints perpetuate marginalization, and demonstrating how communities reclaim autonomy through alternative temporal practices. The findings challenge assumptions of time as a resource to be managed for efficiency gains, offering future avenues of research for addressing grand challenges through decelerated and relational approaches.</content>
-    <link href="https://doi.org/10.1111/joms.13266"/>
-    <category term="Journal of Management Studies"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70001</id>
-    <title>Renegotiating &lt;scp&gt;HRM&lt;/scp&gt; Practices and Delivering Service Transformation of Frontline Workers: Insights From the &lt;scp&gt;UK&lt;/scp&gt;'s &lt;scp&gt;NHS&lt;/scp&gt; Ambulance Trust During a Significant Disruption</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Ashish Malik, Paresh Wankhade, Swetketu Patnaik, Pawan Budhwar</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;We note that while the institutional environment determines the actions and structures of constituent organizations, there are still limited insights available in the literature on the nature and process of interactions between key stakeholders in ambulance services, especially as they respond during a significant crisis. This study specifically examines how a positive social exchange between senior leadership, managers, and frontline staff, accompanied by changes to the leadership style and HR practices, resulted in significant service transformation. An in‐depth qualitative case study design was used to interview 52 frontline staff and leaders from the UK National Health Service's (NHS) Ambulance Service over a prolonged period of 8 months (October 2020 to May 2021). Interviews and secondary data were abductively analyzed, showing how changes to HRM and leadership practices shaped service transformation's content, process, and logic. The findings suggest that an iterative social exchange between the key social actors in the Ambulance Trust led to adaptations to the nature of HRM and leadership practices, which positively impacted the changes to service delivery, leading to service transformation and improved health and well‐being of paramedics. Our conceptual framework contributes to the literature by integrating how the use of agency, new HRM, and leadership practices in the context of institutionalized structures can result in service transformation. Implications for theory and practice are also discussed.</content>
-    <link href="https://doi.org/10.1002/hrm.70001"/>
-    <category term="Human Resource Management"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70008</id>
-    <title>The Evolving Future of Work: Implications for Newcomer Adaptability and Connectivity During Organizational Socialization</title>
-    <updated>2025-07-23T00:00:00+00:00</updated>
-    <author>
-      <name>Talya N. Bauer, Berrin Erdogan, Allison M. Ellis, Donald M. Truxillo, Grant M. Brady, Julie M. McCarthy</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Organizational socialization and the practice of onboarding new hires are central human resources functions. However, traditional socialization theory and practice were built on assumptions that are increasingly misaligned with today's work context. We identified four current, emerging, and future work trends that characterize the evolving landscape surrounding organizational socialization: technological advancement, the expansion of remote work arrangements, rising societal loneliness and mental health challenges, and aging workforce demographics. Collectively, these trends have contributed to dramatic shifts in the context and performance of work, as well as the expectations that employees and organizations hold for one another. Accordingly, we argue that these shifts require a renewed examination of the organizational socialization process that reflects contemporary realities such as the move away from stable, physically co‐located, psychologically anchored work toward boundaryless, tech‐mediated, and transient work arrangements. Our review presents a future‐forward look at organizational socialization through the lens of these societal and workplace shifts. We identify newcomer adaptability and connection as emergent critical factors for the future of onboarding. Through this lens, we offer practical implications for human resource practice and invite future research that advances our understanding of organizational socialization in today's context.</content>
-    <link href="https://doi.org/10.1002/hrm.70008"/>
-    <category term="Human Resource Management"/>
-    <published>2025-07-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdaf055</id>
     <title>Quantifying the Benefits of Labor Mobility in a Currency Union</title>
@@ -765,26 +681,26 @@
   <entry>
     <id>https://doi.org/10.1177/10591478251362677</id>
     <title>Internet of Things in Intralogistics: Applications and Emerging Research</title>
-    <updated>2025-08-12T13:40:43+00:00</updated>
+    <updated>2025-08-13T13:40:04+00:00</updated>
     <author>
       <name>René de Koster, Debjit Roy, Yun Fong Lim, Subodha Kumar</name>
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Managing the performance of intralogistics operations, that is logistics operations within facilities such as manufacturing plants, order fulfillment warehouses, ports and terminals, and retail stores, is critical in fulfilling customer expectations. Traditional decision-making for intralogistics operations is based on historical data, typically collected over long-range intervals with significant processing delays. However, nowadays, Internet of Things (IoT) applications are used to gather detailed real-time data to make dynamic decisions. These new data sources provide challenges and opportunities for operations management. We provide an overview of prominent IoT technologies in four domains: Manufacturing, warehousing, ports and terminals, retail, and other emerging areas. We discuss four prominent research questions (cutting across multiple application domains) that can be addressed using new data sources, along with the methodological approach and managerial insights that may result. In particular, IoT can improve the tracking and tracing of objects, equipment, and humans and provide rapid alerts, allowing managers to make real-time decisions and improve asset use, uptime, and profitability.</content>
     <link href="https://doi.org/10.1177/10591478251362677"/>
     <category term="Production and Operations Management"/>
-    <published>2025-08-12T13:40:43+00:00</published>
+    <published>2025-08-13T13:40:04+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1111/joms.13273</id>
     <title>When Newspapers Fail to Deter Corporate Illegality: The Constraining Effects of Economic Institutions</title>
-    <updated>2025-08-12T13:40:43+00:00</updated>
+    <updated>2025-08-13T13:40:04+00:00</updated>
     <author>
       <name>Tony Jaehyun Choi, Kam Phung</name>
     </author>
     <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Social control agents aim to restrict corporate illegality, yet its prevalence highlights inconsistencies in enforcement mechanisms. To explore this issue, we examine how newspapers reduce corporate illegality by imposing ethical norms on firms. Analysing data from firms in 29 countries, we find that higher newspaper reach is only moderately associated with lower levels of corporate illegality due to key boundary conditions. Specifically, we leverage institutional anomie theory as a framework to identify and test three ways in which economic institutions constrain newspapers' ethical norm‐setting role. The negative association between newspaper reach and corporate illegality is weakened in countries with strong cultural pressure to succeed or pervasive economic penetration into newspapers. However, firm‐level shareholder orientation does not moderate this relationship. These findings highlight the importance of contextualized analyses of media landscapes and the role of economic institutions in undermining social control processes.</content>
     <link href="https://doi.org/10.1111/joms.13273"/>
     <category term="Journal of Management Studies"/>
-    <published>2025-08-12T13:40:43+00:00</published>
+    <published>2025-08-13T13:40:04+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdaf066</id>
@@ -977,6 +893,30 @@
     <link href="https://doi.org/10.1257/aer.20231130"/>
     <category term="American Economic Review"/>
     <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00681</id>
+    <title>Angry Borrowers: Ex Post Effects of Social Shaming on Debt Repayment</title>
+    <updated>2025-08-12T00:00:00+00:00</updated>
+    <author>
+      <name>Li Liao, Zhengwei Wang, Hongjun Yan, Jun Yang, Congyi Zhou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the consequences of an intrusive debt-collection tactic that targets delinquent borrowers’ social circles. Our identification strategy relies on the fact that some of the delinquent loans are not worked on because of collection agents’ excessive workload. Using two approaches to estimate the local treatment effect, we show that this social-shaming tactic backfires and substantially increases the borrowers’ default rate. Borrowers with better outside options for credit access and male borrowers respond more strongly after they are shamed socially. These findings are in general consistent with the negative reciprocity interpretation; angered borrowers retaliate by defaulting on their loans.This paper was accepted by Lin William Cong, finance.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.00681 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00681"/>
+    <category term="Management Science"/>
+    <published>2025-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00816</id>
+    <title>Big Data Availability and Asymmetric Voluntary Disclosures</title>
+    <updated>2025-08-12T00:00:00+00:00</updated>
+    <author>
+      <name>Clark Liu, Yancheng Qiu, Shujing Wang, P. Eric Yeung</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We exploit staggered releases of satellite data on parking lot traffic across U.S. retailers and conduct the stacked Poisson regression to identify the causal effect of big data availability on corporate voluntary disclosure. We document a significant decrease in management good news forecasts following the satellite data release, whereas bad news forecasts are unaffected. The asymmetric decrease cannot be explained by the demand-side substitution hypothesis. Our evidence suggests that the supply-side “meeting guidance” hypothesis is likely to account for the disappearing good news forecasts. We also derive cross-sectional predictions from the hypothesis and confirm them in the data: The decrease in good news forecasts is more pronounced among short-horizon quarterly guidance than long-term forecasts and when firms have higher institutional ownership, higher operating uncertainty, and higher litigation risk of missing guidance.This paper was accepted by Suraj Srinivasan, accounting.Funding: S. Wang acknowledges financial support from the National Natural Science Foundation of China [Grant 72373110] and the Fundamental Research Funds for the Central Universities in China.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00816 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00816"/>
+    <category term="Management Science"/>
+    <published>2025-08-12T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/joom.70008</id>
@@ -1313,6 +1253,42 @@
     <link href="https://doi.org/10.1287/mnsc.2023.00087"/>
     <category term="Management Science"/>
     <published>2025-08-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhaf055</id>
+    <title>Failure to Share Natural Disaster Risk</title>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <author>
+      <name>Tuomas Tomunen</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;I test whether asset prices reflect risk exposures of financial intermediaries in a setting well-suited to tackling concerns about omitted risk factors. I analyze catastrophe bonds whose cash flows are linked to natural disasters and find that 71% of the security-level variation in expected returns can be explained by a theoretically motivated measure of intermediaries’ marginal utility. Assuming natural disasters are independent of aggregate wealth, this result is inconsistent with any alternative explanation based on unobserved macroeconomic risks. In addition, the aggregate premium decreases and becomes less sensitive to the occurrence of disasters when intermediaries’ access to outside capital improves. (JEL G12, G22)</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf055"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjaf037</id>
+    <title>What Drives Risky Prescription Opioid Use? Evidence from Migration</title>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <author>
+      <name>Amy Finkelstein, Matthew Gentzkow, Dean Li</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We develop and estimate a dynamic model of risky prescription opioid use that allows us to unpack the role of person- and place-specific drivers of the opioid epidemic and to assess the impact of state opioid policies. Event studies indicate that, among adults receiving federal disability insurance from 2006 to 2019, moves to states with higher rates of risky use produce an immediate jump in the probability of risky use, followed by an additional gradual increase for the next several years. Using a potential outcomes framework, we show how these results map to the person- and place-specific factors in the model. Model estimates imply large effects of place on both the likelihood of transitioning to addiction and the availability of prescription opioids; they also indicate that these place effects change significantly when state laws restricting pain clinics are enacted. A one standard deviation reduction in all place effects would have reduced risky use by about 40 percent over our study period. One particular source of place effects, pain clinic laws, reduced risky use by 5 percent, but could have reduced it by 30 percent if they had been enacted earlier, with much of this magnification operating through the dynamics of addiction.</content>
+    <link href="https://doi.org/10.1093/qje/qjaf037"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjaf040</id>
+    <title>Conviction, Incarceration, and Recidivism: Understanding the Revolving Door</title>
+    <updated>2025-08-07T00:00:00+00:00</updated>
+    <author>
+      <name>John Eric Humphries, Aurelie Ouss, Kamelia Stavreva, Megan T Stevenson, Winnie van Dijk</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;Noncarceral conviction is a common outcome of criminal court cases: for every individual incarcerated, there are approximately three who were recently convicted but not sentenced to prison or jail. We extend the binary-treatment judge IV framework to settings with multiple treatments and use it to study the consequences of noncarceral conviction. We outline assumptions under which widely-used 2SLS regressions recover margin-specific treatment effects, relate these assumptions to models of judge decision-making, and derive an expression that provides intuition about the direction and magnitude of asymptotic bias when a key assumption on judge decision-making is not met. We find that noncarceral conviction (relative to dismissal) leads to a large and long-lasting increase in recidivism for felony defendants in Virginia. In contrast, incarceration (relative to noncarceral conviction) leads to a short-run reduction in recidivism, consistent with incapacitation. Our empirical results suggest that noncarceral felony conviction is an important and overlooked driver of recidivism.</content>
+    <link href="https://doi.org/10.1093/qje/qjaf040"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2025-08-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00105</id>
