@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-08-14T13:41:42.715172+00:00</updated>
+  <updated>2025-08-15T13:40:27.153170+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34003</id>
+    <title>Tariffs and Trade Deficits</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lorenzo Caliendo, Samuel S. Kortum &amp; Fernando Parro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a dynamic multi-country Ricardian trade model with aggregate uncertainty, where countries trade goods and assets, leading to trade imbalances. We introduce a method for computing counterfactuals in this setting without specifying the stochastic process of shocks or solving for asset prices. Applying the model to tariff shocks, we quantify their effects on prices, income, expenditure, and trade imbalances. We find that higher U.S. tariffs reduce the U.S. trade deficit through general equilibrium adjustments, but raise domestic prices and lower real consumption. Our findings highlight that movements in trade imbalances are shaped by the structure of global trade and finance, and that attempts to influence external balances through changes in trade barriers carry significant implications for real economic outcomes.</content>
+    <link href="https://www.nber.org/papers/w34003"/>
+    <category term="NBER"/>
+    <published>2025-07-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34002</id>
     <title>Central Banks as Educators</title>
@@ -87,18 +99,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Credit scores are a primary screening device for the allocation of credit, housing, and sometimes even employment. In the data, credit scores grow and fan out with age; at the same time, income and consumption inequality also increase with a cohort’s age. We postulate a simple model with hidden information to explore the joint determination of credit scores, income, and consumption over an individual’s lifetime which can replicate these empirical facts. We use the model to understand the role of technologies like big data or legal restrictions limiting information on certain adverse events like medical expenses intended to increase credit market access.</content>
     <link href="https://www.nber.org/papers/w34027"/>
-    <category term="NBER"/>
-    <published>2025-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34025</id>
-    <title>Designing Consent: Choice Architecture and Consumer Welfare in Data Sharing</title>
-    <updated>2025-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chiara Farronato, Andrey Fradkin &amp; Tesary Lin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the welfare consequences of choice architecture for online privacy using a field experiment that randomizes cookie consent banners. We study three ways in which firms or policymakers can influence choices: (1) nudging users through banner design to encourage acceptance of cookie tracking; (2) setting defaults when users dismiss banners; and (3) implementing consent decisions at the website versus browser level. Absent design manipulation, users accept all cookies more than half of the time. Placing cookie options behind extra clicks strongly influences choices, shifting users toward more easily accessible alternatives. Many users dismiss banners without making an explicit choice, underscoring the importance of default settings. Survey evidence further reveals substantial confusion about default settings. Using a structural model, we find that among consent policies requiring site-specific decisions, consumer surplus is maximized when consent interfaces clearly display all options and default to acceptance in the absence of an explicit choice. However, the welfare gains from optimizing banner design are much smaller than those from adopting browser-level consent, which eliminates the time costs of repeated decisions.</content>
-    <link href="https://www.nber.org/papers/w34025"/>
     <category term="NBER"/>
     <published>2025-07-01T00:00:00+00:00</published>
   </entry>
@@ -1100,54 +1100,6 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34102</id>
-    <title>Turning Points in Inflation: A Structural Breaks Approach with Micro Data</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alberto Cavallo &amp; Gaston Garcia Zavaleta</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a novel methodology for detecting inflation turning points that com-bines high-frequency, disaggregated price data with standard structural break techniques to provide policymakers with more timely and precise signals of inflation dynamics. The methodology consists of three key components: measuring inflation as the slope of the log price index rather than using conventional inflation rates, employing structural break techniques to detect shifts in this slope, and leveraging highly disaggregated price indexes to identify trend breaks at a granular level. We apply this approach to study two critical recent episodes: Argentina’s 2024–2025 disinflation and the inflationary impact of U.S. tariff adjustments in 2025. For Argentina, we detect a broad-based disinflationary turning point in May 2024. For the U.S., we find evidence of a turning point in February 2025, with significant sectoral inflation accelerations despite stable aggregate inflation measures. These applications demonstrate the utility of our approach for enhancing real-time inflation monitoring and policy decision-making.</content>
-    <link href="https://www.nber.org/papers/w34102"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34101</id>
-    <title>Why Did Air Conditioning Adoption Accelerate Faster Than Predicted? Evidence from Mexico</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Lucas W. Davis &amp; Paul Gertler</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A common theme in the vast literature on climate change is the estimation of models using historical data to make predictions many decades into the future. Although there is a large and growing number of these types of studies, researchers rarely return later to check the accuracy of their predictions. In this paper, we perform such an exercise. In Davis and Gertler (2015), we used household-level microdata from Mexico to predict future air conditioning adoption as a function of income and temperature. Revisiting these predictions with 12 years of additional data, we find that air conditioning in Mexico has accelerated, significantly exceeding our predictions. Neither errors in predicting income growth or rising temperatures, nor migration patterns, nor an overly restrictive model can explain the large prediction gap. Instead, our results point to the failure to account for falling electricity prices and technological changes in air conditioner eﬀiciency as key drivers of the prediction gap.</content>
-    <link href="https://www.nber.org/papers/w34101"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34100</id>
-    <title>GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Filipe R. Campante, Ruben Durante, Felix Hagemeister &amp; Ananya Sen</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how AI-generated misinformation affects demand for trustworthy news, using data from a field experiment by a major German outlet, Süddeutsche Zeitung (SZ). Readers were randomly assigned to a treatment highlighting the challenge of distinguishing real from AI-generated images. The treatment raised concern with misinformation (0.3 s.d.) and reduced trust in news (0.1 s.d.), including SZ. Importantly, it affected post-survey browsing behavior: daily visits to SZ digital content rose by 2.5% in the immediate aftermath of the treatment. Moreover, we find that subscriber retention increased by 1.1% after five months, corresponding to about a one-third drop in attrition rate. Results are consistent with a model where the relative value of trustworthy news sources increases with the prevalence of misinformation, which may thus boost engagement with those sources even while lowering trust in news content.</content>
-    <link href="https://www.nber.org/papers/w34100"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34099</id>
-    <title>When is Less More? Bank Arrangements for Liquidity vs Central Bank Support</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Viral V. Acharya, Raghuram Rajan &amp; Zhi Quan (Bill) Shu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Theory suggests that in the face of fire sale externalities, banks have incentives to overinvest in order to issue excessive money-like deposit liabilities. The existence of a private market for insurance such as contingent capital can eliminate the overinvestment incentives, leading to efficient outcomes. However, it does not eliminate fire sales. A central bank that can infuse liquidity cheaply may be motivated to intervene in the face of fire sales. If so, it can crowd out the private market and, if liquidity intervention is not priced at higher-than-breakeven rates, induce overinvestment. We examine various forms of public intervention to identify the least distortionary ones. Our analysis helps understand the historical prevalence of private insurance in the era preceding central banks and deposit insurance, their subsequent disappearance, as well as the continuing incidence of banking crises and speculative excesses.</content>
-    <link href="https://www.nber.org/papers/w34099"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34108</id>
     <title>Optimal Tariffs with Geopolitical Alignment</title>
     <updated>2025-08-01T00:00:00+00:00</updated>
@@ -1204,6 +1156,54 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Return prediction with Random Fourier Features (RFF)—a very large number, P , of nonlinear trans-formations of a small number, K, of predictor variables—has become popular recently. Surprisingly, this approach appears to yield a successful out-of-sample stock market index timing strategy even when trained in rolling windows as small as T = 12 months with P in the thousands. However, when P ≫ T , the RFF-based forecast becomes a weighted average of the T training sample returns, with weights determined by the similarity between the predictor vectors in the training data and the current predictor vector. In short training windows, similarity primarily reflects temporal proximity, so the forecast reduces to a recency-weighted average of the T return observations in the training data—essentially a momentum strategy. Moreover, because similarity declines with predictor volatility, the result is a volatility-timed momentum strategy. The strong performance of the RFF-based strategy thus stems not from its ability to extract predictive signals from the training data, but from the fact that a volatility-timed momentum strategy happened to perform well in historical data. This point becomes clear when applying the same method to artificial data in which returns exhibit reversals rather than momentum: the RFF approach still constructs the same volatility-timed momentum strategy, which then performs poorly.</content>
     <link href="https://www.nber.org/papers/w34104"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34102</id>
+    <title>Turning Points in Inflation: A Structural Breaks Approach with Micro Data</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alberto Cavallo &amp; Gaston Garcia Zavaleta</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a novel methodology for detecting inflation turning points that com-bines high-frequency, disaggregated price data with standard structural break techniques to provide policymakers with more timely and precise signals of inflation dynamics. The methodology consists of three key components: measuring inflation as the slope of the log price index rather than using conventional inflation rates, employing structural break techniques to detect shifts in this slope, and leveraging highly disaggregated price indexes to identify trend breaks at a granular level. We apply this approach to study two critical recent episodes: Argentina’s 2024–2025 disinflation and the inflationary impact of U.S. tariff adjustments in 2025. For Argentina, we detect a broad-based disinflationary turning point in May 2024. For the U.S., we find evidence of a turning point in February 2025, with significant sectoral inflation accelerations despite stable aggregate inflation measures. These applications demonstrate the utility of our approach for enhancing real-time inflation monitoring and policy decision-making.</content>
+    <link href="https://www.nber.org/papers/w34102"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34101</id>
+    <title>Why Did Air Conditioning Adoption Accelerate Faster Than Predicted? Evidence from Mexico</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lucas W. Davis &amp; Paul Gertler</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A common theme in the vast literature on climate change is the estimation of models using historical data to make predictions many decades into the future. Although there is a large and growing number of these types of studies, researchers rarely return later to check the accuracy of their predictions. In this paper, we perform such an exercise. In Davis and Gertler (2015), we used household-level microdata from Mexico to predict future air conditioning adoption as a function of income and temperature. Revisiting these predictions with 12 years of additional data, we find that air conditioning in Mexico has accelerated, significantly exceeding our predictions. Neither errors in predicting income growth or rising temperatures, nor migration patterns, nor an overly restrictive model can explain the large prediction gap. Instead, our results point to the failure to account for falling electricity prices and technological changes in air conditioner eﬀiciency as key drivers of the prediction gap.</content>
+    <link href="https://www.nber.org/papers/w34101"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34100</id>
+    <title>GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Filipe R. Campante, Ruben Durante, Felix Hagemeister &amp; Ananya Sen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how AI-generated misinformation affects demand for trustworthy news, using data from a field experiment by a major German outlet, Süddeutsche Zeitung (SZ). Readers were randomly assigned to a treatment highlighting the challenge of distinguishing real from AI-generated images. The treatment raised concern with misinformation (0.3 s.d.) and reduced trust in news (0.1 s.d.), including SZ. Importantly, it affected post-survey browsing behavior: daily visits to SZ digital content rose by 2.5% in the immediate aftermath of the treatment. Moreover, we find that subscriber retention increased by 1.1% after five months, corresponding to about a one-third drop in attrition rate. Results are consistent with a model where the relative value of trustworthy news sources increases with the prevalence of misinformation, which may thus boost engagement with those sources even while lowering trust in news content.</content>
+    <link href="https://www.nber.org/papers/w34100"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34099</id>
+    <title>When is Less More? Bank Arrangements for Liquidity vs Central Bank Support</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Viral V. Acharya, Raghuram Rajan &amp; Zhi Quan (Bill) Shu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Theory suggests that in the face of fire sale externalities, banks have incentives to overinvest in order to issue excessive money-like deposit liabilities. The existence of a private market for insurance such as contingent capital can eliminate the overinvestment incentives, leading to efficient outcomes. However, it does not eliminate fire sales. A central bank that can infuse liquidity cheaply may be motivated to intervene in the face of fire sales. If so, it can crowd out the private market and, if liquidity intervention is not priced at higher-than-breakeven rates, induce overinvestment. We examine various forms of public intervention to identify the least distortionary ones. Our analysis helps understand the historical prevalence of private insurance in the era preceding central banks and deposit insurance, their subsequent disappearance, as well as the continuing incidence of banking crises and speculative excesses.</content>
+    <link href="https://www.nber.org/papers/w34099"/>
     <category term="NBER"/>
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
