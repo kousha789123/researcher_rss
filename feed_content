@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-08-22T13:39:56.626126+00:00</updated>
+  <updated>2025-08-23T13:39:29.106772+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -981,6 +981,162 @@
     <published>2025-08-21T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/joom.70015</id>
+    <title>On‐Demand Schedules, Worker Absenteeism and Patient Dissatisfaction in Home Care Services</title>
+    <updated>2025-08-21T00:00:00+00:00</updated>
+    <author>
+      <name>Antoaneta Momcheva, Fabrizio Salvador, Rocio Bonet, Marco Caserta</name>
+    </author>
+    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;Service companies often adopt on‐demand scheduling to balance labor costs and fluctuating market demand. However, research shows that such practices can reduce worker productivity and retention. In this study, we examine how on‐demand scheduling affects two critical outcomes: worker absenteeism and patient dissatisfaction. We extend the conceptualization of undesirable scheduling by introducingschedule discontinuity—the presence of unpaid interruptions within a worker's daily schedule—alongside the more commonly studiedschedule inconsistency, or variability in work hours across weeks. Using data on 1.2 million home care visits in a Canadian healthcare provider, we find that both schedule inconsistency and discontinuity significantly increase absenteeism and patient dissatisfaction. Specifically, moving from the 25th to 75th percentile in discontinuity (inconsistency) raises absenteeism by 20.00% (19.29%), and customer complaints by 27.33% (40.27%). To assess the practical implications for employers, we formulate and solve a schedule optimization problem that minimizes schedule discontinuity (or inconsistency), while satisfying demand and supply constraints. Applying a machine learning predictive model to these optimized schedules, we estimate reductions in the probability of absenteeism by 9.5% (8.2%) and in the probability of patient complaints by 7.7% (2.3%), demonstrating that modest scheduling adjustments can substantially improve worker and service outcomes.</content>
+    <link href="https://doi.org/10.1002/joom.70015"/>
+    <category term="Journal of Operations Management"/>
+    <published>2025-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhaf063</id>
+    <title>Option Pricing with Time-Varying Volatility Risk Aversion</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Reinhard Hansen, Chen Tong</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We introduce a pricing kernel with time-varying volatility risk aversion to explain the observed time variations in the shape of the pricing kernel. When combined with the Heston-Nandi GARCH model, this framework yields a tractable option pricing model in which the variance risk ratio (VRR) emerges as a key variable. We show that the VRR is closely linked to economic fundamentals, as well as sentiment and uncertainty measures. A novel approximation method provides analytical option pricing formulas, and we demonstrate substantial reductions in pricing errors through an empirical application to the S&amp;P 500 index, the CBOE VIX, and option prices. (JEL G12, G13, C51, C52)</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf063"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2025.20953</id>
+    <title>Increasing the Impact of Organization Science Research: Lessons from Economics</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Rachel T. A. Croson, David C. Croson</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;The field of organization science has many important insights to offer to practice, but often those insights go unnoticed. This article uses examples from a related discipline, economics, to suggest actions that the organization science field could consider in order to increase its impact.</content>
+    <link href="https://doi.org/10.1287/orsc.2025.20953"/>
+    <category term="Organization Science"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1010</id>
+    <title>Dynamic Black-Litterman</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Anas Abdelhakmi, Andrew E. B. Lim</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Incorporating Expert Views into Investment ModelsHow can investors best incorporate forward-looking expert views into dynamic portfolio strategies? “Dynamic Black-Litterman,” by Anas Abdelhakmi and Andrew Lim, offers a novel solution.The authors generalize the classic Black-Litterman model to a dynamic setting, allowing for continuous trading and expert views of events over varying time horizons that arrive over time. They derive the explicit dynamics of asset prices after incorporating these views, uncovering a surprising and elegant connection to multidimensional Brownian bridges.Remarkably, the paper provides a closed-form solution for the optimal dynamic portfolio policy, a significant finding for a model of this complexity. This includes a specific hedging component to protect against changes in expert views. Numerical experiments demonstrate that this dynamic approach consistently outperforms strategies that repeatedly apply the single-period model, leading to higher returns and lower portfolio turnover.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1010"/>
+    <category term="Operations Research"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.0777</id>
+    <title>Package Bids in Combinatorial Electricity Auctions: Selection, Welfare Losses, and Alternatives</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas Hübner, Gabriela Hug</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Day-ahead electricity auctions allow market participants to trade power for delivery the following day. In Europe, these auctions are designed as combinatorial auctions, enabling agents to submit package bids (“block bids”) that span multiple time periods rather than bidding separately for each hour. However, power exchanges impose limits on the number of package bids an agent can submit, creating a complex decision problem: Which packages should an agent bid on to best represent their preferences? In “Package Bids in Combinatorial Electricity Auctions: Selection, Welfare Losses, and Alternatives,” Hübner and Hug study this selection problem and propose decision-support algorithms that optimize bid choice under uncertainty. They provide theoretical bounds on welfare loss due to bid limits and validate their methods with simulations involving generators, storage systems, and flexible demand. Their findings offer actionable insights for both auctioneers and bidders.</content>
+    <link href="https://doi.org/10.1287/opre.2024.0777"/>
+    <category term="Operations Research"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00109</id>
+    <title>Balancing External vs. Internal Validity: An Application of Causal Forest in Finance</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Huseyin Gulen, Candace E. Jens, T. Beau Page</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Answering causal questions with generalizable results is challenging. Estimators requiring pseudorandomization provide estimates with no bias (i.e., strong internal validity) but limited generalizability (i.e., weak external validity). Theoretically, causal forest, a nonparametric, machine learning–based matching estimator, can provide low-to-no-bias, generalizable estimates even when treatment is endogenous. We empirically compare the performance of ordinary least squares (OLS), regression discontinuity design (RDD), and causal forest at recovering estimates in simulated observational panel data and show the robustness of causal forest estimates to many sources of bias. We revisit a popular RDD setting, debt covenant default, to show how extendable, heterogeneous causal forest estimates can enhance inferences.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00109 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00109"/>
+    <category term="Management Science"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07401</id>
+    <title>Optimal Integration: Human, Machine, and Generative AI</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Hongda Zhong</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;I study the optimal integration of humans and technologies in multilayered decision-making processes. When each layer can correct existing errors but may also introduce new errors, who should have the final authority? I show that a decision maker’s correction capability normalized by its new errors is a one-dimensional quality metric that determines the optimal rule: deploying higher quality technologies in later stages. Intriguingly, despite its highest quality, the final layer may not generate the greatest error reduction; instead, its role hinges on minimizing new errors. Human effort varies asymmetrically across layers: early stages exert relatively lower effort and prioritize error correction, whereas later stages exert higher effort and focus on avoiding new errors. Applying the model to artificial intelligence (AI) reveals that AI’s generative capabilities make it more likely to serve as the final decision maker, reducing the need for costly human input at the risks of AI hallucination. The theoretical framework also extends to applications including repeated delegation, automation design, loan screening, tenure review, and other multilayer decision-making scenarios.This paper was accepted by Will Cong, finance.</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07401"/>
+    <category term="Management Science"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00445</id>
+    <title>How Causal Focus and Specificity in Risk Factor Disclosures Jointly Affect Investor Judgments</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>G-Song Yoo, Hun-Tong Tan</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how investors’ investment judgments are jointly affected by two important linguistic features that vary considerably across firms’ risk factor disclosures: namely, causal focus—the extent to which managers’ disclosures focus on the causes versus consequences of risk events—and specificity, which refers to specific references to names of objects and quantitative values. Results of controlled experiments show that, when the disclosure focus is on risk causes, greater specificity increases investment willingness because of enhanced feelings of knowable uncertainty in a risk event. In contrast, when the focus is on risk consequences, greater specificity reduces investment willingness because of diminished feelings of knowable uncertainty. Contrary to the Securities and Exchange Commission’s positive view of specific risk factor disclosures, our results suggest that specificity can have an opposite effects on investors’ judgments depending on the causal focus of risk factor disclosures.This paper was accepted by Ranjani Krishnan, accounting.Funding: This work was supported by Korea University Business School and the United Overseas Bank Professorship Endowment Fund.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00445 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00445"/>
+    <category term="Management Science"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.01204</id>
+    <title>Cut to the Curve: Underrecognition and Talent Loss from Forced Ranking in a Multinational Firm</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Brittany M. Bond</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines unintended consequences of enforcing a curve on performance rankings. I examine a multinational company where some employees are downgraded from the top levels of rankings due to a strict recognition cutoff. I show that downgraded employees are at least 34% more likely to voluntarily exit, and that attempts by the organization to manage employee concerns, particularly regarding concerns of fairness, envy, and self-image, do not have the intended retention effect. Underrecognized employees leave even though the organization avoids calibration bias, offers reassurance about their career prospects, and compensates them with larger bonuses than their top-ranked peers. In robustness checks, I show that under these conditions even high-performing employees not nominated to the top ranks are more likely to voluntarily depart despite receiving the largest bonuses. These findings suggest that, where underrecognition occurs due to the restriction of top rankings, the mechanisms producing demotivation are more powerful than the management strategies meant to combat them.This paper was accepted by Lamar Pierce, organizations.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01204 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01204"/>
+    <category term="Management Science"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13485</id>
+    <title>Thirty Years of Change: The Evolution of Classified Boards</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>SCOTT GUERNSEY, FENG GUO, TINGTING LIU, MATTHEW SERFLING</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Based on a comprehensive data set of classified (staggered) boards covering nearly all U.S. public firms from 1991 to 2020, we show that contrary to conventional wisdom, the use of classified boards remains widespread. Moreover, classified board usage over a firm's life cycle depends significantly on the decade the firm matured or year it went public. While classified boards were rarely removed in the 1990s, firms became more likely to declassify as they matured during the following decades. Decreased collective action costs and increased innovation‐related investments, institutional ownership, and scrutiny of governance contributed to this more dynamic adjustment.</content>
+    <link href="https://doi.org/10.1111/jofi.13485"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70007</id>
+    <title>Company Websites: A New Measure of Disclosure</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>ROMAIN BOULLAND, THOMAS BOURVEAU, MATTHIAS BREUER</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We propose a new measure of firms' disclosure based on company websites, which are widely available and contain a wealth of information. For a sample of U.S. public firms, we construct our disclosure measure using historical website data, validate it by correlating it with extant measures of disclosure and information asymmetry, and explore its determinants. We then apply our measure to the study of U.S. private firms' disclosure and French firms' compliance with a nonfinancial disclosure mandate. Our applications illustrate that our website‐based measure provides a useful complement to extant measures of disclosure, which are more narrowly focused on investors in public capital markets.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70007"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2021.0246</id>
+    <title>Sponsored Tasks and Solver Participation in Crowdsourcing Contests</title>
+    <updated>2025-08-22T00:00:00+00:00</updated>
+    <author>
+      <name>Jiahui Mo, Sumit Sarkar, Jianqing Chen</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Crowdsourcing platforms provide venues for firms looking for solutions (seekers) to interact with individuals who can provide solutions (solvers). As crowdsourcing contest platforms have grown in popularity, with numerous tasks being posted on a daily basis, a concern that has emerged is that many similar tasks compete for solver attention, with some tasks failing to attract sufficient solver participation. To alleviate this concern, in addition to regular task listings, many crowdsourcing platforms offer sponsorship programs under which seekers pay an extra fee for highlighting their tasks to draw solvers’ attention. We examine the effect of sponsorship on solver participation using a unique data set collected from a leading crowdsourcing platform. In contrast to platforms’ claims about the effect of sponsorship on participation, we find that sponsorship does not always boost participation in crowdsourcing contests; sponsorship increases the number of participants only when the task’s prize amount is already high. Furthermore, even when the number of participants increases, the increase comes primarily from low-ability solvers. We also find that when sponsorship increases the total number of submissions, it does so only by increasing the number of participants; sponsorship does not increase the number of submissions that individual solvers submit after joining a task. More granular analyses reveal an effect of anticipated increased competition caused by sponsorship on high-ability solvers that is not observed on those of low ability, explaining the difference in their participation decisions when facing sponsored tasks. We also find that the effect of sponsorship weakens over the duration of a task for high-ability solvers and is also weaker for solvers with more experience on the platform.History: Yong Tan, Senior Editor.Supplemental Material: The online appendix is available at https://doi.org/10.1287/isre.2021.0246 .</content>
+    <link href="https://doi.org/10.1287/isre.2021.0246"/>
+    <category term="Information Systems Research"/>
+    <published>2025-08-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70010</id>
+    <title>No margin, no mission? How emergency medical service crews attend to competing financial and social goals on 9‐1‐1 calls</title>
+    <updated>2025-08-23T00:00:00+00:00</updated>
+    <author>
+      <name>Timothy Gubler, Haibo Liu, Alexandru Roman</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;We study how autonomous Emergency Medical Service (EMS) teams prioritize competing financial and social goals during 9‐1‐1 calls. Prior research highlights organization‐level solutions that enable single‐goal pursuit, but it remains unclear how frontline professionals manage competing goals that are interdependent and inseparable during task execution. We argue EMS teams will dynamically prioritize goals across calls depending on contextual factors. Using quasi‐random assignment of 9‐1‐1 patients to EMS crews in 31 US states, we find that crews prioritize the financial goal on private insurance calls but shift toward the social goal when agency financial need is low or call acuity is high. Surprisingly, these patterns are most pronounced in non‐profit EMS agencies. Our study offers new insight into how professionals manage goal trade‐offs in real time.Managerial SummaryWhat happens when professionals must pursue competing goals—like financial performance and equitable service—but organizations cannot separate them across tasks? Using data from 31 US states, we examine how Emergency Medical Service (EMS) teams navigate this tension during 9‐1‐1 calls. We find that crews dynamically prioritize goals based on perceived risk and opportunity—even without managerial intervention or immediate incentives. Teams provide more services to privately insured patients to increase revenue but shift toward equitable care when patient needs are more urgent or agency finances are stable. Surprisingly, these trade‐offs are most pronounced in non‐profit agencies. Our findings suggest that when goals collide within tasks, managers can shape frontline decision‐making by influencing how professionals understand goal risk and opportunity.</content>
+    <link href="https://doi.org/10.1002/smj.70010"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/joom.70008</id>
     <title>Decoupling Firm Growth From Carbon Emissions: A Supply Network Role Perspective</title>
     <updated>2025-08-03T00:00:00+00:00</updated>
@@ -1150,12 +1306,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478251368435</id>
-    <title>EXPRESS: Assortment Optimization in the Presence of Focal Effect: Operational Insights and Efficient Algorithms</title>
+    <title>Assortment Optimization in the Presence of Focal Effect: Operational Insights and Efficient Algorithms</title>
     <updated>2025-08-05T00:00:00+00:00</updated>
     <author>
       <name>Bo Jiang, Zizhuo Wang, Chenyu Xue, Nanxi Zhang</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The assortment provided by the seller can influence customers’ evaluation of item utility. A possible consequence is that certain items in an assortment become “focal items” to customers, and customers over-evaluate their utilities. We refer to this phenomenon as thefocal effect. Kovach and Tserenjigmid (2022) recently propose a focal Luce model (FLM) to describe customers’ choices in the presence of the focal effect. The merit of the FLM lies in its flexibility to model different consumer psychology, which leads to varying choice behaviors. In this paper, we use the FLM to capture several scenarios where the focal effect occurs and consider the associated assortment optimization problems. In the first scenario, the focal effect arises from item ranking, and customers prefer items that appear at certain positions in the ranking. This scenario captures the case where customers have a preference for the cheapest items in the assortment, as well as the compromise effect. The second scenario describes the case where the focal effect exists on some predetermined items. An example of this scenario is choice overload, where customers are more likely to choose the no-purchase option when the assortment size is larger. We characterize the optimal assortment structure under each scenario and give the underlying operational insights. We find that the assortment optimization problems under these two scenarios can be solved in polynomial time with some practical assumptions. The polynomial-solvability extends even to the more challenging joint assortment and pricing optimization problems. Finally, we conduct numerical experiments to evaluate the FLM’s performance using both synthetic and real datasets. The results show that the FLM performs well in predicting customer choice behavior and the corresponding optimal assortment generates higher profit than benchmark assortments when the focal effect exists.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The assortment provided by the seller can influence customers’ evaluation of item utility. A possible consequence is that certain items in an assortment become “focal items” to customers, and customers over-evaluate their utilities. We refer to this phenomenon as thefocal effect.Kovach and Tserenjigmid (2022)recently propose a focal Luce model (FLM) to describe customers’ choices in the presence of the focal effect. The merit of the FLM lies in its flexibility to model different consumer psychology, which leads to varying choice behaviors. In this paper, we use the FLM to capture several scenarios where the focal effect occurs and consider the associated assortment optimization problems. In the first scenario, the focal effect arises from item ranking, and customers prefer items that appear at certain positions in the ranking. This scenario captures the case where customers have a preference for the cheapest items in the assortment, as well as the compromise effect. The second scenario describes the case where the focal effect exists on some predetermined items. An example of this scenario is choice overload, where customers are more likely to choose the no-purchase option when the assortment size is larger. We characterize the optimal assortment structure under each scenario and give the underlying operational insights. We find that the assortment optimization problems under these two scenarios can be solved in polynomial time with some practical assumptions. The polynomial-solvability extends even to the more challenging joint assortment and pricing optimization problems. Finally, we conduct numerical experiments to evaluate the FLM’s performance using both synthetic and real datasets. The results show that the FLM performs well in predicting customer choice behavior and the corresponding optimal assortment generates higher profit than benchmark assortments when the focal effect exists.</content>
     <link href="https://doi.org/10.1177/10591478251368435"/>
     <category term="Production and Operations Management"/>
     <published>2025-08-05T00:00:00+00:00</published>
@@ -1269,18 +1425,6 @@
     <published>2025-08-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07480</id>
-    <title>Income Pools for Superstar Markets</title>
-    <updated>2025-08-06T00:00:00+00:00</updated>
-    <author>
-      <name>Timothy C.Y. Chan, Ningyuan Chen, Craig Fernandes</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;“Superstar” markets, where a small portion of individuals earn disproportionately high incomes, are common in fields like entrepreneurship, sports, and entertainment. Participants in these markets face significant income uncertainty, which can deter entry or prompt early exit. To address this difficulty, we propose income pools: contracts where individuals agree to share a portion of future earnings with pool members if a specific salary milestone is achieved. To date, hundreds of income pool contracts have been signed in practice. This paper develops the first mathematical model to analyze such contracts, focusing on stability (i.e., pools where no agents leave or join). When constrained to creating a single pool, we show that a stable pool always exists with specific structural properties. Generally, stronger agents tend to be more “collaborative” and favor larger pools, whereas weaker agents are more “selfish” and prefer smaller pools. Next, we analyze pools that adhere to a maximum size (mirroring current practice) and show that stability persists. These pools typically require more weaker agents than strong ones and we find an interesting “Pareto dominance” result, whereby all agents in a stable pool prefer a particular unique stable pool. Finally, we study general partition structures, prove that a stable partition always exists under certain conditions, and provide an algorithm to construct such a partition. We conclude with a case study on data from 2,000 professional baseball players to demonstrate a 20%–30% increase in social welfare if players join income pools, under varying contract parameters.This paper was accepted by Victor Martinez de Albeniz, operations management.Funding: T. C. Y. Chan received funding support from the Natural Sciences and Engineering Research Council of Canada. N. Chen has no funding sources to report. C. Fernandes received funding support from the Natural Sciences and Engineering Research Council of Canada and the TD Management Data and Analytics Lab.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07480 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07480"/>
-    <category term="Management Science"/>
-    <published>2025-08-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00549</id>
     <title>The Benefits of Delay to Online Decision Making</title>
     <updated>2025-08-06T00:00:00+00:00</updated>
@@ -1289,6 +1433,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Real-time decisions are usually irrevocable in many contexts of online decision making. One common practice is delaying real-time decisions so that the decision maker can gather more information to make better decisions. For example, in online retailing, there is typically a time delay between when an online order is received and when it gets picked and assembled for shipping. However, decisions cannot be delayed forever. In this paper, we study this fundamental trade-off and aim to theoretically characterize the benefits of delaying real-time decisions. We provide a theoretical foundation for a broad family of online decision-making problems by proving that the gap between our proposed online algorithm (called “delayed Bayesian prophet”) and the offline optimal hindsight policy decays exponentially fast in the length of delay. We also conduct extensive numerical experiments on the benefits of delay, using both synthetic data and publicly available real data. Both our theoretical and empirical results demonstrate an important managerial insight: a little delay is all we need. Finally, we extend our analysis and results to the setting where the arrival distribution is independent but nonidentical, the setting where the arrival distribution is unknown, and the setting where decisions are made in batches.This paper was accepted by Jeannette Song, operations management.Funding: The second author was partially funded by a grant from Amazon.com Inc., awarded through collaboration with the Columbia Center of AI Technology.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00549 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00549"/>
+    <category term="Management Science"/>
+    <published>2025-08-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07480</id>
+    <title>Income Pools for Superstar Markets</title>
+    <updated>2025-08-06T00:00:00+00:00</updated>
+    <author>
+      <name>Timothy C.Y. Chan, Ningyuan Chen, Craig Fernandes</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;“Superstar” markets, where a small portion of individuals earn disproportionately high incomes, are common in fields like entrepreneurship, sports, and entertainment. Participants in these markets face significant income uncertainty, which can deter entry or prompt early exit. To address this difficulty, we propose income pools: contracts where individuals agree to share a portion of future earnings with pool members if a specific salary milestone is achieved. To date, hundreds of income pool contracts have been signed in practice. This paper develops the first mathematical model to analyze such contracts, focusing on stability (i.e., pools where no agents leave or join). When constrained to creating a single pool, we show that a stable pool always exists with specific structural properties. Generally, stronger agents tend to be more “collaborative” and favor larger pools, whereas weaker agents are more “selfish” and prefer smaller pools. Next, we analyze pools that adhere to a maximum size (mirroring current practice) and show that stability persists. These pools typically require more weaker agents than strong ones and we find an interesting “Pareto dominance” result, whereby all agents in a stable pool prefer a particular unique stable pool. Finally, we study general partition structures, prove that a stable partition always exists under certain conditions, and provide an algorithm to construct such a partition. We conclude with a case study on data from 2,000 professional baseball players to demonstrate a 20%–30% increase in social welfare if players join income pools, under varying contract parameters.This paper was accepted by Victor Martinez de Albeniz, operations management.Funding: T. C. Y. Chan received funding support from the Natural Sciences and Engineering Research Council of Canada. N. Chen has no funding sources to report. C. Fernandes received funding support from the Natural Sciences and Engineering Research Council of Canada and the TD Management Data and Analytics Lab.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07480 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07480"/>
     <category term="Management Science"/>
     <published>2025-08-06T00:00:00+00:00</published>
   </entry>
