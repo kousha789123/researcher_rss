@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-08-22T13:40:31.339730+00:00</updated>
+  <updated>2025-08-23T13:40:09.099161+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -560,6 +560,18 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34109</id>
+    <title>The Social Lifecycle Impacts of Power Plant Siting in the Historical United States</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Karen Clay, Danae Hernandez-Cortes, Akshaya Jha, Joshua A. Lewis, Noah S. Miller &amp; Edson R. Severnini</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the relative contributions of siting decisions and post-siting demo-graphic shifts to current disparities in exposure to polluting fossil-fuel plants in the United States. Our analysis leverages newly digitized data on power plant siting and operations from 1900-2020, combined with spatially resolved demographics and population data from the U.S Census from 1870-2020. We find little evidence that fossil-fuel plants were disproportionately sited in counties with higher Black population shares on average. However, event study estimates indicate that Black population share grows in the decades after the first fossil-fuel plant is built in a county, with average increases in Black population share of 4 percentage points in the 50-70 years after first siting. These long-run demographic shifts are driven by counties that first hosted a fossil-fuel plant between 1900-1949. We close by exploring how these long-run demographic shifts were shaped by the Great Migration, differential sorting in response to pollution, and other factors. Our findings highlight that the equity implications of siting long-lived infrastructure can differ dramatically depending on the time span considered.</content>
+    <link href="https://www.nber.org/papers/w34109"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34117</id>
     <title>Implications of Fiscal-Monetary Interaction from HANK Models</title>
     <updated>2025-08-01T00:00:00+00:00</updated>
@@ -652,18 +664,6 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use a novel dataset of production costs, wholesale prices, and retail prices from a large global manufacturer to study markups and pricing behavior along the supply chain. We document several facts about markups covering the period July 2018 through June 2023, and we propose a model of supply chain pricing behavior that rationalizes key pat-terns in our data. We find substantial dispersion in markups across products at each supply chain level. Manufacturer and retail markups are negatively correlated in the cross section and over time. Despite time-series variation in firm-level markups, total markups—reflecting the relationship between retail prices and production costs—are stable over time, even when prices increased along with inflation in the United States in 2022. We apply our model to quantify factors that determine relative bargaining power between the manufacturer and retailers, leveraging variation across countries, products, and time. Finally, we consider the dynamics of cost pass-through and the mediating role of manufacturer-retailer bargaining in price dynamics, with implications for current policy debates, including trade policy and tariffs.</content>
     <link href="https://www.nber.org/papers/w34110"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34109</id>
-    <title>The Social Lifecycle Impacts of Power Plant Siting in the Historical United States</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Karen Clay, Danae Hernandez-Cortes, Akshaya Jha, Joshua A. Lewis, Noah S. Miller &amp; Edson R. Severnini</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the relative contributions of siting decisions and post-siting demo-graphic shifts to current disparities in exposure to polluting fossil-fuel plants in the United States. Our analysis leverages newly digitized data on power plant siting and operations from 1900-2020, combined with spatially resolved demographics and population data from the U.S Census from 1870-2020. We find little evidence that fossil-fuel plants were disproportionately sited in counties with higher Black population shares on average. However, event study estimates indicate that Black population share grows in the decades after the first fossil-fuel plant is built in a county, with average increases in Black population share of 4 percentage points in the 50-70 years after first siting. These long-run demographic shifts are driven by counties that first hosted a fossil-fuel plant between 1900-1949. We close by exploring how these long-run demographic shifts were shaped by the Great Migration, differential sorting in response to pollution, and other factors. Our findings highlight that the equity implications of siting long-lived infrastructure can differ dramatically depending on the time span considered.</content>
-    <link href="https://www.nber.org/papers/w34109"/>
     <category term="NBER"/>
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
@@ -784,162 +784,6 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the impacts of large-scale unconditional cash transfers on child survival. One-time transfers of USD 1000 were provided to over 10,500 poor households across 653 randomized villages in Kenya. We collected census data on over 100,000 births, including on mortality and cause of death, and detailed data on household health behaviors. Unconditional cash transfers (accounting for spillovers) lead to 48% fewer infant deaths before age one and 45% fewer child deaths before age five. Detailed data on cause of death, transfer timing relative to birth, and the location of health facilities indicate that unconditional cash transfers and access to delivery care are complements in generating mortality reductions: the largest gains are estimated in neonatal and maternal causes of death largely preventable by appropriate obstetric care and among households living close to physician-staffed facilities and those who receive the transfer around the time of birth, and treatment leads to a large increase in hospital deliveries (by 45%). The infant and child mortality declines are concentrated among poorer households with below median assets or predicted consumption. The transfers also result in a substantial decline of 51% in female labor supply in the three months before and the three months after a birth, and improved child nutrition. Infant and child mortality largely revert to pre-program levels after cash transfers end. Despite not being the main aim of the original program, we show that unconditional cash transfers in this setting may be a cost-effective way to reduce infant and child deaths.</content>
     <link href="https://www.nber.org/papers/w34152"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34151</id>
-    <title>Information Frictions and the Labor Market for Public School Teachers</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mark Colas &amp; Chao Fu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Information frictions—where a worker and her current employer know more about the worker’s productivity than prospective employers—have complex equity-efficiency implications in the teacher labor market. Reducing information frictions may make it easier for effective teachers to move to their preferred schools and increase cross-school inequality, but it may also attract high-quality entrants and improve market-level teacher quality. Taking these factors into account, we develop an equilibrium model of the teacher labor market and estimate it using data from the Houston Independent School District, which launched a transparent teacher evaluation system in 2011. Counterfactual simulations reveal that (1) making district teachers’ quality observable to all district schools improves average teacher quality at the district level and in the top and bottom quartiles of schools ranked by student performance, while decreasing it in other schools; (2) budget-neutral bonus programs that incentivize high-quality teachers to teach in low-performing schools can increase overall teacher quality and reduce cross-school inequalities; and (3) these programs are more effective in markets with cross-employer information symmetry.</content>
-    <link href="https://www.nber.org/papers/w34151"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34150</id>
-    <title>Deforestation: A Global and Dynamic Perspective</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Farid Farrokhi, Elliot Kang, Heitor S. Pellegrina &amp; Sebastian Sotelo</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study deforestation in a dynamic world trade system. We first document that between 1990-2020: (i) global forest area has decreased by 7.1 percent, with large heterogeneity across countries, (ii) deforestation is associated with expansions of agricultural land use, (iii) deforestation is larger in countries with a comparative advantage in agriculture, and (iv) population growth causes deforestation. Motivated by these facts, we build a model in which structural change and comparative advantage determine the extent, location, and timing of deforestation. Using the model, we obtain conditions under which reductions in trade costs and tariffs reduce global deforestation. Quantitatively, eliminating global agricultural tariffs has limited impacts on global forest area, leads to substantial forest reallocation across countries, and results in net welfare benefits</content>
-    <link href="https://www.nber.org/papers/w34150"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34149</id>
-    <title>Selective Turnout, Voting Policy, and Partisan Bias: Evidence from Multi-Level Data</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Steven T. Berry, Christian Cox &amp; Philip Haile</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study voting in general elections for the U.S. House of Representatives. Our data set includes demographics and turnout of all registered voters for the years 2016–2020, as well as vote shares at the precinct and contest level. We estimate a Downsian voting model incorporating rich observed and unobserved heterogeneity at the voter and contest level. We find that voters with high perceived voting costs tend to favor Democrats, as do marginal voters in most districts. Variation in state voting policies accounts for a modest share of overall estimated voting costs but is sufficient to determine the majority party in some years. We also find that many states’ district maps favor one party in converting votes to seats. On net, these biases favor Republicans. For example, we estimate that winning 50% of votes in every state would give Republicans a nine percentage point seat advantage in the House.</content>
-    <link href="https://www.nber.org/papers/w34149"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34148</id>
-    <title>FinTech Lending and Cashless Payments</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pulak Ghosh, Boris Vallee &amp; Yao Zeng</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Borrowers’ use of cashless payments improves their access to capital from FinTech lenders and predicts a lower probability of default. These relationships are stronger for cashless technologies providing more precise information, and for outflows. Cashless payment usage complements other signals of borrower quality. We rationalize these empirical findings using a framework in which borrowers signal their lower likelihood of diverting cash flows through payment technology choice, and screening accuracy is further strengthened by informational complementarities. The informational synergy we uncover provides a rationale for the joint rise of cashless payments and FinTech lending, as well as for open banking.</content>
-    <link href="https://www.nber.org/papers/w34148"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34147</id>
-    <title>Has the Rise of Work from Home Reduced the Motherhood Penalty in the Labor Market?</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Emma Harrington &amp; Matthew E. Kahn</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When women become mothers, they often take a step back from their careers.  Could work from home (WFH) reduce this motherhood penalty, particularly in traditionally family-unfriendly careers? We leverage technological changes prior to the pandemic that increased the feasibility of WFH in some college degrees but not others. In degrees where WFH increased, motherhood gaps in employment narrowed: for every 10% increase in WFH, mothers’ employment rates increased by 0.78 per centage points (or 0.94%) relative to other women’s. This change is driven by majors linked to careers that have high returns to hours and inflexible demands on workers’ time. We microfound these results using panel data that show that women who could WFH before childbirth are less likely to exit the workforce.</content>
-    <link href="https://www.nber.org/papers/w34147"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34146</id>
-    <title>Intermediaries and Asset Prices</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Valentin Haddad &amp; Tyler Muir</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Intermediary asset pricing posits that financial institutions are important players in financial markets, and that their decisions shape asset prices beyond simply reflecting the preferences of the average household in the economy. We explain how the intermediary-asset pricing approach helps make sense of empirical patterns in the data: the excess volatility of asset prices, differences in price movements across asset classes, the cross section of expected returns within asset classes, and specific arbitrages and price dislocations. We also review how this view of price fluctuations has important implications for macroeconomic dynamics, international economics, and policy. In particular, the role of financial regulation and monetary policy in alleviating constraints or removing risk from intermediary balance sheets during periods of stress is central in this approach. We highlight both existing progress and gaps for future research.</content>
-    <link href="https://www.nber.org/papers/w34146"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34145</id>
-    <title>A Model of the Babbage Firm</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a unified model of the cognitive division of labour in a knowledge economy.  Building on recent frameworks for knowledge creation and decision making under uncertainty, it distinguishes between specialists, who engage in costly “on the spot” reasoning to generate tacit knowledge around a focal point, and generalists, who search for and interpolate existing knowledge but deliver answers subject to error.  The model characterises how these two types of workers should be allocated across a continuum of questions, given the location of codified knowledge points and the distribution of problems.  It shows that optimal task assignment depends on the cognitive process through which information is processed rather than on skill endowments or task complexity.  When specialists operate around both knowledge points, their allocation is shaped by their absolute advantage over generalists, leading to non‐contiguous specialist domains interspersed with generalist regions.  When specialists cluster around a single point, a natural boundary emerges between specialist and generalist domains that shifts but persists despite changes in question distribution.  Extending the analysis to a two‐period setting, the paper identifies when specialists should sacrifice static efficiency to codify their tacit discoveries, creating bridges that allow generalists to operate more effectively in the future.  These results provide a formal microfoundation for Babbage’s insights into the division of cognitive labour and offer predictions about how knowledge work responds to changes in the knowledge environment, the distribution of questions, and the patience of capital.</content>
-    <link href="https://www.nber.org/papers/w34145"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34144</id>
-    <title>The Great Gatsby Curve: Upward Mobility, Persistence and Inequality</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Laura Mayoral ⓡ Debraj Ray ⓡ Garance Genicot</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper revisits the Great Gatsby curve that connects inequality to mobility, using panel data spanning several countries and time periods. Existing literature observes that the intergenerational elasticity of earnings falls as inequality rises, implying that mobility (viewed as the negative of that elasticity) is negatively correlated with inequality. In sharp contrast, we show that measures of upward mobility, axiomatically aligned with progressivity in income growth rates, are robustly and positively associated with baseline inequality. While there is no contradiction here, our study highlights crucial differences between mobility measures based on (lower) persistence and those based on growth progressivity, and asks the reader to align their choice of measure with foundational criteria that they feel best describe “mobility". Our findings offer a re-interpretation of the Gatsby curve through the lens of shared prosperity, and have implications for the evolution of inequality within countries.</content>
-    <link href="https://www.nber.org/papers/w34144"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34153</id>
-    <title>The Breakdown of the English Society of Orders: The Role of the Industrial Revolution</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Cara Ebert, Leander Heldring, James A. Robinson &amp; Sebastian Vollmer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the role of the English Industrial Revolution in promoting social mobility and ending the society of orders: one based on rigid social categories and regulated by inherited characteristics. We combine two new datasets on individual wealth holdings before and after the Industrial Revolution. Our main finding is that noble and gentry titles as well as surnames explain significantly less of the variation in wealth after the Industrial Revolution. Moreover, these declines are substantially larger in the parts of England most impacted by the Revolution. We also explore the extent to which different characteristics predict being rich. We then study a key facet of this increased social mobility - geographical and occupational mobility. We show that people with surnames that were more mobile tended to be in the north and working in manufacturing. Moreover, areas that experienced greater outward mobility were more urbanized; less agrarian; had institutionalized markets; more gentry; were poorer (as proxied by tax revenues); and were more likely to be the residence of a member of parliament.</content>
-    <link href="https://www.nber.org/papers/w34153"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34121</id>
-    <title>Unbalanced Financial Globalization</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Damien Capelle &amp; Bruno Pellegrino</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use a dynamic spatial general equilibrium model of international investment and production to investigate the real implications of the last five decades of financial globalization. We introduce a wedge accounting framework to estimate country- and time-varying measures of outward and inward Revealed Capital Account Openness (RKO). We show how to identify these wedges for a large panel of countries using limited publicly available data on national accounts and external asset and liability positions since the 1970s. Our analysis reveals striking cross-country differences in the pace and direction of financial account opening: wealthier countries have become relatively more open to foreign capital inflows, while poorer countries have become relatively more open to capital outflows, a phenomenon we call “Unbalanced Financial Globalization.” Counterfactual simulations show that this unbalanced financial globalization has worsened capital allocation, resulting in a 5.9% decrease in world GDP, a 3.4% rise in cross-country income inequality, lower wages in poorer countries, and a decline in rates of return on capital in richer countries. In contrast, if financial account opening had been uniform, the improved allocation of capital would have reduced income inequality, and increased global GDP. These findings underscore the crucial role of spatial heterogeneity in shaping the real impact of international capital markets integration.</content>
-    <link href="https://www.nber.org/papers/w34121"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34120</id>
-    <title>Climate Politics in the United States</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matilde Bombardini, Frederico Finan, Nicolas Longuet-Marx, Suresh Naidu &amp; Francesco Trebbi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the effects of climate change and mitigation-related employment changes on U.S. politics. We combine 2000-2020 precinct-level voting information and congressional candidate positions on environmental policy with high-resolution temperature, precipitation, and census block-group level measures of “green” and “brown” employment shares. Holding politician positions fixed within a district, we find that Democratic vote shares increase with exogenous changes in local climate and green transition employment. We embed these estimates into a model of political competition, including both direct and demand-driven effects of shocks on candidate supply of climate policy positions. Incorporating these estimates into 2022-2050 projections of climate change and green employment transition, we find that voting for the Democratic Party increases, while both parties move slightly to the right on climate policy. Under worst-case climate projections and current mitigation trajectories, our estimates indicate that the probability the House passes a carbon-pricing bill is 9 percentage points higher in 2050 than in 2020.</content>
-    <link href="https://www.nber.org/papers/w34120"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34118</id>
-    <title>Creative Financing and Public Moral Hazard: Evidence from Medicaid and the Nursing Home Industry</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Martin B. Hackmann, Juan S. Rojas &amp; Nicolas R. Ziebarth</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the misallocation of Medicaid funds, its consequences for reimbursement rates, the quantity, and the quality of care provided. Combining two decades of administrative, audit, and survey data on U.S. nursing homes, we show that states employ creative financing schemes to divert federal matching funds from their intended purposes. Our theoretical and empirical analysis demonstrates that, to increase federal matching funds, such schemes distort the quality-quantity tradeoff. In Indiana, exploiting plausibly exogenous variation in the rollout of a creative financing scheme, we find a disproportionate expansion of Medicaid-funded care for dementia patients in the lowest-quality nursing facilities.</content>
-    <link href="https://www.nber.org/papers/w34118"/>
-    <category term="NBER"/>
-    <published>2025-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34143</id>
-    <title>Tariffs and State Capacity: A Specific Example</title>
-    <updated>2025-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Erik Madsen, Martin Rotemberg, Sharon Traiberman &amp; Shizhuo Wang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Evasion is a key obstacle to raising customs revenue. We study how improved administrative capacity enables governments to combat evasion by redesigning tariff codes. Using newly compiled historical records from the Early American Republic, we show that as Customs administration matured, the tariff code became more complex and more reliant on specific (quantity-based) tariffs in preference to ad valorem (value-based) ones.  We develop an equilibrium model of tariff administration with costly verification of declared values that explains these twin trends: Administrative capacity allows Customs officials to disaggregate goods and assess tailored specific tariffs, obviating misvaluation while minimizing price distortions.  The model successfully predicts several additional empirical patterns: Specific tariffs tend to be assessed on goods that are homogeneous, cheap, or lightly taxed.</content>
-    <link href="https://www.nber.org/papers/w34143"/>
     <category term="NBER"/>
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
@@ -1204,6 +1048,162 @@ Using hourly load data for the utility, I estimate the reduction in electricity 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;As Ukraine emerges from the devastation of war, it faces a historic opportunity to engineer its own Wirtschaftswunder—a productivity-driven economic transformation akin to post-war West Germany. While investment-led growth may offer quick wins, it is efficiency, innovation, and institutional reform that will determine Ukraine’s long-term economic trajectory. Drawing on rich micro-level firm data spanning 25 years, this paper uncovers deep structural distortions that have suppressed creative destruction and productivity in Ukraine. It finds that business dynamism is on the decline, alongside rising market concentration among incumbent businesses, including low productivity state owned enterprises. To inform priorities for reviving business dynamism, this study develops a model of creative destruction drawing on Acemoglu et al. (2018) and Akcigit et al. (2021). The quantitative assessment highlights that policies that discipline entrenched incumbents are the bedrock for reviving business dynamism and engineer Ukraine’s Wirtschaftswunder. Policies targeting specific types of firms have limited efficacy when incumbents run wild.</content>
     <link href="https://www.nber.org/papers/w34103"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34151</id>
+    <title>Information Frictions and the Labor Market for Public School Teachers</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mark Colas &amp; Chao Fu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Information frictions—where a worker and her current employer know more about the worker’s productivity than prospective employers—have complex equity-efficiency implications in the teacher labor market. Reducing information frictions may make it easier for effective teachers to move to their preferred schools and increase cross-school inequality, but it may also attract high-quality entrants and improve market-level teacher quality. Taking these factors into account, we develop an equilibrium model of the teacher labor market and estimate it using data from the Houston Independent School District, which launched a transparent teacher evaluation system in 2011. Counterfactual simulations reveal that (1) making district teachers’ quality observable to all district schools improves average teacher quality at the district level and in the top and bottom quartiles of schools ranked by student performance, while decreasing it in other schools; (2) budget-neutral bonus programs that incentivize high-quality teachers to teach in low-performing schools can increase overall teacher quality and reduce cross-school inequalities; and (3) these programs are more effective in markets with cross-employer information symmetry.</content>
+    <link href="https://www.nber.org/papers/w34151"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34150</id>
+    <title>Deforestation: A Global and Dynamic Perspective</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Farid Farrokhi, Elliot Kang, Heitor S. Pellegrina &amp; Sebastian Sotelo</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study deforestation in a dynamic world trade system. We first document that between 1990-2020: (i) global forest area has decreased by 7.1 percent, with large heterogeneity across countries, (ii) deforestation is associated with expansions of agricultural land use, (iii) deforestation is larger in countries with a comparative advantage in agriculture, and (iv) population growth causes deforestation. Motivated by these facts, we build a model in which structural change and comparative advantage determine the extent, location, and timing of deforestation. Using the model, we obtain conditions under which reductions in trade costs and tariffs reduce global deforestation. Quantitatively, eliminating global agricultural tariffs has limited impacts on global forest area, leads to substantial forest reallocation across countries, and results in net welfare benefits</content>
+    <link href="https://www.nber.org/papers/w34150"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34149</id>
+    <title>Selective Turnout, Voting Policy, and Partisan Bias: Evidence from Multi-Level Data</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Steven T. Berry, Christian Cox &amp; Philip Haile</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study voting in general elections for the U.S. House of Representatives. Our data set includes demographics and turnout of all registered voters for the years 2016–2020, as well as vote shares at the precinct and contest level. We estimate a Downsian voting model incorporating rich observed and unobserved heterogeneity at the voter and contest level. We find that voters with high perceived voting costs tend to favor Democrats, as do marginal voters in most districts. Variation in state voting policies accounts for a modest share of overall estimated voting costs but is sufficient to determine the majority party in some years. We also find that many states’ district maps favor one party in converting votes to seats. On net, these biases favor Republicans. For example, we estimate that winning 50% of votes in every state would give Republicans a nine percentage point seat advantage in the House.</content>
+    <link href="https://www.nber.org/papers/w34149"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34148</id>
+    <title>FinTech Lending and Cashless Payments</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pulak Ghosh, Boris Vallee &amp; Yao Zeng</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Borrowers’ use of cashless payments improves their access to capital from FinTech lenders and predicts a lower probability of default. These relationships are stronger for cashless technologies providing more precise information, and for outflows. Cashless payment usage complements other signals of borrower quality. We rationalize these empirical findings using a framework in which borrowers signal their lower likelihood of diverting cash flows through payment technology choice, and screening accuracy is further strengthened by informational complementarities. The informational synergy we uncover provides a rationale for the joint rise of cashless payments and FinTech lending, as well as for open banking.</content>
+    <link href="https://www.nber.org/papers/w34148"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34147</id>
+    <title>Has the Rise of Work from Home Reduced the Motherhood Penalty in the Labor Market?</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Emma Harrington &amp; Matthew E. Kahn</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When women become mothers, they often take a step back from their careers.  Could work from home (WFH) reduce this motherhood penalty, particularly in traditionally family-unfriendly careers? We leverage technological changes prior to the pandemic that increased the feasibility of WFH in some college degrees but not others. In degrees where WFH increased, motherhood gaps in employment narrowed: for every 10% increase in WFH, mothers’ employment rates increased by 0.78 per centage points (or 0.94%) relative to other women’s. This change is driven by majors linked to careers that have high returns to hours and inflexible demands on workers’ time. We microfound these results using panel data that show that women who could WFH before childbirth are less likely to exit the workforce.</content>
+    <link href="https://www.nber.org/papers/w34147"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34146</id>
+    <title>Intermediaries and Asset Prices</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Valentin Haddad &amp; Tyler Muir</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Intermediary asset pricing posits that financial institutions are important players in financial markets, and that their decisions shape asset prices beyond simply reflecting the preferences of the average household in the economy. We explain how the intermediary-asset pricing approach helps make sense of empirical patterns in the data: the excess volatility of asset prices, differences in price movements across asset classes, the cross section of expected returns within asset classes, and specific arbitrages and price dislocations. We also review how this view of price fluctuations has important implications for macroeconomic dynamics, international economics, and policy. In particular, the role of financial regulation and monetary policy in alleviating constraints or removing risk from intermediary balance sheets during periods of stress is central in this approach. We highlight both existing progress and gaps for future research.</content>
+    <link href="https://www.nber.org/papers/w34146"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34145</id>
+    <title>A Model of the Babbage Firm</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops a unified model of the cognitive division of labour in a knowledge economy.  Building on recent frameworks for knowledge creation and decision making under uncertainty, it distinguishes between specialists, who engage in costly “on the spot” reasoning to generate tacit knowledge around a focal point, and generalists, who search for and interpolate existing knowledge but deliver answers subject to error.  The model characterises how these two types of workers should be allocated across a continuum of questions, given the location of codified knowledge points and the distribution of problems.  It shows that optimal task assignment depends on the cognitive process through which information is processed rather than on skill endowments or task complexity.  When specialists operate around both knowledge points, their allocation is shaped by their absolute advantage over generalists, leading to non‐contiguous specialist domains interspersed with generalist regions.  When specialists cluster around a single point, a natural boundary emerges between specialist and generalist domains that shifts but persists despite changes in question distribution.  Extending the analysis to a two‐period setting, the paper identifies when specialists should sacrifice static efficiency to codify their tacit discoveries, creating bridges that allow generalists to operate more effectively in the future.  These results provide a formal microfoundation for Babbage’s insights into the division of cognitive labour and offer predictions about how knowledge work responds to changes in the knowledge environment, the distribution of questions, and the patience of capital.</content>
+    <link href="https://www.nber.org/papers/w34145"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34144</id>
+    <title>The Great Gatsby Curve: Upward Mobility, Persistence and Inequality</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Laura Mayoral ⓡ Debraj Ray ⓡ Garance Genicot</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper revisits the Great Gatsby curve that connects inequality to mobility, using panel data spanning several countries and time periods. Existing literature observes that the intergenerational elasticity of earnings falls as inequality rises, implying that mobility (viewed as the negative of that elasticity) is negatively correlated with inequality. In sharp contrast, we show that measures of upward mobility, axiomatically aligned with progressivity in income growth rates, are robustly and positively associated with baseline inequality. While there is no contradiction here, our study highlights crucial differences between mobility measures based on (lower) persistence and those based on growth progressivity, and asks the reader to align their choice of measure with foundational criteria that they feel best describe “mobility". Our findings offer a re-interpretation of the Gatsby curve through the lens of shared prosperity, and have implications for the evolution of inequality within countries.</content>
+    <link href="https://www.nber.org/papers/w34144"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34153</id>
+    <title>The Breakdown of the English Society of Orders: The Role of the Industrial Revolution</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Cara Ebert, Leander Heldring, James A. Robinson &amp; Sebastian Vollmer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the role of the English Industrial Revolution in promoting social mobility and ending the society of orders: one based on rigid social categories and regulated by inherited characteristics. We combine two new datasets on individual wealth holdings before and after the Industrial Revolution. Our main finding is that noble and gentry titles as well as surnames explain significantly less of the variation in wealth after the Industrial Revolution. Moreover, these declines are substantially larger in the parts of England most impacted by the Revolution. We also explore the extent to which different characteristics predict being rich. We then study a key facet of this increased social mobility - geographical and occupational mobility. We show that people with surnames that were more mobile tended to be in the north and working in manufacturing. Moreover, areas that experienced greater outward mobility were more urbanized; less agrarian; had institutionalized markets; more gentry; were poorer (as proxied by tax revenues); and were more likely to be the residence of a member of parliament.</content>
+    <link href="https://www.nber.org/papers/w34153"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34121</id>
+    <title>Unbalanced Financial Globalization</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Damien Capelle &amp; Bruno Pellegrino</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use a dynamic spatial general equilibrium model of international investment and production to investigate the real implications of the last five decades of financial globalization. We introduce a wedge accounting framework to estimate country- and time-varying measures of outward and inward Revealed Capital Account Openness (RKO). We show how to identify these wedges for a large panel of countries using limited publicly available data on national accounts and external asset and liability positions since the 1970s. Our analysis reveals striking cross-country differences in the pace and direction of financial account opening: wealthier countries have become relatively more open to foreign capital inflows, while poorer countries have become relatively more open to capital outflows, a phenomenon we call “Unbalanced Financial Globalization.” Counterfactual simulations show that this unbalanced financial globalization has worsened capital allocation, resulting in a 5.9% decrease in world GDP, a 3.4% rise in cross-country income inequality, lower wages in poorer countries, and a decline in rates of return on capital in richer countries. In contrast, if financial account opening had been uniform, the improved allocation of capital would have reduced income inequality, and increased global GDP. These findings underscore the crucial role of spatial heterogeneity in shaping the real impact of international capital markets integration.</content>
+    <link href="https://www.nber.org/papers/w34121"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34120</id>
+    <title>Climate Politics in the United States</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matilde Bombardini, Frederico Finan, Nicolas Longuet-Marx, Suresh Naidu &amp; Francesco Trebbi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the effects of climate change and mitigation-related employment changes on U.S. politics. We combine 2000-2020 precinct-level voting information and congressional candidate positions on environmental policy with high-resolution temperature, precipitation, and census block-group level measures of “green” and “brown” employment shares. Holding politician positions fixed within a district, we find that Democratic vote shares increase with exogenous changes in local climate and green transition employment. We embed these estimates into a model of political competition, including both direct and demand-driven effects of shocks on candidate supply of climate policy positions. Incorporating these estimates into 2022-2050 projections of climate change and green employment transition, we find that voting for the Democratic Party increases, while both parties move slightly to the right on climate policy. Under worst-case climate projections and current mitigation trajectories, our estimates indicate that the probability the House passes a carbon-pricing bill is 9 percentage points higher in 2050 than in 2020.</content>
+    <link href="https://www.nber.org/papers/w34120"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34118</id>
+    <title>Creative Financing and Public Moral Hazard: Evidence from Medicaid and the Nursing Home Industry</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Martin B. Hackmann, Juan S. Rojas &amp; Nicolas R. Ziebarth</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the misallocation of Medicaid funds, its consequences for reimbursement rates, the quantity, and the quality of care provided. Combining two decades of administrative, audit, and survey data on U.S. nursing homes, we show that states employ creative financing schemes to divert federal matching funds from their intended purposes. Our theoretical and empirical analysis demonstrates that, to increase federal matching funds, such schemes distort the quality-quantity tradeoff. In Indiana, exploiting plausibly exogenous variation in the rollout of a creative financing scheme, we find a disproportionate expansion of Medicaid-funded care for dementia patients in the lowest-quality nursing facilities.</content>
+    <link href="https://www.nber.org/papers/w34118"/>
+    <category term="NBER"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34143</id>
+    <title>Tariffs and State Capacity: A Specific Example</title>
+    <updated>2025-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Erik Madsen, Martin Rotemberg, Sharon Traiberman &amp; Shizhuo Wang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Evasion is a key obstacle to raising customs revenue. We study how improved administrative capacity enables governments to combat evasion by redesigning tariff codes. Using newly compiled historical records from the Early American Republic, we show that as Customs administration matured, the tariff code became more complex and more reliant on specific (quantity-based) tariffs in preference to ad valorem (value-based) ones.  We develop an equilibrium model of tariff administration with costly verification of declared values that explains these twin trends: Administrative capacity allows Customs officials to disaggregate goods and assess tailored specific tariffs, obviating misvaluation while minimizing price distortions.  The model successfully predicts several additional empirical patterns: Specific tariffs tend to be assessed on goods that are homogeneous, cheap, or lightly taxed.</content>
+    <link href="https://www.nber.org/papers/w34143"/>
     <category term="NBER"/>
     <published>2025-08-01T00:00:00+00:00</published>
   </entry>
