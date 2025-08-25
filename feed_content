@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-08-24T13:38:57.685126+00:00</updated>
+  <updated>2025-08-25T13:39:07.858080+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1161,76 +1161,40 @@
     <published>2025-08-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/qje/qjaf036</id>
-    <title>Insurance Versus Moral Hazard in Income-Contingent Student Loan Repayment</title>
-    <updated>2025-08-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.13276</id>
+    <title>Is There Fairness in AI?</title>
+    <updated>2025-08-24T00:00:00+00:00</updated>
     <author>
-      <name>Tim de Silva</name>
+      <name>Elmira van den Broek, Anastasia Sergeeva, Marleen Huysman</name>
     </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;Student loans with income-contingent repayment insure borrowers against income risk but can reduce their incentives to earn more. Using a change in Australia’s income-contingent repayment schedule, I show that borrowers reduce their labor supply to lower their repayments. These responses are larger among borrowers with more hourly flexibility, a lower probability of repayment, and tighter liquidity constraints. I use these responses to estimate a dynamic model of labor supply with frictions that generate imperfect adjustment. My estimates imply that the labor supply responses to income-contingent repayment limit the optimal amount of insurance in government-provided student loans. However, these responses are too small to justify fixed repayment contracts: restructuring existing student loans from fixed repayment to a constrained-optimal income-contingent loan—while keeping the tax and transfer system unchanged—increases borrower welfare by the equivalent of a 0.8% increase in lifetime consumption at no additional fiscal cost.</content>
-    <link href="https://doi.org/10.1093/qje/qjaf036"/>
-    <category term="The Quarterly Journal of Economics"/>
-    <published>2025-08-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;As predictive artificial intelligence (AI) technologies increasingly steer workplace decisions, debates around fairness have intensified. Existing research often approaches fairness either as a set of universal principles supported or undermined by algorithms, or as a product of social interpretations, thereby providing either technologically deterministic or purely social accounts. Drawing on an ethnographic study of a human resources (HR) department of a large international company that introduced AI in hiring, this study offers an alternative view that shifts focus to how fairness emerges through the ways people define, embed, and perform values with algorithms. Taking a sociomaterial perspective, we find that the introduction and use of AI resulted in crowding out expert practices of performing fairness, favouring instead the version performed by HR. Our process model explains this outcome by the growing symbiosis between HR's professional mandate for fairness and AI procedures, where each legitimizes, shapes, and protects the other over time. This study thus shows that fairness is not pre‐given but constantly redefined and enacted through evolving associations between professional mandates and AI technologies.</content>
+    <link href="https://doi.org/10.1111/joms.13276"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-08-24T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03956</id>
-    <title>Utility Fairness in Contextual Dynamic Pricing with Demand Learning</title>
-    <updated>2025-08-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/01492063251361787</id>
+    <title>Not All Political Ties Are the Same: Firms’ Ties to the Government and Pollution</title>
+    <updated>2025-08-24T00:00:00+00:00</updated>
     <author>
-      <name>Xi Chen, David Simchi-Levi, Yining Wang</name>
+      <name>Wen Helena Li, Ilya R. P. Cuypers, Gokhan Ertug, Hari Bapuji, Wei Liu</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper introduces a novel contextual bandit algorithm for personalized pricing under utility fairness constraints in scenarios with uncertain demand, achieving an optimal regret upper bound. Our approach, which incorporates dynamic pricing and demand learning, addresses the critical challenge of fairness in pricing strategies. We first delve into the static full-information setting to formulate an optimal pricing policy as a constrained optimization problem. Here, we propose an approximation algorithm for efficiently and approximately computing the ideal policy. We also use mathematical analysis and computational studies to characterize the structures of optimal contextual pricing policies subject to fairness constraints, deriving simplified policies that lay the foundations of more in-depth research and extensions. Further, we extend our study to dynamic pricing problems with demand learning, establishing a nonstandard regret lower bound that highlights the complexity added by fairness constraints. Our research offers a comprehensive analysis of the cost of fairness and its impact on the balance between utility and revenue maximization. This work represents a step toward integrating ethical considerations into algorithmic efficiency in data-driven dynamic pricing.This paper was accepted by J. George Shanthikumar, big data analytics.Funding: X. Chen acknowledges support from the National Science Foundation [Grant IIS-1845444]. D. Simchi-Levi thanks the MIT Data Science Lab for support.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03956 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03956"/>
-    <category term="Management Science"/>
-    <published>2025-08-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Complementing research on the implications of political ties for firms’ strategic decisions and financial performance, recent studies are increasingly focusing on the environmental consequences of firms’ political connections. We contribute to this stream of work by integrating insights from the literature on political ties and the multifaceted nature of governments to explore how the level of government influences the pollution implications of firms’ political ties. Specifically, we theorize and demonstrate that, in China, firms’ achieved political ties with high levels of the government reduce pollution, while such ties with low levels of the government increase it. Furthermore, we examine how these relationships are moderated by firm owners’ social class and the attention by different levels of the government to their respective primary goals. Our analysis of data from 6,758 privately-owned Chinese enterprises provides support for our predictions. Our main conceptual contribution is to add more nuance to the research on political ties by highlighting the contingent role of the level of government in shaping firms’ pollution outcomes.</content>
+    <link href="https://doi.org/10.1177/01492063251361787"/>
+    <category term="Journal of Management"/>
+    <published>2025-08-24T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02254</id>
-    <title>Effects of the 2021 Expanded Child Tax Credit</title>
-    <updated>2025-08-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/10422587251364820</id>
+    <title>Ethnography in Entrepreneurship Research: Promises, Pitfalls, and Practical Pathways</title>
+    <updated>2025-08-25T00:00:00+00:00</updated>
     <author>
-      <name>Ben Lourie, Devin M. Shanthikumar, Terry Shevlin, Chenqi Zhu</name>
+      <name>Eliana Crosina, Marco Mismetti, Alfredo De Massis, Michael G. Pratt, Trenton Alma Williams</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We analyze the impact of the 2021 Child Tax Credit (CTC) expansion using detailed transaction data from nearly two million individuals and difference-in-difference analyses around monthly CTC payments. We find that recipients significantly increase their consumption in the week following the payment versus the prior week, with more pronounced effects for lower-income recipients and those with more children. We also find a significant reduction in liquidity constraints for lower-income recipients, with reductions in overdrafts, use of high-interest payday loans, and use of gig work for supplemental income. Building on these initial findings, our analysis further delves into more nuanced, policy-targeted aspects: We observe a greater alleviation of liquidity constraints from monthly CTC payments compared with annual tax refunds. In addition, monthly payments decrease consumption volatility and increase stability in consumption levels. These results inform considerations for payment frequency. Furthermore, we provide insights into the income thresholds for the policy’s phase-in and phase-out ranges by identifying the most pronounced consumption effects among the lowest-income recipients—who benefit from full refundability under the plan—and noting an absence of significant consumption changes among higher-income recipients. Our results present the first large-scale, transaction-based, empirical archival evidence of the effects stemming from the 2021 CTC amendments and provide insights for policy-related discussions.This paper was accepted by Eric So, accounting.Funding: We acknowledge funding from the Think Forward Initiative and the University of California, Irvine, and the U See I Write initiative at the University of California, Irvine, for focused writing retreats which facilitated the writing of this manuscript.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.02254 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02254"/>
-    <category term="Management Science"/>
-    <published>2025-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13469</id>
-    <title>Segmented Arbitrage</title>
-    <updated>2025-08-04T00:00:00+00:00</updated>
-    <author>
-      <name>EMIL N. SIRIWARDANE, ADI SUNDERAM, JONATHAN WALLEN</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We use arbitrage activity in equity, fixed income, and foreign exchange markets to characterize the frictions and constraints facing intermediaries. The average pairwise correlation between the 32 arbitrage spreads that we study is 22%. These low correlations are inconsistent with canonical intermediary asset pricing models. We show that at least two types of segmentation drive arbitrage dynamics. First, funding is segmented—certain trades rely on specific funding sources, making their arbitrage spreads sensitive to localized funding shocks. Second, balance sheets are segmented—intermediaries specialize in certain trades, so arbitrage spreads are sensitive to idiosyncratic balance‐sheet shocks.</content>
-    <link href="https://doi.org/10.1111/jofi.13469"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/1475-679x.70004</id>
-    <title>Paving the Road to the Buy‐Side</title>
-    <updated>2025-08-04T00:00:00+00:00</updated>
-    <author>
-      <name>Biwen Zhang</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;Sell‐side analysts commonly transition to buy‐side money managers. I examine whether and how these career transitions shape sell‐side analysts' behavior, relying on the granular career information of 6,310 analysts in the United States. I identify analysts who transition from the sell‐side to the buy‐side and find that these analysts issue inflated recommendations on stocks of interest to their future buy‐side employers. This favoritism is (1) present only during the year preceding their transition, (2) more pronounced among stocks where a single analyst is more influential in moving the stock price; and (3) present only among transitions likely to be strategically planned. Importantly, stocks receiving inflated recommendations experience a significant price decline following the departure of transitioning analysts from the sell‐side. Overall, these findings suggest that analyst career transitions are an important source of conflicts of interest.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70004"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2025-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2022.0611</id>
-    <title>Emotions in Online Content Diffusion</title>
-    <updated>2025-08-04T00:00:00+00:00</updated>
-    <author>
-      <name>Yifan Yu, Shan Huang, Yuchen Liu, Yong Tan</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Which emotions make a post go viral, and which hold it back? Analyzing 387, 000 news articles and the sharing paths of more than six million users on WeChat—China’s super-app for social media—we map how eight discrete emotions drive information diffusion. Econometric models show that content expressing anxiety, love, or surprise reliably travels farther; reaches more unique people; and forms deeper, broader, more viral cascades, whereas anger, sadness, and even joy dampen propagation. Diffusion also varies with who shares the content and how strongly sharers are connected, underscoring the importance of audience- and tie-specific strategies. For practitioners, framing messages around constructive uncertainty (anxiety), prosocial appreciation (love), or unexpected insight (surprise) can amplify reach, whereas caution is warranted when leveraging anger. For policymakers and platforms, monitoring anxiety- and surprise-laden posts enables early intervention, and transparency audits must weigh the unequal amplification power of specific emotions when evaluating recommender algorithms and influence operations.</content>
-    <link href="https://doi.org/10.1287/isre.2022.0611"/>
-    <category term="Information Systems Research"/>
-    <published>2025-08-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;We seek to make ethnography more intelligible and accessible to entrepreneurship scholars. We begin by defining ethnography and discussing the promises and challenges of conducting ethnographic studies in entrepreneurship. Next, we offer practical advice for entrepreneurship scholars interested in conducting ethnographic studies, including suggested standards for designing, executing, and writing ethnography. We conclude by outlining possibilities for future research, highlighting how ethnographic inquiry can facilitate theoretical and methodological contributions to the field of entrepreneurship.</content>
+    <link href="https://doi.org/10.1177/10422587251364820"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2025-08-25T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70000</id>
