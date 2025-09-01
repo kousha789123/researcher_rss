@@ -2,144 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-08-31T13:39:16.846709+00:00</updated>
+  <updated>2025-09-01T13:43:17.281879+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1002/smj.3741</id>
-    <title>Refugees at the door: Initial funding partners and new venture performance in a changing emerging market</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Ryan Coles, Shon R. Hiatt, Grady W. Raines, Wesley D. Sine</name>
-    </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Entrepreneurs must navigate complex environmental shifts that significantly impact firm survival. In this paper, we investigate how different firm‐level logics influence new venture survival in Jordan during changing social and economic conditions, such as a refugee influx. Our study reveals that these shifting environmental dynamics can differentially alter the performance outcomes of firms based on their internal logics that drive venture strategy. This dynamic relationship underscores how varying firm‐level logics can alter the impact of environmental changes on new venture performance. These findings provide guidance to entrepreneurs to be aware of their venture's underlying values and principles and consider how they may impact business decisions and outcomes in the face of changing circumstances.Managerial SummaryThis study examines the impact of the Syrian refugee crisis on new venture performance in Jordan, specifically investigating whether ventures' survival was affected by the source of their initial funding. The results show that ventures that received their initial funding from family were less likely to survive than those that received their initial funding from banks when significant numbers of refugees entered Jordan. Our paper suggests that this difference may be due to how the guiding principles of firms shaped decisions around resource allocation and strategic adaptation. For entrepreneurs and investors, this suggests that the source of a venture's initial funding can be a hidden strength or vulnerability, depending on the social and economic disruptions it faces.</content>
-    <link href="https://doi.org/10.1002/smj.3741"/>
-    <category term="Strategic Management Journal"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1007/s11142-025-09895-3</id>
-    <title>Air pollution and managers’ forecasting ability</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Ashiq Ali, Zhongwen Fan, Siman Li</name>
-    </author>
-    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;This study examines the relation between U.S. managers’ short-term exposure to air pollution and their forecasting ability. We focus on air pollution due to PM2.5, a fine particulate matter that can easily penetrate an indoor, climate-controlled environment. We show that the short-term ambient PM2.5level at the firm’s headquarters before a management earnings forecast issuance is negatively associated with the accuracy of the forecast. Also, the short-term ambient PM2.5level before an earnings announcement is negatively related to the likelihood of a concurrent management forecast issuance. These relations occur at PM2.5levels below the U.S. air quality standard. A battery of additional tests validate these findings. These results suggest that a transitory exposure to PM2.5at levels common in the United States temporarily decreases managers’ forecasting ability. The temporary cognitive impairment from short-term exposure to modest levels of PM2.5, as documented in epidemiological studies, is presumably the reason.</content>
-    <link href="https://doi.org/10.1007/s11142-025-09895-3"/>
-    <category term="Review of Accounting Studies"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251362549</id>
-    <title>Improving Cystic Fibrosis Screening Through a Novel Testing Design</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Hussein El Hajj, Douglas R Bish, Ebru K Bish</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Newborn screening (NBS) plays a key role in detecting life-threatening genetic disorders, with cystic fibrosis (CF) being a prominent example. Having CF requires both copies of the CFTR gene (one inherited from each parent) to be pathogenic variants. With over 1,000 CF-causing variant types, a genetic test that can detect enough variant types for sufficient screening accuracy is expensive and capacity-constrained. Consequently, in the US, the first tier of testing uses an inexpensive biochemical test that measures immunoreactive trypsinogen (IRT) levels, which are often elevated in CF cases. Genetic testing is reserved for a small fraction of newborns with elevated IRT levels, based on an IRT threshold. However, setting an optimal IRT threshold that balances sensitivity with overall screening cost and genetic testing capacity is challenging, which is exacerbated by variations in IRT levels and CF prevalences among different racial/ethnic groups. As a result, the current practice of using a single IRT threshold for all newborns is not necessarily the most efficient or equitable strategy.
-            
-            This paper introduces a novel screening design that integrates an inexpensive small-panel genetic test with an IRT test in the first tier of testing. This strategy customizes IRT thresholds based on the number of variants detected by the small-panel genetic test. This design leads to novel optimization problems, including variant type selection for the small-panel genetic test and IRT threshold customization. We establish key structural properties of optimal IRT thresholds and develop Pareto frontiers that inform decision-makers about the efficiency versus equity trade-off, considering a specific minimax type equity measure. The case study, utilizing CF NBS data from the states of New York and California, demonstrates the potential efficiency and equity gains of this novel approach compared to current practice and race-based benchmarks. This research offers valuable insights and methodologies for improving CF NBS processes, and has implications for public policy decision-making.</content>
-    <link href="https://doi.org/10.1177/10591478251362549"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.1556</id>
-    <title>Rate-Optimal Online Learning for Dynamic Assortment Selection with Positioning</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Yiyun Luo, Will Wei Sun, Yufeng Liu</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;This study addresses a key challenge in online retail: product positioning. The authors propose a novel online learning framework called dynamic assortment selection with positioning (DAP). Unlike traditional models that focus solely on item selection, DAP also learns optimal product placement to maximize revenue. The researchers model customer choices using a multinomial logit framework, where item appeal depends on both intrinsic preference and display position. They demonstrate that ignoring position effects leads to suboptimal performance and introduce a new algorithm, TLR-UCB, which effectively incorporates adaptive position-dependent feedback through a geometric linear bandit structure and truncated linear regression techniques. Theoretical analysis confirms that TLR-UCB achieves optimal learning efficiency. To handle unknown position effects, they further develop EI-TLR, a two-stage policy that jointly estimates customer preferences and positioning impacts before applying a generalized TLR-UCB procedure. Extensive simulations show that both TLR-UCB and EI-TLR significantly outperform existing benchmarks, offering powerful tools for dynamic, data-driven assortment and layout optimization in online marketplaces.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1556"/>
-    <category term="Operations Research"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01381</id>
-    <title>Performance Ranks, Conformity, and Cooperation: Evidence from a Sweater Factory</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Anik Ashraf</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Performance ranking can trigger multiple social incentives for workers. On one hand, it offers status rewards to induce them to increase effort. On the other, better-ranked workers may reduce effort to conform to coworkers’ productivity in fear of social retribution. This paper uses a field experiment in a sweater factory to disentangle the incentives underlying performance ranks. Treated workers receive ranks either privately or publicly. I find that private ranks do not have any effect on average but that public ranks reduce worker productivity. Additional evidence confirms that productivity declines because of workers’ social concerns and their desire to conform to the productivity of their friends. Cooperation between workers decreases too but with limited effect on productivity. The paper illustrates how inducing worker competition may be counterproductive for firms.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: Financial support from the Private Enterprise Development in Low-Income Countries, Centre for Economic Policy Research [PEDL ERG 4362] and the DFG through CRC TRR 190 [Project 280092119] are gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01381 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01381"/>
-    <category term="Management Science"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00936</id>
-    <title>T&lt;scp&gt;ail&lt;/scp&gt;-GAN: Learning to Simulate Tail Risk Scenarios</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Rama Cont, Mihai Cucuringu, Renyuan Xu, Chao Zhang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The estimation of loss distributions for dynamic portfolios requires the simulation of scenarios representing realistic joint dynamics of their components. We propose a novel data-driven approach for simulating realistic, high-dimensional multiasset scenarios, focusing on accurately representing tail risk for a class of static and dynamic trading strategies. We exploit the joint elicitability property of Value-at-Risk and Expected Shortfall to design a Generative Adversarial Network that learns to simulate price scenarios preserving these tail risk features. We demonstrate the performance of our algorithm on synthetic and market data sets through detailed numerical experiments. In contrast to previously proposed data-driven scenario generators, our proposed method correctly captures tail risk for a broad class of trading strategies and demonstrates strong generalization capabilities. In addition, combining our method with principal component analysis of the input data enhances its scalability to large-dimensional multiasset time series, setting our framework apart from the univariate settings commonly considered in the literature.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00936 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00936"/>
-    <category term="Management Science"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.01246</id>
-    <title>Boosting Sales and Customer Welfare from Premade Foods (Let the Freshest Chicken Fly off the Shelf First)</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Dan Andrei Iancu, Jae-Hyuck Park, Erica L. Plambeck</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines a grocery retailer’s management of a premade food product. The retailer’s goal is to maximize a weighted sum of direct profit and customer welfare. Multiple items of the product are produced in batches and immediately displayed for sale. Considering that each item’s quality decreases while it sits on the shelf, the retailer chooses the shelf life, whether to issue items in first-in-first-out (FIFO) or last-in-first-out (LIFO) order, whether to timestamp items, and how to price items. In a base model, we find that the retailer should use LIFO issuance and not timestamp items. The intuition is that this increases customer welfare and allows for a longer shelf life, increasing sales and thus reducing waste. By extending the model, we identify features that can make FIFO optimal (such as a holding cost, upper bound on the shelf life, age-dependent disposal cost, or customer risk or loss aversion), and we show how customer heterogeneity can favor timestamps. Lastly, we show how a mandate to donate unsold food items (as implemented in France and California) can motivate a retailer to increase the shelf life, thereby reducing the quality and quantity of donated items.This paper was accepted by David Simchi-Levi, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.01246 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.01246"/>
-    <category term="Management Science"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01834</id>
-    <title>Trade-Offs in Leveraging External Data Capabilities: Evidence from a Field Experiment in an Online Search Market</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Xiaoxia Lei, Yixing Chen, Ananya Sen</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Firms increasingly leverage external entities’ data capabilities to unlock improvements in their offerings, but measuring the impact of such capabilities is challenging. Collaborating with the search team at a technology company, we analyzed a large-scale field experiment in which we randomized access to an external, leading search engine’s autocomplete application programming interface (API) for more than two million users over 108 days. We measure the causal effects of removing API access on two performance metrics of the focal company’s search product: (a) clickthrough rate (CTR) on search suggestions and (b) CTR on the search engine results page. We find that, on average, compared with the baseline with API access, removing API access reduces the search suggestion CTR by 4.6%. Further, exploiting the experimental variation, we use an instrumental variables approach to establish that a 10% increase (decrease) in CTR on search suggestions leads to a 1.85% increase (decrease) in CTR on top-slot search results. However, the negative effect of removing API access becomes less negative over time with the effect magnitude in the longer term being half what we would have obtained with a short-term experiment. We provide suggestive mechanism evidence of the longer term effect: the focal company’s reliance on the leading search engine’s data capability tapers off the accumulation of internal data and then limits the improvement of its autocomplete predictions. This research informs managers of a critical trade-off in leveraging external data capabilities and sheds light on regulations, such as the Digital Markets Act, that mandate data sharing by large digital platforms.This paper was accepted by DJ Wu, information systems.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72442015, 72171132, and 72171146] and the China Scholarship Council [Grant 202206230110].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01834 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01834"/>
-    <category term="Management Science"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05180</id>
-    <title>Economic Substance Behind Texas Political Anti-ESG Sanctions</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Shiva Rajgopal, Anup Srivastava, Rong Zhao</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;A stark contrast exists between the stated preferences of politicians in the so-called blue states (Democrats) and those in red states (Republicans) on environmental, social, and governance (ESG) matters. We examine whether these polarized political stances are reflected in the investment strategies of respective states’ pension funds. We examine a Texas directive that the state agencies divest from investment companies that profess a pro-ESG stance and allegedly “boycott” energy stocks. We find that funds banned by the Texas directive, despite carrying ESG-focused titles, are largely indexers with a tilt slightly away from energy stocks and slightly toward technology stocks. Banning such funds would make little difference to Texas pensioners or Texas energy companies, because the returns and stock holdings of banned funds are not meaningfully different from those of size-matched funds that do not proclaim an ESG focus. Pension funds in red states do not act per their politicians’ stance and largely follow market trends in their investment strategies. They have similar exposures to technology and energy stocks, as do pension funds in blue states. We conclude that the vehement pro– and anti–fossil fuel proclamations of blue and red states’ politicians, respectively, are not observed in their own state pension funds’ investment policies over which politicians have better control than on external funds.This paper was accepted by Ranjani Krishnan, accounting.Funding: The authors acknowledge financial support from the Social Sciences and Humanities Research Council of Canada. A. Srivastava acknowledges financial support from the Canada Research Chairs Program of the Government of Canada.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05180 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05180"/>
-    <category term="Management Science"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429251370752</id>
-    <title>EXPRESS: Healthy Relationships and Healthy Eating: How Stressful Events and Social Support Affect Indulgence</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>CHIRAAG MITTAL, REZA MOUSAVI, KELLY L. HAWS</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;We investigate how acute stress and social support jointly influence indulgent food decision making using lab experiments and a unique combination of large-scale datasets. Our experiments reveal that social support moderates the effect of stress on indulgent food choices, with individuals with lower support more likely to indulge under stress. We argue that this occurs because social support provides psychological resources that help individuals regulate their behavior under stress. Using a process-by-moderation approach, we demonstrate that providing contextual support, enhancing perceived control, and promoting deliberative thinking attenuate the effect of low social support on indulgent behavior under stress. At a broader level, we test these predictions by analyzing the impact of Hurricane Sandy, an exogenous stressor, on indulgent food purchases. A Difference-in-Difference (DiD) analysis in a natural experiment reveals that while Sandy-affected areas experienced a significant rise in indulgent food sales, this increase was attenuated in communities with higher social support, suggesting that the availability of social resources plays a critical role in moderating stress-driven consumption. Together, our research highlights how social support shapes stress-induced consumption patterns and identifies novel factors that affect indulgent food choices on a real-world and large-scale basis.</content>
-    <link href="https://doi.org/10.1177/00222429251370752"/>
-    <category term="Journal of Marketing"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1017/s0022109025101622</id>
-    <title>Optimal Portfolio Choice with Fat Tails and Parameter Uncertainty</title>
-    <updated>2025-08-11T00:00:00+00:00</updated>
-    <author>
-      <name>Raymond Kan, Nathan Lassance</name>
-    </author>
-    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;Existing portfolio combination rules that optimize the out-of-sample performance under parameter uncertainty assume multivariate normally distributed returns. However, we show that this assumption is not innocuous because fat tails in returns lead to poorer out-of-sample performance of the sample mean–variance and sample global minimum-variance (GMV) portfolios relative to normality. Consequently, when returns are fat-tailed, portfolio combination rules should allocate less to the sample mean–variance and sample GMV portfolios, and more to the risk-free asset, than the normality assumption prescribes. Empirical evidence shows that accounting for fat tails in the construction of optimal portfolio combination rules significantly improves their out-of-sample performance.</content>
-    <link href="https://doi.org/10.1017/s0022109025101622"/>
-    <category term="Journal of Financial and Quantitative Analysis"/>
-    <published>2025-08-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70002</id>
     <title>The right to decide: A decision‐based perspective on corporate stakeholder governance</title>
@@ -453,18 +319,6 @@
     <published>2025-08-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/01492063251355251</id>
-    <title>Is Everyone Having a Good Time? The Effects of Complex Organizational Rituals on Employee Engagement and Behavior</title>
-    <updated>2025-08-15T00:00:00+00:00</updated>
-    <author>
-      <name>Junhyok Yim, Trevor A. Foulk, Anthony C. Klotz, Pauline Schilpzand</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;The organizational rituals literature has primarily focused on simple rituals and their positive effects on participants. While generative, this focus has obscured the intricacy and potential downsides of complex rituals, such as workplace celebrations and team-building retreats. In our research, we leverage Interaction Rituals Theory (IRT) to broaden the theoretical foundation of the study of organizational rituals by examining the range of experiences that employees have within complex organizational rituals. First, we inductively identify the positive and negative experiences within complex organizational rituals and create scales to measure them. Next, drawing further from IRT, we develop a model explaining how these experiences affect employee engagement and identify the subsequent work behaviors most likely to be affected by ritual-induced changes in engagement (helping, loyal boosterism, and job search behavior). In two field studies in the United States and Germany, we test this model, first in a single complex organizational ritual (i.e., company holiday party) and then across a broader set of common complex organizational rituals. Across both studies, we find that employees’ positive experiences during an organizational ritual enhance engagement and predict subsequent work behavior, while their effects can be significantly diminished by negative ritual experiences, challenging the assumption that rituals are uniformly beneficial. By providing evidence for a more balanced perspective on the impact of organizational rituals, our work provides a more nuanced and holistic understanding of the true nature of organizational rituals.</content>
-    <link href="https://doi.org/10.1177/01492063251355251"/>
-    <category term="Journal of Management"/>
-    <published>2025-08-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/01492063251358215</id>
     <title>When Managers Stay, Workers Are Safer: Rethinking the Value of Firm-Specific Human Capital</title>
     <updated>2025-08-15T00:00:00+00:00</updated>
@@ -473,6 +327,18 @@
     </author>
     <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;A commonly held assumption is that firm-specific human capital benefits firms while constraining employees, particularly by reducing their external mobility. While this tension holds in many contexts, it overlooks the possibility that firm-specific human capital developed by one group of employees—managers—can generate positive externalities for others. Using a novel empirical setting and a 16-year panel of 19,044 establishments with 107,309 establishment-year observations, we find that an increase in managers’ firm-specific human capital is associated with improvements in workplace safety. These effects are especially pronounced in organizations with weak safety orientations and with higher proportions of lower-skill employees, who are typically more vulnerable to safety risks. Our findings reveal a previously underexplored channel through which firm-specific human capital creates value: by enabling managers to protect other employees. This challenges the prevailing view that firm-specific human capital primarily serves firm interests and highlights a broader set of beneficiaries—offering a new perspective on the role of managers’ firm-specific human capital in shaping organizational outcomes.</content>
     <link href="https://doi.org/10.1177/01492063251358215"/>
+    <category term="Journal of Management"/>
+    <published>2025-08-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063251355251</id>
+    <title>Is Everyone Having a Good Time? The Effects of Complex Organizational Rituals on Employee Engagement and Behavior</title>
+    <updated>2025-08-15T00:00:00+00:00</updated>
+    <author>
+      <name>Junhyok Yim, Trevor A. Foulk, Anthony C. Klotz, Pauline Schilpzand</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;The organizational rituals literature has primarily focused on simple rituals and their positive effects on participants. While generative, this focus has obscured the intricacy and potential downsides of complex rituals, such as workplace celebrations and team-building retreats. In our research, we leverage Interaction Rituals Theory (IRT) to broaden the theoretical foundation of the study of organizational rituals by examining the range of experiences that employees have within complex organizational rituals. First, we inductively identify the positive and negative experiences within complex organizational rituals and create scales to measure them. Next, drawing further from IRT, we develop a model explaining how these experiences affect employee engagement and identify the subsequent work behaviors most likely to be affected by ritual-induced changes in engagement (helping, loyal boosterism, and job search behavior). In two field studies in the United States and Germany, we test this model, first in a single complex organizational ritual (i.e., company holiday party) and then across a broader set of common complex organizational rituals. Across both studies, we find that employees’ positive experiences during an organizational ritual enhance engagement and predict subsequent work behavior, while their effects can be significantly diminished by negative ritual experiences, challenging the assumption that rituals are uniformly beneficial. By providing evidence for a more balanced perspective on the impact of organizational rituals, our work provides a more nuanced and holistic understanding of the true nature of organizational rituals.</content>
+    <link href="https://doi.org/10.1177/01492063251355251"/>
     <category term="Journal of Management"/>
     <published>2025-08-15T00:00:00+00:00</published>
   </entry>
@@ -1783,6 +1649,42 @@
     <link href="https://doi.org/10.1007/s11142-025-09913-4"/>
     <category term="Review of Accounting Studies"/>
     <published>2025-08-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251377162</id>
+    <title>EXPRESS: Wheels on the Bus: Impact of Vaccine Rollouts on Demand for Public Transportation</title>
+    <updated>2025-08-31T00:00:00+00:00</updated>
+    <author>
+      <name>Huaiyang Zhong, Guihua Wang, Tinglong Dai</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic led to sharp declines in public transit ridership, resulting in budget shortfalls and service cuts that disproportionately affect vulnerable riders who lack alternative transportation options. Understanding the effect of vaccination on public transportation demand is important for planning for demand recovery as vaccination efforts progress. This study examines this effect, with a particular focus on heterogeneous effects across population groups. Estimating the impact of vaccination is challenging due to a lack of fine-grained data and potential endogeneity issues. To overcome these hurdles, we exploit the distinctive features of the COVID-19 vaccination progress to identify an instrumental variable. By merging the U.S. COVID-19 vaccination data with county-level mobility data, we construct a sample that links vaccination rates to the demand for public transportation and follow the instrumental variable approach to estimate the impact. We show that higher vaccination rates led to increases in public transportation demand, as reflected in mobility data from transit stations. Furthermore, we find the effect of vaccination on public transit demand is 50% greater in counties with a larger uninsured population and 80% greater in counties with a higher share of residents without a college degree. Our findings suggest that as vaccination efforts progress, public transit agencies should proactively strengthen their infrastructure to accommodate the anticipated rise in ridership. A strategic, forward-looking approach will be critical to ensuring a sustainable and effective recovery of public transportation systems.</content>
+    <link href="https://doi.org/10.1177/10591478251377162"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251377850</id>
+    <title>EXPRESS: Optimizing Task Generation and Assignment in Crowdpicking</title>
+    <updated>2025-08-31T00:00:00+00:00</updated>
+    <author>
+      <name>Yasemin Ovalı, Barış Yıldız</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;As omnichannel operations become increasingly important for meeting diverse customer expectations in retail, continuous innovation in service and business models is essential to maintain a competitive edge. While effective order fulfillment is key to omnichannel success, the manual picking process in physical stores, one of the major driver of fulfillment costs, still offers substantial opportunities for improvement. This paper focuses on thecrowdpickingmodel as an innovative approach to manage online order picking operations in physical stores by leveraging existing in-store customers, offering a business model with considerable potential. We explore the real-time assignment of orders to in-store customers using ML to identify effective assignment policies. These policies are combined with a task-decomposition strategy to reduce picking costs and enhance crowdpicker participation as a key resource. The proposed crowdpicking model and its real-time management framework are tested on real-world data. Our results show that a well-managed crowdpicking system can lower order picking costs by more than 20% and provide actionable insights for managers in designing such systems.</content>
+    <link href="https://doi.org/10.1177/10591478251377850"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251377752</id>
+    <title>EXPRESS: Avant-garde Market Driving</title>
+    <updated>2025-08-31T00:00:00+00:00</updated>
+    <author>
+      <name>Delphine Dion, Gregory Carpenter, Ashlee Humphreys</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;In this article, we define and develop the concept of avant-garde market driving, a process whereby producers transform an industry by rebelling against the status quo as a means of social-industrial critique rather than in response to market demand. Avant-garde market driving is primarily driven by a desire to rebel against the status quo, at the expense of widespread acceptance; it involves a multiplicity of like-minded individuals such as other producers, intermediaries and consumers; it occurs particularly in contexts where like-minded consumers seek hedonic or aesthetic novelty or social distinction. Breaking new ground comes with substantial challenges. How do rebel producers overcome the challenges of introducing radically different products and successfully sustain avant-garde market driving? Analyzing the wine market in France, we find that avant-garde market driving is initiated and sustained by symbolic disruption and vertical collaboration among producers and intermediaries. This process can provide a strategic advantage to smaller, low-status firms. Based on our analysis, we provide actionable recommendations for producers and intermediaries who wish to engage in avant-garde market driving.</content>
+    <link href="https://doi.org/10.1177/00222429251377752"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-08-31T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1257/aer.20240010</id>
