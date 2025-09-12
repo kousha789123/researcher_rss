@@ -2,130 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-09-11T13:51:09.968412+00:00</updated>
+  <updated>2025-09-12T13:50:40.348258+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf063</id>
-    <title>Option Pricing with Time-Varying Volatility Risk Aversion</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Reinhard Hansen, Chen Tong</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We introduce a pricing kernel with time-varying volatility risk aversion to explain the observed time variations in the shape of the pricing kernel. When combined with the Heston-Nandi GARCH model, this framework yields a tractable option pricing model in which the variance risk ratio (VRR) emerges as a key variable. We show that the VRR is closely linked to economic fundamentals, as well as sentiment and uncertainty measures. A novel approximation method provides analytical option pricing formulas, and we demonstrate substantial reductions in pricing errors through an empirical application to the S&amp;P 500 index, the CBOE VIX, and option prices. (JEL G12, G13, C51, C52)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf063"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2025.20953</id>
-    <title>Increasing the Impact of Organization Science Research: Lessons from Economics</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Rachel T. A. Croson, David C. Croson</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;The field of organization science has many important insights to offer to practice, but often those insights go unnoticed. This article uses examples from a related discipline, economics, to suggest actions that the organization science field could consider in order to increase its impact.</content>
-    <link href="https://doi.org/10.1287/orsc.2025.20953"/>
-    <category term="Organization Science"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.1010</id>
-    <title>Dynamic Black-Litterman</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Anas Abdelhakmi, Andrew E. B. Lim</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Incorporating Expert Views into Investment ModelsHow can investors best incorporate forward-looking expert views into dynamic portfolio strategies? “Dynamic Black-Litterman,” by Anas Abdelhakmi and Andrew Lim, offers a novel solution.The authors generalize the classic Black-Litterman model to a dynamic setting, allowing for continuous trading and expert views of events over varying time horizons that arrive over time. They derive the explicit dynamics of asset prices after incorporating these views, uncovering a surprising and elegant connection to multidimensional Brownian bridges.Remarkably, the paper provides a closed-form solution for the optimal dynamic portfolio policy, a significant finding for a model of this complexity. This includes a specific hedging component to protect against changes in expert views. Numerical experiments demonstrate that this dynamic approach consistently outperforms strategies that repeatedly apply the single-period model, leading to higher returns and lower portfolio turnover.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1010"/>
-    <category term="Operations Research"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.0777</id>
-    <title>Package Bids in Combinatorial Electricity Auctions: Selection, Welfare Losses, and Alternatives</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Thomas Hübner, Gabriela Hug</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Day-ahead electricity auctions allow market participants to trade power for delivery the following day. In Europe, these auctions are designed as combinatorial auctions, enabling agents to submit package bids (“block bids”) that span multiple time periods rather than bidding separately for each hour. However, power exchanges impose limits on the number of package bids an agent can submit, creating a complex decision problem: Which packages should an agent bid on to best represent their preferences? In “Package Bids in Combinatorial Electricity Auctions: Selection, Welfare Losses, and Alternatives,” Hübner and Hug study this selection problem and propose decision-support algorithms that optimize bid choice under uncertainty. They provide theoretical bounds on welfare loss due to bid limits and validate their methods with simulations involving generators, storage systems, and flexible demand. Their findings offer actionable insights for both auctioneers and bidders.</content>
-    <link href="https://doi.org/10.1287/opre.2024.0777"/>
-    <category term="Operations Research"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00109</id>
-    <title>Balancing External vs. Internal Validity: An Application of Causal Forest in Finance</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Huseyin Gulen, Candace E. Jens, T. Beau Page</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Answering causal questions with generalizable results is challenging. Estimators requiring pseudorandomization provide estimates with no bias (i.e., strong internal validity) but limited generalizability (i.e., weak external validity). Theoretically, causal forest, a nonparametric, machine learning–based matching estimator, can provide low-to-no-bias, generalizable estimates even when treatment is endogenous. We empirically compare the performance of ordinary least squares (OLS), regression discontinuity design (RDD), and causal forest at recovering estimates in simulated observational panel data and show the robustness of causal forest estimates to many sources of bias. We revisit a popular RDD setting, debt covenant default, to show how extendable, heterogeneous causal forest estimates can enhance inferences.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00109 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00109"/>
-    <category term="Management Science"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07401</id>
-    <title>Optimal Integration: Human, Machine, and Generative AI</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Hongda Zhong</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;I study the optimal integration of humans and technologies in multilayered decision-making processes. When each layer can correct existing errors but may also introduce new errors, who should have the final authority? I show that a decision maker’s correction capability normalized by its new errors is a one-dimensional quality metric that determines the optimal rule: deploying higher quality technologies in later stages. Intriguingly, despite its highest quality, the final layer may not generate the greatest error reduction; instead, its role hinges on minimizing new errors. Human effort varies asymmetrically across layers: early stages exert relatively lower effort and prioritize error correction, whereas later stages exert higher effort and focus on avoiding new errors. Applying the model to artificial intelligence (AI) reveals that AI’s generative capabilities make it more likely to serve as the final decision maker, reducing the need for costly human input at the risks of AI hallucination. The theoretical framework also extends to applications including repeated delegation, automation design, loan screening, tenure review, and other multilayer decision-making scenarios.This paper was accepted by Will Cong, finance.</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07401"/>
-    <category term="Management Science"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00445</id>
-    <title>How Causal Focus and Specificity in Risk Factor Disclosures Jointly Affect Investor Judgments</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>G-Song Yoo, Hun-Tong Tan</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how investors’ investment judgments are jointly affected by two important linguistic features that vary considerably across firms’ risk factor disclosures: namely, causal focus—the extent to which managers’ disclosures focus on the causes versus consequences of risk events—and specificity, which refers to specific references to names of objects and quantitative values. Results of controlled experiments show that, when the disclosure focus is on risk causes, greater specificity increases investment willingness because of enhanced feelings of knowable uncertainty in a risk event. In contrast, when the focus is on risk consequences, greater specificity reduces investment willingness because of diminished feelings of knowable uncertainty. Contrary to the Securities and Exchange Commission’s positive view of specific risk factor disclosures, our results suggest that specificity can have an opposite effects on investors’ judgments depending on the causal focus of risk factor disclosures.This paper was accepted by Ranjani Krishnan, accounting.Funding: This work was supported by Korea University Business School and the United Overseas Bank Professorship Endowment Fund.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00445 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00445"/>
-    <category term="Management Science"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01204</id>
-    <title>Cut to the Curve: Underrecognition and Talent Loss from Forced Ranking in a Multinational Firm</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Brittany M. Bond</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines unintended consequences of enforcing a curve on performance rankings. I examine a multinational company where some employees are downgraded from the top levels of rankings due to a strict recognition cutoff. I show that downgraded employees are at least 34% more likely to voluntarily exit, and that attempts by the organization to manage employee concerns, particularly regarding concerns of fairness, envy, and self-image, do not have the intended retention effect. Underrecognized employees leave even though the organization avoids calibration bias, offers reassurance about their career prospects, and compensates them with larger bonuses than their top-ranked peers. In robustness checks, I show that under these conditions even high-performing employees not nominated to the top ranks are more likely to voluntarily depart despite receiving the largest bonuses. These findings suggest that, where underrecognition occurs due to the restriction of top rankings, the mechanisms producing demotivation are more powerful than the management strategies meant to combat them.This paper was accepted by Lamar Pierce, organizations.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01204 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01204"/>
-    <category term="Management Science"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/1475-679x.70007</id>
-    <title>Company Websites: A New Measure of Disclosure</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>ROMAIN BOULLAND, THOMAS BOURVEAU, MATTHIAS BREUER</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We propose a new measure of firms' disclosure based on company websites, which are widely available and contain a wealth of information. For a sample of U.S. public firms, we construct our disclosure measure using historical website data, validate it by correlating it with extant measures of disclosure and information asymmetry, and explore its determinants. We then apply our measure to the study of U.S. private firms' disclosure and French firms' compliance with a nonfinancial disclosure mandate. Our applications illustrate that our website‐based measure provides a useful complement to extant measures of disclosure, which are more narrowly focused on investors in public capital markets.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70007"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2021.0246</id>
-    <title>Sponsored Tasks and Solver Participation in Crowdsourcing Contests</title>
-    <updated>2025-08-22T00:00:00+00:00</updated>
-    <author>
-      <name>Jiahui Mo, Sumit Sarkar, Jianqing Chen</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Crowdsourcing platforms provide venues for firms looking for solutions (seekers) to interact with individuals who can provide solutions (solvers). As crowdsourcing contest platforms have grown in popularity, with numerous tasks being posted on a daily basis, a concern that has emerged is that many similar tasks compete for solver attention, with some tasks failing to attract sufficient solver participation. To alleviate this concern, in addition to regular task listings, many crowdsourcing platforms offer sponsorship programs under which seekers pay an extra fee for highlighting their tasks to draw solvers’ attention. We examine the effect of sponsorship on solver participation using a unique data set collected from a leading crowdsourcing platform. In contrast to platforms’ claims about the effect of sponsorship on participation, we find that sponsorship does not always boost participation in crowdsourcing contests; sponsorship increases the number of participants only when the task’s prize amount is already high. Furthermore, even when the number of participants increases, the increase comes primarily from low-ability solvers. We also find that when sponsorship increases the total number of submissions, it does so only by increasing the number of participants; sponsorship does not increase the number of submissions that individual solvers submit after joining a task. More granular analyses reveal an effect of anticipated increased competition caused by sponsorship on high-ability solvers that is not observed on those of low ability, explaining the difference in their participation decisions when facing sponsored tasks. We also find that the effect of sponsorship weakens over the duration of a task for high-ability solvers and is also weaker for solvers with more experience on the platform.History: Yong Tan, Senior Editor.Supplemental Material: The online appendix is available at https://doi.org/10.1287/isre.2021.0246 .</content>
-    <link href="https://doi.org/10.1287/isre.2021.0246"/>
-    <category term="Information Systems Research"/>
-    <published>2025-08-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70010</id>
     <title>No margin, no mission? How emergency medical service crews attend to competing financial and social goals on 9‐1‐1 calls</title>
@@ -161,6 +41,18 @@
     <link href="https://doi.org/10.1093/jcr/ucaf049"/>
     <category term="Journal of Consumer Research"/>
     <published>2025-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13276</id>
+    <title>Is There Fairness in AI?</title>
+    <updated>2025-08-24T00:00:00+00:00</updated>
+    <author>
+      <name>Elmira van den Broek, Anastasia Sergeeva, Marleen Huysman</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;As predictive artificial intelligence (AI) technologies increasingly steer workplace decisions, debates around fairness have intensified. Existing research often approaches fairness either as a set of universal principles supported or undermined by algorithms, or as a product of social interpretations, thereby providing either technologically deterministic or purely social accounts. Drawing on an ethnographic study of a human resources (HR) department of a large international company that introduced AI in hiring, this study offers an alternative view that shifts focus to how fairness emerges through the ways people define, embed, and perform values with algorithms. Taking a sociomaterial perspective, we find that the introduction and use of AI resulted in crowding out expert practices of performing fairness, favouring instead the version performed by HR. Our process model explains this outcome by the growing symbiosis between HR's professional mandate for fairness and AI procedures, where each legitimizes, shapes, and protects the other over time. This study thus shows that fairness is not pre‐given but constantly redefined and enacted through evolving associations between professional mandates and AI technologies.</content>
+    <link href="https://doi.org/10.1111/joms.13276"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-08-24T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/01492063251361787</id>
@@ -355,6 +247,30 @@
     <published>2025-08-25T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/joms.13270</id>
+    <title>The More, the Merrier? Membership Expansion and Incumbents' Boundary Work Divergence in the Platformization of Belgian Philanthropy</title>
+    <updated>2025-08-25T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Huybrechts, Elodie Dessy, Danielle Logue</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;When actors emerge on the periphery of a field, incumbents either engage in protective boundary work to enforce the field's membership criteria, or opt for membership expansion by adapting these criteria to accommodate peripheral actors. Less explored is the divergence configuration where a minority of incumbents pursue expansion whereas the majority adopt a protective strategy. Since the inclusion of peripheral actors may challenge membership criteria (i.e., the symbolic boundary) and shift the resource distribution and social hierarchy (i.e., the social boundary), how minority incumbents induce membership expansion against the majority's protective stance is an intriguing question. Drawing on a qualitative field‐level case study of Belgian philanthropy, we examine incumbent foundations' responses to the rise of ‘social‐mission platforms.’ We identify four mechanisms through which minority incumbents can overcome the majority's initial opposition and bring about support to membership expansion: affirming divergent expansive posture, leveraging definitional ambiguity, demonstrating comparative reinforcement, and facilitating shared buy‐in. We further show how each mechanism bridges the social and symbolic boundaries through the combined (re)actions of the diverging incumbents and the peripheral actors. Our findings extend understandings of membership expansion as a contested, multi‐actor process and unpack the interaction of social and symbolic boundaries in shaping field evolution.</content>
+    <link href="https://doi.org/10.1111/joms.13270"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-08-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13484</id>
+    <title>Pockets of Predictability: A Replication</title>
+    <updated>2025-08-25T00:00:00+00:00</updated>
+    <author>
+      <name>NUSRET CAKICI, CHRISTIAN FIEBERG, TOBIAS NEUMAIER, THORSTEN PODDIG, ADAM ZAREMBA</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Farmer, Schmidt, and Timmermann (FST) document time‐variation in market return predictability, identifying “pockets” of significant predictability through kernel regressions. However, our analysis reveals a critical discrepancy between the method outlined by FST and the code actually implemented. Instead of using a one‐sided kernel, which guarantees out‐of‐sample forecasts, they perform in‐sample estimation with a two‐sided kernel. As a result, future information leaks into the forecasting model, undermining its reliability. Rectifying this error qualitatively alters the findings, invalidating most conclusions of the FST study. Thus, attempts to exploit such “pockets”—should they exist—offer little help in forecasting market returns.</content>
+    <link href="https://doi.org/10.1111/jofi.13484"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-08-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/jcr/ucaf048</id>
     <title>Fairness Perceptions in Demographic Targeting</title>
     <updated>2025-08-25T00:00:00+00:00</updated>
@@ -427,6 +343,18 @@
     <published>2025-08-26T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/jofi.13483</id>
+    <title>Over‐the‐Counter Markets for Nonstandardized Assets</title>
+    <updated>2025-08-26T00:00:00+00:00</updated>
+    <author>
+      <name>YOSHIO NOZAWA, ANTON TSOY</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We study a search and bargaining model of over‐the‐counter markets for nonstandardized assets of heterogeneous quality. Once matched, investors privately learn their values positively correlated with asset quality. Bargaining results in delay that is hump‐shaped in quality and U‐shaped in asset turnover. We document these patterns in commercial real estate and corporate bonds markets. Extreme qualities are little affected by changes in asset standardization, while intermediate qualities are more susceptible. For nonstandardized assets, opacity ensures active trading of all assets, which explains why their trading is decentralized and suggests that trade centralization should come with greater standardization.</content>
+    <link href="https://doi.org/10.1111/jofi.13483"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-08-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/jcpy.70002</id>
     <title>Comments on “Single paper meta‐analysis is unavoidable”</title>
     <updated>2025-08-26T00:00:00+00:00</updated>
@@ -484,6 +412,30 @@
     <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;After medical marijuana legalization (MML) by U.S. states, firms’ cost of equity (COE) decreases, especially for those with more growth opportunities, higher productivity, or a more skilled workforce. This policy change also reduces firm risk and leads to an increase in labor supply through increased labor force participation, employment, hours worked, and net migration. Further, home prices rise after MML, reflecting increased local housing demand due to a growing supply of workers. These findings align with theoretical models that link asset prices to labor markets and suggest that MML can lower firms’ COE by mitigating labor search frictions.</content>
     <link href="https://doi.org/10.1017/s0022109025101750"/>
     <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2025-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13475</id>
+    <title>The Propagation of Cyberattacks through the Financial System: Evidence from an Actual Event</title>
+    <updated>2025-08-27T00:00:00+00:00</updated>
+    <author>
+      <name>ANTONIS KOTIDIS, STACEY L. SCHREFT</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;This article quantifies the effects of a multiday cyberattack that forced offline a technology service provider (TSP) to the banking sector. The attack impaired customers’ ability to send payments through the TSP, but the business continuity plans of banks and the TSP reduced the effect by more than half. Large banks performed better. Through contagion, banks not directly exposed to the attack experienced a liquidity shortfall, causing them to borrow funds or tap reserves. The ability to send payments after hours helped avoid further contagion. These results highlight the importance of preparedness by the private and official sector for cyberattacks.</content>
+    <link href="https://doi.org/10.1111/jofi.13475"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13486</id>
+    <title>The Credit Line Channel</title>
+    <updated>2025-08-27T00:00:00+00:00</updated>
+    <author>
+      <name>DANIEL L. GREENWALD, JOHN KRAINER, PASCAL PAUL</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Aggregate U.S. bank lending to firms expanded following the outbreak of COVID‐19. Using loan‐level supervisory data, we show that this expansion was driven by draws on credit lines by large firms. Banks that experienced larger credit line drawdowns restricted term lending more, crowding out credit to smaller firms, which reacted by reducing investment. A structural model calibrated to match our empirical results shows that while credit lines increase total bank credit in bad times, they redistribute credit from firms with high propensities to invest to firms with low propensities to invest, exacerbating the decrease in aggregate investment.</content>
+    <link href="https://doi.org/10.1111/jofi.13486"/>
+    <category term="The Journal of Finance"/>
     <published>2025-08-27T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -679,6 +631,18 @@
     <published>2025-08-29T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/joms.13279</id>
+    <title>The Power of Posting: An Examination of &lt;scp&gt;CEO&lt;/scp&gt; Social Media Celebrity</title>
+    <updated>2025-08-29T00:00:00+00:00</updated>
+    <author>
+      <name>Ann Mooney, Ruixiang Song, Yangyang Zhang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;The increasing prevalence of social media has prompted discussions regarding its impact on the social evaluations of organizational leaders. In this study, we develop the construct of CEO social media celebrity, which arises when a CEO obtains high levels of attention and positive emotional responses from audiences on social media. Building upon parasocial interaction theory, we examine how a CEO's posting influences their likelihood of becoming a social media celebrity. Analyzing 320 S&amp;P 1500 CEOs on X (formerly Twitter) from 2009 to 2021, who posted over 250,000 times and attracted 1.6 mentions from social media users, we find that the volume, positivity, and variety of CEO posts relate positively to CEO social media celebrity attainment, while the uniqueness of their posts shows no such effect. Additionally, we find evidence suggesting that the nature of the CEO's social media posts relates differently to the two dimensions of CEO social media celebrity (i.e., larger audience attention and positive emotional reactions). We offer suggestions for future research to further enrich the understanding of social evaluations in an increasingly digital world and provide practical insights for CEOs seeking to boost their public profile using social media.</content>
+    <link href="https://doi.org/10.1111/joms.13279"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-08-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/restud/rdaf077</id>
     <title>Globalization and the Ladder of Development: Pushed to the top or Held at the Bottom?</title>
     <updated>2025-08-30T00:00:00+00:00</updated>
@@ -739,6 +703,18 @@
     <published>2025-08-31T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/jofi.13482</id>
+    <title>War Discourse and the Cross Section of Expected Stock Returns</title>
+    <updated>2025-09-12T13:50:40+00:00</updated>
+    <author>
+      <name>DAVID HIRSHLEIFER, DAT MAI, KUNTARA PUKTHUANTHONG</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;A war‐related factor model derived from textual analysis of media news reports explains the cross section of expected stock returns. Using a semisupervised topic model to extract discourse topics from 7,000,000New York Timesstories spanning 160 years, the war factor predicts the cross section of returns across test assets derived from both traditional and machine learning construction techniques, and spanning 138 anomalies. Our findings are consistent with assets that are good hedges for war risk receiving lower risk premia, or with assets that are more positively sensitive to war prospects being more overvalued. The return premium on the war factor is incremental to standard effects.</content>
+    <link href="https://doi.org/10.1111/jofi.13482"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-09-12T13:50:40+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/rfs/hhaf028</id>
     <title>Relative Performance Evaluation and Strategic Competition</title>
     <updated>2025-09-01T00:00:00+00:00</updated>
@@ -748,6 +724,198 @@
     <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We examine how relative performance evaluation (RPE) affects industry competition—a question relevant for corporate boards interested in incentivizing executives. Using U.S. airline data, we estimate a dynamic game of competition between heterogeneous firms in an oligopolistic market, with managers incentivized by RPE contracts. While RPE can induce a firm to compete more intensely by smoothing compensation, it also amplifies a firm’s cost efficiency relative to its peers and can weaken competition from inefficient firms. The first effect dominates in small markets and the second in median-sized markets. RPE has little effect in large, highly profitable markets.</content>
     <link href="https://doi.org/10.1093/rfs/hhaf028"/>
     <category term="The Review of Financial Studies"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17441</id>
+    <title>An Empirical Study of Strategic Opacity in Crowdsourced Evaluations</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Linli Xu, Qi Xie, Gordon Burtch</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Crowd-voting mechanisms are commonly used to implement scalable evaluations of crowdsourced creative submissions. Unfortunately, the use of crowd-voting also raises the potential for gaming and manipulation. Manipulation is problematic because (1) submitters’ motivation depends on their belief that the system is meritocratic, and (2) manipulated feedback may undermine learning, as submitters seek to learn from received evaluations and those of peers. In this work, we consider a design approach to addressing the issue, focusing on the notion of strategic opacity, i.e., purposefully obfuscating evaluation procedures. On the one hand, opacity may reduce the incentive and thus the prevalence of vote manipulation, and submitters may instead dedicate that time and effort to improving their submission quantity or quality. On the other hand, because opacity makes it difficult for submitters to discern the returns to legitimate effort, submitters may also reduce their submission effort or simply exit the market. We explored this tension via a multimethod study employing field experiments at 99designs and a controlled experiment on Amazon Mechanical Turk. We observed consistent results across all experiments: opacity leads to reductions in gaming in these crowdsourcing contests and significant increases in the allocation of effort toward legitimate vs. illegitimate activities, with no discernible influence on contest participation. We discuss boundary conditions and the implications for contest organizers and contest platform operators.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17441"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17430</id>
+    <title>Information Technology Firms and Revenue Stall, 1950-2015: Theory and Empirical Evidence</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Terence J. V. Saldanha, Sunil Mithas, Raveesh Mayya</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;A slowdown in revenue growth, referred to as revenue stall in this study, is a key concern for any firm. We examine how information technology-producing firms (i.e., IT firms) differ from non-IT firms in experiencing revenue stall and in benefiting from R&amp;D investments in terms of reduced revenue stall. We hypothesize that whereas IT firms experience more revenue stall than non-IT firms, R&amp;D investments reduce revenue stall to a greater extent in IT firms than in non-IT firms. Our empirical analyses of a longitudinal dataset of more than 1,400 large public firms in the United States from 1950 to 2015 broadly support our hypotheses. Consistent with the theoretical arguments underlying our hypotheses, we also find that IT firms experience higher competition, dynamism, and turbulence, and have higher intangible assets than non-IT firms.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17430"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/17121</id>
+    <title>Producing the “We” in High-Risk Online Activism: Identity Configurations in My Stealthy Freedom</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mahya Ostovar, Ulrike Schultze</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;The research on online social movements generally concludes that collective identity, i.e., the sense of we-ness that individual protesters in a movement share, is not only unattainable but also dispensable, even though it is considered a defining feature of traditional movements. In this paper, we explore one of the boundary conditions of these findings, namely the riskiness of protest practices. Analysing the high-risk social movement, My Stealthy Freedom (MySF), which contests compulsory hijab in Iran in a way that hybridizes online and offline protest practices, we show that a sense of collectiveness can be instantiated in online social movements, why it is critical to the success of high-risk activism, and how it is (re)produced. Comparing and contrasting three instantiations of MySF, each of which was enacted on a different social media platform, we develop a theoretical model of how feelings of collectiveness are enacted in high-risk online activism. In addition to providing guidance for online movements where collective identity is desirable, our study challenges prior research on online activism by theorizing the role of embodiment, affect, and the dialectic between activists’ personal and the movement’s collective identity.</content>
+    <link href="https://doi.org/10.25300/misq/2025/17121"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/18232</id>
+    <title>Find the Good. Seek the Unity: A Hidden Markov Model of Human-AI Delegation Dynamics</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Junming Liu, Wei Thoo Yue, Alvin Chung Man Leung, Xin Zhang</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;As AI becomes integral to enterprise decision-making, this study explores the collaborative dynamics between managers and AI systems, focusing on human willingness to delegate tasks to AI. Grounded in the “agentic” systems delegation framework and instance-based learning theory, we employed a hidden Markov model in a longitudinal study of the dynamic delegation decision-making process involving 875 store managers. We found that there is a potential polarization in managers’ delegation willingness, with managers who recognize the capability of AI exhibiting high delegation willingness and fostering increased collaboration with AI over time—in contrast to their counterparts who are inclined to reduce AI’s involvement. During human-AI interactions, managers’ continuous performance appraisal of AI shapes their dynamic delegation willingness, which in turn affects their assessment of AI capability. This process forms a delegation feedback loop that drives the dynamics of delegation behaviors. Our study indicates that managers with a high willingness to delegate tend to outperform their counterparts and offers valuable insights for human-AI collaborative intelligence in organizational settings.</content>
+    <link href="https://doi.org/10.25300/misq/2024/18232"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17767</id>
+    <title>The Complementor’s Dilemma: Navigating Growth Ambitions and the Dependency on Focal Actors in Platform Ecosystems</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Shiyuan Liu, Ola Henfridsson, Jochem T. Hummel, Joe Nandhakumar</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;The literature on platform ecosystems increasingly recognizes that nonfocal actors such as complementors may have growth ambitions. Such ambitions, if successfully advanced, may even elevate the complementor’s position in the platform ecosystem to that of a focal actor. However, transitioning from nonfocal actor to focal actor is challenging. Along the way, the nonfocal actor may need to choose between the seemingly unfavorable alternatives of acting on its growth ambitions—risking losing the focal actors’ support needed for that growth—or relinquishing its ambitions to ensure the support of the focal actors continues. Referring to this phenomenon as the complementor’s dilemma, we unpack the process whereby a nonfocal actor can pursue growth ambitions while successfully managing relationships with the focal platforms in the ecosystem. To address this research problem, we conducted an in-depth, embedded case study of a Chinese short-form video platform, Douyin (known as TikTok outside of China), from its inception as a complement in 2016 to its establishment as a focal actor in 2018. During this two-year period, Douyin grew spectacularly from 0.75 million to 208.28 million users. We examined the process through which Douyin navigated the complementor’s dilemma multiple times within the confines of its dependency on Weibo and WeChat, the focal actors in China’s social network platform ecosystem. We contribute to the platform ecosystem literature by offering a process perspective that conceptualizes the complementor’s dilemma and theorizes how to navigate the dilemma when transitioning from a nonfocal actor to a focal actor in a platform ecosystem.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17767"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17758</id>
+    <title>Mobile Advertising in Distracted Environments: Exploring the Impact of Distractions on Dual-Task Interference</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Siddharth Bhattacharya, Heather Kennedy, Vinod Venkatraman, Sunil Wattal</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;It is increasingly common for consumers to engage with various tasks on their personal devices amid other distractions such as watching television at home, shopping at malls, or attending concerts. While this split in attention poses challenges, it also opens valuable opportunities for advertisers to strategically push targeted advertisements based on information about the user’s environment. Across a series of controlled lab experiments using a custom app developed for this study, we demonstrate how marketers can optimize pop-up advertising on consumers’ personal devices within distraction-filled environments. In doing so, we extend traditional insights from dual-task interference studies that have previously focused on corresponding tasks in isolation, without considering any stimuli from the environment. Our results indicate that, in the presence of additional stimuli from the environment, a facilitating relationship exists between the attention paid to a task and the effectiveness of pop-up advertisements interrupting the task. However, this relationship is moderated by the extent of attention diffusion from the environment. As the distance between the task and the environment increases, consumer attention to the task is more diffused, resulting in poorer encoding of the pop-up advertisements. Critically, optimizing the content and timing of pop-up advertisements to the environmental content can significantly improve their effectiveness. Our results have important implications for helping marketers develop actionable strategies for mobile advertising in distraction-filled environments.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17758"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/18573</id>
+    <title>Automating in High-Expertise, Low-Label Environments: Evidence-Based Medicine by Expert-Augmented Few-Shot Learning</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Rong Liu, Jingjing Li, Marko Zivkovic, Ahmed Abbasi</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Many real-world process automation environments are rife with high-expertise and limited labeled data. We propose a computational design science artifact to automate systematic review (SR) in such an environment. SR is a manual process that collects and synthesizes data from medical literature to inform medical decisions and improve clinical practice. Existing machine learning solutions for SR automation suffer from a lack of labeled data and a misrepresentation of the high-expertise manual process. Motivated by humans’ impressive capability to learn from limited examples, we propose a principled and generalizable few-shot learning framework—FastSR—to automate the multistep, expertise-intensive SR process using minimal training data. Informed by SR experts’ annotation logic, FastSR extends the traditional few-shot learning framework by including (1) various representations to account for diverse SR knowledge, (2) attention mechanisms to reflect semantic correspondence of medical text fragments, and (3) shared representations to jointly learn interrelated tasks (i.e., sentence classification and sequence tagging). We instantiated and evaluated FastSR on three test beds: full-text articles from Wilson disease (WD) and COVID-19, as well as a public dataset (EBM-NLP) containing clinical trial abstracts on a wide range of diseases. Our experiments demonstrate that FastSR significantly outperforms several benchmarking solutions and expedites the SR project by up to 65%. We critically examine the SR outcomes and practical advantages of FastSR compared to other ML and manual SR solutions and propose a new FastSR-augmented protocol. Overall, our multifaceted evaluation quantitatively and qualitatively underscores the efficacy and applicability of FastSR in expediting SR. Our results have important implications for designing computational artifacts for automating/augmenting processes in high-expertise, low-label environments.</content>
+    <link href="https://doi.org/10.25300/misq/2024/18573"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17469</id>
+    <title>The Interplay Between Healthcare Information Technologies and Denied Claims</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sezgin Ayabakan, Hilal Atasoy, Min-Seok Pang</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;This study investigates the role of health information technology (HIT) in reducing claim denials, which are a significant burden for healthcare providers in the U.S. We theorize the impacts of electronic health records (EHRs) on claim denials, starting with an examination of EHR adoption and followed by a deeper assessment of how EHRs are sourced both within a hospital and across hospitals in the same health system. We propose that while EHR adoption reduces the likelihood of claim denials by improving the accuracy and completeness of information processing, it can also increase claim denials if EHR applications are sourced from multiple vendors within a hospital or different vendors across hospitals. Using a large-scale dataset of claim records from the state of Maryland from 2012-2016, we found that the greater the EHR adoption by care providers, the less likely a claim is denied. In addition, our findings suggest that EHRs are more effective in preventing denials when a hospital sources EHR applications from a single vendor and when a group of hospitals in the same health system sources EHRs from the same vendor. Additionally, we observed a decrease in claim denials when physicians previously worked in hospitals utilizing EHR applications from the same vendor. This study provides significant theoretical insights into the information systems literature on HIT and offers practical implications for healthcare providers by uncovering the multifaceted roles of EHRs in information processing and compliance.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17469"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/18509</id>
+    <title>Does Ransomware Make Investors “WannaCry”? On Investors’ Divergent Reactions to Ransomware Hits and Near Misses</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sebastian W. Schuetz, Yan Chen, Jens Forderer, Yusi Ma</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;In recent years, ransomware has become one of the most dangerous cyber threats, with successful attacks causing severe operational disruptions and staggering damages. Rationally speaking, investors should react negatively to firms’ ransomware disclosures, but this may not always be the case. Based on norm theory, we describe a paradoxical phenomenon wherein investors exhibit negative reactions to ransomware hits (i.e., events that led to operational disruptions) but positive reactions to near misses (i.e., events in which operational disruptions were narrowly avoided). The positive reactions occur due to an outcome bias in which near-miss events—events that are objectively negative but less severe than expected—are viewed positively instead of negatively. We tested these predictions by reporting on an investigation of stock market reactions to disclosures of ransomware hits vs. near misses. To do so, we assembled a comprehensive dataset of ransomware incidents disclosed by U.S. public firms. Using the event study method, we estimated abnormal stock market returns and found evidence in support of our predictions. First, in line with expectations, ransomware hits that led to the expected severe impact resulted in stock price drops of -4.40%. However, near misses, where disruptions were avoided, were rewarded with gains of 2.87%, confirming positive instead of negative reactions. This offers new insights into investors’ biased responses to certain cybersecurity incidents. These positive reactions, however, represent a call for caution because, albeit seemingly favorable, they mask underlying risks.</content>
+    <link href="https://doi.org/10.25300/misq/2024/18509"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18678</id>
+    <title>Do Digital Platforms Improve the Performance of Nonbinding Contracts? Evidence From the Amazon Freight Platform</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ali S. Babakan, He Li, William J. Kettinger</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;This research examines how digital platforms influence the performance of nonbinding contracts. Businesses in many industries with high uncertainty, such as trucking freight and construction, simultaneously use nonbinding contracts, which impose no legal sanctions for refusals, and spot markets, which facilitate real-time, flexible transactions with market-determined prices. Understanding the conditions under which nonbinding contracts perform is a major concern in these industries. Leveraging the entry of the Amazon Freight platform in the trucking freight industry, we demonstrate that adding a digital platform-enabled spot marketplace improves the performance of nonbinding contracts. We identified several mechanisms driving this effect: (1) expanding carriers’ transportation capacity, (2) lowering spot market prices, and (3) reducing shippers’ reliance on nonbinding contracts for shorter-haul truckloads. Moreover, the digital platform’s impact on enhancing nonbinding contract performance is particularly pronounced in markets with volatile demand and shorter hauls. This research contributes to understanding the impacts of digital platforms in highly uncertain industries that simultaneously use nonbinding contracts and spot markets. Our findings provide implications to policymakers and business managers on leveraging digital platforms to improve operational efficiency in highly uncertain industries.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18678"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18944</id>
+    <title>Augmented Reality at Work: Attention Management and Its Impact on Work Performance</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Runge Zhu, Cheng Yi, Ting Li</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Augmented reality (AR) is rapidly emerging as a transformative display technology, blending computer-generated content with the real-world environment in real time. Using divided attention theory, this study investigates how different information delivery channels (i.e., AR vs. mobile phone) and the nature of information (i.e., dependence on specific physical context and complexity) affect work performance. A field experiment in the aircraft maintenance context demonstrates that the effect on work performance of providing information via AR vs. a mobile phone is mediated by work attentiveness. The findings reveal that the effectiveness of AR is particularly pronounced when information is highly dependent on the specific physical context but diminishes when information complexity is high. This research deepens our understanding of how presenting information directly in front of users’ eyes (i.e., via AR) affects their attention management and work performance. The findings have significant implications for firms in terms of how to leverage AR to enhance work performance in industrial settings.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18944"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18765</id>
+    <title>Organizing for AI Innovation: Insights From an Empirical Exploration of U.S. Patents</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yu-Kai Lin, Likoebe M. Maruping</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Although the prevalence of artificial intelligence (AI) innovations is on the rise, firms frequently report failures and setbacks in their development and implementation of AI innovation efforts. One common issue behind many failing AI initiatives is that they are organized just like other information technology (IT) innovation efforts. To elucidate why and how the production of AI and IT innovations may need to be managed differently, this study juxtaposes these two types of innovations based on two key dimensions of the Schumpeterian framework: the form (product vs. process) and magnitude (radical vs. incremental) of innovations. By analyzing a matched sample of AI and IT patents, we found robust evidence that AI innovations are less radical and more process oriented than comparable IT innovations. Drawing upon our empirical discovery, we developed a conceptual framework to suggest a new way to think about organizing AI innovation. Our research contributes to the literature and practice on AI innovation by illuminating the comparative differences between AI innovations and other IT innovations and advancing a set of empirically derived propositions on how firms may be able to better manage their AI innovation activities.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18765"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/493e1</id>
+    <title>Editor’s Comments</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Heshan Sun, Wen Wen, Jason Bennett Thatcher, Michael Chau, Susan Brown</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;This editorial is inspired by a growing concern within the information systems (IS) community that novelty has become a dominant criterion for publication, despite being unevenly interpreted and poorly specified. In our editorial experience, when authors are told that their papers lack novelty, they often receive little concrete guidance on what precisely counts as novelty, how it varies across paradigms, or how it should be balanced with rigor and relevance.</content>
+    <link href="https://doi.org/10.25300/misq/2025/493e1"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17542</id>
+    <title>Fake News and True News Assessment: The Persuasive Effect of Discursive Evidence in Judging Veracity</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Abayomi Baiyere, Jan M. Bauer, Ioanna Constantiou, Daniel Hardt</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Individuals are often unable to assess the veracity of news claims—especially on social media platforms. Recent research has suggested that interventions indicating normative signals, such as flagging false claims, are not always effective. We propose an approach in which users are provided with discursive evidence to consider in determining the veracity of claims rather than depending on normative true or false flags. We conducted a series of experiments to explore the effects of different forms of discursive evidence on individual judgments of the veracity of news claims. We found that providing such evidence can significantly improve individuals’ judgment of both true and false news claims—with certain caveats. Providing discursive evidence with high evidence strength leads to a general increase in veracity judgment. Discursive evidence containing items with lower evidence strength may shift believability— thus improving judgments for either true or false claims but degrading them for the other. We also identify important asymmetries between true and false claims, finding that the effect of some evidence may be improved if people are in a more critical mindset—for example, by priming them to think about the concept of truth and lies. Taken together, these results extend knowledge on the problem of fake news and may suggest effective approaches to address the problem without diminishing attention to true news.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17542"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/18172</id>
+    <title>Engaging Physicians with Introductory Incentives: References to Online and Offline Income</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaofei Zhang, Karen Xie, Bin Gu, Xitong Guo</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Incentives make or break user contributions. While providing introductory incentives to attract new users has become increasingly popular among online communities, their impact on user contributions remains largely unknown. Utilizing a policy change that doubled the incentives paid to physicians in a leading online health community, we examined the impacts of both the initiation and the termination of such introductory incentives on physician contributions (in terms of patient consultations) and how the impacts varied according to the physician’s online and offline income. We found that despite an increase in physician contributions during the policy window, the introductory incentives unintentionally decreased physician contributions after the policy window ended. Additionally, physicians tended to anchor their contributions using their online rather than offline income as a reference point, suggesting that mental accounting was at play. Our findings provide a cautionary perspective on the unintended consequences of using introductory incentives and reveal the associated mechanisms of mental accounting when users make contributions (or not) to online communities. These findings provide important implications for incentive design and user engagement in online communities.</content>
+    <link href="https://doi.org/10.25300/misq/2024/18172"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/18527</id>
+    <title>Dancing to the #Challenge: The Effect of TikTok on Closing the Artist Gender Gap in the Music Industry</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yifei Wang, Jui Ramaprasad, Anandasivam Gopal</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;This study investigates how “Hashtag Dance Challenges” (HDCs), a phenomenon popularized on the short-video platform TikTok, are instrumental in helping music artists gain traction in the digital music marketplace. HDCs represent an appealing combination of music and dance, designed to engage users and achieve virality, thereby benefiting artists whose music is featured. This research focuses on how HDCs contribute to the success of women artists, as compared to men, in an industry known for its diversity but challenged by gender inclusivity. We apply role congruity theory to posit that women artists are in a better position to derive benefits from being featured on HDCs, relative to male artists, particularly in cases of gender concordance—when both the creator and the artist are women. We measure the benefits of HDCs using daily changes in the artist’s followership on Spotify, a leading music streaming service, and test our hypotheses using song and artist-level data collected from Spotify and TikTok. We found that artists featured in a new HDC achieve a significant increase in followership on Spotify, relative to similar artists not featured in an HDC. Further, we observed that women creators drive this effect, enhancing the daily growth of Spotify followers by approximately 3% more for women artists, underscoring the value of gender concordance. Our findings shed light on the role of short videos, especially through the vehicle of HDCs, in advancing women artists, while also promoting inclusivity within the digital music industry.</content>
+    <link href="https://doi.org/10.25300/misq/2024/18527"/>
+    <category term="MIS Quarterly"/>
     <published>2025-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -907,6 +1075,330 @@
     <published>2025-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/rfs/hhaf064</id>
+    <title>Fragility of Safe Asset Markets</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas M Eisenbach, Gregory Phelan</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;In March 2020, safe asset markets experienced surprising and unprecedented price crashes. We explain how strategic investor behavior can create such market fragility in a model with investors valuing safety, investors valuing liquidity, and constrained dealers. While safety investors and liquidity investors can form a symbiotic relationship with offsetting trades during times of stress, strategic interactions among liquidity investors harbor the potential for self-fulfilling fragility. When the market is fragile, standard flight-to-safety can have a destabilizing effect and trigger a “dash-for-cash” by liquidity investors. Well-designed policy interventions can reduce market fragility ex ante and restore orderly functioning ex post.</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf064"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhaf070</id>
+    <title>The Persistence of Miscalibration</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Michael Boutros, Itzhak Ben-David, John R Graham, Campbell R Harvey, John Payne</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We analyze a panel of over 28,400 S&amp;P 500 return forecasts by CFOs to examine whether the extent of CFOs’ miscalibration—providing forecast confidence intervals that are too narrow—decreases over time. We find no improvement with task repetition or evidence of learning, that is, no improvement in response to past performance. Across CFOs, miscalibration appears to be a persistent personal trait. We find some evidence that the degree of miscalibration is related to birth cohort and stock market familiarity. (JEL G41, G30, D22, D83, D84)</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf070"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1007/s11142-025-09911-6</id>
+    <title>Moving toward consensus: an examination of trends in investment fair values</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Chris E. Hogan, Sarah E. Stein, Sarah B. Stuber</name>
+    </author>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;A primary argument against fair value measurement is the lack of verifiability, where verifiability is defined as consensus in measurement by independent parties. We evaluate this argument by investigating trends in the consensus of reported fair values. Our findings indicate that consensus increased between 2005 and 2019, as evidenced by reductions in the fair value range and standard deviation. Further analyses suggest that enhanced data availability—driven by public dissemination of trade information—serves as a mechanism for this trend. We also document that securities subject to testing by larger external auditors with more resources to take advantage of enhanced data availability are associated with a stronger trend in increasing consensus. Finally, this trend appears to be stronger in situations when management has a heightened opportunity to record a biased estimate. While conventional arguments express concern over management’s ability to manipulate fair values, our results demonstrate patterns consistent with improved verifiability.</content>
+    <link href="https://doi.org/10.1007/s11142-025-09911-6"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251381902</id>
+    <title>EXPRESS: When Are More Information Details Less Useful? A Comparison of Product Contextualization in Customer Images and Review Texts</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Yang Wang, Youngeui Kim, Abhijeet Ghoshal</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Product reviews, a type of user-generated content (UGC), are found to affect sales; however, their impact on product returns has not been fully explored. Research has revealed that inflated ratings and catchy product images may increase returns, which spells trouble for sellers. To address the issue, we examine howproduct contextualizationin user-posted images and review texts helps online shoppers assess a product’sfunctionalityandaestheticsand, in turn, reduce returns. Using the archival data from an online outdoor gear and clothing retailer, we reveal that contextual cues in UGC help decrease product returns. When comparing the roles of image with text, we explore distinct mechanisms for shoppers’ utilization of contextual cues to assess each type of product feature. For functionality, the level of detail in writing suggests that contextual information for these attributes (e.g., the warmth, stretchability, and water-resistance of a jacket) is likely better delineated in text than image since many of them are measurable (e.g., temperature), can be depicted in subtleties (e.g., running vs. jogging), and, sometimes, on a time dimension (e.g., a two-hour rain). As a result, shoppers’ product evaluation and return decisions are more likely to be influenced by such content. However, our data analysis shows the opposite. Although shoppers perceive verbal contextual cues for these product features as more accurate, detailed, and sufficient, they prefer to use images to assess such attributes because the cost of processing visual information is lower. Regarding aesthetics, since buyers often adopt a sensory-based strategy to evaluate these features (e.g., the design of a shirt), images are likely to be a preferred choice. We find evidence for this argument. Yet, when a product’s aesthetics are closely tied to its geometric fit (e.g., sleeve length), contextual cues in the text have a stronger effect on returns. We offer business insights on leveraging UGC to enhance operating cost management by reducing product returns.</content>
+    <link href="https://doi.org/10.1177/10591478251381902"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251381899</id>
+    <title>EXPRESS: Targeted Automation and Sustaining Human-AI Learning</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Christina Imdahl, William Schmidt, Kai Hoberg</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In many decision processes, a decision maker or planner must review and optionally adjust the recommendations that are generated by a decision support system (DSS). When the DSS is well-tuned to its task, adjustments by a planner can be rare and may even degrade the DSS’s performance. Targeted automation could address these inefficiencies by predicting whether a planner will adjust a recommendation and improve the performance of the system. The remaining recommendations can be automated. However, as more recommendations are automated, fewer will receive planner input. This may starve the prediction model of the observations it needs for retraining. To maintain predictive performance, we must therefore address the loss that automation imposes on the model’s ability to learn from a planner’s decisions over time. Using four years of procurement ordering data from our research partner, a large materials handling equipment manufacturer, we develop and train a series of machine learning classifiers that predict individual instances in which a planner will improve a DSS-generated procurement order decision. We mitigate the performance erosion that automation engenders by structuring the selection of the model’s classification threshold similar to a newsvendor problem, accounting for the value of learning and balancing the costs and benefits of under or over automating. In our setting, this approach automates around 84% of all DSS recommendations while retaining three times more planner improvements than random automation. The models maintain their predictive performance over time, despite losing automated outcomes for retraining and substantial dataset shift. Our research contributes to a broader debate on the allocation of decision authority between humans and algorithms, and creates a framework for targeted automation in an operational setting that balances the net benefits of automation versus the long-term benefits of algorithmic learning.</content>
+    <link href="https://doi.org/10.1177/10591478251381899"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2022.16189</id>
+    <title>Inventor Commingling and Innovation in Technology Start-up Acquisitions</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Qingqing Chen, David H. Hsu, David Zvilichovsky</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;We explore a form of postacquisition integration by which inventors from the target and acquiring organizations share and integrate technological and organizational knowledge, performing joint research and development. We refer to this phenomenon as inventor commingling. Grounded in the knowledge-based view, we posit that commingling enhances the target firm’s innovation performance by enabling the transfer of the acquirer’s organizational knowledge, preserving the target’s existing knowledge base. We explore how commingling differs from structural integration and how the two forms of integration can be combined for postacquisition management. We posit that commingling diminishes the negative effects of structural integration, whereas structural integration may enhance the efficacy of commingling. Because organizational knowledge is firm-specific and cumulative, commingling efficacy should increase with acquirer commingling inventors’ tenure. To test these predictions, we assemble a large sample of acquisitions to study the effect of these forms of postacquisition integration on acquired entity innovation outcomes. Our results support a positive commingling innovation effect, which is more pronounced under structural integration. A high degree of commingling can mitigate the negative effects of postacquisition structural integration documented in the literature. We use direct flights between the acquisition party locations as an instrument to address the potentially endogenous process of inventor commingling. We find consistent results. Our study raises the possibility of inventor commingling as a distinct form of postacquisition integration, which holds the potential of effectively transferring organizational knowledge and supporting postacquisition innovation output, sidestepping the classic postacquisition integration–autonomy trade-off.Funding: This work was supported by Henry Crown Institute of Business Research at Tel-Aviv University; Mack Institute for Innovation Management at Wharton; Wharton Global Initiatives Research Funding Program.</content>
+    <link href="https://doi.org/10.1287/orsc.2022.16189"/>
+    <category term="Organization Science"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2023.18429</id>
+    <title>Seeing Both Sides: How Shared Experience Can Improve Entrepreneur Evaluations of Investors Through Perceived Empathy</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Dana Kanze</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Scholarly attention in the venture funding literature is primarily devoted to tie selection, with a great deal of that attention focused on the perspective of the investor evaluating the entrepreneur as a candidate for funding. But venture funding can be conceptualized as a long-term, dual-sided matching process. Two mixed methods studies offer support for a specific basis of background similarity that can influence entrepreneur evaluations of investor tie potential: shared entrepreneurial experience. An archival study of 677 entrepreneurs evaluating 408 investors demonstrates that investors with entrepreneurial experience are more likely to be perceived as empathetic than investors without this experience. In turn, entrepreneurs rate investors whom they perceive to be empathetic more favorably than those they do not perceive to be empathetic. Perceived empathy thus emerges as a mechanism that serves to mediate the positive relationship between shared entrepreneurial experience and entrepreneur ratings of investors. A preregistered between-subjects experiment conducted on 481 entrepreneurs exposed to otherwise comparable investor profiles randomized for experience complements the correlational evidence from the archival study with causal support for each of these paths. Shedding light on the key components of perceived empathy, linguistic analyses indicate the extent to which cognitive perspective taking (understanding how the entrepreneur thinks) and affective perspective taking (understanding how the entrepreneur feels) mediate the effect. Gender implications are discussed as this work also documents that women are less likely to traverse the path from entrepreneurship into investing, restricting their ability to reap these relational upsides.Funding: This research was supported by faculty budgets at London Business School and Georgetown University.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2023.18429 .</content>
+    <link href="https://doi.org/10.1287/orsc.2023.18429"/>
+    <category term="Organization Science"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2020.01995</id>
+    <title>Round Number Preferences and Left-Digit Bias: Evidence from Credit Card Repayments</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Hiroaki Sakaguchi, John Gathergood, Neil Stewart</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine round number preferences and left-digit bias in credit card repayments. We show half of all manual credit card payments are at a small set of round-number values, although all values between the statement minimum and balance were permissible. We use minimum payments, which place a floor on the payment value, to measure the strength of rounding behavior in a natural experiment. We find that when the minimum payment level just rules out a round number from the bottom of the range of possible repayment (e.g., a minimum payment of £50.01 just rules out a payment of £50.00), payments at the next round number jump by 15%–20% (e.g., payments at £60.00). That is, in response to a smooth increase in minimum payments, the selected payments jump up a ladder of round numbers when each lower rung is removed. We also see a classic—although nuanced—left digit bias. When the balance increases such that the left digit changes (e.g., from £1,999 to £2,000), payments in full drop by 3%–8% as if an increase in the left digit makes the balance seem much larger. But average repayments increase by 10%–15%, as smaller partial repayments are all dragged up the ladder rungs. This preference for a small set of round numbers as payment values and this effect of left digit bias on the level of repayment have policy implications. Rounding could be used by policy makers to encourage faster paydown of credit card debt, using one-click “rounds-ups,” defaults, or shrouding. These policy options could deliver interest savings of up to 40%.This paper was accepted by Yuval Rottenstreich, behavioral economics and decision analysis.Funding: This work was supported by the Economic and Social Research Council [Grants ES/K002201/1, ES/N018192/1, ES/P008976/1, and ES/V004867/1] and the Leverhulme [Grant RP2012-V-022]. H. Sakaguchi acknowledges PhD studentship funding from the Economic and Social Research Council [Award 1499648].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2020.01995 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2020.01995"/>
+    <category term="Management Science"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.03174</id>
+    <title>Does Trading Spur Specialization? Evidence from Patenting</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Pengfei Han, Chunrui Liu, Xuan Tian</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study how the market for technology (facilitated by the establishment of patent exchanges in China) affects innovation specialization. We find that the market for technology induces (i) specialization between patent buyers and sellers, (ii) specialization between patent licensors and licensees, and (iii) specialization based on a firm’s research and development efficiency. All these three specialization patterns indicate that the market for technology promotes comparative advantage–based innovation specialization. Firms with a comparative advantage in creating innovation redirect their resources toward producing patents, whereas firms with a comparative advantage in commercializing innovation switch their effort toward launching new products. A firm also shrinks its scope of innovation and invents in technological fields with greater proximity. Financial friction hampers innovation specialization and relieving trading friction in the market for technology mitigates such negative consequences.This paper was accepted by Lin William Cong, finance.Funding: P. Han acknowledges financial support from the China’s Natural Science Foundation [Grant 72103003]. C. Liu acknowledges financial support from the China’s Natural Science Foundation [Grant 72202034]. X. Tian acknowledges financial support from the China’s Natural Science Foundation [Grant 72425002].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03174 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.03174"/>
+    <category term="Management Science"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04047</id>
+    <title>The Labor Market Consequences of Student Loan Forbearance</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Naser Hamdi, Ankit Kalda, David Sovich</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the effects of student loan forbearance on job search outcomes. Our experimental setting is the 2020 federal student loan moratorium that provided some borrowers with forbearance by pausing the payments on their student loans. We use data on unemployment insurance claims, payroll records, and credit histories to compare unemployed borrowers who received forbearance to unemployed borrowers who had to continue making payments. We find that the payment pause did not have any economically or statistically significant effects on job search durations or subsequent incomes. Further, we find no heterogeneity in these effects across borrowers’ financial, demographic, or labor market characteristics.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04047 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04047"/>
+    <category term="Management Science"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.03748</id>
+    <title>The Usefulness and Limited Supply of Disclosure Accessibility</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Qi Chen, Carlos Corona, Yun Zhang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Firm disclosures are mostly unstructured and textual, imposing substantial processing costs on investors. We examine firms’ incentives to enhance the accessibility of these disclosures by expending resources to make them easier for investors to process. We show that an equilibrium with a positive supply of accessibility can be difficult to sustain—even though investors view accessibility as a favorable signal of firm productivity. We further explore how the supply of accessibility interacts with the quality of the numerical (easier-to-analyze) signals and textual (harder-to-analyze) disclosures. Our analysis generates predictions consistent with empirical evidence and offers a framework for evaluating policy initiatives and accounting standards aimed at improving accessibility.This paper was accepted by Ranjani Krishnan, accounting.</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03748"/>
+    <category term="Management Science"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437251381805</id>
+    <title>EXPRESS: Multi-Homing Alliances and Price Competition</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Abhinav Uppal, Nanda Kumar, Manish Gangwar</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;The OTT subscription video streaming industry has witnessed significant growth and heightened competition in recent years, marked by the influx of new players. At the same time, we are observing an interesting phenomenon where competing services are forming new alliances that facilitate consumer multi-homing. For instance, Amazon Prime Video has partnered with services, such as (HBO) MAX and Paramount+, to enhance the combined viewing experience for consumers through seamless integration. We build a game-theoretic model with horizontally differentiated services to examine how an alliance facilitating multi-homing between two competing services affects price competition in the market. We find that the alliance’s impact on price competition depends on the level of content differentiation in the market – competition intensifies when differentiation is high but relaxes when differentiation is low. The alliance benefits the partnering services as long as the differentiation is not too high, and interestingly, may increase the profitability of a third non-partnering service when differentiation is sufficiently low. We show that consumer surplus increases under the alliance, even if price competition is relaxed. We also investigate a focal service’s decision to partner with one of two competing services and show that it prefers partnering with a service that has high quality content but a smaller loyal base. Our research offers insights into the current landscape of the OTT video streaming market and provides implications for both managers and policymakers.</content>
+    <link href="https://doi.org/10.1177/00222437251381805"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437251381209</id>
+    <title>EXPRESS: The Pick-the-Winner-Picker Heuristic: Preference for Categorically Correct Forecasts</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Jay Naborn, Jonathan E. Bogard</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;People routinely make decisions based on predictions made by others (e.g., political pundits, market analysts), so it is in their best interest to identify high-quality forecasts. Experts characterize good forecasting as minimization of continuous error (i.e., predictions close to the eventual outcome). By contrast, the present work reveals that laypeople typically see good forecasts as those that correctly predict an event’s categorical outcome (e.g., the winning team). Using within-subjects, between-subjects, and incentive-compatible designs, fifteen studies demonstrate this “pick-the-winner-picker heuristic” as well as its psychological mechanism: People evaluate forecasts by assigning separate weights to (a) categorical correctness and (b) continuous error minimization, depending on the overall importance of the categorical and continuous dimensions for that situation. Thus, in the common case when the categorical dimension matters most (e.g., sports contests), people prize forecasts that accurately predicted the categorical outcome (e.g., the winner, not the margin of victory). However, when the categorical dimension’s stakes are experimentally reduced, an attenuation is observed. While this describes how people typically evaluate forecasts, crucially, a dimension’s importance is not necessarily related to its diagnosticity of forecaster skill or reliability. Accordingly, the pick-the-winner-picker heuristic may constitute a normative mistake, while framing manipulations help debias judgments.</content>
+    <link href="https://doi.org/10.1177/00222437251381209"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13281</id>
+    <title>Routine Dynamics at a Cardiac First‐Aid Unit: How Context, Emotions, and Identities Drive the Adaptation of Action Patterns</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Emre Karali, Jatinder S. Sidhu, Gerardo Patriotta, Henk W. Volberda</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Emotions are a catalyst for actions. They are therefore important for developing an understanding of organizational routines as generative patterns of interdependent actions. To investigate how the performances and action patterns of routines are impacted by emotion changes brought about by alterations in the context of routine enactment, we conducted an ethnographic inquiry centring on a diagnostic routine at a hospital's cardiac first‐aid unit. Our findings show that context changes from off‐peak to peak times and vice versa engendered differences in the emotions of doctors and nurses because of, respectively, conformity and non‐conformity between their salient identities and their situated experiences. This triggered actions that produced variation in routine performances and action patterns. Drawing on our findings, we present a grounded model that theorizes two complementary emotions and identity‐linked mechanisms that explain variety and stability in action patterns. We discuss the theoretical contributions and implications of our model and findings for research on routine dynamics.</content>
+    <link href="https://doi.org/10.1111/joms.13281"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13272</id>
+    <title>The Inclusionary Effects of Performing Work: A Practice‐Theoretical Study of Airport Security Work</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Laura Dobusch, Dide van Eck, Maddy Janssens, Marieke van den Brink</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;In contrast to inclusion research that often treats work as a neutral, passive background, this study theorizes the active role of work in producing an inclusive organization. We adopt a practice‐theoretical approach that examines the accomplishment of work activities through their discourses, embodiment, and material arrangements, critically analysing both their inclusionary and exclusionary effects. Through an ethnographic study of an airport security company, we found that performing work along the ends of safety and hospitality played a crucial role in the local, situated formation of a collective of employees, recognition of individual contribution, and emergence of egalitarian relationships among security agents. Building on these findings, we discuss how the enactment of work‐related ends can serve as a key place for inclusion interventions, highlighting the concept of ‘horizon of intelligible actions’ as a central explanation. Furthermore, we emphasize how the interconnectedness – the nexus – of work activities as well as material arrangements are crucial in reinforcing or undermining inclusionary and exclusionary effects.</content>
+    <link href="https://doi.org/10.1111/joms.13272"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.1462</id>
+    <title>Single paper meta‐analysis is unavoidable</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Blakeley B. McShane, Ulf Böckenholt</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;We advocate that the multiple studies of a common phenomenon that are featured in a typical behavioral research paper be jointly analyzed to provide a statistical summary of the set of studies as a whole. Indeed, we view such single paper meta‐analysis as unavoidable in typical behavioral research papers because (i) such papers feature multiple studies of a common phenomenon, (ii) such papers contain summaries of those studies, and (iii) statistical summaries of studies (i.e., meta‐analyses) are superior to non‐statistical summaries of them. Nonetheless, the current dominant practice is for such papers to feature separate statistical analyses of the data from each of the studies but to contain a non‐statistical summary of the multiple studies rather than a statistical summary. We believe that this is regrettable and therefore aim to rectify matters. Consequently, we review some considerations about meta‐analysis and statistical analysis more broadly; compare single paper meta‐analysis to traditional meta‐analysis and illustrate its benefits via a case study; discuss and dismiss concern about single paper meta‐analysis; and discuss single paper meta‐analysis and the review process.</content>
+    <link href="https://doi.org/10.1002/jcpy.1462"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0372</id>
+    <title>A General-Purpose IT Intervention to Improve Human Decision Making, Strengthen Passwords, and Reduce Receptivity to Misinformation</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Kevin Andrew Harmon, Eric A. Walden</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Latency—the delay between a user’s action and a system’s response—is often viewed as a problem to be eliminated. Yet our research shows that latency is not always harmful and can even improve decision making under the right conditions. Across two sets of studies, we find that latency enhances decision accuracy when it occurs after task-relevant information has been presented but before a decision is made. In these cases, the pause functions as a “mental speed bump,” prompting users to shift from quick, intuitive judgments to slower, more reflective thinking. However, when latency occurs without relevant content, performance declines, likely because of mind wandering and disengagement. For practitioners, this means that latency can be deliberately integrated into system design to encourage deeper cognitive processing in high-stakes or complex tasks, such as financial decisions, medical diagnostics, or security-critical actions. For policymakers, the findings suggest a shift in focus: rather than universally minimizing latency, standards and best practices could account for situations in which strategic delays benefit user outcomes. By reframing latency as a design variable rather than a nuisance, organizations can leverage it to support more accurate, thoughtful decision making, improving performance in contexts in which getting the right answer matters most.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0372"/>
+    <category term="Information Systems Research"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.70021</id>
+    <title>Executive Pay Cuts and Executive Turnover</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <author>
+      <name>Steffen Burkert</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;This study examines the impact of executive pay cuts on executive turnover. While previous research has largely focused on the drivers of pay increases of top management team (TMT) members or the effects of their relative pay standing on executive behavior, the prevalence and consequences of pay cuts have received limited attention. Drawing on temporal comparison theory, I argue that executive pay cuts are positively associated with executive turnover. I then propose that the impact of pay cuts on executive turnover depends on contextual cues that influence how executives interpret these cuts. Specifically, I argue that the effect is stronger for salary cuts than for pay‐for‐performance (PFP) cuts. I also argue that the impact of a pay cut is stronger when an executive is paid below the TMT pay level and when few other TMT members experience similar cuts. I test these predictions on a large longitudinal sample of U.S. firms and find empirical support. These results highlight the importance of temporal comparisons in executive pay evaluation processes.</content>
+    <link href="https://doi.org/10.1002/hrm.70021"/>
+    <category term="Human Resource Management"/>
+    <published>2025-09-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70016</id>
+    <title>Multihoming and single‐homing complementors' responses to intensified between‐platform competition: Evidence from the &lt;scp&gt;YouTube&lt;/scp&gt;–Twitch rivalry</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Niloofar Abolfathi</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;This paper examines how heterogeneous YouTube content creators‐specifically, single‐homing and multihoming channels‐respond to a sudden increase in the exposure of the rival platform, Twitch. Contrary to expectations, I find that multihoming channels reduce their content creation efforts and underperform relative to single‐homers. To make sense of these surprising results, I develop a formal model that characterizes the strategic behavior of different types of complementors operating across two platforms with varying levels of user exposure. The model offers a plausible explanation for the observed empirical patterns, suggesting that intensified competition between platforms, as a consequence of their changing exposure, disproportionately incentivizes single‐homers to enhance platform value while discouraging multihomers from maintaining the same level of engagement.Managerial SummaryShould platform owners prioritize multihoming or single‐homing complementors? I address this question by analyzing how YouTube and Twitch content creators responded to a sudden rise in Twitch’s exposure following its bundling with Amazon Prime. My analysis reveals that when the focal platform faces minimal competition from other platforms, multihoming creators tend to generate greater value. However, when between‐platform competition for users intensifies, the dynamic reverses: single‐homing creators increase their efforts and outperform their multihoming counterparts. I argue that these patterns stem from the distinct incentive structures that influence content creators’ behavior. These findings imply that the optimal platform strategy is context‐specific and depends on market characteristics such as the intensity of competition between rival platforms.</content>
+    <link href="https://doi.org/10.1002/smj.70016"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70007</id>
+    <title>A tale of two biases: Unpacking the relationship of overestimation and overprecision on firm performance</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Wayne G. Borchardt, Dan P. Lovallo, Mikael Samuelsson, Ayrton da Silva</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Overconfidence is widely known to influence firm decision‐making. Yet there remains confusion regarding the concept because it comprises three key aspects: overplacement, overestimation, and overprecision. Using archival data, we employ a firm‐level overconfidence construct to simultaneously analyze the impacts of both overestimation and overprecision. Based on proxies derived from management earnings guidance, overestimation has a sizeable, negative impact on firm performance that is uncorrelated with overprecision's sizeable, positive impact. The result that emerges is surprisingly large: more than one third of a firm's asset value can be explained by these combined facets of overconfidence.Managerial SummaryOverconfidence is well known to executives. It mostly has a bad reputation, but the magnitude of its impact on a firm's strategic decision making is not well known. One aspect of overconfidence is overestimation, which leads to poor forecasts. This leads executives to exaggerate M&amp;A synergies and underestimate the costs as well as the time to complete large capital projects, among other decisions. There is another facet to overconfidence: precision. Overconfidence leads to greater precision in forecasts. In this study, we use corporate earnings guidance. Overprecision in such guidance correlates positively with firm performance. We attribute this result to better investment decisions. We find the combined impact of the positive and negative aspects of overconfidence explains more than a third of a firm's asset value.</content>
+    <link href="https://doi.org/10.1002/smj.70007"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/sej.70003</id>
+    <title>Public support and &lt;scp&gt;VC&lt;/scp&gt; financing in academic startups</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Maud Thys, Maikel Pellens, Hanna Hottenrott, Marius Berger</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;We investigate public support and venture capital (VC) investment in academic startups. Government support may enable follow‐on investment by providing a quality signal to investors. This signal is especially important for academic startups, which face large funding gaps due to their complexity, cutting‐edge nature, and uncertainty regarding the founders' management capabilities and commitment. Using a panel of startups in Germany, our analyses confirm that academic startups are more likely to obtain follow‐on VC investment after receiving public support than non‐academic startups. Further, this effect is limited in time, lasts longer for academic startups, is concentrated in high‐tech manufacturing firms, and is stronger for investments from business angels. Our findings have implications for policymakers seeking to foster academic entrepreneurship through policy programs and VC investment.Managerial SummaryObtaining seed and growth capital is essential for potentially highly innovative startups. We show that startups that obtain public support are more likely to receive VC funding and that this effect is stronger for startups with academic founders, approximately twice as large. We further show that this benefit is limited in time, concentrated in the high‐tech manufacturing industry, and more salient for business angel financing than for investment by independent VC funds or corporate VCs. For founders of academic startups, our results imply that acquiring public support might enhance the chances of attracting follow‐on financing.</content>
+    <link href="https://doi.org/10.1002/sej.70003"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.03007</id>
+    <title>Entrepreneur Debt Aversion and Financing Decisions: Evidence from COVID-19 Support Programs</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Mikael Paaso, Vesa Pursiainen, Sami Torstila</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;An entrepreneur’s negative attitude toward debt (debt aversion) affects the financing decisions of the businesses they run. Controlling for a range of observable traits, firms run by highly debt-averse entrepreneurs are about 10 percentage points less likely to use debt. The same entrepreneurs are also almost 25% less likely to take up government-guaranteed debt during the COVID-19 crisis. These firms show less interest in COVID-19 support policies if they perceive them to involve debt based on experiments randomizing the framing and labeling of otherwise nearly identical hypothetical COVID-19 support policies as debt or grants.This paper was accepted by Camelia Kuhnen, finance.Funding: This work was financially supported by the Jenny and Antti Wihuri Foundation. S. Torstila thanks the Foundation for Economic Education and the OP Research Foundation for funding.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03007 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.03007"/>
+    <category term="Management Science"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06590</id>
+    <title>Getting the Most Out of A/B Tests Using the Asymptotic Minimax-Regret Criteria</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Joonhwi Joo, Khai X. Chiong</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Many firms conduct A/B tests to find a marketing action that improves a value of interest, such as revenue or profit. We develop the asymptotic minimax regret (AMMR) criterion, a practical decision-theoretic approach for choosing among binary marketing actions based on A/B tests. The AMMR is a general large-sample approximation of the minimax-regret criterion from a frequentist standpoint. Our method directly optimizes the decision-relevant metric, accounting for the product of the error probability and the associated magnitude of value loss. Implementing the AMMR decision rule is straightforward; it comprises simply comparing the standardized treatment-effect estimate to the AMMR-optimal decision threshold. The AMMR suggests selecting the treatment whenever the point estimate is positive, as this minimizes the maximum expected net loss from decision errors. A case study of a mobile game company’s A/B testing with Monte Carlo validation demonstrates that the AMMR decision rule effectively selects the optimal marketing action and improves revenue across various data-generating processes.This paper was accepted by Raphael Thomadsen, marketing.Funding: K. X. Chiong gratefully acknowledges the financial support from the NEC Foundation of America.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06590 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06590"/>
+    <category term="Management Science"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.13280</id>
+    <title>Understanding Talent in Foreign Subsidiaries: A Review, Synthesis, and Way Forward</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Ting Liu, Ya Xi Shen, Jiayin Qin, Tomoki Sekiguchi, Kai Chi Yam</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Foreign subsidiaries of multinational corporations are strategically important, requiring them to tailor their human capital resources to specific needs. Although talent serves as the micro‐level foundation of subsidiaries' organizational‐level human capital resources and strategic outcomes, the current literature is fragmented and fails to provide a comprehensive understanding of what is known, what remains unknown, and what future research should explore about talent in subsidiaries. To this end, we synthesize the literature on talent in subsidiaries over the past two decades, mapping it onto the model of human capital resources emergence. First, we build on existing classifications by integrating the recognized distinction between headquarters‐assigned or locally hired talent with talent nationality, providing a structured perspective that better reflects the realities of subsidiary talent. Second, we examine how talent's individual knowledge, skills, abilities, and other characteristics (KSAOs) and social interactions evolve into four subsidiary‐level human capital resources, which in turn contribute to a variety of strategic subsidiary outcomes. Finally, we conclude our review with a future research agenda.</content>
+    <link href="https://doi.org/10.1111/joms.13280"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-025-00806-x</id>
+    <title>Real option portfolios and the theory of the multinational enterprise: understanding modes of international involvement in the digital economy</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Lenos Trigeorgis, Stewart R. Miller</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;The recent growth of the digital economy and technological advances has created new patterns of FDI and international involvement. We contribute to the debate on nontraditional (NT) entry modes in a changing digital world—virtual presence, digital platforms, and innovation outposts. We provide fresh insights into real option theory (ROT) and MNE theory, explaining new forms of international involvement within a dynamic ROT portfolio perspective. We discuss uncertainty and correlation among market conditions, knowledge redundancy, how NT modes entail MNE growth and switching options, and how they contribute to the MNE option portfolio. We discussinformation optionsand other real options embedded in NT modes, and the factors influencing their values. Our article has practical relevance as many MNEs do not incorporate real options into their decision-making processes. We encourage managers to understand that (1) uncertainty influences options beneficially, (2) NT modes create real options, and (3) these NT options create flexibility. Our ROT ‘portfolio’ perspective shows how uncertainty, market correlation, and knowledge diversity influence a real option’s contribution to MNE option portfolios, though they are context-specific. Finally, we compare how ROT insights complement those from existing MNE theories.</content>
+    <link href="https://doi.org/10.1057/s41267-025-00806-x"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70017</id>
+    <title>Interactivity and Illusions of Ability: How Using Generative AI Affects Investor Judgments</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Joe Croom</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;I use the setting of generative AI (GenAI) to examine how processing tool interactivity affects investors’ self‐assessments of ability and willingness to invest. Although GenAI can help investors process financial information, I theorize that the interactive nature of GenAI blurs the boundaries between investors’ own abilities and those of GenAI, prompting investors to discount their reliance on GenAI and misattribute its abilities to themselves. I rely on the advantages of a laboratory setting to disentangle the interactive element of GenAI from the mere presence of GenAI assistance. Across three experiments, I find that the interactivity underpinning GenAI heightens investors’ self‐assessments of their own abilities and increases their willingness to invest, despite this interactivity not improving, and in fact hindering, their actual processing of information provided by GenAI. My study thus highlights one potential cost of using GenAI and other highly interactive processing tools.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70017"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0465</id>
+    <title>Learning When Reading: Evidence from an Online Mobile Reading Platform</title>
+    <updated>2025-09-11T00:00:00+00:00</updated>
+    <author>
+      <name>Yuchen Liu, Lizheng Wang, Yong Tan, Yongjun Li</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;How do consumers listen to peers during consumption? On emerging digital platforms, real-time comments embedded within content—such as books or videos—allow users to observe others’ spontaneous reactions while engaging with the same material. Using data from a leading Chinese online reading platform, we develop a Bayesian learning model to quantify how these in-consumption comments help users learn book quality and make sequential chapter-by-chapter purchase decisions. Results show that not all comments are viewed equally: those reflecting plot-based insight or strong narrative engagement enhance perceived quality, whereas speculative or even purely cheerful comments may diminish it. Comment consistency—not just volume—plays a critical role in sustaining user engagement. For authors, stabilizing chapter quality and adopting informative chapter titles can encourage continuous reading. Platforms, in turn, can boost retention by encouraging consistent contributions of “favorable” in-consumption comments—those providing scene-based insights, character evaluations, or pleas for new chapters.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0465"/>
+    <category term="Information Systems Research"/>
+    <published>2025-09-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/rfs/hhaf068</id>
     <title>Why Do Investors Like Short-leg Securities? Evidence from a Textual Analysis of Buy Recommendations</title>
     <updated>2025-09-02T00:00:00+00:00</updated>
@@ -1000,6 +1492,18 @@
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The closing auction is an increasingly important trade mechanism due to the rise of passive funds that require closing price execution. We study differences in auction mechanism design on NYSE and Nasdaq that may affect closing price efficiency. Unlike Nasdaq, NYSE allows late auction orders through its floor brokers, providing traders with more flexibility to mitigate or create large last-minute auction imbalances. Price changes in the closing auction are more likely to reverse on NYSE compared with Nasdaq, suggesting greater price inefficiency in NYSE closing auctions. Larger last-minute abnormal imbalances on NYSE, particularly in stocks where auction competition may be inhibited by relatively high floor broker auction fees, explain these stronger reversals. Evidence from the NYSE floor closure during the COVID-19 pandemic supports a causal interpretation. Our results highlight an important tradeoff between auction flexibility and price efficiency.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00884 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00884"/>
     <category term="Management Science"/>
+    <published>2025-09-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13477</id>
+    <title>Forest through the Trees: Building Cross‐Sections of Stock Returns</title>
+    <updated>2025-09-02T00:00:00+00:00</updated>
+    <author>
+      <name>SVETLANA BRYZGALOVA, MARKUS PELGER, JASON ZHU</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We build cross‐sections of asset returns for a given set of characteristics, that is, managed portfolios serving as test assets, as well as building blocks for tradable risk factors. We use decision trees to endogenously group similar stocks together by selecting optimal portfolio splits to span the stochastic discount factor, projected on individual stocks. Our portfolios are interpretable and well diversified, reflecting many characteristics and their interactions. Compared to combinations of dozens (even hundreds) of single/double sorts, as well as machine‐learning prediction‐based portfolios, our cross‐sections are low‐dimensional yet have up to three times higher out‐of‐sample Sharpe ratios and alphas.</content>
+    <link href="https://doi.org/10.1111/jofi.13477"/>
+    <category term="The Journal of Finance"/>
     <published>2025-09-02T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1255,6 +1759,18 @@
     <published>2025-09-04T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/joms.13277</id>
+    <title>How Hybrid Work Shapes Communication Ties: The Role of Concern about Relationship Loss and Organizational Identification</title>
+    <updated>2025-09-04T00:00:00+00:00</updated>
+    <author>
+      <name>Christian Tröster, Prisca Brosi</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;The rapid shift to hybrid work settings has raised concerns about decreased workplace interactions and communication ties. Based on Need‐to‐Belong Theory, this study extends previous research by adopting the concept of ‘concern about relationship loss’ to explore when and how hybrid work leads to the retention of work‐related communication ties. Our research, comprising a quasi‐experimental study and a pre‐registered replication, both conducted in the US, shows that hybrid work increases worries about the potential loss of work‐related relationships (‘concern about relationship loss’). This concern prompts employees to engage in proactive interpersonal and organizational citizenship behaviours (OCBs), but only when organizational identification is high. Notably, the impact of hybrid work and organizational identification is more pronounced for retaining existing communication ties than for losing or forming new ones. Our findings underscore the need to differentiate between concerns about relationship loss and actual isolation. They also emphasize the active role of employees in maintaining communication ties, highlighting the importance of organizational identification and OCBs. This study extends the conventional view of hybrid workers as passive towards a more dynamic understanding of how employees navigate work‐related communication challenges in hybrid work settings.</content>
+    <link href="https://doi.org/10.1111/joms.13277"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1017/s0022109024000590</id>
     <title>Strategic Mutual Fund Tournaments</title>
     <updated>2025-09-04T00:00:00+00:00</updated>
@@ -1399,6 +1915,18 @@
     <published>2025-09-05T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70011</id>
+    <title>The extent and drivers of internal agglomeration of U.S. multi‐unit firms</title>
+    <updated>2025-09-08T00:00:00+00:00</updated>
+    <author>
+      <name>Juan Alcácer, Jasmina Chauvin</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;This paper examines the extent and determinants of internal agglomeration—the spatial clustering of establishments within firms. It introduces a novel methodology that benchmarks a firm's spatial footprint against that of comparable stand‐alone firms, yielding a firm‐level measure of internal agglomeration. Applied across sectors of the U.S. economy, the approach reveals that internal agglomeration is widespread but varies by industry and firm characteristics. It is more prevalent in service, non‐tradable, and labor‐intensive industries, and is especially pronounced among diversified firms. Among potential drivers, labor similarity consistently predicts intra‐firm colocation, while input–output and knowledge linkages are less influential. These findings bring a spatial lens to corporate strategy, showing that when key resources—particularly labor—face geographic frictions, colocating related activities enhances opportunities for sharing and redeployment.Managerial SummaryMany firms are known to colocate or cluster with other firms in related industries to reap the benefits of sharing specialized inputs, labor, and knowledge. We study whether multi‐unit firms can generate similar benefits by colocating their establishments. We examine the geographic distribution of establishments of multi‐unit firms using comprehensive data on the U.S. economy. We find that over half of all firms colocate their establishments significantly more than would be expected if these belonged to independent firms. Firms are especially likely to colocate establishments with similar labor requirements, which suggests a deliberate strategy to leverage internal labor synergies. Our findings suggest that managers should consider the potential benefits of internal resource sharing when selecting locations, particularly to capitalize on synergies from resources that are less geographically mobile.</content>
+    <link href="https://doi.org/10.1002/smj.70011"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-09-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/qje/qjaf044</id>
     <title>Failing Banks</title>
     <updated>2025-09-08T00:00:00+00:00</updated>
@@ -1507,6 +2035,54 @@
     <published>2025-09-08T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70018</id>
+    <title>Right on cue? Category‐switching in online marketplaces</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Karl Taeuscher, Eric Yanfei Zhao, Michael Lounsbury</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;When and why do producers change the categorization of their offerings? Prior categorization research assumes that producers engage in ongoing efforts to proactively optimize their categorical positioning, but this assumption may not hold for many producers due to their limited attentional capacity. Our theoretical account instead highlights the role of expectation violation cues—salient pieces of information indicating a violation of audience expectations—as triggers that can lead producers to revise their category choice. Our longitudinal study of 84,667 Airbnb hosts' categorization choices finds that negative customer reviews—an important form of expectation violation cue—significantly increase the likelihood of category‐switching, particularly in categories with heterogeneous expectations. Our study suggests that many producers might be less proactive about their category choices than previous research assumed.Managerial SummaryHow businesses categorize their products and services influences their commercial success; yet, there exists very limited understanding of when, why, and how businesses revise their category choices. Our study, which tracked the category choices of over 80,000 Airbnb hosts over time, reveals that Airbnb hosts most commonly switch categories after receiving negative customer reviews, particularly when a review indicates that the accommodation did not meet customer expectations and if the previously chosen category lacks a clearly defined set of expected features. When switching categories, hosts tend to choose categories that are relatively similar to their prior choices and that seem to accommodate a wide variety of offerings. These patterns suggest that many businesses might be less proactive about their category choices than previous research assumed.</content>
+    <link href="https://doi.org/10.1002/smj.70018"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70013</id>
+    <title>Competing through category interaction codes: An inhabited view of category strategy</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Enlan Wang, Peer C. Fiss</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;This study introduces category interaction codes—knowledge regarding the expected interactions around entities in a given category—as a critical dimension of category strategy. Through historical analysis of Wang Laboratories in the early computer industry, we demonstrate how these codes shape strategic categorization and competitive dynamics. We show that firms can exploit ambiguous interaction codes to access advantageous decision makers and organizational routines, circumventing entrenched competitors. Further, firms can institutionalize preferred interaction codes through product design, reshaping category prototypes and market dynamics. However, overcommitment to specific interaction codes creates competitive vulnerabilities when market conditions shift. By developing an “inhabited” view of categories that emphasizes socially embedded practices, this study reveals how market categories are enacted through interactions and offers new insights into category‐based competition.Managerial SummaryThis study introducescategory interaction codes—expectations about where, when, how and by whom products are evaluated, used, and purchased within a market. Using the case of Wang Laboratories in the early computer industry, we show that companies can gain a competitive advantage by leveraging and reconfiguringcategory interaction codes. For example, Wang Laboratories sidestepped direct competition with IBM by categorizing its products for engineers and department managers rather than MIS executives, and outperformed IBM in word processing by innovating how actors interact with the new category. For managers, the key insight is that success depends not only on product features but also on how your product fits into the daily decisions, roles, and behaviors that define a category.</content>
+    <link href="https://doi.org/10.1002/smj.70013"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70019</id>
+    <title>The role of &lt;scp&gt;CEO&lt;/scp&gt; integrity in M&amp;amp;A decision‐making</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Jan C. Hennig, Jan C. Bauer, Tomi Laamanen</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;While the influence of CEO characteristics on M&amp;A decisions has long spurred researchers’ interest, little attention has been devoted to the ramifications of CEO integrity—the adherence to generally accepted norms and standards. We investigate how CEO integrity influences different stages of the M&amp;A decision process. Specifically, we argue that while CEO integrity reduces self‐serving behavior, it may also become a golden cage that constrains CEOs’ latitude of action. Accordingly, we find that CEO integrity decreases the probability of Type I errors (errors of commission) but increases the probability of Type II errors (errors of omission) in M&amp;A decision‐making. We contribute to theory development by putting forward CEO integrity as an important personality construct for upper echelons research to build on and extend further.Managerial SummaryThis paper examines how CEO integrity influences M&amp;A decision‐making, providing key insights for corporate strategy. Analyzing data from S&amp;P 1500 firms (2006‐2021), we find that CEOs with higher integrity are less likely to engage in frequent or large‐scale M&amp;As, particularly avoiding cross‐border deals due to higher uncertainty and potential risks. High‐integrity CEOs also tend to pay lower acquisition premiums and take longer to complete deals, reflecting a cautious and thorough approach. While CEO integrity helps protect firms from costly mistakes it may also lead to missed growth opportunities, indicating a trade‐off between stakeholder considerations and strategic risk‐taking. Boards may need to tailor governance frameworks to optimize the balance between the benefits and constraints of CEO integrity.</content>
+    <link href="https://doi.org/10.1002/smj.70019"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.03862</id>
+    <title>Human–Algorithmic Bias: Source, Evolution, and Impact</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Xiyang Hu, Yan Huang, Beibei Li, Tian Lu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Prior work on human-algorithmic bias has seen difficulty in empirically identifying the underlying mechanisms of bias because in a typical “one-time” decision-making scenario, different mechanisms generate the same patterns of observable decisions. In this study, leveraging a unique repeat decision-making setting in a high-stakes microlending context, we aim to uncover the underlying source, evolution dynamics, and associated impacts of bias. We first develop a structural econometric model of the decision dynamics to understand the source and evolution of bias in human evaluators in microloan granting. We find that both preference-based and belief-based biases exist in human decisions and are in favor of female applicants. Our counterfactual simulations show that the elimination of either of the two biases improves the fairness in financial resource allocation as well as the platform profits. The profit improvement mainly stems from the increased approval probability for male borrowers, especially those who would eventually pay back loans. Furthermore, to examine how human biases evolve when being inherited by machine learning (ML) algorithms, we train state-of-the-art ML algorithms for default risk prediction on both real-world data sets with human biases encoded within and counterfactual data sets with human biases partially or fully removed. We find that even fairness-unaware ML algorithms can reduce bias in human decisions. Interestingly, although removing both types of human bias from the training data can further improve ML fairness, the fairness-enhancing effects vary significantly between new and repeat applicants. Based on our findings, we discuss how to reduce decision bias most effectively in a human-ML pipeline.This paper has been accepted by D. J. Wu for the Special Issue on the Human-Algorithm Connection.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03862 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.03862"/>
+    <category term="Management Science"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03270</id>
     <title>Strategic Behavior by Equity Lenders</title>
     <updated>2025-09-09T00:00:00+00:00</updated>
@@ -1516,6 +2092,54 @@
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We document that stock lenders are informed about market conditions and pursue revenue maximization by setting premiums or offering discounts on stock loan fees. Using a model of supply and demand in the equity lending market, we illustrate the effect of stock borrowers’ private information on the elasticity of shorting demand. Strategic lenders respond to demand elasticity and increase their revenues through premiums or discounts on lending fees. Empirically, decomposing stock loan fees into intrinsic fee and premium or discount, we confirm lenders’ strategic behavior, showing that premiums and discounts among difficult-to-borrow stocks lead to increased lending revenues. This strategic lending behavior has new implications about informed shorting, short interest, and transaction costs in the equity lending market.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03270 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03270"/>
     <category term="Management Science"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.03124</id>
+    <title>Forced to be Active: Evidence from a Regulation Intervention</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Petter Bjerksund, Trond Døskeland, André Wattø Sjuve, Andreas Ørpetveit</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Mutual funds known as closet indexers are marketed as active but actually operate as low-activity funds. Investors end up paying for full service but receiving only a part of it. Supervisory authorities around the world are considering ways to regulate these funds. In this context, we examine the impact of regulatory interventions by Scandinavian regulators. We compare the scrutinized Scandinavian funds with similar unaffected European funds. The findings suggest that the regulated Scandinavian funds preferred increased activity over fee reduction. Consequently, fund managers adopted more active management strategies, resulting in a significant 2% decrease in annual alpha. Therefore, the regulatory interventions resulted in unfavorable outcomes for investors.This paper was accepted by Bo Becker, finance.Funding: This research was supported by funding from the Varekrigsfond for forsikringsaktiviteter at NHH.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03124 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03124"/>
+    <category term="Management Science"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70014</id>
+    <title>Inheriting Versus Developing Data Analytic Tests and Auditors’ Professional Skepticism</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>XIAOXING LI, JOSEPH F. BRAZEL, ANNA GOLD, JUSTIN LEIBY</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;As the use of audit data analytic tests (ADA) becomes increasingly established in practice, auditors will often confront situations in which they inherit ADA developed by others, as opposed to developing the ADA themselves. Despite the potential benefits of ADA, inheriting ADA could decrease auditors’ skeptical actions by diminishing their psychological ownership of the ADA. In an experiment where an ADA identifies a fraud red flag, we find that auditors who inherited the ADA are less likely to exercise skeptical actions than those who were personally involved in its development. We then provide evidence that informing auditors who inherit an ADA about the test development activities (e.g., a brief memorandum documenting the ADA's development) mitigates the negative effect of inheriting the ADA. Evidence from mediation analyses suggests that these effects are driven by decreased psychological ownership when auditors inherit the ADA.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70014"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70015</id>
+    <title>Listen Closely: Measuring Vocal Tone in Corporate Disclosures</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Jonas Ewertz, Charlotte Knickrehm, Martin Nienhaus, Doron Reichmann</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We examine the usefulness of machine learning approaches for measuring vocal tone in corporate disclosures. We document a substantial mismatch between the widely adopted actor‐based training data underlying these approaches and speech in corporate disclosures. We find that existing models achieve near‐perfect vocal tone classification within their training domain. However, when tested on actual executive speech during conference calls, their performance declines to chance levels. We thus introduce FinVoc2Vec, a deep learning model that adapts to audio recordings of conference calls and classifies the vocal tone of executive speech significantly more accurately than chance. FinVoc2Vec estimates are associated with future firm performance and can be used to construct profitable stock portfolios. Throughout our analyses, estimates from previous vocal tone models are largely unrelated to firm performance. Our findings emphasize the importance of a domain‐specific approach to voice analysis in accounting and finance.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70015"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587251362901</id>
+    <title>Rethinking Indigenous Entrepreneurship</title>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <author>
+      <name>Zannie Langford, Richard Martin</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Indigenous Entrepreneurship has been conceptualized as arising from and reflecting cultural characteristics common to Indigenous people internationally, yet this approach increasingly fails to capture its diversity. Drawing on a database of 19,530 Indigenous enterprises in Australia, we show that criterial approaches to defining Indigenous Entrepreneurship based on preconceived ideas about Indigenous ways of doing business do not adequately characterize Indigenous entrepreneurial activity. We propose an approach that analyses Indigenous entrepreneurialism as a strategic response to the challenges and opportunities encountered by Indigenous entrepreneurs, shifting the focus of study fromexpressions of indigeneity in entrepreneurship, toentrepreneurial responses to Indigenous contexts.</content>
+    <link href="https://doi.org/10.1177/10422587251362901"/>
+    <category term="Entrepreneurship Theory and Practice"/>
     <published>2025-09-09T00:00:00+00:00</published>
   </entry>
 </feed>
