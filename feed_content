@@ -2,106 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-09-17T13:56:03.934143+00:00</updated>
+  <updated>2025-09-18T13:57:39.445117+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdaf062</id>
-    <title>Bewley Banks</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Rustam Jamilov, Tommaso Monacelli</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;How do movements in the distributions of bank size and income affect the macroeconomy? To answer this question, we develop a dynamic general equilibrium model with heterogeneous financial intermediaries, incomplete markets, and aggregate uncertainty. We find that market incompleteness and uninsured idiosyncratic bank rate of return risk generate minimal concentration in the bank net worth distribution, leading to an “as-if” result, whereby the economy behaves as if it had a representative bank. However, introducing ex ante heterogeneity in the banks’ rates of return significantly raises concentration and amplifies real and financial fluctuations relative to the representative-bank case, as this increases a key sufficient statistic, the average marginal propensity to lend. We then extend the model with two empirically validated features of the banking sector—countercyclical return risk and deposit market power—and show that these amplify and dampen aggregate fluctuations, respectively. Finally, because in the model with ex ante heterogeneity the distribution of bank size is highly concentrated, shocks to the largest banks can account for almost all of the aggregate variation that is due to idiosyncratic risk, leading to granular banking and economic cycles. The failure of granular banks (“too big to fail”) produces sizeable macroeconomic crises.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf062"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251376781</id>
-    <title>EXPRESS: Data-Driven Bunker Refueling Under Price Uncertainty</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Qinghe Sun, Mabel C. Chou</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Bunker refueling decisions in international shipping are crucial operational choices. Each ship acts like a movable storage unit navigating through diverse markets, procuring bunker fuels from different ports to sustain its voyage. This involves grappling with challenges posed by varying bunker fuel prices over time and locations. To address this, we propose data-drivenstructure-prescriptive (SP) approachesthat combine the strengths of modern machine learning with the insights from traditional OR modeling and optimization. Instead of predicting future fuel prices, our approach directly learns the optimal policy from data and adapts refueling decisions to the current market conditions, including fuel prices, crude oil price, NYSE index, etc.Our focus lies in leveraging the well-established understanding that the optimal refueling decision adheres to a state-dependent base-stock refueling policy. This decision depends on factors such as the port of call, fuel tank capacity, market conditions, and is finite-valued, depending on the ship’s schedule and voyage. We provide a practical framework to incorporate these structural properties into data-driven decision-making. The finite-valued property, for instance, establishes a connection between the refueling problem and multi-class classification, integrating OR modeling with machine learning.We test our approach through experiments under both simulated scenarios and a real-world example involving the Asia-North America Trade Route. The proposed SP approaches successfully recovered the “true” optimal refueling policy in synthetic simulations. Our real-world data experiments further demon-strate that integrating structural properties into the learning process enhances the quality of prescriptions, particularly when training data is limited. Specifically, with one and a half years of training data, the proposed methods outperform current industry practices. With less than three years of training data, our models yield substantial fuel cost savings, approximately 40 US dollars per metric ton, during the testing period.</content>
-    <link href="https://doi.org/10.1177/10591478251376781"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251376798</id>
-    <title>EXPRESS: Efficiency and Interventions of Strategic Driver Relocation for Ride-Hailing Platforms</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Yineng Wang, Xi Lin, Fang He, Zhengtian Xu, Zuo-Jun Max Shen</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Idle drivers’ spontaneous relocation, when provided with sufficient information, has the potential to mitigate the supply-demand imbalance in ride-hailing services. As this potential remains ambiguous, this study aims to address two fundamental questions and derive managerial insights: Q1: To what extent can drivers’ spontaneous relocation resolve the supply-demand imbalance? Q2: How can subsidies be designed to induce the platform optimum? We propose a leader-follower game-theoretic framework to investigate the dynamic relocation game on arbitrary service networks. The platform, as the leader, designs relocation subsidies to achieve service-oriented or interest-oriented goals, while idle drivers, as followers, decide relocation and compete for individual returns in a multi-stage context. Despite the inherent problem complexity, we investigate the existence, uniqueness, transformation, and solution of the driver equilibrium, providing insights into these critical questions. First, the platform should avoid issuing subsidies purely for relocation purposes when drivers’ actions align with platform goals, such as 1) when the supply and demand are sufficiently imbalanced in volume, eliminating drivers’ gambling behavior, and 2) when commission rates are low—a plausible case in practice—due to the tension between the platform and drivers. Second, we present the potential of the platform intervention in other cases, providing theoretical references for the platform expectations. Notably, due to the extra responsibility gap, the subsidy impact on completed trips exceeds that on platform profits, with the latter at most doubling. Third, we investigate the imbalance in demand that values the platform’s intervention. While a certain spatial imbalance or a demand surge in peak hours emphasizes subsidies for platform goals, the spatial and temporal imbalance can possibly complement each other, inducing coupled demand that directly achieves platform-optimal goals. These results comprehensively answer Q1 along with practical suggestions. Fourth, for Q2, we confirm its feasibility and provide actionable subsidy configurations that induce platform-optimal goals to aid platform management. Numerical examples demonstrate that sparse network structures can lead to larger realized gaps. Additionally, drivers with appropriately random behavior can enhance platform performance, suggesting careful information disclosure by platforms.</content>
-    <link href="https://doi.org/10.1177/10591478251376798"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251376780</id>
-    <title>EXPRESS: Mainstreaming vs. Fairwashing in Fair Trade Operations</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Daehoon Jung, Seung Jae Park</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study explores the effects of competition on fair trade operations. Specifically, as a benchmark, we first consider a model with a single fair trade organization (FTO), i.e., a monopoly FTO. We then extend the analysis to a setting with two competing FTOs, i.e., duopoly FTOs. Although both FTOs share the common goal of alleviating farmers’ poverty, they adopt contrasting strategies: one FTO seeks to lower the barriers to fair trade, aiming tomainstreamit, while the other maintains stricter standards to preventfairwashing(orgreenwashing). Following industry practices, we implement two modes of competition and compare them with the monopoly benchmark. We find that, while competition between FTOs increases the aggregate demand for fair trade certified products (mainstreaming), it results in less aggregate premium (fairwashing). Furthermore, we consider the potential application of blockchain technology in fair trade operations and demonstrate that it offers a promising solution to mitigate thefairwashingeffects from competition between FTOs.</content>
-    <link href="https://doi.org/10.1177/10591478251376780"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.04405</id>
-    <title>Does Q&amp;amp;A Boost Engagement? Health Messaging Experiments in the United States and Ghana</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Erika L. Kirgios, Susan Athey, Angela L. Duckworth, Dean Karlan, Michael Luca, Katherine L. Milkman, Molly Offer-Westort</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Effective information sharing is critical for the success of organizations and governments. Because information that is easy to access is more likely to be adopted, leaders often minimize friction in information delivery. However, one type of friction may increase engagement: piquing curiosity by posing relevant questions prior to sharing information. To test this, we shared identical information about COVID-19 in either question-and-answer format or via direct statements across two preregistered field experiments in Ghana and Michigan (total n = 49,395). Q&amp;A-style communication increased information seeking about directly related topics (e.g., how to wear a mask properly) by 1.0 percentage point (216%) in Ghana and by 1.1 percentage points (19%) in Michigan (p’s &lt; 0.001) and increased self-reported behavior change by 1.3 percentage points (4%) in Michigan (p = 0.002). However, sharing information in Q&amp;A format did not increase interest in general COVID-19 information in either setting, suggesting that the impact of Q&amp;A-style messaging on information seeking may be issue specific. In Michigan, both Q&amp;A-style and direct statement messaging produced less information seeking than sending no informational messages, likely because of differential attrition: the more texts participants received, the more likely they were to opt out of receiving messages, which made it impossible for them to seek more information via text. In a follow-up implementation experiment with social media ads (a messaging strategy without attrition challenges), Q&amp;A-style ads generated 9%–11% more unique clicks to the CDC website per dollar spent than ads that directly stated information about vaccines (p &lt; 0.001). We speculate that Q&amp;A-style information delivery may stimulate curiosity, driving its benefits.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: The authors thank the National Science Foundation [RAPID Grant 2033321], the Bill and Melinda Gates Foundation, Northwestern University’s Global Poverty Research Lab, Stanford University’s Golub Capital Social Impact Lab, Harvard Business School, the University of Pennsylvania, the AKO Foundation, John Alexander, Mark J. Leder, and Warren G. Lichtenstein for funding support. This work was also supported by Grand Challenges in Global Health.Supplemental Material: The supplementary materials and data files are available at https://doi.org/10.1287/mnsc.2024.04405 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.04405"/>
-    <category term="Management Science"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03947</id>
-    <title>The Real Impact of FinTech: Evidence from Mobile Payment Technology</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Sumit Agarwal, Wenlan Qian, Yuan Ren, Hsin-Tien Tsai, Bernard Yeung</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We utilize the introduction of mobile payment technology by the largest bank in Singapore in 2017 to study how mobile payment technology reshapes economic activities and stimulates business creation. After the introduction, business-to-consumer industries witnessed 18.3% more business creation relative to business-to-business industries, with the effect driven by small firms and more pronounced among industries with higher cash handling costs. Underlying this pattern is consumers’ strong adoption of mobile payment and a reduction in ATM cash withdrawals during the post-shock period. The reduced transaction cost also increases consumers’ spending capacity, which justifies the business growth. Interestingly, part of the increased consumer demand is credit card spending. The pattern of changes is consistent with the bank’s adjustment to the technological change: it reduces ATMs and allows more credit card openings and higher credit limits.This paper was accepted by Camelia Kuhnen, finance.Funding: Y. Ren received financial support from the National Natural Science Foundation of China [Grant 72303210], the Zhejiang Provincial Natural Science Foundation of China [Grant LQ24G010001], and the major project of the National Social Science Fund of China [Grant 24&amp;ZD088]. S. Agarwal acknowledges the financial support from the National Natural Science Foundation of China [Grant 72495154].Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03947 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03947"/>
-    <category term="Management Science"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251359947</id>
-    <title>Conquering the Divide? The Role of Political Polarization in the Destigmatization of a U.S. Medical Marijuana Platform Market</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>J. Cameron Verhaal, Samira Reis, Olga M. Khessina</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;A documented recent rise in the polarization of American legislative politics underscores the question of how increasing political polarization affects organizations and industries. Yet, organizational scholars have not directed significant attention to the impact of polarization. In this paper, we demonstrate that political polarization may play an important role in organizational dynamics by revealing that polarization may expedite the destigmatization of legal yet historically stigmatized industries. To this end, we develop a theory explaining how political polarization normalizes counter-normative behavior and encourages customers to become open about their engagement with stigmatized products and organizations—a key step toward industry destigmatization. We further argue that this polarization impact may vary across regional markets because of differences in local legitimation processes that can either amplify (normative legitimacy) or attenuate (regulatory legitimacy) the effect of polarization on consumer engagement with a stigmatized industry. We find empirical evidence for our theorizing in analyses of all U.S. dispensaries of medical marijuana that existed on the online platformWeedmaps.comfrom its beginning in 2008 to 2014. Ultimately, this paper suggests that political polarization can significantly influence organizations and industries and thus warrants more systematic investigation and attention from organizational scholars, particularly in stigmatized industries.</content>
-    <link href="https://doi.org/10.1177/01492063251359947"/>
-    <category term="Journal of Management"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251359201</id>
-    <title>Connected to a Sinking Ship? Firm Performance in a Besieged Autocracy</title>
-    <updated>2025-08-28T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher A. Hartwell</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Doing business in an autocracy that still permits the existence of markets is fundamentally different than operating under a democracy. This variety of state capitalism, termed authoritarian capitalism, requires specific form of political connections to the regime in order to survive and, in some cases, to thrive. However, authoritarian governance has another defining feature—namely paroxysms of political violence of different modalities, a phenomenon that can harm business but may benefit those who are connected to the regime. This paper examines life under a particular authoritarian capitalist state, 19th-century tsarist Russia, via an examination of one politically connected firm, the full-service steamship firm Kavkaz i Merkurii (Caucasus and Mercury). Using never-before-utilized company archival material to examine the firm’s relationship with the tsar, I find that management directly pursued intense business linkages with the government, even appointing tsarist officials and members of the royal family to leadership positions. This behavior increased even as political violence skyrocketed throughout Russia. A formal empirical analysis shows that this strategy was mostly beneficial for the firm, as some forms of political violence were received positively by shareholders as a source of new business. However, military action that drew heavily on the firm—where the government was underpaying relative to market rates—was perceived negatively by investors, and violence, which could have threatened the regime, manifested in higher long-term volatility. This paper shows both the benefits and costs associated with political connections under authoritarian capitalism.</content>
-    <link href="https://doi.org/10.1177/01492063251359201"/>
-    <category term="Journal of Management"/>
-    <published>2025-08-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdaf051</id>
     <title>Search Direction: Position Externalities and Position Auction Bias</title>
@@ -205,7 +109,7 @@
     <author>
       <name>Ann Mooney, Ruixiang Song, Yangyang Zhang</name>
     </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;The increasing prevalence of social media has prompted discussions regarding its impact on the social evaluations of organizational leaders. In this study, we develop the construct of CEO social media celebrity, which arises when a CEO obtains high levels of attention and positive emotional responses from audiences on social media. Building upon parasocial interaction theory, we examine how a CEO's posting influences their likelihood of becoming a social media celebrity. Analyzing 320 S&amp;P 1500 CEOs on X (formerly Twitter) from 2009 to 2021, who posted over 250,000 times and attracted 1.6 mentions from social media users, we find that the volume, positivity, and variety of CEO posts relate positively to CEO social media celebrity attainment, while the uniqueness of their posts shows no such effect. Additionally, we find evidence suggesting that the nature of the CEO's social media posts relates differently to the two dimensions of CEO social media celebrity (i.e., larger audience attention and positive emotional reactions). We offer suggestions for future research to further enrich the understanding of social evaluations in an increasingly digital world and provide practical insights for CEOs seeking to boost their public profile using social media.</content>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;The increasing prevalence of social media has prompted discussions regarding its impact on the social evaluations of organizational leaders. In this study, we develop the construct of CEO social media celebrity, which arises when a CEO obtains high levels of attention and positive emotional responses from audiences on social media. Building upon parasocial interaction theory, we examine how a CEO's posting influences their likelihood of becoming a social media celebrity. Analyzing 320 S&amp;P 1500 CEOs on X (formerly Twitter) from 2009 to 2021, who posted over 250,000 times and attracted 1.6 million mentions from social media users, we find that the volume, positivity, and variety of CEO posts relate positively to CEO social media celebrity attainment, while the uniqueness of their posts shows no such effect. [Corrections made on 16 September 2025, after first online publication, the preceding sentence has been updated for clarity in this version.] Additionally, we find evidence suggesting that the nature of the CEO's social media posts relates differently to the two dimensions of CEO social media celebrity (i.e., larger audience attention and positive emotional reactions). We offer suggestions for future research to further enrich the understanding of social evaluations in an increasingly digital world and provide practical insights for CEOs seeking to boost their public profile using social media.</content>
     <link href="https://doi.org/10.1111/joms.13279"/>
     <category term="Journal of Management Studies"/>
     <published>2025-08-29T00:00:00+00:00</published>
@@ -269,6 +173,18 @@
     <link href="https://doi.org/10.1177/00222429251377752"/>
     <category term="Journal of Marketing"/>
     <published>2025-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13482</id>
+    <title>War Discourse and the Cross Section of Expected Stock Returns</title>
+    <updated>2025-09-18T13:57:39+00:00</updated>
+    <author>
+      <name>DAVID HIRSHLEIFER, DAT MAI, KUNTARA PUKTHUANTHONG</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;A war‐related factor model derived from textual analysis of media news reports explains the cross section of expected stock returns. Using a semisupervised topic model to extract discourse topics from 7,000,000New York Timesstories spanning 160 years, the war factor predicts the cross section of returns across test assets derived from both traditional and machine learning construction techniques, and spanning 138 anomalies. Our findings are consistent with assets that are good hedges for war risk receiving lower risk premia, or with assets that are more positively sensitive to war prospects being more overvalued. The return premium on the war factor is incremental to standard effects.</content>
+    <link href="https://doi.org/10.1111/jofi.13482"/>
+    <category term="The Journal of Finance"/>
+    <published>2025-09-18T13:57:39+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhaf028</id>
@@ -463,18 +379,6 @@
     <published>2025-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.25300/misq/2024/18527</id>
-    <title>Dancing to the #Challenge: The Effect of TikTok on Closing the Artist Gender Gap in the Music Industry</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yifei Wang, Jui Ramaprasad, Anandasivam Gopal</name>
-    </author>
-    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;This study investigates how “Hashtag Dance Challenges” (HDCs), a phenomenon popularized on the short-video platform TikTok, are instrumental in helping music artists gain traction in the digital music marketplace. HDCs represent an appealing combination of music and dance, designed to engage users and achieve virality, thereby benefiting artists whose music is featured. This research focuses on how HDCs contribute to the success of women artists, as compared to men, in an industry known for its diversity but challenged by gender inclusivity. We apply role congruity theory to posit that women artists are in a better position to derive benefits from being featured on HDCs, relative to male artists, particularly in cases of gender concordance—when both the creator and the artist are women. We measure the benefits of HDCs using daily changes in the artist’s followership on Spotify, a leading music streaming service, and test our hypotheses using song and artist-level data collected from Spotify and TikTok. We found that artists featured in a new HDC achieve a significant increase in followership on Spotify, relative to similar artists not featured in an HDC. Further, we observed that women creators drive this effect, enhancing the daily growth of Spotify followers by approximately 3% more for women artists, underscoring the value of gender concordance. Our findings shed light on the role of short videos, especially through the vehicle of HDCs, in advancing women artists, while also promoting inclusivity within the digital music industry.</content>
-    <link href="https://doi.org/10.25300/misq/2024/18527"/>
-    <category term="MIS Quarterly"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1057/s41267-025-00801-2</id>
     <title>The global sourcing of green products</title>
     <updated>2025-09-01T00:00:00+00:00</updated>
@@ -496,138 +400,6 @@
     <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;With the rise of environmental concerns in recent decades, many companies have joined the initiative to advertise and promote sustainable consumption. The current research examines how providing sustainability cues to consumers might have unintended consequences of which practitioners and policymakers may not be fully aware. One pilot study and ten main studies, including two real-choice studies, show that a sustainability cue may delay consumption. That is, in an intertemporal choice, a sustainability cue can increase preference for a larger-later option over a smaller-sooner option. This effect occurs because a sustainability cue shifts a consumer’s temporal focus toward the future, leading to a shorter perceived wait time for the larger-later option. The findings further show that the delay does not emerge among those with strong green consumption values and can be circumvented if firms communicate the immediate need or instant payoff of sustainable actions. By investigating how sustainability cues shift consumer preferences between two options separated in time, the current research contributes to the literature on both sustainable consumption and intertemporal choice. The findings offer practitioners and policymakers guidelines to nudge consumers’ sustainable consumption more effectively.</content>
     <link href="https://doi.org/10.1093/jcr/ucaf050"/>
     <category term="Journal of Consumer Research"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20240010</id>
-    <title>A Model of Populism as a Conspiracy Theory</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Adam Szeidl, Ferenc Szucs</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We model populism as the dissemination of a false “alternative reality,” according to which the intellectual elite conspires against the populist for purely ideological reasons. If enough voters are receptive to it, this alternative reality—by discrediting the elite's truthful message—reduces political accountability. Elite criticism, because it is more consistent with the alternative reality, strengthens receptive voters' support for the populist. Alternative realities are endogenously conspiratorial to resist evidence better. Populists, to leverage or strengthen beliefs in the alternative reality, enact harmful policies that may disproportionately harm the non-elite. These results explain previously unexplained facts about populism. (JEL D72, D82, D83)</content>
-    <link href="https://doi.org/10.1257/aer.20240010"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20231725</id>
-    <title>Market-Wide Predictable Price Pressure</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Samuel M. Hartzmark, David H. Solomon</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We demonstrate that predictable uninformed cash flows forecast aggregate market stock returns. Buying pressure from dividend payments (announced weeks prior) predicts higher value-weighted market returns, with returns for the top quintile of payment days four times higher than the lowest. This holds internationally and increases when reinvestment is high and market liquidity is low. We estimate a market-level price multiplier of 1.9. These results suggest price pressure is a widespread result of flows, not an anomaly. (JEL G12, G14, G35)</content>
-    <link href="https://doi.org/10.1257/aer.20231725"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20230761</id>
-    <title>Is Air Pollution Regulation Too Lenient? Evidence from US Offset Markets</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joseph S. Shapiro, Reed Walker</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We develop a framework to estimate the marginal cost of air pollution regulation and apply it to assess policy efficiency. We exploit a provision of the Clean Air Act that requires new plants to pay incumbent facilities to reduce emissions. This “offset” policy creates hundreds of local pollution markets, differing by pollutant and location. Theory and transaction data suggest that offset prices reveal marginal abatement costs. We compare these prices to marginal benefits of pollution reduction estimated using leading air quality models and find that, on average, marginal benefits exceed marginal costs by more than a factor of ten. (JEL D61, H23, K32, Q52, Q53, Q58)</content>
-    <link href="https://doi.org/10.1257/aer.20230761"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20230455</id>
-    <title>Nested Bundling</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Frank Yang</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;A nested bundling strategy creates menus in which more expensive bundles include all the goods of less expensive ones. We study when nested bundling is optimal and determine which nested menu is optimal, when consumers differ in one dimension. We define a partial order on bundles by (i) set inclusion and (ii) sales quantity when sold alone. We show that, under quasi-concavity assumptions, if the undominated bundles with respect to this partial order are nested, then nested bundling is optimal. We present an iterative algorithm that identifies the minimal optimal menu consisting of a subset of the undominated bundles. (JEL D11, D21, D42, D82, M31)</content>
-    <link href="https://doi.org/10.1257/aer.20230455"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20220540</id>
-    <title>Moonshot: Public R&amp;amp;D and Growth</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Shawn Kantor, Alexander Whalley</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We estimate the long-term effect of public R&amp;D on growth in manufacturing by analyzing new data from the Cold War–era space race. We develop a novel empirical strategy that leverages US-Soviet rivalry in space technology to isolate windfall R&amp;D spending. Our results demonstrate that public R&amp;D conducted by NASA contractors increased manufacturing value added, employment, and capital accumulation in space-related sectors. While migration responses were important, they were not sufficient to generate a wedge between local and national effects. The iconic moonshot R&amp;D program had only modest economic effects for both the local and national space-related sectors. (JEL E22, H54, L60, N12, N42, N62, O47)</content>
-    <link href="https://doi.org/10.1257/aer.20220540"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20231293</id>
-    <title>The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Amelia Hawkins, Christopher Hollrah, Sarah Miller, Laura R. Wherry, Gloria Aldana, Mitchell Wong</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;The Supplemental Security Income program uses a birth weight cutoff at 1,200 grams to determine eligibility. Using birth certificates linked to administrative records, we find low-income families of infants born just below the cutoff receive higher monthly cash benefits (equal to 27 percent of family income) at ages 0–2 with smaller benefits continuing through age 10. Yet we detect no improvements in health care use and mortality in infancy, nor in health and human capital outcomes as observed through young adulthood for these infants. We also find no improvements for their older siblings. (JEL I12, I13, I18, I38, J13, J14, J31)</content>
-    <link href="https://doi.org/10.1257/aer.20231293"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20240119</id>
-    <title>Drivers of Change: Employment Responses to the Lifting of the Saudi Female Driving Ban</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chaza Abou Daher, Erica Field, Kendal Swanson, Kate Vyborny</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We conduct a field experiment to quantify the impact of the lifting of the Saudi women's driving ban on women's employment by randomizing rationed spaces in driver's training. Treated women are 41 percent more likely to be employed yet are 19 percent less likely to be able to make purchases without family permission. Patterns of heterogeneous treatment effects reveal that these divergent impacts of access to driving are experienced by distinct subgroups of women. The results underscore the importance of intrahousehold responses that can counteract legal gains in women's freedoms. (JEL C93, D13, J16, J22, K38, O15, O17)</content>
-    <link href="https://doi.org/10.1257/aer.20240119"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20230490</id>
-    <title>Labor Market Power, Self-Employment, and Development</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Francesco Amodio, Pamela Medina, Monica Morlacco</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;This paper shows that self-employment shapes labor market power in low-income countries, with implications for industrial development. Using Peruvian data, we find that wage-setting power increases with employer concentration but less so where self-employment is more prevalent. A general equilibrium model shows that in oligopsonistic labor markets, self-employment raises the supply elasticity of wage labor, weakening employer market power. However, by the same mechanism, procompetitive policies aimed at expanding wage employment and reducing reliance on self-employment may unintentionally strengthen labor market power, undermining their objectives. (JEL J22, J23, J31, J42, L13, O14, O15)</content>
-    <link href="https://doi.org/10.1257/aer.20230490"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20231407</id>
-    <title>Test-Optional Admissions</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Wouter Dessein, Alex Frankel, Navin Kartik</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Many US colleges now use test-optional admissions. A frequent claim is that by not seeing standardized test scores, a college can admit a student body it prefers, say, with more diversity. But how can observing less information improve decisions? This paper proposes that test-optional policies are a response to social pressure on admission decisions. We model a college that bears disutility when it makes admission decisions that “society” dislikes. Going test optional allows the college to reduce its “disagreement cost.” We analyze how missing scores are imputed and the consequences for the college, students, and society. (JEL I23, I28)</content>
-    <link href="https://doi.org/10.1257/aer.20231407"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20240554</id>
-    <title>Micro versus Macro Labor Supply Elasticities: The Role of Dynamic Returns to Effort</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Henrik Kleven, Claus Kreiner, Kristian Larsen, Jakob Søgaard</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We investigate long-run earnings responses to taxes in the presence of dynamic returns to effort. First, we develop a theoretical model of earnings determination with dynamic returns to effort. In this model, earnings responses are delayed and mediated by job switches. Second, using administrative data from Denmark, we verify our model's predictions about earnings and hours-worked patterns over the life cycle. Third, we provide a quasi-experimental analysis of long-run earnings elasticities. Informed by our model, the empirical strategy exploits variation among job switchers. We find that the long-run elasticity is around 0.5, considerably larger than the short-run elasticity of roughly 0.2. (JEL D31, H24, H31, J22, J31, J62)</content>
-    <link href="https://doi.org/10.1257/aer.20240554"/>
-    <category term="American Economic Review"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1257/aer.20220577</id>
-    <title>Imperfect Competition and Rents in Labor and Product Markets: The Case of the Construction Industry</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kory Kroft, Yao Luo, Magne Mogstad, Bradley Setzler</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We develop, identify, and estimate a model of imperfect competition in both labor and product markets. Our context is the US construction industry, where firms compete for workers, private market projects, and government procurements. Our empirical approach leverages bidding data from procurement auctions linked to employer-employee tax records. We find imperfect competition in both markets generates a total wage markdown of more than 30 percent and a total price markup of around 45 percent. By contrast, if one erroneously assumed a perfectly competitive product (labor) market, then one would conclude wages (prices) are marked down (up) by only 20 percent (16 percent). (JEL D21, D24, H76, J31, L13, L74)</content>
-    <link href="https://doi.org/10.1257/aer.20220577"/>
-    <category term="American Economic Review"/>
     <published>2025-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1183,30 +955,6 @@
     <published>2025-09-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10422587251364809</id>
-    <title>Mapping the Field of Nascent Entrepreneurship: A PSED-Based Review and Research Agenda</title>
-    <updated>2025-09-15T00:00:00+00:00</updated>
-    <author>
-      <name>Sohrab Soleimanof, Seyyede Sharare Bagherian, Seyedeh Fatemeh Anvari, G. Tyge Payne, Alireza Feyzbakhsh</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;The study of nascent entrepreneurship lies at the core of entrepreneurship scholarship, offering critical insights into how both entrepreneurs and ventures emerge through a contextually embedded process. This review synthesizes findings from 95 peer-reviewed articles that employ the Panel Study of Entrepreneurial Dynamics (PSED I and II), two comprehensive longitudinal datasets specifically focusing on nascent entrepreneurship. Using thematic analysis, we synthesize the literature into three core dimensions—the entrepreneur, the entrepreneurial process, and the venture—and emphasize the role of context. Although research on individuals and ventures is relatively well developed, the process dimension remains underexplored, and contextual influences warrant further investigation. We also identify key methodological challenges—particularly related to construct validity—as well as emerging methodological innovations. Finally, we outline promising directions for future research, underscoring the need for more large-scale initiatives and opportunities to re-engage with the PSED’s untapped potential to advance understanding of entrepreneurial emergence.</content>
-    <link href="https://doi.org/10.1177/10422587251364809"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2025-09-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587251371486</id>
-    <title>Founders’ Social Class Origin, Risk-Taking, and Venture Performance: A Bourdieusian Lens</title>
-    <updated>2025-09-15T00:00:00+00:00</updated>
-    <author>
-      <name>Kristie J. Neff, Marilla G. Hayman, Michael E. Cummings, Robert J. Pidduck</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study adopts a Bourdieusian lens to examine how founders’ social class origin influences venture performance through a central aspect of entrepreneurial habitus—risk-taking. In Study 1, we find that risk-taking mediates the relationship between social class origin and venture performance, advantaging those from higher social class origins. In an archival dataset, we show that an alternative measure of childhood social class similarly predicts risk-taking among self-employed individuals. In Study 2, we investigate how field-specific social capital moderates this pathway through founders’ social networks. These findings advance understanding of how early-life social class conditions shape entrepreneurial behavior and performance and imply the need for more nuanced and class-inclusive support within entrepreneurial ecosystems.</content>
-    <link href="https://doi.org/10.1177/10422587251371486"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2025-09-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1007/s11142-025-09915-2</id>
     <title>Auditor-provided nonpublic signals of misreporting and CFO dismissal</title>
     <updated>2025-09-16T00:00:00+00:00</updated>
@@ -1327,6 +1075,54 @@
     <published>2025-09-16T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.02540</id>
+    <title>To Each Their Own: Personalized Product Offerings in Competition</title>
+    <updated>2025-09-17T00:00:00+00:00</updated>
+    <author>
+      <name>Jinzhao Du, Z. Eddie Ning</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study competition between two firms that personalize product offerings to consumers. Firms have private, imperfect signals of each consumer’s ideal location and offer each consumer a different product without observing the competitor’s product offering. We characterize the equilibrium personalization strategy and examine how the accuracies of firms’ signals affect equilibrium strategy, profits, and consumer welfare. A firm generally charges a higher price for a more niche product and profits more from niche consumers unless its prediction accuracy is sufficiently lower than its competitor’s. When both firms have the same industry-level prediction accuracy, an increase in accuracy initially relaxes but later intensifies price competition for niche consumers, having the opposite effect on mainstream consumers. Interestingly, equilibrium profits also have an inverse-U shape in the prediction accuracy. A higher accuracy can also decrease welfare for mainstream consumers. When firms can endogenously invest in prediction accuracy, firms have incentives to overinvest in equilibrium, resulting in a prisoner’s dilemma. Privacy regulations that reduce predictive accuracy, including industry self-regulation, could improve profits and hurt consumer welfare by relaxing price competition. Our results remain robust under consumer search. The paper also discusses what happens if firms charge uniform pricing, if consumers’ ideal locations are distributed on the Salop circle, or if firms receive common signals, highlighting price discrimination between mainstream and niche consumers as the key driver of results.This paper was accepted by Dmitri Kuksov, marketing.Funding: J. Du is grateful for financial support from the Research Grants Council of Hong Kong [Grant GRF/17501823].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02540 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.02540"/>
+    <category term="Management Science"/>
+    <published>2025-09-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04870</id>
+    <title>Measuring Probabilistic Risk Attitudes</title>
+    <updated>2025-09-17T00:00:00+00:00</updated>
+    <author>
+      <name>Arnaldo Nascimento, Che Tat Ng, Richard Gonzalez</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We introduce formal measures for two psychological factors of probabilistic risk attitudes: attractiveness (motivational factor) and discriminability (cognitive factor). Unlike previous approaches that relied on heuristic proxies, our measures precisely capture these two fundamental factors. Our measures are mathematically tractable, robust to discontinuities, such as in the NEO-additive case, and flexible to be applied to any weighting function, as well as to both small and large probabilities. Additionally, through detailed numerical analysis, we examine to what extent existing weighting function parameters capture the two factors: attractiveness and discriminability. Finally, using these new measures, we provide a formal understanding of the independence between motivational and cognitive factors.This paper was accepted by Jack Soll, behavioral economics and decision analysis.Funding: The research was made possible by the financial support from Brazilian Agency of Research and Innovation (Finep), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) [Grants PROJ–CAPES PRINT 1033427P] and PUC-Rio.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04870 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04870"/>
+    <category term="Management Science"/>
+    <published>2025-09-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.03371</id>
+    <title>Queuing Uncertainty of Limit Orders</title>
+    <updated>2025-09-17T00:00:00+00:00</updated>
+    <author>
+      <name>Bart Zhou Yueshen</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Limit orders submitted around the same time are subject to random latencies and will be queued accordingly. In equilibrium, end-of-queue limit orders always lose money—the liquidity supply appears excessive. The model generates empirical predictions regarding such “overshooting” liquidity: (i) new limit orders appear fleeting—clustered submissions are followed by immediate cancellations, (ii) the resulting cancel-to-add count ratio reflects adverse selection, and (iii) the cancel-to-add size ratio measures high-frequency market-making activity. Welfare can be hurt by the overshooting liquidity if it induces excessive speculation. Overall, the model contributes to a more comprehensive understanding and better utilization of order book data.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The supplementary appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03371 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03371"/>
+    <category term="Management Science"/>
+    <published>2025-09-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.70024</id>
+    <title>Addressing Gender in Authenticity and Inclusion at Work: Nuancing Conservation of Resources Theory With Social Role Theory</title>
+    <updated>2025-09-17T00:00:00+00:00</updated>
+    <author>
+      <name>Luke Fletcher, Evgenia I. Lysova</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;In this paper we elucidate how gender may influence the mechanisms and conditions under which perceived inclusion climate facilitates authenticity at work. We nuance conservation of resources theory with social role theory to argue that perceived inclusion climate acts as a caravan passageway through which authenticity at work can be fostered, yet how inclusion climate relates to authenticity is different for men versus for women. We hypothesize that men will feel more authentic when they perceive their organization to be inclusive because such perceptions enable them to feel unique, whereas women will feel more authentic when in inclusive organizations because such environments foster their belongingness. In a time‐lagged study, we find that for women, it is belongingness that is the mediating process, whereas for men, it is both uniqueness and belongingness. We additionally propose, and find, that structural empowerment, as an HRM contextual resource caravan, moderates the relationships between perceived inclusion climate and belongingness/uniqueness for women but not for men. Here, structural empowerment is particularly important for women's needs for belongingness and uniqueness when they perceive their organization be not very inclusive. Overall, we contribute to workplace inclusion and authenticity literatures by underscoring the need to consider gender differences in more depth.</content>
+    <link href="https://doi.org/10.1002/hrm.70024"/>
+    <category term="Human Resource Management"/>
+    <published>2025-09-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/rfs/hhaf068</id>
     <title>Why Do Investors Like Short-leg Securities? Evidence from a Textual Analysis of Buy Recommendations</title>
     <updated>2025-09-02T00:00:00+00:00</updated>
@@ -1399,6 +1195,18 @@
     <published>2025-09-02T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.01179</id>
+    <title>It’s Not Who You Know—It’s Who Knows You: Employee Social Capital and Firm Performance</title>
+    <updated>2025-09-02T00:00:00+00:00</updated>
+    <author>
+      <name>DuckKi Cho, Lyungmae Choi, Michael Hertzel, Jessie Jiaxu Wang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We show that the social capital embedded in employees’ networks contributes to firm performance. Using novel, individual-level network data, we measure a firm’s social capital derived from employees’ connections with external stakeholders. Our directed network data allow for differentiating those connections that know the employee and those that the employee knows. Results show that firms with more employee social capital perform better; the positive effect stems primarily from employees being known by others. We provide causal evidence exploiting the enactment of a government regulation that imparted a negative shock to networking with specific sectors and provide evidence on the mechanisms.This paper was accepted by Camelia Kuhnen, finance.Funding: D. Cho acknowledges the PHBS Dean’s Research Fund for financial support. L. Choi acknowledges the General Research Fund of the Research Grants Council of Hong Kong [Grant 21502018] for financial support.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01179 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01179"/>
+    <category term="Management Science"/>
+    <published>2025-09-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00884</id>
     <title>Vestigial Tails? Floor Brokers at the Close in Modern Electronic Markets</title>
     <updated>2025-09-02T00:00:00+00:00</updated>
@@ -1408,6 +1216,18 @@
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The closing auction is an increasingly important trade mechanism due to the rise of passive funds that require closing price execution. We study differences in auction mechanism design on NYSE and Nasdaq that may affect closing price efficiency. Unlike Nasdaq, NYSE allows late auction orders through its floor brokers, providing traders with more flexibility to mitigate or create large last-minute auction imbalances. Price changes in the closing auction are more likely to reverse on NYSE compared with Nasdaq, suggesting greater price inefficiency in NYSE closing auctions. Larger last-minute abnormal imbalances on NYSE, particularly in stocks where auction competition may be inhibited by relatively high floor broker auction fees, explain these stronger reversals. Evidence from the NYSE floor closure during the COVID-19 pandemic supports a causal interpretation. Our results highlight an important tradeoff between auction flexibility and price efficiency.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00884 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00884"/>
     <category term="Management Science"/>
+    <published>2025-09-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.13477</id>
+    <title>Forest through the Trees: Building Cross‐Sections of Stock Returns</title>
+    <updated>2025-09-02T00:00:00+00:00</updated>
+    <author>
+      <name>SVETLANA BRYZGALOVA, MARKUS PELGER, JASON ZHU</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We build cross‐sections of asset returns for a given set of characteristics, that is, managed portfolios serving as test assets, as well as building blocks for tradable risk factors. We use decision trees to endogenously group similar stocks together by selecting optimal portfolio splits to span the stochastic discount factor, projected on individual stocks. Our portfolios are interpretable and well diversified, reflecting many characteristics and their interactions. Compared to combinations of dozens (even hundreds) of single/double sorts, as well as machine‐learning prediction‐based portfolios, our cross‐sections are low‐dimensional yet have up to three times higher out‐of‐sample Sharpe ratios and alphas.</content>
+    <link href="https://doi.org/10.1111/jofi.13477"/>
+    <category term="The Journal of Finance"/>
     <published>2025-09-02T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1696,30 +1516,6 @@
     <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;The growing use of algorithmic management (AM) in human resource (HR) activities has attracted growing attention from HR scholars, as organizations increasingly rely on digital labor platforms to leverage external workers. This study examines how these platforms apply AM in human resource management (HRM) and how these algorithmic systems embed both market and hierarchy management principles for shaping worker control and autonomy. Specifically, we seek to examine how AM manifests in two distinct ways across these platforms: one involving hierarchy and control, and another involving matching and autonomy. Using an inductive qualitative design, we analyzed 33 semi‐structured interviews with platform workers and documentary data from 23 digital labor platforms. Whereas prior research often frames AM in binary terms—that is, market/autonomy versus hierarchy/control—we explore how task characteristics influence the joint application of both market and hierarchy principles in AM for HRM activities of digital labor platforms. Our findings show how platforms dynamically calibrate market and hierarchy approaches to AM in response to task demands, balancing flexibility, oversight, discretion, and incentives. For HR scholars, this study highlights the flexible and conditional nature of AM systems that blend autonomy and control in nuanced ways. By moving beyond the dominant autonomy‐versus‐control dichotomy, we show how AM is configured to align with diverse forms of work across platforms, enhancing efficiency while sustaining worker engagement amid evolving task demands.</content>
     <link href="https://doi.org/10.1002/hrm.70019"/>
     <category term="Human Resource Management"/>
-    <published>2025-09-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587251362900</id>
-    <title>Global Connections, Local Impacts: The Enduring Effects of International Syndication Experience on Venture Capital Investments</title>
-    <updated>2025-09-04T00:00:00+00:00</updated>
-    <author>
-      <name>Suting Hong, Massimiliano Guerini, Haemin Dennis Park</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;We investigate how a domestic venture capital (VC) firm’s syndication experience with reputable foreign VC firms improves its likelihood of achieving successful exits for entrepreneurial firms that it subsequently funds. We identify two complementary theoretical mechanisms: (a) domestic VC firms can gain certification from reputable foreign VC firms that improves access to superior investment opportunities and (b) they can learn from reputable foreign VC firms to better select and nurture ventures. Furthermore, the positive impact of syndication experience is particularly pronounced in facilitating exits for portfolio companies in foreign countries. Our findings highlight the enduring benefits that domestic VC firms gain from partnerships with reputable foreign VC firms.</content>
-    <link href="https://doi.org/10.1177/10422587251362900"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2025-09-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587251368240</id>
-    <title>Passive Consumer to Active Creator: Review of Drivers, Processes, and Outcomes of User Entrepreneurship</title>
-    <updated>2025-09-04T00:00:00+00:00</updated>
-    <author>
-      <name>Smita Srivastava, Stephanie B. Escudero, Pyayt P. Oo</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Users are recognized as a vital source of innovation and entrepreneurship, transitioning from passive consumers to active creators. This shift has significantly impacted the entrepreneurial landscape, prompting multidisciplinary research. Using bibliometric and thematic coding, our study critically analyzes 179 articles published over a 25-year period. Our review presents a theoretical analysis and an integrative conceptual framework comprising eight inductively generated topics nested within three clusters, representing distinctive motivations, processes, and outcomes of user entrepreneurship. Our study also maps the theoretical foundations that have shaped the field, highlighting both dominant perspectives and opportunities for further theoretical development. By clarifying the distinctiveness of user entrepreneurship, our review advances theoretical understanding and provides a structured agenda for future knowledge accumulation.</content>
-    <link href="https://doi.org/10.1177/10422587251368240"/>
-    <category term="Entrepreneurship Theory and Practice"/>
     <published>2025-09-04T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -2032,18 +1828,6 @@
     <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We examine the usefulness of machine learning approaches for measuring vocal tone in corporate disclosures. We document a substantial mismatch between the widely adopted actor‐based training data underlying these approaches and speech in corporate disclosures. We find that existing models achieve near‐perfect vocal tone classification within their training domain. However, when tested on actual executive speech during conference calls, their performance declines to chance levels. We thus introduce FinVoc2Vec, a deep learning model that adapts to audio recordings of conference calls and classifies the vocal tone of executive speech significantly more accurately than chance. FinVoc2Vec estimates are associated with future firm performance and can be used to construct profitable stock portfolios. Throughout our analyses, estimates from previous vocal tone models are largely unrelated to firm performance. Our findings emphasize the importance of a domain‐specific approach to voice analysis in accounting and finance.</content>
     <link href="https://doi.org/10.1111/1475-679x.70015"/>
     <category term="Journal of Accounting Research"/>
-    <published>2025-09-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587251362901</id>
-    <title>Rethinking Indigenous Entrepreneurship</title>
-    <updated>2025-09-09T00:00:00+00:00</updated>
-    <author>
-      <name>Zannie Langford, Richard Martin</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Indigenous Entrepreneurship has been conceptualized as arising from and reflecting cultural characteristics common to Indigenous people internationally, yet this approach increasingly fails to capture its diversity. Drawing on a database of 19,530 Indigenous enterprises in Australia, we show that criterial approaches to defining Indigenous Entrepreneurship based on preconceived ideas about Indigenous ways of doing business do not adequately characterize Indigenous entrepreneurial activity. We propose an approach that analyses Indigenous entrepreneurialism as a strategic response to the challenges and opportunities encountered by Indigenous entrepreneurs, shifting the focus of study fromexpressions of indigeneity in entrepreneurship, toentrepreneurial responses to Indigenous contexts.</content>
-    <link href="https://doi.org/10.1177/10422587251362901"/>
-    <category term="Entrepreneurship Theory and Practice"/>
     <published>2025-09-09T00:00:00+00:00</published>
   </entry>
 </feed>
