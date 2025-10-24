@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-10-24T13:40:36.427493+00:00</updated>
+  <updated>2025-10-24T13:44:39.293821+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1025,6 +1025,18 @@
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;With the rapid growth of omnichannel retailing and the takeaway delivery economy, the classic point-to-point mode for on-demand delivery is deficient in delivery capacity, coverage area, dispatching efficiency, and courier safety assurance. Inspired by the success of Dabbawala, a historical Indian company for lunch delivery, we propose a novelpublic on-demand delivery service systemthat uses the public transit network to satisfy stochastic delivery demands. In particular, the proposed system includes a radial public transit network for intermediate transshipment, as well as couriers with e-bikes for terminal pick-up and drop-off. Our research aims to generate system design that minimizes the sum of penalty costs from lost sales and operational costs associated with courier terminal delivery distance. Solving the integrated system optimization problem relies on incorporating operational details, especially the allocation strategies of the lines’ capacity and the couriers’ terminal traveling modes. For the former, we propose a novel flexible design, called dual long-chain design, to improve flexibility. For the latter, we propose an elegant approximation of optimal service region partitioning that minimizes the expected terminal delivery distance and the resulting costs, without compromising delivery timeliness. Leveraging the theoretical results of the operational strategies, we simplify the integrated optimization problem and propose an efficient approximation algorithm. Finally, we validate the advantage of the proposed system over classic point-to-point delivery in satisfying demands and reducing costs through extensive numerical experiments, providing managerial insights in handling massive on-demand delivery demands and utilizing the idle capacity of the public transit system.</content>
     <link href="https://doi.org/10.1177/10591478251394130"/>
     <category term="Production and Operations Management"/>
+    <published>2025-10-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08994</id>
+    <title>The ABCs of Who Benefits from Working with AI: Ability, Beliefs, and Calibration</title>
+    <updated>2025-10-24T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew Caplin, David Deming, Shangwen Li, Daniel Martin, Philip Marx, Ben Weidmann, Kadachi Jiada Ye</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We use a controlled experiment to show that ability and belief calibration jointly determine the benefits of working with artificial intelligence (AI). AI improves performance more for people with low baseline ability. However, holding ability constant, AI assistance is more valuable for people who are calibrated, meaning they have accurate beliefs about their own ability. People who know they have low ability gain the most from working with AI. In a counterfactual analysis, we show that eliminating miscalibration would cause AI to reduce performance inequality nearly twice as much as it already does.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This work was supported by the Alfred P. Sloan Foundation (Cognitive Economics at Work).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08994 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08994"/>
+    <category term="Management Science"/>
     <published>2025-10-24T00:00:00+00:00</published>
   </entry>
   <entry>
