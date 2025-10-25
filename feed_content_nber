@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-10-24T13:46:01.759058+00:00</updated>
+  <updated>2025-10-25T13:39:16.837504+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34285</id>
+    <title>Monotone Ecological Inference</title>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hadi Elzayn, Jacob Goldin, Cameron Guage, Daniel E. Ho &amp; Claire Morton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study monotone ecological inference, a partial identification approach to ecological inference. The approach exploits information about one or both of the following conditional associations: (1) outcome differences between groups within the same neighborhood, and (2) outcomes differences within the same group across neighborhoods with different group compositions. We show how assumptions about the sign of these conditional associations, whether individually or in relation to one another, can yield informative sharp bounds in ecological inference settings. We illustrate our proposed approach using county-level data to study differences in Covid-19 vaccination rates among Republicans and Democrats in the United States.</content>
+    <link href="https://www.nber.org/papers/w34285"/>
+    <category term="NBER"/>
+    <published>2025-09-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34304</id>
     <title>Maternity Leave Extensions and Gender Gaps: Evidence from an Online Job Platform</title>
@@ -87,18 +99,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We review the economic literature on self-image, which conceptualizes identity as a set of beliefs about one’s core traits, values, goals, and social ties. Self-image concerns lead individuals to process information and make choices in non-standard ways that help affirm and protect certain valued identities. We first present the main cognitive mechanisms involved within a simple unifying framework. We then survey the extensive laboratory, online, and field experimental literature on the nature and behavioral implications of self-image concerns. We discuss in particular how they give rise to information and decision avoidance, motivated memory and beliefs, excuse-driven behavior, preferences for truth-telling, hypothetical bias, moral cleansing and moral licensing, collective identities, political preferences, and other forms of self-signaling or self-deception. We subsequently discuss common empirical strategies used to identify self-image concerns, as well as the threats to their validity and how to alleviate them. We conclude by outlining open questions and directions for future research on the belief-based approach to identity.</content>
     <link href="https://www.nber.org/papers/w34297"/>
-    <category term="NBER"/>
-    <published>2025-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34296</id>
-    <title>Social Learning among Urban Manufacturing Firms: Energy-Efficient Motors in Bangladesh</title>
-    <updated>2025-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ritam Chaurey, Gaurav Nayyar, Siddharth Sharma &amp; Eric Verhoogen</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Knowledge spillovers among firms are widely viewed as a key driver of agglomeration and growth, but are difficult to estimate cleanly. We randomly allocated an energy-efficient motor --- a “servo'” motor --- among leather-goods firms in Dhaka, Bangladesh, and tracked adoption, information flows, beliefs about energy savings, and other variables. We use the difference between actual exposure and expected exposure (from simulated randomization draws) to identify the effect of exposure. We find a robust positive effect of exposure to treated neighbors within a small geographic area (500 meters in our baseline specification) on information flows and adoption. A marginal value of public funds (MVPF) calculation taking learning spillovers into account yields a significantly larger value than one considering only treated firms and suggests that adoption subsidies would be a cost-effective policy intervention.</content>
-    <link href="https://www.nber.org/papers/w34296"/>
     <category term="NBER"/>
     <published>2025-09-01T00:00:00+00:00</published>
   </entry>
