@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-10-25T13:38:26.677029+00:00</updated>
+  <updated>2025-10-26T03:36:53.282045+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -463,6 +463,42 @@
     <published>2025-10-15T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/isre.2022.0251</id>
+    <title>Attention or Sentiment: How Social Media React to ESG?</title>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaoquan (Michael) Zhang, DaPeng Xu, Hong Hong, Kalok Chan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Despite the increasing attention associated with ESG investing, a natural yet overlooked question is how investors would react to the ESG performance of firms, given that investors’ activities can ultimately impact firm performance. Utilizing data from multiple sources, we empirically find that ESG performance positively predicts future social media attention, but it has no predictive ability for future social media sentiment. Furthermore, the significant positive association between ESG and social media attention holds for both ESG downgrade events and ESG upgrade events. Moreover, the positive association between ESG and social media attention is driven by the environmental and social factors, whereas the uncorrelation between ESG and social media sentiment is determined by the social and governance factors. These findings urge managers to pay close attention to keeping and improving their firms’ ESG advantage. They help managers shed light on the picture of the return of their firms’ investment in ESG by taking investor behavior into account. Besides, ESG’s inability in predicting social media sentiment also indicates retail investors’ limited awareness of the importance of ESG currently. Therefore, it is pressing for regulators to take actions to boost the function of sustainable investing and ESG values.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0251"/>
+    <category term="Information Systems Research"/>
+    <published>2025-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0007</id>
+    <title>When Gig Workers No Longer Gig: The Impact of California Assembly Bill 5 on the Online Labor Market</title>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <author>
+      <name>Xunyi Wang, Yu-Wei Lin, Wencui Han, Liangfei Qiu</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;The rapid growth of the gig economy has intensified debates over how to classify workers. California’s Assembly Bill 5 (AB5) reclassifies many independent contractors as employees, yet its practical effects on gig workers remain unclear. Using data from a major online labor platform and a difference-in-differences design, we provide one of the first empirical assessments of AB5’s impact on workers’ earnings. We find that California gig workers’ monthly earnings rose relative to workers in other states, but this increase was driven by longer working hours, offsetting a drop in hourly pay. These results highlight the complex trade-offs of reclassification: although workers may gain access to employee benefits, they may also experience reduced hourly rates and increased workloads. For policymakers, our findings offer evidence to guide similar initiatives under consideration in other states and underscore the need for nuanced, context-sensitive regulation. For platform managers, the results suggest opportunities to align platform design and worker education with evolving labor laws to support compliance and sustainable growth. Together, these insights inform future policy and platform strategies aimed at balancing worker protection with flexibility in the gig economy.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0007"/>
+    <category term="Information Systems Research"/>
+    <published>2025-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0376</id>
+    <title>Programming Tasks Impact Responses to Moral Dilemmas for Novice Programmers</title>
+    <updated>2025-10-15T00:00:00+00:00</updated>
+    <author>
+      <name>Tanya Singh, Jui Ramaprasad, Kartik K. Ganju</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;The rapid diffusion of programming skills across education and industry may impact how individuals consider moral dilemmas. Across a series of experiments, we show that performing even simple programming tasks shifts novice programmers’ evaluation of the classic trolley problem toward utilitarian responses. After solving a programming problem, respondents are more willing to sacrifice one life to save many. This effect arises because programming induces a deliberative, rule-based cognitive style. However, the effect diminishes with greater programming experience and can be mitigated through interventions, such as time delays or moral nudges. These findings highlight that organizations training employees in coding should be aware that programming tasks may temporarily alter moral reasoning, potentially influencing judgments in ethically charged contexts (e.g., product design, risk management, or AI development). Incorporating reflective cooling-off periods or explicit ethical reinforcement may reduce bias toward utilitarian reasoning. As programming becomes a baseline skill across the workforce, its cognitive spillovers could shape societal attitudes toward contested moral dilemmas. These include ethical trade-offs in settings such as autonomous vehicles and artificial intelligence systems.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0376"/>
+    <category term="Information Systems Research"/>
+    <published>2025-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/smj.70008</id>
     <title>Common purpose advantage: Reviving a managerial theory of the firm?</title>
     <updated>2025-10-16T00:00:00+00:00</updated>
@@ -583,18 +619,6 @@
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.04026</id>
-    <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
-    <updated>2025-10-17T00:00:00+00:00</updated>
-    <author>
-      <name>Menglong Li, David Simchi-Levi, Renfei Tan, Chonghuan Wang, Michelle Xiao Wu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
-    <category term="Management Science"/>
-    <published>2025-10-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01560</id>
     <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
     <updated>2025-10-17T00:00:00+00:00</updated>
@@ -603,6 +627,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
+    <category term="Management Science"/>
+    <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04026</id>
+    <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
+    <updated>2025-10-17T00:00:00+00:00</updated>
+    <author>
+      <name>Menglong Li, David Simchi-Levi, Renfei Tan, Chonghuan Wang, Michelle Xiao Wu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
     <category term="Management Science"/>
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
@@ -884,6 +920,18 @@
     <published>2025-10-22T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/isre.2022.0541</id>
+    <title>Between Human and System Agency: Coping with Negative Incidents for Continued Effective Use of Wearables</title>
+    <updated>2025-10-22T00:00:00+00:00</updated>
+    <author>
+      <name>Annamina Rieder</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Wearable devices hold significant promise for promoting healthy behaviors, yet they often fall short of this potential when users disengage or use them ineffectively. This research examines how individuals respond to negative incidents—such as frustrating feedback, misaligned goals, or perceived surveillance—and how these responses influence continued effective use. Effective use means interacting with the wearable in ways that help achieve health-related goals, beyond merely logging steps or checking data. Based on in-depth accounts from long-term users, the study reveals that, although some cope by re-engaging with the technology, others manipulate data, disengage, or selectively avoid features, undermining the benefits wearables are meant to deliver. Crucially, sustained effective use depends not just on motivation or usability but on the alignment between human and system agency. When wearables assert their own logic too strongly or misalign with user goals, maladaptive responses are more likely. These findings offer actionable guidance for designers, healthcare providers, and policymakers: Rather than focusing solely on adoption or persuasive design, efforts should support user autonomy and recovery after setbacks. Wearables that accommodate breakdowns and empower users in the face of friction are more likely to sustain engagement and improve long-term health outcomes.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0541"/>
+    <category term="Information Systems Research"/>
+    <published>2025-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10422587251347048</id>
     <title>How Should We Study Heterogeneity in Entrepreneurship? Moving the Field to an Inclusive Approach</title>
     <updated>2025-10-22T00:00:00+00:00</updated>
@@ -929,6 +977,18 @@
     <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;For two decades, research on individual and organizational celebrity has flourished. However, the literature remains limited in several ways. First, despite recent gains regarding the antecedents of celebrity, current theory does not fully explain why celebrity resides at a specific locus (i.e., at the individual‐ and/or organizational level). Second, research has suggested that both the media and organizations play significant roles in celebrity attainment. However, researchers have focused more on the media’s role in creating celebrity narratives and less on the role that organizational communications play in the narrative process and how they affect the locus of celebrity. Lastly, research has provided a fragmented picture of individual and organizational celebrity, disregarding that organizations and their leaders can share high degrees of positive attention (i.e., have concurrent celebrity) that likely have different effects than celebrity located at only one locus. We address these issues by integrating celebrity research across multiple loci to develop a theory of the narrative antecedents of the locus of celebrity. In doing so, we explain how organizations can actively create individual, organizational, or concurrent celebrity.</content>
     <link href="https://doi.org/10.1111/joms.70015"/>
     <category term="Journal of Management Studies"/>
+    <published>2025-10-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2021.0185</id>
+    <title>Chat More and Contribute Better: An Empirical Study of a Knowledge-Sharing Community</title>
+    <updated>2025-10-23T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaomeng Chen, Chris Forman, Michael Kummer</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Knowledge-sharing communities face a dual challenge: they must enable efficient content generation and also provide spaces in which interpersonal bonds can form. We examine how these goals interact by studying Stack Overflow’s introduction of informal chat rooms alongside its main question-and-answer (Q&amp;A) forum. Using a difference-in-differences design, we analyze two sequential shocks: the launch of chat rooms and the later addition of automated feeds that pushed Q&amp;A content into chat rooms, thus creating a bridging mechanism between the two spaces. We find that, on their own, the introduction of chat rooms leads to no improvement in knowledge exchange for average users in the community. However, we find evidence that chat rooms may forge a closed subgroup of users, who tend to primarily help each other by answering questions within the group, and the benefits are isolated to the subgroup. The activation of an automated feeding function that pushes all questions into the chat room expands benefits beyond the closed subgroup. Our results show that platform designers should consider not only how to foster subgroup cohesion, but also how to facilitate bridging between interactions in the subgroups and the broader community.PRESS BLURBA new study of Stack Overflow shows that adding informal chat rooms can deepen engagement among certain members but risks creating exclusive circles. When paired with bridging tools, such as automated feeds that connect chat rooms and Q&amp;A forums, response times improved and benefits reached a wider set of users. The findings highlight how platform design choices can shape inclusivity, efficiency, and knowledge exchange in online communities.Social Media blurb:Study shows that pairing informal chat rooms with bridging tools such as feeds can enhance both engagement and inclusivity in online communities.Alternatives: 🧩 Chat rooms foster bonds; feeds build bridges: how design choices shape knowledge sharing in online communities. ⚡ Adding bridges such as feeds makes online communities faster, fairer, and more inclusive—lessons from Stack Overflow. 🌐 Efficient answers + human connection: why balancing chat rooms and bridging tools matters for knowledge platforms.</content>
+    <link href="https://doi.org/10.1287/isre.2021.0185"/>
+    <category term="Information Systems Research"/>
     <published>2025-10-23T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1234,6 +1294,18 @@
     <published>2025-10-06T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/isre.2024.1196</id>
+    <title>Unveiling the Strategic Impacts of Extending Membership-Based Free Shipping Programs Beyond the Online Marketplaces</title>
+    <updated>2025-10-06T00:00:00+00:00</updated>
+    <author>
+      <name>Geng Sun, Huseyin Cavusoglu, Srinivasan Raghunathan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Online marketplaces are increasingly extending their membership-based free shipping (MFS) programs to include external sellers, transforming logistics capabilities into a “logistics-as-a-service” (LaaS) model. This study uses a game-theoretic approach to analyze the implications of such extensions, with Amazon as a leading example. Contrary to the widespread belief that LaaS is a stand-alone profit center, our findings reveal that the primary value of extended MFS lies in enhancing the marketplace’s core business. By attracting member consumers and optimizing fulfillment operations, marketplaces can increase commission revenues and reduce per-order logistics costs—even if LaaS itself operates at a loss. Importantly, this strategy can benefit the broader marketplace ecosystem, including both internal and external sellers and member consumers, while potentially disadvantaging nonmembers. For practitioners and policymakers, these results underscore the need to rethink competitive dynamics and pricing strategies in digital platforms. Rather than viewing extended MFS solely as a logistics monetization tool, it should be seen as a strategic lever for shaping marketplace structure, seller participation, and consumer behavior.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1196"/>
+    <category term="Information Systems Research"/>
+    <published>2025-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/sej.70006</id>
     <title>Anti‐labor environments and employee entrepreneurship: Evidence from right‐to‐work laws</title>
     <updated>2025-10-07T00:00:00+00:00</updated>
@@ -1327,6 +1399,18 @@
     <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We show that incorporating defined benefit pension funds in an incomplete markets asset pricing model improves its ability to match the historical equity premium and riskless rate and has important risk‐sharing implications. We document the importance of the pension fund's size and asset demands, and a new risk channel arising from fluctuations in the fund's returns. We use our calibrated model to study the implications of a shift to an economy with defined contribution plans. The new steady state is characterized by a higher riskless rate and a lower equity premium. Consumption volatility increases for retirees but decreases for workers.</content>
     <link href="https://doi.org/10.1111/jofi.13507"/>
     <category term="The Journal of Finance"/>
+    <published>2025-10-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1097</id>
+    <title>Beyond Pairwise Network Interactions: Implications for Information Centrality</title>
+    <updated>2025-10-07T00:00:00+00:00</updated>
+    <author>
+      <name>Sandro Claudio Lera, Yan Leng</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations and policymakers increasingly rely on network metrics to decide whom to inform, monitor, or support. Yet most networks treat interactions as pairs, even when the underlying activity occurs in groups—project teams, chat channels, meetings, or news articles that mention multiple firms. Collapsing groups into one-to-one links can misidentify who matters. We propose a practical alternative: Model group interactions directly as a hypergraph and compute centrality from a two-step diffusion process that captures how information moves across and within groups. The approach provides a transparent way to incorporate domain knowledge (e.g., whether people enter large or small groups first) and produces testable interpretable rankings. We evaluate the method in three settings—open-source software, a high school interaction study, and financial comentions—and find that hypergraph-based, theory-informed centrality better explains outcomes such as project success, student popularity, and same-day returns than standard graph centralities. For practice and policy, this yields more effective targeting, earlier warning signals, and improved allocation of attention and resources in collaborative work, public health, and market surveillance. We release an open-source Python package (HyperCentral) to support adoption.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1097"/>
+    <category term="Information Systems Research"/>
     <published>2025-10-07T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1507,6 +1591,18 @@
     <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Consumers increasingly seek spiritual satisfaction and existential meaning through brands. However, despite the rising prominence of secular forms of spirituality, consumer-brand relationship research largely overlooks the processes by which consumers initiate, develop, and maintain spiritual connections to brands. Using the concept of faith as a theoretical lens, this paper explores how consumer-brand relationships take on spiritual dimensions. Drawing on an interpretive biographic analysis of in-depth interviews and netnographic data, the authors examine spiritual relationship development processes as they unfold between consumers and brands over time. Findings identify five phases of brand faith development (intuition, association, reflection, affirmation, universalization), which progress from initial attraction to deep conviction. Consumers cultivate faith in brands across these phases through a process of believing in, valuing, and committing to a brand as a sacred entity that acts as a center of spiritual meaning. These findings offer a more nuanced understanding of spiritual relationships between consumers and secular brands than current literature provides. The analysis also examines factors that facilitate or inhibit brand faith development, contributing a contextual understanding of brand faith that accounts for influences arising from an interplay between personal, brand, and marketplace factors that affect consumer spirituality.</content>
     <link href="https://doi.org/10.1093/jcr/ucaf055"/>
     <category term="Journal of Consumer Research"/>
+    <published>2025-10-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0191</id>
+    <title>Do We Think Differently When Tapping the Screen or Clicking the Mouse? Effects of Computer Interfaces on Level of Construal</title>
+    <updated>2025-10-09T00:00:00+00:00</updated>
+    <author>
+      <name>Xixian Peng, Xinwei Wang, Yutong Guo, Hock Hai Teo</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;The touchscreen has become the de facto interface for individuals to interact with digital devices. This research investigates the implications of the profound shift from the mouse-based, nontouch interface to the touch-based interface for human thinking and behavior. Ten studies reveal that using touchscreens, as opposed to a mouse, fosters a more concrete low-level construal. Specifically, using touch interfaces on devices such as iPads and tablets prompts people to interpret actions in a detailed, hands-on manner, viewing locking a door as inserting a key into a lock rather than as a broader concept such as securing a house. Touchscreens also encourage a narrow categorization of concepts and a reliance on local, granular attributes. The concrete mindset evoked by the touch interface elevates individuals’ preference for practicality over complexity, such as choosing a compact camera over an advanced one, and receptiveness to persuasive attempts with feasibility appeals. Given that mental construals fundamentally influence how we perceive and engage with the world, our findings underscore the wide-ranging impacts of touch interfaces. This research provides a theoretical foundation for exploring the broader implications of the widespread adoption of touch technology, especially as digital devices become increasingly integrated into our digitally transformed daily life worldwide.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0191"/>
+    <category term="Information Systems Research"/>
     <published>2025-10-09T00:00:00+00:00</published>
   </entry>
 </feed>
