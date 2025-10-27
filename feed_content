@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-10-26T13:39:23.607874+00:00</updated>
+  <updated>2025-10-27T13:40:11.604656+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -619,18 +619,6 @@
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01560</id>
-    <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
-    <updated>2025-10-17T00:00:00+00:00</updated>
-    <author>
-      <name>Veronika K. Pool, Clemens Sialm, Irina Stefanescu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
-    <category term="Management Science"/>
-    <published>2025-10-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.04026</id>
     <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
     <updated>2025-10-17T00:00:00+00:00</updated>
@@ -639,6 +627,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
+    <category term="Management Science"/>
+    <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.01560</id>
+    <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
+    <updated>2025-10-17T00:00:00+00:00</updated>
+    <author>
+      <name>Veronika K. Pool, Clemens Sialm, Irina Stefanescu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
     <category term="Management Science"/>
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
@@ -1138,148 +1138,66 @@
     <published>2025-10-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/sej.70005</id>
-    <title>Internal venturing as a signal: How entrepreneurial employees gain career benefits in organizations</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/sej.70008</id>
+    <title>Upfront payments to venture‐backed startups in technology alliances: Bargaining effects of
+                    &lt;scp&gt;VC&lt;/scp&gt;
+                    affiliations</title>
+    <updated>2025-10-26T00:00:00+00:00</updated>
     <author>
-      <name>Alyssa X. Liang, Jeffrey H. Dyer, Markus Baer, Zachariah J. Rodgers</name>
+      <name>Ramakrishna Devarakonda, Shivaram Devarakonda, Jeffrey J. Reuer</name>
     </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Do employees benefit from acting entrepreneurially in a corporate environment? Drawing on signaling theory, we propose that entrepreneurial behaviors lead to tangible career benefits through the creation of new internal ventures, which serve as a credible signal of an employee's leadership potential. Using a time‐lagged design with a sample of 643 employees, we found in Study 1 that employees engaging in higher levels of entrepreneurial behaviors are more likely to create new internal ventures, which subsequently lead to more promotions and—in larger organizations—higher compensation. Study 2 employed a within‐subjects design to directly evaluate the signaling value of new internal venture creation. Together, our findings highlight internal venturing as a key mechanism through which entrepreneurial employees can gain career benefits within established organizations.Managerial SummaryEntrepreneurial employees are often seen as organizational misfits. Yet, our research shows that acting entrepreneurially in a corporate environment can enhance employees' career success through new internal venture creation. In two studies, we find that employees engaging in higher levels of entrepreneurial behaviors—asking questions to challenge the status quo, observing with fresh perspectives, exchanging ideas across diverse networks, and experimenting with new approaches—are more likely to launch new internal corporate ventures. The act of new internal venture creation, in turn, leads to more promotions and—in larger organizations—higher compensation, because it sends a positive signal of an employee's leadership potential. Our findings offer practical insights for both entrepreneurial employees and organizations seeking to foster entrepreneurial spirit.</content>
-    <link href="https://doi.org/10.1002/sej.70005"/>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Upfront payments are important financial resources startups seek to negotiate in technology alliances. This study unpacks how venture‐backed startups can benefit from their VC affiliations and obtain better payments. We develop a bargaining framework and argue that VCs can strengthen venture‐backed startups' hand in alliance negotiations through two distinct pathways: (i) by providing a quality signal, and (ii) by serving as conduits of alternative partnering options. We further suggest that these distinct benefits in bargaining hinge on startups' technological quality, which substitutes for the quality signal arising from VC affiliations but complements the VC's intermediation role in markets for partners. The evidence therefore identifies the distinct and complex channels by which VCs can help startups obtain financial resources at nascent stages through their technology alliances.Managerial SummaryUpfront payments in technology alliances are vital revenues for technology startups. This study reveals how venture capital (VC) affiliations strengthen startups' bargaining position and enable them to secure larger payments. VCs add value in startups' alliance negotiations in two key ways: by signaling the quality of the startup's resources and by providing alternative partnering options. The benefits of these mechanisms vary with the startup's technological quality—strong technology can substitute for the VC's quality signal but enhances the value of VC intermediation. Managers should recognize that VCs add value to their ventures beyond financing by also reinforcing their investee startups' bargaining power, helping startups negotiate favorable terms in technology alliances.</content>
+    <link href="https://doi.org/10.1002/sej.70008"/>
     <category term="Strategic Entrepreneurship Journal"/>
-    <published>2025-10-06T00:00:00+00:00</published>
+    <published>2025-10-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf074</id>
-    <title>Educating Investors about Dividends</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70010</id>
+    <title>Categorical Atypicality and Evaluation Accuracy: Who Make More Accurate Evaluations of Atypical Firms?</title>
+    <updated>2025-10-26T00:00:00+00:00</updated>
     <author>
-      <name>Andreas Hackethal, Tobin Hanspal, Samuel M Hartzmark, Konstantin Bräuer</name>
+      <name>Pengfei Wang, Jingjiang Liu</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We educate investors about the benefits of dividend reinvestment and costs of misperceiving dividends as free income. The intervention increases planned dividend reinvestment in survey responses. Using trading records, we observe a causal increase in dividend reinvestment in the field of roughly 50 cents for every euro received. This holds relative to investors’ prior behavior and various control samples. Investors who learned the most from the intervention update their trading the most. The results suggest the free dividends fallacy is a significant source of dividend demand. Our study demonstrates that simple, targeted, and focused educational interventions can affect investment behavior.</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf074"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-10-06T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Prior literature on market categories and identities focuses primarily on whether categorical atypicality leads to positive or negative evaluation; however, much less is known about whether the evaluation is accurate or not. While it is important forproducersto know if atypicality is penalized or rewarded,audiencesare also concerned about whether their evaluation of atypical organizations is accurate, as well as how the evaluation can be improved. To shed light on this, we first test the association between categorical atypicality and evaluation accuracy. Distinguishing audiences in two dimensions – coverage coherence and typicality – we further theorize and examine which audiences are better able to evaluate atypical organizations. Analysing earnings forecasts for US firms, we find that analysts’ forecasts for atypical firms are not necessarily inaccurate, contrary to what prior theory would suggest. More importantly, the results show that analysts are more accurate in forecasting atypical firms when their coverages are more atypical and/or incoherent. The findings suggest that atypical and incoherent coverage enables analysts to better understand atypical firms, supporting our core conjecture of ‘unconventional audiences for atypical actors’.</content>
+    <link href="https://doi.org/10.1111/joms.70010"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-10-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf080</id>
-    <title>Collateral Effects: The Role of FinTech in Small Business Lending</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1007/s11142-025-09912-5</id>
+    <title>Do sustainability reports contain financially material information?</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
     <author>
-      <name>Paul Beaumont, Huan Tang, Eric Vansteenberghe</name>
+      <name>Suzanne Haley, Matthew Shaffer, Richard Sloan</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;This paper investigates the impact of introducing junior unsecured loans (i.e., FinTech loans) into the small business lending market. Using French administrative data, we find that firms experience a 13% increase in bank credit after receiving a FinTech loan. We use propensity score matching procedures and a shift-share instrument to account for credit demand. The credit increase only occurs when FinTech borrowers invest in new assets, and Fintech borrowers are subsequently more likely to pledge collateral to banks. This suggests that firms use FinTech loans to acquire assets that they then pledge to banks, thereby increasing total borrowing capacity.</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf080"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-10-06T00:00:00+00:00</published>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;Recent years have witnessed significant growth in corporate sustainability reporting. Yet existing research provides mixed evidence on the information content of these reports for investors. We examine the stock market reaction to the announcement of a sample of US corporate sustainability reports incorporating Sustainability Accounting Standards Board metrics that are intended to provide financially material information to investors. Using standard measures of information content, we cannot find compelling evidence that these reports provide a significant amount of new information to investors. Further analysis of a subset of common metrics indicates that they are either financially immaterial or preempted by traditional financial disclosures. Finally, we show that most firms target their sustainability reports at a broad set of sustainability-oriented stakeholders rather than a narrow set of financially oriented investors.</content>
+    <link href="https://doi.org/10.1007/s11142-025-09912-5"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2025-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdaf086</id>
-    <title>Patents, News, and Business Cycles</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1007/s11142-025-09914-3</id>
+    <title>Using narrative disclosures to predict tax outcomes</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
     <author>
-      <name>Silvia Miranda-Agrippino, Sinem Hacıoğlu-Hoke, Kristina Bluwstein</name>
+      <name>Olga Bogachek, Antonio De Vito, Paul Demeré, Francesco Grossetti</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We exploit information in patent applications to construct an instrumental variable for the identification of technology news shocks that relaxes all the identifying assumptions traditionally used in the literature. The instrument recovers news shocks that have no effect on aggregate productivity in the short-run, but are a significant driver of its trend component. The shock prompts a broad-based expansion in anticipation of the future increase in total factor productivity (TFP), with output, consumption, and investment all rising well before any material increase in TFP is recorded. Despite the positive conditional comovements, the shock only accounts for a modest share of fluctuations of macroeconomic aggregates at business cycle frequencies. Financial markets price-in news shocks on impact, while most of the macro aggregates respond with some delay.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf086"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-10-06T00:00:00+00:00</published>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;We examine whether narrative discussion in financial disclosures can help corporate stakeholders better predict tax outcomes. To measure qualitative discussion, we use topic modeling analysis to create measures of the thematic content of 10-K disclosures. We find that qualitative discussion in financial disclosures can substantially improve prediction of tax outcomes in in- and out-of-sample tests. We also find that prediction-relevant discussion is distributed throughout the 10-K, supporting that disclosures should be analyzed holistically rather than examining only limited pieces of larger disclosures. Further, we find that analysts often do not use this information effectively, resulting in predictable and economically meaningful forecast errors. These findings illustrate the wealth of qualitative information in 10-K disclosures for stakeholders concerned about tax outcomes and offer a practical approach to examining qualitative disclosures and using them to predict tax outcomes.</content>
+    <link href="https://doi.org/10.1007/s11142-025-09914-3"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2025-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdaf088</id>
-    <title>The Origins and Control of Forest Fires in the Tropics</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/00018392251387673</id>
+    <title>Reputation on the Line: How the Third-Party Dilemma Shapes Trust in High-Risk Work</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
     <author>
-      <name>Clare Balboni, Robin Burgess, Benjamin A Olken</name>
+      <name>Luke N. Hedden, Michael G. Pratt</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Environmental externalities – uncompensated damages imposed on others – lie at the root of climate change, pollution, deforestation and biodiversity loss. Empirical evidence is limited, however, as to how externalities drive private decision making. We study one such behavior, illegal tropical forest fires, using 15 years of daily satellite data covering over 107,000 fires across Indonesia. Weather-induced variation in fire spread risk and variation in who owns surrounding land allow us to identify how far externalities influence the decision to use fire. Relative to when all spread risks are internalized, we find that firms overuse fire when surrounded by unleased government lands where property rights are weak. In contrast, and consistent with the Coase Theorem, firms treat risks to nearby private concessions similarly to risks to their own land. Government sanctions, concentrated on fires spreading to populated areas, also deter fires, consistent with Pigouvian deterrence.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf088"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/qje/qjaf039</id>
-    <title>The Macroeconomic Consequences of Exchange Rate Depreciations</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>Masao Fukui, Emi Nakamura, Jón Steinsson</name>
-    </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We study the consequences of “regime-induced” exchange rate depreciations by comparing outcomes for peggers versus floaters to the U.S. dollar in response to a dollar depreciation. Pegger currencies depreciate relative to floater currencies and these depreciations are strongly expansionary. The boom is associated with a fall in net exports, and (if anything) an increase in interest rates in the pegger countries. This suggests that expenditure switching and domestic monetary policy are not the main drivers of the boom. We show that a large class of existing models cannot match our estimated responses and develop a model with imperfect financial openness that can. Following a depreciation, uncovered interest parity deviations lower the costs of borrowing from abroad and stimulate the economy, as in the data. The model is consistent with (unconditional) exchange rate disconnect and the Mussa fact, even though exchange rates have large effects on the economy.</content>
-    <link href="https://doi.org/10.1093/qje/qjaf039"/>
-    <category term="The Quarterly Journal of Economics"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06312</id>
-    <title>Retargeting Social Media Outreach for SNAP Take-Up</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>Parker Rogers</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In a California field experiment, I investigated the impact of a Facebook outreach campaign aimed at increasing enrollment in the Supplemental Nutrition Assistance Program (SNAP). The campaign used a promising marketing strategy known as “retargeting,” where ads were delivered to a randomly selected subset of over 16,000 eligible nonparticipants who had nearly completed the SNAP application process, while a control group remained unaffected. Despite leveraging ad content developed in collaboration with nonprofit and government partners, the campaign did not produce statistically or economically significant increases in enrollment, even when considering the extreme values of estimated confidence intervals.This paper was accepted by Jean-Pierre Dube, marketing.Funding: This work was supported by Code for America and the National Institute on Aging [Grant T32-AG000186].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06312 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06312"/>
-    <category term="Management Science"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/joom.70026</id>
-    <title>Unlocking Privacy in Healthcare: The Impact of Explanations on Privacy Concerns and Self‐Disclosure to Conversational Technologies</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>Hashai Papneja, Sarv Devaraj</name>
-    </author>
-    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;While artificial intelligence (AI)‐based conversational technologies offer exciting prospects in healthcare, the lack of transparency and elevated privacy concerns in using such technologies remain a challenge and make much‐needed information difficult to obtain while administering patient care. Approaches that emphasize transparency and interpretability of AI systems provide a promising avenue to address these concerns. In this study, we explore the role of transparency‐enhancing explanations as a way for caregivers to elicit truthful disclosure of otherwise private information from patients. Specifically, we explore how automated explanations provisioned by conversational technologies can help reduce the user's privacy concerns and bring about self‐disclosure, thus helping to improve key outcomes such as accurate diagnosis and effective treatment. Through an online experiment with 556 participants in a healthcare context, we uncover the mediating effects of two critical factors, informational justice and perceived relevance, on privacy concerns. We find that explanations foster perceptions of informational justice and perceived relevance in the user, which help reduce privacy concerns and bring about self‐disclosure. The study's findings have implications for researchers as well as practitioners who leverage conversational technologies in healthcare and other service contexts.</content>
-    <link href="https://doi.org/10.1002/joom.70026"/>
-    <category term="Journal of Operations Management"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13506</id>
-    <title>Subtle Discrimination</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>ELENA S. PIKULINA, DANIEL FERREIRA</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We introduce the concept ofsubtle discrimination—biased acts that cannot be objectively ascertained as discriminatory. When candidates compete for promotions by investing in skills, firms' subtle biases induce discriminated candidates to overinvest when promotions are low‐stakes (to distinguish themselves from favored candidates) but underinvest in high‐stakes settings (anticipating low promotion probabilities). This asymmetry implies that subtle discrimination raises profits in low‐productivity firms but lowers them in high‐productivity firms. Although subtle biases are small, they generate large gaps in skills and promotion outcomes. We derive further predictions in contexts such as equity analysis, lending, fund flows, banking careers, and entrepreneurial finance.</content>
-    <link href="https://doi.org/10.1111/jofi.13506"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13503</id>
-    <title>Going for Broke: Bank Reputation and the Performance of Opaque Securities</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>ABE DE JONG, TIM KOOIJMANS, PETER KOUDIJS</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Can banks’ reputational concerns improve the quality of opaque, off‐balance sheet securities, such as mortgage‐backed securities? We study this question in a uniquely parsimonious setting. In the 1760s, Dutch banking partnerships securitized West‐Indian plantation mortgages that were risky and opaque. High‐reputation banks originated better mortgages and issued securities that, on average, retained 17.5% more of their value during a market collapse. Reputational effects are attenuated when the managing partners were married into wealth or received a large share of profits in the short term, suggesting that bank reputation only works if bankers are personally exposed to (long‐run) reputational losses.</content>
-    <link href="https://doi.org/10.1111/jofi.13503"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13502</id>
-    <title>The Stock Market and Bank Risk‐Taking</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>ANTONIO FALATO, DAVID SCHARFSTEIN</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Using confidential supervisory risk ratings, we document that banks increase risk after going public compared to a control group of banks that filed to go public but withdrew their filings for plausibly exogenous reasons. The increase in risk improves short‐term performance at the expense of long‐term performance. We argue that the increase in risk stems from pressure to maximize short‐term stock prices and earnings once the bank is publicly traded. After going public, banks owned by investors that place greater value on short‐term performance increase risk more, and those managed by CEOs with more short‐term compensation also increase risk more.</content>
-    <link href="https://doi.org/10.1111/jofi.13502"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1196</id>
-    <title>Unveiling the Strategic Impacts of Extending Membership-Based Free Shipping Programs Beyond the Online Marketplaces</title>
-    <updated>2025-10-06T00:00:00+00:00</updated>
-    <author>
-      <name>Geng Sun, Huseyin Cavusoglu, Srinivasan Raghunathan</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Online marketplaces are increasingly extending their membership-based free shipping (MFS) programs to include external sellers, transforming logistics capabilities into a “logistics-as-a-service” (LaaS) model. This study uses a game-theoretic approach to analyze the implications of such extensions, with Amazon as a leading example. Contrary to the widespread belief that LaaS is a stand-alone profit center, our findings reveal that the primary value of extended MFS lies in enhancing the marketplace’s core business. By attracting member consumers and optimizing fulfillment operations, marketplaces can increase commission revenues and reduce per-order logistics costs—even if LaaS itself operates at a loss. Importantly, this strategy can benefit the broader marketplace ecosystem, including both internal and external sellers and member consumers, while potentially disadvantaging nonmembers. For practitioners and policymakers, these results underscore the need to rethink competitive dynamics and pricing strategies in digital platforms. Rather than viewing extended MFS solely as a logistics monetization tool, it should be seen as a strategic lever for shaping marketplace structure, seller participation, and consumer behavior.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1196"/>
-    <category term="Information Systems Research"/>
-    <published>2025-10-06T00:00:00+00:00</published>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;Despite scholars’ increasing acknowledgment of the role third parties can play in others’ trust decisions, we know very little about what motivates these parties’ information sharing. Our research examines this process via a qualitative, inductive study of linemen: the men and women who work on power lines. We show how features of their work context give rise to a strong reliance on third-party information for trust and strong accountability for third parties who share reputational information. These conditions cultivate what we call the “third-party dilemma”: Linemen feel trapped between desires to keep trustors safe and desires to protect their own reputations. We further explain how the information-sharing practices by which they manage this dilemma ultimately affect the trust triad by allowing third parties to partially safeguard their reputations, encouraging trustors to provisionally grant or withhold trust, and subjecting trustees to either sticky negative reputations or fragile positive reputations. These dynamics encourage lower trust within the triad. We conclude by highlighting the importance of the work context in shaping third-party motives, discussing the trust-related implications of how the third-party dilemma is managed, and redirecting trust research beyond dyadic (trustor–trustee) models of trust.</content>
+    <link href="https://doi.org/10.1177/00018392251387673"/>
+    <category term="Administrative Science Quarterly"/>
+    <published>2025-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70006</id>
