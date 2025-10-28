@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-10-27T13:40:11.604656+00:00</updated>
+  <updated>2025-10-28T13:43:09.961990+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -619,18 +619,6 @@
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.04026</id>
-    <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
-    <updated>2025-10-17T00:00:00+00:00</updated>
-    <author>
-      <name>Menglong Li, David Simchi-Levi, Renfei Tan, Chonghuan Wang, Michelle Xiao Wu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
-    <category term="Management Science"/>
-    <published>2025-10-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01560</id>
     <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
     <updated>2025-10-17T00:00:00+00:00</updated>
@@ -639,6 +627,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
+    <category term="Management Science"/>
+    <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04026</id>
+    <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
+    <updated>2025-10-17T00:00:00+00:00</updated>
+    <author>
+      <name>Menglong Li, David Simchi-Levi, Renfei Tan, Chonghuan Wang, Michelle Xiao Wu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
     <category term="Management Science"/>
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
@@ -1164,6 +1164,30 @@
     <published>2025-10-26T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/rfs/hhaf090</id>
+    <title>Financial Advisors and Investors’ Bias</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Marianne Andries, Maxime Bonelli, David Sraer</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We study an intervention by a brokerage firm providing advisory services to high-net-worth investors. In 2018, the firm changed the information displayed on its internal platform, so that financial advisors could no longer observe which clients’ holdings were in paper gain or loss. Using data on portfolio stock transactions between 2016 and 2021, we show that, while all investors exhibit a significant disposition effect before 2018, that is, a greater propensity to realize gains than losses, highly advised investors see their bias significantly reduced afterward. Our paper shows financial firms can successfully reduce clients’ biases by appropriately manipulating advisors’ information.</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf090"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhaf059</id>
+    <title>Technological Obsolescence</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Song Ma</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;This paper proposes a new measure of technological obsolescence using detailed patent data. The measure contains incremental information about firm innovation relative to measures focusing on new innovation. Using this measure, we present two sets of results. First, firms’ technological obsolescence foreshadows substantially lower growth, productivity, and reallocation of capital. This finding mainly applies to obsolescence of core innovation and embodied innovation, and it is stronger in competitive product markets. Second, in stock markets, high-obsolescence firms underperform low-obsolescence firms by 7% annually. Using analyst forecast data, we show this is due to a systematic overestimation of future profits of obsolescent firms. (JEL O3, O4, G1, G3)</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf059"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1007/s11142-025-09912-5</id>
     <title>Do sustainability reports contain financially material information?</title>
     <updated>2025-10-27T00:00:00+00:00</updated>
@@ -1188,6 +1212,66 @@
     <published>2025-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478251395431</id>
+    <title>EXPRESS: Redesigning Harvesting Processes and Improving Working Conditions in Agribusiness</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Dongsheng Li, Saurabh Bansal, Phillip S. Coles, Karthik Natarajan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We collaborate with a leading mushroom producer in North America to investigate the potential benefits of redesigning agribusiness operations, specifically, harvesting processes, to enhance both firm performance and working conditions of employees. We consider two harvesting protocols: the dominant status-quo practice, namely Harvest-all and an alternative, namely Selective Harvesting. In the Harvest-all protocol, workers pick all crop units in the areas assigned to them, regardless of the crops’ size and maturity, resulting in higher productivity but lower average value (quality) of the harvested produce. Workers also remain in demanding physical postures for longer periods of time, resulting in ergonomic stress. In contrast, under the Selective Harvesting protocol, workers take multiple rounds to completely harvest the assigned area, picking in each round only the select crop units that are near their peak monetary value. This results in lower productivity but higher average quality of the harvested produce and better ergonomic conditions. We develop mathematical models to analyze the two harvesting protocols, provide a complete analytical characterization of the optimal managerial decisions under each protocol, and examine how these decisions are influenced by relevant contextual factors. In addition, we characterize the performance of each harvesting protocol along three key performance metrics of interest: firm profitability, worker monetary welfare, and worker ergonomic welfare. Using both analytical and calibrated numerical methods we show that adopting Selective Harvesting over Harvest-all can create win-win scenarios where both the firm and workers are better off. However, our analysis reveals that the firm’s and workers’ interests may not always be fully aligned. We subsequently demonstrate that the misalignment can be reduced by making adjustments to the compensation structure so that workers’ earnings match the maximum potential value while having minimal impact on firm profitability. Our models illustrate the benefits of careful process redesign in creating better working conditions for employees and advancing firms’ social responsibility practices.</content>
+    <link href="https://doi.org/10.1177/10591478251395431"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0593</id>
+    <title>Trading Prophets</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>José Correa, Andrés Cristi, Paul Dütting, Mohammad Hajiaghayi, Jan Olkowski, Kevin Schewior</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;The prophet inequality is a cornerstone of online decision making, comparing a sequential decision maker to a prophet who knows all outcomes in advance. In “Trading Prophets,” J. Correa, A. Cristi, P. Dütting, M. Hajiaghayi, J. Olkowski, and K. Schewior initiate the study of buy-and-sell prophet inequalities. Here, an online algorithm observes a sequence of prices, one after the other, to trade an item. At each time step, the algorithm can decide to buy and pay the current price if it does not already hold the item, or it can decide to sell and collect the current price as a reward if it holds the item. The authors identify settings where a constant-factor approximation to the all-knowing prophet benchmark can be achieved. Interestingly, these conditions differ from those required for standard prophet inequalities. Specifically, they show that no constant-factor inequality exists for arbitrary independent prices. In contrast, they prove that a constant factor is achievable when independent prices arrive in a random order.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0593"/>
+    <category term="Operations Research"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1009</id>
+    <title>A Data-Driven Approach to Improve Artisans’ Productivity in Distributed Supply Chains</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Divya Singhvi, Somya Singhvi, Xinyu Zhang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Smarter Supervision Lifts Rural Weavers’ ProductivityFrequent, predictable supervisor visits can be a powerful lever for boosting artisan productivity in distributed supply chains, according to a study conducted with Jaipur Rugs in India. Analyzing loom-level data, the authors show that reducing the average gap between visits by just one day raises weaving rates by 8.5%—with more substantial gains on complex rugs and when visits follow consistent schedules. Building on these insights, they develop a routing and scheduling framework that targets those looms most in need of support. In a 25-week field implementation covering about 6,000 visits across 200 looms, sites assigned to optimized routes saw a 16.7% increase in weaving speed relative to controls, highlighting a practical, low-cost pathway to higher earnings for rural women weavers. The research suggests that data-driven supervision in other supply chains with a similar structure (e.g., smallholder agriculture) could boost productivity and earnings, offering an operational lever for poverty alleviation at scale.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1009"/>
+    <category term="Operations Research"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.02260</id>
+    <title>Context-Based Dynamic Pricing with Separable Demand Models</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Jinzhi Bu, David Simchi-Levi, Chonghuan Wang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Motivated by the empirical evidence observed from the real-world data set, this paper studies context-based dynamic pricing with separable demand models. Consider a seller selling a product over a finite horizon of T periods and facing an unknown expected demand function that admits a separable structure [Formula: see text], where [Formula: see text] and [Formula: see text] denote the product’s price and features, respectively. The seller does not know the exact expression of [Formula: see text] or [Formula: see text] but can dynamically adjust prices in each period based on the observed features and demands to learn their forms. The seller’s objective is to maximize the T-period expected revenue. We systematically characterize the statistical complexity of the online learning problem under three configurations of demand models with different structures of [Formula: see text] and [Formula: see text]. For each model, we design an efficient online learning algorithm with a provable regret upper bound. We also show that the upper bound is generally unimprovable by proving a matching regret lower bound in certain parameter regimes. Our results reveal fundamental differences in the optimal regret rates when [Formula: see text] and [Formula: see text] are endowed with different structures. The numerical results demonstrate that our learning algorithms are more effective than benchmark algorithms for all the three models and also show the effects of the parameters associated with [Formula: see text] and [Formula: see text] on the algorithm’s empirical regret.This paper was accepted by J. George Shanthikumar, data science.Funding: The authors acknowledge support from the MIT Data Science Laboratory. J. Bu acknowledges support from the Research Grants Council of Hong Kong [Early Career Scheme Grant PolyU 25505322].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.02260 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.02260"/>
+    <category term="Management Science"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.03931</id>
+    <title>The Authenticity of Purpose Claims: Firm Capacity and Job Seeker Responses to Recruitment Efforts</title>
+    <updated>2025-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>León Valdés, Trevor Young-Hyman, Evan Gilbertson, C. B. Bhattacharya, Oliver Hahl</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Whereas corporate purpose involves a claim made to galvanize stakeholders, recent research on the topic has not examined it as a claim. Given the information asymmetry that many evaluators of purpose claims face, a key question concerns the conditions under which they are not simply viewed as cheap talk but are instead perceived as authentic. We argue that the difficulty and future orientation inherent to purpose claims make firm capacity a key source of authenticity and, ultimately, positive evaluations. We examine these ideas in the labor market context, where employers often present purpose claims to job seekers facing information asymmetry. First, we develop and validate a novel measure of purpose claim strength using a combination of topic modeling, dictionary-based validation, and experimental validation. Using this measure, we test our capacity hypothesis with job application field data, using firm size as a proxy for capacity. We find that high-purpose job posts receive approximately 50% more applications than low-purpose job posts when the firm has more than 1,000 employees, but only receive about a 10% increase when the firm has fewer than 50 employees. In a second study, we use vignette experiments to directly test our hypothesized mechanism. We show that, conditional on a strong purpose claim, size manipulations shape capacity perceptions, leading to greater perceived authenticity and increased application likelihood. Next, holding size constant, we show that an affiliation-based manipulation leads to similar results. Our paper helps scholars understand what gives authenticity to purpose claims and helps practitioners understand how they can more effectively communicate purpose.This paper was accepted by Lamar Pierce, organizations.Funding: This research was supported by funding from the Center for Sustainable Business at the University of Pittsburgh School of Business.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03931 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03931"/>
+    <category term="Management Science"/>
+    <published>2025-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/00018392251387673</id>
     <title>Reputation on the Line: How the Third-Party Dilemma Shapes Trust in High-Risk Work</title>
     <updated>2025-10-27T00:00:00+00:00</updated>
@@ -1198,114 +1282,6 @@
     <link href="https://doi.org/10.1177/00018392251387673"/>
     <category term="Administrative Science Quarterly"/>
     <published>2025-10-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/sej.70006</id>
-    <title>Anti‐labor environments and employee entrepreneurship: Evidence from right‐to‐work laws</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Daehyun Kim, Namil Kim, Haemin Dennis Park</name>
-    </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;We explore how changes in labor unions and related labor environments affect employees' likelihood of starting a new business. We suggest that the enactment of stringent anti‐union laws reduces incentives for employees to stay with their respective workplaces and increases the attractiveness of becoming self‐employed. Using the adoption of right‐to‐work (RTW) laws in Michigan and Indiana as a quasi‐natural experiment, we find that the likelihood of employees becoming self‐employed increased by 53% compared with that of states without RTW laws. Moreover, this tendency is more pronounced for blue‐collar and low‐wage workers who start unincorporated businesses. These findings offer novel insights on the relationship between anti‐labor environments and necessity‐driven entrepreneurship by focusing on individual‐level incentives in non‐knowledge‐intensive sectors.Managerial SummaryChanges in employment conditions influence employees to consider starting their own businesses, yet our understanding of how these changes drive individuals toward entrepreneurship remains limited. This study explores how weakened labor union power affects workers' engagement in entrepreneurial activities, with a focus on the types of employees impacted and the businesses that they start. By examining the adoption of RTW laws in Michigan and Indiana, we find that weakened labor union power disproportionately affects blue‐collar and low‐wage workers, increasing their likelihood of starting unincorporated businesses. These results suggest that managers and policymakers should consider the challenges faced by these workers and how changes in employment conditions may shape their career choices.</content>
-    <link href="https://doi.org/10.1002/sej.70006"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf077</id>
-    <title>Regulating CEO Pay: Evidence from the Nonprofit Revitalization Act</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Ilona Babenko, Benjamin Bennett, Rik Sen</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;This paper examines CEO pay at nonprofits. Using compensation data for 14,111 nonprofits, we find that CEO pay dropped by 2% after legislation in New York reduced CEOs’ ability to influence their own pay. Despite lower pay, CEOs exerted more effort, and nonprofit performance improved. The effects were stronger at commercial nonprofits than at charities and for male CEOs than female CEOs. These findings are consistent with a model where some nonprofit CEOs derive meaning from their work and compensation can be rigged. Overall, our results suggest that regulation that targets the pay-setting process can improve organizational outcomes at nonprofits. (JEL G30, G32)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf077"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf082</id>
-    <title>Anticipatory Trading Against Distressed Mega Hedge Funds</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Vikas Agarwal, George O Aragon, Vikram Nanda, Kelsey Wei</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Stocks expected to be sold by distressed mega hedge funds (MHFs) face anticipatory institutional selling and increased short interest. However, no evidence of anticipatory trading is found in stocks held by nondistressed MHFs, distressed non-MHFs, or stocks confidentially held by distressed MHFs, suggesting that public portfolio disclosure by large and closely followed distressed investors, and not common investment signals, drives anticipatory trading. Distressed MHFs with greater exposure to such anticipatory trading suffer 2.21% lower style-adjusted returns. Stocks subject to anticipatory trading experience negative abnormal returns followed by reversals, indicating the price destabilizing effect of anticipatory trading. (JEL G12, G20, G23)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf082"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdaf089</id>
-    <title>What Do Policies Value?</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Daniel Björkegren, Joshua E Blumenstock, Samsun Knight</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;When a policy prioritizes one person over another, is it because they benefit more, or because they are preferred? This paper develops a method to uncover the values consistent with observed allocation decisions. We estimate how much each individual benefits from an intervention, and then reconcile the allocation with (i) the welfare weights assigned to different people; (ii) heterogeneous treatment edects of the intervention; and (iii) weights on different outcomes. We demonstrate this approach by analyzing Mexico’s PROGRESA anti-poverty program. The analysis reveals that while the program prioritized certain subgroups — such as indigenous households — the fact that those groups benefited more implies that the program did not actually assign them a higher welfare weight. We also find evidence that the policy valued outcomes differently from households. The PROGRESA case illustrates how the method makes it possible to audit existing policies, and to design future policies that better align with values.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf089"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.04350</id>
-    <title>What Happens to Corporate Investment in Bad Times?</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Shahram Amini, Andrew MacKinlay, Brian Rountree, James Weston</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recent studies suggest monitoring increases during economic downturns. In this study, we test whether firms’ abnormal investment activity changes across the business cycle. Focusing on recessions, we find that firms not only curtail overinvestment but also reduce underinvestment, with the combined effect representing a significant 9% of average investment. Employing various proxies for monitoring intensity, we demonstrate that stronger governance mechanisms are associated with more pronounced reductions in abnormal investment. Importantly, the influence of governance on abnormal investment is magnified during recessions relative to other periods. These results are robust to a wide array of control variables, methodologies, and potential endogeneity concerns. Our findings underscore the time-varying benefits of corporate monitoring and highlight the periods when governance mechanisms may be most effective.This paper was accepted by Bo Becker, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04350 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.04350"/>
-    <category term="Management Science"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13497</id>
-    <title>CEO Stress, Aging, and Death</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>MARK BORGSCHULTE, MARIUS GUENZEL, CANYAO LIU, ULRIKE MALMENDIER</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We assess the long‐term effects of managerial stress on aging and mortality. Using a difference‐in‐differences design, we apply neural network–based machine‐learning techniques to CEOs' facial images and show that exposure to industry distress shocks during the Great Recession produces visible signs of aging. We estimate a one‐year increase in “apparent” age. Moreover, using data on CEOs since the mid‐1970s, we estimate a 1.1‐year decrease in life expectancy after an industry distress shock, but a two‐year increase when antitakeover laws insulate CEOs from market discipline. The estimated health costs are significant, both in absolute terms and relative to other health risks.</content>
-    <link href="https://doi.org/10.1111/jofi.13497"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13505</id>
-    <title>Value without Employment</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>SIMCHA BARKAI, STAVROS PANAGEAS</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Young firms' contribution to aggregate employment has been underwhelming. We show that a similar trend is not apparent, however, in their contribution to aggregate sales or stock market capitalization, implying that these firms have exhibited a high average‐to‐marginal revenue product of labor. We study the implications of a gradual shift in the average‐to‐marginal revenue product of labor within a model of dynamic firm heterogeneity. We show that this shift provides (i) a unified explanation for several aspects of the decline in dynamism and (ii) a possible explanation for why large declines in young‐firm employment may have only a moderate effect on aggregate output and consumption.</content>
-    <link href="https://doi.org/10.1111/jofi.13505"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.13507</id>
-    <title>Asset Pricing and Risk‐Sharing Implications of Alternative Pension Plan Systems</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>NUNO COIMBRA, FRANCISCO GOMES, ALEXANDER MICHAELIDES, JIALU SHEN</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We show that incorporating defined benefit pension funds in an incomplete markets asset pricing model improves its ability to match the historical equity premium and riskless rate and has important risk‐sharing implications. We document the importance of the pension fund's size and asset demands, and a new risk channel arising from fluctuations in the fund's returns. We use our calibrated model to study the implications of a shift to an economy with defined contribution plans. The new steady state is characterized by a higher riskless rate and a lower equity premium. Consumption volatility increases for retirees but decreases for workers.</content>
-    <link href="https://doi.org/10.1111/jofi.13507"/>
-    <category term="The Journal of Finance"/>
-    <published>2025-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1097</id>
-    <title>Beyond Pairwise Network Interactions: Implications for Information Centrality</title>
-    <updated>2025-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Sandro Claudio Lera, Yan Leng</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations and policymakers increasingly rely on network metrics to decide whom to inform, monitor, or support. Yet most networks treat interactions as pairs, even when the underlying activity occurs in groups—project teams, chat channels, meetings, or news articles that mention multiple firms. Collapsing groups into one-to-one links can misidentify who matters. We propose a practical alternative: Model group interactions directly as a hypergraph and compute centrality from a two-step diffusion process that captures how information moves across and within groups. The approach provides a transparent way to incorporate domain knowledge (e.g., whether people enter large or small groups first) and produces testable interpretable rankings. We evaluate the method in three settings—open-source software, a high school interaction study, and financial comentions—and find that hypergraph-based, theory-informed centrality better explains outcomes such as project success, student popularity, and same-day returns than standard graph centralities. For practice and policy, this yields more effective targeting, earlier warning signals, and improved allocation of attention and resources in collaborative work, public health, and market surveillance. We release an open-source Python package (HyperCentral) to support adoption.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1097"/>
-    <category term="Information Systems Research"/>
-    <published>2025-10-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/orsc.2023.17966</id>
