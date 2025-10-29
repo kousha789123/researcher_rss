@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-10-28T13:43:09.961990+00:00</updated>
+  <updated>2025-10-29T13:41:35.108542+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -619,18 +619,6 @@
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01560</id>
-    <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
-    <updated>2025-10-17T00:00:00+00:00</updated>
-    <author>
-      <name>Veronika K. Pool, Clemens Sialm, Irina Stefanescu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
-    <category term="Management Science"/>
-    <published>2025-10-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.04026</id>
     <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
     <updated>2025-10-17T00:00:00+00:00</updated>
@@ -639,6 +627,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
+    <category term="Management Science"/>
+    <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.01560</id>
+    <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
+    <updated>2025-10-17T00:00:00+00:00</updated>
+    <author>
+      <name>Veronika K. Pool, Clemens Sialm, Irina Stefanescu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
     <category term="Management Science"/>
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
@@ -1284,64 +1284,100 @@
     <published>2025-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2023.17966</id>
-    <title>Tight, Loose, or Denied Holding: How Interpersonal Holding Shapes Innovators’ Responses to Innovation Obstacles</title>
-    <updated>2025-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/rfs/hhaf093</id>
+    <title>Convenience Yield, Inflation Expectations, and Public Debt Growth</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
     <author>
-      <name>Luke N. Hedden, Beth S. Schinoff, Ned Wellman, Rebecca Blanchard</name>
+      <name>Julie Zhiyu Fu, Jian Li, Yinxi Xie</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Innovating at work often requires persistence through distressing obstacles and failures. When innovators experience such distress, they may engage colleagues for interpersonal holding—a process in which the colleague (i.e., “holder”) helps contain the innovator’s distress and provides new ways of understanding the obstacle that incited that distress. Prior research has made great strides in explaining what holding processes share in common across different individuals and in different contexts. However, through an inductive study based on 91 semistructured interviews with 74 innovators in a large hospital system, we find significant variation in the dynamics of interpersonal holding. Our analysis uncovered three distinct “interpersonal holding trajectories”—tight holding, loose holding, and denied holding trajectories. At the heart of these trajectories are distinct interpersonal holding episodes. Each episode varies by how holders engage with the innovators’ distress and the obstacles that caused the distress. These distinct episodes uniquely reinforced (or not) our informants’ innovator identities, ultimately influencing divergent responses to the obstacles that they faced. By building theory from the perspective of those who seek holding, our findings highlight important divergences in how interpersonal holding may unfold and identify important implications for innovators and their organizations.Funding: This work was supported by Globoforce.</content>
-    <link href="https://doi.org/10.1287/orsc.2023.17966"/>
-    <category term="Organization Science"/>
-    <published>2025-10-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We present new facts on how convenience yields fluctuate with macroeconomic variables and fiscal policy: the convenience yield of long-term Treasuries is negatively correlated with inflation expectations, and inflation expectations predict future debt-to-GDP growth. To rationalize these findings, we incorporate the convenience yield into a macro-finance model with endogenous fiscal policy. The government finances deficit shocks partially through higher inflation and partially through more future borrowing, which reduces the convenience yield today. The feedback loop between the convenience yield and future debt supply amplifies the effect of fiscal shocks. We further verify this channel using empirically constructed exogenous deficit shocks. JEL E31, G12, E62, E63</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf093"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.04037</id>
-    <title>Intraday Liquidity and Money Market Dislocations</title>
-    <updated>2025-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/rfs/hhaf058</id>
+    <title>How Likely Is an Inflation Disaster?</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
     <author>
-      <name>Adrien d’Avernas, Baiyang Han, Quentin Vandeweyer</name>
+      <name>Jens Hilscher, Alon Raviv, Ricardo Reis</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper proposes a new model of monetary policy implementation to account for two key developments: (i) the introduction of intraday liquidity requirements and (ii) the decreasing relevance of the federal funds market in favor of repurchase agreement (repo) markets with nonbank participants. Our paper studies how liquidity requirements prevent banks from arbitraging between the fed funds and repo markets and generate large repo spikes. We propose a simple measure of excess intraday reserves. Consistent with our theory, this metric is close to zero in 2019Q2, when U.S. repo markets experienced a spike of 400 basis points.This paper was accepted by Lukas Schmid, finance.Funding: This work was supported by Fama-Miller Center for Research in Finance, Booth School of Business, University of Chicago.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04037 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.04037"/>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Long-dated inflation swap contracts provide widely used estimates of expected inflation. We develop methods to estimate complementary tail probabilities for persistently very high or low inflation using inflation options prices. We show that three new adjustments to conventional methods are crucial: inflation, horizon, and risk. We find that: (a) U.S. deflation risk in 2011–2014 has been overstated, (b) ECB unconventional policies lowered deflation disaster probabilities, (c) inflation expectations deanchored in 2021–2022, (d) reanchored as policy tightened, (e) but the 2021–2024 disaster left scars, and (f) U.S. expectations are less sensitive to inflation realizations than in the eurozone. (JEL E31, E44, E52, G13)</content>
+    <link href="https://doi.org/10.1093/rfs/hhaf058"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2025-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0427</id>
+    <title>Integrated Conditional Estimation-Optimization</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Meng Qi, Paul Grigas, Zuo-Jun (Max) Shen</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Many real-world optimization problems involve uncertain parameters with probability distributions that can be estimated using contextual feature information. In contrast to the standard approach of first estimating the distribution of uncertain parameters and then optimizing the objective based on the estimation, we propose an integrated conditional estimation-optimization (ICEO) framework that estimates the underlying conditional distribution of the random parameter while considering the structure of the optimization problem. We directly model the relationship between the conditional distribution of the random parameter and the contextual features and then estimate the probabilistic model with an objective that aligns with the downstream optimization problem. We show that our ICEO approach is asymptotically consistent under moderate regularity conditions and further provide finite performance guarantees. Computationally, performing estimation with the ICEO approach is a nonconvex and often nondifferentiable optimization problem. We propose a general methodology for approximating the potentially nondifferentiable mapping from estimated conditional distribution to the optimal decision by a differentiable function, which greatly improves the performance of gradient-based algorithms. Numerical experiments demonstrate the empirical success of our approach in different situations, including with limited data samples and model mismatches.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0427"/>
+    <category term="Operations Research"/>
+    <published>2025-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2024.0948</id>
+    <title>Shrinkflation and Consumer Demand</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Aljoscha Janssen, Johannes Kasinger</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.</content>
+    <link href="https://doi.org/10.1287/mksc.2024.0948"/>
+    <category term="Marketing Science"/>
+    <published>2025-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04294</id>
+    <title>Bad-Drug Ads or Killer Ads: The Effects of Drug Injury Advertising on Public Health</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Sylvia Hristakeva</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper analyzes the impact of lawsuit advertisements targeting drug companies. Although the main purpose of the ads is to recruit potential lawsuit plaintiffs, they also reach a broad audience of viewers. Medical professionals have raised concerns that drug injury ads may lead uninjured patients to misperceive the risks and benefits of treatment, leading them to discontinue medically necessary drugs. The paper examines how drug injury ads affect prescription fills and subsequent health outcomes. The empirical context analyzes anticoagulants, which are commonly used by elderly patients to prevent strokes. The study finds that drug injury ads lead to a decrease in filled prescriptions for targeted drugs and a corresponding increase in hospitalizations for conditions treated with anticoagulants. These results point to meaningful public health consequences and highlight the benefits from policy responses that promote accurate and balanced information.This paper was accepted by Jean-Pierre Dube, marketing.Funding: Financial support for this research was generously provided through the National Science Foundation [Grant SES-1919040] and the Morrison Center for Marketing and Data Analytics.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.04294 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04294"/>
     <category term="Management Science"/>
-    <published>2025-10-08T00:00:00+00:00</published>
+    <published>2025-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.01197</id>
-    <title>Overcoming Deceptive Evasions in Earnings Calls: The Role of Investor Suspicion</title>
-    <updated>2025-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2023.04183</id>
+    <title>Care for the Mind amid Chronic Diseases: An Interpretable AI Approach Using IoT</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
     <author>
-      <name>Leonardo P. Barcellos</name>
+      <name>Jiaheng Xie, Xiaohang Zhao, Xiang Liu, Xiao Fang</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Evasive responses enable managers to escape difficult questions in earnings calls without lying. Although such tactics are common in corporate communication and other important settings, we still know little about how investors and other listeners can avoid being misled by them. Drawing on theories from multiple disciplines, I predict that a common type of nonanswer leads to equivocal interpretations, whereas artful dodges escape detection in earnings calls. However, when investors adopt a suspicious state of mind—characterized by suspended judgment, balanced information search, and consideration of plausible rival possibilities—they are better able to distinguish potentially deceptive evasive tactics from proper responses. My experimental results support these predictions, showing that suspicious thinking allows investors to overcome nonanswers and dodges without punishing adequate responses. I also provide evidence that nonanswers and dodges are unique evasive strategies and that simple interventions aligned with the context of earnings calls can prompt suspicion. These findings contribute to research on the informational role of earnings calls and offer new insights into how suspicion influences deception judgments and into previous research on evasive responses in earnings calls.This paper was accepted by Ranjani Krishnan, accounting.Funding: The author acknowledges financial support from the Deloitte Foundation, the Roberto C. Goizueta Foundation, the W. P. Carey School of Business, and the Sheth Fellowship Fund.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01197 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.01197"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Health sensing for chronic disease management creates immense benefits for social welfare. Existing health sensing studies primarily focus on the prediction of physical chronic diseases. Depression, a widespread complication of chronic diseases is, however, understudied. We draw on the medical literature to support depression detection using motion sensor data. To connect humans in this decision making, safeguard trust, and ensure algorithm transparency, we develop an interpretable deep learning model: temporal prototype network (TempPNet). TempPNet is built on the emergent prototype learning models. To accommodate the temporal characteristic of sensor data and the progressive property of depression, TempPNet differs from existing prototype learning models in its capability of capturing temporal progressions of prototypes. Extensive empirical analyses using real-world motion sensor data show that TempPNet outperforms state-of-the-art benchmarks in depression detection. Moreover, TempPNet interprets its decision by visualizing the temporal progression of depression and its corresponding symptoms detected from sensor data. We further employ a user study and a medical expert panel to demonstrate its superiority over the benchmarks in interpretability. This study offers an algorithmic solution for impactful social good—collaborative care of chronic diseases and depression in health sensing. Methodologically, it contributes to extant literature with a novel interpretable deep learning model for depression detection from sensor data. Patients, doctors, and caregivers can deploy our model on mobile devices to monitor patients’ depression risks in real time. Our model’s interpretability also allows human experts to participate in the decision making by reviewing the interpretation and making informed interventions.This paper was accepted by D. J. Wu, information systems.Funding: J. Xie and X. Fang are supported by the University of Delaware Research Foundation Strategic Initiatives Grant and Alfred Lerner College of Business and Economics Research Grant, X. Zhao acknowledges financial support from the National Natural Science Foundation of China [Grant 72401172] and the Fundamental Research Funds for the Central Universities [Grant 2023110139, 2023110318]. J. Xie and X. Fang did not receive any form of support from, nor do they have any affiliation with, X. Zhao’s funding sources.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.04183 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04183"/>
     <category term="Management Science"/>
-    <published>2025-10-08T00:00:00+00:00</published>
+    <published>2025-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.00463</id>
-    <title>Shareholderism Around the World: Corporate Purpose, Culture, and Law</title>
-    <updated>2025-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2024.07432</id>
+    <title>Behind the Curtain of Workforce Diversity: Evidence from EEO-1 Reports</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
     <author>
-      <name>Renée B. Adams, Amir N. Licht</name>
+      <name>Thomas Bourveau, Rachel W. Flam, Anthony Le</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We provide the first comprehensive analysis of directors’ shareholderism: their principled stance toward shareholders and stakeholders in forming strategy. We develop an analytical framework that links shareholderism to individual and institutional factors and test our theoretical predictions using a sample of more than 900 directors originating from 55 countries and serving in 23 countries. Directors’ shareholderism varies according to their individual values; their cultural heritage of egalitarianism, harmony, and embeddedness; and their status as expatriate directors. Directors’ shareholderism does not appear to depend on the distinction between common and civil law. Instrumental variable regressions that address the endogeneity of directors’ expatriate status suggest that expatriates’ and local directors’ shareholderism reflect different cultural emphases. To be effective, current approaches to ensuring corporations do the “right” thing through legal injunctions may need to be mindful of the stability and resilience of individual values and culture.This paper was accepted by David Simchi-Levi, business strategy.Funding: A. N. Licht acknowledges financial support from the Israeli Science Foundation [Grant 342/08].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2222.00463 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.00463"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We leverage the 2023 court-ordered Freedom of Information Act release of standardized Equal Employment Opportunity (EEO-1) reports to examine the workforce diversity of federal contractors. Using the released data for a sample of more than 19,000 publicly traded and private firms, we provide descriptive evidence on the variation in gender and racial diversity of these companies’ workforce. We also document the existence of a racial gap between managers and lower-level employees. A substantial portion of that gap cannot be explained by industry or geographic factors, reflecting the influence of firm-level characteristics. Then, focusing on a sample of more than 800 publicly traded federal contractors, we find robust evidence that the racial managerial gap is associated with firms’ decision to withhold the voluntary disclosure of their EEO-1 forms. Although our findings are subject to several caveats, we provide important evidence on workforce diversity and highlight the importance of using granular, firm-level data to study diversity topics.This paper was accepted by Eric So, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.07432 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07432"/>
     <category term="Management Science"/>
-    <published>2025-10-08T00:00:00+00:00</published>
+    <published>2025-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/jcr/ucaf045</id>
-    <title>Painful Prices: The Moral Harm Model of Price Fairness</title>
-    <updated>2025-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2024.08465</id>
+    <title>Effects of Financial Constraints on Supply Chain Financing Choices and Operational Decisions</title>
+    <updated>2025-10-28T00:00:00+00:00</updated>
     <author>
-      <name>Margaret C Campbell, Justin Pomerance, Erin L Percival Carter</name>
+      <name>Anqi Wu, Qi Wu, Sridhar Seshadri</name>
     </author>
-    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Consumers’ responses to seller’s prices, including perceptions of price fairness (PPF) and unfairness, are a crucial aspect of the marketplace. Although past literature has uncovered a variety of factors that influence PPF, the lack of an overarching conceptual framework has constrained understanding of when and why consumers are more likely to perceive prices as fair or unfair. The authors develop a conceptual model of PPF as moral judgments and propose that these moral PPF arise from consumer inferences of potential harm from a price. The conceptualization suggests that inferred harm—and thereby, PPF—is influenced by consumer vulnerability, product welfare impact and firm price strategy (e.g., costs and prices, differential pricing, and price promotions). The authors also propose that consumer political orientation and inferred firm self-defense motives moderate the relationship between inferred harm and PPF and that inferred firm motives for prices influence PPF. Eight studies test this conceptualization. The results support the moral harm model and provide novel insights, showing when unchanged prices, price increases, and price decreases are likely to be perceived as more unfair and when differential prices (including paying more than others) are likely to be perceived as fairer than equal prices.</content>
-    <link href="https://doi.org/10.1093/jcr/ucaf045"/>
-    <category term="Journal of Consumer Research"/>
-    <published>2025-10-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Bank credit access allows firms to borrow funds from banks and other financial institutions. Although theories have been developed on how bank financing affects firms’ operational decisions, empirical investigations in operations management (OM) literature remain limited. This study examines firms’ inventory management strategies in response to the enhanced credit lines from the adoption of interstate bank branching laws, which introduced staggered access to bank credit for operational firms. By merging multiple datasets with credit line information from 10-K SEC filings, we constructed a panel data set covering 1990–2005. Utilizing a difference-in-differences (DID) approach, we find that improved bank credit access leads to a 6% faster inventory turnover, rather than an increase in inventory investment. This outcome appears to stem from short-term increases in capacity investments leveraging their enhanced bank credit and increased use of trade credit, alongside long-term improvements in infrastructure and capital intensity. While these developments are more pronounced for small firms in concentrated markets, their advantage translates into increased competition, negatively impacting the market position and profitability of larger firms. Additionally, in a broader supply chain context, focal firms experience faster inventory turnover when their major customers access more bank credit. The effect is especially prominent for large suppliers in competitive markets, driven by increased sales volumes. This research enhances understanding of the extensive impact of bank credit on operational management and offers insights for policymakers about the diverse effects of bank regulations across different market players and sectors.This paper was accepted by J. George Shanthikumar, data science.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08465 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08465"/>
+    <category term="Management Science"/>
+    <published>2025-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhaf084</id>
