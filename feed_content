@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-10-29T13:41:35.108542+00:00</updated>
+  <updated>2025-10-30T13:39:39.067182+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -619,18 +619,6 @@
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.04026</id>
-    <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
-    <updated>2025-10-17T00:00:00+00:00</updated>
-    <author>
-      <name>Menglong Li, David Simchi-Levi, Renfei Tan, Chonghuan Wang, Michelle Xiao Wu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
-    <category term="Management Science"/>
-    <published>2025-10-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01560</id>
     <title>Mutual Fund Revenue Sharing in 401(k) Plans</title>
     <updated>2025-10-17T00:00:00+00:00</updated>
@@ -639,6 +627,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recordkeepers in defined contribution (DC) pension plans are often paid indirectly in the form of revenue sharing from third-party funds on the menu. We show that these arrangements affect the investment menu of 401(k) plans. Revenue-sharing funds are more likely to be added to the menu and are less likely to be deleted. Overall, revenue-sharing plans are more expensive, as higher expense ratios are not offset by lower direct fees or by superior performance. Rebates increase with the market power of the recordkeeper, suggesting that third-party funds may share revenues to gain access to retirement assets.This paper was accepted by Camelia Kuhnen, finance.Funding: The research reported herein was performed pursuant to a grant from the TIAA-CREF Institute through the Pension Research Council/Boettner Center (PRC) of the Wharton School of the University of Pennsylvania.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01560 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.01560"/>
+    <category term="Management Science"/>
+    <published>2025-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04026</id>
+    <title>Contextual Offline Demand Learning and Pricing with Separable Models</title>
+    <updated>2025-10-17T00:00:00+00:00</updated>
+    <author>
+      <name>Menglong Li, David Simchi-Levi, Renfei Tan, Chonghuan Wang, Michelle Xiao Wu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper, inspired by a collaboration with a leading consumer electronics retailer in the Middle East, explores the challenge of demand learning and pricing using separable demand models. The data scarcity issue, characterized by limited price changes and low sales volumes, renders traditional models ineffective in deriving reasonable price elasticity. To address this issue, we advocate a separable model that leverages two submodels to distinctly capture the effects of price and contextual information. The separable structure enables us to invest special emphasis on the role of price and impose specific structural assumptions on the submodel for pricing effects, such as the monotone decreasing property. Theoretical analysis sheds light on the statistical complexity of demand learning with the separable structure, highlighting its capacity to reduce the necessary sample size to achieve a desired level of accuracy. We also introduce a computationally efficient iterative algorithm for deriving submodels from offline datasets, complete with convergence guarantees. In an empirical context, we demonstrate how our method can yield meaningful price elasticity estimations and revenue increase based on real sales data from the retailer.This paper was accepted by J. George Shanthikumar, data science.Funding: This work was supported by funding from the MIT Data Science Lab, Hong Kong Research Grants Council (RGC) General Research Fund [CityU11508223], and Hong Kong Research Grants Council (RGC) Early Career Scheme [CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04026 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04026"/>
     <category term="Management Science"/>
     <published>2025-10-17T00:00:00+00:00</published>
   </entry>
@@ -1380,135 +1380,305 @@
     <published>2025-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf084</id>
-    <title>Are All ESG Funds Created Equal? Only Some Funds Are Committed</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/smj.70023</id>
+    <title>The use of
+                    &lt;scp&gt;LLMs&lt;/scp&gt;
+                    to annotate data in management research: Foundational guidelines and warnings</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Michelle Lowry, Pingle Wang, Kelsey D Wei</name>
+      <name>Natalie A. Carlson, Vanessa Burbano</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Environmental, social, and governance (ESG) funds have heterogeneous incentives to engage with portfolio firms. If funds view ESG as a value driver, then these incentives will affect funds’ behavior and thus their impact on firms. We compare ESG funds with similar levels of ESG investments but different incentives to engage. Funds with higher incentives to engage, that is, committed ESG funds, conduct more ESG-related information acquisition, pursue longer term investment strategies, engage more intensely on ESG issues, and have greater real impacts. Moreover, committed ESG funds have outperformed other ESG funds within subportfolios with higher and more effective ESG engagement.</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf084"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;The emergence of large language models (LLMs) offers new opportunities for AI integration in research, particularly for data annotation and text classification. However, researchers lack guidance on implementation best practices, as the benefits and risks of these tools remain poorly understood. We develop a foundational framework for effective LLM implementation in management research, providing structured guidance on key decisions throughout the research process. We illustrate this framework through an empirical application: classifying sustainability claims in crowdfunding projects. While LLMs can match or exceed traditional methods' performance at lower cost, we find that variations in prompt design can significantly affect results and downstream analyses. We develop procedures for sensitivity analysis and provide detailed documentation to help researchers implement robustness while maintaining methodological integrity.Managerial SummaryLarge language models (LLMs) offer powerful new tools for business research, especially for analyzing and categorizing text data. However, managers and researchers lack clear guidance on how to use these tools effectively and reliably. This study creates a practical framework for implementing LLMs in management research, covering key decisions from model selection to result validation. Using a real‐world example of analyzing sustainability claims in crowdfunding campaigns, we demonstrate that LLMs can match traditional methods while being faster and cheaper. However, small changes in how you instruct the AI can significantly alter results and business conclusions. We provide systematic procedures for testing result reliability and offer practical tools to help managers implement AI‐powered analysis while maintaining rigorous standards and avoiding misleading findings.</content>
+    <link href="https://doi.org/10.1002/smj.70023"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10591478251390103</id>
-    <title>EXPRESS: Reducing Hospital Procurement Costs through Vendor Contract Optimization: A Decision-Support Framework for GPOs</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/restud/rdaf093</id>
+    <title>Demand Analysis under Latent Choice Constraints</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Willow Liu Yang, David D. Dobrzykowski, Haitao Li, William A. Ellegood</name>
+      <name>Nikhil Agarwal, Paulo Somaini</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Group Purchasing Organizations (GPOs) play a crucial intermediary role in the U.S. healthcare supply chain by consolidating purchasing power across multiple healthcare providers. However, increasing competition from peer organizations and hospitals’ insourcing efforts has placed significant pressure on GPOs to enhance their value propositions. This study presents a data-driven framework designed to help GPOs reduce medical supply costs for hospitals by addressing inefficiencies in vendor tier contracts, a complex form of quantity discount based on market share rather than absolute quantity. The framework consists of reference matrices that define feasible adjustment spaces for tier prices and thresholds, followed by mixed-integer programming models designed to optimize contract parameters. It enables GPOs to (1) identify misalignments between vendor contracts and hospital operational realities, (2) guide vendors in improving their tier contracts to lower procurement costs for hospitals while supporting their own financial interests, and (3) evaluate the potential for tailoring contracts to individual health systems within existing tier structures to achieve additional savings. Applied to four health systems within a Midwest-based GPO, the model demonstrates up to 50% potential savings compared to current IDN spend and 14% savings relative to the optimal spend under existing tier thresholds. In addition, while prior studies suggest hospital-direct contracts fail to deliver net savings due to high transaction costs, our research shows that some hospitals could potentially benefit from GPO-managed custom contracts.</content>
-    <link href="https://doi.org/10.1177/10591478251390103"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Consumer choices are constrained in many markets due to either supply-side rationing or information frictions. Examples include matching markets for schools and colleges; entry-level labor markets; limited brand awareness and inattention in consumer markets; and selective admissions to healthcare services. We analyze a general random utility model for consumer preferences that allows for endogenous characteristics and a reduced-form choice-set formation rule that can be derived from models of the examples described above. We show non-parametric identification of this model, propose an estimator, and apply these methods to study admissions in the market for kidney dialysis in California. Our identification results require two sets of instruments, one that only affects consumer preferences and the other that only affects choice sets. We show that both instruments are necessary for identification. These results also suggest tests of choice-set constraints, which we apply to the dialysis market. We find that dialysis facilities are less likely to admit new patients when they have a higher-than-normal caseload and that patients are more likely to travel further when nearby facilities have high caseloads. Finally, we estimate consumers’ preferences and facilities’ rationing rules using a Gibbs sampler.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf093"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10591478251389408</id>
-    <title>EXPRESS: Bonus Competition in the Gig Economy</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/orsc.2021.15155</id>
+    <title>When a Star Shines Too Bright: The Impact of a High-Status Minority Member on Pursuing Diversity Goals</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Li Chen, Yao Cui, Jingchen Liu, Xiaoyan Liu</name>
+      <name>Julia D. Hur, Jun J. Lin</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The success of a gig platform is crucially driven by its ability to compete for labor supply. However, gig workers are independent contractors whose working schedules are not fully controlled by the platform. To overcome this challenge, gig platforms have commonly relied on bonus strategies to drive the participation of gig workers. We study the impact of bonus strategies on gig platforms and their welfare implications. We consider two types of bonus strategies used by gig platforms: 1) fixed bonus that is paid in addition to commissions as long as a service provider participates, and 2) contingent bonus that is paid only if a service provider participates consistently over time. We develop a game theory model to study platform competition with bonus strategies. Our analysis shows that the two types of bonuses will arise in equilibrium under different market conditions. First, when labor supply is thick, fixed bonus will be offered. In this case, fixed bonus improves platform profit by eliminating a prisoner’s dilemma that arises when the platforms compete only on commissions. However, social welfare will be reduced because the utilization of the labor supply is reduced due to the softened platform competition. Second, when labor supply is thin, contingent bonus will be offered. In this case, contingent bonus reduces platform profit because it intensifies platform competition and traps the platforms in a prisoner’s dilemma where they are forced to offer too much bonus. It further causes inefficiency in matching labor supply with demand and hence reduces social welfare.</content>
-    <link href="https://doi.org/10.1177/10591478251389408"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;The current research examines a potential implication of having a high-status minority member in organizations—a “star” athlete, professor, or lawyer. Building on the literature on organizational diversity, individual status, and licensing effects, we suggest that having a minority member with high status can license organizational decision makers to reduce their effort in increasing diversity compared with having a minority member with relatively low status. We analyzed the hiring outcomes of Major League Baseball teams from 1988 to 2019 and found that the teams with a higher-status minority player hired fewer minority players in the next draft compared with the teams with a lower-status minority player. This effect was moderated by role prototypicality and group membership—the attributes that would further increase the saliency of a high-status minority player. We then corroborated these findings in a laboratory experiment showing that participants were less willing to invest effort in hiring minority candidates when a company already had a high-status (versus low-status) minority member. These findings extend existing literature by demonstrating when and how the presence of a prominent minority member might inadvertently diminish organizational efforts to increase diversity.Funding: The studies were funded by New York University.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2021.15155 .</content>
+    <link href="https://doi.org/10.1287/orsc.2021.15155"/>
+    <category term="Organization Science"/>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2022.0363</id>
-    <title>Single-Leg Revenue Management with Advice</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/orsc.2023.18464</id>
+    <title>Race, Sexual Orientation, and Intersectionality in Distributive Negotiation Outcomes for Men</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Santiago R. Balseiro, Christian Kroer, Rachitesh Kumar</name>
+      <name>Edward H. Chang, Erika L. Kirgios, Julian J. Zlatev</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Machine learning algorithms are becoming increasingly powerful, but with that power comes greater complexity and opacity. As these models become more sophisticated, they become increasingly difficult to understand—and, crucially, harder to anticipate when and how they might fail. This makes it essential to incorporate their predictions in ways that remain robust to errors. In “Single-Leg Revenue Management with Advice,” S. Balseiro, C. Kroer, and R. Kumar develop an algorithm for the classical single-leg revenue management problem that robustly incorporates predictions. They uncover a fundamental tradeoff: Placing greater trust in predictive models can yield high performance when predictions are accurate but also makes algorithms vulnerable when predictions are off. The proposed algorithm achieves the optimal tradeoff between these goals, allowing decision makers to leverage machine learning predictions while guarding against their potential inaccuracies. By doing so, this work provides a principled approach to integrating powerful yet imperfect forecasts into real-world decision making.</content>
-    <link href="https://doi.org/10.1287/opre.2022.0363"/>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Negotiations have consequences for people’s career trajectories, wealth, and well-being. Yet we still have a limited understanding of how demographic characteristics such as sexual orientation and race influence distributive negotiation outcomes, much less the intersection of multiple marginalized identities. To contribute to (1) our understanding of how identity influences negotiations and (2) research on intersectionality, we test how race (Black versus East Asian versus White) and sexual orientation (gay versus straight) influence distributive negotiation outcomes for men in a field experiment. We conducted a large-scale (n = 3,000), preregistered audit experiment involving (fictitious) buyers negotiating for cars on Craigslist. Sellers were 7.7 percentage points (22.4%) less likely to respond to gay versus straight White men. Sellers were also less polite in responses to Black and East Asian men (of any sexual orientation) than to straight White men. In a preregistered follow-up experiment (n = 500), we show that impoliteness in negotiation responses reduces positive expectations about negotiations and behavioral intentions to negotiate in the future, suggesting that differences in politeness may have consequences for racial minorities’ willingness to initiate future negotiations. Our work illuminates how identity-based biases manifest in negotiations, offers insights into theories of intersectionality, and underscores how demand-side biases can lead to supply-side differences in negotiation propensity.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2023.18464 .</content>
+    <link href="https://doi.org/10.1287/orsc.2023.18464"/>
+    <category term="Organization Science"/>
+    <published>2025-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1137</id>
+    <title>A Low-Rank Augmented Lagrangian Method for Doubly Nonnegative Relaxations of Mixed-Binary Quadratic Programs</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Di Hou, Tianyun Tang, Kim-Chuan Toh</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Low-Rank Approaches to Large-Scale DNN OptimizationDoubly nonnegative (DNN) relaxations are a powerful tool for approximating large-scale mixed-binary quadratic programs, but their size—often involving millions of constraints—makes them difficult to solve. We propose RiNNAL, a Riemannian augmented Lagrangian method that exploits the low-rank structure often present in optimal solutions. By applying a low-rank decomposition, RiNNAL reformulates most quadratic constraints into simpler affine ones, reducing problem complexity and mitigating issues caused by violations of Slater’s condition. A key innovation is showing that the required metric projection onto a certain algebraic variety, although nonconvex in form, can be solved as a convex optimization problem under mild regularity conditions, enforced through constraint reformulation. RiNNAL is versatile, handling not only DNN relaxations but also general semidefinite programs with polyhedral constraints. Extensive experiments on challenging benchmarks confirm its efficiency and robustness, making RiNNAL a promising solver for large-scale optimization problems.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1137"/>
     <category term="Operations Research"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1104</id>
-    <title>Residential Battery Storage—Reshaping the Way We Do Electricity</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/opre.2023.0337</id>
+    <title>Local Cost Synergies in Reverse Auctions: An Application to Road Salt Procurement</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Christian Kaps, Serguei Netessine</name>
+      <name>Diwakar Gupta, Matt Schmitt, Ioannis Stamatopoulos</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Household investments in renewable energy technologies like rooftop solar and battery storage can be driven by motivations beyond mere financial returns. In “Residential Battery Storage— Reshaping the Way We Do Electricity,” Christian Kaps and Serguei Netessine develop a structural estimation model that separates observed electricity demand from underlying consumption preferences, enabling the estimation of a nonfinancial utility that households derive from using more self-generated solar power rather than grid-procured electricity. The authors call this utility nonmarket valuation; provide evidence that it is driven by sustainability and autarky desires; and link it to the early adoption of residential storage. Applying their model to a novel data set of German households with solar and storage installations, they find that the median household has a nonmarket valuation of 0.29 euros per kilowatt-hour. Additionally, the authors demonstrate that residential storage can have unexpected effects. They show a “rebound effect,” whereby households with storage increase their overall electricity consumption by 4%. Counterintuitively, under Germany’s observed grid mix, residential storage on average increases carbon emissions. However, they also find that demand from the grid decreases by 38% for the average household equipped with solar and storage.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1104"/>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Each winter, Minnesota’s Department of Transportation purchases nearly a quarter-million tons of road salt through competitive auctions. In Local Cost Synergies in Reverse Auctions: An Application to Road Salt Procurement (Gupta, Schmitt, and Stamatopoulos), the authors show that large firms benefit from “local cost synergies” when they win clusters of nearby depots. Because these synergies reduce costs, large firms are able to bid about 9% lower, on average, than they would otherwise. This cost advantage sharply reduces the probability that small firms will win contracts and leads simultaneous auctions to allocate depots less efficiently than possible. The authors conclude that any rigorous examination of procurement auctions must explicitly account for local cost synergies; ignoring them risks producing misleading results.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0337"/>
     <category term="Operations Research"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06313</id>
-    <title>The Role of Networks in Loan Syndicate Markets</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2024.05922</id>
+    <title>Value Premium and Equity Term Structures of Value and Growth Firms</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Jeffrey H. Harris, Ioannis Spyridopoulos, Morad Zekhnini, Celso Brunetti</name>
+      <name>Michael Hasler, Mariana Khapko, Roberto Marfè</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Several large, well-connected banks jointly underwrite the vast majority of syndicated loans. Although syndication reduces risk by spreading large loans across multiple banks and may benefit borrowers, the process may also facilitate collusive pricing. Disentangling these two effects requires a network view of loan syndicates as traditional measures of market concentration do not capture the collaborative nature of syndication. We find that well-connected banks offer 5- to 15-basis-point-lower loan rates. Well-connected lenders leverage their network position to structure larger, more dispersed syndicates with fewer coarrangers, allowing them to earn higher fee income and reduce their loan risk exposure. We address potential selection biases by exploiting the stickiness in firm-bank relationships and the transfer of credit relationships around forced mergers during the 2007–2009 financial crisis. Using new supervisory data on borrowers’ loan repayment and on-site inspections, we find little evidence that connectedness is related to superior monitoring or performance. Our findings suggest that connectivity is instrumental in lowering loan prices rather than facilitating collusive pricing.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06313 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06313"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper studies the impact of information processing and learning about expected future cashflows on the level and timing of risk premiums in the cross section of firms. Learning with information sources of different qualities endogenously generates value firms, growth firms, and a value premium in equilibrium. Furthermore, the learning model predicts an upward-sloping equity term structure for value firms and a flat equity term structure for growth firms. Using earnings, return, and news data on value and growth firms, we show that the predictions of the learning model are consistent with the data.This paper was accepted by Kay Giesecke, finance.Funding: Research support from Long-Term Investors@UniTo, the University of Neuchatel, and the University of Toronto is gratefully acknowledged.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.05922 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05922"/>
     <category term="Management Science"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/00222437251389509</id>
-    <title>EXPRESS: The Effects of Mergers and Acquisitions on Marketing Decisions and Effectiveness: Evidence from the Biopharma Industry</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2022.02048</id>
+    <title>Learning Personalized Treatment Strategies with Predictive and Prognostic Covariates in Adaptive Clinical Trials</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Vardit Landsman, Stefan Stremersch</name>
+      <name>Andres Alban, Stephen E. Chick, Spyros I. Zoumpoulis</name>
     </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Mergers and acquisitions (M&amp;As) may trigger adjustments to firms’ marketing decisions and their outcomes. Yet, prior literature provides little empirical insight regarding the nature of these adjustments. We address this gap in the context of the biopharma industry, analyzing data on sales, prices, and detailing spending for 375 branded drugs acquired in 73 M&amp;A deals between 2007 and 2020. We find that, on average, acquiring firms (1) reduce detailing spending on target drugs, (2) increase target drug prices, and (3) achieve increases in detailing elasticity for target drugs after the M&amp;A, compared to before. The younger the target drugs and the more experience the acquirer has in marketing drugs in the drugs’ therapeutic category, (1) the more likely we are to see reductions in detailing and increases in prices, and (2) the greater the likelihood that acquirers experience larger increases in detailing elasticity and reductions in price elasticity. For our 375 target drugs, acquirers generated over $23 billion more in revenue in the two post-deal years while spending over $1 billion less on detailing compared to the two pre-deal years. The paper provides a framework for firms regarding commercial returns on M&amp;As and informs the debate on regulatory responses to M&amp;As.</content>
-    <link href="https://doi.org/10.1177/00222437251389509"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Biomedical research may uncover insights regarding the interaction of the treatments of a disease with patient covariates. We show how to use such insights to improve the efficiency of adaptive clinical trials for precision medicine by extending ideas from optimal Bayesian learning. We present a model for response-adaptive multi-arm clinical trials that leverages knowledge about the predictive-prognostic covariate structure to accelerate the learning of personalized treatment strategies that obtain the best expected outcomes for post-trial patients. Our base model is a contextual linear bandit for best-arm identification, and outcomes may be observed with delay. We characterize the optimal policy for sequentially allocating treatments to in-trial patients and, because it is hard to compute, propose several computable heuristics based on Bayesian one-step look-ahead techniques. We prove that several of our proposed heuristics are asymptotically optimal in learning treatment strategies. Numerical results based on two case studies motivated by sepsis management show that our heuristics can significantly improve clinical trial efficiency to learn a treatment strategy for precision medicine. We provide extensions that allow for rewards from outcomes of in-trial patients (resolving the exploration-exploitation tradeoff) and for inferring covariate structure using Lasso when biomedical insights on covariate structure are lacking. Our proposed trial design is of interest to funders, designers, and managers of clinical trials. It may also apply to other contextual bandit problems in settings where insights about covariate-treatment interactions are available.This paper was accepted by Stefan Scholtes, healthcare management.Funding: This work was supported by the Marie Skłodowska-Curie Actions under the European Union’s Horizon 2020 research and innovation programme [Grant 676129]. S. E. Chick gratefully acknowledges the support of Dr Simba Gill and Sabi Dau to the INSEAD Healthcare Management Initiative.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02048 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.02048"/>
+    <category term="Management Science"/>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/00222437251389950</id>
-    <title>EXPRESS: The Decision-making Process and Impact of Individual Decisions for Joint Consumption</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/1475-679x.70026</id>
+    <title>Aggregated Compensation Peer Group Disclosure and Managerial Labor Market Competition: A Network Analysis</title>
+    <updated>2025-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Sharaya M. Jones, Margaret C. Campbell</name>
+      <name>RAY RUI GAO, YIFEI LU</name>
     </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Consumers make individual decisions for their own, others’, and joint consumption. This research introduces a framework for understanding the process of making individual decisions for joint consumption by comparing them to individual decisions for the self and for others (e.g., gifts). Seven experiments show that individual decisions for joint consumption, which involve considering one’s own and others’ preferences, consistently increase felt responsibility for unsatisfactory outcomes and decrease confidence in ability to make satisfactory choices compared to decisions for the self. Knowledge of others’ preferences plays a critical role in differentiating between individual decisions for joint versus others’ consumption; (in)congruent preferences (decrease) increase confidence in decisions for joint consumption, while any knowledge of others’ preferences – regardless of congruity – increases confidence in decisions for others. Three managerially-relevant downstream consequences are identified that differ among individual decisions for joint, self, and others’ consumption: decision anxiety, choice of assortment options, and choice of popular options. These insights offer valuable strategies for marketers to tailor their product offerings and communications to consumers engaged in individual decisions for joint, own, or others’ consumption.</content>
-    <link href="https://doi.org/10.1177/00222437251389950"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;In this paper, we develop novel measures of managerial labor market classification and competition by constructing networks of compensation benchmarking peers disclosed in proxy statements. These networks represent firms’ relative positions within the managerial labor market. Our classifications strongly predict executive moves across firms, outperforming a comprehensive set of predictors in the literature. Subsequent tests further demonstrate the strength of our methodology in capturing the multidimensional and dynamic features of the managerial labor market. We also validate our competition measures by showing that they are associated with retention tools, such as higher equity pay and longer pay duration. Finally, we apply our measures to test two theoretical predictions. First, we find that labor market competition could explain controversial pay practices. Second, we demonstrate that the labor market provides managers with tournament incentives to deliver superior future performance.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70026"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2025-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/01492063251368267</id>
-    <title>Marching to the Beat: The Role of Complementor Alignment in the Architectural Evolution of Ecosystems</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2023.01734</id>
+    <title>Disruptive Timing</title>
+    <updated>2025-10-30T00:00:00+00:00</updated>
     <author>
-      <name>Pengxiang Zhang, Liang Chen, Yang Yang, Sali Li</name>
+      <name>Leon Yang Chu, Guang Li, Andy Wu, Brian Wu</name>
     </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;The evolution of innovation ecosystems hinges on the effective coordination between ecosystem leaders and complementors. While ecosystem-sponsored architectural innovations create new technological opportunities for complementors, they may unintentionally disrupt the performance of complementor products that were originally developed based on legacy architectural designs. This study provides empirical evidence of these disruptive effects and explores how complementors’ alignment with the ecosystem leader mitigates such challenges. Focusing on Apple’s release of Core ML—a proprietary artificial intelligence module—in its mobile ecosystem, we employ a difference-in-differences design to investigate variations in complementor performance after adopting this ecosystem-sponsored architectural innovation. Our findings reveal that complementors’ technological and flow alignment with the ecosystem leader is critical for minimizing performance disruptions and enhancing value creation during ecosystem evolution. This study enriches our understanding of architectural changes and complementor heterogeneity in innovation ecosystems.</content>
-    <link href="https://doi.org/10.1177/01492063251368267"/>
-    <category term="Journal of Management"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study examines the role of strategic timing in disruptive innovation. We construct a model where an entrant decides when to enter with a potentially disruptive technology and the incumbent determines whether and when to switch from its existing technology. By accounting for endogenous firm-specific learning alongside exogenous technological improvement, our model highlights the critical role of timing in shaping disruption. First, an entrant’s strategic timing—whether to enter early or delay entry—can cause disruption by deferring the timing of the incumbent’s response or deterring it altogether. Second, we identify conditions where incumbents, even those unable to initially mount a response, can later switch to the disruptive technology and coexist with an entrant. Based on these insights, we propose a typology of five distinct disruption types—Perfect, Postponed, Passing, Phased, and Partial—that expands the traditional understanding of disruption beyond the often-studied “perfect” cases to comprehend transient and mixed cases as well. Our theory of disruptive timing integrates literature on strategic timing and disruptive innovation to offer a new perspective for scholars and actionable insights for practitioners.This paper was accepted by Joshua Gans, business strategy.Funding: This work was supported by the Harvard Business School Division of Research and Faculty Development.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.01734 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01734"/>
+    <category term="Management Science"/>
+    <published>2025-10-30T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/jcr/ucaf055</id>
-    <title>Brand Faith: How Spiritual Relationships Develop Between Consumers and Brands</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2023.03761</id>
+    <title>How Does Health Insurance Affect Firm Employment and Performance? Evidence from Obamacare</title>
+    <updated>2025-10-30T00:00:00+00:00</updated>
     <author>
-      <name>Kyungin Ryu, Elizabeth G Miller, D Matthew Godfrey</name>
+      <name>Heitor Almeida, Ruidi Huang, Ping Liu, Yuhai Xuan</name>
     </author>
-    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Consumers increasingly seek spiritual satisfaction and existential meaning through brands. However, despite the rising prominence of secular forms of spirituality, consumer-brand relationship research largely overlooks the processes by which consumers initiate, develop, and maintain spiritual connections to brands. Using the concept of faith as a theoretical lens, this paper explores how consumer-brand relationships take on spiritual dimensions. Drawing on an interpretive biographic analysis of in-depth interviews and netnographic data, the authors examine spiritual relationship development processes as they unfold between consumers and brands over time. Findings identify five phases of brand faith development (intuition, association, reflection, affirmation, universalization), which progress from initial attraction to deep conviction. Consumers cultivate faith in brands across these phases through a process of believing in, valuing, and committing to a brand as a sacred entity that acts as a center of spiritual meaning. These findings offer a more nuanced understanding of spiritual relationships between consumers and secular brands than current literature provides. The analysis also examines factors that facilitate or inhibit brand faith development, contributing a contextual understanding of brand faith that accounts for influences arising from an interplay between personal, brand, and marketplace factors that affect consumer spirituality.</content>
-    <link href="https://doi.org/10.1093/jcr/ucaf055"/>
-    <category term="Journal of Consumer Research"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This article discusses how mandating employers to provide health insurance of a minimum quality and the associated increases in health insurance premia affect firm employment and performance. Using firm-level employee health insurance data around the passage of the Patient Protection and Affordable Care Act (PPACA), we show that the PPACA is associated with a significant increase in health insurance premia for employees in company-sponsored health insurance plans. In response, employers with greater exposure to the PPACA reduce employee enrollments in their health insurance plans to a larger extent after the law’s enactment. Our analysis suggests that employers achieve this reduction in enrollment by shifting employment composition from full-time employees to part-time, temporary, or seasonal workers, who are not covered in employer-sponsored health insurance plans. Furthermore, we find no evidence of deterioration in performance at companies more exposed to the increase in health insurance premia. Overall, our findings illustrate how firms adapt to and mitigate cost increases associated with regulatory changes through strategic labor practices.This paper was accepted by Lin William Cong, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03761 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03761"/>
+    <category term="Management Science"/>
+    <published>2025-10-30T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0191</id>
-    <title>Do We Think Differently When Tapping the Screen or Clicking the Mouse? Effects of Computer Interfaces on Level of Construal</title>
-    <updated>2025-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2024.04939</id>
+    <title>How Do Behavioral Approaches to Increase Savings Compare? Evidence from Multiple Interventions in the U.S. Army</title>
+    <updated>2025-10-30T00:00:00+00:00</updated>
     <author>
-      <name>Xixian Peng, Xinwei Wang, Yutong Guo, Hock Hai Teo</name>
+      <name>Richard W. Patterson, William Skimmyhorn</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;The touchscreen has become the de facto interface for individuals to interact with digital devices. This research investigates the implications of the profound shift from the mouse-based, nontouch interface to the touch-based interface for human thinking and behavior. Ten studies reveal that using touchscreens, as opposed to a mouse, fosters a more concrete low-level construal. Specifically, using touch interfaces on devices such as iPads and tablets prompts people to interpret actions in a detailed, hands-on manner, viewing locking a door as inserting a key into a lock rather than as a broader concept such as securing a house. Touchscreens also encourage a narrow categorization of concepts and a reliance on local, granular attributes. The concrete mindset evoked by the touch interface elevates individuals’ preference for practicality over complexity, such as choosing a compact camera over an advanced one, and receptiveness to persuasive attempts with feasibility appeals. Given that mental construals fundamentally influence how we perceive and engage with the world, our findings underscore the wide-ranging impacts of touch interfaces. This research provides a theoretical foundation for exploring the broader implications of the widespread adoption of touch technology, especially as digital devices become increasingly integrated into our digitally transformed daily life worldwide.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0191"/>
-    <category term="Information Systems Research"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;How can we compare approaches to increase retirement savings? Messaging interventions, active choice frameworks, and automatic enrollment all increase retirement savings, but evidence supporting these approaches spans widely different institutional settings, populations, and time periods. In this study, we use experimental and quasi-experimental variation in these approaches within a constant setting using interventions in the U.S. military during 2016–2018. We find large differences in the efficacy of these approaches, with active choice and automatic enrollment programs being about 10 and 100 times more effective than messaging interventions, respectively. We also collect novel data on program costs and generate estimates of cost-effectiveness for each program. We find that active choice and automatic enrollment are consistently more cost effective than any messaging interventions, active choice programs are the most cost-effective for small firms, and automatic enrollment is the most cost-effective program for larger firms.This paper was accepted by Jack Soll, behavioral economics and decision analysis.Funding: The authors thank the TIAA Institute, Wharton School’s Pension Research Council and Boettner Center, the Social Security Administration, and the NBER Retirement and Disability Research Center for financial support. The research reported herein was performed pursuant to a grant from the U.S. Social Security Administration [SSA Grant Number RDR18000003] funded as part of the Retirement and Disability Research Consortium. The opinions and conclusions expressed are solely those of the author(s) and do not represent the opinions or policy of the Social Security Administration, any agency of the Federal Government, the NBER, the TIAA Institute, or Wharton School’s Pension Research Council/Boettner Center. Neither the U.S. Government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of the contents of this research. Reference herein to any specific commercial product, process or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply endorsement, recommendation or favoring by the U.S. Government or any agency thereof.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04939 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04939"/>
+    <category term="Management Science"/>
+    <published>2025-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587251383499</id>
+    <title>Politics of Entrepreneurial Resourcefulness in Compassion Venture Expansion</title>
+    <updated>2025-10-30T00:00:00+00:00</updated>
+    <author>
+      <name>Anastasia Koptsyukh, Ewald Kibler, Dean A. Shepherd</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Compassion ventures addressing human suffering after disasters are gaining attention in entrepreneurship research, yet little is known about their potential to expand beyond immediate response. This 19-month qualitative study examines a compassion venture amid the Russo-Ukrainian war and shows how self-reliant, joint, and political forms of entrepreneurial resourcefulness help compassion ventures emerge, formalize, and expand with key partners. We uncover how these forms interact, helping compassion ventures transition to enduring organizations over a prolonged crisis. We present a model of resourcefulness dynamics in compassion venture expansion, emphasizing its political dimension, and contribute to research on compassion venturing and entrepreneurial resourcefulness.</content>
+    <link href="https://doi.org/10.1177/10422587251383499"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2025-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20230168</id>
+    <title>Nonlinear Pricing and Misallocation</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gideon Bornstein, Alessandra Peter</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;This paper studies the effect of nonlinear pricing on markups and misallocation. In a general equilibrium model in which firms are allowed to set a quantity-dependent pricing schedule, markup heterogeneity is not a sign of misallocation. Instead, we point to a new source of misallocation: high-taste consumers are allocated too much of each good, low-taste consumers too little. Using micro data from the retail sector, we show that nonlinear pricing is prevalent and quantify the model. Welfare losses from misallocation across consumers are substantially larger than those from misallocation across firms under linear pricing. (JEL D21, D24, D43, H25, J22, L13, L81)</content>
+    <link href="https://doi.org/10.1257/aer.20230168"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20231531</id>
+    <title>International Trade Responses to Labor Market Regulations</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mathilde Muñoz</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;This paper demonstrates that labor market regulations, such as minimum wages or payroll taxes, shape trade competition in labor-intensive activities. I exploit data from a large European trade program where firms from different countries supply labor services at the same location but face different payroll taxes and minimum wage rules. Country case studies and model-consistent gravity estimates show large trade responses to tax and regulatory reforms, with an elasticity of trade in services to labor costs larger than one. The results imply that absent regulatory and fiscal harmonization, export competitiveness depends, in part, on domestic labor market policies. (JEL F14, F16, F42, H25, J22, J23, K31)</content>
+    <link href="https://doi.org/10.1257/aer.20231531"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20221501</id>
+    <title>Quid Pro Quo, Knowledge Spillovers, and Industrial Quality Upgrading: Evidence from the Chinese Auto Industry</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jie Bai, Panle Jia Barwick, Shengmao Cao, Shanjun Li</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;This paper studies the impact of quid pro quo (technology for market access) in facilitating knowledge spillovers and quality upgrading in the Chinese automobile industry. The identification strategy exploits within-product quality variation across a rich set of quality dimensions. We find affiliated domestic automakers adopt more similar quality strengths of their joint venture partners, consistent with knowledge spillovers. Additional analysis suggests worker flows and supplier networks mediate knowledge spillovers. Knowledge spillovers due to ownership affiliation under quid pro quo contributed 8.3 percent of the quality improvement experienced by affiliated domestic models from 2001 to 2014, relative to nonaffiliated domestic models. (JEL F23, L15, L24, L62, O14, O33, P23)</content>
+    <link href="https://doi.org/10.1257/aer.20221501"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20180798</id>
+    <title>Just a Few Seeds More: The Value of Network Data for Diffusion</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mohammad Akbarpour, Suraj Malladi, Amin Saberi</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Identifying the optimal set of individuals to first receive information (“seeds”) in a social network to maximize expected diffusion is a widely studied question in many settings. Several studies propose network-centrality-based heuristics to select seeds likely to increase diffusion. Here, we show that, for the classic independent cascade model of diffusion, either seeding a few more individuals at random can prompt a larger diffusion than optimal seeding or optimal seeding itself results in limited spread. These findings hold across a broad range of random networks and are supported by simulations on real-world networks. (JEL D83, D85, O12, O18, P25, P32, Z13)</content>
+    <link href="https://doi.org/10.1257/aer.20180798"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20231264</id>
+    <title>Borrowing and Spending in the Money: Debt Substitution and the Cash-Out Refinance Channel of Monetary Policy</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Elliot Anenberg, Tess Scharlemann, Eileen van Straelen</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We show that the strong negative effect of higher mortgage rates on cash-out refinancing reflects substitution into other borrowing products, not large changes in total new household borrowing. We exploit plausibly exogenous changes in interest rates due to unconventional monetary policy surprises to show that changes in cash-out and other borrowing are roughly offsetting. The elasticity of new household borrowing with respect to mortgage rates is low and varies little with the borrower’s outstanding mortgage rate. Our results suggest that the cash-out refinance channel of unconventional monetary policy is weak and not path dependent. (JEL E43, E52, G21, G51)</content>
+    <link href="https://doi.org/10.1257/aer.20231264"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20231765</id>
+    <title>The Trade-Off between Flexibility and Robustness in Instrumental Variables Analysis</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ben Deaner</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;In additive instrumental variables models, the robustness to some failure of instrumental validity or additive separability depends on the strength of a priori restrictions on the structural relationship between outcomes and treatments. I provide theoretical analysis of the problem, discuss the implications for empirical practice, and demonstrate with a numerical study calibrated on real-world data. (JEL C26, G51, H24, J13)</content>
+    <link href="https://doi.org/10.1257/aer.20231765"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20210881</id>
+    <title>Default Options and Retirement Saving Dynamics</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Taha Choukhmane</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Using data from over 100 US retirement plans and a representative UK panel, I document the impact of auto-enrollment (AE) on retirement savings at different horizons. I replicate the impact of AE on participation and contributions in the short run (at 12 months), but I show that these gains are attenuated over the medium run (at 36 months). At this longer horizon, the average savings increases are modest, though AE significantly lowers inequality in savings. To assess AE’s lifetime impact, I estimate a life cycle consumption-savings model that can fit the observed patterns with a switching cost of approximately $250, smaller than previous estimates. (JEL D15, G51, J26, J32)</content>
+    <link href="https://doi.org/10.1257/aer.20210881"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20240669</id>
+    <title>Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew Barr, Benjamin Castleman</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;A college degree offers a pathway to economic mobility for low-income students. Using a multisite randomized controlled trial combined with administrative and survey data, we demonstrate that intensive advising during high school and college significantly increases bachelor’s degree attainment among lower-income students. We leverage unique data on preadvising college preferences and causal forest methods to show that these gains are primarily driven by improvements in initial enrollment quality. Our results suggest that strategies targeting college choice may be a more effective and efficient means of increasing degree attainment than those focused solely on affordability. (JEL G51, I21, I22, I23)</content>
+    <link href="https://doi.org/10.1257/aer.20240669"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20240406</id>
+    <title>Distinguishing Causes of Neighborhood Racial Change: A Nearest-Neighbor Design</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Patrick Bayer, Marcus Casey, W. Ben McCartney, John Orellana-Li, Calvin Zhang</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We study neighborhood choice using a novel research design that contrasts the move rate of homeowners who receive a new different-race neighbor immediately next-door versus slightly farther away on the same block. This approach isolates a component of preferences directly attributable to neighbors’ identities. Both Black and White homeowners are more likely to move after receiving a new different-race neighbor. Findings are robust to additional controls (e.g., income) and alternative research designs. We find evidence of heterogeneity in responses, especially associated with housing density, which has implications for understanding contemporary neighborhood racial change and prospects for maintaining stable, integrated neighborhoods. (JEL D91, J15, R23, R31)</content>
+    <link href="https://doi.org/10.1257/aer.20240406"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20231569</id>
+    <title>Anatomy of the Phillips Curve: Micro Evidence and Macro Implications</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Luca Gagliardone, Mark Gertler, Simone Lenzu, Joris Tielens</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We develop a bottom-up approach to estimate the slope of the primitive form of the New Keynesian Phillips curve, which features marginal cost as the real activity variable. Using quarterly micro data on prices, costs, and output, we estimate dynamic pass-through regressions that identify the slope as a function of primitive parameters. We find a high slope for the cost-based Phillips curve, which contrasts with the low estimates of the conventional output gap–based formulation found in the literature. We reconcile by showing that the output elasticity of marginal cost is low, at least during moderate inflation periods (e.g., pre-pandemic). (JEL C51, E12, E23, E31, E32, L60)</content>
+    <link href="https://doi.org/10.1257/aer.20231569"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20220379</id>
+    <title>A Preferred-Habitat Model of Term Premia, Exchange Rates, and Monetary Policy Spillovers</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pierre-Olivier Gourinchas, Walker Ray, Dimitri Vayanos</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We develop a two-country model in which currency and bond markets are populated by different investor clienteles, and segmentation is partly overcome by arbitrageurs with limited capital. Risk premia in our model are time-varying, connected across markets, and consistent with the empirical violations of uncovered interest parity and expectations hypothesis. Through risk premia, large-scale bond purchases lower domestic and foreign bond yields and depreciate the currency, and short-rate cuts lower foreign yields, with smaller effects than bond purchases. Currency returns are disconnected from long-maturity bond returns, and yet the currency market is instrumental in transmitting bond demand shocks across countries. (JEL E43, E44, E52, F31, G12, G15)</content>
+    <link href="https://doi.org/10.1257/aer.20220379"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20240615</id>
+    <title>Managers and Public Hospital Performance</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pablo Muñoz, Cristóbal Otero</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We study whether the quality of managers can affect public service provision in the context of public health. Using novel data from public hospitals in Chile, we show how the introduction of a competitive recruitment system and better pay for public hospital CEOs reduced hospital mortality by 8 percent. The effect is not explained by a change in patient composition. We find that the policy changed the pool of CEOs by displacing doctors with no management training in favor of CEOs who had studied management. Productivity improvements were driven by hospitals that recruited higher quality CEOs. (JEL D24, G34, I11, I18, J45, M54, O15)</content>
+    <link href="https://doi.org/10.1257/aer.20240615"/>
+    <category term="American Economic Review"/>
+    <published>2025-11-01T00:00:00+00:00</published>
   </entry>
 </feed>
