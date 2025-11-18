@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-11-17T14:41:50.107169+00:00</updated>
+  <updated>2025-11-18T14:39:37.654737+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -307,6 +307,18 @@
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34420</id>
+    <title>The Prestakes of Stock Market Investing</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Francesco Bianchi, Do Q. Lee, Sydney C. Ludvigson &amp; Sai Ma</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas.</content>
+    <link href="https://www.nber.org/papers/w34420"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34419</id>
     <title>An Inverse-Ramsey Tax Rule</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -582,18 +594,6 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Policymakers often cite the risk that inflation expectations might “de-anchor” as a key reason for responding forcefully to inflationary shocks. We develop a model to analyze this trade-off and to quantify the benefits of stable long-run inflation expectations. In our framework, households and firms are imperfectly informed about the central bank’s objective and learn from its policy choices. Recognizing this interaction, the central bank raises interest rates more aggressively after adverse supply shocks and accepts short-run output costs to secure more stable inflation expectations. The strength of this reputation channel depends on how sensitive long-run inflation expectations are to surprises in interest rates. Using high-frequency identification, we estimate these elasticities for emerging and advanced economies and find large negative values for Brazil. We fit our model to these findings and use it to quantify how reputation building motives affect monetary policy decisions, and the role of central bank's credibility in promoting macroeconomic stability.</content>
     <link href="https://www.nber.org/papers/w34436"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34420</id>
-    <title>The Prestakes of Stock Market Investing</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Francesco Bianchi, Do Q. Lee, Sydney C. Ludvigson &amp; Sai Ma</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas.</content>
-    <link href="https://www.nber.org/papers/w34420"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
