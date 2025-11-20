@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-11-18T14:39:37.654737+00:00</updated>
+  <updated>2025-11-20T14:39:55.298548+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -307,6 +307,30 @@
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34422</id>
+    <title>The Value of Banking Relationships</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Howard Bodenhorn &amp; Youwei Xing</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Commercial banking is an industry in which long-term, nonexclusive relationships between bankers and their borrowers are governed by short-term contracts. This paper documents the nature of bank-borrower relationships in a historical setting. We use a new dataset of 55,000 loans to 10,000 unique borrowers over 35 years in the mid-nineteenth century. Two-way fixed effects models reveal that a one standard deviation increase in the number of previous loans leads to an increase in loan size by 4.72%. A one-year increase in the duration of a relationship leads to an increase in loan size of 5.6%. Relationships have small effects on loan rates, but substantial effects on collateral. Borrowers with relationships with competing banks receive substantially smaller loans. Propensity score matching reveals that banks learn about borrowers early in the relationship. Finally, the bank severed relationships with about half of the borrowers who defaulted on a loan. A surviving relationship becomes more valuable after default.</content>
+    <link href="https://www.nber.org/papers/w34422"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34421</id>
+    <title>Political Power and Mortality: Heterogeneous Effects of the U.S. Voting Rights Act</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Atheendar Venkataramani, Rourke O'Brien, Elizabeth F. Bair &amp; Christopher A. Lowenstein</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the health consequences of redistributing political power through the 1975 extension of the Voting Rights Act, which eliminated barriers to voting for previously disenfranchised nonwhite populations. The intervention led to broad declines in under-five mortality but sharply contrasting effects in other age groups: mortality fell among non-white children, younger adults, and older women, yet rose among whites and older non-white men. These differences cannot be reconciled by changes in population composition or material conditions. Instead, we present evidence suggesting psychosocial stress and retaliatory responses arising from perceived status threat as key mechanisms.</content>
+    <link href="https://www.nber.org/papers/w34421"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34420</id>
     <title>The Prestakes of Stock Market Investing</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -463,30 +487,6 @@
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34422</id>
-    <title>The Value of Banking Relationships</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Howard Bodenhorn &amp; Youwei Xing</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Commercial banking is an industry in which long-term, nonexclusive relationships between bankers and their borrowers are governed by short-term contracts. This paper documents the nature of bank-borrower relationships in a historical setting. We use a new dataset of 55,000 loans to 10,000 unique borrowers over 35 years in the mid-nineteenth century. Two-way fixed effects models reveal that a one standard deviation increase in the number of previous loans leads to an increase in loan size by 4.72%. A one-year increase in the duration of a relationship leads to an increase in loan size of 5.6%. Relationships have small effects on loan rates, but substantial effects on collateral. Borrowers with relationships with competing banks receive substantially smaller loans. Propensity score matching reveals that banks learn about borrowers early in the relationship. Finally, the bank severed relationships with about half of the borrowers who defaulted on a loan. A surviving relationship becomes more valuable after default.</content>
-    <link href="https://www.nber.org/papers/w34422"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34421</id>
-    <title>Political Power and Mortality: Heterogeneous Effects of the U.S. Voting Rights Act</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Atheendar Venkataramani, Rourke O'Brien, Elizabeth F. Bair &amp; Christopher A. Lowenstein</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the health consequences of redistributing political power through the 1975 extension of the Voting Rights Act, which eliminated barriers to voting for previously disenfranchised nonwhite populations. The intervention led to broad declines in under-five mortality but sharply contrasting effects in other age groups: mortality fell among non-white children, younger adults, and older women, yet rose among whites and older non-white men. These differences cannot be reconciled by changes in population composition or material conditions. Instead, we present evidence suggesting psychosocial stress and retaliatory responses arising from perceived status threat as key mechanisms.</content>
-    <link href="https://www.nber.org/papers/w34421"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34432</id>
     <title>Voting with Their Feet: Democratic Backsliding and Market-Minded Migration - Evidence from Israel and Europe</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -610,6 +610,42 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34468</id>
+    <title>The Coasean Singularity? Demand, Supply, and Market Design with AI Agents</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peyman Shahidi, Gili Rusak, Benjamin S. Manning, Andrey Fradkin &amp; John J. Horton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;AI agents—autonomous systems that perceive, reason, and act on behalf of human principals—are poised to transform digital markets by dramatically reducing transaction costs. This chapter evaluates the economic implications of this transition, adopting a consumer-oriented view of agents as market participants that can search, negotiate, and transact directly. From the demand side, agent adoption reflects derived demand: users trade off decision quality against effort reduction, with outcomes mediated by agent capability and task context. On the supply side, firms will design, integrate, and monetize agents, with outcomes hinging on whether agents operate within or across platforms. At the market level, agents create efficiency gains from lower search, communication, and contracting costs, but also introduce frictions such as congestion and price obfuscation. By lowering the costs of preference elicitation, contract enforcement, and identity verification, agents expand the feasible set of market designs but also raise novel regulatory challenges. While the net welfare effects remain an empirical question, the rapid onset of AI-mediated transactions presents a unique opportunity for economic research to inform real-world policy and market design.</content>
+    <link href="https://www.nber.org/papers/w34468"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34455</id>
+    <title>Then and Now: A Look Back and Ahead at the Federal Budget</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alan J. Auerbach &amp; William Gale</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;It is well-understood that the U.S. faces an unsustainable fiscal future. We review historical budget trends and basic fiscal processes. We provide new estimates of the budget outlook, incorporating the recently enacted One Big Beautiful Bill Act (OBBBA), and finding that the debt-GDP ratio will rise to 183% in 2054 under the OBBBA as legislated and to 199% if the temporary tax and spending provisions are made permanent. These figures compare to a current debt-GDP ratio of about 100% and a pre-OBBBA CBO analysis earlier this year that projected the 2054 debt-GDP ratio to be 154%. We estimate a fiscal gap – the permanent tax or spending changes needed to keep the 2054 debt-GDP ratio at its current level – to be about 3.4% of GDP if OBBBA is extended. We discuss the economic and political ramifications of debt and different ways to address the fiscal situation.</content>
+    <link href="https://www.nber.org/papers/w34455"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34444</id>
+    <title>Artificial Intelligence, Competition, and Welfare</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Susan Athey &amp; Fiona Scott Morton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how market power in artificial intelligence (AI) shapes wages and welfare in open-economy general equilibrium by treating AI as a priced, imported factor. Across three models, we separate technical efficiency from the impact of upstream price setting. In a two-traded-goods benchmark, the incidence of AI price changes depends on how sectoral skill intensity changes with AI prices; non-monotone intensity can generate “double harm” for unskilled workers (lower real wage after a large decrease in the price of AI, and real wage decreases further when the AI price rises as a result of market power). With one non-traded sector, we observe that the classic “Dutch disease” effect here would arise when one sector gets more productive and draws labor away from other sectors, creating scarcity and raising prices; but this is not what we expect from the introduction of labor-substituting AI. In contrast, our last model considers two non-traded sectors and CES/free entry, and the opportunity for discrete adoption of technology that replaces unskilled labor from the AI-using sector. When AI reduces unit costs and increases variety, it will not pull U from non-tradables, instead it will displace workers from the AI-using sector and lower wage due to diminishing returns in alternative sectors. Strategic upstream pricing of AI then harms welfare through unit-cost (usage fees) and variety (access fees) channels, with income leakage abroad. We derive an adoption frontier tying feasible usage prices to displaced workers’ outside options and show a monopolist typically prices on this boundary; capping one instrument shifts rents to the other. Broad gains for the adopting country relies on pressure (or regulation) on both usage and access fees and as well as policy that supports productive absorption of displaced labor. The framework clarifies when AI can lower real wages and aggregate welfare despite efficiency gains.</content>
+    <link href="https://www.nber.org/papers/w34444"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34465</id>
     <title>Does Public Health Insurance Cause Crowding Into Public Facilities and Informality? The Case of Seguro Popular</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -706,18 +742,6 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34468</id>
-    <title>The Coasean Singularity? Demand, Supply, and Market Design with AI Agents</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peyman Shahidi, Gili Rusak, Benjamin S. Manning, Andrey Fradkin &amp; John J. Horton</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;AI agents—autonomous systems that perceive, reason, and act on behalf of human principals—are poised to transform digital markets by dramatically reducing transaction costs. This chapter evaluates the economic implications of this transition, adopting a consumer-oriented view of agents as market participants that can search, negotiate, and transact directly. From the demand side, agent adoption reflects derived demand: users trade off decision quality against effort reduction, with outcomes mediated by agent capability and task context. On the supply side, firms will design, integrate, and monetize agents, with outcomes hinging on whether agents operate within or across platforms. At the market level, agents create efficiency gains from lower search, communication, and contracting costs, but also introduce frictions such as congestion and price obfuscation. By lowering the costs of preference elicitation, contract enforcement, and identity verification, agents expand the feasible set of market designs but also raise novel regulatory challenges. While the net welfare effects remain an empirical question, the rapid onset of AI-mediated transactions presents a unique opportunity for economic research to inform real-world policy and market design.</content>
-    <link href="https://www.nber.org/papers/w34468"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34457</id>
     <title>Branching Out: Capital Mobility and Long-Run Growth</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -726,18 +750,6 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the long-run effects of the first wave of U.S. banking market integration on capital mobility and manufacturing productivity. Using newly digitized bank and branch balance sheet data matched to state and county panels, we provide direct evidence that branching produced lasting productivity gains without aggregate capital deepening by leveraging internal capital markets to improve the geographic allocation of capital. Our novel ``deposit market access'' measure shows that bank funding grew most in capital-constrained counties within branching states. Both market access and border discontinuity designs indicate that branching’s organizational structure reduced capital allocation frictions to generate persistent growth.</content>
     <link href="https://www.nber.org/papers/w34457"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34455</id>
-    <title>Then and Now: A Look Back and Ahead at the Federal Budget</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alan J. Auerbach &amp; William Gale</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;It is well-understood that the U.S. faces an unsustainable fiscal future. We review historical budget trends and basic fiscal processes. We provide new estimates of the budget outlook, incorporating the recently enacted One Big Beautiful Bill Act (OBBBA), and finding that the debt-GDP ratio will rise to 183% in 2054 under the OBBBA as legislated and to 199% if the temporary tax and spending provisions are made permanent. These figures compare to a current debt-GDP ratio of about 100% and a pre-OBBBA CBO analysis earlier this year that projected the 2054 debt-GDP ratio to be 154%. We estimate a fiscal gap – the permanent tax or spending changes needed to keep the 2054 debt-GDP ratio at its current level – to be about 3.4% of GDP if OBBBA is extended. We discuss the economic and political ramifications of debt and different ways to address the fiscal situation.</content>
-    <link href="https://www.nber.org/papers/w34455"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
@@ -810,18 +822,6 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study presents the first evidence, to our knowledge, of the effects of the surge in interior immigration apprehensions in 2025 in the United States on student academic performance using detailed student-level administrative records from Florida. We find evidence that immigration enforcement reduced test scores for both U.S.-born and foreign-born Spanish-speaking students while also reducing the likelihood that these students are involved in disciplinary incidents in schools. Both of these effects are more pronounced for students in middle and high schools.</content>
     <link href="https://www.nber.org/papers/w34452"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34444</id>
-    <title>Artificial Intelligence, Competition, and Welfare</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Susan Athey &amp; Fiona Scott Morton</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how market power in artificial intelligence (AI) shapes wages and welfare in open-economy general equilibrium by treating AI as a priced, imported factor. Across three models, we separate technical efficiency from the impact of upstream price setting. In a two-traded-goods benchmark, the incidence of AI price changes depends on how sectoral skill intensity changes with AI prices; non-monotone intensity can generate “double harm” for unskilled workers (lower real wage after a large decrease in the price of AI, and real wage decreases further when the AI price rises as a result of market power). With one non-traded sector, we observe that the classic “Dutch disease” effect here would arise when one sector gets more productive and draws labor away from other sectors, creating scarcity and raising prices; but this is not what we expect from the introduction of labor-substituting AI. In contrast, our last model considers two non-traded sectors and CES/free entry, and the opportunity for discrete adoption of technology that replaces unskilled labor from the AI-using sector. When AI reduces unit costs and increases variety, it will not pull U from non-tradables, instead it will displace workers from the AI-using sector and lower wage due to diminishing returns in alternative sectors. Strategic upstream pricing of AI then harms welfare through unit-cost (usage fees) and variety (access fees) channels, with income leakage abroad. We derive an adoption frontier tying feasible usage prices to displaced workers’ outside options and show a monopolist typically prices on this boundary; capping one instrument shifts rents to the other. Broad gains for the adopting country relies on pressure (or regulation) on both usage and access fees and as well as policy that supports productive absorption of displaced labor. The framework clarifies when AI can lower real wages and aggregate welfare despite efficiency gains.</content>
-    <link href="https://www.nber.org/papers/w34444"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
