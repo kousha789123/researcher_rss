@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-11-24T14:40:36.715598+00:00</updated>
+  <updated>2025-11-25T14:40:51.893088+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -17,6 +17,18 @@
     <link href="https://www.nber.org/papers/w34397"/>
     <category term="NBER"/>
     <published>2025-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34427</id>
+    <title>Modeling and Measuring the Genetic Determinants of Child Development</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Francesco Agostinelli &amp; Zach Weingarten</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The longstanding debate over whether human capabilities and skills are shaped more by “nature” or “nurture” has been revitalized by recent advances in genetics, particularly in the use of polygenic scores (PGSs) to proxy for genetic endowments. Yet, we argue that PGSs embed not only direct genetic effects but also indirect environmental influences, raising questions about their validity for causal analysis. We show that these conflated measures can mislead studies of gene–environment interactions, especially when parental behavior responds to children’s genetic risk. To address this issue, we construct a new latent measure of genetic risk that integrates individual genotypes with diagnostic symptoms, using data from the National Longitudinal Study of Adolescent to Adult Health linked to restricted individual SNP-level genotypes from dbGaP. Exploiting multiple sources of variation—including the Mendelian within-family genetic randomization among siblings—we find consistent evidence that parents compensate by investing more in children with higher genetic risk for ADHD. Strikingly, these compensatory responses disappear when genetic risk is proxied by the conventional ADHD PGS, which also yields weaker—and in some cases reversed—predictions for long-run outcomes. Finally, we embed our latent measure of genetic endowments into a standard dynamic structural model of child development. The model shows that both parental investments and latent genetic risk jointly shape children’s cognitive and mental health development, underscoring the importance of modeling the dynamic interplay between genes and environments in the formation of human capital.</content>
+    <link href="https://www.nber.org/papers/w34427"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.nber.org/papers/w34426</id>
@@ -127,18 +139,6 @@
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34417</id>
-    <title>Fraud at a Distance? How Remote Work Shapes Financial Misconduct</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>John M. Barrios, Jessie Jianwen Guo &amp; Yanping Zhu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial misconduct is often a team activity, facilitated by face-to-face interactions, shared norms, and trust. We exploit the sudden shift to remote work during COVID-19 to examine how workplace organization shapes collusion and financial misconduct. Using a novel firm-level measure of work-from-home feasibility, we find that firms that are more able to operate remotely experienced large post-2020 declines in misconduct. This decline is found across multiple misreporting proxies and is robust to various alternative measures of remote work. Cross-sectional tests indicate stronger declines in teamwork-intensive firms, firms with effective internal controls, and firms with weaker pre-COVID employee perceptions of culture and leadership. Overall, our findings reflect that financial misconduct is a team activity, sensitive to the organizational structure of the firm, with important implications for governance and organizational design.</content>
-    <link href="https://www.nber.org/papers/w34417"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34416</id>
     <title>The International Monetary System in the Last and Next 20 Years Redux</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -147,6 +147,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In a paper 20 years ago, we analyzed the evolution of the international monetary system over the preceding 20 years and projected its evolution 20 years into the future, on the assumption of unchanged transition probabilities.  Here we compare those projections with outcomes and provide new projections, again 20 years into the future.  Although the world as a whole has seen financial opening and movement away from intermediate exchange rate regimes, as projected, movement has been slower than projected on the basis of observed transition probabilities in the 20 years preceding our forecast.  New projections again based on unchanged transition probabilities but allowing countries to shift between advanced, emerging and developing country groupings and reclassifying exchange rate regimes to accord with current practice again suggest that policy regimes will be modestly different in 2045 than today.  There will be a continued decline in intermediate exchange rate arrangements, and gains for hard pegs, as emerging markets move in this direction, and for more freely floating rates, driven by developing countries.  There will be a further increase in the share of countries with open capital accounts, driven by emerging markets and developing countries.</content>
     <link href="https://www.nber.org/papers/w34416"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34417</id>
+    <title>Fraud at a Distance? How Remote Work Shapes Financial Misconduct</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>John M. Barrios, Jessie Jianwen Guo &amp; Yanping Zhu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial misconduct is often a team activity, facilitated by face-to-face interactions, shared norms, and trust. We exploit the sudden shift to remote work during COVID-19 to examine how workplace organization shapes collusion and financial misconduct. Using a novel firm-level measure of work-from-home feasibility, we find that firms that are more able to operate remotely experienced large post-2020 declines in misconduct. This decline is found across multiple misreporting proxies and is robust to various alternative measures of remote work. Cross-sectional tests indicate stronger declines in teamwork-intensive firms, firms with effective internal controls, and firms with weaker pre-COVID employee perceptions of culture and leadership. Overall, our findings reflect that financial misconduct is a team activity, sensitive to the organizational structure of the firm, with important implications for governance and organizational design.</content>
+    <link href="https://www.nber.org/papers/w34417"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
@@ -183,18 +195,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the causal impact of being denied benefit access on the financial well-being of marginally-excluded households. Using experimental and quasi-random variation in the flexibility of mandatory intake interviews and a unique linkage between administrative Supplemental Nutrition Assistance Program (SNAP) and credit report data, we find that households screened out of SNAP due to administrative barriers suffer tangible downstream economic consequences. Specifically, we find that process-related denials increase debt and delinquencies, and decrease credit scores. These results highlight the economic importance of implementation design and its role in strengthening (or undermining) the financial protection provided by social insurance programs.</content>
     <link href="https://www.nber.org/papers/w34434"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34427</id>
-    <title>Modeling and Measuring the Genetic Determinants of Child Development</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Francesco Agostinelli &amp; Zach Weingarten</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The longstanding debate over whether human capabilities and skills are shaped more by “nature” or “nurture” has been revitalized by recent advances in genetics, particularly in the use of polygenic scores (PGSs) to proxy for genetic endowments. Yet, we argue that PGSs embed not only direct genetic effects but also indirect environmental influences, raising questions about their validity for causal analysis. We show that these conflated measures can mislead studies of gene–environment interactions, especially when parental behavior responds to children’s genetic risk. To address this issue, we construct a new latent measure of genetic risk that integrates individual genotypes with diagnostic symptoms, using data from the National Longitudinal Study of Adolescent to Adult Health linked to restricted individual SNP-level genotypes from dbGaP. Exploiting multiple sources of variation—including the Mendelian within-family genetic randomization among siblings—we find consistent evidence that parents compensate by investing more in children with higher genetic risk for ADHD. Strikingly, these compensatory responses disappear when genetic risk is proxied by the conventional ADHD PGS, which also yields weaker—and in some cases reversed—predictions for long-run outcomes. Finally, we embed our latent measure of genetic endowments into a standard dynamic structural model of child development. The model shows that both parental investments and latent genetic risk jointly shape children’s cognitive and mental health development, underscoring the importance of modeling the dynamic interplay between genes and environments in the formation of human capital.</content>
-    <link href="https://www.nber.org/papers/w34427"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
@@ -346,6 +346,18 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34444</id>
+    <title>Artificial Intelligence, Competition, and Welfare</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Susan Athey &amp; Fiona Scott Morton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a policy-relevant research agenda examining how market power in up-stream artificial intelligence (AI) affects downstream prices, industry structure, factor returns, and welfare—especially whether labor-displacing AI leaves workers worse off. In our open-economy general equilibrium model, AI is a priced, imported input. Our main model features two nontraded sectors and firms making discrete adoption decisions about technology. Adoption reduces unit costs, displaces some types of workers, and depresses wages for those workers via diminishing returns elsewhere, while leaking AI fees abroad. We identify conditions under which market power in AI leads to a “double harm” for displaced workers, who may experience real wages cuts when AI becomes available at low prices, and then experience further harm from increases in AI prices. Strategic AI pricing reduces welfare by raising downstream marginal costs (via usage fees) and limiting entry and variety (via access fees). We derive an adoption frontier linking feasible usage fees to displaced workers’ outside options, showing that a monopolist typically makes use of both types of fees and prices on the frontier; capping one fee shifts rents to the other. Regulating both fees, alongside policies that absorb displaced labor, can raise national welfare.</content>
+    <link href="https://www.nber.org/papers/w34444"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34468</id>
     <title>The Coasean Singularity? Demand, Supply, and Market Design with AI Agents</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -366,18 +378,6 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;It is well-understood that the U.S. faces an unsustainable fiscal future. We review historical budget trends and basic fiscal processes. We provide new estimates of the budget outlook, incorporating the recently enacted One Big Beautiful Bill Act (OBBBA), and finding that the debt-GDP ratio will rise to 183% in 2054 under the OBBBA as legislated and to 199% if the temporary tax and spending provisions are made permanent. These figures compare to a current debt-GDP ratio of about 100% and a pre-OBBBA CBO analysis earlier this year that projected the 2054 debt-GDP ratio to be 154%. We estimate a fiscal gap – the permanent tax or spending changes needed to keep the 2054 debt-GDP ratio at its current level – to be about 3.4% of GDP if OBBBA is extended. We discuss the economic and political ramifications of debt and different ways to address the fiscal situation.</content>
     <link href="https://www.nber.org/papers/w34455"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34444</id>
-    <title>Artificial Intelligence, Competition, and Welfare</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Susan Athey &amp; Fiona Scott Morton</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how market power in artificial intelligence (AI) shapes wages and welfare in open-economy general equilibrium by treating AI as a priced, imported factor. Across three models, we separate technical efficiency from the impact of upstream price setting. In a two-traded-goods benchmark, the incidence of AI price changes depends on how sectoral skill intensity changes with AI prices; non-monotone intensity can generate “double harm” for unskilled workers (lower real wage after a large decrease in the price of AI, and real wage decreases further when the AI price rises as a result of market power). With one non-traded sector, we observe that the classic “Dutch disease” effect here would arise when one sector gets more productive and draws labor away from other sectors, creating scarcity and raising prices; but this is not what we expect from the introduction of labor-substituting AI. In contrast, our last model considers two non-traded sectors and CES/free entry, and the opportunity for discrete adoption of technology that replaces unskilled labor from the AI-using sector. When AI reduces unit costs and increases variety, it will not pull U from non-tradables, instead it will displace workers from the AI-using sector and lower wage due to diminishing returns in alternative sectors. Strategic upstream pricing of AI then harms welfare through unit-cost (usage fees) and variety (access fees) channels, with income leakage abroad. We derive an adoption frontier tying feasible usage prices to displaced workers’ outside options and show a monopolist typically prices on this boundary; capping one instrument shifts rents to the other. Broad gains for the adopting country relies on pressure (or regulation) on both usage and access fees and as well as policy that supports productive absorption of displaced labor. The framework clarifies when AI can lower real wages and aggregate welfare despite efficiency gains.</content>
-    <link href="https://www.nber.org/papers/w34444"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
