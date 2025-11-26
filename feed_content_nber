@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-11-25T14:40:51.893088+00:00</updated>
+  <updated>2025-11-26T14:39:47.813535+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -17,6 +17,18 @@
     <link href="https://www.nber.org/papers/w34397"/>
     <category term="NBER"/>
     <published>2025-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34428</id>
+    <title>Vulnerability of the Public Safety System: Evidence from Micro-Shocks</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Shooshan Danagoulian, Monica Deza, Johanna Catherine Maclean &amp; Alberto Ortega</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The 911 system, a vital component of public safety, responds to over 210 million emergency calls each year. We examine the effect of small exogenous public health stressors – pollen emissions – on the operation of the 911 call system in Seattle, Washington. Leveraging daily variation in pollen levels, we evaluate pollen’s impact on the volume of 911 calls. We find that a 100% increase in pollen levels – the modal day-over-day variation we observe in our data – results in six additional 911 calls per day. We further show that elevated pollen levels influence the quality of emergency and non-emergency response. The 911 system responds to increased strain by prioritizing more urgent calls – and as a result, increasing response time to non-urgent calls. Though all calls are connected to a dispatcher, there are increased missed connections – canceled emergency response, missing records of response, and false reports. Despite the prioritization of urgent calls, these additional daily calls lead to reallocation of resources in ways that potentially impede service quality. Thus, our findings suggest that common and small shocks may lead to under-provision of valuable services to communities across the U.S.</content>
+    <link href="https://www.nber.org/papers/w34428"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.nber.org/papers/w34427</id>
@@ -139,18 +151,6 @@
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34416</id>
-    <title>The International Monetary System in the Last and Next 20 Years Redux</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Barry Eichengreen &amp; Raul Razo-Garcia</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In a paper 20 years ago, we analyzed the evolution of the international monetary system over the preceding 20 years and projected its evolution 20 years into the future, on the assumption of unchanged transition probabilities.  Here we compare those projections with outcomes and provide new projections, again 20 years into the future.  Although the world as a whole has seen financial opening and movement away from intermediate exchange rate regimes, as projected, movement has been slower than projected on the basis of observed transition probabilities in the 20 years preceding our forecast.  New projections again based on unchanged transition probabilities but allowing countries to shift between advanced, emerging and developing country groupings and reclassifying exchange rate regimes to accord with current practice again suggest that policy regimes will be modestly different in 2045 than today.  There will be a continued decline in intermediate exchange rate arrangements, and gains for hard pegs, as emerging markets move in this direction, and for more freely floating rates, driven by developing countries.  There will be a further increase in the share of countries with open capital accounts, driven by emerging markets and developing countries.</content>
-    <link href="https://www.nber.org/papers/w34416"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34417</id>
     <title>Fraud at a Distance? How Remote Work Shapes Financial Misconduct</title>
     <updated>2025-11-01T00:00:00+00:00</updated>
@@ -159,6 +159,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial misconduct is often a team activity, facilitated by face-to-face interactions, shared norms, and trust. We exploit the sudden shift to remote work during COVID-19 to examine how workplace organization shapes collusion and financial misconduct. Using a novel firm-level measure of work-from-home feasibility, we find that firms that are more able to operate remotely experienced large post-2020 declines in misconduct. This decline is found across multiple misreporting proxies and is robust to various alternative measures of remote work. Cross-sectional tests indicate stronger declines in teamwork-intensive firms, firms with effective internal controls, and firms with weaker pre-COVID employee perceptions of culture and leadership. Overall, our findings reflect that financial misconduct is a team activity, sensitive to the organizational structure of the firm, with important implications for governance and organizational design.</content>
     <link href="https://www.nber.org/papers/w34417"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34416</id>
+    <title>The International Monetary System in the Last and Next 20 Years Redux</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Barry Eichengreen &amp; Raul Razo-Garcia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In a paper 20 years ago, we analyzed the evolution of the international monetary system over the preceding 20 years and projected its evolution 20 years into the future, on the assumption of unchanged transition probabilities.  Here we compare those projections with outcomes and provide new projections, again 20 years into the future.  Although the world as a whole has seen financial opening and movement away from intermediate exchange rate regimes, as projected, movement has been slower than projected on the basis of observed transition probabilities in the 20 years preceding our forecast.  New projections again based on unchanged transition probabilities but allowing countries to shift between advanced, emerging and developing country groupings and reclassifying exchange rate regimes to accord with current practice again suggest that policy regimes will be modestly different in 2045 than today.  There will be a continued decline in intermediate exchange rate arrangements, and gains for hard pegs, as emerging markets move in this direction, and for more freely floating rates, driven by developing countries.  There will be a further increase in the share of countries with open capital accounts, driven by emerging markets and developing countries.</content>
+    <link href="https://www.nber.org/papers/w34416"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
@@ -258,18 +270,6 @@ Using a difference-in-differences (DiD) estimation, the study identifies causal 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper demonstrates that ignoring the source of variation in tariff levels yields misleading conclusions regarding the effects of tariff changes. Specifically, we show that changes in the ad valorem equivalent (AVE) tariff are insufficient to quantify the magnitude or sign of the effect of tariff changes on economic outcomes. To illustrate this point, we construct the first database of annual US statutory tariffs from 1972 to 1988 and use it to explore the consequences of liberalization in the years spanning the Tokyo Round of the General Agreement on Tariffs and Trade (GATT). Decomposing the aggregate AVE into its statutory and endogenous components, we document two distinct liberalizations in our sample. Prior to 1979, inflation combines with specific tariffs to create an “accidental liberalization”, despite the absence of widespread statutory tariff changes. After 1979, endogenous changes in the composition of imports mask the large Tokyo Round statutory tariff liberalization. Generalizing an exact hat framework to accommodate specific tariffs, we show that inflation-driven reductions in AVEs account for roughly half of the tariff liberalization in our sample, but these changes ultimately reduce imports and welfare. Finally, we show that specific tariffs remain an important determinant of cross-sectional variation in AVEs: between 2000 and 2017, one-third to one-half of the annual cross-sectional variance in good-level AVEs is driven by variation in the AVE of specific tariffs.</content>
     <link href="https://www.nber.org/papers/w34429"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34428</id>
-    <title>Vulnerability of the Public Safety System: Evidence from Micro-Shocks</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Shooshan Danagoulian, Monica Deza, Johanna Catherine Maclean &amp; Alberto Ortega</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The 911 system, a vital component of public safety, responds to over 210 million emergency calls each year. We examine the effect of small exogenous public health stressors – pollen emissions – on the operation of the 911 call system in Seattle, Washington. Leveraging daily variation in pollen levels, we evaluate pollen’s impact on the volume of 911 calls. We find that a 100% increase in pollen levels – the modal day-over-day variation we observe in our data – results in six additional 911 calls per day. We further show that elevated pollen levels influence the quality of emergency and non-emergency response. The 911 system responds to increased strain by prioritizing more urgent calls – and as a result, increasing response time to non-urgent calls. Though all calls are connected to a dispatcher, there are increased missed connections – canceled emergency response, missing records of response, and false reports. Despite the prioritization of urgent calls, these additional daily calls lead to reallocation of resources in ways that potentially impede service quality. Thus, our findings suggest that common and small shocks may lead to under-provision of valuable services to communities across the U.S.</content>
-    <link href="https://www.nber.org/papers/w34428"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
