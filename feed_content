@@ -2,118 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-11-30T14:39:23.477936+00:00</updated>
+  <updated>2025-12-01T14:39:34.764920+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf096</id>
-    <title>Nonbank Lending and the Transmission of Monetary Policy</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Dominic Cucic, Denis Gorea</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We analyze the role of nonbank lenders in the transmission of monetary policy using data on the universe of unsecured credit to firms and households in Denmark. Nonbanks increase their credit supply after a monetary contraction, both relative to banks and in absolute terms. The increase in nonbank lending is financed through increased long-term debt. A model with segmented debt markets featuring differential investor rate sensitivities rationalizes these findings. Nonbank credit insulates corporate investment and household consumption from monetary contractions, with positive spillovers extending beyond nonbank clients through industry and geographic channels. (JEL E51, E52, G23)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf096"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf097</id>
-    <title>Bond Market Resiliency: The Role of Insurers</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Maureen O’Hara, Andreas C Rapp, Xing ( Alex) Zhou</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We examine the role of insurance companies in supporting resiliency in the corporate bond market. We show that during the COVID-19 liquidity crisis, insurers increased their corporate bond positions, particularly in bonds facing fire sales by mutual funds. Insurers with more stable funding were more likely to buy, and they bought more from dealers with whom they had prior trading relationships. Dealers improved their bond liquidity provision when they had trading relationships with insurers with more stable funding. Our work demonstrates that insurers can play an important role in supporting bond market resiliency during times of stress. (JEL: G10, G12, G20, G22, G23, G24)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf097"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdaf094</id>
-    <title>Taxes Depress Corporate Borrowing: Evidence from Private Firms</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Ivan T Ivanov, Luke Pettit, Toni M Whited</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We use variation in state corporate income tax rates to re-examine the relation between taxes and corporate leverage. Contrary to prior research, corporate leverage rises after tax cuts for small private firms. An estimated dynamic equilibrium model shows that tax cuts make capital more productive and spur the use of leverage. Tax cuts also produce more distant default thresholds and lower credit spreads. These effects outweigh the lower interest tax deduction and lead to higher optimal leverage choices, especially for firms with flexible investment policies. The presence of the interest tax deduction raises consumer welfare in equilibrium.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf094"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0190</id>
-    <title>Fully Online Matching with General Stochastic Arrivals and Departures</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Zihao Li, Hao Wang, Zhenzhen Yan</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;A Novel Fully Online Matching Algorithm in Stochastic EnvironmentsIn many modern applications, such as ride-sharing, participants arrive and depart dynamically, requiring quick decisions about who to match and when. In “Fully Online Matching with General Stochastic Arrivals and Departures,” Li, Wang, and Yan introduce a fully online matching framework that models these real-world dynamics. Each arrival follows a known identical and independent distribution over agent types, whereas the sojourn time is unknown in advance and follows type-specific distributions with known expectations. To address this, they propose a linear programming–based algorithm that guarantees a competitive ratio of at least 0.192 under mild conditions—more than 50% better than the state-of-the-art result of 0.125. They also establish several hardness results to highlight the intrinsic difficulty of the problem. Numerical experiments further confirm the effectiveness and efficiency of their algorithm, offering new insights for decision making in stochastic and dynamic environments.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0190"/>
-    <category term="Operations Research"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03550</id>
-    <title>Incentivizing Resource Pooling</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Chen Chen, Yilun Chen, Pengyu Qian</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Resource pooling improves system efficiency drastically in large stochastic systems, but its effective implementation in decentralized systems remains relatively underexplored. This paper studies how to incentivize resource pooling when agents are self-interested, and their states are private information. Our primary motivation is applications in the design of decentralized computing markets, among others. We study a standard multiserver queueing model in which each server is associated with an [Formula: see text] queue and aims to minimize its time-average job holding and processing costs. We design a simple token-based mechanism where servers can earn tokens by offering help and spend tokens to request help from other servers, all in their self-interest. The mechanism induces a complex game among servers. We employ the fluid mean-field equilibrium (FMFE) concept to analyze the system, combining mean-field approximation with fluid relaxation. This framework enables us to derive a closed-form characterization of servers’ FMFE strategies. We show that these FMFE strategies approximate well the servers’ rational behavior. We leverage this framework to optimize the design of the mechanism and present our main results: As the number of servers increases, the proposed mechanism incentivizes complete resource pooling—that is, the system dynamics and performance under our mechanism match those under centralized control. Finally, we show that our mechanism achieves the first-best performance even when helping others incurs higher job processing costs and remains nearly optimal in settings with heterogeneous servers.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: Y. Chen acknowledges the support by the National Natural Science Foundation of China (NSFC) [Grants NSFC-72501250 and NSFC-72394361] and by the Guangdong Key Lab of Mathematical Foundations for Artificial Intelligence.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03550 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03550"/>
-    <category term="Management Science"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00060</id>
-    <title>The Production and Consumption of Social Media</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Apostolos Filippas, John J. Horton, Elliot Lipnowski, Prasanna Parasurama</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We model social media as collections of users producing and consuming content. Users value consuming content, but due to scarce attention, they may not value all content from other users. Users also value receiving attention, creating the incentive to attract an audience by producing valuable content but also through attention bartering—users mutually becoming each other’s audience. Attention bartering shapes substantially the patterns of production and consumption on social media, explains key features of social media behavior and platform decision making, and yields sharp predictions that are consistent with data we collect from #EconTwitter. We conduct Twitter and Instagram user surveys that yield additional direct evidence in support of attention bartering, and we discuss the implications of attention bartering for the design of social media platforms.This paper was accepted by Joshua Gans, business strategy.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00060 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00060"/>
-    <category term="Management Science"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06104</id>
-    <title>The Treasury Collateral Spread and Levered Safe-Asset Production</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Chase P. Ross</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Banks are vital suppliers of money-like safe assets, which they produce by issuing short-term liabilities and pledging collateral. But their ability to create safe assets varies over time as leverage constraints fluctuate. I write a simple model to describe private safe-asset production when intermediaries face leverage constraints. I directly measure leverage constraints using confidential supervisory data on high-frequency changes in the largest banks’ repurchase agreements (repos). The collateral spread—the maturity-matched yield spread between Treasuries used as repo collateral more often and Treasuries used less often—compensates for bank leverage risk and averages about 0.5 basis points, a sizable magnitude roughly equal to 60% of the five-year Treasury cheapest-to-deliver basis.This paper was accepted by Bo Becker, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06104 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06104"/>
-    <category term="Management Science"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05834</id>
-    <title>Algorithmic Precision and Human Decision: A Study of Interactive Optimization for School Schedules</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Arthur Delarue, Zhen Lian, Sebastien Martin</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In collaboration with the San Francisco Unified School District (SFUSD), this paper introduces an interactive optimization framework to tackle complex school scheduling challenges. The choice of school start and end times is an optimization challenge, as schedules influence the district’s transportation system, and limiting the associated costs is a computationally difficult combinatorial problem. However, it is also a policy challenge, as transportation costs are far from the only consequence of school schedule changes. Policymakers need time and knowledge to balance these considerations and reach a consensus carefully; past implementations have failed because of policy issues, despite state-of-the-art optimization approaches. We first motivate our approach with a microfoundation model of the interplay between policymakers and researchers, arguing that limiting their dependency is key. Building on these insights, we propose a framework that includes (1) a fast algorithm capable of solving the school schedule problem that compares favorably to the literature and (2) an interactive optimization approach that leverages this speed to allow policymakers to explore a variety of solutions in a transparent and efficient way, facilitating the policy decision-making process. The framework led to the first optimization-driven school start time changes in the United States, updating the schedule of all 133 schools in SFUSD in 2021, with annual transportation savings exceeding $5 million. A comprehensive survey of approximately 27,000 parents and staff in 2022 provides evidence of the approach’s effectiveness.This paper was accepted by Felipe Caro for the Special Issue on the Human-Algorithm Connection.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05834 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05834"/>
-    <category term="Management Science"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03660</id>
-    <title>Ethnic Investing and the Value of Firms</title>
-    <updated>2025-11-10T00:00:00+00:00</updated>
-    <author>
-      <name>Jonas Hjort, Changcheng Song, Chris Yenkey</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study ethnic investing, using transaction data from Kenya’s stock exchange and CEO/board turnover. We show that a given investor invests more in a given firm when the firm is run by coethnics and earns lower risk-adjusted returns on such investments. We then model and empirically test for the aggregate impact of (i) the implied taste- or psychology-driven investor discrimination and (ii) counteracting demand- and supply-side forces. Our estimates imply that listed Kenyan firms could collectively be worth 38% more—with minority-run firms benefitting the most—if the neutral proportion of active investors increased from 4.6% to 50%.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03660 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03660"/>
-    <category term="Management Science"/>
-    <published>2025-11-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhaf099</id>
     <title>Heterogeneous Oil Supply Elasticities: Indebtedness and Production Responses to the COVID-19 Shock</title>
@@ -991,18 +883,6 @@
     <published>2025-11-19T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/joms.70036</id>
-    <title>Purposeful Management and the Public Good: Relationships, Tensions, and Consequences</title>
-    <updated>2025-11-19T00:00:00+00:00</updated>
-    <author>
-      <name>Gideon D. Markman, Christopher Wickert, Kristina Potočnik, Hannes Leroy, Daniel Muzio, Elena Dalpiaz</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Traditional management practices have long prioritized organizational performance and financial growth, primarily serving shareholder interests. However, escalating societal and environmental challenges – such as climate change, human rights violations, the dismantling of democratic institutions, and public health crises – raise questions about the adequacy of these priorities and call for greater attention to management’s role in advancing the public good. This Special Issue examines the relationships, tensions, and consequences associated with efforts to repurpose management towards broader societal aims. We distinguish between organizational purpose – the stated aspirational goals of firms – and repurposed management, which reflects broader shifts in managerial logic, practices, and institutional expectations aimed at serving the public good. The contributing articles explore how such repurposing is constructed and enacted across institutional settings, and how managerial practices influence governance structures, stakeholder dynamics, and field‐level norms to shape public outcomes – both intended and unintended. By shifting the analytical lens from purpose as internal intent to purpose as institutionally mediated consequence, we invite more inquiry into how, when, and for whom purposeful management contributes to the public good – foregrounding the institutional mechanisms, stakeholder dynamics, and societal outcomes through which purpose is interpreted, negotiated and enacted.</content>
-    <link href="https://doi.org/10.1111/joms.70036"/>
-    <category term="Journal of Management Studies"/>
-    <published>2025-11-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1111/joms.70026</id>
     <title>Trade Wars, International Supply Chains, and Business Associations: Historical Evidence from Norway and Portugal</title>
     <updated>2025-11-19T00:00:00+00:00</updated>
@@ -1011,6 +891,18 @@
     </author>
     <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This article examines the 1921–1923 trade war between Norway and Portugal as a historical case for exploring business responses to deglobalization and trade disruption. Focusing on the international supply chains (ISCs) of port wine and salted and dried cod, it investigates how business actors contributed to the recoupling of ISCs after a trade war. Drawing on a history‐to‐theory methodology and extensive archival research, the study offers new theoretical insights into how institutional environments shape business agency during periods of deglobalization. It develops a typology of trade wars structured around two dimensions: the degree of coordination within ISCs and the economic reach of the conflict. The findings demonstrate that, in processes ofsymmetric recoupling, where both nations restore disrupted supply chains on equal terms, business associations as well as multinational enterprises (MNEs) play a pivotal role in business diplomacy and supply‐chain reconstruction. The symmetric nature of the post‐trade war recoupling fosters mutual recovery and enhances long‐term competitiveness for the industries involved. The typology proposed also provides a framework for analysing other historical and contemporary trade wars across diverse geopolitical settings.</content>
     <link href="https://doi.org/10.1111/joms.70026"/>
+    <category term="Journal of Management Studies"/>
+    <published>2025-11-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70036</id>
+    <title>Purposeful Management and the Public Good: Relationships, Tensions, and Consequences</title>
+    <updated>2025-11-19T00:00:00+00:00</updated>
+    <author>
+      <name>Gideon D. Markman, Christopher Wickert, Kristina Potočnik, Hannes Leroy, Daniel Muzio, Elena Dalpiaz</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Traditional management practices have long prioritized organizational performance and financial growth, primarily serving shareholder interests. However, escalating societal and environmental challenges – such as climate change, human rights violations, the dismantling of democratic institutions, and public health crises – raise questions about the adequacy of these priorities and call for greater attention to management’s role in advancing the public good. This Special Issue examines the relationships, tensions, and consequences associated with efforts to repurpose management towards broader societal aims. We distinguish between organizational purpose – the stated aspirational goals of firms – and repurposed management, which reflects broader shifts in managerial logic, practices, and institutional expectations aimed at serving the public good. The contributing articles explore how such repurposing is constructed and enacted across institutional settings, and how managerial practices influence governance structures, stakeholder dynamics, and field‐level norms to shape public outcomes – both intended and unintended. By shifting the analytical lens from purpose as internal intent to purpose as institutionally mediated consequence, we invite more inquiry into how, when, and for whom purposeful management contributes to the public good – foregrounding the institutional mechanisms, stakeholder dynamics, and societal outcomes through which purpose is interpreted, negotiated and enacted.</content>
+    <link href="https://doi.org/10.1111/joms.70036"/>
     <category term="Journal of Management Studies"/>
     <published>2025-11-19T00:00:00+00:00</published>
   </entry>
@@ -1773,6 +1665,18 @@
     <published>2025-11-29T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70037</id>
+    <title>Location choice in global patent litigation: Does the landscape matter?</title>
+    <updated>2025-11-30T00:00:00+00:00</updated>
+    <author>
+      <name>Charlie B. An, Shixiang Wang, Minyuan Zhao</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Firms asserting their patents globally face a dilemma: a legal verdict is binding only in the country of litigation, and yet litigating country by country is prohibitively expensive. Thus, firms have to be strategic in deciding where to sue. In this paper, we argue that global patent litigation is not only about winning a case, but also about making a case, that is, leveraging litigation in one country to shape expectations on litigation outcomes elsewhere. Our analyses on patent litigation in 50 countries over 13 years show that firms tend to concentrate litigation in few countries when the relevant markets historically share similar litigation outcomes, so litigation in one country can effectively inform the litigants of future trajectories, reducing the need for repetitive litigation across countries.Managerial SummaryWhile legal enforcement of intellectual property (IP) rights remains national, the battleground for IP has become increasingly global, especially for firms competing across countries. In this paper, we argue that the location choice for global patent litigation depends not only on country characteristics, such as market size and competition intensity, but also on the relationships across countries, that is, how similar or different the IP regimes are. When the relevant countries historically share similar litigation outcomes, firms can use litigation in one country to influence the expectations of litigants and potential infringers in other markets, which reduces the need for repetitive litigation. Thus, examining the global landscape of patent litigation as a whole can provide insight beyond the sum of IP strategies in individual countries.</content>
+    <link href="https://doi.org/10.1002/smj.70037"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-11-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/joms.70040</id>
     <title>The Support Paradox: Explaining (Mis)Matches in Refugee Workplace Support</title>
     <updated>2025-11-30T00:00:00+00:00</updated>
@@ -1795,6 +1699,54 @@
     <link href="https://doi.org/10.1111/joms.70042"/>
     <category term="Journal of Management Studies"/>
     <published>2025-11-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587251392498</id>
+    <title>Entrepreneurship and ADHD: A Meta-Analytical Assessment of the State-of-the-Art and Suggestions for the Future</title>
+    <updated>2025-11-30T00:00:00+00:00</updated>
+    <author>
+      <name>Mi Hoang Tran, Johan Wiklund, Kevin Antshel, Nandini Jhawar, Catherine Montgomery</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Attention Deficit Hyperactivity Disorder (ADHD) has been increasingly linked to entrepreneurship, yet existing findings remain fragmented and, at times, contradictory. This meta-analysis synthesizes 298 effect sizes from 47 studies to examine the relationships between ADHD (inattention, hyperactivity/impulsivity, total symptoms, and clinical diagnosis) and entrepreneurial attitudes, behaviors, and post-launch outcomes. The results show hyperactivity/impulsivity is positively associated with entrepreneurial attitudes and behaviors, but not significantly related to post-launch outcomes. Conversely, inattention is negatively associated with post-launch outcomes. Total ADHD symptoms and diagnosis are positively related to entrepreneurial behaviors, yet negatively linked to outcomes. We conclude by proposing directions for future research.JEL code:L26, I10, J24</content>
+    <link href="https://doi.org/10.1177/10422587251392498"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2025-11-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/sej.70010</id>
+    <title>Innovating for impact: Harnessing business model innovation to tackle grand challenges</title>
+    <updated>2025-12-01T14:39:34+00:00</updated>
+    <author>
+      <name>Nancy M. P. Bocken, Sven Heidenreich, Patrick Spieth, Christopher Tucci, Christoph Zott</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;This Special Section of theStrategic Entrepreneurship Journalexplores how business model innovation (BMI) can address grand challenges (GCs), includingartificial intelligence (AI),business and global unrest, andclimate change through a proposed “ABC” classification and “BMI‐GC” concept. Highlighting BMI's role as a boundary‐spanning, collaborative approach to innovation, we demonstrate its potential to drive sustainable solutions by rethinking value creation, delivery, and capture mechanisms. We examine how BMI may foster resilience and help firms and organizations adapt to global volatility, integrate ethical AI, and advance sustainability in business ecosystems. We offer a roadmap for future inquiry into BMI‐GC, including measurement and assessment, digital transformation, and collaborative ecosystems. By embracing these research pathways, scholars can contribute to a deeper theoretical and practical understanding of BMI to address grand challenges.Managerial SummaryWe investigate how business model innovation (BMI) can help tackle pressing global challenges (GCs), includingartificial intelligence (AI),business and global unrest, andclimate change, captured in a proposed “ABC” classification and “BMI‐GC” concept. We illustrate how BMI can help firms and organizations create sustainable, resilient, and future‐proof solutions. Practical strategies include integrating ethical AI, embedding flexibility in business models to withstand volatility, and adopting sustainable practices that align with regulatory and market demands supported by BMI. The paper identifies key opportunities for businesses to rethink how they create and deliver value, and foster collaboration across ecosystems. Through the ABC classification and BMI‐GC concept, we show how BMI can help enhance competitive advantage while responding proactively to the complexities of a rapidly changing world.</content>
+    <link href="https://doi.org/10.1002/sej.70010"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2025-12-01T14:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/sej.70009</id>
+    <title>Developing opportunities in times of crisis: The interactive effects of corporate entrepreneurs' emotional reactions and psychological climates</title>
+    <updated>2025-12-01T14:39:34+00:00</updated>
+    <author>
+      <name>Yingzhu Fu, Marilyn A. Uy, Waifong Boh</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;This research investigates how corporate entrepreneurs' emotional reactions to the business impact of a crisis interact with psychological climates to drive engagement in opportunity formation. Drawing on affective events theory and psychological climate theory, we posit that positive emotional reactions increase engagement in opportunity formation when the psychological climate for initiative is strong, and negative emotional reactions increase engagement when the psychological climate for psychological safety is strong. Conversely, these relationships become negative when these climates are weak. An analysis of data from an eight‐wave longitudinal investigation involving 126 corporate entrepreneurs supports our predictions. By uncovering how corporate entrepreneurs' emotional reactions interact with climates for initiative and psychological safety, we illuminate the affective foundations of opportunity formation and show how organizations can foster climates that channel emotions into entrepreneurial action.Managerial SummaryThis study examines how corporate entrepreneurs' emotional reactions to crises interact with psychological climates to shape entrepreneurial actions. Our findings demonstrate that organizations should cultivate climates characterized by high personal initiative and psychological safety among middle managers. Managers' perceptions of such climates effectively harness both positive and negative emotional reactions for productive entrepreneurial actions, thereby facilitating corporate entrepreneurship. These insights are particularly marked for firms in disrupted industries, where conventional business approaches become obsolete in a crisis. Absent such organizational climates, managers' emotional reactions can discourage them from taking initiative on new opportunities, making it more difficult for the organization to transform and adapt.</content>
+    <link href="https://doi.org/10.1002/sej.70009"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2025-12-01T14:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdaf101</id>
+    <title>Choice and Opportunity Costs</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Paola Manzini, Marco Mariotti, Levent Ülkü</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We define the (physical) opportunity cost of a choice x as the alternative that would be chosen if x were not available, and the opportunity cost of any unchosen alternative as x itself. The agent has preferences over pairs consisting of alternatives and their opportunity costs. Because costs affect choice and vice-versa, choice results from an intrapersonal equilibrium rather than from simple maximisation. In spite of significant rationality assumptions, the resulting behaviour can be highly non-standard, allowing intransitive choices. Rational utility maximisation is ensured by an additional new consistency condition on preferences. However, we argue that the maximised utility cannot be straightforwardly interpreted as a welfare relevant “revealed preference”. A generalisation of our model accommodates additional departures from standard rationality in the form of menu effects.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf101"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-12-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1257/aer.20230751</id>
