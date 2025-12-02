@@ -2,154 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-12-01T14:39:34.764920+00:00</updated>
+  <updated>2025-12-02T14:39:18.788363+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf099</id>
-    <title>Heterogeneous Oil Supply Elasticities: Indebtedness and Production Responses to the COVID-19 Shock</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Sergei Seleznev, Veronika Selezneva</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Debt matters for oil supply elasticities. We document the resiliency of oil production to the COVID-19-related collapse in demand due to indebtedness. We use exogenous variation in the timing of debt-related payments to identify financially constrained operators. We show that more financially constrained firms cut production by less than less-constrained firms and were less likely to complete new wells. To explore the mechanisms, we use borrowing-limit cuts and credit-line drawdowns to measure access to credit, and we exploit failed hedging practices. The propagation of oil demand shocks crucially depends on the indebtedness of the oil sector. (JEL G32, D22, Q41)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf099"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdaf097</id>
-    <title>Diversification, Market Entry, and the Global Internet Backbone</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>El Hadi Caoui, Andrew Steck</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;In many industries, buyers diversify their supplier base to manage supplier disruption risk. We investigate the importance of such diversification as a determinant of demand and supplier entry in the context of the internet backbone, the worldwide network of undersea fibre-optic cables that underpins the internet. We specify a model of international bandwidth demand and cable operators’ dynamic entry and supply choices. The model is estimated using novel data on cross-border data flows, prices, cable characteristics, and disruptions. Counterfactual analysis reveals that supplier diversification accounts for a large share of entry and surplus created between 2005 and 2021. Relative to the socially optimal level of entry, distortions due to suppliers’ inability to capture fully the social benefits of diversity are as large as distortions due to business stealing.</content>
-    <link href="https://doi.org/10.1093/restud/rdaf097"/>
-    <category term="Review of Economic Studies"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251399287</id>
-    <title>EXPRESS: Capacity Configuration and Allocation under Capacity Risk: Trade-Offs between Fill Rates and Costs</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Fei Li, Wei Xie, Yuanguang Zhong, Yong-Wu Zhou</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Capacity configuration and allocation problems in production networks under demand uncertainty have been extensively studied in the literature. In addition to demand uncertainty, capacity risk is also prevalent in practice. This paper considers a bipartite production system consisting of multiple plants and a set of customers located in different areas. In particular, these plants will use their configured capacities, facing capacity risk, to serve those customers who have differentiated fill-rate requirements with uncertain demands. Our objective is to optimize capacity configuration and allocation decisions by formulating the problem as a two-stage stochastic program that explicitly incorporates capacity risks and budget constraints. First, we develop a novel “randomized edge-weighted max-flow” priority rule that integrates capacity risk, penalty costs of unmet demands, and allocation costs to allocate the realized capacities to satisfy fill-rate targets, with a tunable parameter introduced to balance service levels and costs. In particular, we derive necessary and sufficient conditions for identifying plants with zero capacities and obtain some practical insights, which can help reduce the potential redundancy of the network system. When partial information and correlation of distributions are known, we implement robust optimization techniques to obtain the ranges of robust capacities under various scenarios. Some practical managerial implications are derived by theoretically discussing the impacts of capacity risk and demand correlations on these ranges. From numerical experiments, we found that the long-chain configuration no longer has the “almost-as-goodas-the-fully-flexible-network” advantage when the capacities are random. In addition, we also investigate the impacts of correlations among realized capacities or demands on the associated flexibility. Finally, some interesting and useful insights for practitioners can be obtained by analyzing the impacts of costs, fill rates, and uncertainty on the total optimal capacity and total configuration cost.</content>
-    <link href="https://doi.org/10.1177/10591478251399287"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251399862</id>
-    <title>EXPRESS: Pricing under Consumer Habituation: The Optimality of a Familiarity-Based Threshold Policy</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Binghan Kou, Yimin Yu, Yihang Yang</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Empirical evidence indicates that consumers experience a relative loss of excitement over time and miss their habits when refraining from consumption under repeated purchases. Despite the practices of first-time trials and welcome-back offers, how to exploit this habituation behavior through customized dynamic pricing is overlooked in the existing literature. In this paper, we analyze the long-run optimal customized dynamic pricing strategy in the presence of consumer habituation for time/frequency-based consumption. The consumer’s willingness to pay is determined by past consumption via the habitual level of consumption. We formulate the seller’s continuous-time profit maximization problem over an infinite horizon as an optimal control problem and derive the closed-form value function and optimal pricing strategy. We identify a key condition on the willingness-to-pay function that captures both the magnitude of the habituation effect and the saturated willingness to pay, which plays a central role in determining the seller’s optimal pricing policy. When consumers retain interest even at high levels of habitual consumption, alwayssellingby pricing at their current willingness to pay is optimal. In contrast, if consumers lose interest when saturated, the optimal policy becomes a cutoff strategy, where the seller offers the product only when consumption remains below a critical threshold and prices out consumers beyond it.We further examine the resulting pricing and consumption dynamics and characterize an equilibrium habitual level of consumption at which randomized promotions can be optimal. Furthermore, our key findings qualitatively hold under random consumer valuation, but with richer patterns. Our work provides a tractable, closed-form characterization of the optimal dynamic pricing policy under consumer habituation, offering a more nuanced understanding of the strategic implications of an inverted U-shaped willingness-to-pay.</content>
-    <link href="https://doi.org/10.1177/10591478251399862"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251399293</id>
-    <title>EXPRESS: Procurement Strategy Selection and Mechanism Design for Technology Upgrade Products</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Yidan Wang, Juliang Zhang</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;To increase their competitiveness, firms continue to upgrade their products and to buy technology upgrade components. While firms generally know the value of technology upgrade products (components), they do not know when the upgrade solution can be produced on a massive scale, who can produce it, and what the unit production cost is when they make their purchase decisions. To obtain the upgrade solution information and to reduce their purchase costs, some firms adopt thestrategic supplier with bargainingmechanism, while other firms adopt thereverse auction with incentivemechanism. Recently, some firms (e.g., China National Petroleum Corporation) have adopted an innovative mechanism: they establish strategic partnerships with advanced suppliers and promise a proportion of the order to incentivise them to reveal the information on time. Meanwhile, they also adopt the reverse auction to determine the winning supplier and the purchase price for the remaining order to reduce purchase costs. Motivated by these firms’ practices, we propose a new procurement mechanism for technology upgrade products:the strategic auction mechanism. We analyse the optimal promised proportion of the order, the suppliers’ equilibrium policy, and the buyer’s equilibrium profit under this mechanism. In addition, we compare the performance of these three mechanisms and identify their application conditions.</content>
-    <link href="https://doi.org/10.1177/10591478251399293"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.1646</id>
-    <title>Online Metric Matching: Beyond the Worst Case</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Mingwei Yang, Sophie H. Yu</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;New Algorithms for Online Metric Matching with Stochastic Arrivals or PredictionsHow do we match riders to drivers? Online metric matching offers a clean abstraction of this problem, where arriving riders are instantaneously matched to waiting drivers and the matching cost is measured by the pickup distance. Its challenge lies in making matching decisions without knowing the locations of future riders, for which the simple greedy approach yields suboptimal solutions. In their paper “Online Metric Matching: Beyond the Worst Case,” Yang and Yu propose a novel algorithmic framework of designing algorithms for online metric matching when given access to additional information of riders’ locations in advance. They then apply this framework to derive new algorithms when the riders’ locations are independently sampled or when an untrusted prediction of riders’ locations is provided. In the former model, their algorithms achieve improved competitive ratio and regret guarantees for various settings. In the latter model, they present an algorithm whose performance smoothly depends on the prediction error while preserving the worst-case guarantee.</content>
-    <link href="https://doi.org/10.1287/opre.2025.1646"/>
-    <category term="Operations Research"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00320</id>
-    <title>Collaborative Learning and Decision Making on Pricing and Recommendation: A Simple Framework for Planning</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Junyu Cao</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We formulate a collaborative learning and decision-making problem involving contextual information. In current business practices, pricing and recommendation decisions often are made jointly by multiple teams in sequence. The decision-making processes for different teams can be controlled by either a centralized or decentralized planner. We propose a simple collaboration framework that integrates the learning about decision making in an unknown environment. The main challenge in a decentralized framework is that the decision-making process in other teams is unknown, but the subsequent decisions are mutually dependent. From a practical concern about high exploration costs and implementation complexity, we propose a simple greedy algorithm for centralized planners and a “greedy” + “weighted sampling” (GWS) algorithm for both centralized and decentralized planners to balance the learning and earning. We show that the exploration-free greedy algorithm can achieve the optimal rate when context diversity holds. The GWS algorithm works effectively for either centralized or decentralized planners under a much weaker condition, which we call context variation. Furthermore, we extend our framework to the multiproduct pricing and ranking problem and study the model misspecification issue. We validate our results using simulations on synthetic and real data. Numerical studies show the superior performance of the two proposed frameworks for different types of planners.This paper was accepted by J. George Shanthikumar, data science.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.00320 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00320"/>
-    <category term="Management Science"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05125</id>
-    <title>Misreporting of Mandatory ESG Disclosures: Evidence from Gender Pay Gap Information</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>McKenna Bailey, Stephen Glaeser, James D. Omartian, Aneesh Raghunandan</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine environmental, social, and governance (ESG) misreporting in the context of the UK government requirement to report gender employment ratios and pay gaps. Highlighting misreporting, many employers report a set of disclosures that are together mathematically impossible. Further, a disproportionate number of employers report perfectly balanced gender statistics, consistent with misreporting as a form of ESG-washing. Suggesting that a lack of ethical considerations encourages misreporting, employers involved in ESG controversies and who commit labor violations are more likely to misreport. Suggesting that capital market and media scrutiny discourage misreporting, employers that are the subject of an article about their gender pay gap reports and employers that receive an ESG audit or financial audit from a Big 4 auditor are less likely to misreport. Overall, our results suggest that 12%–15% of employers misreport in 2017 and 8%–11% misreport in subsequent years. Our findings highlight the importance of meaningful oversight within the context of ESG reporting.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05125 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05125"/>
-    <category term="Management Science"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70032</id>
-    <title>Capitalism Versus Socialism: Can (or Should) Management Scholars Embrace Varieties of Socio‐Economic Systems in a Multipolar World?</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Wickert</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;In an increasingly multipolar world, thisPoint–Counterpointdebate discusses the imperative for Management and Organization Studies (MOS) to embrace different contexts of socio‐economic systems, specifically varieties of socialism, and in doing so move beyond the predominant capitalist model as a central assumption in the literature. In theirPoint, Bruton, Li and Gautam argue that MOS has insufficiently embraced socialism as an empirical reality, despite nearly half of the world’s population living in nations reflecting some variety of socialism, in addition to modes of organization following an ethos closer to socialism than capitalism. This view is challenged by theCounterpointof Foss, Klein, Holmes and Terjesen. While they agree that considering institutional context is vital, they reject thePoint’sposition, question its imputing of a widespread ‘capitalist bias’, and are concerned that its ethos‐based definitions are imprecise and politically charged. Based on their productive disagreement, collectively thisPoint–Counterpointdebate underscores the imperative for greater contextualization in MOS more generally, and in entrepreneurship research more specifically, and that organizational goals beyond pure financial profit maximization warrant deeper scholarly attention. This introduction concludes by sketching future research avenues, including configurational institutional analysis, exploring collective motivation in entrepreneurship, and analysing the mechanisms of state control.</content>
-    <link href="https://doi.org/10.1111/joms.70032"/>
-    <category term="Journal of Management Studies"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251378092</id>
-    <title>Helicopter Bosses: Development and Validation of the Micromanagement Scale</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Catherine Midel Deen, Christian Kiewitz, Jun-Yeob Kim, Simon Lloyd D. Restubog, Ying-Yi Chih, Robert L. Tang</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Micromanagement (MM) is a popular topic in management circles, where its negative reputation is palpable, and yet academics have not shared this interest. As a result, our understanding of MM is deficient, marred by disjointed definitions and paradoxical views. Our research aims to clarify the construct and measurement of MM through a series of five studies that (1) define the MM construct, (2) develop a psychometrically reliable and valid measure, and (3) validate a preliminary nomological network. Based on combined deductive and inductive approaches, we establish a comprehensive construct definition of MM. Subsequently, we develop and validate a nine-item Micromanagement Scale (MMS-9). Drawing on data from eight distinct samples encompassing 1,723 individuals employed across diverse industries, we found that (a) MM is a hierarchical construct comprising three related core attributes (i.e., controlling, close monitoring, detail focus) and three key features (i.e., excessive, sustained, unnecessary), (b) the MMS-9 exhibits nomological validity, as evidenced by its significant relationships with theorized antecedents (e.g., low trust and leader-member exchange) and consequences (e.g., high turnover intentions and emotional exhaustion), and (c) the MMS-9 demonstrates discriminant and incremental validity against relevant orbiting leadership constructs (i.e., authoritarian leadership, participative leadership, empowering leadership, initiating structure, directive leadership, and abusive supervision). We discuss the implications of the MMS-9’s availability for advancing the study of micromanagement, with particular focus on potential avenues for future research.</content>
-    <link href="https://doi.org/10.1177/01492063251378092"/>
-    <category term="Journal of Management"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251382856</id>
-    <title>It’s Different: Examining the Effect of HRM Investments on Employee Downsizing Following Mergers and Acquisitions</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Pingshu Li, Mengwei Li, Hyesook Chung, Clint Chadwick</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Although some scholars in strategic human resource management (SHRM) research have suggested that HRM investments can be effective in reducing the negative repercussions of employee downsizing, other scholars have argued that such HRM investments could convey contradictory messages to employees, resulting in more negative employee reactions and decreased firm performance. In this research, we addressed this unsettled question by looking into the mergers and acquisitions (M&amp;A) context, where we theorized that the acquiring firm’s HRM investments can positively moderate the negative effect of employee downsizing on firm performance by invoking positive sensemaking processes from remaining acquired firm employees. Moreover, the positive sensemaking effects of HRM investments extend beyond remaining acquired firm employees to influence the overall performance of the merged firm. We examined established HRM investments by acquiring firms prior to the M&amp;A and additional HRM investments made after the M&amp;A. Using a representative sample of 5,467 firm-year observations from 1,214 U.S. publicly traded firms between 2002 and 2018, we found that both pre- and post-acquisition HRM investments by acquiring firms mitigate the negative effect of employee downsizing following M&amp;A on firm performance. We discuss the implications of these findings for both research and practice.</content>
-    <link href="https://doi.org/10.1177/01492063251382856"/>
-    <category term="Journal of Management"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251383826</id>
-    <title>More Than Words: A Risk Regulation Model of Supervisor Gratitude Expression, Felt Appreciation, and Subordinate Voice</title>
-    <updated>2025-11-11T00:00:00+00:00</updated>
-    <author>
-      <name>Sharon B. Sheridan, Dejun Tony Kong, Liuba Y. Belkin, Maureen L. Ambrose, William J. Becker</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Feeling appreciated is integral to developing and sustaining high-quality relationships, yet many employees do not feel appreciated at work. Drawing on risk regulation theory for interdependent relationships, we developed a risk regulation model of supervisor gratitude expression, felt appreciation, and subordinate voice. We propose that when a supervisor’s agentic or communal gratitude expression aligns with a subordinate’s preference, the subordinate will experience greater felt appreciation and thus engage more in voice—a relationally risky behavior. First, we followed a five-step scale-development process using four distinct samples to create and validate measures of supervisors’ agentic and communal gratitude expression and subordinates’ corresponding preferences. We then tested our model in a multiwave, multisource field survey with 124 supervisor–subordinate dyads. We found that the congruence (incongruence) between supervisor gratitude expression and subordinate preference was positively (negatively) related to subordinate felt appreciation and subsequent voice, with distinct patterns emerging for supervisor agentic and communal expression. Further, in two supplementary experiments, we demonstrated that felt appreciation promotes voice via perceived regard and perceived reduction of relational risk. We discuss the theoretical and practical implications, highlighting the importance of distinguishing the two types of supervisor gratitude expressions and their responsiveness to subordinate preferences while outlining promising avenues for research on gratitude and felt appreciation at work.</content>
-    <link href="https://doi.org/10.1177/01492063251383826"/>
-    <category term="Journal of Management"/>
-    <published>2025-11-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70038</id>
     <title>Bottom‐up effects of female strategic leadership: Firm performance effects through employees</title>
@@ -1207,18 +1063,6 @@
     <published>2025-11-21T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2025.editorial.v36.n4</id>
-    <title>Inventing with Machines: Generative AI and the Evolving Landscape of IS Research</title>
-    <updated>2025-11-21T00:00:00+00:00</updated>
-    <author>
-      <name>Ram D. Gopal, Jingjing Li, Kai Riemer, Suprateek Sarker, Param Vir Singh, Anjana Susarla, Martin Bichler, Jason Bennett Thatcher</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Generative artificial intelligence (AI) is not merely changing how information systems (IS) research gets done—it is reshaping what research can be. We stand at a pivotal moment where machines can help generate hypotheses, synthesize vast literatures, and identify patterns that would take human researchers months to uncover. Yet, this unprecedented capability presents equally unprecedented risks to scholarly integrity. Because the field is uniquely positioned to understand sociotechnical transformations, IS research faces an extraordinary opportunity to pioneer “inventing with machines” while preserving the human insight and oversight that gives scholarship, as currently defined, its meaning. This transformation demands more than tool adoption. It requires a reimagination of scholarly infrastructure, norms, and practice. However, this transformation of research tooling creates a dangerous paradox: Powerful AI tools are now accessible to researchers who lack the technical literacy to understand and use them responsibly, threatening everything from citation accuracy to theoretical validity. Yet within this paradox lies the potential for revolutionary advances in how we craft our future as scholars. Informed by the sociotechnical perspective, we argue that the path forward requires coordinated community action that goes far beyond individual skill development. The IS community must lead the development of specialized AI tools that consider our theoretical traditions, create educational frameworks that preserve scholarly values while embracing computational capabilities, and pioneer review processes that harness AI’s analytical power without ceding human control, at least, in the short run. Success will determine not only the future of IS scholarship but our field’s capacity to guide other disciplines through this fundamental transformation of academic practice. The era of human-AI collaboration in research has already begun. How we govern and guide it will define the next generation of scholarly discovery.</content>
-    <link href="https://doi.org/10.1287/isre.2025.editorial.v36.n4"/>
-    <category term="Information Systems Research"/>
-    <published>2025-11-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2024.0970</id>
     <title>Artificial Intelligence, CEO Turnover, and Exploration Orientation in Firm Innovation</title>
     <updated>2025-11-21T00:00:00+00:00</updated>
@@ -1227,6 +1071,18 @@
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Leadership transitions often create uncertainty in corporate innovation. Our study shows that artificial intelligence (AI) plays a crucial role in helping firms navigate these transitions. Using data on patents, job postings, and CEO turnover across U.S. public firms, we find that organizations with stronger AI investment are more successful in pursuing explorative innovation after CEO turnover. AI enables this shift by helping leaders overcome two common barriers: managerial myopia, the tendency to rely on familiar past practices, and information overload, which can overwhelm new executives. Firms that leverage AI more effectively reallocate resources to research and development, elevate innovation as a strategic priority, and launch new initiatives. These effects are especially pronounced in manufacturing industries and when CEOs have science, technology, engineering, and mathematics backgrounds. For practice, our findings highlight AI as a strategic capability that helps firms sustain organizational creativity during leadership change. For policy, they suggest that promoting AI adoption could strengthen innovation dynamism and competitiveness in rapidly changing environments.</content>
     <link href="https://doi.org/10.1287/isre.2024.0970"/>
+    <category term="Information Systems Research"/>
+    <published>2025-11-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.editorial.v36.n4</id>
+    <title>Inventing with Machines: Generative AI and the Evolving Landscape of IS Research</title>
+    <updated>2025-11-21T00:00:00+00:00</updated>
+    <author>
+      <name>Ram D. Gopal, Jingjing Li, Kai Riemer, Suprateek Sarker, Param Vir Singh, Anjana Susarla, Martin Bichler, Jason Bennett Thatcher</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Generative artificial intelligence (AI) is not merely changing how information systems (IS) research gets done—it is reshaping what research can be. We stand at a pivotal moment where machines can help generate hypotheses, synthesize vast literatures, and identify patterns that would take human researchers months to uncover. Yet, this unprecedented capability presents equally unprecedented risks to scholarly integrity. Because the field is uniquely positioned to understand sociotechnical transformations, IS research faces an extraordinary opportunity to pioneer “inventing with machines” while preserving the human insight and oversight that gives scholarship, as currently defined, its meaning. This transformation demands more than tool adoption. It requires a reimagination of scholarly infrastructure, norms, and practice. However, this transformation of research tooling creates a dangerous paradox: Powerful AI tools are now accessible to researchers who lack the technical literacy to understand and use them responsibly, threatening everything from citation accuracy to theoretical validity. Yet within this paradox lies the potential for revolutionary advances in how we craft our future as scholars. Informed by the sociotechnical perspective, we argue that the path forward requires coordinated community action that goes far beyond individual skill development. The IS community must lead the development of specialized AI tools that consider our theoretical traditions, create educational frameworks that preserve scholarly values while embracing computational capabilities, and pioneer review processes that harness AI’s analytical power without ceding human control, at least, in the short run. Success will determine not only the future of IS scholarship but our field’s capacity to guide other disciplines through this fundamental transformation of academic practice. The era of human-AI collaboration in research has already begun. How we govern and guide it will define the next generation of scholarly discovery.</content>
+    <link href="https://doi.org/10.1287/isre.2025.editorial.v36.n4"/>
     <category term="Information Systems Research"/>
     <published>2025-11-21T00:00:00+00:00</published>
   </entry>
@@ -1715,26 +1571,38 @@
   <entry>
     <id>https://doi.org/10.1002/sej.70010</id>
     <title>Innovating for impact: Harnessing business model innovation to tackle grand challenges</title>
-    <updated>2025-12-01T14:39:34+00:00</updated>
+    <updated>2025-12-02T14:39:18+00:00</updated>
     <author>
       <name>Nancy M. P. Bocken, Sven Heidenreich, Patrick Spieth, Christopher Tucci, Christoph Zott</name>
     </author>
     <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;This Special Section of theStrategic Entrepreneurship Journalexplores how business model innovation (BMI) can address grand challenges (GCs), includingartificial intelligence (AI),business and global unrest, andclimate change through a proposed “ABC” classification and “BMI‐GC” concept. Highlighting BMI's role as a boundary‐spanning, collaborative approach to innovation, we demonstrate its potential to drive sustainable solutions by rethinking value creation, delivery, and capture mechanisms. We examine how BMI may foster resilience and help firms and organizations adapt to global volatility, integrate ethical AI, and advance sustainability in business ecosystems. We offer a roadmap for future inquiry into BMI‐GC, including measurement and assessment, digital transformation, and collaborative ecosystems. By embracing these research pathways, scholars can contribute to a deeper theoretical and practical understanding of BMI to address grand challenges.Managerial SummaryWe investigate how business model innovation (BMI) can help tackle pressing global challenges (GCs), includingartificial intelligence (AI),business and global unrest, andclimate change, captured in a proposed “ABC” classification and “BMI‐GC” concept. We illustrate how BMI can help firms and organizations create sustainable, resilient, and future‐proof solutions. Practical strategies include integrating ethical AI, embedding flexibility in business models to withstand volatility, and adopting sustainable practices that align with regulatory and market demands supported by BMI. The paper identifies key opportunities for businesses to rethink how they create and deliver value, and foster collaboration across ecosystems. Through the ABC classification and BMI‐GC concept, we show how BMI can help enhance competitive advantage while responding proactively to the complexities of a rapidly changing world.</content>
     <link href="https://doi.org/10.1002/sej.70010"/>
     <category term="Strategic Entrepreneurship Journal"/>
-    <published>2025-12-01T14:39:34+00:00</published>
+    <published>2025-12-02T14:39:18+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70009</id>
     <title>Developing opportunities in times of crisis: The interactive effects of corporate entrepreneurs' emotional reactions and psychological climates</title>
-    <updated>2025-12-01T14:39:34+00:00</updated>
+    <updated>2025-12-02T14:39:18+00:00</updated>
     <author>
       <name>Yingzhu Fu, Marilyn A. Uy, Waifong Boh</name>
     </author>
     <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;This research investigates how corporate entrepreneurs' emotional reactions to the business impact of a crisis interact with psychological climates to drive engagement in opportunity formation. Drawing on affective events theory and psychological climate theory, we posit that positive emotional reactions increase engagement in opportunity formation when the psychological climate for initiative is strong, and negative emotional reactions increase engagement when the psychological climate for psychological safety is strong. Conversely, these relationships become negative when these climates are weak. An analysis of data from an eight‐wave longitudinal investigation involving 126 corporate entrepreneurs supports our predictions. By uncovering how corporate entrepreneurs' emotional reactions interact with climates for initiative and psychological safety, we illuminate the affective foundations of opportunity formation and show how organizations can foster climates that channel emotions into entrepreneurial action.Managerial SummaryThis study examines how corporate entrepreneurs' emotional reactions to crises interact with psychological climates to shape entrepreneurial actions. Our findings demonstrate that organizations should cultivate climates characterized by high personal initiative and psychological safety among middle managers. Managers' perceptions of such climates effectively harness both positive and negative emotional reactions for productive entrepreneurial actions, thereby facilitating corporate entrepreneurship. These insights are particularly marked for firms in disrupted industries, where conventional business approaches become obsolete in a crisis. Absent such organizational climates, managers' emotional reactions can discourage them from taking initiative on new opportunities, making it more difficult for the organization to transform and adapt.</content>
     <link href="https://doi.org/10.1002/sej.70009"/>
     <category term="Strategic Entrepreneurship Journal"/>
-    <published>2025-12-01T14:39:34+00:00</published>
+    <published>2025-12-02T14:39:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.70012</id>
+    <title>From beliefs to behavior: Clarifying the roles of attitudes and context</title>
+    <updated>2025-12-02T14:39:18+00:00</updated>
+    <author>
+      <name>Hogeun Lee, Dolores Albarracín</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Two commentaries by Tormala and Rucker and by Critcher and Galak offer complementary perspectives on our target article,Changing BeliefsversusChanging Behavior. Tormala and Rucker emphasize attitudes as proximal determinants of behavior, underscoring the importance of attitude strength and measurement compatibility. Critcher and Galak propose a contextual continuum of decision making that situates belief influence within unprompted, opportunity‐based, and prompted behavioral contexts, illustrating how contextual factors shape the recruitment of beliefs for specific actions. In this response, we clarify the relations among beliefs, attitudes, and context; address the misconception that our model overemphasizes inferential reasoning; and extend the framework to integrate evaluative and contextual determinants of behavior. This synthesis offers a comprehensive account in which attitudes function as inferential products of belief processing, while contexts determine when and how these processes are activated.</content>
+    <link href="https://doi.org/10.1002/jcpy.70012"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2025-12-02T14:39:18+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdaf101</id>
@@ -1746,6 +1614,210 @@
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We define the (physical) opportunity cost of a choice x as the alternative that would be chosen if x were not available, and the opportunity cost of any unchosen alternative as x itself. The agent has preferences over pairs consisting of alternatives and their opportunity costs. Because costs affect choice and vice-versa, choice results from an intrapersonal equilibrium rather than from simple maximisation. In spite of significant rationality assumptions, the resulting behaviour can be highly non-standard, allowing intransitive choices. Rational utility maximisation is ensured by an additional new consistency condition on preferences. However, we argue that the maximised utility cannot be straightforwardly interpreted as a welfare relevant “revealed preference”. A generalisation of our model accommodates additional departures from standard rationality in the form of menu effects.</content>
     <link href="https://doi.org/10.1093/restud/rdaf101"/>
     <category term="Review of Economic Studies"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18531</id>
+    <title>The Fog of Warnings: How Non-Security-Related Notifications Diminish the Efficacy of Security Warnings</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Anthony Vance, Dave Eargle, C. Brock Kirwan, Bonnie Brinton Anderson, Jeffrey L. Jenkins</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Users’ disregard of security warnings is a critical problem in cybersecurity. This problem worsens when people confuse security warnings with common, non-security-related notifications, which they learn to routinely disregard. We investigate this problem through the neurobiological phenomenon of generalization of habituation, where habituation to one stimulus transfers to another stimulus that shares similar characteristics. Generalization of habituation suggests that because of habituation to frequent notifications, people may also be deeply habituated to security warnings they have never seen before, leading to warning disregard. Furthermore, because generalization of habituation occurs unconsciously at the neurobiological level, this may occur even though a person can consciously distinguish security warnings from notifications. We address this problem through three experiments—two in the field and one using functional magnetic resonance imaging. These experiments demonstrate how generalization of habituation occurs and can be mitigated by differentiating warnings from notifications in terms of their visual appearance or mode of interaction. These findings provide guidance to software developers for designing warnings that resist generalization of habituation and promote greater warning adherence.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18531"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18060</id>
+    <title>How App Developers’ Boundary-Shifting Moves Reshape Competitive Dynamics</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hengqi Tian, Arun Rai</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;As digital platforms evolve, app developers do more than passively participate; they actively reshape the competitive landscape through boundary-shifting moves (BSMs). By modularizing boundary resources at different levels of the technology stack, developers can provoke, delay, or neutralize competitive responses in hypercompetitive app markets. Drawing on an empirical analysis of mobile apps launched by leading Chinese internet firms, we uncover a striking asymmetry in how rival developers react to these moves. Specifically, higher-level app modules—those tailored to particular application domains—tend to delay rival responses, while lower-level technical modules—broadly applicable across domains—trigger faster competitive reactions. This effect is heightened among firms with a history of direct competition, as they respond more aggressively to changes at the lower levels of modularization. By foregrounding the strategic role of technology stack levels in shaping competitive interactions, our study advances a differential resourcing perspective and offers new insights into the dynamics of competition within digital platforms. These findings challenge the dominant host platform-centric and cooperative views on boundary resources, illuminating how app developers actively reshape platform ecosystems to gain temporary advantage.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18060"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/17909</id>
+    <title>Does Bot Gender Matter? Theory and Evidence From a High-Tension Service Context</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yiting Guo, De Liu, Sean Xin Xu, Ximing Yin</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Despite the increasing use of AI-powered voicebots, our understanding of how the choice of bot gender may impact service outcomes in high-tension service contexts, such as debt collection, remains limited. To address this gap, we drew on the tensions-based view of customer relationships and gender stereotype theory to hypothesize how and when voicebot gender matters in high-tension service contexts. We tested our hypotheses using a proprietary dataset of debt collection calls made by AI voicebots. We found that female voicebots increase the odds of a positive repayment intention by 28.3%. This gender effect is more pronounced when service encounters begin with higher tension, such as during weekdays or with initially uncooperative customers. We further show that the gender effect can be explained by the advantages of female voicebots in reducing behavioral and emotional tension during service interactions.</content>
+    <link href="https://doi.org/10.25300/misq/2025/17909"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18314</id>
+    <title>Algorithmic Social Injustices: Antecedents and Mitigations</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hüseyin Tanriverdi, John-Patrick Olatunji Akinyemi</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;A key assumption in data science is that the fairness of an algorithm depends on its accuracy. Antecedents that create accuracy problems are expected to reduce fairness and cause algorithmic social injustices. We theorize why complexities in ground truths, IT ecosystems, and statistical models of algorithms can also generate algorithmic social injustices, above and beyond the indirect effects of antecedents, through the mediation of accuracy problems. We also theorize technology design and organizational mitigation mechanisms for taming such complexities and reducing algorithmic social injustices. We tested the proposed theory in a sample of 363 matched pairs of problematic and problem-free algorithms. We found that complexities in ground truths affected algorithmic social injustices directly rather than through the mediation of accuracy problems. Failures in complex IT ecosystems of algorithms did not affect the likelihood of algorithmic social injustices, but they caused damage directly and indirectly through the mediation of accuracy problems. Failures in complex statistical models significantly increased algorithmic social injustices both directly and indirectly through the mediation of accuracy problems. The results indicate that agentic algorithms produce social injustices not only through accuracy problems but also through complexities in their ground truths, IT ecosystems, and statistical models. The proposed complexity taming mechanisms are effective in reducing algorithmic social injustice risks through (1) the user organization’s quality in managing the algorithm’s stakeholders, (2) designing algorithms with a large scope of human-like interaction capabilities, (3) the developer organization’s algorithmic risk mitigations, and (4) the user organization’s algorithmic risk mitigations.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18314"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18555</id>
+    <title>Judgmental Bot: Conversational Agents in Online Mental Health Screening</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ryan Raimi, Antino Kim, Sezgin Ayabakan, Alan R. Dennis</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Only a fraction of people with mental health issues seek medical care, in part because of fear of judgment, so deploying text-based conversational agents (i.e., chatbots) for mental health screening is often viewed as a way to lower barriers to mental health care. We conducted four experiments and a qualitative study and, contrary to common assumptions, consistently found that participants perceived a text-based chatbot as more judgmental than a human mental health care professional, even though the interactions were identical. This greater judgmentalness reduced the willingness to use the service, disclose information, and follow the agent’s recommendations. Participants described judgmentalness as a rush to judgment without fully grasping the issues. The chatbot was perceived as more judgmental because it was less capable of deeply understanding the issues (e.g., emotionally and socially) and conveying a sense of being heard and validated. It has long been assumed that chatbots can address the real or imagined fear of being judged by others for stigmatized conditions like mental health. Our study shows that perceptions of judgmentalness are actually the opposite of what has been assumed and that these perceptions significantly influence patients’ acceptance of chatbots for mental health screening.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18555"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18178</id>
+    <title>Different but the Same? An Event-Driven Approach to Determine Probabilities of Data Duplication</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bernd Heinrich, Mathias Klier, Andreas Obermeier, Alexander Schiller</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;The importance of data quality assessment, in general, and duplicate detection, in particular, has been recognized in both research and practice. Duplicates are known to cause critical problems in many domains, including customer relationship management, data management and data warehousing, fraud detection, production, and healthcare. Such duplicates are caused by events that are typically associated with data patterns in the records. For example, duplicates in customer databases caused by the event “relocation of a customer” characteristically exhibit dissimilar values for address-related features, while the values of the other features (e.g., name-related features) tend to be highly similar. Analyzing duplicate-related events and recognizing such patterns seems particularly promising for duplicate detection. However, existing approaches do not take advantage of this and neither consider events nor recognize their associated data patterns when detecting potential duplicates. In this paper, we introduce events as causes of duplicates and, on this basis, propose a novel probability-based approach for duplicate detection. Our approach assigns the probability of being a duplicate to each analyzed pair of data while avoiding limiting methodical assumptions of existing approaches. The evaluation on seven different datasets shows that our approach is able to outperform existing approaches and that the models learned can be transferred between datasets of the same domain without further labeling or repeated model learning.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18178"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/17948</id>
+    <title>Performance of Algorithmic Models and Sensitivity to Crowd Characteristics: Evidence from Cross-Platform Posting</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Qianzhou Du, Xiaohui Zhang, Zhongju Zhang</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;We examine the effects of crowd characteristics on crowd value, which is measured by the improvement in the power to predict stock volatility using crowd-generated content. Leveraging a natural platform-wide event that changes the crowd compositions of S&amp;P 500 stock discussions, we found empirical evidence that content from a larger crowd size is associated with a higher crowd value. Moreover, the magnitude of the effect of crowd size on crowd value decreases with increased diversity of the crowd’s background and the independence of the crowd’s opinions. Additionally, we found that crowd values derived using various machine learning algorithms exhibit different sensitivities to these crowd characteristics. Algorithms that can handle interrelated observations (i.e., non-independent) and potential nonlinear relationships among crowd-generated content are more robust in performance than algorithms that cannot. We discuss the mechanisms that drive these findings and highlight the implications of crowd diversity and crowd independence on model performances when analyzing crowd-generated content.</content>
+    <link href="https://doi.org/10.25300/misq/2025/17948"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18058</id>
+    <title>Guardrails for Human-AI Ecologies: Norm-Based Coordination and Design for Predictability</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas Grisold, Nicholas Berente, Stefan Seidel</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Human-AI ecologies involve human and AI-based agents that coordinate their interactions in part by following social norms. Social norms, therefore, are important for establishing the guardrails that ensure desirable interactions in a way that is consistent with essential values, such as human safety. Managing human-AI ecologies requires specifying norms to enable coordination in known situations but also allowing for the emergence of norms to enable coordination in unspecified, unstructured situations. We integrate predictive processing theory and social norm theory to explain how existing norms are enacted and reinforced based on agents’ predictive models and how new norms emerge as agents update their predictive models in response to prediction errors in uncertain coordination scenarios. Rooted in this perspective, we develop a design theory that emphasizes design for predictability and propose a set of design principles for managers and developers to encode norms to evolve in human-AI ecologies, monitor outcomes, and intervene when necessary.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18058"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18501</id>
+    <title>Deductive Certainty? Exploring the Boundaries of Trust Formation in Smart Contracts on Blockchains</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel Obermeier, Joachim Henkel</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;We offer a new perspective on trust formation in smart contracts on blockchain that is based on deduction rather than induction. This shift in perspective allows us to explore the boundaries of trust in IT systems, analyze the conditions under which trust becomes dispensable, and unpack the sociotechnical complexity of supposedly “trust-free” systems. Through this approach, we introduce three key concepts: deductive certainty, a state in which an individual has full knowledge of the other party’s future behavior based on deduction; the possibility of deductive certainty that an IT system may provide; and deduction-related trust, a new type of trust rooted in the possibility of deductive certainty. We use these concepts to analyze smart contracts on a blockchain as a technology that offers the potential for deductive certainty by enabling complete deduction. Our analysis reveals the conditions under which smart contract-based applications, also known as dApps, can become “trust-free” and why, in practice, they often are not. Based on a sample of 536 dApps and a user survey, we provide evidence supporting our theoretical claims. Our findings suggest that the possibility of deductive certainty plays a significant role in forming initial trust in dApps. However, we also find that new users rely on both deduction-related trust and classical inductive trust, with the two sources of trust reinforcing each other.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18501"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17339</id>
+    <title>RADAR: A Framework for Developing Adversarially Robust Cyber Defense AI Agents with Deep Reinforcement Learning</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Reza Ebrahimi, Yidong Chai, Weifeng Li, Jason Pacheco, Hsinchun Chen</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Artificial intelligence (AI) is being widely adopted in modern cyber defense to weave automation and scalability into the operational fabric of cybersecurity firms. Today, AI aids in crucial cyber defense tasks such as malware and intrusion detection to keep information technology (IT) infrastructure secure. Despite their value, cyber defense AI agents can be vulnerable to adversarial attacks. In these attacks, the adversary deliberately manipulates a malicious input by taking a sequence of actions so that a targeted cyber defense AI agent fails to correctly determine its maliciousness. Consequently, the robustness of cyber defense AI agents has raised deep concerns in modern cyber defense. Drawing on the computational design science paradigm, we couple robust optimization and reinforcement learning theories to develop a novel framework, called reinforcement learning-based adversarial attack robustness (RADAR), to increase the robustness of cyber defense AI agents against adversarial attacks. To demonstrate practical utility, we instantiate RADAR for malware attacks—the primary cause of financial loss in cyber attacks. We rigorously evaluate the performance of RADAR as a situated IT artifact against state-of-the-art machine learning and deep learning-based benchmark methods. Incorporating RADAR in three renowned malware detectors shows an adversarial robustness increase of up to seven times, on average. We conclude by discussing contributions to information system research as well as implications for cyber defense stakeholders.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17339"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18627</id>
+    <title>Real-Time Sales Data, Streamer Improvisation, and Sales Performance: Evidence From Live Stream Selling</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yumei He, Ni Huang, Lingli Wang, Yan Sun</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Live stream selling has surged as an innovative form of e-commerce, supporting high social interactivity and fast-paced sales for large-scale audiences. However, live streamers must manage complex, concurrent tasks— such as presenting products, engaging with viewers, and employing various sales tactics to facilitate consumer purchases, while dealing with uncertainty in foreseeing viewers’ reactions and time pressure for selling products. This study examines the role of real-time sales data in influencing streamers’ impromptu decision-making and sales outcomes in live stream selling. On the one hand, real-time sales data might exacerbate the already complex decision-making, overwhelming and distracting streamers. On the other hand, it may help streamers improvise their tactics and utilize time more efficiently and effectively to improve sales performance. In partnership with a leading global live stream selling platform, we analyzed data from a randomized field experiment to unravel whether, how, and under which conditions the provision of real-time sales data affects live stream sales performance. The streamers in the experiment were randomly assigned to either the treatment group, which had access to real-time sales data for presale products, or the control group, which had no such access. Our results reveal that product sales of presale products in the treatment group increased by approximately 40.21% compared to those in the control group. Further, the observed main effect can be explained by streamers’ data-driven improvisation in promotional, linguistic, and presentational pace tactics. Moreover, heterogeneity analyses reveal that the positive effect of real-time data on sales performance is more salient for streamers with likely better improvisational skills and for products with higher uncertainty, thereby providing suggestive evidence of streamer improvisation as the underlying mechanism. This study contributes to the literature on data-driven decision-making, evidencing the importance of real-time data for enhancing decision-making processes and outcomes. Our findings also offer guidance for implementing real-time data infrastructure in live stream selling platforms.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18627"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2025/18416</id>
+    <title>Mitigating Bias in Hate Speech Detection With a Small Number of Expert Annotations: A Prompt-Based Learning Approach</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Dongjun Wei, Michael Chau, Zhepeng (Lionel) Li</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Hate speech is a major problem on social media platforms. Automatic hate speech detection methods relying on machine learning models, which learn from manually labeled datasets, have been proposed in both academia and industry. However, there is increasing evidence that hate speech detection datasets labeled by general annotators (e.g., amateurs or MTurk workers) contain systematic bias, as they cannot effectively consider language use differences among different speakers. When such biased datasets are used to train machine learning models, the resulting models will also be biased. Unlike general annotators, experts can produce much less biased annotations. However, expert annotations cannot be efficiently obtained in large quantities. This paper bridges the gap by adopting a weakly supervised learning method for hate speech detection using a small number of expert annotations. We propose a novel design that uses contrastive learning and prompt-based learning based on large language models, incorporating a group estimator, a pair generator, and knowledge injection. Using real-world Twitter posts written by African American English speakers and other racial groups as an example, extensive experiments were conducted to demonstrate the superior performance of the proposed method. The proposed approach was also evaluated on data in the LGBTQ+ community and achieved consistent results. The study has important academic and practical implications for hate speech detection and large language models.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18416"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/18064</id>
+    <title>Validity in Design Science</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kai R. Larsen, Roman Lukyanenko, Roland M. Mueller, Veda C. Storey, Jeffrey Parsons, Debra VanderMeer, Dirk S. Hovorka</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Researchers must ensure that the claims about the knowledge produced by their work are valid. However, validity is neither well-understood nor consistently established in design science, which involves the development and evaluation of artifacts (models, methods, instantiations, and theories) to solve problems. As a result, it is challenging to demonstrate and communicate the validity of knowledge claims about artifacts. This paper defines validity in design science and derives a “design science validity framework” and a process model for applying it. The framework comprises three high-level claim and validity types— criterion, causal, and context—as well as validity subtypes. The framework guides researchers in integrating validity considerations into projects employing design science and contributes to the growing body of research on design science methodology. It also provides a systematic way to articulate and validate the knowledge claims of design science projects. We apply the framework to examples from existing research and then use it to demonstrate the validity of knowledge claims about the framework itself.</content>
+    <link href="https://doi.org/10.25300/misq/2024/18064"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.25300/misq/2024/17880</id>
+    <title>Behind Privacy Labels: Data Tracking and Advertising Competition on App Platforms</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yi Gao, Meilin Gu, Dengpan Liu</name>
+    </author>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Recently, a controversial new privacy policy on mobile app platforms, which requires app developers to display privacy labels and explicitly request data-tracking permissions from users, has sparked a heated discussion among practitioners in digital advertising. In this paper, we build a game-theoretic model to examine how this new policy impacts the key stakeholders of a mobile app platform (i.e., app developers, the platform, and consumers). The model captures how the new policy prompts developers to expand their strategies beyond pricing by introducing data-tracking levels as an additional competitive dimension, which in turn affects the intensity of price competition. We find that while implementing a policy restricting developers’ tracking of consumers may increase the platform’s advertising revenue, it can also put the platform at a disadvantage. This is because it may incentivize developers to lower their prices and engage in more intense price competition, consequently reducing the platform’s commission revenue. Regarding app developers, the new policy may prove beneficial despite its restriction to tracking only consumers who have opted in. Another noteworthy finding is that while platforms have asserted that the new policy is aimed at safeguarding consumers’ privacy, it does not always serve consumers’ best interests. Our paper provides meaningful implications for all key stakeholders of mobile app platforms regarding the implementation of the new privacy policy.</content>
+    <link href="https://doi.org/10.25300/misq/2024/17880"/>
+    <category term="MIS Quarterly"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.03569</id>
+    <title>Does Corporate Tax Planning Affect Firm Productivity?</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Spyridon Gkikopoulos, Edward Lee, Konstantinos Stathopoulos</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the relation between corporate tax planning and firm-level productivity. Using a sample of U.S. public firms from 1993 to 2017, we find that tax planning is positively associated with productivity. Our findings further indicate that tax planning contributes to growth in production input factors: capital and labor. We also test the underlying mechanisms, documenting that the observed association between productivity and tax planning is more pronounced in financially constrained and knowledge capital–intensive firms. We exploit the initiation of new banking relationships and the introduction of Check-the-Box regulations as sources of tax planning variation to facilitate difference-in-differences analyses. The empirical evidence holds consistently across a wide array of robustness tests. Taken together, the results enhance the understanding on the economic implications of tax planning and provide insights for informed tax policy debates.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03569 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.03569"/>
+    <category term="Management Science"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.03031</id>
+    <title>Nonprogressive Diffusion on Social Networks: Approximation and Applications</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yunduan Lin, Heng Zhang, Renyu Zhang, Zuo-Jun Max Shen</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Nonprogressive diffusion models the spread of behavior on social networks, where agents are allowed to reverse their decisions as time evolves. To provide an efficient framework for evaluating and optimizing nonprogressive diffusion, we introduce a comprehensive model along with a fixed-point approximation (FPA) scheme, which admits both theoretical guarantee and computational efficiency. We show that the approximation error depends on the network structure and derive order-optimal bounds for this error based on a newly proposed network measure. Additionally, we propose two easy-to-calculate network metrics (one at the node level and the other at the network level) that serve as reliable indicators of FPA performance. Our results indicate that the FPA scheme is particularly accurate for dense and large networks, which are typically challenging to analyze via simulation. To showcase the broad applicability of our approach, we apply the FPA scheme to well-known problems, like influence maximization and optimal pricing on social networks. Finally, we conduct extensive numerical experiments on both synthetic and real-world networks. On real-world networks, the FPA scheme achieves computational speedups of 70–230 times compared with naïve agent-based simulation and 23–30 times compared with a more advanced simulation method while maintaining a mean absolute percentage error of less than 3.48%.This paper was accepted by Jeannette Song, operations management.Funding: R. Zhang is grateful for financial support from the National Natural Science Foundation of China [Grant 72422004] and the Hong Kong Research Grants Council General Research Fund [Grants 14502722, 14504123, and 14503224].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03031 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.03031"/>
+    <category term="Management Science"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucaf066</id>
+    <title>Promotion Architecture: A Deal Fairness Model of Restricted Price Promotions</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Shangwen Yi, David J Hardisty, Dale W Griffin, Thomas Allard</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;This research examines the effectiveness of two common types of restricted price promotions: threshold promotions (conditional on spending more than a threshold amount; e.g., “Get $5 off on orders of $10 or more”) and capped promotions (limited to a maximum dollar value; e.g., “Get 50% off, up to $5 per order”). Results from seven pre-registered studies, including one field study, show that threshold promotions lead to higher purchase intentions and conversion rates (but potentially lower purchase amounts) than comparable capped promotions—even though capped promotions are equivalent in maximal economic savings for the consumer—when the trigger value (the spending amount at which the promotion activates or caps) is low. This effect occurs because consumers have higher expected promotion levels for capped promotions and lower expected spending levels for threshold promotions, leading them to perceive the threshold promotion as a fairer deal. However, this effect reverses when the trigger value is high, where consumers perceive capped promotions as a fairer deal and prefer them to threshold promotions. The implications of our results for the optimal management of price promotion architectures were discussed.</content>
+    <link href="https://doi.org/10.1093/jcr/ucaf066"/>
+    <category term="Journal of Consumer Research"/>
     <published>2025-12-01T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1891,5 +1963,113 @@
     <link href="https://doi.org/10.1257/aer.20220665"/>
     <category term="American Economic Review"/>
     <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70040</id>
+    <title>Navigating uncertainty in a nascent ecosystem: How shifting cognitive frames influence an incumbent firm's platform scope strategies</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Fathiro H. R. Putra, Saeed Khanagha, Krsto Pandza, Fernando F. Suarez</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;We examine how an incumbent firm navigates internal and external uncertainties when entering a nascent platform ecosystem. Drawing on a longitudinal study of a large telecommunication firm's transition into an evolving IoT ecosystem, we advance a cognitive perspective on platform strategy. We explain how managers' cognitive frames shape platform scope decisions based on shifting assumptions and interpretations of ecosystem dynamics and internal capabilities. Our process model shows how deviations between expected and actual developments trigger changes in managers' attitudes toward uncertainty, thereby shifting their cognitive frames and prompting them to modify platform scope strategies, leading to oscillation between shaping and adapting strategic postures. Our theorization sheds light on the cognitive foundations of platform strategy and the dynamics of incumbent platform transitions in a nascent ecosystem.Managerial SummaryIncumbents often enter nascent digital ecosystems by introducing a platform, yet uncertainty complicates decisions about the appropriate platform scope. Our nine‐year study of TELECO’s IoT platform reveals three takeaways. First, scope is not a one‐off decision; it evolves as managers revisit assumptions about opportunities and constraints. Second, scope decision rarely move linearly; firms oscillate between broad and calibrated scopes, creating episodes of overreach and retrenchment. Third, interpretations of uncertainty steer these shifts: reading uncertainty as an opportunity supports shaping bets, whereas interpreting it as a constraint encourages adaptation and selective coopetition. Overall, platform decisions in uncertain ecosystems reflect organizational tensions as firms balance ambitions for dominance against market realities and the actions of ecosystem members.</content>
+    <link href="https://doi.org/10.1002/smj.70040"/>
+    <category term="Strategic Management Journal"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251405963</id>
+    <title>EXPRESS: Pricing Strategies for Processing Intermediaries in Agri-chains with Side Markets: Paradox of Ex-Post Pricing Flexibility</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Panos Kouvelis, Jian Li, Guang Xiao</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We study an agricultural supply chain in an emerging economy, where farmers make land allocation decisions among alternative crops and have the option to sell their harvest either in a side market or directly to a processing plant, and where a government-mandated minimum price guarantee (MPG) is in place. Our study examines a range of pricing strategies that the processing plant can employ to favor a protected crop and the utilization of the processing plant. We begin by considering the Benchmark strategy, in which the plant strictly adheres to the MPG. Subsequently, we investigate two distinct pricing strategies: the Ex-ante strategy, in which the plant commits to an optimal predetermined final price at the start of the growing season; and the Responsive strategy, in which the optimal final price is determined at the end of the season after yield and side-market uncertainties have been resolved. Additionally, we propose the Hybrid strategy, which integrates both ex-ante pricing as a preseason commitment and ex-post price adjustments in response to realized uncertainties. We develop two-stage stochastic program models to analyze the farmer allocation and plant pricing decisions. Among other results, our study suggests that the ex-post pricing flexibility inherent in the Responsive approach may leave the plant worse off, even though price adjustments are plant-profit optimizing. We refer to this phenomenon as the ex-post pricing flexibility paradox. Due to this phenomenon, the Hybrid strategy, while consistently outperforming the Responsive approach, does not always dominate the Ex-ante approach. We propose execution variants of the Hybrid strategy that can guarantee outperformance on the Ex-ante benchmark. In long-term repeated interactions between the plant and farmers, the Hybrid strategy with historically credible probabilistic afterharvest price adjustments, proves effective. For short-term practices, defining a contingency region of relevant outcomes (e.g., yield realizations, side-market attractiveness, and processing margins) that triggers after-harvest price adjustments enables the Hybrid strategy to outperform. These findings urge caution when the plant considers adjusting after-harvest prices, and highlight the importance of building long-term and stable relationships in agri-chains for effective execution of pricing strategies that align incentives and optimize profits for all involved parties.</content>
+    <link href="https://doi.org/10.1177/10591478251405963"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251405962</id>
+    <title>EXPRESS: Expanding Naloxone Accessibility: A Lifesaver or a Risky Setback?</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Junyang Cai, Noa Zychlinski</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The widespread prevalence of opioids has prompted governments to implement targeted interventions aimed at reducing overdose mortality, with naloxone accessibility emerging as one of the most prominent policies. Naloxone, a potent opioid antagonist, is highly effective in reversing overdoses, yet its expanded availability introduces complex trade-offs, particularly in the presence of moral hazard.We develop a dynamic compartmental model that captures transitions between susceptible individuals and those with opioid use disorder (OUD), allowing us to evaluate the impact of naloxone accessibility on overdose mortality and to derive the optimal accessibility policy. We show that full naloxone accessibility is optimal in the absence of moral hazard or when its effect is small. However, when moral hazard is significant—where greater access to naloxone encourages riskier opioid use—expanded accessibility can paradoxically increase overdose deaths.Extending the model to incorporate peer-driven contagion in opioid misuse, we find that the structure of the optimal policy remains robust, preserving the bang-bang nature and the reversal induced by moral hazard. Two additional insights emerge under this interaction-based model. First, in epidemics primarily driven by prescription-induced opioid use, full accessibility remains optimal. In contrast, when opioid use spreads socially—especially as the effectiveness of naloxone declines due to potent synthetic opioids like carfentanil—limited accessibility may become preferable. Second, the relationship between naloxone accessibility and overdose mortality may become non-monotonic, exhibiting an inverted U-shape in which moderate increases in accessibility can initially worsen outcomes.A calibrated case study based on U.S. data suggests that under current epidemic conditions, full accessibility remains optimal—a finding that aligns with existing regulatory policies. However, our results highlight that shifts in epidemic dynamics, such as increased opioid potency, may fundamentally alter this conclusion. These findings underscore the need for continuous reevaluation of naloxone distribution policies as the opioid crisis evolves.</content>
+    <link href="https://doi.org/10.1177/10591478251405962"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251406726</id>
+    <title>EXPRESS: The Business of Sports: an Operations Perspective</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Xianjun Geng, Nicholas G. Hall, Rakesh R. Mallipeddi, Yinliang (Ricky) Tan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;While sports are enjoyed by several billion fans globally, the business of sports has evolved into a multi-billion dollar industry. Multi-disciplinary research on developing competitive strategies for drafting players and making on-field decisions is growing rapidly. However, there remains a notable gap in operations management research focusing on thebusiness aspectsof the sports industry. This paper addresses this gap in the literature to encourage future research in this domain. We highlight new opportunities for operations management researchers, emphasizing five research themes that are of importance to the sports industry: (1) revenue management, (2) new technologies in sports business, (3) betting, (4) rule and competition changes, and (5) service operations. We identify important and relevant open-ended research questions and discuss related trade-offs to address the research questions. This paper provides a basis for future operations management research to address the unique challenges faced by sports organizations.</content>
+    <link href="https://doi.org/10.1177/10591478251406726"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251406952</id>
+    <title>EXPRESS: The Impact of Breakthrough Therapy Designation on Drug Safety</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Hanu Tyagi, Rachna Shah</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The long drug approval process in the US imposes significant development costs on firms and delays access for patients, especially when a therapy that addresses a condition with no existing treatments shows early promise. To shorten approval timelines, the FDA has instituted expedited pathways that are designed to bring the most promising therapies to patients more quickly. In this paper, we study the safety implications of the newest of the four expedited pathways: the Breakthrough Therapy Designation (BTD) program. We also examine the effectiveness of Risk Evaluation and Mitigation Strategies (REMS) and the Boxed Warnings (BW) – two pharmacovigilance tools that the FDA uses to mitigate the safety risks. To conduct our study, we compile a unique dataset of 327 drugs approved by the FDA between 2012 and 2019. We measure drug safety as the number of serious adverse events associated with a drug in a year. Results from the instrumental variable analysis show that BTD drugs incur 1,722 additional serious adverse events in a year (equivalent to 2.7 times the average annual serious adverse events) compared to non-BTD drugs. We find that REMS substantially reduces this safety gap, but BW does not. Specifically, BTD drugs with REMS record 875 fewer serious adverse events per year than BTD drugs without REMS. By revealing the BTD program’s detrimental effects on drug safety and showing which pharmacovigilance tools effectively mitigate these hazards, we contribute to quality and new product development literatures, and provide actionable guidance to policymakers. We propose that the FDA should consider requiring REMS for all drugs approved with BTD status.</content>
+    <link href="https://doi.org/10.1177/10591478251406952"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251405713</id>
+    <title>EXPRESS: Platform Transformation Risk and the Role of Hosting Rivals</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Shiva Shekhar, Sarvesh Bandhu, Marshall Van Alstyne</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Under what conditions should traditional firms transform into digital platforms? While adding developers can enhance value through externalizing value creation, it also entails investment risk. We show that when transformation entails high risk and the value of network effects is low, firms should avoid transforming into a platform and retain their traditional form. By contrast, low transformation risk or high value of network effects make digital transformation profitable. Interestingly, when firms choose to transform, we show that inviting rivals onto the platform can raise profits. Indeed, the platform can even pay rivals to join its platform in certain cases. We find that the benefit of enhancing network effects through demand aggregation can be more profitable than competing as separate platforms. Further, inviting rivals onto a proprietary platform lowers the rival’s competitive aggressiveness. This is a novel strategic rationale for inviting rivals onto the platform elicited in this paper. Yet, when the value of network effects is very high and investments are nearly certain, the platform chooses to foreclose rivals’ participation. We offer guidelines for managers seeking to transform and for regulators seeking to intervene to boost market efficiency. We use real-world examples to illustrate our theory.</content>
+    <link href="https://doi.org/10.1177/10591478251405713"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478251405119</id>
+    <title>EXPRESS: All that Glitters is Not Code? Understanding the Predictors of Developer Popularity and Sponsorship on a Social Coding Platform</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Praharshita Krishna, Adrija Majumdar, Indranil Bose</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;A developer's popularity plays a crucial role in their success within open source software (OSS) communities and their access to sponsorship opportunities. This study, seeks to answer the question - which signals have the most predictive power for popularity and sponsorship volume on social coding platforms? Using algorithm supported abductive theory generation supplemented by qualitative insights from observations and interviews, we arrive at a theory of peer evaluation in OSS communities. We examine a large number of signals and categorise them. The two categories are signalling via self-disclosure through profile signals and signalling via contribution quantity and quality through behavioral signals. The large amount of data available to us allows us to use machine learning techniques to arrive at top ranking predictors within each category. We generate our theory by finding robust patterns and test our theory using a hold-out sample. Our findings indicate that easily observable credibility enhancing, and approachability related developer profile signals hold greater predictive importance in shaping popularity. However, harder to observe and more complex behavioral signals show greater predictive importance for sponsorship volume. These results signify OSS social coding platforms are not meritocratic, as developer self-disclosure significantly influences popularity. In contrast, sponsorship decisions, due to their high cost and irreversibility, depend on within platform contribution-related signals. This research contributes to a deeper understanding of popularity and sponsorship within peer-to-peer followership networks in OSS communities. Through our research, platforms are better informed about the predictors of popularity and sponsorship and can introduce measures to enhance the meritocratic nature of these communities. Developers who seek influence and sponsorship on the platform can be more strategic about information disclosure and their contributions.</content>
+    <link href="https://doi.org/10.1177/10591478251405119"/>
+    <category term="Production and Operations Management"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429251405841</id>
+    <title>EXPRESS: Leveraging Rational Addiction Theory to Reduce Mobile Usage</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Jeeva Somasundaram, Laura Zimmermann, Quang Duc Pham</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;The pervasive use of smartphones has raised concerns about their addictive and maladaptive nature. This paper introduces an intervention based on rational addiction theory to cost-effectively nudge consumers to reduce smartphone usage, promoting sustainable digital consumption. We examine whether pre-announcing future targets to reduce smartphone usage influences current consumption and behavioral change. We develop a mathematical model incorporating habit formation, satiation, and projection bias, and test its predictions in three pre-registered randomized control trials using objectively measured smartphone usage. When future incentives and targets are pre-announced, consumers reduce usage pre-emptively compared to their baseline, consistent with rational addiction. This occurs only when participants are given fixed daily reduction targets, not when incentivized proportionally for reductions over time, and seems to reflect forward-looking habit formation, as other explanations (e.g., goal priming or capability testing) were unlikely to drive results. Interestingly, pre-emptive reductions are stronger among heavy users and those with stronger beliefs in meeting their targets. We also find that pre-emptive reductions help consumers meet their targets during the incentivized period and might support post-treatment behavioral sustenance. Our model fitting results reveal considerable heterogeneity and offer insights into how digital detox experiences can be structured to promote sustainable behavior change.</content>
+    <link href="https://doi.org/10.1177/00222429251405841"/>
+    <category term="Journal of Marketing"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.70009</id>
+    <title>The situational Samaritan: How group reputation threat shapes reparatory behavior</title>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <author>
+      <name>Julia Von Schuckmann, Lucia S. G. Barros, Grant E. Donnelly, Marco Bertini</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Consumers often act to correct the wrongdoings of people close to them, such as family members or friends. The current research demonstrates that consumers may also engage in a variety of reparatory behaviors—from a simple apology to gift‐giving and tipping—to counter the misdeeds of in‐group strangers when their behavior threatens the reputation of their shared group identity. Across eight preregistered experiments, the present research demonstrates that when an in‐group member commits a wrongdoing in the presence of out‐group observers, fellow in‐group members experience a threat to the group's reputation. This reputational threat evokes feelings of embarrassment and a motivation to distance the group identity from the transgressor, prompting reparatory behaviors such as apologizing, gift‐giving, or tipping. These effects emerge across a range of social identities, including ethnicity, nationality, university affiliation, and sports team fandom. Importantly, this tendency is attenuated when other in‐group members have already taken action to restore the group's image. These findings reveal a powerful form of identity‐driven consumer behavior, highlighting how concerns about group reputation can drive individuals to act, even for the misdeeds of in‐group strangers.</content>
+    <link href="https://doi.org/10.1002/jcpy.70009"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2025-12-02T00:00:00+00:00</published>
   </entry>
 </feed>
