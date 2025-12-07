@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2025-12-06T14:40:40.209695+00:00</updated>
+  <updated>2025-12-07T14:40:03.902807+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34427</id>
+    <title>Modeling and Measuring the Genetic Determinants of Child Development</title>
+    <updated>2025-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Francesco Agostinelli &amp; Zach Weingarten</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The longstanding debate over whether human capabilities and skills are shaped more by “nature” or “nurture” has been revitalized by recent advances in genetics, particularly in the use of polygenic scores (PGSs) to proxy for genetic endowments. Yet, we argue that PGSs embed not only direct genetic effects but also indirect environmental influences, raising questions about their validity for causal analysis. We show that these conflated measures can mislead studies of gene–environment interactions, especially when parental behavior responds to children’s genetic risk. To address this issue, we construct a new latent measure of genetic risk that integrates individual genotypes with diagnostic symptoms, using data from the National Longitudinal Study of Adolescent to Adult Health linked to restricted individual SNP-level genotypes from dbGaP. Exploiting multiple sources of variation—including the Mendelian within-family genetic randomization among siblings—we find consistent evidence that parents compensate by investing more in children with higher genetic risk for ADHD. Strikingly, these compensatory responses disappear when genetic risk is proxied by the conventional ADHD PGS, which also yields weaker—and in some cases reversed—predictions for long-run outcomes. Finally, we embed our latent measure of genetic endowments into a standard dynamic structural model of child development. The model shows that both parental investments and latent genetic risk jointly shape children’s cognitive and mental health development, underscoring the importance of modeling the dynamic interplay between genes and environments in the formation of human capital.</content>
+    <link href="https://www.nber.org/papers/w34427"/>
+    <category term="NBER"/>
+    <published>2025-11-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34426</id>
     <title>The Role of Private Debt in the Financial Ecosystem</title>
@@ -147,18 +159,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;As increasingly frequent extreme weather events disrupt lives, institutions are turning to early-warning systems and advance preparation to accelerate aid delivery. We present evidence from a randomized controlled trial in Bangladesh and Nepal testing whether providing cash within days of a flood leads to greater benefits than delivering the same assistance months later—or if it simply shifts the timing of benefits without improving overall welfare. Results suggest that timely cash assistance leads to overall gains in food security and psychosocial well-being. This evidence supports efforts to forecast crises and release disaster relief quickly.</content>
     <link href="https://www.nber.org/papers/w34414"/>
-    <category term="NBER"/>
-    <published>2025-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34439</id>
-    <title>Employment Relationships, Wage Setting, and Labor Market Power</title>
-    <updated>2025-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Francesco Agostinelli, Domenico Ferraro, Giuseppe Sorrenti &amp; Leonard Treuren</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We ask to what extent the quantification of labor market power depends on the modeling of the long-term worker-firm employment relationship. We develop an oligopsony model with dynamic wage contracts. Workers decide whether and where to work, choosing among firms providing different amenities and solving a dynamic discrete choice labor supply problem with firm-specific human capital. As a result, firms optimally choose wage-tenure contracts to attract and retain workers. We find that such contracts mitigate firms' incentives to impose large instantaneous wage markdowns—compared to standard static wage-setting models—thereby reducing the share of socially inefficient worker-firm separations. As a consequence, we show that the empirical approaches based on "sufficient statistics" tend to overestimate the extent of labor market power: low levels of firm-specific labor supply elasticities do not necessarily indicate rent extraction, but instead reflect firms’ ability to retain workers by offering long-term value through human capital accumulation.</content>
-    <link href="https://www.nber.org/papers/w34439"/>
     <category term="NBER"/>
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
@@ -1054,6 +1054,30 @@ This paper was motivated by an earlier NBER working paper.  The authors of that 
     <published>2025-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34522</id>
+    <title>The Effects of Widespread Online Education on Market Structure and Enrollment</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nano Barahona, Cauê Dobbin &amp; Sebastián Otero</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the rapid expansion of Brazil's private online higher-education sector and its effects on market structure and college enrollment. Exploiting regional and field-specific variation in online education penetration, we find that online programs expand access for older students but divert younger students from higher-quality in-person programs. Greater competition lowers tuition prices but also reduces the supply of in-person degrees. Using an equilibrium model of college education, we show that in the absence of online programs, total enrollment would be 14 percent lower, while in-person enrollment would rise by 33 percent. On net, aggregate labor-market value added declines by 1.4 percent. Online education raises value added for older students, who benefit from increased access, but lowers it for younger students, who shift toward lower-return online options. Counterfactual policies that restrict online enrollment to older cohorts could increase value added for younger students without reducing gains for older cohorts.</content>
+    <link href="https://www.nber.org/papers/w34522"/>
+    <category term="NBER"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34514</id>
+    <title>Good Data and Bad Data: The Welfare Effects of Price Discrimination</title>
+    <updated>2025-12-01T00:00:00+00:00</updated>
+    <author>
+      <name>Maryam Farboodi, Nima Haghpanah &amp; Ali Shourideh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how a monopolist’s use of consumer data for price discrimination affects welfare. To answer this question, we develop a model of market segmentation subject to residual uncertainty. We fully characterize when data usage monotonically increases or decreases welfare or when the effect is non-monotone. The characterization reduces the problem to one with only two demand curves, and gives a condition for the two-demand-curves case that highlights that information affects welfare in three distinct ways. In the non-monotone case, we provide tight bounds on the welfare effects of information and identify the best local direction for providing additional information.</content>
+    <link href="https://www.nber.org/papers/w34514"/>
+    <category term="NBER"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34525</id>
     <title>Who Bears the Burden of Climate Inaction?</title>
     <updated>2025-12-01T00:00:00+00:00</updated>
@@ -1170,30 +1194,6 @@ This paper was motivated by an earlier NBER working paper.  The authors of that 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the connection between regional growth trends and labor market dynamics. New data on manufacturing worker flows for U.S. cities 1969-1981 show more new hires and more voluntary quits in growing cities, but more forced layoffs in shrinking cities. Recessions are special in growing cities in that hires and quits drop, whereas in shrinking cities layoffs rise. A quantitative business cycle model with migration and on-the-job search accounts for a large share of variation in growth and worker flows both over time and across space. Growing cities in the South and West had low job creation costs and only gradual in-migration, so tight labor markets encouraged more on-the-job search. In those cities, aggregate job destruction shocks generated recessions with lower labor market churn. In the shrinking cities of the Rust Belt, in contrast, churn was always low and responded little in recessions.</content>
     <link href="https://www.nber.org/papers/w34515"/>
-    <category term="NBER"/>
-    <published>2025-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34522</id>
-    <title>The Effects of Widespread Online Education on Market Structure and Enrollment</title>
-    <updated>2025-12-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nano Barahona, Cauê Dobbin &amp; Sebastián Otero</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the rapid expansion of Brazil's private online higher-education sector and its effects on market structure and college enrollment. Exploiting regional and field-specific variation in online education penetration, we find that online programs expand access for older students but divert younger students from higher-quality in-person programs. Greater competition lowers tuition prices but also reduces the supply of in-person degrees. Using an equilibrium model of college education, we show that in the absence of online programs, total enrollment would be 14 percent lower, while in-person enrollment would rise by 33 percent. On net, aggregate labor-market value added declines by 1.4 percent. Online education raises value added for older students, who benefit from increased access, but lowers it for younger students, who shift toward lower-return online options. Counterfactual policies that restrict online enrollment to older cohorts could increase value added for younger students without reducing gains for older cohorts.</content>
-    <link href="https://www.nber.org/papers/w34522"/>
-    <category term="NBER"/>
-    <published>2025-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34514</id>
-    <title>Good Data and Bad Data: The Welfare Effects of Price Discrimination</title>
-    <updated>2025-12-01T00:00:00+00:00</updated>
-    <author>
-      <name>Maryam Farboodi, Nima Haghpanah &amp; Ali Shourideh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how a monopolist’s use of consumer data for price discrimination affects welfare. To answer this question, we develop a model of market segmentation subject to residual uncertainty. We fully characterize when data usage monotonically increases or decreases welfare or when the effect is non-monotone. The characterization reduces the problem to one with only two demand curves, and gives a condition for the two-demand-curves case that highlights that information affects welfare in three distinct ways. In the non-monotone case, we provide tight bounds on the welfare effects of information and identify the best local direction for providing additional information.</content>
-    <link href="https://www.nber.org/papers/w34514"/>
     <category term="NBER"/>
     <published>2025-12-01T00:00:00+00:00</published>
   </entry>
