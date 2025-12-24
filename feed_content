@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-12-24T15:39:01.618360+00:00</updated>
+  <updated>2025-12-24T22:25:29.276031+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -957,6 +957,18 @@
     <published>2025-12-23T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdaf109</id>
+    <title>Devaluations, Deposit Dollarization, and Household Heterogeneity</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Francesco Ferrante, Nils Gornemann</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the aggregate and redistributive effects of currency devaluations in a small open economy model with leverage-constrained banks and heterogeneous households. Our framework captures three stylized facts about financial dollarization in emerging economies: i) a sizable share of domestic deposits is denominated in foreign currency; ii) these deposits represent significant foreign currency liabilities for local banks; and iii) dollar deposits are mainly held by wealthier households. A devaluation increases the real burden of foreign currency debt, causing an erosion of banks' net worth, which depresses credit supply and economic activity. While richer households are partially insulated through their dollar deposits, poorer households cut consumption sharply in response to rising borrowing costs and falling real labor income. In our model deposit dollarization amplifies the contractionary effects of a devaluation on output, investment, and consumption, in line with new empirical evidence for emerging economies. To achieve this result, both constrained intermediaries and heterogeneous households are crucial. In our framework, regulating dollarization can result in widespread welfare gains, especially for poorer households.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf109"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/restud/rdaf107</id>
     <title>Bank Information Production Over the Business Cycle</title>
     <updated>2025-12-24T00:00:00+00:00</updated>
@@ -981,6 +993,78 @@
     <published>2025-12-24T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdaf108</id>
+    <title>Inflation Risk and the Finance-Growth Nexus</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Alexandre Corhay, Jincheng Tong</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;When firms finance using long-term nominal debt issued by financial intermediaries, changes in expected inflation lead to a wealth transfer across sectors. Higher expected inflation decreases firms' real liabilities and default risk, which helps reduce debt overhang. However, it hurts intermediaries' real assets, leading to a contraction in credit supply. We theoretically demonstrate that intermediary financing conditions play a key role in the transmission of nominal shocks, influencing the premium investors require for bearing inflation risk. We provide empirical evidence supporting our novel inflation transmission mechanism and connect our findings to the banking stress of 2023. We also show that Taylor rules responding to both financial and real variables can help stabilize our economy.</content>
+    <link href="https://doi.org/10.1093/restud/rdaf108"/>
+    <category term="Review of Economic Studies"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1213</id>
+    <title>An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Du Chen, Geoffrey A. Chua</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private NewsvendorIn “An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor,” Chen and Chua examine an emerging challenge in data-driven operations: inventory decisions can unintentionally reveal sensitive demand information. Even when raw demand data are never shared, observers may reverse-engineer the data from small changes in order quantities. This risk is particularly acute in supply chains, where decisions are frequent, data-intensive, and easily observable. To mitigate this threat, the paper develops a suite of differentially private algorithms for the contextual newsvendor problem. These methods introduce carefully calibrated randomness into the newsvendor model, ensuring strong privacy protection under differential privacy while maintaining near-optimal operational performance. The authors also identify key drivers of the cost of privacy—data set size, contextual richness, and product variety—offering actionable guidance for firms seeking secure yet efficient data-driven operations. Finally, they demonstrate that privacy-preserving decisions can distort demand signals and reduce upstream supplier profits, highlighting important supply-chain-wide implications of data protection.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1213"/>
+    <category term="Operations Research"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1019</id>
+    <title>Post Reinforcement Learning Inference</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Vasilis Syrgkanis, Ruohan Zhan</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;In “Post Reinforcement Learning Inference,” Vasilis Syrgkanis and Ruohan Zhan develop a new inferential framework for data collected via reinforcement learning (RL) algorithms, the adaptive systems that update strategies as outcomes unfold. Traditional statistical methods fail in this setting because adaptivity induces time-varying variance and dependence across samples. Syrgkanis and Zhan propose an adaptively weighted generalized method of moments (AW-GMM) estimator that stabilizes this variance through data-dependent weights. They prove that the weighted estimator achieves consistency and asymptotic normality, enabling valid hypothesis testing and confidence intervals for policy values and dynamic treatment effects. Their method provides a unified approach for structural estimation and inference under nonstationary, adaptively generated sequence data, with applications to dynamic off-policy evaluation and personalized decision systems.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1019"/>
+    <category term="Operations Research"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07315</id>
+    <title>The Zombie Lending Channel of Monetary Policy</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Bruno Albuquerque, Chenyu (Sophia) Mao</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We identify a new channel in the monetary policy transmission to nonfinancial corporates—the zombie lending channel. Our findings show that unviable and unproductive zombie firms are less affected by contractionary monetary policy relative to other firms because of a more muted tightening in credit conditions. We rationalize this result with a strengthening in evergreening motives when interest rates rise: lenders face incentives to extend loans to zombies to prevent them from defaulting. Strengthening banks’ balance sheets and curbing risky lending behavior could help mitigate zombie lending practices when financial conditions tighten.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07315 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07315"/>
+    <category term="Management Science"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.00817</id>
+    <title>What Do Trade Allowances Look Like? Evidence from Actual Payments to a Big-Box Retailer</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Andrés Elberg, Carlos Noton</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We document key features of trade allowances—a major component of the contracts between large retailers and manufacturers—using a unique panel data set on allowance payments negotiated between two supermarket chains owned by a large retailer and its suppliers over a two-year period. We show that trade allowances are large in magnitude, are paid by the vast majority of suppliers, and vary substantially over categories and, especially, across suppliers within categories. We further study trade allowance behavior along key dimensions of the manufacturer–retailer relationship. First, we report important interdependencies between allowances paid by multicategory suppliers across different categories, suggesting that single-category analysis of manufacturer–retailer interactions may be misleading. Second, we show that dedicated private label manufacturers do pay allowances, and that dual branders (i.e., national brand manufacturers who in addition produce private labels) tend to pay lower allowances than fully national brand manufacturers. Third, we examine the relationship between allowance payments and price promotional activities and find that price and nonprice incentives tend to be treated as substitutes. Fourth, we document a positive relationship between allowance payments and prices, suggesting that trade allowances do not mitigate the double marginalization problem. Finally, the evidence suggests that both market power and efficiency aspects are at play in the explanation of trade allowances.This paper was accepted by Eric Anderson, marketing.Funding: This work was supported by the Institute for Research in Market Imperfections and Public Policy [Grant ICM IS130002] and Fondo Nacional de Desarrollo Científico y Tecnológico [Initiation Grant 11180301 and Regular Grant 1170029].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00817 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.00817"/>
+    <category term="Management Science"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00170</id>
+    <title>Platform Expansion Through Asset Provision: Ownership, Commitment, and Flexibility</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Heikki Peura, S. Alex Yang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Service platforms connect consumers to independent providers, who typically deliver the service using their own assets (e.g., ride-hailing with suitable vehicles). To expand their services, platforms have introduced programs aimed at attracting prospective providers who lack the requisite assets. These programs diverge in terms of asset ownership and contract structures. In platform financing, the platform offers to finance providers’ asset investments, serving as an alternative to bank loans. Under employment and rental schemes, by contrast, the platform itself invests in assets and offers them to providers through long-term employment-like contracts or short-term rentals. We develop a game-theoretical model to study the viability and relative performance of these mechanisms. With bank financing as benchmark, we find that although each mechanism can be profitable, they also face distinct challenges. For example, platform financing often fails to benefit the platform in its simple interest-only form and instead requires payments tied to providers’ on-platform performance. Comparing these mechanisms highlights a tradeoff between the platform committing to a mutually beneficial contract with the providers and leveraging their flexibility as independent service providers. Consequently, the platform prefers the strongest commitment option—employment—when demand is high and investment cost is low and turns to the flexible financing or rental options as demand weakens or investment cost increases. Additionally, we find that minimum-wage regulation could benefit not only service providers but also the platform, particularly under financing or rental. Finally, when the providers’ outside options rely less on access to assets, employment gains ground as the preferred expansion strategy.This paper was accepted by Victor Martinez de Albeniz, operations management.Funding: S. A. Yang is funded by the Research and Material Development Fund at London Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00170 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00170"/>
+    <category term="Management Science"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/01492063251390419</id>
     <title>More Light but Less Sight? The Dual Effect of Information Transparency on Firm Innovation</title>
     <updated>2025-12-24T00:00:00+00:00</updated>
@@ -990,6 +1074,30 @@
     <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Whether more information available in capital markets fosters or hinders corporate innovation—and ultimately long-term firm value—remains a contentious question. Does enhanced transparency discipline managerial decision-making, or does it induce short-termism? This study addresses this tension by proposing that firms’ R&amp;D capabilities critically moderate these opposing effects. Leveraging the European Union’s mandate for quarterly reporting as a quasi-natural experiment, we employ a difference-in-differences design to a panel of EU-listed manufacturing firms. We uncover a dual pathway: For firms with weaker R&amp;D capabilities, greater transparency exerts a disciplining effect, leading to reduced R&amp;D investment and enhancing firms’ value. Conversely, firms with stronger capabilities reallocate R&amp;D toward more familiar domains to deliver quicker returns, consistent with a myopic response that limits exploration and undermines long-term value. Our findings contribute to management theory by unpacking how capital market pressures differentially affect the “whether” and “where” of innovation decisions and offer policymakers important insights into the unintended consequences of disclosure regulation.</content>
     <link href="https://doi.org/10.1177/01492063251390419"/>
     <category term="Journal of Management"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-025-00828-5</id>
+    <title>The data-based power of big-tech multinational enterprises</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Ke Rong, Ronaldo Parente, Ziliang Deng, Zhengyao Kang, Ram Mudambi, William Newburry</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Despite the increasing recognition of digital globalization in international business (IB) literature, there is a more pressing need for a comprehensive understanding of the unprecedented power generated by big-tech multinational enterprises (MNEs). This paper suggests that harnessing data ubiquity globally, instantaneously, and continuously represents a defining feature and a revolutionary power source for big-tech MNEs. By leveraging global data value chains through  a mutually reinforcing data-AI feedback loop of data access, analysis, and application, big-tech MNEs can reshape IB practices and challenge global regulatory frameworks. Drawing on power-dependence theory, our research framework highlights a logic of power mutuality characterized by the interplay between power generation and power counterbalance. These two forces provide a holistic lens for examining how big-tech MNEs create data-based power, but are simultaneously countered by the economic and sociopolitical stakeholders of big-tech MNEs. We propose promising avenues for future research on MNEs’ data strategies, global data value chains, foreignness and liabilities of data, and global data governance.</content>
+    <link href="https://doi.org/10.1057/s41267-025-00828-5"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2025-12-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0340</id>
+    <title>A Robust Optimization Approach to Reliable Statistical Inference with Variables Generated by Machine Learning</title>
+    <updated>2025-12-24T00:00:00+00:00</updated>
+    <author>
+      <name>Aaron Schecter, Weifeng Li</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations increasingly use machine learning to turn text, images, and other unstructured data into variables that inform decisions and research. But, because machine learning predictions are never perfect, the resulting data can contain errors that quietly distort statistical analyses, sometimes leading to incorrect conclusions about what truly drives important outcomes. This study introduces a robust optimization approach that helps analysts and decision makers draw more reliable insights when working with machine learning–generated data. The method is designed to strengthen the signal of real effects, reducing the influence of noisy or imperfect predictions, resulting in more trustworthy hypothesis tests and fewer missed or misleading findings. The approach also includes a simple correction step that uses a small amount of high-quality labeled data—such as a subset of manually reviewed cases—to further improve accuracy. Across simulations and a real-world example using Amazon reviews, the method consistently delivers more dependable results than common alternatives. For professionals who rely on machine learning in areas such as marketing, operations, public policy, or risk management, this framework offers a practical, transparent way to ensure that conclusions remain sound even when data sources are imperfect.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0340"/>
+    <category term="Information Systems Research"/>
     <published>2025-12-24T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1104,12 +1212,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478251408173</id>
-    <title>EXPRESS: Do Major Customers Help or Hurt Innovation? The Effects of Customer-Base Concentration on Innovation Volume and Radicalness</title>
+    <title>Do Major Customers Help or Hurt Innovation? The Effects of Customer-Base Concentration on Innovation Volume and Radicalness</title>
     <updated>2025-12-05T00:00:00+00:00</updated>
     <author>
       <name>Clara Xiaoling Chen, Wei Jiang, Wentao Yao</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We extend the prior operations management literature on innovation by providing large-sample empirical evidence of the differential effects of customer-base concentration on two distinct outcomes of innovation: volume and radicalness. We predict a positive association between customer-base concentration and innovation volume and a negative association between customer-base concentration and innovation radicalness. Using a sample of 16,014 firm-year observations in business-to-business industries between 1976 and 2010, we find results consistent with our predictions. Furthermore, we predict and find that a firm’s product market competition and financial resource constraints moderate the relation between customer-base concentration and innovation volume (radicalness). While prior operations management research on innovation primarily focuses on the dynamics of customers across high- vs. low-end markets, we extend this literature by demonstrating that customer-base concentration influences the nature of innovation regardless of market type and providing a better understanding of how market structures drive innovation outcomes. Firms with high customer-base concentration can use the insights from our study to allocate resources more effectively across incremental and radical innovations with the objective of ensuring their long-term survival and development.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We extend the prior operations management literature on innovation by providing large-sample empirical evidence of the differential effects of customer-base concentration on two distinct outcomes of innovation: volume and radicalness. We predict a positive association between customer-base concentration and innovation volume and a negative association between customer-base concentration and innovation radicalness. Using a sample of 16,014 firm-year observations in business-to-business industries between 1976 and 2010, we find results consistent with our predictions. Furthermore, we predict and find that a firm's product market competition and financial resource constraints moderate the relation between customer-base concentration and innovation volume (radicalness). While prior operations management research on innovation primarily focuses on the dynamics of customers across high- versus low-end markets, we extend this literature by demonstrating that customer-base concentration influences the nature of innovation regardless of market type and providing a better understanding of how market structures drive innovation outcomes. Firms with high customer-base concentration can use the insights from our study to allocate resources more effectively across incremental and radical innovations with the objective of ensuring their long-term survival and development.</content>
     <link href="https://doi.org/10.1177/10591478251408173"/>
     <category term="Production and Operations Management"/>
     <published>2025-12-05T00:00:00+00:00</published>
