@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2025-12-24T22:25:29.276031+00:00</updated>
+  <updated>2025-12-25T14:40:18.557634+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1113,102 +1113,6 @@
     <link href="https://doi.org/10.1002/hrm.70049"/>
     <category term="Human Resource Management"/>
     <published>2025-12-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhaf098</id>
-    <title>When Discounted Rates End: The Costs of Taking Action in the Mortgage Market</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Adiya Belgibayeva, Teresa Bono, Philippe Bracke, Nuno Clara, João F Cocco, Tommaso Majer</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We combine administrative data with a life cycle structural model that exploits the unique features of the U.K. mortgage market to analyze the sources of inaction and to estimate borrowers’ nonpecuniary remortgaging costs. The utility costs needed to generate a given level of inaction depend on monetary gains from remortgaging and on the importance of those monetary gains for agents, which in turn depend on the (endogenously determined) marginal utility of consumption. The model results reveal significant nonpecuniary costs of action that, when measured as a proportion of borrower income, are larger for the young and for lower-income households. (JEL G21, G51, R31)</content>
-    <link href="https://doi.org/10.1093/rfs/hhaf098"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.03132</id>
-    <title>Deep Learning Statistical Arbitrage</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Jorge Guijarro-Ordonez, Markus Pelger, Greg Zanotti</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Statistical arbitrage exploits temporal price differences between similar assets. We develop a comprehensive conceptual framework for statistical arbitrage and a novel data-driven solution. First, we construct arbitrage portfolios of similar assets as residual portfolios from conditional latent asset pricing factors. Second, we extract their time-series signals with a powerful machine learning time-series solution, a convolutional transformer. Lastly, we use these signals to form an optimal trading policy, which maximizes risk-adjusted returns under constraints. Our comprehensive empirical study on daily U.S. equities shows a high compensation for arbitrageurs to enforce the law of one price. Our arbitrage strategies obtain considerable out-of-sample mean returns and Sharpe ratios, and outperform all benchmark approaches.This paper was accepted by Agostino Capponi, finance.Funding: The authors thank MSCI for generous research support.</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.03132"/>
-    <category term="Management Science"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03040</id>
-    <title>Regulatory Risk Perception and Small Business Lending</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Joseph Kalmenovitz, Siddharth Vij</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We uncover a significant friction in small business lending: perception of risk by Small Business Administration (SBA) employees. Using novel data on SBA employees transferring across offices, we find that more current defaults on SBA loans in their previous location reduce SBA loans and job creation in their current location. The effect is independent of local economic conditions and the informational content of the nonlocal defaults, suggesting that SBA employees update their risk assessment irrationally. Our results are the first to document that regulators’ misperception of economic conditions affects the ability of small businesses to obtain access to finance.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03040 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03040"/>
-    <category term="Management Science"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06067</id>
-    <title>Correlation of Rankings in Matching Markets</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Rémi Castera, Patrick Loiseau, Bary S. R. Pradelski</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the role of correlation in matching markets, where multiple decision makers simultaneously face selection problems from the same pool of candidates. We propose a model in which a candidate’s priority scores across different decision makers exhibit varying levels of correlation dependent on the candidate’s sociodemographic group. Such differential correlation can arise in school choice because of the varying prevalence of selection criteria, in college admissions because of test-optional policies, or because of algorithmic monoculture, that is, when decision makers rely on the same algorithms and data sets to evaluate candidates. We show that higher correlation for one of the groups generally improves the outcome for all groups, leading to higher efficiency. However, students from a given group are more likely to remain unmatched as their own correlation level increases. This implies that it is advantageous to belong to a low-correlation group. Finally, we extend the tie-breaking literature to multiple priority classes and intermediate levels of correlation. Overall, our results point to differential correlation as a previously overlooked systemic source of group inequalities in school, university, and job admissions.This paper was accepted by Itai Ashlagi, revenue management and market analytics.Funding: This work was partially supported by MIAI @ Grenoble Alpes [Grants ANR-19-P3IA-0003 and ANR-23-PEIA-0003], by the French National Research Agency (ANR) [Grants ANR-19-CE48-0018 and ANR-20-CE23-0007], and by the National Science Foundation [Grant DMS-1928930] and by the Alfred P. Sloan Foundation [Grant G-2021-16778], which funded B. Pradelski’s residency at the Simons Laufer Mathematical Sciences Institute (formerly MSRI) in Berkeley, CA, during the Fall 2023 semester.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06067 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06067"/>
-    <category term="Management Science"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70045</id>
-    <title>Stakeholder Management and Resource Complementarities: Firm Performance amid Systemic Crises</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Qian (Cecilia) Gu, Daniel S. Andrews, Heli Wang, Victor Zitian Chen</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Stakeholder management plays a central role in shaping firms’ responses to systemic crises. However, existing research offers incomplete guidance, often examining it in isolation from firms’ internal resource positions and external crisis exposure. Drawing on a configurational perspective, we analyse a unique dataset of 2727 US firms during the onset of the COVID‐19 pandemic using fuzzy‐set qualitative comparative analysis (fsQCA). Our findings indicate that both encompassing and minimalist stakeholder management approaches can lead to high performance, but only when aligned with firms’ financial and operational resources (i.e., slack and diversification) and their levels of crisis exposure. An encompassing approach proves most effective under high crisis exposure, as it enhances legitimacy and stakeholder coordination amid uncertainty. In contrast, low‐exposure firms can perform well through a minimalist approach, provided they possess ample financial slack to buffer against disruption. Our study advances stakeholder management research by moving beyond an either‐or perspective, identifying multiple equifinal configurations for achieving resilience. We highlight the causal complexity of firms’ crisis responses and advance a contingency‐based understanding of what works, for whom, and under what conditions.</content>
-    <link href="https://doi.org/10.1111/joms.70045"/>
-    <category term="Journal of Management Studies"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063251387664</id>
-    <title>Cronyism, Rule of Law, and Entrepreneurship: A Country-Level Examination</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Sohrab Soleimanof, G. Tyge Payne, Curt Moore, Matthew W. Rutherford</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Cronyism promotes the exchange of favors among connected parties based on relationships rather than merit, granting them undue advantages in securing opportunities and resources. This study examines the impact of cronyism on the quantity and quality of entrepreneurship. The analysis of data from 98 countries over 8 years (482 country-year observations) indicates that cronyism is negatively associated with the quantity of productive entrepreneurship, and positively associated with the prevalence of unproductive entrepreneurship. Furthermore, the results reveal that cronyism diminishes the quality of entrepreneurship productivity across countries. Interestingly, the findings suggest that a stronger rule of law exacerbates the detrimental effects of cronyism on entrepreneurship productivity. These results extend our understanding of cronyism as a crucial yet understudied informal institution with major implications for management and entrepreneurship.</content>
-    <link href="https://doi.org/10.1177/01492063251387664"/>
-    <category term="Journal of Management"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2023.0673</id>
-    <title>Working Daily, Paid Monthly? Effects of On-Demand Wage Access on the Financial Engagement of Low-Wage Workers</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Jihye Kim, Seokchae Yoon, Sunghun Chung, Wonseok Oh</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Practice- and Policy-Oriented Abstract (for Research Spotlight)Low-wage workers often face liquidity constraints, relying on costly short-term credit options such as payday loans. On-demand wage access (OWA) platforms offer a promising alternative by allowing workers to access earned wages before traditional pay cycles. This study examines whether OWA enhances financial engagement among low-wage workers and investigates the mechanisms driving these effects. Using transaction data from about 4,000 users of a U.S.-based OWA platform, we employ a difference-in-differences approach with staggered adoption to identify behavioral changes. To enrich our analysis, we supplement these data with evidence from an online experiment, a survey of OWA users, and semistructured interviews exploring psychological and contextual mechanisms. Our findings show that OWA adoption increases monthly saving frequency by 3.7%, time spent monitoring financial dashboards by 12.9%, and goal-setting activity by 1.3%. These effects are amplified in regions with lower minimum wages or limited banking access but weakened among users who frequently incur fees for instant withdrawals. We identify self-empowerment—beyond mere self-efficacy—as the key mechanism enabling a shift from reactive to proactive financial management. By demonstrating how digital affordances foster behavioral change within structural constraints, this research offers actionable insights for employers, OWA providers, and policymakers seeking to promote financial inclusion.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0673"/>
-    <category term="Information Systems Research"/>
-    <published>2025-12-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70044</id>
-    <title>Sustainable Work and Employment in Social Care: New Challenges, New Priorities</title>
-    <updated>2025-12-04T00:00:00+00:00</updated>
-    <author>
-      <name>Ian Kessler, Aoife M. McDermott, Lander Vermeerbergen, Valeria Pulignano, Brian Harney</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Human Resource Management (HRM) research focused on social care is sparse. This gap is surprising given the scale of the social care workforce in many countries, its vital role in meeting the increasingly complex needs of vulnerable community groups, and the persistent challenges in recruiting and retaining staff. Framing the special issue of articles on HRM in social care, we suggest the relative neglect stems from difficulties: defining the boundaries of the social care sector; scoping its workforce; capturing the diverse range of organizational service providers; and in a crowded research space, clarifying how HRM researchers might make a distinctive scholarly and practical contribution to the literature. The six articles comprising the special issue, together with literature from HRM and related fields, are explored through the organizational, systems, and stakeholder perspectives that underpinned the original call for articles. We develop a substantive characterization of HRM in social care comprising various parts. First, systemic features of the sector, including service fragmentation and light touch state regulation, are presented as pushing social care organizations towards opportunistic, low‐cost workforce management approaches that stakeholders—particularly employees and less directly service users—often experience negatively. Second, providers, nonetheless, retain some discretion to pursue alternative management strategies, with recent policy shifts towards networked care delivery models creating opportunities for more strategic, developmental HRM approaches. Third, leadership behavior and intrinsic employee satisfaction with care work can moderate the often‐degraded employment experience, albeit within limits, suggested by the sector's ongoing recruitment and retention difficulties. Synthesizing these insights through the systems, organizational, and stakeholder themes, we present a multi‐level analytical framework for the study of HRM issues in social care. Accompanying research questions aim to support the exploration of workforce issues by policymakers, practitioners, and HRM scholars.</content>
-    <link href="https://doi.org/10.1002/hrm.70044"/>
-    <category term="Human Resource Management"/>
-    <published>2025-12-04T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478251408173</id>
