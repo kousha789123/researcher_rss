@@ -2,58 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-01-01T03:02:44.097758+00:00</updated>
+  <updated>2026-01-01T14:42:47.232903+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1177/10591478251410026</id>
-    <title>EXPRESS: Dynamic Management of Self-Renewable Resource in a Production-Inventory System</title>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <author>
-      <name>Yi Wang, Zhenyu Hu, Rowan Wang</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We consider a production-inventory system in which production relies on a self-renewable natural resource. The resource regenerates at a rate that depends on its current stock as well as random environmental factors. In each period, the firm decides on the production quantity, facing stochastic demand and limited resource. This type of system is common in industries such as fishing and logging. We model the resource’s self-renewal using a generating function and formulate the production optimization problem as a dynamic program. We find that because of the renewable nature of the resource, the optimal stock level does not necessarily increase with the available resource quantity, and could become higher than the optimal stock level for a benchmark system where resource is unlimited. In a special case with deterministic demand and environment, we show that it could be optimal to halt production even with zero inventory left, in order to preserve the growth of resource. On the other hand, it could also be optimal to raise the inventory level to be higher than demand, when overpopulation becomes an issue. Moreover, a higher market price, which stems from adverse environmental conditions and signals lower future yields, can incentivize the firm to reduce production and conserve resources for future growth. In a deterministic environment where the inventory is fully perishable, we analytically characterize the long-run dynamics of the resource quantity. In particular, sustainable production is more achievable for low-margin products, and a myopic production firm does not necessarily deplete the resource. We conduct numerical experiments using real-world salmon population data to test the robustness of our findings in general systems with stochastic environment and non-perishable products. The results show that ignoring either the resource constraint or the self-renewal dynamics, could lead to high operational costs and undermine resource sustainability.</content>
-    <link href="https://doi.org/10.1177/10591478251410026"/>
-    <category term="Production and Operations Management"/>
-    <published>2025-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.1156</id>
-    <title>Funding the Real Deal: Dynamic Moral Hazard with Adverse Selection</title>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <author>
-      <name>Feng Tian, Feifan Zhang, Peng Sun, Izak Duenyas</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We study dynamic contracts that incentivize an agent to exert effort to increase the arrival rate of a Poisson breakthrough, where both the effort cost and the effort level at any time are the agent’s private information. Optimally, the principal offers a menu of contracts, each tailored to an agent type (with a different effort cost), specifying an initial payment, a contract deadline, and a payment-upon-arrival process over time. We first fully characterize the optimal contract menu in a two-type setting, where the agent is either a good (low-cost) or bad (high-cost) type. Specifically, the principal should hire the agent only if the breakthrough revenue exceeds a threshold. Above this threshold, if the bad agent’s cost is higher than another threshold, it is optimal to motivate only the good type to exert effort. The principal offers the good type a simple linear contract in which the payment-upon-arrival declines linearly over time until the deadline, whereas the bad type receives an initial payment and leaves immediately. The linear contract provides just enough incentive for the good agent to work. If the bad agent’s cost falls below the threshold, it becomes optimal to also motivate the bad agent to work using a linear contract, whereas offering the good agent a one-switch contract. The one-switch contract extends the linear form by allowing the payment-upon-arrival to take a single downward jump at a specific time before the deadline. The optimal contract structure extends to multiple-type cases, in which the one-switch contract becomes a multiple-switch contract. To obtain the entire menu of contracts, one only needs to solve a sequence of linear optimization problems together with a bisectional line-search, which is fast to compute and easy to interpret and implement.Funding: F. Tian acknowledges funding support from Hong Kong Research Grants Council General Research Fund [Grants 17502023 and 17503424].Supplemental Material: All supplemental materials, including the code, data, and files required to reproduce the results, are available at https://doi.org/10.1287/opre.2024.1156 .</content>
-    <link href="https://doi.org/10.1287/opre.2024.1156"/>
-    <category term="Operations Research"/>
-    <published>2025-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2022.02435</id>
-    <title>How and When Are High-Frequency Stock Returns Predictable?</title>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <author>
-      <name>Yacine Ait-Sahalia, Jianqing Fan, Lirong Xue, Xiaonan Zhu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper studies the predictability of ultrahigh-frequency stock returns and durations to relevant price, volume, and transaction events using machine learning methods. We find that contrary to low-frequency and long-horizon returns, where predictability is rare and inconsistent, predictability in high-frequency returns and durations is large, systematic, and pervasive over short horizons. We identify the relevant predictors constructed from trades and quotes data, and we examine what determines the variation in predictability across the stock’s own characteristics and market environments. Next, we compute how the predictability improves with the timeliness of the data on a scale of milliseconds and conversely degrades with delays, providing a valuation of each millisecond gained. Finally, we simulate the impact of getting an (imperfect) peek at the incoming order flow, a look-ahead ability that is often attributed to the fastest high-frequency traders, in terms of improving the predictability of the returns and durations.This paper was accepted by Will Cong, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02435 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2022.02435"/>
-    <category term="Management Science"/>
-    <published>2025-12-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429251409673</id>
-    <title>EXPRESS: Free-Riding Product Returns to Drive Profits</title>
-    <updated>2025-12-11T00:00:00+00:00</updated>
-    <author>
-      <name>Elisa Montaguti, Scott Neslin, Sara Valentini</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Returning products has become standard practice for consumers, and a significant "pain point" for retailers. The authors contend that returns can be harnessed to increase profits. This requires retailers to manage the interweaving dynamics of product returns and purchase. The strategy is to co-manage a virtuous cycle whereby current returns increase future purchases, and a vicious cycle whereby current returns increase future returns. Marketing executes the strategy. It generates purchases. The returns that follow impose a direct cost due to the vicious cycle. However, the virtuous cycle of returns can offset this, enabling the retailer to “free-ride” returns by optimizing its marketing. The approach follows the Decision Support System (DSS) paradigm by combining a conceptual model, a statistical model, data, and optimization. A core construct is a stock variable tracking consumers’ memory of return experiences. This drives both the virtuous and vicious cycles. The authors optimize marketing spend accounting for Return Stock. The best results are when dynamics are included in both the statistical and optimization models. Results suggests managers should avoid strict return policies aimed at eliminating returns. Instead, they should design policies that optimally balance the long-term benefits and costs of returns.</content>
-    <link href="https://doi.org/10.1177/00222429251409673"/>
-    <category term="Journal of Marketing"/>
-    <published>2025-12-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1111/poms.14008</id>
     <title>Rigidity in Crisis: The Impact of OHSAS 18001 Certification on Production Repurposing During COVID‐19</title>
@@ -1305,6 +1257,18 @@
     <link href="https://doi.org/10.1177/01492063251395674"/>
     <category term="Journal of Management"/>
     <published>2025-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063251398785</id>
+    <title>Firm Growth and Corporate Social Responsibility</title>
+    <updated>2025-12-31T00:00:00+00:00</updated>
+    <author>
+      <name>Mark R. DesJardine, Jimi Kim, Pratima Bansal</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;This paper examines how the rate of firm growth influences corporate social responsibility (CSR). Periods of rapid growth can place substantial financial and managerial demands on firms, requiring leaders to prioritize the allocation of limited resources toward managing expansion. We propose that when firms grow quickly, managers may limit CSR investments—not because they undervalue CSR, but because growth itself consumes financial and attentional capacity. Using 19 years of data from 4,305 firms across 46 countries, we find that faster firm growth is associated with lower levels of CSR activity. This relationship is moderated by firms’ financial and attentional resources: firms with greater financial slack and managerial bandwidth maintain stronger CSR engagement even while growing rapidly. Overall, our results suggest that the relationship between growth and CSR reflects a pragmatic balancing of competing demands.</content>
+    <link href="https://doi.org/10.1177/01492063251398785"/>
+    <category term="Journal of Management"/>
+    <published>2025-12-31T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1257/aer.20240167</id>
