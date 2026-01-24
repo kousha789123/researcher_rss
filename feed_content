@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-01-24T14:44:00.608865+00:00</updated>
+  <updated>2026-01-24T15:38:10.233262+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -513,18 +513,6 @@
     <published>2026-01-19T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10591478261419268</id>
-    <title>EXPRESS: Experiences, Experience Gaps, and the Moderating Role of Technology Co-Development in Biotech-Pharma Partnerships</title>
-    <updated>2026-01-19T00:00:00+00:00</updated>
-    <author>
-      <name>Stephan M. Wagner, Manpreet S. Hora, Ivana Mateska</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In the life sciences industry, pharmaceutical firms often collaborate with biotechnology firms to access technological expertise and R&amp;D capabilities, enabling them to accelerate innovation and bring products to market more effectively. In this study, we examine the collaboration experiences of biotechnology startups and pharmaceutical firms in 287 biotech-pharma partnerships and analyze how firms’ experience impacts the likelihood of product commercialization. Experience is defined as the number of times each firm has participated in supply-based activities in biotech-pharma partnerships. We also conjecture that products developed through biotech-pharma partnerships are more likely to progress toward commercialization if both firms have similar levels of experience. However, when the partnering firms’ experience gap increases and they collaborate to develop the product jointly, we expect progress toward commercialization to become less likely. Our results show that both the biotechnology startup’s experience and the pharmaceutical firm’s experience increase the likelihood of progression toward commercialization. Our results also confirm that co-development moderates the relationship between experience gaps and the progression toward commercialization. Based on our findings, partnering experience and experience gaps are critical considerations as pharmaceutical firms engage in co-development projects with biotechnology startups. By focusing on partnering experience, our study contributes to the technology management literature and research on interfirm partnerships specifically in the biotechnology and pharmaceutical industries.</content>
-    <link href="https://doi.org/10.1177/10591478261419268"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-01-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/10591478261419269</id>
     <title>EXPRESS: Intent-Driven Machine Learning for Fake News Detection: A Referential Domain Adaptation Approach</title>
     <updated>2026-01-19T00:00:00+00:00</updated>
@@ -533,6 +521,18 @@
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Fake news negatively impacts business operations across various sectors, including healthcare, retail, and finance. One promising way to mitigate this problem is through automated content moderation using machine learning (ML). However, existing methodologies have struggled to identify fake news due to its inherent challenges—namely, class heterogeneity, concept drift, context dependency, and adversarial attacks. To address these challenges, we propose a novel strategy that focuses on the heterogeneous intentions behind fake news. Our approach builds on insights from prior social science research indicating that the intent behind creating fake news may differ from that behind disseminating it. This intent-driven variation influences the syntactic structures of fake news, leading to its heterogeneous nature. Accordingly, we argue that developing an ML model focused on the intent dimension of fake news can help overcome the issue of class heterogeneity, which often prevents effective model convergence. Moreover, since intent-driven linguistic patterns are generally less susceptible to temporal shifts and manipulative alterations, we expect this focus to enhance robustness against the other key challenges—concept drift, context dependency, and adversarial attacks. Grounded in a design science approach, we therefore propose a novel ML framework for fake news detection that centers on identifying and leveraging the intent behind fake news. Specifically, we first develop a domain adaptation model to infer the intent behind fake news, specifically targeting contexts where sufficient training data is unavailable—a common limitation in intent detection. Then, based on the intent detection model, we redefine fake news detection by shifting from binary (fake vs. true) to ternary classification (deceptive fake news vs. non-deceptive fake news vs. true news), thereby reducing the computational burden on ML models tasked with processing heterogeneous information within the fake news category. When evaluated against state-of-the-art baselines, our approach demonstrated significant improvements in both intent detection and fake news classification. Robustness checks further demonstrate that our method is less sensitive to distributional shifts in data and is more computationally efficient than baselines. Moreover, post-hoc analyses reveal the underlying mechanisms through which incorporating intent into fake news detection enhances model performance, addressing the key challenges associated with fake news.</content>
     <link href="https://doi.org/10.1177/10591478261419269"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261419268</id>
+    <title>EXPRESS: Experiences, Experience Gaps, and the Moderating Role of Technology Co-Development in Biotech-Pharma Partnerships</title>
+    <updated>2026-01-19T00:00:00+00:00</updated>
+    <author>
+      <name>Stephan M. Wagner, Manpreet S. Hora, Ivana Mateska</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In the life sciences industry, pharmaceutical firms often collaborate with biotechnology firms to access technological expertise and R&amp;D capabilities, enabling them to accelerate innovation and bring products to market more effectively. In this study, we examine the collaboration experiences of biotechnology startups and pharmaceutical firms in 287 biotech-pharma partnerships and analyze how firms’ experience impacts the likelihood of product commercialization. Experience is defined as the number of times each firm has participated in supply-based activities in biotech-pharma partnerships. We also conjecture that products developed through biotech-pharma partnerships are more likely to progress toward commercialization if both firms have similar levels of experience. However, when the partnering firms’ experience gap increases and they collaborate to develop the product jointly, we expect progress toward commercialization to become less likely. Our results show that both the biotechnology startup’s experience and the pharmaceutical firm’s experience increase the likelihood of progression toward commercialization. Our results also confirm that co-development moderates the relationship between experience gaps and the progression toward commercialization. Based on our findings, partnering experience and experience gaps are critical considerations as pharmaceutical firms engage in co-development projects with biotechnology startups. By focusing on partnering experience, our study contributes to the technology management literature and research on interfirm partnerships specifically in the biotechnology and pharmaceutical industries.</content>
+    <link href="https://doi.org/10.1177/10591478261419268"/>
     <category term="Production and Operations Management"/>
     <published>2026-01-19T00:00:00+00:00</published>
   </entry>
