@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-01-25T14:44:24.207866+00:00</updated>
+  <updated>2026-01-25T17:05:25.698168+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -823,6 +823,90 @@
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34686</id>
+    <title>Subcontracting in Federal Spending: Micro and Macro Implications</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Geumbi Park, Xiaoqing Zhou &amp; Sarah Zubairy</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal government spending. Using newly available data on defense subcontract awards linked to establishment-level data from NETS, we examine prime–subcontractor relationships across regions, industries, and over time. We document three key facts. First, subcontracting reallocates a substantial share of federal dollars across geographic areas, weakening the link between the location of prime contracts and where spending ultimately occurs. Second, subcontracting shifts spending across industries, notably from service-sector primes to manufacturing subcontractors. Third, large firms dominate subcontracting networks, including by receiving subcontracts from smaller primes. Accounting for geographic reallocation implies that conventional estimates understate local fiscal multipliers by about 20%. Furthermore, local multipliers are smaller for subcontracting than for prime contracting, partly because subcontracted spending is concentrated among large manufacturing firms that exhibit more muted employment responses. Establishment-level evidence further shows that subcontracting generates weaker employment effects, even conditional on firm size and industry, reflecting the less stable nature of subcontracting relationships. Overall, our findings show that subcontracting fundamentally reshapes the transmission of procurement spending through the private sector, with important implications for the local and aggregate effects of federal spending.</content>
+    <link href="https://www.nber.org/papers/w34686"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34588</id>
+    <title>Topography of the FX Derivatives Market: A View from London</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sinem Hacioglu Hoke, Daniel A. Ostry, Hélène Rey, Adrien Rousset Planat, Vania Stavrakeva &amp; Jenny Tang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Drawing on 100 million transactions, we show how speculators, hedgers, and market makers interact in the world’s largest FX derivatives market, and that derivatives trading can affect exchange rates. Firms in the largest client sectors—pension and investment funds, insurers, and nonfinancials—use FX derivatives primarily to hedge currency risk, with dealer banks providing the liquidity. Hedge funds, with comparatively smaller net exposures, trade speculatively, whereas dealer banks insulate themselves from changes in speculative demand by taking offsetting positions with hedgers, especially nonfinancials. Non-bank market makers, instead, take residual exchange-rate exposures “on the margin”. Hedge funds’ speculative flows help transmit monetary policy shocks to exchange rates, while investment funds' unwinding of hedges contribute to dollar appreciations when credit risk rises. Our results highlight that exchange rates depend on the composition of trading activities in FX derivatives markets.</content>
+    <link href="https://www.nber.org/papers/w34588"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34714</id>
+    <title>Measuring Efficiency and Equity Framing in Economics Research: LLM-Based Evidence from 1950 to 2021</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sebastian Galiani, Ramiro H. Gálvez, Franco Mettola La Giglia &amp; Raul A. Sosa</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure how frontier research frames what is normatively at stake along the efficiency and equity dimension. We develop and validate an LLM-based measurement pipeline and apply it to 27,464 full-text journal articles from 1950 to 2021. Efficiency focused framing rises through the late 1980s, then declines as equity related framing expands after 1990, especially in applied work and policy evaluations. By 2021, papers with an equity component are about as common as papers framed purely around efficiency. President transmittal letters in the Economic Report of the President show a similar post 1990 shift toward equity, providing an external benchmark.</content>
+    <link href="https://www.nber.org/papers/w34714"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34712</id>
+    <title>A Model of Artificial Jagged Intelligence</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Generative AI systems often display highly uneven performance across tasks that appear “nearby”: they can be excellent on one prompt and confidently wrong on another with only small changes in wording or context. We call this phenomenon Artificial Jagged Intelligence (AJI). This paper develops a tractable economic model of AJI that treats adoption as an information problem: users care about local reliability, but typically observe only coarse, global quality signals. In a baseline one-dimensional landscape, truth is a rough Brownian process, and the model “knows” scattered points drawn from a Poisson process. The model interpolates optimally, and the local error is measured by posterior variance. We derive an adoption threshold for a blind user, show that experienced errors are amplified by the inspection paradox, and interpret scaling laws as denser coverage that improves average quality without eliminating jaggedness. We then study mastery and calibration: a calibrated user who can condition on local uncertainty enjoys positive expected value even in domains that fail the blind adoption test. Modelling mastery as learning a reliability map via Gaussian process regression yields a learning-rate bound driven by information gain, clarifying when discovering “where the model works” is slow. Finally, we study how scaling interacts with discoverability: when calibrated signals and user mastery accelerate the harvesting of scale improvements, and when opacity can make gains from scaling effectively invisible.</content>
+    <link href="https://www.nber.org/papers/w34712"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34713</id>
+    <title>Teaching Economics to the Machines</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hui Chen, Yuhan Cheng, Yanchu Liu &amp; Ke Tang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Structural economic models, while parsimonious and interpretable, often exhibit poor data fit and limited forecasting performance. Machine learning models, by contrast, offer substantial flexibility but are prone to overfitting and weak out-of-distribution generalization. We propose a theory-guided transfer learning framework that integrates structural restrictions from economic theory into machine learning models. The approach pre-trains a neural network on synthetic data generated by a structural model and then fine-tunes it using empirical data, allowing potentially misspecified economic restrictions to inform and regularize learning on empirical data. Applied to option pricing, our model substantially outperforms both structural and purely data-driven benchmarks, with especially large gains in small samples, under unstable market conditions, and when model misspecification is limited. Beyond performance, the framework provides diagnostics for improving structural models and introduces a new model-comparison metric based on data-model complementarity.</content>
+    <link href="https://www.nber.org/papers/w34713"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34710</id>
+    <title>FinTech and Customer Capital</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bianca He, Lauren Mostrom &amp; Amir Sufi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial Technology (“FinTech”) firms invest significantly more in customer capital relative to traditional financial firms, and such investment builds valuable customer capital. Higher investment by FinTech firms is not accounted for by sectoral focus or differences in firm age. Reasons for higher customer capital investment are explored, including the need to build trust with customers, the focus on downstream segments of the financial marketplace, the operation of platform-based business models, and a heavier reliance on valuable customer data.</content>
+    <link href="https://www.nber.org/papers/w34710"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34709</id>
+    <title>AI in Charge: Large-Scale Experimental Evidence on Electric Vehicle Charging Demand</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Robert D. Metcalfe, Andrew Schein, Cohen R. Simpson &amp; Yixin Sun</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One of the promising opportunities offered by AI to support the decarbonization of electricity grids is to align demand with low-carbon supply. We evaluated the effects of one of the world’s largest AI managed EV charging tariffs (a retail electricity pricing plan) using a large-scale natural field experiment. The tariff dynamically controlled vehicle charging to follow real-time wholesale electricity prices and coordinate and optimize charging for the grid and the consumer through AI. We randomized financial incentives to encourage enrollment onto the tariff. Over more than a year, we found that the tariff led to a 42% reduction in household electricity demand during peak hours, with 100% of this demand shifted to lower-cost and lower-carbon-intensity periods. The tariff generated substantial consumer savings, while demonstrating potential to lower producer costs, energy system costs, and carbon emissions through significant load shifting. Overrides of the AI algorithm were low, suggesting that this tariff was likely more efficient than a real-time-pricing tariff without AI, given our theoretical framework. We found similar plug-in and override behavior in several markets, including the UK, US, Germany, and Spain, implying the potential for comparable demand and welfare effects. Our findings highlight the potential for scalable AI managed charging and its substantial welfare gains for the electricity system and society. We also show that experimental estimates differed meaningfully from those obtained via non-randomized difference-in-differences analysis, due to differences in the samples in the two evaluation strategies, although we can reconcile the estimates with observables.</content>
+    <link href="https://www.nber.org/papers/w34709"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34708</id>
     <title>Pricing Residential Mortgage Credit Risk in the Post-GFC Era</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -1119,90 +1203,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents the first direct test of two interlinked predictions at the core of the monopsony theory of the labor market: (i) that firms exploit wage-setting power by marking down wages below the marginal revenue product of labor, and (ii) that exogenous wage constraints, if binding, eliminate markdowns. Our research design revisits the 2015 introduction of a high minimum wage in Germany. Drawing on a monopsony model, we derive an empirically tractable difference-in-differences specification that provides a quantitative benchmark for the firm-level markdown response. Our main result is that empirical markdowns respond only 0–25% as much as the monopsony model would have predicted. Hence, at least for the labor market segment we study, (i) markdowns largely reflect other distortions than monopsony, (ii) markdowns are mismeasured, (iii) minimum wages induce widespread labor shortages, or (iv) the standard monopsony model does not provide a full, realistic account of the labor market.</content>
     <link href="https://www.nber.org/papers/w34699"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34686</id>
-    <title>Subcontracting in Federal Spending: Micro and Macro Implications</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Geumbi Park, Xiaoqing Zhou &amp; Sarah Zubairy</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the critical but underexplored role of subcontracting in shaping the spatial and firm-level effects of federal government spending. Using newly available data on defense subcontract awards linked to establishment-level data from NETS, we examine prime–subcontractor relationships across regions, industries, and over time. We document three key facts. First, subcontracting reallocates a substantial share of federal dollars across geographic areas, weakening the link between the location of prime contracts and where spending ultimately occurs. Second, subcontracting shifts spending across industries, notably from service-sector primes to manufacturing subcontractors. Third, large firms dominate subcontracting networks, including by receiving subcontracts from smaller primes. Accounting for geographic reallocation implies that conventional estimates understate local fiscal multipliers by about 20%. Furthermore, local multipliers are smaller for subcontracting than for prime contracting, partly because subcontracted spending is concentrated among large manufacturing firms that exhibit more muted employment responses. Establishment-level evidence further shows that subcontracting generates weaker employment effects, even conditional on firm size and industry, reflecting the less stable nature of subcontracting relationships. Overall, our findings show that subcontracting fundamentally reshapes the transmission of procurement spending through the private sector, with important implications for the local and aggregate effects of federal spending.</content>
-    <link href="https://www.nber.org/papers/w34686"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34588</id>
-    <title>Topography of the FX Derivatives Market: A View from London</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sinem Hacioglu Hoke, Daniel A. Ostry, Hélène Rey, Adrien Rousset Planat, Vania Stavrakeva &amp; Jenny Tang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Drawing on 100 million transactions, we show how speculators, hedgers, and market makers interact in the world’s largest FX derivatives market, and that derivatives trading can affect exchange rates. Firms in the largest client sectors—pension and investment funds, insurers, and nonfinancials—use FX derivatives primarily to hedge currency risk, with dealer banks providing the liquidity. Hedge funds, with comparatively smaller net exposures, trade speculatively, whereas dealer banks insulate themselves from changes in speculative demand by taking offsetting positions with hedgers, especially nonfinancials. Non-bank market makers, instead, take residual exchange-rate exposures “on the margin”. Hedge funds’ speculative flows help transmit monetary policy shocks to exchange rates, while investment funds' unwinding of hedges contribute to dollar appreciations when credit risk rises. Our results highlight that exchange rates depend on the composition of trading activities in FX derivatives markets.</content>
-    <link href="https://www.nber.org/papers/w34588"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34714</id>
-    <title>Measuring Efficiency and Equity Framing in Economics Research: LLM-Based Evidence from 1950 to 2021</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sebastian Galiani, Ramiro H. Gálvez, Franco Mettola La Giglia &amp; Raul A. Sosa</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure how frontier research frames what is normatively at stake along the efficiency and equity dimension. We develop and validate an LLM-based measurement pipeline and apply it to 27,464 full-text journal articles from 1950 to 2021. Efficiency focused framing rises through the late 1980s, then declines as equity related framing expands after 1990, especially in applied work and policy evaluations. By 2021, papers with an equity component are about as common as papers framed purely around efficiency. President transmittal letters in the Economic Report of the President show a similar post 1990 shift toward equity, providing an external benchmark.</content>
-    <link href="https://www.nber.org/papers/w34714"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34712</id>
-    <title>A Model of Artificial Jagged Intelligence</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Generative AI systems often display highly uneven performance across tasks that appear “nearby”: they can be excellent on one prompt and confidently wrong on another with only small changes in wording or context. We call this phenomenon Artificial Jagged Intelligence (AJI). This paper develops a tractable economic model of AJI that treats adoption as an information problem: users care about local reliability, but typically observe only coarse, global quality signals. In a baseline one-dimensional landscape, truth is a rough Brownian process, and the model “knows” scattered points drawn from a Poisson process. The model interpolates optimally, and the local error is measured by posterior variance. We derive an adoption threshold for a blind user, show that experienced errors are amplified by the inspection paradox, and interpret scaling laws as denser coverage that improves average quality without eliminating jaggedness. We then study mastery and calibration: a calibrated user who can condition on local uncertainty enjoys positive expected value even in domains that fail the blind adoption test. Modelling mastery as learning a reliability map via Gaussian process regression yields a learning-rate bound driven by information gain, clarifying when discovering “where the model works” is slow. Finally, we study how scaling interacts with discoverability: when calibrated signals and user mastery accelerate the harvesting of scale improvements, and when opacity can make gains from scaling effectively invisible.</content>
-    <link href="https://www.nber.org/papers/w34712"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34713</id>
-    <title>Teaching Economics to the Machines</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Hui Chen, Yuhan Cheng, Yanchu Liu &amp; Ke Tang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Structural economic models, while parsimonious and interpretable, often exhibit poor data fit and limited forecasting performance. Machine learning models, by contrast, offer substantial flexibility but are prone to overfitting and weak out-of-distribution generalization. We propose a theory-guided transfer learning framework that integrates structural restrictions from economic theory into machine learning models. The approach pre-trains a neural network on synthetic data generated by a structural model and then fine-tunes it using empirical data, allowing potentially misspecified economic restrictions to inform and regularize learning on empirical data. Applied to option pricing, our model substantially outperforms both structural and purely data-driven benchmarks, with especially large gains in small samples, under unstable market conditions, and when model misspecification is limited. Beyond performance, the framework provides diagnostics for improving structural models and introduces a new model-comparison metric based on data-model complementarity.</content>
-    <link href="https://www.nber.org/papers/w34713"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34710</id>
-    <title>FinTech and Customer Capital</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Bianca He, Lauren Mostrom &amp; Amir Sufi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial Technology (“FinTech”) firms invest significantly more in customer capital relative to traditional financial firms, and such investment builds valuable customer capital. Higher investment by FinTech firms is not accounted for by sectoral focus or differences in firm age. Reasons for higher customer capital investment are explored, including the need to build trust with customers, the focus on downstream segments of the financial marketplace, the operation of platform-based business models, and a heavier reliance on valuable customer data.</content>
-    <link href="https://www.nber.org/papers/w34710"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34709</id>
-    <title>AI in Charge: Large-Scale Experimental Evidence on Electric Vehicle Charging Demand</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Robert D. Metcalfe, Andrew Schein, Cohen R. Simpson &amp; Yixin Sun</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One of the promising opportunities offered by AI to support the decarbonization of electricity grids is to align demand with low-carbon supply. We evaluated the effects of one of the world’s largest AI managed EV charging tariffs (a retail electricity pricing plan) using a large-scale natural field experiment. The tariff dynamically controlled vehicle charging to follow real-time wholesale electricity prices and coordinate and optimize charging for the grid and the consumer through AI. We randomized financial incentives to encourage enrollment onto the tariff. Over more than a year, we found that the tariff led to a 42% reduction in household electricity demand during peak hours, with 100% of this demand shifted to lower-cost and lower-carbon-intensity periods. The tariff generated substantial consumer savings, while demonstrating potential to lower producer costs, energy system costs, and carbon emissions through significant load shifting. Overrides of the AI algorithm were low, suggesting that this tariff was likely more efficient than a real-time-pricing tariff without AI, given our theoretical framework. We found similar plug-in and override behavior in several markets, including the UK, US, Germany, and Spain, implying the potential for comparable demand and welfare effects. Our findings highlight the potential for scalable AI managed charging and its substantial welfare gains for the electricity system and society. We also show that experimental estimates differed meaningfully from those obtained via non-randomized difference-in-differences analysis, due to differences in the samples in the two evaluation strategies, although we can reconcile the estimates with observables.</content>
-    <link href="https://www.nber.org/papers/w34709"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
