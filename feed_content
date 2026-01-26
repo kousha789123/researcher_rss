@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-01-26T01:59:45.740601+00:00</updated>
+  <updated>2026-01-26T14:46:33.944449+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -513,18 +513,6 @@
     <published>2026-01-19T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10591478261419269</id>
-    <title>EXPRESS: Intent-Driven Machine Learning for Fake News Detection: A Referential Domain Adaptation Approach</title>
-    <updated>2026-01-19T00:00:00+00:00</updated>
-    <author>
-      <name>Kyuhan Lee, Sudha Ram</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Fake news negatively impacts business operations across various sectors, including healthcare, retail, and finance. One promising way to mitigate this problem is through automated content moderation using machine learning (ML). However, existing methodologies have struggled to identify fake news due to its inherent challenges—namely, class heterogeneity, concept drift, context dependency, and adversarial attacks. To address these challenges, we propose a novel strategy that focuses on the heterogeneous intentions behind fake news. Our approach builds on insights from prior social science research indicating that the intent behind creating fake news may differ from that behind disseminating it. This intent-driven variation influences the syntactic structures of fake news, leading to its heterogeneous nature. Accordingly, we argue that developing an ML model focused on the intent dimension of fake news can help overcome the issue of class heterogeneity, which often prevents effective model convergence. Moreover, since intent-driven linguistic patterns are generally less susceptible to temporal shifts and manipulative alterations, we expect this focus to enhance robustness against the other key challenges—concept drift, context dependency, and adversarial attacks. Grounded in a design science approach, we therefore propose a novel ML framework for fake news detection that centers on identifying and leveraging the intent behind fake news. Specifically, we first develop a domain adaptation model to infer the intent behind fake news, specifically targeting contexts where sufficient training data is unavailable—a common limitation in intent detection. Then, based on the intent detection model, we redefine fake news detection by shifting from binary (fake vs. true) to ternary classification (deceptive fake news vs. non-deceptive fake news vs. true news), thereby reducing the computational burden on ML models tasked with processing heterogeneous information within the fake news category. When evaluated against state-of-the-art baselines, our approach demonstrated significant improvements in both intent detection and fake news classification. Robustness checks further demonstrate that our method is less sensitive to distributional shifts in data and is more computationally efficient than baselines. Moreover, post-hoc analyses reveal the underlying mechanisms through which incorporating intent into fake news detection enhances model performance, addressing the key challenges associated with fake news.</content>
-    <link href="https://doi.org/10.1177/10591478261419269"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-01-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/10591478261419268</id>
     <title>EXPRESS: Experiences, Experience Gaps, and the Moderating Role of Technology Co-Development in Biotech-Pharma Partnerships</title>
     <updated>2026-01-19T00:00:00+00:00</updated>
@@ -533,6 +521,18 @@
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In the life sciences industry, pharmaceutical firms often collaborate with biotechnology firms to access technological expertise and R&amp;D capabilities, enabling them to accelerate innovation and bring products to market more effectively. In this study, we examine the collaboration experiences of biotechnology startups and pharmaceutical firms in 287 biotech-pharma partnerships and analyze how firms’ experience impacts the likelihood of product commercialization. Experience is defined as the number of times each firm has participated in supply-based activities in biotech-pharma partnerships. We also conjecture that products developed through biotech-pharma partnerships are more likely to progress toward commercialization if both firms have similar levels of experience. However, when the partnering firms’ experience gap increases and they collaborate to develop the product jointly, we expect progress toward commercialization to become less likely. Our results show that both the biotechnology startup’s experience and the pharmaceutical firm’s experience increase the likelihood of progression toward commercialization. Our results also confirm that co-development moderates the relationship between experience gaps and the progression toward commercialization. Based on our findings, partnering experience and experience gaps are critical considerations as pharmaceutical firms engage in co-development projects with biotechnology startups. By focusing on partnering experience, our study contributes to the technology management literature and research on interfirm partnerships specifically in the biotechnology and pharmaceutical industries.</content>
     <link href="https://doi.org/10.1177/10591478261419268"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261419269</id>
+    <title>EXPRESS: Intent-Driven Machine Learning for Fake News Detection: A Referential Domain Adaptation Approach</title>
+    <updated>2026-01-19T00:00:00+00:00</updated>
+    <author>
+      <name>Kyuhan Lee, Sudha Ram</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Fake news negatively impacts business operations across various sectors, including healthcare, retail, and finance. One promising way to mitigate this problem is through automated content moderation using machine learning (ML). However, existing methodologies have struggled to identify fake news due to its inherent challenges—namely, class heterogeneity, concept drift, context dependency, and adversarial attacks. To address these challenges, we propose a novel strategy that focuses on the heterogeneous intentions behind fake news. Our approach builds on insights from prior social science research indicating that the intent behind creating fake news may differ from that behind disseminating it. This intent-driven variation influences the syntactic structures of fake news, leading to its heterogeneous nature. Accordingly, we argue that developing an ML model focused on the intent dimension of fake news can help overcome the issue of class heterogeneity, which often prevents effective model convergence. Moreover, since intent-driven linguistic patterns are generally less susceptible to temporal shifts and manipulative alterations, we expect this focus to enhance robustness against the other key challenges—concept drift, context dependency, and adversarial attacks. Grounded in a design science approach, we therefore propose a novel ML framework for fake news detection that centers on identifying and leveraging the intent behind fake news. Specifically, we first develop a domain adaptation model to infer the intent behind fake news, specifically targeting contexts where sufficient training data is unavailable—a common limitation in intent detection. Then, based on the intent detection model, we redefine fake news detection by shifting from binary (fake vs. true) to ternary classification (deceptive fake news vs. non-deceptive fake news vs. true news), thereby reducing the computational burden on ML models tasked with processing heterogeneous information within the fake news category. When evaluated against state-of-the-art baselines, our approach demonstrated significant improvements in both intent detection and fake news classification. Robustness checks further demonstrate that our method is less sensitive to distributional shifts in data and is more computationally efficient than baselines. Moreover, post-hoc analyses reveal the underlying mechanisms through which incorporating intent into fake news detection enhances model performance, addressing the key challenges associated with fake news.</content>
+    <link href="https://doi.org/10.1177/10591478261419269"/>
     <category term="Production and Operations Management"/>
     <published>2026-01-19T00:00:00+00:00</published>
   </entry>
@@ -955,66 +955,6 @@
     <link href="https://doi.org/10.1093/rfs/hhag005"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-01-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2024.18504</id>
-    <title>Bending Without Breaking: How Chinese Patent Examiners Navigate Value Tensions</title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <author>
-      <name>Qinyu (Ryan) Wang, Yanfeng Zheng</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Professionals increasingly work within commercial and governmental organizations whose mandates often create tensions with their professional values. Prior research, however, shows mixed findings regarding how professionals respond to these value tensions, with some values being protected and others being compromised. We explore this inconsistency by investigating how Chinese patent examiners navigate tensions between their professional values and governmental pressures to promote domestic strategic innovation under the Made in China 2025 policy. Using a mixed-methods approach that combines qualitative interviews with 27 Chinese patent examiners and quantitative analyses of nearly 1 million patents reviewed by 10,304 examiners, we develop a hierarchical framework of professional values. We find that examiners perceive their values hierarchically, distinguishing between core identity-defining values and subordinate operational values. Under external pressures, they attempt to protect their core value of judgmental fairness while absorbing the pressures by compromising their subordinate value of diagnosing diligence. Professional interactions with foreign examiners and experienced patent agents mitigate this compromise by anchoring examiners’ attention to the operational details where diagnosing diligence is embedded. Moreover, our quantitative analyses reveal that compromised diagnosing diligence ultimately undermines judgmental fairness due to interdependence within the value hierarchy. Our study advances the understanding of professional value dynamics under external pressures and provides insights into how experts balance their professional ideals with institutional mandates.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.18504 .</content>
-    <link href="https://doi.org/10.1287/orsc.2024.18504"/>
-    <category term="Organization Science"/>
-    <published>2026-01-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2020.0781</id>
-    <title>Revenue Maximization and Learning in Product Ranking</title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <author>
-      <name>Ningyuan Chen, Anran Li, Shuoguang Yang</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;The Price of Attention: Ranking Products for Maximum RevenueHow should an online retailer rank products when customers have limited attention spans? Chen, Li, and Yang tackle this classic problem by extending the well-known cascade model to account for two crucial, real-world factors: customers view only a random number of items, and the firm’s goal is to maximize revenue, not just clicks. This creates a difficult trade-off between ranking popular, low-price items and riskier, high-price ones. The authors propose the “Best-x” algorithm, an efficient method for finding a near-optimal ranking. They prove it guarantees a revenue of at least 1/e (approximately 37%) of that achievable by a clairvoyant who knows each customer’s attention span in advance. For cases where product attractiveness and attention distributions are unknown, the authors also devise the RankUCB online learning algorithm, which learns personalized rankings from customer interactions and achieves near-optimal performance over time.</content>
-    <link href="https://doi.org/10.1287/opre.2020.0781"/>
-    <category term="Operations Research"/>
-    <published>2026-01-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2025.0159</id>
-    <title>Is Competition Only One Click Away? The Digital Markets Act’s Impact on Google Maps</title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <author>
-      <name>Louis-Daniel Pape, Michelangelo Rossi</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;European Union-mandated changes to Google results increased map-related searches but produced little traffic gain for competitors, underscoring Google Maps’ dominance.</content>
-    <link href="https://doi.org/10.1287/mksc.2025.0159"/>
-    <category term="Marketing Science"/>
-    <published>2026-01-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.09124</id>
-    <title>The ESG-Innovation Disconnect: Evidence from Green Patenting</title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <author>
-      <name>Lauren H. Cohen, Umit G. Gurun, Quoc H. Nguyen</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We document that traditional energy firms are key innovators in the United States’ green patent landscape. These firms produce more, and significantly higher-quality, green innovation. In many green technology spaces, they appear to be influential first movers and to produce ongoing foundational aspects of innovation and commercialization on which other alternative energy producers build. They additionally invest significantly in labor and capital to complement these green innovations. These traditional energy firms, however, receive significantly lower environmental, social, and governance (ESG) scores and fund flows and are not rewarded for incremental green innovation. This behavior is consistent with a competitive response by traditional energy firms to preempt obsolescence of current technology by investing in future replacement technologies.This paper was accepted by Bo Becker, finance.Funding: Funding was provided by the National Science Foundation [Grant SciSIP 1535813] and the Fordham University Gabelli School of Business—PVH Corp. Global Thought Leadership Grant on Corporate Social Responsibility.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09124 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.09124"/>
-    <category term="Management Science"/>
-    <published>2026-01-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/jcpy.70018</id>
-    <title>Patience as a pathway to optimal consumer experience and behavior</title>
-    <updated>2026-01-05T00:00:00+00:00</updated>
-    <author>
-      <name>Kate Sweeny</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Patience has been a consistent source of interest and inspiration for generations of thinkers and writers. In this article, I delineate the tenets of a comprehensive framework for understanding patience, theprocess model of patience(Sweeny,Personality and Social Psychology Review, 2025, 29, 145), that positions impatience as a common and unpleasant emotion and patience as a targeted form of emotion regulation. I then outline potential applications of the model for consumer decisions, service experiences, and marketing contexts and close with practical recommendations to optimize consumer behavior in contexts where impatience is likely to arise.</content>
-    <link href="https://doi.org/10.1002/jcpy.70018"/>
-    <category term="Journal of Consumer Psychology"/>
-    <published>2026-01-05T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261415690</id>
