@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-01-27T00:57:43.896682+00:00</updated>
+  <updated>2026-01-27T13:52:40.033780+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -981,78 +981,6 @@
     <link href="https://doi.org/10.1177/00222429261421488"/>
     <category term="Journal of Marketing"/>
     <published>2026-01-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261415690</id>
-    <title>EXPRESS: Sequential Sponsored-Products and Off-Amazon Advertising Optimization for Etailers</title>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <author>
-      <name>Yina Ning, Yangyang Xie, Houmin Yan</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Sponsored-Products (SP) advertising is a popular way to promote products on Amazon. Etailers who have a large catalog of products often create SP ad groups for products with similar attributes. An SP ad group consists of a set of products and a set of keywords, and all the products in the ad group share the same keyword set. These keywords are the ones that shoppers may search for when looking for products on Amazon. In addition to SP ads, etailers may link to external websites for advertising their products, which is called off-Amazon (OA) ads. This study focuses on the optimization of sequential SP and OA (abbreviated as SSPOA) ads decisions for etailers. Practically, many etailers set sales targets for products as manufacturing and logistics are planned ahead of time. Hence, we consider the etailer’s objective as minimizing the expected long-run average cost incurred by advertising and cumulative unmet sales target. We model the SSPOA optimization as a controlled Markovian multi-armed bandit (MAB) process. When the mean of the sales number per unit time (i.e., sales rate) for each product is known, we characterize the etailer’s optimal SSPOA policy for products in an ad group. In reality, etailers may not know the exact means of sales rates. To learn the unknown parameters while simultaneously minimizing the long-run average cost, we develop a Thompson-sampling-based algorithm for the controlled Markovian MAB problem that couples the SP and OA ads decisions. We prove that the regret bound of the proposed algorithm isO~(T), whereTis the total horizon length. Compared with existing literature, our problem additionally considers the regret from applying the estimated control policy and the impacts of choosing non-optimal keyword sets on subsequent states. We also conduct numerical experiments that validate our theoretical results. Moreover, we extend the base model in several directions, i.e., considering unknown transition rates between different sales rate levels, incorporating correlated keyword sets, and learning the optimal policy using Posterior Sampling for Reinforcement Learning under a discretized setting.</content>
-    <link href="https://doi.org/10.1177/10591478261415690"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-01-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261415704</id>
-    <title>EXPRESS: Street Orders as an Outside Option: Incentives and Information Disclosure of Taxi-Hailing Platforms</title>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <author>
-      <name>Baolong Liu, Rowan Wang, Xuege Wang, Lina Bao</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Taxi drivers face tremendous market competition pressure in the private transport industry after independent contractor drivers (i.e., on-demand ride-hailing vehicles) entered the field, in the era of sharing economy. Taxi drivers have to go online and join platforms to secure demand. However, while ride-hailing drivers have platform orders as the only source of demand, taxi drivers can serve both platform andstreet orders(i.e., people waving on the roadside or waiting at taxi stands), and switch between the two on a real-time basis. The existence of street orders as anoutside optioncreates a decision problem for taxi drivers (i.e., which orders to pick) and forces platforms to carefullydesign incentives(e.g., commission and subsidy schemes) to attract taxi drivers in order to maximize profit. More interestingly, in common practices, platforms do not disclose trip destinations to ride-hailing drivers before customers get on board, to prevent cherry-picking behaviors (i.e., drivers only pick their preferred orders, for example, long-distance ones). However, many platforms provide trip information to taxi drivers in advance, as an incentive to compete against street order opportunities. Thus,taxi drivers need to choose between platform orders with trip information but also pick-up time (i.e., the unpaid driving duration to pick up customers) and street orders without trip information but zero pick-up time.This paper studies how a taxi driver should choose between platform and street orders, and how the platform should design incentives to attract taxi drivers in order to maximize profit. To this end, we build a game-theoretical model and derive optimal strategies. We find that it is optimal for the platform to allow drivers to serve both platform and street orders, rather than incentivizing exclusive service to platform. Since street orders exist as an outside option and protect drivers’ surplus, the platform’s profit will be limited if exclusivity is enforced. In addition, the disclosure of trip distance reduces the subsidy burden on the platform, compared to non-disclosure. Later in the paper, we also check the robustness of our findings under various settings, including homogeneous orders, zero commission and subsidy, distance-based subsidy scheme, and heterogeneous pick-up times.</content>
-    <link href="https://doi.org/10.1177/10591478261415704"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-01-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261416189</id>
-    <title>EXPRESS: The Implications of Retail Trade-ins on Sales, Returns, and Profitability: An Empirical Analysis of a Jewelry Trade-in Program</title>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <author>
-      <name>Necati Ertekin, Atalay Atasu, Vishal V. Agrawal</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Most retailers offer trade-in programs that allow customers not only to trade-in a used product in part payment for the purchase of a new one, but also to return the new product purchased via a trade-in. In this context, we study how a jewelry trade-in program affects sales and returns of trade-in eligible vs. ineligible new products, and how such programs can be better designed to improve profitability. We conduct an empirical analysis using data from a national jewelry retailer that increased the number of stores offering the trade-in program. Leveraging this expansion, we show that the trade-in program impacts sales and return rates, and find that this impact substantially differs across trade-in eligible vs. ineligible products. For trade-in eligible products, sales increase by 11.4%, and so do return rates - by 4.3 percentage points. For trade-in ineligible products, sales increase by 2.7% and there is no impact on return rates. The provision of a trade-in option reveals a novel trade-off for retailers: it leads to higher sales, but also results in greater returns, which can be detrimental to profitability. Retailers therefore need to carefully assess this trade-off to manage trade-in eligibility of different products. A counterfactual analysis suggests that a selective trade-in program accounting for this trade-off can enhance program profitability by 19%.</content>
-    <link href="https://doi.org/10.1177/10591478261416189"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-01-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.2046</id>
-    <title>Platform Disintermediation: Information Effects and Pricing Remedies</title>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <author>
-      <name>Shreyas Sekar, Auyon Siddiq</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Platform Disintermediation: Information Effects and Pricing RemediesIn “Platform Disintermediation: Information Effects and Pricing Remedies,” S. Sekar and A. Siddiq analyze how platforms use pricing and informational levers to combat disintermediation, where sellers transact off-platform to avoid commission fees despite losing payment protection. The authors find that a platform facing a high threat of disintermediation may optimally raise its commission rates in a high-information environment, prioritizing revenue maximization from remaining secure transactions rather than preventing all off-platform transactions. Furthermore, they show that increasing sellers’ switching costs may actually reduce platform revenue by enabling sellers to pass the cost onto on-platform buyers via higher prices. The analysis also demonstrates that a platform can benefit from providing a partially informative signal about buyer riskiness, as full information reduces the value of the platform’s protection and strengthens the disintermediation incentive. Finally, whereas access-based pricing (upfront fees) prevents disintermediation, it may yield less revenue than commissions when seller quality is highly heterogeneous.</content>
-    <link href="https://doi.org/10.1287/opre.2025.2046"/>
-    <category term="Operations Research"/>
-    <published>2026-01-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/joom.70031</id>
-    <title>How Do Technology Paradigms Influence Configurations of Contract Characteristics for Success of Inter‐Organizational Outsourcing Projects, 1991–2009?</title>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <author>
-      <name>Onkar S. Malgonde, Moez Farokhnia Hamedani, Sunil Mithas, Manish Agrawal, Kaushal Chari</name>
-    </author>
-    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;What are the distinct configurations of contract characteristics associated with the success of inter‐organizational outsourcing projects across different technology paradigms? We examine information technology outsourcing contracts between 1991 and 2009 to address this question by using a relatively new approach based on qualitative comparative analysis. We consider four technology paradigms: pre‐Internet (1991–1996), pre‐Dotcom (1997–2000), post‐Dotcom (2001–2005), and Cloud Computing (2006–2009). We discuss issues related to adverse selection and moral hazard and identify five key contract characteristics that determine contract success: new contract, existing organizational relationship, long contract duration, fixed price, and competitive bidding. Our analyses document two key findings. First, we show that configurations of contract characteristics for success and failure of outsourcing projects are different across technology paradigms. Second, we identify three themes in configurations associated with outsourcing success—economic imperative, conservative relational, and conservative imperative. These themes extend prior work that draws on transaction cost economics, social exchange theory, and relational exchange theory and identify an increasing emphasis on the relational component to manage contracting risk for outsourcing success over time. From a managerial perspective, we provide context‐sensitive causal recipes to choose configurations of contract characteristics, considering technology paradigms. Together, our findings provide new insights for developing cumulative knowledge for understanding the determinants of success of interorganizational outsourcing projects while opening new avenues for further theorizing and empirical testing.</content>
-    <link href="https://doi.org/10.1002/joom.70031"/>
-    <category term="Journal of Operations Management"/>
-    <published>2026-01-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70014</id>
-    <title>Default Risk and the Pricing of U.S. Sovereign Bonds</title>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <author>
-      <name>ROBERT F. DITTMAR, ALEX HSU, GUILLAUME ROUSSELLET, PETER SIMASEK</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We examine the relative pricing of nominal Treasury bonds and Treasury inflation‐protected securities in the presence of U.S. default risk. Hedged breakeven inflation is significantly positively related to U.S. default risk, driven by correlation between shocks to default risk and both shocks to inflation swap premia and Treasury yields. To understand the mechanisms through which default risk is related to inflation swaps and sovereign yields, we estimate an affine term structure model to capture their joint dynamics. Our estimation implies that the interaction between inflation dynamics and default is the primary source of differential pricing.</content>
-    <link href="https://doi.org/10.1111/jofi.70014"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-01-06T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/orsc.2024.18538</id>
