@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-01-27T13:53:21.673610+00:00</updated>
+  <updated>2026-01-28T13:52:50.028061+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
   <entry>
-    <id>https://www.nber.org/papers/w34607</id>
-    <title>One Instrument, Many Treatments: Instrumental Variables Identification of Multiple Causal Effects</title>
+    <id>https://www.nber.org/papers/w34628</id>
+    <title>A Unified Theory of Delegated Capital Management</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Joshua Angrist, Andres Santos &amp; Otávio Tecchio</name>
+      <name>Jonathan B. Berk &amp; Peter M. DeMarzo</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many instrumental variables applications specify a single Bernoulli treatment. But instruments may change outcomes through multiple pathways or by varying treatment intensity. Lottery instruments that boost charter school enrollment, for instance, may affect outcomes by lengthening time enrolled in a charter school and by moving students between charter schools of different types. We analyze the identification problem such scenarios present in a framework that generalizes the always-taker/never-taker/complier partition of treatment response types to cover a wide range of multinomial and ordered treatments with heterogenous potential outcomes. This framework yields novel estimators in which a single randomly assigned instrument identifies (i) causal effects averaged over complier types and (ii) a causal conditional expectation function that captures effects for each element in a set of response types. Three empirical applications demonstrate the utility of these results. The first extends an earlier analysis of the Head Start Impact Study allowing for multiple fallbacks. The second examines two causal channels for the impact of post-secondary financial aid on degree completion. The third estimates effects of additional births (an ordered treatment) on mothers’ earnings.</content>
-    <link href="https://www.nber.org/papers/w34607"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a unified theory of delegated capital management by extending the paradigm of Berk and Green (2004)  from mutual funds to alternative assets. With competitive markets and rational investors, we derive the optimal contract and account for observed regularities --- performance fees, persistent alpha, and limits on capital. The key distinction between mutual funds and alternatives is the liquidity of the underlying assets. When assets are illiquid, it is optimal to acquire information about the manager's skill. A positive alpha is therefore necessary to compensate informed investors and a performance based contract is required to induce these investors to allocate their capital optimally. At the same time, a free-rider problem emerges that requires capital constraints on uninformed investors. Thus, liquidity of the underlying assets explains the contrasting contract structures across sectors.</content>
+    <link href="https://www.nber.org/papers/w34628"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
@@ -379,6 +379,18 @@
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34699</id>
+    <title>Monopsony, Markdowns, and Minimum Wages</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ester Faia, Benjamin Lochner &amp; Benjamin Schoefer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents the first direct test of two interlinked predictions at the core of the monopsony theory of the labor market: (i) that firms exploit wage-setting power by marking down wages below the marginal revenue product of labor, and (ii) that exogenous wage constraints, if binding, eliminate markdowns. Our research design revisits the 2015 introduction of a high minimum wage in Germany. Drawing on a monopsony model, we derive an empirically tractable difference-in-differences specification that provides a quantitative benchmark for the firm-level markdown response. Our main result is that empirical markdowns respond only 0–25% as much as the monopsony model would have predicted. Hence, at least for the labor market segment we study, (i) markdowns largely reflect other distortions than monopsony, (ii) markdowns are mismeasured, (iii) minimum wages induce widespread labor shortages, or (iv) the standard monopsony model does not provide a full, realistic account of the labor market.</content>
+    <link href="https://www.nber.org/papers/w34699"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34714</id>
     <title>Measuring Efficiency and Equity Framing in Economics Research: LLM-Based Evidence from 1950 to 2021</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -727,18 +739,6 @@
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34699</id>
-    <title>Monopsony, Markdowns, and Minimum Wages</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ester Faia, Benjamin Lochner &amp; Benjamin Schoefer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents the first direct test of two interlinked predictions at the core of the monopsony theory of the labor market: (i) that firms exploit wage-setting power by marking down wages below the marginal revenue product of labor, and (ii) that exogenous wage constraints, if binding, eliminate markdowns. Our research design revisits the 2015 introduction of a high minimum wage in Germany. Drawing on a monopsony model, we derive an empirically tractable difference-in-differences specification that provides a quantitative benchmark for the firm-level markdown response. Our main result is that empirical markdowns respond only 0–25% as much as the monopsony model would have predicted. Hence, at least for the labor market segment we study, (i) markdowns largely reflect other distortions than monopsony, (ii) markdowns are mismeasured, (iii) minimum wages induce widespread labor shortages, or (iv) the standard monopsony model does not provide a full, realistic account of the labor market.</content>
-    <link href="https://www.nber.org/papers/w34699"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34686</id>
     <title>Subcontracting in Federal Spending: Micro and Macro Implications</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -759,18 +759,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Drawing on 100 million transactions, we show how speculators, hedgers, and market makers interact in the world’s largest FX derivatives market, and that derivatives trading can affect exchange rates. Firms in the largest client sectors—pension and investment funds, insurers, and nonfinancials—use FX derivatives primarily to hedge currency risk, with dealer banks providing the liquidity. Hedge funds, with comparatively smaller net exposures, trade speculatively, whereas dealer banks insulate themselves from changes in speculative demand by taking offsetting positions with hedgers, especially nonfinancials. Non-bank market makers, instead, take residual exchange-rate exposures “on the margin”. Hedge funds’ speculative flows help transmit monetary policy shocks to exchange rates, while investment funds' unwinding of hedges contribute to dollar appreciations when credit risk rises. Our results highlight that exchange rates depend on the composition of trading activities in FX derivatives markets.</content>
     <link href="https://www.nber.org/papers/w34588"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34737</id>
-    <title>Measuring the Growth of Skills</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>James J. Heckman, Haihan Tian, Zijian Zhang &amp; Jin Zhou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper discusses a fundamental problem in measuring the growth of knowledge and comparing the skills of people. New skills emerge that are not just more of the previously acquired skills. Psychometric convention forces these skills into arbitrarily constructed scales, which can severely distort measurement. To formally address this problem, we measure skills using a novel measurement scheme, estimate a stochastic learning process and reject the common scale assumption across levels for language and cognitive skills. Furthermore, we estimate dynamic complementarity without imposing arbitrary scales for skills.</content>
-    <link href="https://www.nber.org/papers/w34737"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
@@ -915,6 +903,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study asymmetric information about the social cost of an externality, as opposed to asymmetric information about private costs of abatement. I show that quantity regulation with bankable permits has an informational advantage because the permit market aggregates dispersed information about social costs. It has the disadvantage of making private costs more uncertain ex ante. I analytically derive the expression for the (dis)advantage of prices over quantities in this setting. I show that a quantity policy can dominate a price policy for any slope of marginal private costs and always dominates when marginal private costs are sufficiently flat.</content>
     <link href="https://www.nber.org/papers/w34738"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34737</id>
+    <title>Measuring the Growth of Skills</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>James J. Heckman, Haihan Tian, Zijian Zhang &amp; Jin Zhou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper discusses a fundamental problem in measuring the growth of knowledge and comparing the skills of people. New skills emerge that are not just more of the previously acquired skills. Psychometric convention forces these skills into arbitrarily constructed scales, which can severely distort measurement. To formally address this problem, we measure skills using a novel measurement scheme, estimate a stochastic learning process and reject the common scale assumption across levels for language and cognitive skills. Furthermore, we estimate dynamic complementarity without imposing arbitrary scales for skills.</content>
+    <link href="https://www.nber.org/papers/w34737"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
