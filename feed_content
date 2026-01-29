@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-01-28T23:42:00.822949+00:00</updated>
+  <updated>2026-01-29T13:52:33.224463+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1176,6 +1176,18 @@
     <published>2026-01-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/sej.70012</id>
+    <title>Strategic framing of novel ideas: How contestation shapes the evolution of novelty</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
+    <author>
+      <name>Janina Klein, Elco van Burg, Christine Moser</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Entrepreneurs use strategic framing to gain support for their novel ventures, products, and services. A key challenge entrepreneurs face is that audiences often contest frames that introduce novel ideas, especially when these ideas disrupt audiences' mental and business models. Such contestation can hinder novel ideas from being accepted, a risk that is amplified when entrepreneurs face contestation from multiple audiences. We lack understanding, however, of how contestation from multiple audiences shapes the strategic framing of novel ideas. We study this question at Tony's Chocolonely, a social enterprise that faced such contestation when introducing “slave‐free” chocolate. By showing how the social enterprise reacted to contestation from multiple audiences in different ways, we uncover novel mechanisms of frame change and stability.Managerial SummaryEntrepreneurs use strategic framing to gain support for their novel ideas, products, and services. In so doing, they must navigate resistance from different audiences, especially when entrepreneurs introduce novel ideas that disrupt the status quo. Audience resistance can hinder novel ideas from gaining momentum. We do not know, however, how entrepreneurs can navigate resistance from multiple audiences. Our study examines how Tony's Chocolonely, a social enterprise fighting child labor in the chocolate industry, navigated resistance against its “slave‐free” chocolate from diverse audiences. Our study reveals novel insights into how audience resistance shapes entrepreneurs' strategic framing of novel ideas.</content>
+    <link href="https://doi.org/10.1002/sej.70012"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-01-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/rfs/hhag004</id>
     <title>Is Fraud Contagious? Social Connections and the Looting of COVID Relief Programs</title>
     <updated>2026-01-28T00:00:00+00:00</updated>
@@ -1188,88 +1200,52 @@
     <published>2026-01-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/smj.70045</id>
-    <title>How to grow new applications out of old research? Evidence from firm cumulative investments in deep learning</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/opre.2025.1662</id>
+    <title>Convergence and Inference of Stream Stochastic Gradient Descent, with Applications to Queueing Systems and Inventory Control</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
     <author>
-      <name>Xirong (Subrina) Shen</name>
+      <name>Xiang Li, Jiadong Liang, Xinyun Chen, Zhihua Zhang</name>
     </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Firm technological research has the potential to spawn multiple applications. Despite recognizing such potential, past literature disagrees on the process through which firms discover and grow new applications out of their past technological research. I examine this question in the context of deep learning, taking a question‐driven approach. Difference‐in‐difference analysis suggests that firms radically increased cumulative investments in past deep learning research upon signals indicating elevated application potential of deep learning. Furthermore, rather than investing in proprietary efforts, firms disclosed their cumulative development trajectories to engage external innovation efforts from which they learn and build. Grounded in these findings, I propose that the discovery and growth of new applications of past research entailsunfolding innovation interdependencewhich motivates firms to co‐evolve with external innovators.Managerial SummaryFirm technological research has the potential to spawn multiple applications. This article examines how firms cumulatively invest in their past technological research to grow new applications in the context of deep learning. Employing a difference‐in‐difference approach, analysis suggests that firms radically increased cumulative investments in deep learning after a shock elevating the application potential of their past deep‐learning research. Furthermore, firms publicly disclosed their cumulative development trajectories to attract innovation efforts from application sectors while actively learning from the attracted efforts to innovate further. These findings suggest that firms engaged, leveraged and co‐evolved with external innovation efforts to discover and grow new applications of their past research.</content>
-    <link href="https://doi.org/10.1002/smj.70045"/>
-    <category term="Strategic Management Journal"/>
-    <published>2026-01-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Stream SGD: Fast Learning and Valid Inference from Dependent DataMany online optimization problems in operations research rely on data generated by Markovian systems whose dynamics depend on the decision parameters, creating both statistical dependence and biased gradient information. This paper, “Convergence and Inference of Stream Stochastic Gradient Descent, with Applications to Queueing Systems and Inventory Control,” develops a unified theory for stream stochastic gradient descent (SGD), a sample-efficient method that uses just one observation per iteration. Using Poisson-equation techniques, the authors quantify and control gradient bias and dependence, proving an optimal [Formula: see text] convergence rate and a state-of-the-art O(log T) regret bound. Beyond optimization performance, the paper introduces an online inference framework for uncertainty quantification and establishes a functional central limit theorem that underpins valid asymptotic inference. A new Wasserstein-type divergence yields verifiable conditions via coupling arguments tailored to operations research models. Applications to queueing and inventory problems demonstrate how the theory translates into practical, scalable algorithms.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1662"/>
+    <category term="Operations Research"/>
+    <published>2026-01-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/qje/qjaf057</id>
-    <title>Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70068</id>
+    <title>The Ebbs and Flows of Reputation as Meaningful Signals: Market Reactions to Firms’ Reputation Instability</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
     <author>
-      <name>Raj Chetty, Will Dobbie, Benjamin Goldman, Sonya R Porter, Crystal S Yang</name>
+      <name>Huy Will Nguyen, Rui Jiang, Zhiang (John) Lin</name>
     </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We show that intergenerational mobility changed rapidly by race and class in recent decades in the U.S. and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (“class”) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for non-monetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, within local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.</content>
-    <link href="https://doi.org/10.1093/qje/qjaf057"/>
-    <category term="The Quarterly Journal of Economics"/>
-    <published>2026-01-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;While prior studies typically treat firm reputation as a stable, intangible resource reflecting cumulative competence, we extend a socio‐constructionist perspective by shifting the focus toreputation instability– erratic fluctuations in a firm’s reputation over time relative to its industry peers. We argue that reputation instability functions as a distinct and often overlooked market signal by introducing ambiguities that influence investor valuation of a firm in a stock market context. Crucially, the impact of reputation instability is further shaped by contextual cues that anchor investor expectations. A firm’scurrent reputationandindustry dynamismcondition how instability may be regarded, either as a warning sign or a potential indication of improvement. Using panel data across four major US industry groups over 21 years, we find evidence consistent with our theoretical framework and identify critical boundary conditions under which reputation instability is penalized or rewarded by the market. By reframing reputation as a dynamic and unstable construct, our study advances theory on reputation signals, offering novel insights into how reputational temporal dynamics – not just established levels – shape firms’ market outcomes.</content>
+    <link href="https://doi.org/10.1111/joms.70068"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-01-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2022.16528</id>
-    <title>Dual Demands, Attention, and Organizational Learning: Spatial and Temporal Replication of Routines in Scaling Organizations</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1057/s41267-025-00817-8</id>
+    <title>Trapped in the MNE matrix: liminal identity at the local–corporate–global nexus</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
     <author>
-      <name>Dimo Ringov, Aman Asija, John Joseph, Gabriel Szulanski</name>
+      <name>Kieran M. Conroy, David G. Collings</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;The replication of routines is fundamental to knowledge transfer and retention in organizations. Because research on routine replication has historically been divided, proceeding within knowledge transfer (spatial replication) or knowledge retention (temporal replication), respectively, our understanding of how replicating routines in new organizational units (knowledge transfer) affects an organization’s capacity to maintain adherence to those routines over time at existing units (knowledge retention) remains limited. Drawing on the organizational learning and related evolutionary economics literature on routines as well as the multiple goals literature and using data on a Fortune 100 franchise chain being scaled in the United States with thousands of outlets opened over a period of 10 years, we examine whether and how knowledge transfer affects knowledge retention. Our primary thesis is that knowledge transfer and knowledge retention create competing demands for limited attention and therefore the need to allocate attention between them. We posit that this gives rise to a negative relationship between the spatial (knowledge transfer) and temporal (knowledge retention) replication of routines, although the effect can be mitigated by organizational learning from experience. We find robust empirical support for our propositions, pointing to important attention and learning mechanisms that shape the organizational capacity to simultaneously navigate knowledge transfer and retention demands, that is, replicate routines across both space and time.Funding: This work was supported by Project PID2024-160548NB-I00 funded by MICIU/AEI /10.13039/501100011033 and by FEDER, EU as well as by by Fundação para a Ciência e a Tecnologia [UID/00124/2025, UID/PRR/124/2025, Nova School of Business and Economics] and LISBOA2030 [DataLab2030 - LISBOA2030-FEDER 01314200].Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2022.16528 .</content>
-    <link href="https://doi.org/10.1287/orsc.2022.16528"/>
-    <category term="Organization Science"/>
-    <published>2026-01-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Managers’ identities in large matrixed MNE structures are complex and pliable. While research has examined the identities of individual actors located in headquarters (HQ) or local subsidiaries, the unique identity challenges faced by those operating outside these conventional units are less predictable. Our study explores how managers experience and manage a ‘liminal identity’—feeling ‘betwixt and between’ multiple identity positions. Focusing on US MNEs in the life sciences sector, we interviewed managers who assumed global responsibilities from corporate HQ while remaining situated in their local (Irish) subsidiary. We find that operating between corporate HQ, a global network, and the local subsidiary forged a liminal identity. Straddling this local–corporate–global nexus was a profoundly ambiguous, precarious, and destabilizing experience. Yet, individuals also sought to leverage their liminal identity by adopting multiple identities, depending on the audience. This involved ‘switching’ between renouncing a local identity, assimilating a corporate identity and co-constructing a global identity. However, this produced an intense identity struggle, eroding a clear sense of self and belonging. Our study cautions firms to be attentive when supporting managers in these ‘in-between’ spaces to avoid the trap of ‘identity limbo’, where individuals risk becoming disconnected and isolated.</content>
+    <link href="https://doi.org/10.1057/s41267-025-00817-8"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-01-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19399</id>
-    <title>Roadmap or Compass? The Value of Prior Collaborative Experience in an Unfamiliar Task Environment</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/jcpy.70016</id>
+    <title>From decision patience to process patience: A decision–process integration of the choice to wait and the experience of waiting</title>
+    <updated>2026-01-28T00:00:00+00:00</updated>
     <author>
-      <name>Julien Clement, Sarath Balachandran</name>
+      <name>Selin A. Malkoc</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;When a temporary team faces an unfamiliar task environment, it should particularly benefit from including members who have collaborated before. Although several studies have made this prediction, it has not been supported empirically. We reconcile this discrepancy by distinguishing between prior collaborations in tightly versus loosely coupled roles, defined by the degree of interdependence among collaborators during prior work. Both forms of prior collaboration can help teammates communicate effectively, aiding team adaptation in new contexts. However, prior collaboration in tightly coupled roles also fosters shared routines that may create inertia and impede adaptation. As a result, we argue that the value of tightly coupled experience declines in unfamiliar environments, whereas the value of loosely coupled experience increases. We test these ideas using data from esports, where professional players with varying collaborative histories are randomly assigned to temporary teams. Unanticipated changes to the game exogenously alter teams’ familiarity with their task environments. Consistent with our theory, we find that tightly coupled collaborative experience enhances team performance in familiar task environments but degrades it in unfamiliar ones. Loosely coupled experience provides modest benefits in familiar environments but substantially enhances performance in unfamiliar ones. Overall, our findings suggest that when environments change, tightly coupled experience can act as a faulty roadmap—anchoring teams to outdated routines—whereas loosely coupled experience can serve as a compass that promotes coordination and adaptation.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19399 .</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19399"/>
-    <category term="Organization Science"/>
-    <published>2026-01-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70008</id>
-    <title>Corporate ESG Profiles and Investor Horizons</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
-    <author>
-      <name>LAURA T. STARKS, PARTH VENKAT, QIFEI ZHU</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We find that long‐term institutional investors tilt their portfolios toward firms with better Environmental, Social, and Governance (ESG) profiles, in the cross sections of both institutional investor portfolios and the ownership of firms. We test whether several theoretically motivated mechanisms can explain this relationship. Our results that long‐term investors exhibit patience with firms around poor earnings announcements, but quickly sell portfolio firms after negative ES incidents, support the view that long‐ and short‐term investors evaluate information differently. Our evidence shows that limits‐to‐arbitrage play a role, as we find that investors' ESG tilt weakens following regulatory shocks that shorten their horizon.</content>
-    <link href="https://doi.org/10.1111/jofi.70008"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-01-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/1475-679x.70035</id>
-    <title>The Assignment of Intellectual Property Rights and Innovation</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Armstrong, Stephen Glaeser, Stella Yeayeun Park, Oscar Timmermans</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We study how the assignment of intellectual property rights between inventors and their employers affects innovation. Incomplete contracting theories predict that stronger employer property rights reduce the threat that employee inventors hold up their employers, thereby affecting inventor and invention outcomes. We test these predictions using a U.S. appellate court ruling that shifted the assignment of property rights from inventors to their employers. Within‐employer‐year analyses demonstrate that affected inventors are less likely to retain patent rights, assign patents to new employers, or leave their current employer, all consistent with reduced inventor ability to hold up their employers. Due to the reduced possibility of hold‐up, affected inventors’ innovations are revealed more promptly when disclosed, draw from a broader set of prior patents, and spread more to subsequent patents. If affected inventors do leave their employer, they are more likely to relocate to unaffected states. Furthermore, employers affected by the ruling are more likely to locate their inventors in agglomeration economies and alter their innovation strategy by reallocating activity across states and expanding their innovation portfolios. Our collective evidence suggests that shifting intellectual property rights to employers affects inventor and invention outcomes by reducing the threat of employee hold‐up from the employer's perspective.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70035"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-01-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00018392251405843</id>
-    <title>Unequal in the Spotlight: Gender Differences in How Serving on Prominent Firms Affects Directors’ New Board Appointments</title>
-    <updated>2026-01-08T00:00:00+00:00</updated>
-    <author>
-      <name>Hans T. W. Frankort, Isabel Fernandez-Mateo, Raina Brands</name>
-    </author>
-    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;Does gaining a foothold in the upper echelons of the corporate landscape carry different implications for women and men? We address this question by examining gender differences in how serving on the boards of prominent firms leads to new board appointments. While prominent affiliations are widely recognized as advantageous, research has yet to ask whether these benefits vary by gender. Using data on the population of directors in the FTSE-100 between 2010 and 2017, we find that women are, on average, more likely than men to obtain additional board appointments, consistent with prior literature showing that pressures to increase diversity stimulate demand for incumbent women relative to men. However, serving on more-prominent boards within the FTSE-100 increases men’s likelihood of obtaining new appointments but decreases it for women. Thus, women’s advantage diminishes and eventually reverses, becoming a disadvantage, as firm prominence increases. Our systematic evaluation of potential demand- and supply-side explanations for this pattern finds limited support for both. We propose, instead, that women’s experiences of greater scrutiny and of informal demands on more-prominent boards may shape their willingness to pursue additional appointments. We highlight the dual role of prominent affiliations as sources of both opportunity and constraint, with implications for individual careers and organizational diversity.</content>
-    <link href="https://doi.org/10.1177/00018392251405843"/>
-    <category term="Administrative Science Quarterly"/>
-    <published>2026-01-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Consumer impatience has long been examined through the lens of intertemporal choice, where patience is inferred from decisions to accept delayed rewards. Yet, this conceptualization captures only thechoiceto wait, not theexperienceof waiting. Sweeny's Process Model of Patience (PMP) shifts the focus from temporal preferences to temporal affect, defining impatience as a negatively valenced emotional response to objectionable delays and patience as the active regulation of this emotion. In this commentary, I bridge these two traditions by mapping the psychological drivers of intertemporal choice—affective urges, cognitive representations, construal, subjective time perception, and future‐self connectedness—onto the mechanisms that shape waiting experiences. This decision–process integration of impatience reveals where the two perspectives converge, where they diverge, and why these distinctions matter for understanding consumer behavior. I propose several testable predictions illustrating how choice patience and process patience dissociate, how motivations and mental representations shift across the decision–waiting timeline, and how environmental cues can reduce uncertainty at choice yet heighten impatience during the wait. Together, these insights suggest a more complete temporal model of impatience—one that begins before the decision is made and continues throughout the delay that follows.</content>
+    <link href="https://doi.org/10.1002/jcpy.70016"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-01-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mksc.2024.1170</id>
