@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-01-30T13:52:06.908864+00:00</updated>
+  <updated>2026-01-30T16:46:02.592661+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
   <entry>
-    <id>https://www.nber.org/papers/w34607</id>
-    <title>One Instrument, Many Treatments: Instrumental Variables Identification of Multiple Causal Effects</title>
+    <id>https://www.nber.org/papers/w34629</id>
+    <title>Why Care About Debt-to-GDP?</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
     <author>
-      <name>Joshua Angrist, Andres Santos &amp; Otávio Tecchio</name>
+      <name>Jonathan B. Berk &amp; Jules H. van Binsbergen</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many instrumental variables applications specify a single Bernoulli treatment. But instruments may change outcomes through multiple pathways or by varying treatment intensity. Lottery instruments that boost charter school enrollment, for instance, may affect outcomes by lengthening time enrolled in a charter school and by moving students between charter schools of different types. We analyze the identification problem such scenarios present in a framework that generalizes the always-taker/never-taker/complier partition of treatment response types to cover a wide range of multinomial and ordered treatments with heterogenous potential outcomes. This framework yields novel estimators in which a single randomly assigned instrument identifies (i) causal effects averaged over complier types and (ii) a causal conditional expectation function that captures effects for each element in a set of response types. Three empirical applications demonstrate the utility of these results. The first extends an earlier analysis of the Head Start Impact Study allowing for multiple fallbacks. The second examines two causal channels for the impact of post-secondary financial aid on degree completion. The third estimates effects of additional births (an ordered treatment) on mothers’ earnings.</content>
-    <link href="https://www.nber.org/papers/w34607"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We construct an international panel data set comprising three distinct yet plausible measures of government indebtedness: the debt-to-GDP, the interest-to-GDP, and the debt-to-equity ratios. Our analysis reveals that these measures yield differing conclusions about recent trends in government indebtedness. While the debt-to-GDP ratio has reached historically high levels, the other two indicators show either no clear trend or a declining pattern over recent decades. We argue for the development of stronger theoretical foundations for the measures employed in the literature, suggesting that, without such grounding, assertions about debt (un)sustainability may be premature.</content>
+    <link href="https://www.nber.org/papers/w34629"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
