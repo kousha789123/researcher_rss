@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-01-29T18:54:56.324335+00:00</updated>
+  <updated>2026-01-30T03:00:44.533296+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -15,6 +15,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a unified theory of delegated capital management by extending the paradigm of Berk and Green (2004)  from mutual funds to alternative assets. With competitive markets and rational investors, we derive the optimal contract and account for observed regularities --- performance fees, persistent alpha, and limits on capital. The key distinction between mutual funds and alternatives is the liquidity of the underlying assets. When assets are illiquid, it is optimal to acquire information about the manager's skill. A positive alpha is therefore necessary to compensate informed investors and a performance based contract is required to induce these investors to allocate their capital optimally. At the same time, a free-rider problem emerges that requires capital constraints on uninformed investors. Thus, liquidity of the underlying assets explains the contrasting contract structures across sectors.</content>
     <link href="https://www.nber.org/papers/w34628"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34660</id>
+    <title>Does LLM Assistance Improve Healthcare Delivery? An Evaluation Using On-site Physicians and Laboratory Tests</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jason Abaluck, Robert Pless, Nirmal Ravi, Anja Sautmann &amp; Aaron Schwartz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We deployed large language model (LLM) decision support for health workers at two outpatient clinics in Nigeria. For each patient, health workers drafted care plans that were optionally revised after LLM feedback. We compared unassisted and assisted plans using blinded randomized assessments by on-site physicians who evaluated and treated the same patients, as well as results from laboratory tests for common conditions. Academic physicians performed blinded retrospective reviews of a subset of notes. In response to LLM feedback, health workers changed their prescribing for more than half of the patients and reported high satisfaction with the recommendations, and retrospective academic reviewers rated LLM-assisted plans more favorably.  However, on-site physicians observed little to no improvement in diagnostic alignment or treatment decisions. Laboratory testing showed mixed effects of LLM-assistance, which removed negative tests for malaria but added them for urinary tract infection and anemia, with no significant increase in the detection rates for the tested conditions.</content>
+    <link href="https://www.nber.org/papers/w34660"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
@@ -195,18 +207,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nuclear and intermittent renewables (wind and solar) are generally regarded as the only scalable technologies producing low-carbon electricity. However, the extent to which these technologies can co-exist in a reliable power system depends on whether nuclear units can adjust their operations to renewable output fluctuations. Using hourly data from the French power system, we find that nuclear units are operated quite flexibly, and that the foregone energy production due to “load following” actions (relative to the counterfactual of operating at full capacity during load following events) is currently limited. However, we find that an additional load following event is associated with a slightly higher likelihood of a unit failure. We also find that unit-level minimum output constraints are binding more frequently as system-wide renewable generation increases, especially so for units most exposed to solar generation. In 2024, hours during which available nuclear flexibility was exhausted are associated with non-positive hourly day-ahead prices.</content>
     <link href="https://www.nber.org/papers/w34662"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34660</id>
-    <title>Does LLM Assistance Improve Healthcare Delivery? An Evaluation Using On-site Physicians and Laboratory Tests</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jason Abaluck, Robert Pless, Nirmal Ravi, Anja Sautmann &amp; Aaron Schwartz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We deployed large language model (LLM) decision support for health workers at two outpatient clinics in Nigeria. For each patient, health workers drafted care plans that were optionally revised after LLM feedback. We compared unassisted and assisted plans using blinded randomized assessments by on-site physicians who evaluated and treated the same patients, as well as results from laboratory tests for common conditions. Academic physicians performed blinded retrospective reviews of a subset of notes. In response to LLM feedback, health workers changed their prescribing for more than half of the patients and reported high satisfaction with the recommendations, and retrospective academic reviewers rated LLM-assisted plans more favorably.  However, on-site physicians observed little to no improvement in diagnostic alignment or treatment decisions. Laboratory testing showed mixed effects of LLM-assistance, which removed negative tests for malaria but added them for urinary tract infection and anemia, with no significant increase in the detection rates for the tested conditions.</content>
-    <link href="https://www.nber.org/papers/w34660"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
