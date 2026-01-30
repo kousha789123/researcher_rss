@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-01-30T16:45:10.624680+00:00</updated>
+  <updated>2026-01-30T21:30:25.809122+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1260,6 +1260,66 @@
     <published>2026-01-29T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261422988</id>
+    <title>EXPRESS: Joint or Independent? Sourcing and Inspection Decisions in Emerging Economies</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <author>
+      <name>Jiguang Chen, Xiaole Wu</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In the presence of supplier quality risk, offering suppliers a higher procurement price or increasing inspection effort are two approaches to motivate a supplier to invest in higher quality. In this paper, we consider three sourcing and inspection strategies for a brand with two branch shops facing supplier quality risk: joint, mixed, and independent strategies. Under the joint strategy, the brand jointly sources for its two shops by offering a uniform procurement price and inspects for both shops in a centralized way (joint sourcing and joint inspection). Under the mixed strategy, the brand jointly sources for its two shops by offering a procurement price and then each shop decides its own inspection probability (joint sourcing and independent inspection). Under the independent strategy, each shop decides its own procurement price and inspection probability (independent sourcing and independent inspection).We find that among the three strategies, the joint strategy mostly relies on the inspection tool to motivate supplier’s high-quality effort, and the mixed strategy mainly utilizes the procurement price tool by offering the highest price for supplier’s high quality.We further find that, no matter the brand is purely profit driven or cares about the quantity of low-quality products sold to the market, the mixed strategy is always preferred to independent strategy. The preference between mixed and joint strategies is jointly determined by the fixed cost incurred in joint sourcing and inspection accuracy. For intermediate fixed cost, if the inspection accuracy is sufficiently high, the mixed strategy is preferred to joint strategy; otherwise, the joint strategy is preferred to the mixed strategy. Interestingly, when a brand becomes more socially responsible (i.e., it cares more about the quantity of lowquality products sold to the market), it may switch from a reliable supplier to a risky supplier, leading to more low-quality products sold to the market. This is because with a greater level of social responsibility, the brand’s higher inspection efforts become more credible, which motivates the risky supplier’s higher quality effort.</content>
+    <link href="https://doi.org/10.1177/10591478261422988"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261422989</id>
+    <title>EXPRESS: Blockchain-enabled Supply Chain Financing (BCF)</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <author>
+      <name>Sairam Sriraman, David Wuttke, Volodymyr Babich, Eve Rosenzweig</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Blockchain technology holds promise for improving access to financing within supply chains, especially for small and under-financed suppliers. Yet, the specific ways in which blockchain technology mitigates financing frictions and the features that contribute to successful platform implementations remain unclear. Following a theory elaboration approach, we close that gap by studying which financing frictions the BCF solutions aim to address, which blockchain features they use, and the association between the frictions and features. In our analysis, we examine 312 documents with unstructured text describing 11 BCF solutions, both successful and failed. Using AI-based large language models, we identify patterns connecting seven types of financing frictions and three key blockchain features. We find that the transactional friction is the most prominent, despite receiving limited attention in the academic literature, while bankruptcy costs and taxes—frictions that are commonly discussed in the literature—are rarely associated with blockchain features in our sample. Among blockchain features, tokenization is used sparingly; and, unlike other features, it appears in successful BCF solutions only. Moreover, connections between frictions and features are not random: while transactional and hidden actions frictions are linked to all three blockchain features, other frictions are typically associated with only one. Our findings offer a deeper understanding of the mechanisms through which blockchain adds value in supply chain finance, suggesting that aligning blockchain features with specific frictions may enhance the chances of success. We also demonstrate a method for using AI to evaluate large amounts of unstructured data in operations management research.</content>
+    <link href="https://doi.org/10.1177/10591478261422989"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261422987</id>
+    <title>EXPRESS: Risk Aversion in a Data-Driven Multi-Period Inventory Control Problem</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <author>
+      <name>Xianghua Jiang, Loon-Ching Tang, Zhisheng Ye, Xun Zhang</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We study multi-period risk-averse inventory control in a data-driven setting. In this problem, a risk-averse retailer makes periodic decisions on inventory levels based only on historical demand observations without full knowledge of the demand distribution. We adopt the popular nested formulation for risk-averse programs to formulate this multi-period problem and its data-driven counterpart under a coherent risk measure. Our objective is to study the sample complexity bound such that with high probability, the data-driven policy is near-optimal, i.e., the relative error of risk under the data-driven policy compared with the optimal risk is arbitrarily small. Analysis of this problem is inherently challenging, because the multi-period nature requires solving the risk-averse program and its data-driven version recursively backward in time, while the (empirical) risk-to-go functions in this process do not have closed-form derivatives for most risk measures, which renders existing first-order methods for the risk-neutral newsvendor model invalid. In this study, we develop a zeroth-order framework to establish the complexity bound on sample sizes to guarantee nearoptimality of the data-driven policy with given accuracy levels. Instead of using first-order derivative information on the risk-to-go function, our analysis directly examines the class of functions that underpins each cumulative risk function and derives maximum inequalities for this functional class by computing the covering numbers. Finite-sample complexity bounds are then used to establish asymptotic properties of the estimated risk, including consistency and convergence rate. Computationally, the time complexity for solving the data-driven policy, which is essentially an empirical dynamic programming (EDP) estimator of the optimal policy, increases exponentially in the length of the planning horizon. To speed up computation, we propose an approximation scheme that recursively approximates the empirical cumulative risk function with a convex piecewise linear function and then minimize it to obtain a modified data-driven inventory policy. We show that with proper control for approximation error, the modified data-driven policy is also near-optimal, and it has the same order of sample complexity bound as that for the original EDP policy.</content>
+    <link href="https://doi.org/10.1177/10591478261422987"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261423540</id>
+    <title>EXPRESS: Welfare Implications of Democratization in Content Creation: Generative AI and Beyond</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <author>
+      <name>Tianxin Zou, Zijun (June) Shi, Yue Wu</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;The rise of content-creation technologies such as generative artificial intelligence (Gen-AI) has reshaped the way people produce and consume content. These technologies democratize content creation, enabling inexperienced individuals to generate content that rivals the quality produced by professionals. This paper adopts a game-theoretic model to study how the democratization of content creation affects welfare. While the content-democratization technology can assist low-quality creators in improving their content quality, it can precipitate a flood of such content in the market and crowd out high-quality content production, leading to welfare losses. An incremental technology development with low reduction in quality gap can hurt individual consumers and all creators, leading to a lose-lose market outcome. In contrast, a drastic one with high reduction in quality gap benefits individual consumers and all creators, leading to a win-win outcome. Furthermore, when platforms can more effectively screen content and promote high-quality content, welfare rises but the technology is more likely to reduce welfare. The findings help explain the distinct impacts of content democratization in different industries.</content>
+    <link href="https://doi.org/10.1177/00222437261423540"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261423538</id>
+    <title>EXPRESS: Consumers Prefer that Corporations Donate Periodically</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <author>
+      <name>Alexander B. Park, Yanyi Leng, Fausto J. Gonzalez, Jared Watson, Francesca Valsesia, Cynthia Cryder</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;How should firms best communicate their corporate social responsibility (CSR) efforts? Across seven preregistered studies (two large field studies and five online lab experiments), we find that making a series of periodic contributions, e.g., donating $20,000 per month for 12 months, rather than donating an equivalent aggregate amount, e.g., donating $240,000 in a year, improves outcomes for donor companies such as reputation, customer engagement, and purchase likelihood. The benefits of periodic donations arise primarily due to heightened judgments of the donor’s authentic prosocial motivation, which affects outcomes in two ways. Via one process pathway, the consistency of periodic donations increases judgments that the donor gave due to authentic prosocial motives, which then increases favorable donor evaluations. Via a second process pathway, heightened judgments of the donor’s authentic prosocial motivation also increase the perceived impact of the donation, further boosting favorable donor evaluations. Additional studies demonstrate when and why periodic donations may benefit, or in some cases even harm, evaluations of the donor. Taken together, this research highlights consumers’ sensitivity to cues of consistency, and the importance of perceived authentic prosocial motivation, when consumers grant charitable credit in CSR.</content>
+    <link href="https://doi.org/10.1177/00222437261423538"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/joms.70061</id>
     <title>Whom Should Entrepreneurs Approach? The Effect of Contact Status on Referring New Ventures for Acquisition</title>
     <updated>2026-01-29T00:00:00+00:00</updated>
@@ -1317,6 +1377,18 @@
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Allocative wages—the labor costs considered when deciding to form or dissolve a long-term employment relationship—are more sensitive to cyclical conditions for more educated workers. Specifically, college-educated workers’ allocative wages are highly pro-cyclical, while high school dropouts’ wages exhibit only moderate cyclicality. Further, as education increases, an increasing share of the sensitivity of allocative wages is driven by the persistent scarring effects of the cyclical position at the time of hiring on the wages associated with higher levels of tenure, amounting to more than a third of the overall sensitivity for the college educated. The greater job stability of the more educated—and therefore the exposure to scarring—contributes to these differences. In addition, more significant scarring at each horizon of tenure amplifies the effect. In service of documenting these facts, I develop new methods for inferring the sensitivity of labor costs to shocks when agents are forward-looking and wages may be intertemporally smoothed.</content>
     <link href="https://doi.org/10.1093/restud/rdag002"/>
     <category term="Review of Economic Studies"/>
+    <published>2026-01-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjag007</id>
+    <title>A Theory of How Workers Keep up with Inflation</title>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <author>
+      <name>Hassan Afrouzi, Andres Blanco, Andres Drenik, Erik Hurst</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We develop a model that integrates modern theories of labor market flows with nominal wage rigidities to study the consequences of inflation on the labor market. Nominal wage stickiness incentivizes workers to engage in job-to-job transitions after an unexpected increase in the price level. Such dynamics lead to a rise in aggregate vacancies associating a seemingly tight labor market with lower real wages—two facts observed during the recent inflation period. The calibrated model jointly matches aggregate and cross-sectional trends in worker flows and wages during the 2021-2024 period. Using historical data, we show that prior periods of high inflation were also associated with increasing vacancies and upward shifts in the Beveridge curve. Our results suggest that policymakers and academics should be cautious about viewing the rise in the vacancy-to-unemployment rate as a sign of a tight labor market during inflationary periods without holistically looking at other labor market indicators.</content>
+    <link href="https://doi.org/10.1093/qje/qjag007"/>
+    <category term="The Quarterly Journal of Economics"/>
     <published>2026-01-30T00:00:00+00:00</published>
   </entry>
 </feed>
