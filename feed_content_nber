@@ -2,418 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-02-01T16:31:52.651000+00:00</updated>
+  <updated>2026-02-02T14:06:54.758842+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
-  <entry>
-    <id>https://www.nber.org/papers/w34607</id>
-    <title>One Instrument, Many Treatments: Instrumental Variables Identification of Multiple Causal Effects</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua Angrist, Andres Santos &amp; Otávio Tecchio</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many instrumental variables applications specify a single Bernoulli treatment. But instruments may change outcomes through multiple pathways or by varying treatment intensity. Lottery instruments that boost charter school enrollment, for instance, may affect outcomes by lengthening time enrolled in a charter school and by moving students between charter schools of different types. We analyze the identification problem such scenarios present in a framework that generalizes the always-taker/never-taker/complier partition of treatment response types to cover a wide range of multinomial and ordered treatments with heterogenous potential outcomes. This framework yields novel estimators in which a single randomly assigned instrument identifies (i) causal effects averaged over complier types and (ii) a causal conditional expectation function that captures effects for each element in a set of response types. Three empirical applications demonstrate the utility of these results. The first extends an earlier analysis of the Head Start Impact Study allowing for multiple fallbacks. The second examines two causal channels for the impact of post-secondary financial aid on degree completion. The third estimates effects of additional births (an ordered treatment) on mothers’ earnings.</content>
-    <link href="https://www.nber.org/papers/w34607"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34660</id>
-    <title>Does LLM Assistance Improve Healthcare Delivery? An Evaluation Using On-site Physicians and Laboratory Tests</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jason Abaluck, Robert Pless, Nirmal Ravi, Anja Sautmann &amp; Aaron Schwartz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We deployed large language model (LLM) decision support for health workers at two outpatient clinics in Nigeria. For each patient, health workers drafted care plans that were optionally revised after LLM feedback. We compared unassisted and assisted plans using blinded randomized assessments by on-site physicians who evaluated and treated the same patients, as well as results from laboratory tests for common conditions. Academic physicians performed blinded retrospective reviews of a subset of notes. In response to LLM feedback, health workers changed their prescribing for more than half of the patients and reported high satisfaction with the recommendations, and retrospective academic reviewers rated LLM-assisted plans more favorably.  However, on-site physicians observed little to no improvement in diagnostic alignment or treatment decisions. Laboratory testing showed mixed effects of LLM-assistance, which removed negative tests for malaria but added them for urinary tract infection and anemia, with no significant increase in the detection rates for the tested conditions.</content>
-    <link href="https://www.nber.org/papers/w34660"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34674</id>
-    <title>The Economics of Scaling Early Childhood Programs: Lessons from The Chicago School</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>John A. List</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many ideas show remarkable returns in small-scale trials but often disappoint when scaled to broader populations and contexts. Using early childhood investment as a case study, this study develops a dynamic human capital formation model that integrates complementary skill investment with “Option C thinking” on scaling challenges. The model is stylized in the Chicago tradition: micro-founded with optimizing agents, dynamic skill production, and a policymaker evaluating scaling decisions. It formalizes how naive extrapolation from pilot studies systematically overestimates policy efficacy by ignoring “voltage drops,” declining treatment effects due to unrepresentativeness at scale. The model demonstrates that optimal scaling policy requires mechanism-based design that anticipates these failures through backward induction from implementation realities. The scientific insights from a set of recent studies provide valuable perspectives on the model.</content>
-    <link href="https://www.nber.org/papers/w34674"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34683</id>
-    <title>How In-School Supervised Ed-Tech Support Produces Massive Learning Gains: A Khan Academy Field Experiment in India</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Philip Oreopoulos, Oliver Keyes-Krysakowski &amp; Deepak Agarwal</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Computer-assisted learning (CAL) platforms frequently underperform at scale not because the technology is ineffective, but because schools face substantial implementation frictions: teachers and administrators must overcome initial technical hurdles, reorganize instructional routines, manage competing scheduling pressures, and do so while uncertain about the technology’s effectiveness—conditions that often lead to low and unproductive student engagement. This study explores whether strengthening implementation structure can raise both the quantity and quality of CAL usage in 83 residential government middle schools in Uttar Pradesh, India and, in turn, learning gains. All schools had access to Khan Academy, but randomly selected treatment schools received on-the-ground lab-in-charges whose sole responsibility was to ensure high-fidelity implementation by securing reliable connectivity, simplifying student rostering, protecting weekly practice time, supervising in-class use, coordinating content with teachers, and monitoring progress. The intervention increased platform usage from 7.2 to 47.4 minutes per week. Mathematics achievement rose by almost half a standard deviation over 31 weeks, with gains broad-based across achievement levels and question difficulty. These results show that the central constraint on effective and scalable CAL is not technology or content, but the presence of organizational structures that ensure sustained, productive instructional use.</content>
-    <link href="https://www.nber.org/papers/w34683"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34682</id>
-    <title>Re-Examining Geographic Variation in Health and Health Care</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Amy Finkelstein &amp; Matthew Gentzkow</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large literature has documented widespread variation in health care spending per capita across areas of the United States without correspondingly better health outcomes. Recent work has used mover designs to estimate the causal impact of place on both health care spending and mortality. In this paper, we investigate whether places that increase health care spending also tend to be places that increase health. We find that they do not and discuss the implications.</content>
-    <link href="https://www.nber.org/papers/w34682"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34680</id>
-    <title>Platform Work: Evidence from Drivers in India, Indonesia, and Kenya</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Achyuta Adhvaryu, Martin Atela, Valentina Brailovskaya, Priyanka Dua, Jenny Susan John, Pratibha Joshi &amp; Rivandra Royono</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using surveys and administrative data from representative samples of drivers working on three leading gig platforms in India, Indonesia, and Kenya, we document the composition, economic experiences, and labor market trajectories of platform workers. Combining platform-based earnings with operating cost data, we estimate earnings net of costs (in PPP-adjusted terms) in each context. We find that the flexible nature of platform work enables drivers to work substantially more than the full-time equivalent, generating higher monthly net earnings than low-skill or casual employment, despite comparable or lower hourly net earnings relative to these outside options. Drivers who exit platform work in India and Indonesia do so to take up better-paying full-time positions. In contrast, Kenyan drivers often exit involuntarily, returning to offline driving with adverse financial consequences. One-third of drivers across countries rely on platform work to supplement earnings during emergencies or slow work periods, suggesting that platform work may play an important role as a financial safety net.</content>
-    <link href="https://www.nber.org/papers/w34680"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34679</id>
-    <title>Transformed Intermediation: Credit Risk to NBFIs, Liquidity Risk to Banks</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Viral V. Acharya, Nicola Cetorelli &amp; Bruce Tuckman</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We argue that the rapid asset growth of nonbank financial intermediaries (NBFIs) relative to banks is the outcome of transformations of risks between banks and NBFIs that increase the interconnectedness of the two sectors. These transformations are consistent with avoiding tighter, post-GFC bank regulation while harnessing the funding and liquidity advantages of bank deposit franchises and access to safety nets. Specifically, we show that banks fund NBFIs through senior loans and credit lines, which NBFIs use for acquiring junior credit claims, warehouse financing, and liquidity management. We empirically demonstrate that shocks experienced by NBFIs spillover to the banks that provide them with credit lines, particularly in times of stress. We then describe a number of policy approaches that are consistent with our transformation view and conclude with suggestions for future research.</content>
-    <link href="https://www.nber.org/papers/w34679"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34681</id>
-    <title>Firm Emissions and Credit Allocation</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Grace Weishi Gu, Galina Hale, Bhavyaa Sharma &amp; Jinhong Wu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do banks help or hamper green transition? To answer this question, we analyze the dynamics of bank lending to firms in the US, EU, and separately Denmark in relation to the borrowers' emissions of CO2. We evaluate the allocation of bank loans across industries and within industries across firms, allowing for heterogeneity of firm emissions and changes in these emissions. To facilitate green transition, bank lending needs to flow to greener and greening firms, but not out of high-emission industries that need funding to transition to cleaner production methods. Using syndicated loan data, we find that for US borrowers, bank lending was likely hampering green transition, while in the EU bank lending is more likely to facilitate it. Zooming in on Denmark, for which we have data on the full universe of firms and banks, we find more significant credit reallocation to greener firms, especially within industries. However, the reallocation of funds to green firms is, to a large extent, a byproduct of green firms becoming bigger. We do not find any evidence consistent with banks active stewardship of green transition.</content>
-    <link href="https://www.nber.org/papers/w34681"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34678</id>
-    <title>Do GLP-1 Medications Pay for Themselves?</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Coady Wing, Sih-Ting Cai, Daniel W. Sacks &amp; Kosali I. Simon</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Glucagon-like peptide-1 receptor agonists (GLP-1s) represent a major improvement in treatment of diabetes, obesity, and cardiovascular risk reduction, but they are also among the most expensive drugs in widespread use and the subject of significant policy debate. The high price of these drugs may overstate their net cost if the health improvements they produce lead to reduced downstream health care use and medical spending, that is, cost offsets. We estimate such offsets using insurance claims data, examining the effects of GLP-1 initiation on subsequent GLP-1 use and spending, and on other non-GLP-1 spending. We use a stacked difference-in-differences design, comparing patients initiating GLP-1 medication to not-yet-treated controls who initiate GLP-1s several months or years later, allowing us to control for underlying time trends and baseline characteristics. Overall, we do not find a reduction in downstream medical spending. Although GLP-1 initiation reduces spending on other diabetes medications, total non-GLP-1 spending increases, driven by higher outpatient health care use; GLP- 1 drug spending rises mechanically. For health care payers, the relevant cost of GLP-1 initiation therefore extends beyond the sticker price of the drug. We find similar results across subgroups of GLP1 initiators including those with prior cardiovascular disease and those without diabetes (consistent with obesity indication). Our main results examine spending responses over the first year after initiation. However, we also estimate longer run effects in a smaller sample and find no cost offsets even five years after GLP-1 initiation. Taken together, these results suggest that payers facing the costs of GLP-1 coverage are unlikely to see large savings from reduced spending on other care. If GLP-1 therapies ultimately yield cost savings, they are likely to occur only over longer horizons or through non-medical channels.</content>
-    <link href="https://www.nber.org/papers/w34678"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34677</id>
-    <title>The Impact of Preschool Entry Age on Children’s Behavioral and Developmental Health in Medicaid</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Maya Rossin-Slater, Adrienne Sabety &amp; Aileen Wu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We find that preschools facilitate early diagnosis and treatment of conditions that can hinder learning. Low-income children born shortly before their state's school-entry cutoff date are 16.9, 9.3, and 14.8 percent more likely to be diagnosed with Attention Deficit Hyperactivity Disorder, a speech or language disorder, and a hearing or vision condition at ages three and four, compared to children born after the cutoff. They are also more likely to receive downstream services. Findings emphasize the role of earlier and longer exposure to public preschool in driving diagnostic gaps previously attributed to elementary school-entry and within-grade peer comparisons.</content>
-    <link href="https://www.nber.org/papers/w34677"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34676</id>
-    <title>Corporate Intent</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Augustin Landier, Parinitha R. Sastry &amp; David Thesmar</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do investors care about why a firm behaves responsibly, over and above what the firm does and how much cash it earns? In our main experiment, participants value shares in companies that reduce pollution relative to peers, while CEOs articulate the company’s intentions: prosocial or for-profit. Investors are willing to pay more for shares in a company that takes a given prosocial action if it is motivated by social concern rather than profit maximization. This "intention premium" is distinct from the valuation effects of cash flows and environmental externalities. Respondents who are deontological, politically liberal, female, or less individualistic value the company’s intent the most. Additionally, and somewhat surprisingly, respondents view favorably firms that embrace both profit and social objectives, without ranking them. Overall, our findings temper claims that when there is no financial trade-off between doing good and doing well, shareholder value and stakeholder value maximization are equivalent.</content>
-    <link href="https://www.nber.org/papers/w34676"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34675</id>
-    <title>Experiences, Expectations, and Asset Prices</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stefan Nagel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In models with subjective beliefs, the dynamics of investor beliefs are central to explaining asset price movements. Allowing subjective beliefs to deviate from full-information rational expectations requires a model of how investors form beliefs. I review recent research that explores experience-based belief formation. The experience-based model closely resembles Bayesian updating but allows individuals to overweight data observed during their own lifetimes when forming beliefs about the parameters of the data-generating process. Because individuals of different age learn from different histories, the model predicts heterogeneity between age groups that evolves over time with the path of realized data individuals have experienced, closely mirroring the age-related variation observed in survey microdata. At the aggregate level, experience-based expectations formation can explain asset price dynamics. In the stock market, learning from experience about long-run cash flow growth generates valuation cycles and return predictability. Experience-based formation of long-term inflation expectations can explain secular changes of real interest rates. I conclude by outlining directions for future research.</content>
-    <link href="https://www.nber.org/papers/w34675"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34667</id>
-    <title>Weighing the Impacts of GLP-1s: Quasi-Experimental Evidence From Provider Adoption</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sam Bock, Jasmin Moshfegh &amp; Jonathan Zhang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The arrival of GLP-1 medications has been described as one of the most important health care innovations in recent years. We provide large-scale quasi-experimental evidence on their real-world impacts by exploiting variation in the eventual prescribing propensities of patients’ pre-existing primary care providers. Using a panel intent-to-treat design, we compare outcomes for 1.4 million diabetic or obese veterans based on their 2018 provider’s eventual propensity to adopt GLP-1s, leveraging comprehensive electronic health records and biomarker data from the Veterans Health Administration, a setting with minimal insurance attrition and low-cost access to these drugs. Patients whose providers become higher propensity adopters experience substantial improvements in glycemic control and clinically meaningful weight loss; our treatment-on-the-treated estimates closely match estimates from clinical trials. Despite these metabolic benefits, we find no statistically significant effects on emergency department utilization, mental health and substance use outcomes, or non–GLP-1 medical spending through 2024.</content>
-    <link href="https://www.nber.org/papers/w34667"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34666</id>
-    <title>State and Time-Dependent Pricing</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Philip Bunn, Nicholas Bloom, Craig Menzies, Paul Mizen, Gregory Thwaites &amp; Ivan Yotzov</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present new evidence on how firms set prices using direct questions from a large, economy-wide survey of UK firms. Since 2023, 54% of firms report setting prices in a state-dependent manner, as opposed to changing prices at fixed intervals. In contrast, 44% of firms used state-dependent pricing in 2019. Smaller firms, those with a higher share of non-labour costs, and those reporting higher subjective uncertainty around sales and prices are more likely to be state-dependent. We then analyse the implications of price-setting behaviour for inflation dynamics. State-dependent firms experienced a sharper increase in price growth over 2022-2023, and also a faster subsequent decline. Using evidence from a randomised survey experiment, firm-level forecast errors, and local projections, we show that prices of state-dependent firms respond faster to cost shocks. The difference between state-dependent and time-dependent firms is furthermore larger for bigger shocks, consistent with theoretical predictions.</content>
-    <link href="https://www.nber.org/papers/w34666"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34665</id>
-    <title>Brexit and UK Migration: Germany-Benchmarked Evidence on Structural and Reallocation Shifts</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Assaf Razin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines how Brexit reshaped the volume and composition of UK migration flows. To address the inherent endogeneity of migration responses to political change, the study employs a Difference-in-Differences design that benchmarks the United Kingdom against Germany, a stable EU member unaffected by Brexit-related institutional shocks. Treating the 2016 referendum and the 2021 end of free movement as sequential shocks, the results show that migration volume increased after both shocks, but through different channels: the referendum reduced emigration relative to Germany, while the post-2021 points-based system triggered a reallocation of inflows away from EU free-movement migrants toward non-EU migrants from the rest of the world, with a markedly stronger skill-selective profile. The paper analyzes how Brexit reshaped migration flows into and out of the United Kingdom by exploiting the 2016 referendum and the 2021 termination of free movement as sequential institutional shocks. Using a Difference-in-Differences design with Germany as a stable EU benchmark, the results show that Brexit acted as a structural regime shock, not a border-tightening event. Net migration into the UK rose after both shocks—first due to a sharp post-referendum decline in emigration relative to Germany, and later due to a substantial expansion of non-EU immigration under the new points-based system. Immigration patterns exhibit a clear regime shift, with EU inflows contracting sharply after 2016 and globally sourced, skill-selective inflows rising after 2021. In the later period, a modest but notable increase in UK-born emigration relative to Germany also emerges, reflecting frictions in post-Brexit mobility. Overall, Brexit reoriented—rather than reduced—UK migration flows, transforming both their scale and composition.</content>
-    <link href="https://www.nber.org/papers/w34665"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34664</id>
-    <title>Global Stratification Economics (GSE): A Primer - Definitions and Research Implications</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alan A. Aja, Anita Alves Pena &amp; Mary Lopez</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We coin the term Global Stratification Economics (GSE) to extend Stratification Economics (SE) to international contexts where mechanisms emerge that can be identified as (1) universal but matched to positioning along a country’s development path or (2) context-specific and historically dependent in ways different from the United States and other international environments. Building on SE’s core insight that groups compete over scarce resources and that dominant groups shape rules to preserve advantage, we define GSE as an approach that foregrounds historical genesis (e.g., settler colonialism, slavery, caste, extractive governance, military intervention), local institutions that structure dominance and resistance, and transnational mechanisms (e.g., imported stratification and the lateral mobility hypothesis) that link origin- and destination-country hierarchies. Drawing on evidence from Latin America and the Caribbean, Africa, South and Southeast Asia, and the global macroeconomy, we synthesize research on intergenerational mobility, wealth and asset inequality, labor-market segmentation, colorism, caste and ethnicity, gendered and intersectional constraints, spatial inequality and property regimes, and global value chains. We conclude by outlining how GSE reshapes measurement and international policy evaluation by centering group-differentiated outcomes, institutional transformation, and pillars of recognition, redistribution, and repair and by offering a checklist for researchers to apply GSE.</content>
-    <link href="https://www.nber.org/papers/w34664"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34662</id>
-    <title>Nuclear Operations with a High Penetration of Renewables: The Case of France</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicolas Astier &amp; Frank A. Wolak</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nuclear and intermittent renewables (wind and solar) are generally regarded as the only scalable technologies producing low-carbon electricity. However, the extent to which these technologies can co-exist in a reliable power system depends on whether nuclear units can adjust their operations to renewable output fluctuations. Using hourly data from the French power system, we find that nuclear units are operated quite flexibly, and that the foregone energy production due to “load following” actions (relative to the counterfactual of operating at full capacity during load following events) is currently limited. However, we find that an additional load following event is associated with a slightly higher likelihood of a unit failure. We also find that unit-level minimum output constraints are binding more frequently as system-wide renewable generation increases, especially so for units most exposed to solar generation. In 2024, hours during which available nuclear flexibility was exhausted are associated with non-positive hourly day-ahead prices.</content>
-    <link href="https://www.nber.org/papers/w34662"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34661</id>
-    <title>Macroeconomic Impacts of Microeconomic Damages in General Equilibrium: Productivity and Capital Losses</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Marc A. C. Hafstead &amp; Roberton C. Williams III</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The full economic costs and macroeconomic effects of microeconomic damages associated with pollution damages, climate impacts, and similar negative shocks are not well understood. Beyond the direct damages, market distortions, supply chains, changes in capital and labor costs, etc. can potentially magnify (or diminish) the costs of these shocks. In this paper, we use analytical and numerical general equilibrium models to investigate the channels through which microeconomic shocks affect the macroeconomy. We model different types of shocks, evaluate how anticipation affects the macroeconomic implications of shocks, and measure the overall welfare costs relative to the value of direct damages. We find that preexisting taxes magnify the overall welfare costs relative to direct damages, that savings and investment decisions driven by anticipations of certain types of shocks can interact with tax distortions to lower welfare costs, and that the ratio of welfare cost to direct damages varies substantially across sectors of the economy.</content>
-    <link href="https://www.nber.org/papers/w34661"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34659</id>
-    <title>Dementia and Long-run Trajectories in Household Finances</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jing Li, Kathleen M. McGarry, Lauren Hersch Nicholas &amp; Jonathan S. Skinner</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Existing evidence suggests that wealth may decline before dementia onset, but the mechanisms underlying these reductions are poorly understood. Using longitudinal data from the Health and Retirement Study, we compare household finance trajectories for individuals who later develop dementia and those who do not. We find that wealth divergence between the two groups is not explained by reduced earnings, higher healthcare spending, intentional “spend-down” to qualify for Medicaid coverage, state-dependent utility, or reverse causation by which wealth declines cause dementia. Instead, our results point to impaired financial decision-making beginning about six years prior to clinically recognizable dementia.</content>
-    <link href="https://www.nber.org/papers/w34659"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34658</id>
-    <title>World Trading System For Whom? Evidence from Global Tariffs</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Rodrigo Adão, John Sturm Becko, Arnaud Costinot &amp; Dave Donaldson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use global tariffs to reveal the weights that nations implicitly place on the welfare of their trading partners relative to their own. Our estimated welfare weights suggest that formal and informal rules of the world trading system make countries internalize the impact of their policies onto others to a substantial extent, though not fully. On average, countries place 25% less value on transfers to foreigners than transfers to their own residents. Across nations, we find that countries that put higher welfare weights on the welfare of foreigners also tend to receive higher weights from them, consistent with a general form of reciprocity among nations. Using our estimated welfare weights, we provide a first look at what countries stand to lose, or gain, from the dissolution of the world trading system as we know it.</content>
-    <link href="https://www.nber.org/papers/w34658"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34656</id>
-    <title>Aging and Housing Returns</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Natee Amornsiripanitch, Philip E. Strahan &amp; Song Zhang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Older home sellers receive lower returns than younger home sellers. Homes sold by older people have fewer major renovations but higher rates of poor upkeep. Older sellers are also more likely to sell off-MLS (“pocket listings”) and to sell to investors, leading to lower prices. These patterns suggest that older sellers may be disproportionately disadvantaged by agents’ incentive to maximize fees through generating high sales volume instead of maximizing sale prices. Age-related cognitive decline makes the elderly more vulnerable. For causal evidence, we show that reforms making pocket listings more transparent reduced both the prevalence of pocket listings and the magnitude of the age gap in returns.</content>
-    <link href="https://www.nber.org/papers/w34656"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34673</id>
-    <title>Legalizing Cannabis: Implications for Child Maltreatment</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Weiwei Chen, Johanna Catherine Maclean &amp; Michael T. French</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Cannabis is the most used illicit drug in the United States. Though cannabis possession and consumption are prohibited federally, states are increasingly implementing laws that legalize this substance, initially for medical use and, more recently, for recreational use. We study the impact of recreational cannabis laws (RCLs) that allow all adults 21 years and older to legally consume and possess this substance on reports of child maltreatment and post-investigation service use. To do so, we combine difference-in-differences methods with administrative data on child maltreatment reports 2010-2022. Overall, we find no evidence that child maltreatment reports or service use are influenced by RCL adoption, though we find that physical abuse reports decline. Our findings indicate that recent efforts to legalize cannabis for recreational consumption have not led to an increase in child maltreatment reports.</content>
-    <link href="https://www.nber.org/papers/w34673"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34657</id>
-    <title>Does Advertising Expand the Market for Hospital Services? Evidence from Medicare</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Abby E. Alpert, Atul Gupta, Michael R. Richards, Sarah D. Schutz &amp; Christopher M. Whaley</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Direct-to-consumer advertising is pervasive in US healthcare markets, but little evidence exists on the effects of advertising by hospitals, second only to drug manufacturers in medical marketing. Advertising may help facilities increase market share by stealing existing patients, expand the market for hospital care, or do both. Regardless, it has important public finance implications due to the large sums of taxpayer funds spent by federal and state governments to subsidize hospital operations and finance care through public insurance programs. This paper provides the first causal evidence, to our knowledge, on the market expansion effects of hospital advertising. To obtain causal estimates, we leverage the fact that spikes in political advertising significantly crowd out hospital advertising in the same market, motivating an instrumental variables design. Using claims data on the universe of Traditional Medicare beneficiaries, we find that advertising expands aggregate patient volume and spending on inpatient care – though to a modest degree (implied elasticities of 0.06 and 0.05, respectively). Although the overall effect of advertising on hospital outpatient care is muted, for-profit hospitals obtain higher outpatient Medicare volume and revenue with greater advertising. Across both care settings, therefore, Medicare spending increases with hospital advertising.</content>
-    <link href="https://www.nber.org/papers/w34657"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34672</id>
-    <title>How Globalization Unravels: A Ricardian Model of Endogenous Trade Policy</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jesús Fernández-Villaverde, Tomohide Mineyama &amp; Dongho Song</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how uneven gains from globalization can endogenously generate protectionism as a political equilibrium. Using U.S. data, we document that regions more exposed to import competition display stronger opposition to globalization, especially among households with little financial wealth, and that firms in trade-exposed sectors sharply increase lobbying expenditures. To interpret these patterns, we develop and quantify a general equilibrium Ricardian model with heterogeneous households, input-output linkages, and endogenous trade policy shaped by voting and lobbying. Distributional shocks reallocate political support among voters, while lobbying propagates through production networks, generating strategic complementarities that sustain protectionism. Calibrated to U.S.-China sectoral data from 1991--2019, the model accounts for rising inequality, declining support for globalization, and key aggregate trends in consumption and trade.</content>
-    <link href="https://www.nber.org/papers/w34672"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34663</id>
-    <title>The Impacts of Parole Supervision</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Luke D. Brinkman, Andrew Jordan &amp; Derek Neal</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the impacts of a reform to parole supervision in Illinois. The reform reduced the term of supervision for some parolees from 12 months to 6 months while many similar parolees continued to receive 12 months of supervision. We evaluate the impact of the reform using a standard difference-in-differences estimator, and we find clear evidence that the reform reduced prison re-entry rates. Sharp drops in rates of technical revocations drove these reductions. Rates of prison re-admissions linked to new crimes did not change. We merge data from Cook County Courts with our data on state prison admissions and releases, and we find no evidence that the reform increased crime rates among parolees. The reform reduced both the cost of incarceration and the cost of parolee supervision without creating harms to public safety.</content>
-    <link href="https://www.nber.org/papers/w34663"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34671</id>
-    <title>With or Without U? Binning Bias and the Causal Effects of Temperature Extremes</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Jones, Jacob Moscona, Benjamin A. Olken &amp; Cristine von Dessauer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Estimates of climate impacts show that extreme temperatures have large and wide-spread effects. To estimate these effects, a common approach counts days in different temperature ranges and considers how exposure to these distinct 'bins' affects outcomes. This often produces non-linear, U-shaped results, in which high and low temperatures have the largest effects. We show that non-linear approaches like these can generate spurious findings. Specifically, global warming induces trends in extreme temperature exposure that correlate mechanically with a location's baseline temperature. Substantial bias emerges if trends in the outcome variable also correlate with baseline temperature for any reason. We demonstrate this problem theoretically, in simulations, and with real outcomes. We then develop solutions. In applications using US data, some results in the literature are unaffected by these corrections, while other results change substantially.</content>
-    <link href="https://www.nber.org/papers/w34671"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34670</id>
-    <title>Effective Protection with Global Value Chains</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Emily J. Blanchard, Mitchell W. Boice &amp; Robert C. Johnson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The effective rate of protection (ERP) is a widely-used tool to evaluate the joint impact of input and output tariffs on the net protection offered to individual sectors. Nonetheless, the theoretical foundations underlying the traditional ERP are decades out of date. In this paper, we provide fresh guidance for policy analysts that seek to measure effective protection, with two core elements. First, we develop a new ERP concept, which measures how much tariffs shift the derived demand for real value added at the sector level. The ERP then has an intuitive interpretation: it is the effective subsidy to buyers of sectoral value added that replicates the impact of the tariff structure on demand. Second, we demonstrate how to compute our ERP index accounting for global value chain linkages. The result is an ERP for the GVC age, in which effective protection depends on the structure of value chains across countries and sectors, and the structure of all tariffs applied globally. We demonstrate the usefulness of our approach by analyzing how recent tariff changes have altered effective protection in the United States and the rest of the world.</content>
-    <link href="https://www.nber.org/papers/w34670"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34669</id>
-    <title>Price Discrimination with Costless Resale</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper shows that income effects create an endogenous barrier to arbitrage, allowing price discrimination to survive costless resale. A monopolist sells an indivisible good to consumers with heterogeneous incomes who can freely resell. When the good is strictly normal, a consumer's reservation price to resell increases as the purchase price decreases—lower prices leave buyers wealthier and raise their valuation of the good. The monopolist exploits this by subsidising low-income consumers to raise their reservation prices to a target that high-income consumers must also pay. The optimal schedule increases dollar-for-dollar with income in the subsidised segment, weakly dominates uniform pricing, and achieves the first-best allocation when the entire market is served. We show the mechanism extends beyond income effects: low substitutability with market alternatives generates large reservation-price responses even when income sensitivity is modest. Sustaining discrimination requires market power at the individual level—consumer-specific quantity limits—not merely aggregate output restrictions. Extensions examine multiple monopolists and endogenous privacy choices.</content>
-    <link href="https://www.nber.org/papers/w34669"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34668</id>
-    <title>Automation Experiments and Inequality</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Seth Gordon Benzell &amp; Kyle R. Myers</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many experiments study the productivity effects of automation technologies such as generative algorithms. A key test in these experiments relates to inequality: does the technology increase output more for high- or low-skill workers? However, the theoretical content of this empirical test has been unclear. Here, we formalize a theory that describes the experimental effect of automation technologies on worker-level output and, therefore, inequality. Worker-level output depends on a task-level production function, and workers are heterogeneous in their task-level skills. Workers perform a task themselves or delegate it to the automation technology. The inequality effect of improved automation depends on the interaction of two factors: (i) the correlation in task-level skills across workers, and (ii) workers' skills relative to the technology's effective skill. In many cases we study, the inequality effect is non-monotonic --- as technologies improve, inequality decreases then increases. The model and descriptive statistics of skill correlations generally suggest that the diversity of automation technologies will play an important role in the evolution of inequality.</content>
-    <link href="https://www.nber.org/papers/w34668"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34655</id>
-    <title>The Effects of Pension Reforms on Health Inequality in Italy</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Agar Brugiavini, Raluca Elena Buia, Giacomo Pasini &amp; Guglielmo Weber</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using data from the Survey on Health, Ageing and Retirement in Europe (SHARE), we explore whether the recent pension reforms enacted in Italy had an impact on the inequality in health among individuals. We construct a set of indexes measuring several health outcomes (both physical and mental) and analyze their evolution along time (across SHARE waves) from 2004 to 2022, by relating them to the households’ income. While we can observe some differences in the health-income gradient between genders, we do not find evidence of a positive relationship between the introduction of the pension reforms and an increase in inequality.</content>
-    <link href="https://www.nber.org/papers/w34655"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34651</id>
-    <title>The first 1000 days and beyond: The process of child development.</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Orazio Attanasio</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper reviews recent developments in the economics of human development, focusing on the early years of life as a critical period for shaping long-term outcomes. Early childhood development is inherently multidimensional: cognitive and socioemotional skills evolve dynamically and interact with health, nutrition, and environmental influences. Economists have contributed to this field by providing a conceptual unifying framework that highlights how key drivers of development reflect the choices of individuals operating under incentives and constraints. Within this framework, the paper emphasizes two central challenges: understanding the interactions among multiple dimensions of development and identifying causal links - particularly the effects of different inputs at different ages. Measurement issues are a recurring theme, given the difficulty of assessing young children and the need for comparability across contexts. The paper also stresses these issues’ policy relevance for poverty reduction and social mobility by discussing early childhood interventions in both developed and developing countries.</content>
-    <link href="https://www.nber.org/papers/w34651"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34699</id>
-    <title>Monopsony, Markdowns, and Minimum Wages</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ester Faia, Benjamin Lochner &amp; Benjamin Schoefer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents the first direct test of two interlinked predictions at the core of the monopsony theory of the labor market: (i) that firms exploit wage-setting power by marking down wages below the marginal revenue product of labor, and (ii) that exogenous wage constraints, if binding, eliminate markdowns. Our research design revisits the 2015 introduction of a high minimum wage in Germany. Drawing on a monopsony model, we derive an empirically tractable difference-in-differences specification that provides a quantitative benchmark for the firm-level markdown response. Our main result is that empirical markdowns respond only 0–25% as much as the monopsony model would have predicted. Hence, at least for the labor market segment we study, (i) markdowns largely reflect other distortions than monopsony, (ii) markdowns are mismeasured, (iii) minimum wages induce widespread labor shortages, or (iv) the standard monopsony model does not provide a full, realistic account of the labor market.</content>
-    <link href="https://www.nber.org/papers/w34699"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34714</id>
-    <title>Measuring Efficiency and Equity Framing in Economics Research: LLM-Based Evidence from 1950 to 2021</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sebastian Galiani, Ramiro H. Gálvez, Franco Mettola La Giglia &amp; Raul A. Sosa</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We measure how frontier research frames what is normatively at stake along the efficiency and equity dimension. We develop and validate an LLM-based measurement pipeline and apply it to 27,464 full-text journal articles from 1950 to 2021. Efficiency focused framing rises through the late 1980s, then declines as equity related framing expands after 1990, especially in applied work and policy evaluations. By 2021, papers with an equity component are about as common as papers framed purely around efficiency. President transmittal letters in the Economic Report of the President show a similar post 1990 shift toward equity, providing an external benchmark.</content>
-    <link href="https://www.nber.org/papers/w34714"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34712</id>
-    <title>A Model of Artificial Jagged Intelligence</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Generative AI systems often display highly uneven performance across tasks that appear “nearby”: they can be excellent on one prompt and confidently wrong on another with only small changes in wording or context. We call this phenomenon Artificial Jagged Intelligence (AJI). This paper develops a tractable economic model of AJI that treats adoption as an information problem: users care about local reliability, but typically observe only coarse, global quality signals. In a baseline one-dimensional landscape, truth is a rough Brownian process, and the model “knows” scattered points drawn from a Poisson process. The model interpolates optimally, and the local error is measured by posterior variance. We derive an adoption threshold for a blind user, show that experienced errors are amplified by the inspection paradox, and interpret scaling laws as denser coverage that improves average quality without eliminating jaggedness. We then study mastery and calibration: a calibrated user who can condition on local uncertainty enjoys positive expected value even in domains that fail the blind adoption test. Modelling mastery as learning a reliability map via Gaussian process regression yields a learning-rate bound driven by information gain, clarifying when discovering “where the model works” is slow. Finally, we study how scaling interacts with discoverability: when calibrated signals and user mastery accelerate the harvesting of scale improvements, and when opacity can make gains from scaling effectively invisible.</content>
-    <link href="https://www.nber.org/papers/w34712"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34713</id>
     <title>Teaching Economics to the Machines</title>
@@ -763,102 +355,6 @@
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34753</id>
-    <title>Psychology and Development: Applications from Cognitive and Social Psychology</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Emily Breza &amp; Supreet Kaur</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We outline a research agenda for behavioral development economics that seeks to understand the role of psychological channels in: (i) impeding individuals' ability to climb out of poverty, and (ii) shaping the organization of production, functioning of markets, and role of informal institutions in developing countries.  We apply a missing markets lens to rationalize why tools, products and services that help individuals overcome their biases will be under-supplied by the market and why behavioral biases can have large impacts in steady state, even among highly experienced agents. We argue that these biases are especially likely to matter for the field of development because core features of poverty---proximity to subsistence, high volatility,  market failures,  weak formal institutions, and reliance on social ties---amplify the impact of psychological constraints. We organize our review around a core set of psychological constructs: self-control, cognitive constraints, self-beliefs, mental health, and social norms. For each construct, we highlight places where there is only a proof of concept versus evidence of meaningful impacts, and the resultant implications for future research. We also highlight where social capital can be deployed to mitigate the impacts of missing markets. The field research to date has only begun to scratch the surface in document how psychological mechanisms affect behavior and decision-making, and substantial scope remains for future work to determine whether these constraints play a first-order role in shaping poverty.</content>
-    <link href="https://www.nber.org/papers/w34753"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34749</id>
-    <title>Understanding Latin America’s Fertility Decline: Age, Education, and Cohort Dynamics</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Milagros Onofri ⓡ Inés Berniell ⓡ Raquel Fernández ⓡ Azul Menduiña</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the sharp decline in fertility across Latin America using both period and cohort measures. Combining Vital Statistics, Census microdata, and UN population data, we decompose changes in fertility by age, education, and joint age–education groups. We show that the decline in period fertility between 2000 and 2022 is driven primarily by reductions in within-group birth rates rather than by changes in population composition, with the largest contributions coming from younger and less-educated women. Comparing the cohort born in the mid 1950s and the one born in the mid 1970s, we find that the decline in completed fertility reflects not only delayed childbearing but also substantial reductions in the average number of children per woman. This is driven primarily by lower fertility among mothers rather than by rising childlessness. Our findings provide new evidence on the nature of Latin America’s transition to below-replacement fertility and highlight several open questions for future research.</content>
-    <link href="https://www.nber.org/papers/w34749"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34721</id>
-    <title>Migration and the Making of the English Middle Class</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Vasiliki Fouka &amp; Theo Serlin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When do people identify with their class? Evidence from social psychology shows that individuals are more likely to identify with a group if they are similar to its members. We study early 20th century Britain and show that regional cultural heterogeneity combined with internal migration influenced class identity. We develop and validate a measure of class identity using naming decisions. Exploiting within-household variation, we show that migration patterns that increased the local share of culturally-distant workers reduced working class identification. Where migration increased the cultural distance of the working class, workers were less likely to join unions, voters were less likely to support the nascent Labour Party, and parliamentary candidates were less likely to target working class voters. By 1911, slower in-migration and rising local population growth reduced working class distance in urban areas, which also became strongholds of support for Labour. Migration alters social identity and creates political cleavages.</content>
-    <link href="https://www.nber.org/papers/w34721"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34735</id>
-    <title>Economic Development and the Environment</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>B. Kelsey Jack &amp; Nicholas Ryan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economic development relies on and transforms the environment. The transformation is evident in the poor environmental quality in many developing countries. For example, air quality in Southeast Asia is three times worse than in the United States, in sub-Saharan Africa four times worse and in South Asia more than six times worse. We model how environmental quality affects health, productivity and well-being and how individuals privately adapt to environmental hazards. We also model how collective action and formal regulation contribute to environmental quality. We draw three main findings from a review of empirical research on these mechanisms. First, individual adaptation to environmental hazards is both inadequate as a remedy and inefficiently low. Second, collective action, without the state, to manage resources or address externalities has been outstripped by the scale of environmental problems. Third, state action through formal regulation works better than it looks. Many formal regulations are coarse, poorly targeted and inefficient, but nonetheless yield benefits in excess of their costs.</content>
-    <link href="https://www.nber.org/papers/w34735"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34734</id>
-    <title>War and Democratic Backsliding</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Efraim Benmelech &amp; Joao Monteiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide the first global, long-run evidence on how war reshapes democratic institutions. Using data on all conflicts since 1948, we show that the onset of conflict causes a large and persistent decline in democracy: institutions weaken immediately, continue to erode for nearly a decade, and do not recover. Yet this deterioration is highly selective. It appears only in first-time conflicts, intrastate wars, highly fractionalized societies, and conflicts that governments win. The decline operates through political channels – media censorship, judicial purges, curtailed civil liberties, irregular leadership turnover, and constitutional suspensions - rather than through any functional requirement of war-making. Autocratization does not increase the probability of victory, and institutional instability reduces it. Taken together, the findings show that war does not require autocracy; it enables executives to expand their authority and implement institutional changes that would be difficult to enact in peacetime.</content>
-    <link href="https://www.nber.org/papers/w34734"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34733</id>
-    <title>Does Generative AI Crowd Out Human Creators? Evidence from Pixiv</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sueyoul Kim, Ginger Zhe Jin &amp; Eungik Lee</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a comprehensive dataset of posts from a major platform for anime- and manga-style artwork, we study the impact of the launch of a prominent text-to-image generative AI. Focusing on the majority of incumbent creators who do not adopt AI as a primary tool, we show that the AI launch led to a significant decline in post uploads by illustrators, whereas comic artists were less affected, reflecting the need for tight stylistic alignment across sequential images in comics. We present empirical evidence for two underlying mechanisms. First, illustration posts experience a loss of viewer attention, measured by bookmarks, following the AI launch, which can significantly harm creators’ business models. Second, direct competition from AI-generated content plays an important role: illustrators working on intellectual properties (IPs, such as Pokémon) that are more heavily invaded by AI reduce their uploads disproportionately more. We further examine creators’ responses and show that illustrators with greater exposure to AI avoid using tags favored by AI-generated content after the AI launch and broaden the range of IPs they work on, consistent with a risk-hedging response to AI invasion.</content>
-    <link href="https://www.nber.org/papers/w34733"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34732</id>
-    <title>The Twenty-four Hour Economy or Rolled-up Sidewalks: Trends in Work Timing and Their Causes</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jeff Biddle &amp; Daniel S. Hamermesh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We demonstrate nearly steady trends from 1973-2023 in the U.S. in the timing of when people work for pay, away from evening and night hours toward “usual” daytime hours. The trend is related to changes in rising educational attainment, to increased real incomes, and the increased wage premium for undesirable work times—evenings and nights—that we document. The trend exists in all major industries except retail, in which changes in technology biased work away from daytime hours. The trend was accelerated by the sharp increase in telework that occurred after the Covid pandemic, an increase that was especially concentrated during daytime hours. While we observe the same phenomenon in France from 1966 to 2010, we do not in the U.K. from 1974-2015, arguably because of the very sharp decline in unionization in the U.K. and the changes in retailing.</content>
-    <link href="https://www.nber.org/papers/w34732"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34731</id>
-    <title>Salience and the Elasticity of Taxable Income: Evidence from Top-bracket Tax Reforms</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xavier Dufour, Pierre-Carl Michaud &amp; Michael G. Smart</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate heterogeneous responses to top-bracket tax reforms using a triple-difference design that exploits variation in tax rate changes and the thresholds at which they apply. This strategy identifies behavioral responses even in the presence of unobservable shocks to the income distribution. Higher-income taxpayers respond more to top-rate changes, but our results indicate that this reflects the salience of the reforms—the larger mechanical change in average tax rates at higher incomes—rather than heterogeneity in substitution elasticities. We discuss implications for the revenue and distributional effects of top-bracket tax reforms.</content>
-    <link href="https://www.nber.org/papers/w34731"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34752</id>
     <title>The Response of Debtors to Rate Changes</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -1027,6 +523,66 @@
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34735</id>
+    <title>Economic Development and the Environment</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>B. Kelsey Jack &amp; Nicholas Ryan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economic development relies on and transforms the environment. The transformation is evident in the poor environmental quality in many developing countries. For example, air quality in Southeast Asia is three times worse than in the United States, in sub-Saharan Africa four times worse and in South Asia more than six times worse. We model how environmental quality affects health, productivity and well-being and how individuals privately adapt to environmental hazards. We also model how collective action and formal regulation contribute to environmental quality. We draw three main findings from a review of empirical research on these mechanisms. First, individual adaptation to environmental hazards is both inadequate as a remedy and inefficiently low. Second, collective action, without the state, to manage resources or address externalities has been outstripped by the scale of environmental problems. Third, state action through formal regulation works better than it looks. Many formal regulations are coarse, poorly targeted and inefficient, but nonetheless yield benefits in excess of their costs.</content>
+    <link href="https://www.nber.org/papers/w34735"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34734</id>
+    <title>War and Democratic Backsliding</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Efraim Benmelech &amp; Joao Monteiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide the first global, long-run evidence on how war reshapes democratic institutions. Using data on all conflicts since 1948, we show that the onset of conflict causes a large and persistent decline in democracy: institutions weaken immediately, continue to erode for nearly a decade, and do not recover. Yet this deterioration is highly selective. It appears only in first-time conflicts, intrastate wars, highly fractionalized societies, and conflicts that governments win. The decline operates through political channels – media censorship, judicial purges, curtailed civil liberties, irregular leadership turnover, and constitutional suspensions - rather than through any functional requirement of war-making. Autocratization does not increase the probability of victory, and institutional instability reduces it. Taken together, the findings show that war does not require autocracy; it enables executives to expand their authority and implement institutional changes that would be difficult to enact in peacetime.</content>
+    <link href="https://www.nber.org/papers/w34734"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34733</id>
+    <title>Does Generative AI Crowd Out Human Creators? Evidence from Pixiv</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sueyoul Kim, Ginger Zhe Jin &amp; Eungik Lee</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a comprehensive dataset of posts from a major platform for anime- and manga-style artwork, we study the impact of the launch of a prominent text-to-image generative AI. Focusing on the majority of incumbent creators who do not adopt AI as a primary tool, we show that the AI launch led to a significant decline in post uploads by illustrators, whereas comic artists were less affected, reflecting the need for tight stylistic alignment across sequential images in comics. We present empirical evidence for two underlying mechanisms. First, illustration posts experience a loss of viewer attention, measured by bookmarks, following the AI launch, which can significantly harm creators’ business models. Second, direct competition from AI-generated content plays an important role: illustrators working on intellectual properties (IPs, such as Pokémon) that are more heavily invaded by AI reduce their uploads disproportionately more. We further examine creators’ responses and show that illustrators with greater exposure to AI avoid using tags favored by AI-generated content after the AI launch and broaden the range of IPs they work on, consistent with a risk-hedging response to AI invasion.</content>
+    <link href="https://www.nber.org/papers/w34733"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34732</id>
+    <title>The Twenty-four Hour Economy or Rolled-up Sidewalks: Trends in Work Timing and Their Causes</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jeff Biddle &amp; Daniel S. Hamermesh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We demonstrate nearly steady trends from 1973-2023 in the U.S. in the timing of when people work for pay, away from evening and night hours toward “usual” daytime hours. The trend is related to changes in rising educational attainment, to increased real incomes, and the increased wage premium for undesirable work times—evenings and nights—that we document. The trend exists in all major industries except retail, in which changes in technology biased work away from daytime hours. The trend was accelerated by the sharp increase in telework that occurred after the Covid pandemic, an increase that was especially concentrated during daytime hours. While we observe the same phenomenon in France from 1966 to 2010, we do not in the U.K. from 1974-2015, arguably because of the very sharp decline in unionization in the U.K. and the changes in retailing.</content>
+    <link href="https://www.nber.org/papers/w34732"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34731</id>
+    <title>Salience and the Elasticity of Taxable Income: Evidence from Top-bracket Tax Reforms</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xavier Dufour, Pierre-Carl Michaud &amp; Michael G. Smart</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate heterogeneous responses to top-bracket tax reforms using a triple-difference design that exploits variation in tax rate changes and the thresholds at which they apply. This strategy identifies behavioral responses even in the presence of unobservable shocks to the income distribution. Higher-income taxpayers respond more to top-rate changes, but our results indicate that this reflects the salience of the reforms—the larger mechanical change in average tax rates at higher incomes—rather than heterogeneity in substitution elasticities. We discuss implications for the revenue and distributional effects of top-bracket tax reforms.</content>
+    <link href="https://www.nber.org/papers/w34731"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34729</id>
     <title>No Taxation Without Administration: Bringing The State Back Into The Public Finance Of Developing Countries</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -1112,6 +668,43 @@ We illustrate the key concepts with a simple entry game. We show how unordered i
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34740</id>
+    <title>Current Account Deficits and the Welfare of Future Generations</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher Phelan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores the effects of one nation's  taxation of consumption on the welfare of future generations of other countries. To do this, it presents an otherwise standard one-good, two-country optimal growth model with free capital markets, but where each date represents the lifetime of a generation which cares not only about its own consumption and leisure, but also that of its descendants.
+Relative to a no tax benchmark, a policy of one country taxing consumption of its initial generations has ambiguous welfare effects for future generations of the other country, as long as those future generations are not too far in the future.   Higher initial savings in the first country raises capital levels, and thus wages, in both countries, raising welfare of future generations in the second country, but also induces lower bequests in the second country, lowering the welfare of its future generations.  In the long run, or for generations born near the steady state, the welfare effects of the first country inducing lower consumption of its initial generations are unambiguous: future generations of the second country are made worse off.  Households born in the second country will regret that their ancestors allowed such policy-induced intertemporal trade.</content>
+    <link href="https://www.nber.org/papers/w34740"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34753</id>
+    <title>Psychology and Development: Applications from Cognitive and Social Psychology</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Emily Breza &amp; Supreet Kaur</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We outline a research agenda for behavioral development economics that seeks to understand the role of psychological channels in: (i) impeding individuals' ability to climb out of poverty, and (ii) shaping the organization of production, functioning of markets, and role of informal institutions in developing countries.  We apply a missing markets lens to rationalize why tools, products and services that help individuals overcome their biases will be under-supplied by the market and why behavioral biases can have large impacts in steady state, even among highly experienced agents. We argue that these biases are especially likely to matter for the field of development because core features of poverty---proximity to subsistence, high volatility,  market failures,  weak formal institutions, and reliance on social ties---amplify the impact of psychological constraints. We organize our review around a core set of psychological constructs: self-control, cognitive constraints, self-beliefs, mental health, and social norms. For each construct, we highlight places where there is only a proof of concept versus evidence of meaningful impacts, and the resultant implications for future research. We also highlight where social capital can be deployed to mitigate the impacts of missing markets. The field research to date has only begun to scratch the surface in document how psychological mechanisms affect behavior and decision-making, and substantial scope remains for future work to determine whether these constraints play a first-order role in shaping poverty.</content>
+    <link href="https://www.nber.org/papers/w34753"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34749</id>
+    <title>Understanding Latin America’s Fertility Decline: Age, Education, and Cohort Dynamics</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Milagros Onofri ⓡ Inés Berniell ⓡ Raquel Fernández ⓡ Azul Menduiña</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the sharp decline in fertility across Latin America using both period and cohort measures. Combining Vital Statistics, Census microdata, and UN population data, we decompose changes in fertility by age, education, and joint age–education groups. We show that the decline in period fertility between 2000 and 2022 is driven primarily by reductions in within-group birth rates rather than by changes in population composition, with the largest contributions coming from younger and less-educated women. Comparing the cohort born in the mid 1950s and the one born in the mid 1970s, we find that the decline in completed fertility reflects not only delayed childbearing but also substantial reductions in the average number of children per woman. This is driven primarily by lower fertility among mothers rather than by rising childlessness. Our findings provide new evidence on the nature of Latin America’s transition to below-replacement fertility and highlight several open questions for future research.</content>
+    <link href="https://www.nber.org/papers/w34749"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34722</id>
     <title>Speculative Growth and the AI "Bubble"</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -1172,19 +765,6 @@ We illustrate the key concepts with a simple entry game. We show how unordered i
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34740</id>
-    <title>Current Account Deficits and the Welfare of Future Generations</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Phelan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores the effects of one nation's  taxation of consumption on the welfare of future generations of other countries. To do this, it presents an otherwise standard one-good, two-country optimal growth model with free capital markets, but where each date represents the lifetime of a generation which cares not only about its own consumption and leisure, but also that of its descendants.
-Relative to a no tax benchmark, a policy of one country taxing consumption of its initial generations has ambiguous welfare effects for future generations of the other country, as long as those future generations are not too far in the future.   Higher initial savings in the first country raises capital levels, and thus wages, in both countries, raising welfare of future generations in the second country, but also induces lower bequests in the second country, lowering the welfare of its future generations.  In the long run, or for generations born near the steady state, the welfare effects of the first country inducing lower consumption of its initial generations are unambiguous: future generations of the second country are made worse off.  Households born in the second country will regret that their ancestors allowed such policy-induced intertemporal trade.</content>
-    <link href="https://www.nber.org/papers/w34740"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34716</id>
     <title>Gender Norms and the Labor Market</title>
     <updated>2026-01-01T00:00:00+00:00</updated>
@@ -1207,5 +787,427 @@ Relative to a no tax benchmark, a policy of one country taxing consumption of it
     <link href="https://www.nber.org/papers/w34715"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34721</id>
+    <title>Migration and the Making of the English Middle Class</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Vasiliki Fouka &amp; Theo Serlin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When do people identify with their class? Evidence from social psychology shows that individuals are more likely to identify with a group if they are similar to its members. We study early 20th century Britain and show that regional cultural heterogeneity combined with internal migration influenced class identity. We develop and validate a measure of class identity using naming decisions. Exploiting within-household variation, we show that migration patterns that increased the local share of culturally-distant workers reduced working class identification. Where migration increased the cultural distance of the working class, workers were less likely to join unions, voters were less likely to support the nascent Labour Party, and parliamentary candidates were less likely to target working class voters. By 1911, slower in-migration and rising local population growth reduced working class distance in urban areas, which also became strongholds of support for Labour. Migration alters social identity and creates political cleavages.</content>
+    <link href="https://www.nber.org/papers/w34721"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34786</id>
+    <title>Well-being Increases in Age Among Workers: Evidence From 103 Countries</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>David G. Blanchflower &amp; Alex Bryson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how workers’ and non-workers’ wellbeing varies by age across 171 countries in eight international surveys. In 103 countries (60%) we find evidence that workers’ wellbeing rises with age and workers' illbeing falls with age. This relationship appears to have strengthened over time in some countries.  Patterns are different among non-workers and are sensitive to survey mode. Where surveys are conducted using Computer-Assisted Web-based Interviews (CAWI) non-workers’ wellbeing is U-shaped, but this is less clear-cut when the data are collected with Computer-Assisted Telephone Interviews (CATI). The change in the age profile of workers’ wellbeing may reflect changes in selection into (out of) employment by age, changes in job quality, or changes in young workers’ orientation to similar jobs over time.  But changes in smartphone usage – often the focus of debate regarding declining young peoples’ wellbeing – are unlikely to be the main culprit unless there are sizeable differences in smartphone usage across young workers and non-workers, which appears unlikely.</content>
+    <link href="https://www.nber.org/papers/w34786"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34784</id>
+    <title>Changing Culture and Norms in Developing Countries</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eliana La Ferrara &amp; David H. Yanagizawa-Drott</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We survey recent research on changing culture and social norms in developing countries and propose a simple framework to interpret these changes. We conceptualize individual utility from a given action as a function of three components: intrinsic valuations, material payoffs, and social interactions. Using this lens, we review evidence on interventions that target each component and their interactions.
+First, we discuss efforts to shift intrinsic values through schooling and curricula, information campaigns, mass media, and empowerment programs, with particular attention to gender norms, intimate partner violence, and harmful practices such as female genital cutting. Second, we examine social determinants of behavior, including misperceptions about others’ beliefs, coordination failures, and the role of intermediate “stepping-stone” actions in facilitating or hindering norm transitions. Third, we analyze how changes in material incentives, via labor market opportunities, transfers, and legal reforms, affect behavior and underlying norms.
+Throughout, we highlight methodological challenges in measuring norms and identifying mechanisms, and we emphasize that policy effects depend critically on existing social structures and belief distributions. We conclude by outlining open questions from a positive and normative perspective.</content>
+    <link href="https://www.nber.org/papers/w34784"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34783</id>
+    <title>Banking on Inattention</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xu Lu &amp; Lingxuan Wu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We demonstrate that depositor inattention gives rise to banks’ deposit market power. Using transaction-level data on millions of U.S. depositors, we document that unscheduled income remains in low-rate accounts much longer than scheduled income, and interpret this reaction-time gap as inattention. Inattention varies widely across depositors, and more inattentive depositors adjust their balances less in response to monetary policy changes. We then develop and test a theory of temporal monopoly to analyze the implications of inattention for bank funding. Banks face an intertemporal trade-off in deposit rate setting between current spreads and the future deposit base, modulated by inattention. In line with this theory, we find that banks serving more inattentive depositors set lower rates, have weaker pass-through, and experience less deposit flow sensitivity. Using these estimates, we calibrate how the value of banks’ deposit franchise rises with inattention and varies nonmonotonically with the policy rate. Our results shed new light on how digital banking and monetary policy affect deposit funding.</content>
+    <link href="https://www.nber.org/papers/w34783"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34782</id>
+    <title>Managers and the Cultural Transmission of Gender Norms</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Virginia Minni, Kieu-Trang Nguyen, Heather Sarsons &amp; Carla Srebot</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies how managers’ gender attitudes shape workplace culture and gender inequality. Using data from a multinational firm operating in over 100 countries, we leverage cross-country manager rotations to identify the effects of male managers' gender attitudes on gender pay gaps within a team. Managers from countries with one standard deviation more progressive gender attitudes reduce the pay gap by 5 percentage points (18%), largely through higher promotion rates for women. These effects persist after managers rotate out and are strongest in more conservative countries. Managers with progressive attitudes also influence the local office culture, as local managers who interact with but are not under the purview of the foreign manager begin to have smaller pay gaps in their teams. Our evidence points to individual managers as critical in shaping corporate culture.</content>
+    <link href="https://www.nber.org/papers/w34782"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34781</id>
+    <title>Enhancing Worker Productivity Without Automating Tasks: A Different Approach to AI and the Task-Based Model</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ajay K. Agrawal, John McHale &amp; Alexander Oettl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The task-based approach has become the dominant framework for studying the labor-market effects of artificial intelligence (AI), typically emphasizing the replacement of human workers by machines. Motivated by growing empirical evidence that contemporary AI is more often used as a tool that augments workers, this paper develops two related task-based models in which AI enhances worker productivity without automating tasks. Abstracting from capital, we develop a pair of related task-based models that examine how technological progress in AI that provides new tools to augment workers affects aggregate productivity and wage inequality. Both models emphasize the role of human capital in intermediating the effects of AI-related technological shocks. In the first model, AI use requires specialized expertise, and technological progress expands the set of tasks for which such expertise is effective. We show that a larger supply of AI expertise amplifies the productivity gains from improvements in AI technology while attenuating its adverse effects on wage inequality. The second model focuses on non-AI skills, allowing AI tools to alter the set of tasks that workers can perform given their skills. In equilibrium, workers allocate across tasks in response to wages, generating an endogenous distribution of skills across the task space. A central result is that aggregate productivity and wage inequality depend on different global properties of this equilibrium distribution: productivity is particularly sensitive to thinly staffed tasks that create bottlenecks, while wage inequality is driven by the concentration of workers in a narrow set of tasks. As a result, improvements in AI tools can induce non-monotonic co-movement between productivity and inequality. By linking these mechanisms to multidimensional human capital---including AI expertise and higher-order non-AI skills---the paper highlights the role of education and training policies in shaping the economic consequences of AI-driven technological change.</content>
+    <link href="https://www.nber.org/papers/w34781"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34778</id>
+    <title>The Effect of Charter Schools on Identification, Service Provision, and Achievement of Students with Disabilities</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Scott A. Imberman &amp; Andrew S. Johnson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Students with disabilities (SWDs) encompass a sizable share of charter students and have an array of individualized needs. Charter schools may operate differently than traditional public schools with respect to SWDs and special education (SPED), as funding incentives may induce charter schools to underserve SWDs. Nonetheless, there is little empirical evidence regarding how enrollment in charter schools affects SWDs’ educational environments and outcomes. We use data from Michigan to estimate charter impacts using a heterogeneous difference-in-differences model that compares students who enter charters to students who have not yet but will eventually enter charters. We find that charters are slightly more likely to identify students as SWDs after charter entry. While assignments to SPED programs increase comparably, there is a significant reduction and subsequent reversion in time spent in SPED-specific environments and services provided. Despite these changes, SWDs realize achievement and attendance gains after charter entry at similar levels to non-SWDs.</content>
+    <link href="https://www.nber.org/papers/w34778"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34777</id>
+    <title>AI and the Quantity and Quality of Creative Products: Have LLMs Boosted Creation of Valuable Books?</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Imke Reimers &amp; Joel Waldfogel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;With the diffusion of LLMs between 2022 and 2025, new book releases have tripled, raising a question of AI's impact on book quality. We develop a ratings-based usage measure that is comparable across book release vintages, and we find that the vintages from the AI influx period have lower average quality.  Yet, the top 1,000 monthly releases per category - albeit not the top 100 - have higher quality than before; and the effect is larger in categories with faster growth in new titles. Authors entering since the LLM influx produce predominantly low-quality work; and the higher-quality output of pre-LLM authors entrants has risen. A nested logit calibration shows that LLM-enhanced book production could, in steady state, raise the surplus that consumers derive from book markets by a quarter to a half.</content>
+    <link href="https://www.nber.org/papers/w34777"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34785</id>
+    <title>Trade and US Inequality in the Tokyo Round</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew Greenland, James Lake &amp; John Lopresti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Against a backdrop of sharply rising inequality, the Tokyo Round of the GATT resulted in a 1.6 percentage point reduction in average US tariffs – larger than CUSFTA, NAFTA, and the liberalization accompanying the granting of PNTR to China. We construct a novel IV based on the so-called “Swiss formula” that governed the Tokyo Round tariff liberalization to provide evidence of its effects on imports and inequality. Instrumented tariff reductions explain approximately 20% of the rise in income inequality between non-production and production workers between 1979 and 1988. This effect is largest among women, workers in routine occupations, and workers in more technology-intensive industries, suggesting a complementarity between trade liberalization and skill-biased technological change.</content>
+    <link href="https://www.nber.org/papers/w34785"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34780</id>
+    <title>Optimal Use of Preferences in Artificial Intelligence Algorithms</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Machine learning systems embed preferences either in training losses or through post-processing of calibrated predictions. Applying information design methods from Strack and Yang (2024), this paper provides decision-problem-agnostic conditions under which separation—training preference-free and applying preferences ex post is optimal. Unlike prior work that requires specifying downstream objectives, the welfare results here apply uniformly across decision problems. The key primitive is a diminishing-value-of-information condition: relative to a fixed (normalised) preference-free loss, preference embedding makes informativeness less valuable at the margin, inducing a mean-preserving contraction of learned posteriors. Because the value of information is convex in beliefs, preference-free training weakly dominates for any expected-utility decision problem. This provides theoretical foundations for modular AI pipelines that learn calibrated probabilities and implement asymmetric costs through downstream decision rules. However, separation requires users to implement optimal decision rules. When cognitive constraints bind—as documented in human-AI decision-making—preference embedding can dominate by automating threshold computation. These results provide design guidance: preserve optionality through postprocessing when objectives may shift; embed preferences when decision-stage frictions dominate.</content>
+    <link href="https://www.nber.org/papers/w34780"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34779</id>
+    <title>A.I. and Our Economic Future</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Charles I. Jones</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence (A.I.) will likely be the most important technology we have ever developed. Technologies such as electricity, semiconductors, and the internet have been transformative, reshaping economic activity and dramatically increasing living standards throughout the world. In some sense, artificial intelligence is simply the latest of these general purpose technologies and at a minimum should continue the economic transformation that has been ongoing for the past century. However, the case can certainly be made that this time is different. Automating intelligence itself arguably has broader effects than electricity or semiconductors. What if machines—A.I. for cognitive tasks and A.I. plus advanced robots for physical tasks—can perform every task a human can do but more cheaply?  What does economics have to say about this possibility, and what might our economic future look like?</content>
+    <link href="https://www.nber.org/papers/w34779"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34776</id>
+    <title>Audit Centralization and Audit Quality: Evidence from Chinese Cities</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jian Chu, Raymond Fisman, Yongxiang Wang &amp; Maoliang Ye</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Audit design invokes a tradeoff between a monitor’s local knowledge and their independence from influence. We study this tradeoff in the context of a pilot program in six Chinese provinces in 2016, in which provincial governments were given control over budgeting and personnel decisions for city audits. Using a difference-in-differences framework we show that, compared to non-pilot provinces, centralization increases detection of suspicious expenditures by over 50%. These improvements occur also in cities with auditors appointed pre-2016, suggesting that stronger incentives and greater resources rather than auditor selection explain the improvements. Consistent with this interpretation, we find that financial (but not human) resources devoted to city audits increase with centralization. Further results show that centralization’s benefits are strongest in provinces that centralized audit office financing as part of the reform – particularly in poorer cities – suggesting a role for resources in improved performance.</content>
+    <link href="https://www.nber.org/papers/w34776"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34769</id>
+    <title>Why Does Height Pay? Evidence from the Kenya Life Panel Survey</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Wilson King, Edward Miguel &amp; Michael W. Walker</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Taller people earn more, especially in low- and middle-income countries. We present among the first evidence of this phenomenon in Africa, using longitudinal microdata on a cohort of middle-aged Kenyan adults. We document a substantial height/earnings premium: controlling for gender, age, and other socio-demographics, monthly earnings increase by 1.07% per centimeter (or 2.72% per inch). Nearly half this effect can be explained by differences in cognition, measured from an unusually rich battery containing 27 modules. Additional shares of the premium can be attributed to measures of physical strength and non-cognitive ability. In contrast to prior work, we find little role for occupational sorting: conditional on cognitive and non-cognitive ability, taller people do not appear more likely to work in higher paid sectors. Leveraging repeated measures of height and an instrumental variables specification, we find suggestive evidence that measurement error may be attenuating the estimated relationship.</content>
+    <link href="https://www.nber.org/papers/w34769"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34768</id>
+    <title>Welfare Added? Optimal Teacher Assignment with Value-Added Measures</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Tanner S. Eastmond, Michael Ricks, Julian Betts &amp; Nathan Mather</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how teacher "value added" should inform optimal teacher-assignment policy. Our welfare-theoretic framework illustrates (1) how theoretically optimal assignments leverage variation in teachers' impacts both across student types and across different outcomes, and (2) how empirically optimal assignments trade off improved targeting from estimating richer student heterogeneity against increasing misallocation risk. In practice, optimal assignments use limited student types (only lagged achievement) and multiple outcomes (not just math). Even after correcting for policy overfitting, assignments raise average present-value earnings by $2,800 and increase lower-achieving students' earnings by 70-156% more than benchmark value-added policies that assume that teacher effects are homogeneous across students, that allow for heterogeneous effects across students but for a single subject, or teacher deselection.</content>
+    <link href="https://www.nber.org/papers/w34768"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34763</id>
+    <title>Driving Innovation: The Policy Tools Powering Electric Vehicle Technological Inventions</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jingni Zhang &amp; David Popp</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Electric vehicles (EVs) are crucial for cutting transportation emissions, yet the policy drivers of EV innovation remain underexplored. This study analyzes firm-level panel data on EV and battery patents, covering more than 4,000 firms across 19 countries from 2010 to 2021, to assess how these policy tools and their interactions in different time horizons influence innovative activity. We test the effects of individual policy instruments that either raise demand for EVs or support the development of EV technologies.  Stringent fuel-economy standards, financial incentives, adoption targets, and public R&amp;D investments each significantly increase patenting in EV and battery technologies. Moreover, long-term EV targets amplify the innovative impact of public R&amp;D and standards while diminishing the marginal effect of short-term price signals. The results suggest that governments can accelerate clean automotive innovation by combining long-term adoption commitments with sustained R&amp;D investment or strong performance standards, and by managing these instruments as a coordinated policy portfolio rather than as separate tools. The study contributes cross-country, firm-level evidence that links policy design to the direction of clean technology innovation.</content>
+    <link href="https://www.nber.org/papers/w34763"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34761</id>
+    <title>Clientelism: How It Works, Why It Persists and How to Break It</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jimmy Graham, Horacio Larreguy &amp; Pablo Querubín</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter surveys the economics and political science literature on clientelism. We define clientelism as the exchange of votes or electoral participation for targeted material benefits and argue that it undermines electoral accountability, fostering rent-seeking and the underprovision of public goods. We document the prevalence of clientelism across countries and over time and examine how economic underdevelopment both facilitates clientelistic practices and may be perpetuated by them. We then analyze the agency problems that characterize clientelistic exchanges, focusing on broker–voter and politician–broker relationships, and review evidence on the roles of monitoring, selection, and social networks in sustaining these relationships. Finally, we discuss how clientelistic machines are financed, assess interventions aimed at weakening clientelism and promoting programmatic competition, and outline directions for future research.</content>
+    <link href="https://www.nber.org/papers/w34761"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34760</id>
+    <title>Mapping Technological Trajectories: Evidence from Two Centuries of Patent Data</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Antonin Bergeaud, Ruveyda Nur Gozen &amp; John Van Reenen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a methodology to measure cross-country trends in innovation capability - “technological trajectories” and implement this on a new rich dataset covering patents between 1836 and 2016 across multiple countries. Intuitively, trajectories are revealed by a country’s sustained increases in patenting across multiple patent offices. We first describe the data patterns, showing the relative decline of the UK, and the rise first of the US and Germany, and then later of Japan and China. We then econometrically estimate trajectories on (i) the post-1902 period for France, Germany, Japan, the UK and US, and (ii) the post-1960 period for a wider sample of 40 countries. Our trajectories are strongly positively correlated with Total Factor Productivity growth, and also (but less strongly) associated with the growth of labour productivity and capital intensity. We show that future trajectories are predicted by a country’s initial levels of R&amp;D, education and defence spending, classic drivers of innovation in modern growth theory.</content>
+    <link href="https://www.nber.org/papers/w34760"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34756</id>
+    <title>Wedges: A Microeconomic Perspective on Misallocation</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lauren F. Bergquist, Danial Lashkari &amp; Eric Verhoogen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This chapter takes stock of what has been learned from the recent micro-development literature about wedges—mechanisms generating dispersion in marginal revenue products of factors across firms, which are commonly interpreted as indicators of misallocation. We present a general theoretical framework that allows us to consider several different types of wedges simultaneously. We argue that it is important to distinguish between between technological wedges, which are present even in the efficient allocation that would be chosen by the social planner, and distortionary wedges, which are present in market equilibrium but not the social planner's allocation. Not all wedges, as we have defined them, are distortionary. We also argue that interactions among wedges are pervasive. We review empirical findings about different types of wedges—taxes, regulations, political connections, corruption, market power, contracting frictions, upgrading investments, and search—focusing on studies that present direct evidence on particular wedges and how they generate dispersion in marginal returns to factors. Throughout, we pay special attention to how wedges vary with firm size and whether the evidence supports the “large firms are constrained” view of development. We conclude with thoughts about promising directions for the misallocation literature.</content>
+    <link href="https://www.nber.org/papers/w34756"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34759</id>
+    <title>Poverty and Dependency in the United States, 1939–2023</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Richard V. Burkhauser &amp; Kevin Corinth</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We compare trends in absolute poverty before (1939–1963) and after (1963–2023) the War on Poverty was declared. Our primary methodological contribution is to create a post-tax post-transfer income measure using the 1940, 1950 and 1960 Decennial Censuses through imputations of taxes and transfers as well as certain forms of market income including perquisites (Collins and Wanamaker 2022), consistent with the full income measures developed by Burkhauser et al. (2024) for subsequent years. From 1939–1963, poverty fell by 29 percentage points, with even larger declines for Black people and all children. While absolute poverty continued to fall following the War on Poverty’s declaration, the pace was no faster, even when evaluating the trends relative to a consistent initial poverty rate. Furthermore, the pre-1964 decline in poverty among working age adults and children was achieved almost completely through increases in market income, during which time only 2–3 percent of working age adults were dependent on the government for at least half of their income, compared to dependency rates of 7–15 percent from 1972–2023. In contrast to progress on absolute poverty, reductions in relative poverty were more modest from 1939–1963 and even less so since then.</content>
+    <link href="https://www.nber.org/papers/w34759"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34755</id>
+    <title>Learning to Quit? A Multi-Year, Multi-Site Field Experiment with Innovation-Driven Entrepreneurs</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Esther Bailey, Daniel Fehder, Eric Floyd, Yael Hochberg &amp; Daniel J. Lee</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use a randomized experiment with 553 science- and technology-based startups in 12 co-working spaces across the US to evaluate the effects of intensive, short-term entrepreneurial training programs on survival and performance for innovation-driven startups. Treated startups are more likely to shut down their businesses and do so sooner than control startups. Conditional on survival, however, treated startups are more likely to raise external funding for their ventures, raise funding faster, and raise more funding than the control group; they also exhibit higher employment and revenue. Treated founders are less likely to found a new startup after shutdown. Our findings are consistent with practitioner arguments that early entrepreneurship training interventions can help entrepreneurs with less viable ventures “rationally quit” (“fail fast”). We use machine learning techniques (causal random forest) to provide exploratory insights on the most impacted subgroups.</content>
+    <link href="https://www.nber.org/papers/w34755"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34758</id>
+    <title>The Redistributive Effects of Federal Medicaid Outlays Across Counties: Evidence from the ACA</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Laura Montenovo, Kosali I. Simon &amp; Coady Wing</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how Medicaid expansion under the Affordable Care Act reshaped federal transfer inflows to counties using state Medicaid expansions between 2014 and 2017. We show that the ACA expansion increased federal Medicaid transfers by $361 per capita in expansion counties. Using our estimates, we forecast that non-expansion counties would gain $554 per capita if they expanded Medicaid. These transfers flow to counties with lower tax capacity and lower gross income. Our findings suggest that Medicaid expansion was a health policy intervention that also functioned as a budgetary mechanism reshaping federal to local transfers and fiscal smoothing across U.S. counties.</content>
+    <link href="https://www.nber.org/papers/w34758"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34754</id>
+    <title>The Macroeconomic Effects of Neighborhood Policies: a Dynamic Analysis</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alessandra Fogli, Veronica Guerrieri, Mark Ponder &amp; Marta Prato</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the macroeconomic effects of neighborhood-specific policies in a general equilibrium model of a city with endogenous residential sorting and educational investment. A key feature of the model is the presence of endogenous local spillovers that depend on the distribution of families across neighborhoods. We analyze three policies: a housing-voucher policy inspired by the MTO program, which enables poor families to relocate to low-poverty neighborhoods; a place-based transfer (PBT) policy that provides monetary transfers to families in poor neighborhoods; and a place-based investment (PBI) policy that invests resources in local institutions, such as public schools, to directly enhance local spillovers. We find that the MTO policy generates substantial income gains for children of recipient families, but scaling up the program dampens these gains and induces large welfare losses for non-recipients. By contrast, the PBT policy delivers larger average welfare gains but is less effective in reducing inequality and segregation. Finally, the PBI policy produces smaller short-run effects but, over time, resolves the trade-off by raising average welfare while simultaneously reducing inequality, lowering segregation, and improving intergenerational mobility.</content>
+    <link href="https://www.nber.org/papers/w34754"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34775</id>
+    <title>Immigration Restrictions and Natives' Intergenerational Mobility: Evidence from the 1920s US Quota Acts</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>James J. Feigenbaum, Yi-Ju Hung, Marco Tabellini &amp; Monia Tomasella</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the effects of immigration restrictions on the intergenerational mobility of US-born men in the United States. We link US-born sons observed in 1900, 1920, and 1940 full-count Censuses to their fathers, and construct a measure of county-level exposure to the 1920s immigration acts, which sharply curtailed immigration from Southern and Eastern Europe. Exploiting this policy-induced variation, we find that the quotas reduced intergenerational mobility among US-born white men, but had no adverse effect for Black men. Among whites, losses were smaller for sons of richer fathers, who were more likely to migrate away from highly exposed areas. Evidence from the 1940 Census indicates that exposed white men were less likely to be employed and earned lower wages in adulthood, consistent with both occupational downgrading and reduced productivity within occupations. We show that these effects operated through both reduced immigrant–native complementarities and incomplete substitution from unrestricted migration, while human capital investment can  explain at most only a modest part of the total effect.</content>
+    <link href="https://www.nber.org/papers/w34775"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34774</id>
+    <title>Estimating Demand Systems with Bidding Data</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jason Allen, Jakub Kastl &amp; Milena Wittwer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce a  framework for estimating demand across multiple assets with bidding  data. Unlike existing methods, our approach does not rely on price instruments, which are often difficult to obtain. We describe the data requirements for implementation and illustrate its versatility using two applications: message-level data from Nasdaq and bidder-level data from Canadian Treasury bill auctions.  We argue that understanding demand systems is a crucial factor in assessing the impact of market design on price stability and liquidity.</content>
+    <link href="https://www.nber.org/papers/w34774"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34773</id>
+    <title>How do Foundations Help Charities (Beyond Giving them Money)?</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel M. Hungerman, Teresa Harrison &amp; Sherry X. Li</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Foundations are a rapidly growing source of charitable support, yet their effects on nonprofits remain poorly understood. We study applicants to a $100 million funding competition whose sponsoring foundation subsequently offered publicity, networking, and advice to a subset of unsuccessful entrants. This support substantially improved later fundraising for smaller charities. Our estimates indicate that the foundation’s support generated over $40 million in income in the years following the competition. These findings offer novel evidence of how large donors can influence nonprofit success even without awarding funds, and show how funding competitions might be structured to help charities raise additional resources.</content>
+    <link href="https://www.nber.org/papers/w34773"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34772</id>
+    <title>Stress Relief? Externalities from Specialty Hospital Entry</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel R. Arnold, Michael R. Richards &amp; Christopher M. Whaley</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Mental illness exacts a heavy toll on the US healthcare system and strains general hospitals and their emergency departments. We study how psychiatric inpatient facility entry impacts the local hospital industry. We find that referrals, including from the legal system, are redirected to the specialized facilities––leaving general hospitals with approximately 60% fewer psychiatric admissions. General hospitals also discharge 50% more patients to psychiatric facilities and substitute away from high-skill psychiatric labor––consistent with specialization and market segmentation. Emergency department volumes do not change but care does. However, community-based crime, overdose deaths, and suicides do not decline in the short-run.</content>
+    <link href="https://www.nber.org/papers/w34772"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34771</id>
+    <title>Dynamic Selection and the Puzzle of Slow Climate Change Adaptation in U.S. Agriculture</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Robert Huang &amp; Matthew E. Kahn</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Long-run studies of agricultural productivity use balanced county-level panel data to document slow adaptation to climate change in U.S. agriculture. We revisit this treatment-effect puzzle using a selection model that incorporates the optimizing behavior of heterogeneous farmers. Using data from 1980 to 2020, we document three dynamic selection effects. First, counties that completely exit farming alter the composition of the balanced panel sample. Second, higher-skilled workers are more likely to leave rural areas as weather conditions worsen. Third, smaller farms consolidate into larger farms in counties affected by climate change. We document that the yield damage function’s slope depends on the county’s educational level and farm size.  Causal estimates of weather impacts must account for selection effects along several adaptation margins of adjustment.</content>
+    <link href="https://www.nber.org/papers/w34771"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34770</id>
+    <title>The Life-cycle of Concentrated Industries</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Martin Beraja &amp; Francisco J. Buera</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Are competition policies designed for static industries suitable for innovative industries where dynamic competition for the market is key? If not, how should policies differ? We develop a model of the life-cycle of an oligopolistic industry: a version of Jovanovic and MacDonald (1994) with a finite number of firms. The equilibrium features a period of intense entry, followed by a shakeout and eventual industry concentration as some firms scale through innovation while most exit. We analyze the second-best problem of a government subsidizing small firms to promote competition. Innovation and dynamic competition do not necessarily justify intervention, as the equilibrium can still be second best. In general, the optimal policy depends on the nature of competition. Firms primarily compete for the market when innovation leads to large differences in scale. The government can wait to intervene in this case; committing to do whatever it takes to promote competition if and when the industry concentrates excessively. Subsidies early in the life-cycle are unnecessary. These results contrast with calls for aggressive ex-ante regulation in highly innovative industries, suggesting a wait-and-see approach may be preferable. We apply these insights to digital and AI industries in the U.S. using data on venture-backed firms.</content>
+    <link href="https://www.nber.org/papers/w34770"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34767</id>
+    <title>Life-Cycle Effects of Women's Education on their Careers and Children</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Na'ama Shenhav &amp; Danielle H. Sandler</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the causal effect of women's education on their wages, non-wage job amenities, and spillovers to children. Using a regression discontinuity at the school entry birthdate cutoff, we find that women born just before the cutoff are more likely to complete some college, and experience multi-dimensional career gains that grow over the life cycle: greater employment and earnings, as well as more professional and higher-status jobs, more socially meaningful work, and better working conditions. Children’s early-life health and prenatal inputs improve in tandem with career improvements, consistent with professional advances spurring—not hindering—infant investments. Career gains are concentrated in jobs that require exactly some college, the same schooling margin shifted by the cutoff, which indicates that increased post-secondary education is the primary channel for these effects. Together, the results show that women's college attendance generates large career returns—from both wages and amenities—that strengthen over time and produce meaningful benefits for children.</content>
+    <link href="https://www.nber.org/papers/w34767"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34766</id>
+    <title>Competition, Procurement and Learning-By-Doing in the Space Launch Industry</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ruibing Su, Chenyu Yang &amp; Andrew Sweeting</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate a dynamic model of the U.S. space launch industry. The model allows past launches to improve rocket reliability and lower launch costs. It also allows the government to make forward-looking procurement choices. We use the model to analyze policy-relevant issues in the recent history of the industry: the 2006 United Launch Alliance “merger-to-monopoly” and the effects of efficiencies in the form of learning synergies; innovations, such as SpaceX's Falcon 9 and ULA's recent introduction of Vulcan Centaur; the costs and benefits of forward-looking procurements; and, the trade-offs between the advantages of centralized control and possible inefficiencies.</content>
+    <link href="https://www.nber.org/papers/w34766"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34765</id>
+    <title>The Future of Monetarism after Milton Friedman</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael D. Bordo</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;On the fiftieth anniversary of Milton Friedman receiving the Nobel Prize in economics, I reflect on the legacy of monetarism – his revolutionary idea. Friedman developed the modern quantity of money in 1956 as a challenge to the prevailing Keynesian view that “money did not matter.” Friedman’s empirical and historical research made a strong case that changes in the money supply, largely instituted by the monetary authorities, account for much of the macro instability in the twentieth century including the Great Recession 1929-1933 and the Great Inflation 1965 -1982. Friedman’s ideas were at the base of the creation of modern macroeconomics, and of the adoption by many central banks of rules based monetary policy as a guidepost to maintain credibility for low inflation. His emphasis on monetary aggregates as the key monetary policy tool has been superseded by the use of policy interest rates, but the monetary aggregates are still useful as a crosscheck against incipient high inflation.</content>
+    <link href="https://www.nber.org/papers/w34765"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34762</id>
+    <title>The Macroeconomic Effects of Climate Policy Uncertainty</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Konstantinos Gavriilidis, Diego R. Känzig, Ramya Raghavan &amp; James H. Stock</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a novel measure of climate policy uncertainty based on newspaper coverage. Our index spikes during key U.S. climate policy events—including presidential announcements on international agreements, congressional debates, and regulatory disputes—and shows a recent upward trend. Using an instrument for plausibly exogenous uncertainty shifts, we find that higher climate policy uncertainty decreases output and emissions while raising commodity and consumer prices, acting as supply rather than demand shocks. Faced with this trade-off, monetary policy does not accommodate climate policy uncertainty shocks, shaping their transmission. Firm-level analyses show stronger declines in investment and R&amp;D when firms have higher climate change exposure.</content>
+    <link href="https://www.nber.org/papers/w34762"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34757</id>
+    <title>What Happens When Dating Goes Online? Evidence from U.S. Marriage Markets and Health Outcomes</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel Ershov, Jessica Fong &amp; Pinar Yildirim</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies how online dating platforms have impacted marital outcomes, assortative matching, and sexually transmitted disease (STD) rates in the United States. We construct county-level measures of online dating usage using data from website-based platforms (2002–2013) and mobile app-based platforms (2017–2023). Leveraging county-level variation and an instrumental variable strategy, we show in the desktop era, a 1% increase in online dating sessions raises divorce rates by 0.50%, while in the mobile era, a 1% increase in online dating activity lowers marriage and divorce rates by 0.40% and 0.33%, respectively. We also document shifts in assortative matching. Desktop sites reduce sorting along education and employment dimensions, whereas mobile sites reduce sorting by employment, but increase sorting by race. Across both eras, we find no evidence that greater online dating usage increases average STD rates. Average effects are negative or statistically insignificant, but are positive for some subpopulations. We develop a search and matching model where technological changes that impact search costs, market size, and market noise can explain our empirical findings.</content>
+    <link href="https://www.nber.org/papers/w34757"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34739</id>
+    <title>Is the Environmental Exposure Gap Shrinking? Evidence from an Extreme Multi-exposure Index</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Glenn Sheriff, Danae Hernandez-Cortes, TC Chakraborty &amp; Theresa DeConcini</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Demographic disparities in exposure to various sources of environmental stress are well documented. While specific stressors are linked to adverse health outcomes, there is uncertainty about how they interact. A first step towards evaluating these joint impacts is to understand the degree to which the same individuals are exposed to extreme simultaneous exposure to each stressor. Here, we adapt the Alkire-Foster multi-dimensional poverty measure to rank exposures to multi-dimensional environmental harm in a way that accounts for the frequency, breadth, and severity of exposure among the extremely exposed. This measure can be used to normatively compare distributions of extreme simultaneous exposure for a given group both across time and in comparison with other groups. We use publicly-available data on air toxics, PM2.5, and land surface temperature to identify trends in the multi-exposure index for socio-demographic groups based on race/ethnicity and poverty status for 168 U.S. cities. Controlling for city-characteristics, we find persistent, yet narrowing, multi-exposure gaps on the basis of race/ethnicity between people of color (POC) and non-Hispanic White. Within each group, individuals in households above the poverty line fare better than those below, but above-poverty POC have similar multi-exposure to below-poverty non-Hispanic White.</content>
+    <link href="https://www.nber.org/papers/w34739"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34720</id>
+    <title>Creating High-Opportunity Neighborhoods: Evidence from the HOPE VI Program</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Raj Chetty, Rebecca Diamond, Thomas B. Foster, Lawrence F. Katz, Sonya Porter, Matthew Staiger &amp; Laura Tach</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study whether low-economic-mobility neighborhoods can be transformed into high-mobility areas by analyzing the HOPE VI program, which invested $17 billion to revitalize 262 distressed public housing developments. We estimate the program’s impacts using a matched difference-in-differences design, comparing outcomes in revitalized developments to observably similar control developments using anonymized tax records. HOPE VI reduced neighborhood poverty rates by attracting higher-income families to revitalized neighborhoods, but had no causal impact on the earnings of adults living in public housing units. Children raised in revitalized public housing units earned more, were more likely to attend college, and were less likely to be incarcerated. Using a movers exposure design and sibling comparisons, we show that these improvements were driven by changes in neighborhoods’ causal effects on children’s outcomes. The improvements in neighborhood causal effects were driven in large part by changes in social interaction: HOPE VI increased interaction between public housing residents and peers in surrounding neighborhoods and increased earnings more for subgroups with higher-income peers. Many low-income families in the U.S. currently live in neighborhoods that are as socially isolated as the HOPE VI developments were prior to revitalization. We conclude that it is feasible to create high-opportunity neighborhoods and that connecting socially isolated areas to surrounding communities is a cost-effective approach to doing so.</content>
+    <link href="https://www.nber.org/papers/w34720"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
   </entry>
 </feed>
