@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-02-12T15:40:55.456164+00:00</updated>
+  <updated>2026-02-13T03:58:18.488964+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34736</id>
+    <title>College Major Choice, Payoffs, and Gender Gaps</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher Campos, Pablo Muñoz, Alonso Bucarey &amp; Dante Contreras</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies how college major choices shape earnings and fertility outcomes. Using administrative data that link students' preferences, random assignment to majors, and post-college outcomes, we estimate the causal pecuniary and non-pecuniary returns to different fields of study. We document substantial heterogeneity in these returns across majors and show that such variation helps explain gender gaps in labor market outcomes: women place greater weight on balancing career and family in their major choices, and these preference differences account for about 30% of the gender earnings gap among college graduates. Last, we use our causal estimates to evaluate the effects of counterfactual assignment rules that target representation gaps in settings with centralized assignment systems. We find that gender quotas in high-return fields can significantly reduce representation and earnings gaps with minimal impacts on efficiency and aggregate fertility.</content>
+    <link href="https://www.nber.org/papers/w34736"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34734</id>
     <title>War and Democratic Backsliding</title>
@@ -135,18 +147,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We leverage Becker’s time allocation theory to examine consumer demand and market competition for time-intensive goods. The Beckerian model predicts higher diversion ratios for goods with substantial time shares and those with high time costs relative to monetary prices. Applying this model to data from two field experiments, we analyze demand for Facebook and Instagram, focusing on substitution patterns across online activities and offline time use. Our findings indicate that users exhibit low elasticity to ad load, the primary user cost, and that time shares and time costs significantly influence diversion ratios. We explore the implications for user costs and benefits on these platforms and assess the potential impact of a Federal Trade Commission-proposed de-merger of Facebook and Instagram.</content>
     <link href="https://www.nber.org/papers/w34743"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34742</id>
-    <title>The Dynamics of Retail Deposit Balances</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Bronson Argyle, Benjamin Iverson, Jason D. Kotter, Taylor D. Nadauld &amp; Christopher Palmer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We investigate the dynamics of household deposits using account-level data from 12 million accounts across 154 U.S. credit unions. Significant skewness in the retail deposit distribution–with 10% of depositors controlling 70% of total deposits–means large-balance accounts drive aggregate retail deposit flows. On average, high-balance accounts become large after significant one-time inflows and are more likely to experience large, idiosyncratic drawdowns. Unlike low-balance households, high-balance retail depositors are not sensitive to interest rate shocks. Additional evidence suggests that overall retail deposit stickiness is driven by high-balance accounts that are used as medium-run liquidity stores rather than for interest income.</content>
-    <link href="https://www.nber.org/papers/w34742"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
@@ -790,26 +790,14 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34812</id>
-    <title>Early Learning Across Decades: Advances in Measuring Head Start Effectiveness</title>
+    <id>https://www.nber.org/papers/w34820</id>
+    <title>Are Government Bonds Safe in Times of War and Pandemic?</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
     <author>
-      <name>Chloe Gibbs</name>
+      <name>Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh &amp; Mindy Z. Xiaolan</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Head Start program, launched in 1965 and targeted to children from disadvantaged backgrounds, remains the largest early childhood care and education (ECE) program in the United States and the only one deployed at the federal level. As such, the Head Start literature spans several decades and now allows for synthesis of findings from different contexts, time periods, and research designs. This paper provides a comprehensive assessment of the rigorous evidence measuring Head Start’s effects on children, their families, and society. The focus is on how (1) the contrast between program and counterfactual conditions, (2) takeup of the program among eligible populations, and (3) treatment–effect heterogeneity inform interpretation and applicability of key findings. The paper presents implications of the evidence for the modern-day Head Start program and an adjacent, policy-relevant research agenda.</content>
-    <link href="https://www.nber.org/papers/w34812"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34806</id>
-    <title>Heaven or Earth? The Evolving Role of Global Shocks for Domestic Monetary Policy</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kristin Forbes, Jongrim Ha &amp; M. Ayhan Kose</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business cycles are increasingly driven by global shocks, rather than the domestic demand shocks prominent in earlier decades, posing challenges for central banks seeking to meet domestic mandates and communicate their policy decisions. This paper analyzes the evolving influence and characteristics of global and domestic shocks in advanced economies from 1970-2024 using a new FAVAR model that decomposes movements in interest rates, inflation, and output growth into four global shocks (demand, supply, oil, and monetary policy) and three domestic shocks (demand, supply, and monetary policy). We find that the role of global shocks has increased sharply over time and that their characteristics differ from those of domestic shocks across multiple dimensions. Compared to domestic shocks, global shocks have a larger supply component, higher variance, more persistent effects on inflation, and are more asymmetric (contributing more to tightening than to easing phases of monetary policy). As global supply shocks have become more prominent, central banks have also been less willing to “look through” their effects on inflation than for comparable domestic shocks. The distinct characteristics and rising influence of global shocks—particularly global supply shocks—have significant implications for modeling monetary policy and designing central bank frameworks.</content>
-    <link href="https://www.nber.org/papers/w34806"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze real returns on U.S. and U.K. government debt during major wars and the COVID-19 pandemic over the past three centuries. Wars are associated with sharply negative real returns on outstanding government debt, with returns falling far below economic growth, in contrast to peacetime periods when returns exceed growth. Elevated surprise inflation and financial repression account for a cumulative 31% wedge between returns and growth over four years of war, implying that bondholders bear a substantial share of wartime fiscal costs. During wartime, government bonds also systematically underperform risky assets.</content>
+    <link href="https://www.nber.org/papers/w34820"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -922,18 +910,6 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34820</id>
-    <title>Are Government Bonds Safe in Times of War and Pandemic?</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh &amp; Mindy Z. Xiaolan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze real returns on U.S. and U.K. government debt during major wars and the COVID-19 pandemic over the past three centuries. Wars are associated with sharply negative real returns on outstanding government debt, with returns falling far below economic growth, in contrast to peacetime periods when returns exceed growth. Elevated surprise inflation and financial repression account for a cumulative 31% wedge between returns and growth over four years of war, implying that bondholders bear a substantial share of wartime fiscal costs. During wartime, government bonds also systematically underperform risky assets.</content>
-    <link href="https://www.nber.org/papers/w34820"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34819</id>
     <title>Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -966,6 +942,18 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present a micro-founded monetary model of the world economy to study international currency competition. Our model features "unipolar'' equilibria, with a single dominant international currency, and "multipolar'' equilibria, in which multiple currencies circulate internationally. Long-run equilibria are highly history-dependent and tend towards the emergence of a dominant currency. Governments can compete to internationalize their currencies by offering attractive interest rates on their sovereign debt, but large economies have a natural advantage in ensuring the dominance of their currencies. We calibrate the model to assess the quantitative importance of these mechanisms and study the international monetary system's dynamics under several counterfactual scenarios.</content>
     <link href="https://www.nber.org/papers/w34817"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34812</id>
+    <title>Early Learning Across Decades: Advances in Measuring Head Start Effectiveness</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chloe Gibbs</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Head Start program, launched in 1965 and targeted to children from disadvantaged backgrounds, remains the largest early childhood care and education (ECE) program in the United States and the only one deployed at the federal level. As such, the Head Start literature spans several decades and now allows for synthesis of findings from different contexts, time periods, and research designs. This paper provides a comprehensive assessment of the rigorous evidence measuring Head Start’s effects on children, their families, and society. The focus is on how (1) the contrast between program and counterfactual conditions, (2) takeup of the program among eligible populations, and (3) treatment–effect heterogeneity inform interpretation and applicability of key findings. The paper presents implications of the evidence for the modern-day Head Start program and an adjacent, policy-relevant research agenda.</content>
+    <link href="https://www.nber.org/papers/w34812"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -1209,6 +1197,18 @@ Substantial scope remains to redesign embedded experiments to increase inferenti
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can citizen-led protests lead to meaningful economic redistribution and nudge governments to increase redistributive fiscal transfers? We study the effects of protests on fiscal redistribution using evidence from Nigeria. We digitized twenty-six years of public finance data from 1988 to 2016 to examine the effects of protests on intergovernmental transfers. We find that protests increase transfers to protesting regions, but only in areas that are politically aligned with disbursing governments. Evidence from the large-scale 2012 Occupy Nigeria protests confirms these results. Protesters also face increased police violence, particularly in non-aligned regions. The results show that protests can influence fiscal redistribution.</content>
     <link href="https://www.nber.org/papers/w34787"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34806</id>
+    <title>Heaven or Earth? The Evolving Role of Global Shocks for Domestic Monetary Policy</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kristin Forbes, Jongrim Ha &amp; M. Ayhan Kose</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business cycles are increasingly driven by global shocks, rather than the domestic demand shocks prominent in earlier decades, posing challenges for central banks seeking to meet domestic mandates and communicate their policy decisions. This paper analyzes the evolving influence and characteristics of global and domestic shocks in advanced economies from 1970-2024 using a new FAVAR model that decomposes movements in interest rates, inflation, and output growth into four global shocks (demand, supply, oil, and monetary policy) and three domestic shocks (demand, supply, and monetary policy). We find that the role of global shocks has increased sharply over time and that their characteristics differ from those of domestic shocks across multiple dimensions. Compared to domestic shocks, global shocks have a larger supply component, higher variance, more persistent effects on inflation, and are more asymmetric (contributing more to tightening than to easing phases of monetary policy). As global supply shocks have become more prominent, central banks have also been less willing to “look through” their effects on inflation than for comparable domestic shocks. The distinct characteristics and rising influence of global shocks—particularly global supply shocks—have significant implications for modeling monetary policy and designing central bank frameworks.</content>
+    <link href="https://www.nber.org/papers/w34806"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
