@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-02-14T00:14:23.270644+00:00</updated>
+  <updated>2026-02-14T14:03:14.376384+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34735</id>
+    <title>Economic Development and the Environment</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>B. Kelsey Jack &amp; Nicholas Ryan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economic development relies on and transforms the environment. The transformation is evident in the poor environmental quality in many developing countries. For example, air quality in Southeast Asia is three times worse than in the United States, in sub-Saharan Africa four times worse and in South Asia more than six times worse. We model how environmental quality affects health, productivity and well-being and how individuals privately adapt to environmental hazards. We also model how collective action and formal regulation contribute to environmental quality. We draw three main findings from a review of empirical research on these mechanisms. First, individual adaptation to environmental hazards is both inadequate as a remedy and inefficiently low. Second, collective action, without the state, to manage resources or address externalities has been outstripped by the scale of environmental problems. Third, state action through formal regulation works better than it looks. Many formal regulations are coarse, poorly targeted and inefficient, but nonetheless yield benefits in excess of their costs.</content>
+    <link href="https://www.nber.org/papers/w34735"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34736</id>
     <title>College Major Choice, Payoffs, and Gender Gaps</title>
@@ -135,18 +147,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We document and characterize a new history of U.S. federal-level industrial policies by scanning all 12,167 Congressional Acts and 6,030 Presidential Orders from 1973 through 2022. We find several interesting patterns. First, contrary to a common perception, the United States has always been an active industrial policy nation throughout the period, regardless of which party is in power, with 5.4 laws and 3.4 Presidential Orders per year on average containing new industrial policies. Second, we identify roughly 300% more instances of industrial policies than those in the Global Trade Alert (GTA) database during 2008-2022, despite using essentially the same definition. Third, industrial policies in practice are as likely to be justified by national security as by economic competitiveness. Fourth, many U.S. industrial policies incorporate design features that help mitigate potential drawbacks, such as explicit expiration dates and pilot programs for emerging technologies. Finally, based on stock market reactions and firm performance, the identified policies are recognized as economically significant in shifting resource allocations.</content>
     <link href="https://www.nber.org/papers/w34744"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34743</id>
-    <title>Consumer Demand and Market Competition with Time-Intensive Goods</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joseph Goodman, Lancelot Henry de Frahan, Justin E. Holz, John A. List, Niall MacMenamin, Evan C. McKay, Magne Mogstad, Sally Sadoff &amp; Hal Sider</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We leverage Becker’s time allocation theory to examine consumer demand and market competition for time-intensive goods. The Beckerian model predicts higher diversion ratios for goods with substantial time shares and those with high time costs relative to monetary prices. Applying this model to data from two field experiments, we analyze demand for Facebook and Instagram, focusing on substitution patterns across online activities and offline time use. Our findings indicate that users exhibit low elasticity to ad load, the primary user cost, and that time shares and time costs significantly influence diversion ratios. We explore the implications for user costs and benefits on these platforms and assess the potential impact of a Federal Trade Commission-proposed de-merger of Facebook and Instagram.</content>
-    <link href="https://www.nber.org/papers/w34743"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
@@ -790,30 +790,6 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34813</id>
-    <title>The Politics of AI</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas Bloom &amp; Christos Makridis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using new data from the Gallup Workforce Panel, we document a persistent partisan gap in self-reported AI use at work: Democrats are consistently more likely than Republicans to report frequent use. In 2025:Q4, for example, 27.8% of Democrats report using AI weekly or daily, compared with 22.5% of Republicans. Democrats also report deeper task-level integration, using AI in 16% more work activities than Republicans. Consistent with this, Democrats are employed in occupations with higher predicted AI exposure based on task-content measures and report larger perceived differences in AI-related job displacement risk. However, in regression models the partisan gap in AI use disappears once we control for education, industry, and occupation, indicating that observed differences primarily reflect compositional variation rather than political affiliation per se.</content>
-    <link href="https://www.nber.org/papers/w34813"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34793</id>
-    <title>The H-1B Wage Gap, Visa Fees, and Employer Demand</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>George J. Borjas</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The H-1B program lets firms hire high-skill foreign workers for a six-year term. The annual number of visas allocated to for-profit firms is capped at 85,000 and there is excess demand for those visas. The analysis merges administrative data, including the I-129 petitions that report the wage offer made to specific H-1B beneficiaries, with the American Community Surveys. On average, H-1B workers earn 16 percent less than comparable natives, suggesting that firms may be willing to pay a one-time fee to obtain the visa. The data are examined using a labor demand model to simulate how a fee alters the hiring decision. Depending on the level of excess demand, the unobserved productivity gains or costs from an H-1B hire, and the rate of job separations, the revenue-maximizing fee is between $118,000 and $264,000, has little or no impact on the number of H-1Bs hired, and generates between $6.2 and $22.4 billion in revenues. The demand for visas remains strong even if firms offshore some of the jobs currently held by H-1Bs. The fee also changes the skill composition of the H-1B workforce, making it more skilled.</content>
-    <link href="https://www.nber.org/papers/w34793"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34820</id>
     <title>Are Government Bonds Safe in Times of War and Pandemic?</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -822,6 +798,18 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze real returns on U.S. and U.K. government debt during major wars and the COVID-19 pandemic over the past three centuries. Wars are associated with sharply negative real returns on outstanding government debt, with returns falling far below economic growth, in contrast to peacetime periods when returns exceed growth. Elevated surprise inflation and financial repression account for a cumulative 31% wedge between returns and growth over four years of war, implying that bondholders bear a substantial share of wartime fiscal costs. During wartime, government bonds also systematically underperform risky assets.</content>
     <link href="https://www.nber.org/papers/w34820"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34806</id>
+    <title>Heaven or Earth? The Evolving Role of Global Shocks for Domestic Monetary Policy</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kristin Forbes, Jongrim Ha &amp; M. Ayhan Kose</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business cycles are increasingly driven by global shocks, rather than the domestic demand shocks prominent in earlier decades, posing challenges for central banks seeking to meet domestic mandates and communicate their policy decisions. This paper analyzes the evolving influence and characteristics of global and domestic shocks in advanced economies from 1970-2024 using a new FAVAR model that decomposes movements in interest rates, inflation, and output growth into four global shocks (demand, supply, oil, and monetary policy) and three domestic shocks (demand, supply, and monetary policy). We find that the role of global shocks has increased sharply over time and that their characteristics differ from those of domestic shocks across multiple dimensions. Compared to domestic shocks, global shocks have a larger supply component, higher variance, more persistent effects on inflation, and are more asymmetric (contributing more to tightening than to easing phases of monetary policy). As global supply shocks have become more prominent, central banks have also been less willing to “look through” their effects on inflation than for comparable domestic shocks. The distinct characteristics and rising influence of global shocks—particularly global supply shocks—have significant implications for modeling monetary policy and designing central bank frameworks.</content>
+    <link href="https://www.nber.org/papers/w34806"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -894,6 +882,18 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deportation is often framed as a necessary tool to protect public safety by removing people who commit crimes. We use newly available, and externally validated, administrative data containing all US Immigration and Customs Enforcement (ICE) arrests from September 2015-October 2025. Beyond demonstrating national trends in immigration arrests by method and composition over time, we are also able to compare, for the first time, apprehensions spanning the start of the two Trump administrations, both of which focused on mass immigration enforcement. Our results reveal that the reality of immigration enforcement diverges sharply from the public narrative: while arrests spiked at the outset of both Trump presidencies, there were significant declines in the percentage of arrested individuals with criminal convictions, with especially marked declines in 2025. Examining potential mechanisms reveals that this is driven by a change in ICE tactics, but even conditional on tactic, as arrests rose, the percent with a criminal record declined. Moreover, we find substantial heterogeneity over time and across ICE Areas of Responsibility. Taken together, our results highlight a substantial gap between political rhetoric and reality.</content>
     <link href="https://www.nber.org/papers/w34794"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34813</id>
+    <title>The Politics of AI</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicholas Bloom &amp; Christos Makridis</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using new data from the Gallup Workforce Panel, we document a persistent partisan gap in self-reported AI use at work: Democrats are consistently more likely than Republicans to report frequent use. In 2025:Q4, for example, 27.8% of Democrats report using AI weekly or daily, compared with 22.5% of Republicans. Democrats also report deeper task-level integration, using AI in 16% more work activities than Republicans. Consistent with this, Democrats are employed in occupations with higher predicted AI exposure based on task-content measures and report larger perceived differences in AI-related job displacement risk. However, in regression models the partisan gap in AI use disappears once we control for education, industry, and occupation, indicating that observed differences primarily reflect compositional variation rather than political affiliation per se.</content>
+    <link href="https://www.nber.org/papers/w34813"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -1141,6 +1141,18 @@ Substantial scope remains to redesign embedded experiments to increase inferenti
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34793</id>
+    <title>The H-1B Wage Gap, Visa Fees, and Employer Demand</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>George J. Borjas</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The H-1B program lets firms hire high-skill foreign workers for a six-year term. The annual number of visas allocated to for-profit firms is capped at 85,000 and there is excess demand for those visas. The analysis merges administrative data, including the I-129 petitions that report the wage offer made to specific H-1B beneficiaries, with the American Community Surveys. On average, H-1B workers earn 16 percent less than comparable natives, suggesting that firms may be willing to pay a one-time fee to obtain the visa. The data are examined using a labor demand model to simulate how a fee alters the hiring decision. Depending on the level of excess demand, the unobserved productivity gains or costs from an H-1B hire, and the rate of job separations, the revenue-maximizing fee is between $118,000 and $264,000, has little or no impact on the number of H-1Bs hired, and generates between $6.2 and $22.4 billion in revenues. The demand for visas remains strong even if firms offshore some of the jobs currently held by H-1Bs. The fee also changes the skill composition of the H-1B workforce, making it more skilled.</content>
+    <link href="https://www.nber.org/papers/w34793"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34792</id>
     <title>American Investment in Chinese Renminbi</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -1197,18 +1209,6 @@ Substantial scope remains to redesign embedded experiments to increase inferenti
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can citizen-led protests lead to meaningful economic redistribution and nudge governments to increase redistributive fiscal transfers? We study the effects of protests on fiscal redistribution using evidence from Nigeria. We digitized twenty-six years of public finance data from 1988 to 2016 to examine the effects of protests on intergovernmental transfers. We find that protests increase transfers to protesting regions, but only in areas that are politically aligned with disbursing governments. Evidence from the large-scale 2012 Occupy Nigeria protests confirms these results. Protesters also face increased police violence, particularly in non-aligned regions. The results show that protests can influence fiscal redistribution.</content>
     <link href="https://www.nber.org/papers/w34787"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34806</id>
-    <title>Heaven or Earth? The Evolving Role of Global Shocks for Domestic Monetary Policy</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kristin Forbes, Jongrim Ha &amp; M. Ayhan Kose</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business cycles are increasingly driven by global shocks, rather than the domestic demand shocks prominent in earlier decades, posing challenges for central banks seeking to meet domestic mandates and communicate their policy decisions. This paper analyzes the evolving influence and characteristics of global and domestic shocks in advanced economies from 1970-2024 using a new FAVAR model that decomposes movements in interest rates, inflation, and output growth into four global shocks (demand, supply, oil, and monetary policy) and three domestic shocks (demand, supply, and monetary policy). We find that the role of global shocks has increased sharply over time and that their characteristics differ from those of domestic shocks across multiple dimensions. Compared to domestic shocks, global shocks have a larger supply component, higher variance, more persistent effects on inflation, and are more asymmetric (contributing more to tightening than to easing phases of monetary policy). As global supply shocks have become more prominent, central banks have also been less willing to “look through” their effects on inflation than for comparable domestic shocks. The distinct characteristics and rising influence of global shocks—particularly global supply shocks—have significant implications for modeling monetary policy and designing central bank frameworks.</content>
-    <link href="https://www.nber.org/papers/w34806"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
