@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-02-14T15:55:57.855606+00:00</updated>
+  <updated>2026-02-15T14:00:59.731906+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34737</id>
+    <title>Measuring the Growth of Skills</title>
+    <updated>2026-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>James J. Heckman, Haihan Tian, Zijian Zhang &amp; Jin Zhou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper discusses a fundamental problem in measuring the growth of knowledge and comparing the skills of people. New skills emerge that are not just more of the previously acquired skills. Psychometric convention forces these skills into arbitrarily constructed scales, which can severely distort measurement. To formally address this problem, we measure skills using a novel measurement scheme, estimate a stochastic learning process and reject the common scale assumption across levels for language and cognitive skills. Furthermore, we estimate dynamic complementarity without imposing arbitrary scales for skills.</content>
+    <link href="https://www.nber.org/papers/w34737"/>
+    <category term="NBER"/>
+    <published>2026-01-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34735</id>
     <title>Economic Development and the Environment</title>
@@ -135,18 +147,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do generative AI models, particularly large language models (LLMs), exhibit systematic behavioral biases in economic and financial decisions? If so, how can these biases be mitigated? Drawing on the cognitive psychology and experimental economics literatures, we conduct the most comprehensive set of experiments to date—originally designed to document human biases—on prominent LLM families across model versions and  scales. We document systematic patterns in LLM behavior. In preference-based tasks, responses become more human-like as models become more advanced or larger, while in belief-based tasks, advanced large-scale models frequently generate rational responses. Prompting LLMs to make rational decisions reduces biases.</content>
     <link href="https://www.nber.org/papers/w34745"/>
-    <category term="NBER"/>
-    <published>2026-01-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34744</id>
-    <title>The United States as an Active Industrial Policy Nation</title>
-    <updated>2026-01-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jiandong Ju, Yuankun Li &amp; Shang-Jin Wei</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We document and characterize a new history of U.S. federal-level industrial policies by scanning all 12,167 Congressional Acts and 6,030 Presidential Orders from 1973 through 2022. We find several interesting patterns. First, contrary to a common perception, the United States has always been an active industrial policy nation throughout the period, regardless of which party is in power, with 5.4 laws and 3.4 Presidential Orders per year on average containing new industrial policies. Second, we identify roughly 300% more instances of industrial policies than those in the Global Trade Alert (GTA) database during 2008-2022, despite using essentially the same definition. Third, industrial policies in practice are as likely to be justified by national security as by economic competitiveness. Fourth, many U.S. industrial policies incorporate design features that help mitigate potential drawbacks, such as explicit expiration dates and pilot programs for emerging technologies. Finally, based on stock market reactions and firm performance, the identified policies are recognized as economically significant in shifting resource allocations.</content>
-    <link href="https://www.nber.org/papers/w34744"/>
     <category term="NBER"/>
     <published>2026-01-01T00:00:00+00:00</published>
   </entry>
@@ -802,126 +802,6 @@ Throughout, we highlight methodological challenges in measuring norms and identi
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34806</id>
-    <title>Heaven or Earth? The Evolving Role of Global Shocks for Domestic Monetary Policy</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kristin Forbes, Jongrim Ha &amp; M. Ayhan Kose</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business cycles are increasingly driven by global shocks, rather than the domestic demand shocks prominent in earlier decades, posing challenges for central banks seeking to meet domestic mandates and communicate their policy decisions. This paper analyzes the evolving influence and characteristics of global and domestic shocks in advanced economies from 1970-2024 using a new FAVAR model that decomposes movements in interest rates, inflation, and output growth into four global shocks (demand, supply, oil, and monetary policy) and three domestic shocks (demand, supply, and monetary policy). We find that the role of global shocks has increased sharply over time and that their characteristics differ from those of domestic shocks across multiple dimensions. Compared to domestic shocks, global shocks have a larger supply component, higher variance, more persistent effects on inflation, and are more asymmetric (contributing more to tightening than to easing phases of monetary policy). As global supply shocks have become more prominent, central banks have also been less willing to “look through” their effects on inflation than for comparable domestic shocks. The distinct characteristics and rising influence of global shocks—particularly global supply shocks—have significant implications for modeling monetary policy and designing central bank frameworks.</content>
-    <link href="https://www.nber.org/papers/w34806"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34805</id>
-    <title>School Vaping Bans and Youth E-Cigarette Use</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Dhaval M. Dave, Jooyoung Kim, Nikolaos Prodromidis &amp; Joseph J. Sabia</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;With the goal of curbing electronic nicotine delivery systems (ENDS) use among youths, 40 states and the District of Columbia have adopted restrictions on nicotine vaping at elementary and secondary (K-12) schools. This study is the first to estimate the effect of K-12 school vaping restrictions (SVRs) on ENDS use among youth. Using data from several nationally representative data sources and a generalized difference-in-differences approach, we find little evidence that school indoor vaping restrictions reduce youth ENDS use. With 95% confidence, we can rule out SVR-induced youth vaping declines of more than 3.5%. Descriptive evidence suggests that students may respond to SVRs by substituting to smaller vaping devices and vaping in school locations that are less easily detectable by school employees (e.g., bathrooms and locker rooms). In contrast, we find that comprehensive vaping restrictions covering school campuses, workplaces, restaurants, and drinking establishments are associated with a 1.5-2.6 percentage-point reduction in teen nicotine vaping. This result is concentrated on the initiation margin of use and is consistent with the hypothesis that broader place-based restrictions increase the costs of youth ENDS use.</content>
-    <link href="https://www.nber.org/papers/w34805"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34796</id>
-    <title>Clustered Network Connectedness: A New Measurement Framework, with Application to Global Equity Markets</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Bastien Buchwalter, Francis X. Diebold &amp; Kamil Yilmaz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Network connections, both across and within markets, are central in countless economic contexts. In recent decades, a large literature has developed and applied flexible methods for measuring network connectedness and its evolution, based on variance decompositions from vector autoregressions (VARs), as in Diebold and Yilmaz (2014). Those VARs are, however, typically identified using full orthogonalization (Sims, 1980), or no orthogonalization (Koop, Pesaran, and Potter, 1996; Pesaran and Shin, 1998), which, although useful, are special and extreme cases of a more general framework that we develop in this paper.  In particular, we allow network nodes to be connected in "clusters", such as asset classes, industries, regions, etc., where shocks are  orthogonal across clusters (Sims style orthogonalized identification) but correlated within clusters (Koop-Pesaran-Potter-Shin style generalized identification), so that the ordering of network nodes is relevant across clusters but irrelevant within clusters. After developing the clustered connectedness framework, we apply it in a  detailed empirical exploration of sixteen country equity markets spanning three global regions.</content>
-    <link href="https://www.nber.org/papers/w34796"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34795</id>
-    <title>Younger Firms and CEOs Allow More Work from Home</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Katelyn Cranney, Steven J. Davis, Mathias Dolls &amp; Pablo Zarate</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We establish three facts about work from home (WFH) in the United States. First, employees WFH more often at younger firms – almost twice as often at firms founded after 2015 than at firms founded before 1990. Second, employees working under younger CEOs have higher levels of WFH. The average WFH rate is 1.4 days per week when the CEO is under 30, compared to 1.1 days when the CEO is 60 or older. Third, the self-employed WFH more than twice as often as wage-and-salary employees. These facts highlight the importance of organizational and managerial attributes for the prevalence of WFH.</content>
-    <link href="https://www.nber.org/papers/w34795"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34816</id>
-    <title>Extractive Taxation and the French Revolution</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Tommaso Giommoni, Gabriel Loumeau &amp; Marco Tabellini</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In this paper, we provide systematic evidence in support of the long-standing hypothesis that taxation was an important driver of the French Revolution. We first document that areas with heavier taxes experienced more riots between 1750 and 1789 and voiced more complaints against taxation in the cahiers de doléances of 1789. After showing that these effects are driven by indirect taxes, we exploit sharp spatial differences in the salt tax and the traites—the two principal indirect levies—to implement a regression discontinuity design (RDD).We find that unrest was higher on the high-tax side of the border. These effects intensified over time, peaking in the 1780s, and were stronger where fiscal disparities were larger and Enlightenment ideas more widespread. We further show that adverse weather shocks amplified unrest in high-tax municipalities. We then document that taxation fueled the spread of unrest during the Grande Peur—the wave of revolts that swept France in July 1789 and culminated in the abolition of feudal privileges. Finally, we link taxation to revolutionary politics in Paris, documenting that deputies from heavily taxed constituencies were more likely to frame the tax system as oppressive, support the Revolution, demand the abolition of the monarchy, and vote for the king’s execution.</content>
-    <link href="https://www.nber.org/papers/w34816"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34814</id>
-    <title>Interest Rates and Equity Valuations</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Niels Joachim Gormsen &amp; Eben Lazarus</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large body of work has sought to measure the effect of interest rates on equity valuations. The challenge in doing so is that both are endogenous, and their comovement depends on the forces driving interest-rate changes. To address this problem, we develop and estimate a decomposition that splits movements in real rates into three structural drivers: changes in expected growth, risk, or “pure discounting.” We show that only pure discount-rate shocks transmit one-for-one to equity valuations, with little or negative transmission of growth and risk shocks. Implementing our decomposition with a global panel of growth expectations and asset prices, we find a weak unconditional relation between valuations and real rates but a strong relation with the pure discounting component, which explains 80% of cross-country valuation changes since 1990. In the U.S., we find that 35% of the interest-rate decline is attributable to pure discounting, implying that only a fraction of the change in rates has passed through directly to equities. We use the decomposition to revisit evidence on the role of interest rates in explaining price variation, and to study higher-frequency returns, cross-sectional rate exposures, duration-matched equity premia, and reactions to monetary policy.</content>
-    <link href="https://www.nber.org/papers/w34814"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34794</id>
-    <title>ICE Arrests across Trump's First and Second Terms: Variation in Targeting, Method, and Geography</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chloe N. East, Caitlin Patler &amp; Elizabeth Cox</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deportation is often framed as a necessary tool to protect public safety by removing people who commit crimes. We use newly available, and externally validated, administrative data containing all US Immigration and Customs Enforcement (ICE) arrests from September 2015-October 2025. Beyond demonstrating national trends in immigration arrests by method and composition over time, we are also able to compare, for the first time, apprehensions spanning the start of the two Trump administrations, both of which focused on mass immigration enforcement. Our results reveal that the reality of immigration enforcement diverges sharply from the public narrative: while arrests spiked at the outset of both Trump presidencies, there were significant declines in the percentage of arrested individuals with criminal convictions, with especially marked declines in 2025. Examining potential mechanisms reveals that this is driven by a change in ICE tactics, but even conditional on tactic, as arrests rose, the percent with a criminal record declined. Moreover, we find substantial heterogeneity over time and across ICE Areas of Responsibility. Taken together, our results highlight a substantial gap between political rhetoric and reality.</content>
-    <link href="https://www.nber.org/papers/w34794"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34813</id>
-    <title>The Politics of AI</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas Bloom &amp; Christos Makridis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using new data from the Gallup Workforce Panel, we document a persistent partisan gap in self-reported AI use at work: Democrats are consistently more likely than Republicans to report frequent use. In 2025:Q4, for example, 27.8% of Democrats report using AI weekly or daily, compared with 22.5% of Republicans. Democrats also report deeper task-level integration, using AI in 16% more work activities than Republicans. Consistent with this, Democrats are employed in occupations with higher predicted AI exposure based on task-content measures and report larger perceived differences in AI-related job displacement risk. However, in regression models the partisan gap in AI use disappears once we control for education, industry, and occupation, indicating that observed differences primarily reflect compositional variation rather than political affiliation per se.</content>
-    <link href="https://www.nber.org/papers/w34813"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34788</id>
-    <title>Coca’s Return and the American Overdose Fallout</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xinming Du, Benjamin Hansen, Shan Zhang &amp; Eric Zou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Colombian coca cultivation fell dramatically between 2000 and 2015, a period that saw intense U.S.-backed eradication and interdiction efforts. That progress reversed in 2015, when peace talks and legal rulings in Colombia opened enforcement gaps. Coca plantation has since increased to record levels, which coincided with a sharp rise in cocaine-related overdose deaths in the U.S. We estimate how much of that rise can be causally attributed to Colombia’s new coca boom. Leveraging the unforeseen coca supply shock and cross-county differences in pre-shock cocaine exposure, we find that the surge in supply caused an immediate rise in overdose mortality in the U.S. Our analysis estimates on the order of 1,000–1,500 additional U.S. deaths per year in the late 2010s can be attributed to Colombia’s cocaine boom. Implicit annual loss in American statistical life values about $48,000 per hectare of cultivation in Colombia. If left untamed, the current level of coca cultivation (over 230,000 ha in 2022) may impose on the order of $10 billion per year in costs via overdose fatalities.</content>
-    <link href="https://www.nber.org/papers/w34788"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34764</id>
-    <title>How Does Tort Reform Affect Health Care Delivery?</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Charles J. Courtemanche &amp; Joseph Garuccio</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Health care costs in the U.S. have grown dramatically over the past several decades, with one possible cause being physicians providing unnecessary services out of fear of being sued for malpractice – a phenomenon known as “defensive medicine”. States responded by enacting different types of tort reforms. This paper reviews the literature on the effects of these tort reforms on outcomes related to malpractice risk, quantity and quality of health care services, overall utilization and expenditures, physician supply, and patient affordability. We use Google Scholar to identify papers that fall into this scope and use either associational or quasi-experimental quantitative methods. The preponderance of evidence points towards non-economic damage caps reducing malpractice risk, quantity of services (aside from diagnostics and obstetrics), and overall health care utilization and expenditures while increasing physician supply and not having detrimental effects on patient outcomes. In general, the effects of other types of tort reforms are less clear. The literature would benefit from further research utilizing recent methodological advances related to combining machine learning with causal inference and eliminating bias from heterogeneous treatment effects in staggered-treatment-time models.</content>
-    <link href="https://www.nber.org/papers/w34764"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34819</id>
     <title>Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -1209,6 +1089,126 @@ Substantial scope remains to redesign embedded experiments to increase inferenti
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can citizen-led protests lead to meaningful economic redistribution and nudge governments to increase redistributive fiscal transfers? We study the effects of protests on fiscal redistribution using evidence from Nigeria. We digitized twenty-six years of public finance data from 1988 to 2016 to examine the effects of protests on intergovernmental transfers. We find that protests increase transfers to protesting regions, but only in areas that are politically aligned with disbursing governments. Evidence from the large-scale 2012 Occupy Nigeria protests confirms these results. Protesters also face increased police violence, particularly in non-aligned regions. The results show that protests can influence fiscal redistribution.</content>
     <link href="https://www.nber.org/papers/w34787"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34806</id>
+    <title>Heaven or Earth? The Evolving Role of Global Shocks for Domestic Monetary Policy</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kristin Forbes, Jongrim Ha &amp; M. Ayhan Kose</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business cycles are increasingly driven by global shocks, rather than the domestic demand shocks prominent in earlier decades, posing challenges for central banks seeking to meet domestic mandates and communicate their policy decisions. This paper analyzes the evolving influence and characteristics of global and domestic shocks in advanced economies from 1970-2024 using a new FAVAR model that decomposes movements in interest rates, inflation, and output growth into four global shocks (demand, supply, oil, and monetary policy) and three domestic shocks (demand, supply, and monetary policy). We find that the role of global shocks has increased sharply over time and that their characteristics differ from those of domestic shocks across multiple dimensions. Compared to domestic shocks, global shocks have a larger supply component, higher variance, more persistent effects on inflation, and are more asymmetric (contributing more to tightening than to easing phases of monetary policy). As global supply shocks have become more prominent, central banks have also been less willing to “look through” their effects on inflation than for comparable domestic shocks. The distinct characteristics and rising influence of global shocks—particularly global supply shocks—have significant implications for modeling monetary policy and designing central bank frameworks.</content>
+    <link href="https://www.nber.org/papers/w34806"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34805</id>
+    <title>School Vaping Bans and Youth E-Cigarette Use</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Dhaval M. Dave, Jooyoung Kim, Nikolaos Prodromidis &amp; Joseph J. Sabia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;With the goal of curbing electronic nicotine delivery systems (ENDS) use among youths, 40 states and the District of Columbia have adopted restrictions on nicotine vaping at elementary and secondary (K-12) schools. This study is the first to estimate the effect of K-12 school vaping restrictions (SVRs) on ENDS use among youth. Using data from several nationally representative data sources and a generalized difference-in-differences approach, we find little evidence that school indoor vaping restrictions reduce youth ENDS use. With 95% confidence, we can rule out SVR-induced youth vaping declines of more than 3.5%. Descriptive evidence suggests that students may respond to SVRs by substituting to smaller vaping devices and vaping in school locations that are less easily detectable by school employees (e.g., bathrooms and locker rooms). In contrast, we find that comprehensive vaping restrictions covering school campuses, workplaces, restaurants, and drinking establishments are associated with a 1.5-2.6 percentage-point reduction in teen nicotine vaping. This result is concentrated on the initiation margin of use and is consistent with the hypothesis that broader place-based restrictions increase the costs of youth ENDS use.</content>
+    <link href="https://www.nber.org/papers/w34805"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34796</id>
+    <title>Clustered Network Connectedness: A New Measurement Framework, with Application to Global Equity Markets</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bastien Buchwalter, Francis X. Diebold &amp; Kamil Yilmaz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Network connections, both across and within markets, are central in countless economic contexts. In recent decades, a large literature has developed and applied flexible methods for measuring network connectedness and its evolution, based on variance decompositions from vector autoregressions (VARs), as in Diebold and Yilmaz (2014). Those VARs are, however, typically identified using full orthogonalization (Sims, 1980), or no orthogonalization (Koop, Pesaran, and Potter, 1996; Pesaran and Shin, 1998), which, although useful, are special and extreme cases of a more general framework that we develop in this paper.  In particular, we allow network nodes to be connected in "clusters", such as asset classes, industries, regions, etc., where shocks are  orthogonal across clusters (Sims style orthogonalized identification) but correlated within clusters (Koop-Pesaran-Potter-Shin style generalized identification), so that the ordering of network nodes is relevant across clusters but irrelevant within clusters. After developing the clustered connectedness framework, we apply it in a  detailed empirical exploration of sixteen country equity markets spanning three global regions.</content>
+    <link href="https://www.nber.org/papers/w34796"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34795</id>
+    <title>Younger Firms and CEOs Allow More Work from Home</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Katelyn Cranney, Steven J. Davis, Mathias Dolls &amp; Pablo Zarate</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We establish three facts about work from home (WFH) in the United States. First, employees WFH more often at younger firms – almost twice as often at firms founded after 2015 than at firms founded before 1990. Second, employees working under younger CEOs have higher levels of WFH. The average WFH rate is 1.4 days per week when the CEO is under 30, compared to 1.1 days when the CEO is 60 or older. Third, the self-employed WFH more than twice as often as wage-and-salary employees. These facts highlight the importance of organizational and managerial attributes for the prevalence of WFH.</content>
+    <link href="https://www.nber.org/papers/w34795"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34816</id>
+    <title>Extractive Taxation and the French Revolution</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Tommaso Giommoni, Gabriel Loumeau &amp; Marco Tabellini</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In this paper, we provide systematic evidence in support of the long-standing hypothesis that taxation was an important driver of the French Revolution. We first document that areas with heavier taxes experienced more riots between 1750 and 1789 and voiced more complaints against taxation in the cahiers de doléances of 1789. After showing that these effects are driven by indirect taxes, we exploit sharp spatial differences in the salt tax and the traites—the two principal indirect levies—to implement a regression discontinuity design (RDD).We find that unrest was higher on the high-tax side of the border. These effects intensified over time, peaking in the 1780s, and were stronger where fiscal disparities were larger and Enlightenment ideas more widespread. We further show that adverse weather shocks amplified unrest in high-tax municipalities. We then document that taxation fueled the spread of unrest during the Grande Peur—the wave of revolts that swept France in July 1789 and culminated in the abolition of feudal privileges. Finally, we link taxation to revolutionary politics in Paris, documenting that deputies from heavily taxed constituencies were more likely to frame the tax system as oppressive, support the Revolution, demand the abolition of the monarchy, and vote for the king’s execution.</content>
+    <link href="https://www.nber.org/papers/w34816"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34814</id>
+    <title>Interest Rates and Equity Valuations</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Niels Joachim Gormsen &amp; Eben Lazarus</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large body of work has sought to measure the effect of interest rates on equity valuations. The challenge in doing so is that both are endogenous, and their comovement depends on the forces driving interest-rate changes. To address this problem, we develop and estimate a decomposition that splits movements in real rates into three structural drivers: changes in expected growth, risk, or “pure discounting.” We show that only pure discount-rate shocks transmit one-for-one to equity valuations, with little or negative transmission of growth and risk shocks. Implementing our decomposition with a global panel of growth expectations and asset prices, we find a weak unconditional relation between valuations and real rates but a strong relation with the pure discounting component, which explains 80% of cross-country valuation changes since 1990. In the U.S., we find that 35% of the interest-rate decline is attributable to pure discounting, implying that only a fraction of the change in rates has passed through directly to equities. We use the decomposition to revisit evidence on the role of interest rates in explaining price variation, and to study higher-frequency returns, cross-sectional rate exposures, duration-matched equity premia, and reactions to monetary policy.</content>
+    <link href="https://www.nber.org/papers/w34814"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34794</id>
+    <title>ICE Arrests across Trump's First and Second Terms: Variation in Targeting, Method, and Geography</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chloe N. East, Caitlin Patler &amp; Elizabeth Cox</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deportation is often framed as a necessary tool to protect public safety by removing people who commit crimes. We use newly available, and externally validated, administrative data containing all US Immigration and Customs Enforcement (ICE) arrests from September 2015-October 2025. Beyond demonstrating national trends in immigration arrests by method and composition over time, we are also able to compare, for the first time, apprehensions spanning the start of the two Trump administrations, both of which focused on mass immigration enforcement. Our results reveal that the reality of immigration enforcement diverges sharply from the public narrative: while arrests spiked at the outset of both Trump presidencies, there were significant declines in the percentage of arrested individuals with criminal convictions, with especially marked declines in 2025. Examining potential mechanisms reveals that this is driven by a change in ICE tactics, but even conditional on tactic, as arrests rose, the percent with a criminal record declined. Moreover, we find substantial heterogeneity over time and across ICE Areas of Responsibility. Taken together, our results highlight a substantial gap between political rhetoric and reality.</content>
+    <link href="https://www.nber.org/papers/w34794"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34813</id>
+    <title>The Politics of AI</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicholas Bloom &amp; Christos Makridis</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using new data from the Gallup Workforce Panel, we document a persistent partisan gap in self-reported AI use at work: Democrats are consistently more likely than Republicans to report frequent use. In 2025:Q4, for example, 27.8% of Democrats report using AI weekly or daily, compared with 22.5% of Republicans. Democrats also report deeper task-level integration, using AI in 16% more work activities than Republicans. Consistent with this, Democrats are employed in occupations with higher predicted AI exposure based on task-content measures and report larger perceived differences in AI-related job displacement risk. However, in regression models the partisan gap in AI use disappears once we control for education, industry, and occupation, indicating that observed differences primarily reflect compositional variation rather than political affiliation per se.</content>
+    <link href="https://www.nber.org/papers/w34813"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34788</id>
+    <title>Coca’s Return and the American Overdose Fallout</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xinming Du, Benjamin Hansen, Shan Zhang &amp; Eric Zou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Colombian coca cultivation fell dramatically between 2000 and 2015, a period that saw intense U.S.-backed eradication and interdiction efforts. That progress reversed in 2015, when peace talks and legal rulings in Colombia opened enforcement gaps. Coca plantation has since increased to record levels, which coincided with a sharp rise in cocaine-related overdose deaths in the U.S. We estimate how much of that rise can be causally attributed to Colombia’s new coca boom. Leveraging the unforeseen coca supply shock and cross-county differences in pre-shock cocaine exposure, we find that the surge in supply caused an immediate rise in overdose mortality in the U.S. Our analysis estimates on the order of 1,000–1,500 additional U.S. deaths per year in the late 2010s can be attributed to Colombia’s cocaine boom. Implicit annual loss in American statistical life values about $48,000 per hectare of cultivation in Colombia. If left untamed, the current level of coca cultivation (over 230,000 ha in 2022) may impose on the order of $10 billion per year in costs via overdose fatalities.</content>
+    <link href="https://www.nber.org/papers/w34788"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34764</id>
+    <title>How Does Tort Reform Affect Health Care Delivery?</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Charles J. Courtemanche &amp; Joseph Garuccio</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Health care costs in the U.S. have grown dramatically over the past several decades, with one possible cause being physicians providing unnecessary services out of fear of being sued for malpractice – a phenomenon known as “defensive medicine”. States responded by enacting different types of tort reforms. This paper reviews the literature on the effects of these tort reforms on outcomes related to malpractice risk, quantity and quality of health care services, overall utilization and expenditures, physician supply, and patient affordability. We use Google Scholar to identify papers that fall into this scope and use either associational or quasi-experimental quantitative methods. The preponderance of evidence points towards non-economic damage caps reducing malpractice risk, quantity of services (aside from diagnostics and obstetrics), and overall health care utilization and expenditures while increasing physician supply and not having detrimental effects on patient outcomes. In general, the effects of other types of tort reforms are less clear. The literature would benefit from further research utilizing recent methodological advances related to combining machine learning with causal inference and eliminating bias from heterogeneous treatment effects in staggered-treatment-time models.</content>
+    <link href="https://www.nber.org/papers/w34764"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
