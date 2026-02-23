@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-02-23T14:05:06.347629+00:00</updated>
+  <updated>2026-02-23T17:44:37.974199+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1066,6 +1066,126 @@
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We show how to use randomized participation incentives to test and account for nonresponse bias in surveys. We first use data from a survey about labour market conditions, linked to full-population administrative data, to provide evidence of large differences in labour market outcomes between survey participants and nonparticipants, differences which would not be observable to an analyst who only has access to the survey data. These differences persist even after correcting for observable characteristics. We then use the randomized incentives in our survey to directly test for nonresponse bias and find evidence of substantial bias. Next, we apply a range of existing methods that account for nonresponse bias and find they produce bounds (or point estimates) that are either wide or far from the ground truth. We investigate the failure of these methods by taking a closer look at the determinants of participation, finding that the composition of participants changes in opposite directions in response to incentives and reminder emails. We develop a model of participation that allows for two dimensions of unobserved heterogeneity in the participation decision. Applying the model to our data produces bounds (or point estimates) that are narrower and closer to the ground truth than the other methods. Our results highlight the benefits of including randomized participation incentives in surveys. Both the testing procedure and the methods for bias adjustment may be attractive tools for researchers who are able to embed randomized incentives into their survey.</content>
     <link href="https://doi.org/10.1093/restud/rdag003"/>
     <category term="Review of Economic Studies"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjag012</id>
+    <title>Monetary Policy and Sovereign Risk in Emerging Economies (NK-Default)</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Cristina Arellano, Yan Bai, Gabriel Mihalache</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;This paper develops a New Keynesian model with sovereign default risk. Inflation is set by forward-looking firms, monetary policy is an interest rate rule, and the fiscal government borrows externally, long-term, with an option to default. In this framework, default risk creates inflation pressures through an expectations channel, and tight monetary policy disincentivizes fiscal overborrowing. The model sheds light on temporary inflation events in emerging-market data: short-lived spikes in inflation, spreads, and domestic policy rates. As spreads rise, firms increase their prices in expectation of higher future inflation and low consumption during default. Monetary policy tightens, which reduces inflation and helps bring spreads down by disciplining government borrowing. These monetary-fiscal interactions imply that delivering the flexible prices allocation may not be optimal for monetary policy.</content>
+    <link href="https://doi.org/10.1093/qje/qjag012"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261428736</id>
+    <title>EXPRESS: Predictive Hotspot Mapping for Data-driven Crime Prediction</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Karthik Sriram, Ankur Sinha, Suvashis Choudhary</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Predictive hotspot mapping is an important problem in crime prediction and control. An accurate hotspot mapping helps in appropriately targeting the available resources to manage crime in cities. With an aim to make data-driven decisions and automate policing and patrolling operations, police departments across the world are moving towards predictive approaches relying on historical data. In this paper, we create a non-parametric model using a spatio-temporal kernel density formulation for the purpose of crime prediction based on historical data. The proposed approach is also able to incorporate expert inputs coming from humans through alternate sources. The approach has been extensively evaluated in a real-world setting by collaborating with the Delhi police department to make crime predictions that would help in effective assignment of patrol vehicles to control street crime. The results obtained in the paper are promising and can be easily applied in other settings. We release the algorithm and the dataset (masked) used in our study to support future research that will be useful in achieving further improvements.</content>
+    <link href="https://doi.org/10.1177/10591478261428736"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1344</id>
+    <title>A Note on Piecewise Affine Decision Rules for Robust, Stochastic, and Data-Driven Optimization</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Simon Thomä, Maximilian Schiffer, Wolfram Wiesemann</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Sharper Approximation for Multistage Decisions Under UncertaintyIn “A Note on Piecewise Affine Decision Rules for Robust, Stochastic, and Data-Driven Optimization,” Thomä, Schiffer, and Wiesemann revisit piecewise affine decision rules, a widely used approximation for multistage stochastic programs. Building on the framework of Georghiou et al. (2015), the authors propose an algorithmic refinement that yields strictly better policies in stochastic settings while retaining tractability. Beyond stochastic programming, the framework naturally extends to multistage robust optimization and to modern data-driven models based on Wasserstein ambiguity sets. The paper shows how the resulting policies can be computed efficiently and provides numerical evidence demonstrating consistent performance improvements.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1344"/>
+    <category term="Operations Research"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2024.0922</id>
+    <title>Bargaining and Network Effects in Two-Sided Platforms: Evidence from Online Healthcare</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Xu Zhang, Junhong Chu, Puneet Manchanda</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.</content>
+    <link href="https://doi.org/10.1287/mksc.2024.0922"/>
+    <category term="Marketing Science"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.09016</id>
+    <title>Quality Disclosures and Disappointment: Evidence from the Academy Nominations</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Michelangelo Rossi, Felix Schleef</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study examines the unintended consequences of quality disclosures, focusing on how Academy Award nominations impact consumer satisfaction in the movie industry. Awards and certifications typically signal high quality and increase consumer expectations. Yet, if the experience falls short of the expectation, they may also lead to disappointment. Using a novel data set from MovieLens, we analyze user ratings for movies surrounding Academy Award nominations from 1995 to 2019. We first implement a difference-in-differences strategy comparing nominated and non-nominated films and then introduce a novel recommendation-based matching approach that leverages vector representations of user preferences trained prior to the nominations. Our analysis removes taste-based selection and isolates changes in user experience: users who rate a movie after its nomination assign significantly lower ratings than similar users who rated the same film earlier. This effect accounts for more than 7% of the prenomination rating gap between nominated and non-nominated films and is most pronounced among less experienced users. Our findings are validated with data from IMDb, where the effect is even more pronounced, likely reflecting differences in the composition of the user base across platforms. Additional textual analysis of user-generated content on both platforms provides further evidence that the postnomination decline in ratings is driven by disappointment, rather than disinterest, deteriorating viewing conditions, or snob effects associated with mainstream popularity.This paper was accepted by Duncan Simester, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09016 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.09016"/>
+    <category term="Management Science"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00254</id>
+    <title>Start-Up Firms and Corporate Culture: Evidence from Advertised Corporate Culture</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Jungho Lee</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;I document the advertised corporate culture among start-up firms from an online job board. Two corporate culture types emerge: one that concerns the well-being of employees (worker-centered culture) and another that emphasizes other values, such as customers, firms, and markets (firm-centered culture). The worker-centered culture attracts 20% more applications than the other culture type. Firms advertising the worker-centered culture pay 5% lower salaries than measurably similar jobs. Outcomes do not significantly differ among firms that promote different types of corporate culture. To assess whether a worker-centered culture is adopted to reduce labor costs or enhance productivity, I develop an equilibrium model. The model implies that many firms adopt a worker-centered culture primarily for cost savings.This paper was accepted by Ashish Arora, entrepreneurship and innovation.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00254 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00254"/>
+    <category term="Management Science"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07650</id>
+    <title>Macroeconomic Annaouncements and the News That Matters Most to Investors</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Samia Badidi, Martijn Boons, Rik Frehen</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Studying a large set of macroeconomic announcements (MAs) and disentangling their news content, we show that a portfolio of stocks that pays off around MAs that negatively impact the aggregate stock market commands a positive risk premium. Adding this portfolio to a position in the aggregate market substantially increases Sharpe ratio while reducing MA risk exposure, which implies a rejection of the CAPM. Using state-of-the-art measures of cash flow and discount rate news and consistent with prominent intertemporal CAPM specifications, we argue that the portfolio’s risk premium compensates investors for large reinvestment risk. Thus, we conclude that the MA news that matters most to investors is discount rate news and not cash flows news.This paper was accepted by Lukas Schmid, finance.Funding: This paper is based upon work supported by the Dutch Research Council [NWO Vidi Grant 201005], Fundação para a Ciência e a Tecnologia [UID/ECO/00124/2020], and POR Lisboa and POR Norte [Social Sciences DataLab, Project 22209].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07650 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07650"/>
+    <category term="Management Science"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04716</id>
+    <title>Getting on the Map: The Impact of Online Listings on Business Performance</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Michael Luca, Abhishek Nagaraj, Gauri Subramani</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We evaluate the extent to which small businesses maintain an online presence and estimate the impact of digital representation on business performance. Looking at a review platform, we find that roughly 18% of bars and restaurants in our sample do not have a listing as of the end of 2017, even though creating one is free. We then estimate the effect of adding a new listing using tax records on revenues combined with temporal variation in listing activity as well as a natural experiment that added over a thousand businesses to the platform via a data acquisition. The results suggest that new listings increase revenues in the range of 5%–10%; however, these effects vary substantially across establishments. Establishments that struggle to develop a reputation (e.g., nonchains or those in tourist areas) and those with a higher quality of product (e.g., larger restaurants or those with good reviews) experience larger increases after being listed.This paper was accepted by Duncan Simester, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04716 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04716"/>
+    <category term="Management Science"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261419057</id>
+    <title>Detachment and Attachment: A Dual-Pathway Model of Leader Succession Rituals</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Helen H. Zhao, Mo Wang, Yue Yuan, Dan Ni, Xiaoming Zheng, Simon S.K. Lam</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Leader succession, the transition of a leadership position from a former leader to a new one, is a common yet potentially disruptive organizational process. Leader succession inherently carries risks and uncertainties, while rituals are often employed to instill order and provide stability. Building on this theoretical link between leader succession and rituals, we explored different types of leader succession rituals and investigated their impacts on succession outcomes. In a qualitative study (Study 1), we identified six types of leader succession rituals: artifact adoption, endorsement act, welcome ceremony, artifact return, closure act, and farewell ceremony. A duality emerged in our data: The first three ritual types focus on building attachment to the new leader, while the other three emphasize detachment from the former leader. Based on the findings from Study 1, we conducted a quantitative field study (Study 2) in a technology firm undergoing large-scale leader succession following an acquisition, as well as an experiment (Study 3) with full-time working adults from diverse organizational contexts via an online platform. Across Studies 2 and 3, we tested the dual-pathway model. The results not only confirm that the effects are transmitted through new leader attachment and former leader detachment but also reveal differential effectiveness among ritual types, with endorsement act, welcome ceremony, and farewell ceremony proving more effective in influencing succession outcomes.</content>
+    <link href="https://doi.org/10.1177/01492063261419057"/>
+    <category term="Journal of Management"/>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.0857</id>
+    <title>SUVA: A Probabilistic Framework for Auditing LLMs with an Application to Social Preferences</title>
+    <updated>2026-02-23T00:00:00+00:00</updated>
+    <author>
+      <name>Yan Leng, Yuan Yuan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations are increasingly deploying large language models (LLMs) as customer service agents, decision aids, and semiautonomous agents. We develop State–Understanding–Value–Action (SUVA), a probabilistic auditing framework that turns an LLM’s response into structured evidence about how its decision was produced. SUVA treats the prompt as the state, codes the model’s reasoning to extract its understanding and stated values using a transparent codebook, and then estimates how these elements statistically predict the eventual action. We demonstrate SUVA on social preference games from behavioral economics and show how the same workflow can audit other delegated decisions by using domain-specific prompts and value codebooks. Across eight widely used LLMs, SUVA reveals systematic prosocial and reciprocity patterns and shows how posttraining alignment reshapes them. For practice and policy, SUVA supports a repeatable audit, align, and reaudit workflow for model selection, compliance, and ongoing monitoring of deployed LLM systems.</content>
+    <link href="https://doi.org/10.1287/isre.2024.0857"/>
+    <category term="Information Systems Research"/>
     <published>2026-02-23T00:00:00+00:00</published>
   </entry>
   <entry>
