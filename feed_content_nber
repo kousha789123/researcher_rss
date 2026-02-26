@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-02-25T14:34:42.067607+00:00</updated>
+  <updated>2026-02-26T14:11:58.860930+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34820</id>
+    <title>Are Government Bonds Safe in Times of War and Pandemic?</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Zhengyang Jiang, Hanno Lustig, Stijn Van Nieuwerburgh &amp; Mindy Z. Xiaolan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze real returns on U.S. and U.K. government debt during major wars and the COVID-19 pandemic over the past three centuries. Wars are associated with sharply negative real returns on outstanding government debt, with returns falling far below economic growth, in contrast to peacetime periods when returns exceed growth. Elevated surprise inflation and financial repression account for a cumulative 31% wedge between returns and growth over four years of war, implying that bondholders bear a substantial share of wartime fiscal costs. During wartime, government bonds also systematically underperform risky assets.</content>
+    <link href="https://www.nber.org/papers/w34820"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34819</id>
     <title>Financial Incentives, Health Screening, and Selection into Mental Health Care: Experimental Evidence from College Students in India</title>
@@ -378,18 +390,6 @@ Substantial scope remains to redesign embedded experiments to increase inferenti
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Colombian coca cultivation fell dramatically between 2000 and 2015, a period that saw intense U.S.-backed eradication and interdiction efforts. That progress reversed in 2015, when peace talks and legal rulings in Colombia opened enforcement gaps. Coca plantation has since increased to record levels, which coincided with a sharp rise in cocaine-related overdose deaths in the U.S. We estimate how much of that rise can be causally attributed to Colombia’s new coca boom. Leveraging the unforeseen coca supply shock and cross-county differences in pre-shock cocaine exposure, we find that the surge in supply caused an immediate rise in overdose mortality in the U.S. Our analysis estimates on the order of 1,000–1,500 additional U.S. deaths per year in the late 2010s can be attributed to Colombia’s cocaine boom. Implicit annual loss in American statistical life values about $48,000 per hectare of cultivation in Colombia. If left untamed, the current level of coca cultivation (over 230,000 ha in 2022) may impose on the order of $10 billion per year in costs via overdose fatalities.</content>
     <link href="https://www.nber.org/papers/w34788"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34764</id>
-    <title>How Does Tort Reform Affect Health Care Delivery?</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Charles J. Courtemanche &amp; Joseph Garuccio</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Health care costs in the U.S. have grown dramatically over the past several decades, with one possible cause being physicians providing unnecessary services out of fear of being sued for malpractice – a phenomenon known as “defensive medicine”. States responded by enacting different types of tort reforms. This paper reviews the literature on the effects of these tort reforms on outcomes related to malpractice risk, quantity and quality of health care services, overall utilization and expenditures, physician supply, and patient affordability. We use Google Scholar to identify papers that fall into this scope and use either associational or quasi-experimental quantitative methods. The preponderance of evidence points towards non-economic damage caps reducing malpractice risk, quantity of services (aside from diagnostics and obstetrics), and overall health care utilization and expenditures while increasing physician supply and not having detrimental effects on patient outcomes. In general, the effects of other types of tort reforms are less clear. The literature would benefit from further research utilizing recent methodological advances related to combining machine learning with causal inference and eliminating bias from heterogeneous treatment effects in staggered-treatment-time models.</content>
-    <link href="https://www.nber.org/papers/w34764"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -768,6 +768,90 @@ Oversight of supervisors also reduces favoritism in bonus allocation and improve
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34889</id>
+    <title>Optimal Simple Ratings</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hugo Hopenhayn &amp; Maryam Saeedi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study optimal simple rating systems that partition sellers into a finite number of tiers. We show that optimal ratings must be threshold partitions, and that for linear supply and Cournot competition with constant marginal cost, optimal thresholds solve a k-means clustering problem requiring only the quality distribution. For convex (concave) supply functions, optimal thresholds are higher (lower) than the k-means solution. For log-concave distributions, two-tier certification captures at least 50 percent of maximum welfare gains from full disclosure, with five tiers typically achieving over 90 percent. Applications to eBay and Medicare Advantage data illustrate our method.</content>
+    <link href="https://www.nber.org/papers/w34889"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34855</id>
+    <title>Trading Goods for Lives: NAFTA’s Mortality Impacts and Implications</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Amy Finkelstein, Matthew J. Notowidigdo &amp; Steven X. Shi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the mortality impact of local labor market exposure to the 1994 North American Free Trade Agreement (NAFTA) as well as to other local area shocks, and provide a parsimonious empirical explanation for differently-signed mortality estimates across different sources of local labor market contractions. Leveraging spatial variation in exposure to Mexican important competition from NAFTA, we find that more exposed areas experienced larger increases in mortality. In the 15 years post-NAFTA, an area with average NAFTA exposure experienced an increase in annual, age-adjusted mortality of 0.68 percent (standard error = 0.19), an increase that more than erases prior estimates of the welfare gains from NAFTA’s nationwide economic benefits. Mortality increases appear across all broad age by sex groups, but are particularly pronounced among working-age men, a demographic that also experienced disproportionate NAFTA-induced declines in (primarily manufacturing) employment. Additional evidence from other local labor market shocks reveals a systematic pattern: declines in local area manufacturing employment increase mortality, while declines in local area non-manufacturing employment decrease mortality. These findings suggest that the sign and magnitude of any mortality impacts of future economic shocks likely depends critically on the extent to which employment declines are concentrated in the manufacturing sector.</content>
+    <link href="https://www.nber.org/papers/w34855"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34888</id>
+    <title>Drivers of Dollar Share in Foreign Exchange Reserves</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Linda S. Goldberg &amp; Oliver Hannaoui</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The share of US dollar assets in the official foreign exchange reserve portfolios of central banks, at times, is taken as an indicator of the dollar's global status. We provide a decomposition that shows two distinct channels contributing to the changes in the dollar share of reserves aggregated across countries: shifts in preferences for dollar assets, and changes in reserve balances driven by countries whose portfolio allocations differ from the aggregate. We document how the concentrated nature of foreign exchange reserve holdings allows countries that contribute a large share of aggregated reserves to exert substantial influence on aggregate dollar shares over time, potentially dominating the narrative. In recent periods, the key contributors to changes in aggregate preference shifts for dollar assets are changes in bilateral country trade with the United States and dollar debt share, with geopolitics additionally working through the investment tranches of central bank portfolios. Diversification away from dollar assets is more prevalent conditional on official reserves of countries being large enough to satisfy country liquidity needs.</content>
+    <link href="https://www.nber.org/papers/w34888"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34887</id>
+    <title>A Theory of Subsidy Harvesting in Livestock Price Insurance</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael K. Adjemian &amp; A. Ford Ramsey</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;USDA designed the Livestock Risk Protection (LRP) program to help producers insure against declining prices for fed cattle, feeder cattle, and swine. Prices in derivatives markets determine program indemnities, making LRP policies similar to put options. Beginning in 2019, USDA made several changes to the program to encourage producer takeup, including increased premium subsidies. We introduce a theoretical model to show that subsidizing LRP premiums invites producers to “subsidy harvest,” i.e. extract the subsidy as an arbitrage by simultaneously taking an offsetting position in the options market—potentially removing the downside protection the program was intended to provide. The subsidy harvest is a pure rent and costlier than a direct payment because it requires administrative oversight and federally-subsidized delivery through approved insurance providers. According to the model, the government’s premium subsidy leads producers to favor LRP-oriented strategies over market options alone, while their choice to offset actual risk protection using options depends on individual risk tolerance and wealth objectives.</content>
+    <link href="https://www.nber.org/papers/w34887"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34886</id>
+    <title>Shielding Women from Violence: The Effects of Violence Prevention and Monitoring Centers on Intimate Partner Violence in Türkiye</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gunes Asik, Bilge Erten, Erdal Tekin, Semih Tumen &amp; Hakan Ulucan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Intimate partner violence remains one of the most serious threats to women's safety worldwide, yet existing evidence on the effectiveness of large-scale institutional protection systems is limited and mixed. This paper evaluates the impact of Violence Prevention and Monitoring Centers on intimate partner violence (IPV) against women in Türkiye. Exploiting the staggered rollout of centers across provinces, we find that the opening of a center reduces female homicides, particularly those perpetrated by intimate partners, by approximately 20 percent. Complementary survey evidence shows that the opening of a center also reduces women's self-reported exposure to physical IPV by 20 percent, with larger effects among younger and less-educated women. Exploring potential mechanisms, we find that centers primarily reduce violence by lowering barriers to help-seeking and improving coordination across police, legal, and social services: following the opening of a center, women become more likely to seek support from women's organizations and social services, while direct applications to prosecutors decline. We find no evidence of effects on gender attitudes, labor market outcomes, relationship status, marriage market outcomes, or mental health, suggesting violence reductions operate through improved access to protection rather than changes in norms or economic independence. The estimated effects are stronger in provinces with more gender-progressive norms and stronger institutional capacity, highlighting the importance of complementary social and institutional environments.</content>
+    <link href="https://www.nber.org/papers/w34886"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34885</id>
+    <title>Demographics and Technology Diffusion: Evidence from Mobile Payments</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicolas Crouzet, Pulak Ghosh, Apoorv Gupta &amp; Filippo Mezzanotti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that the age composition of the population can shape the speed at which businesses adopt new technologies, using evidence from mobile payments in India. Consumers' propensity to use new payment technologies declines with age, creating stronger incentives for businesses serving younger customers to accept these technologies. We document this pattern in the rollout of a mobile payment option by a major fintech company. A model where consumer attitudes toward technology vary by age implies that business adoption is inefficiently low, with the young bearing disproportionate welfare losses from network externalities. Jointly subsidizing transaction and adoption costs restores efficiency.</content>
+    <link href="https://www.nber.org/papers/w34885"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34884</id>
+    <title>Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Keith Head, Thierry Mayer, Marc Melitz &amp; Chenying Yang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We model a multi-stage supply chain for EVs from battery production to vehicle distribution. Given industrial policies, firms select where to open facilities at each stage. This is a difficult combinatorial choice problem that we solve with a fast mixed integer linear programming formulation. We estimate the variable and fixed costs parameters using SMM. Counterfactual simulations reveal a tension between boosting EV adoption and promoting domestic supply chains. Due to increasing returns, even unconditional subsidies raise the number of factories in the subsidizing region—by about 16% for EVs and 7% for cells in North America, and even more in Europe. Theoretically, local assembly requirements can push down delivered marginal costs relative to unconditional subsidies. Empirically, local content requirements quadruple the expansion of cell factories in America, but they drive up costs and reduce subsidy uptake, undoing more than half of the EV adoption stimulus coming from pure buyer subsidies.</content>
+    <link href="https://www.nber.org/papers/w34884"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34883</id>
     <title>Shopping From Home</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -1124,90 +1208,6 @@ Oversight of supervisors also reduces favoritism in bonus allocation and improve
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study identification of differentiated product demand from market-level data when product characteristics can be endogenous. Past work suggests nonparametric identification may be impossible: that is, in addition to standard price instruments, exogenous characteristic-based instruments are essentially necessary to identify sufficiently flexible demand models with standard index restrictions. We show, however, that price counterfactuals are nonparametrically identified using recentered instruments—which combine exogenous price instruments with possibly endogenous product characteristics—under a weaker index restriction and a new condition we term faithfulness. We argue that faithfulness, like the usual completeness condition for nonparametric instrumental variable identification, is best viewed as a technical requirement on the strength of identifying variation rather than a substantive economic or statistical restriction. We show the two conditions are closely related, though generally distinct. We conclude with several practical implications for the parametric estimation of demand counterfactuals.</content>
     <link href="https://www.nber.org/papers/w34842"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34889</id>
-    <title>Optimal Simple Ratings</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Hugo Hopenhayn &amp; Maryam Saeedi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study optimal simple rating systems that partition sellers into a finite number of tiers. We show that optimal ratings must be threshold partitions, and that for linear supply and Cournot competition with constant marginal cost, optimal thresholds solve a k-means clustering problem requiring only the quality distribution. For convex (concave) supply functions, optimal thresholds are higher (lower) than the k-means solution. For log-concave distributions, two-tier certification captures at least 50 percent of maximum welfare gains from full disclosure, with five tiers typically achieving over 90 percent. Applications to eBay and Medicare Advantage data illustrate our method.</content>
-    <link href="https://www.nber.org/papers/w34889"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34855</id>
-    <title>Trading Goods for Lives: NAFTA’s Mortality Impacts and Implications</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Amy Finkelstein, Matthew J. Notowidigdo &amp; Steven X. Shi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the mortality impact of local labor market exposure to the 1994 North American Free Trade Agreement (NAFTA) as well as to other local area shocks, and provide a parsimonious empirical explanation for differently-signed mortality estimates across different sources of local labor market contractions. Leveraging spatial variation in exposure to Mexican important competition from NAFTA, we find that more exposed areas experienced larger increases in mortality. In the 15 years post-NAFTA, an area with average NAFTA exposure experienced an increase in annual, age-adjusted mortality of 0.68 percent (standard error = 0.19), an increase that more than erases prior estimates of the welfare gains from NAFTA’s nationwide economic benefits. Mortality increases appear across all broad age by sex groups, but are particularly pronounced among working-age men, a demographic that also experienced disproportionate NAFTA-induced declines in (primarily manufacturing) employment. Additional evidence from other local labor market shocks reveals a systematic pattern: declines in local area manufacturing employment increase mortality, while declines in local area non-manufacturing employment decrease mortality. These findings suggest that the sign and magnitude of any mortality impacts of future economic shocks likely depends critically on the extent to which employment declines are concentrated in the manufacturing sector.</content>
-    <link href="https://www.nber.org/papers/w34855"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34888</id>
-    <title>Drivers of Dollar Share in Foreign Exchange Reserves</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Linda S. Goldberg &amp; Oliver Hannaoui</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The share of US dollar assets in the official foreign exchange reserve portfolios of central banks, at times, is taken as an indicator of the dollar's global status. We provide a decomposition that shows two distinct channels contributing to the changes in the dollar share of reserves aggregated across countries: shifts in preferences for dollar assets, and changes in reserve balances driven by countries whose portfolio allocations differ from the aggregate. We document how the concentrated nature of foreign exchange reserve holdings allows countries that contribute a large share of aggregated reserves to exert substantial influence on aggregate dollar shares over time, potentially dominating the narrative. In recent periods, the key contributors to changes in aggregate preference shifts for dollar assets are changes in bilateral country trade with the United States and dollar debt share, with geopolitics additionally working through the investment tranches of central bank portfolios. Diversification away from dollar assets is more prevalent conditional on official reserves of countries being large enough to satisfy country liquidity needs.</content>
-    <link href="https://www.nber.org/papers/w34888"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34887</id>
-    <title>A Theory of Subsidy Harvesting in Livestock Price Insurance</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael K. Adjemian &amp; A. Ford Ramsey</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;USDA designed the Livestock Risk Protection (LRP) program to help producers insure against declining prices for fed cattle, feeder cattle, and swine. Prices in derivatives markets determine program indemnities, making LRP policies similar to put options. Beginning in 2019, USDA made several changes to the program to encourage producer takeup, including increased premium subsidies. We introduce a theoretical model to show that subsidizing LRP premiums invites producers to “subsidy harvest,” i.e. extract the subsidy as an arbitrage by simultaneously taking an offsetting position in the options market—potentially removing the downside protection the program was intended to provide. The subsidy harvest is a pure rent and costlier than a direct payment because it requires administrative oversight and federally-subsidized delivery through approved insurance providers. According to the model, the government’s premium subsidy leads producers to favor LRP-oriented strategies over market options alone, while their choice to offset actual risk protection using options depends on individual risk tolerance and wealth objectives.</content>
-    <link href="https://www.nber.org/papers/w34887"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34886</id>
-    <title>Shielding Women from Violence: The Effects of Violence Prevention and Monitoring Centers on Intimate Partner Violence in Türkiye</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gunes Asik, Bilge Erten, Erdal Tekin, Semih Tumen &amp; Hakan Ulucan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Intimate partner violence remains one of the most serious threats to women's safety worldwide, yet existing evidence on the effectiveness of large-scale institutional protection systems is limited and mixed. This paper evaluates the impact of Violence Prevention and Monitoring Centers on intimate partner violence (IPV) against women in Türkiye. Exploiting the staggered rollout of centers across provinces, we find that the opening of a center reduces female homicides, particularly those perpetrated by intimate partners, by approximately 20 percent. Complementary survey evidence shows that the opening of a center also reduces women's self-reported exposure to physical IPV by 20 percent, with larger effects among younger and less-educated women. Exploring potential mechanisms, we find that centers primarily reduce violence by lowering barriers to help-seeking and improving coordination across police, legal, and social services: following the opening of a center, women become more likely to seek support from women's organizations and social services, while direct applications to prosecutors decline. We find no evidence of effects on gender attitudes, labor market outcomes, relationship status, marriage market outcomes, or mental health, suggesting violence reductions operate through improved access to protection rather than changes in norms or economic independence. The estimated effects are stronger in provinces with more gender-progressive norms and stronger institutional capacity, highlighting the importance of complementary social and institutional environments.</content>
-    <link href="https://www.nber.org/papers/w34886"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34885</id>
-    <title>Demographics and Technology Diffusion: Evidence from Mobile Payments</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicolas Crouzet, Pulak Ghosh, Apoorv Gupta &amp; Filippo Mezzanotti</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that the age composition of the population can shape the speed at which businesses adopt new technologies, using evidence from mobile payments in India. Consumers' propensity to use new payment technologies declines with age, creating stronger incentives for businesses serving younger customers to accept these technologies. We document this pattern in the rollout of a mobile payment option by a major fintech company. A model where consumer attitudes toward technology vary by age implies that business adoption is inefficiently low, with the young bearing disproportionate welfare losses from network externalities. Jointly subsidizing transaction and adoption costs restores efficiency.</content>
-    <link href="https://www.nber.org/papers/w34885"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34884</id>
-    <title>Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Keith Head, Thierry Mayer, Marc Melitz &amp; Chenying Yang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We model a multi-stage supply chain for EVs from battery production to vehicle distribution. Given industrial policies, firms select where to open facilities at each stage. This is a difficult combinatorial choice problem that we solve with a fast mixed integer linear programming formulation. We estimate the variable and fixed costs parameters using SMM. Counterfactual simulations reveal a tension between boosting EV adoption and promoting domestic supply chains. Due to increasing returns, even unconditional subsidies raise the number of factories in the subsidizing region—by about 16% for EVs and 7% for cells in North America, and even more in Europe. Theoretically, local assembly requirements can push down delivered marginal costs relative to unconditional subsidies. Empirically, local content requirements quadruple the expansion of cell factories in America, but they drive up costs and reduce subsidy uptake, undoing more than half of the EV adoption stimulus coming from pure buyer subsidies.</content>
-    <link href="https://www.nber.org/papers/w34884"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
