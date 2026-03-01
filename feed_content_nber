@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-03-01T13:59:38.701870+00:00</updated>
+  <updated>2026-03-01T16:00:14.018929+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -900,18 +900,6 @@ Oversight of supervisors also reduces favoritism in bonus allocation and improve
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34842</id>
-    <title>Nonparametric Identification of Demand without Exogenous Product Characteristics</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kirill Borusyak, Jiafeng Chen, Peter Hull &amp; Lihua Lei</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study identification of differentiated product demand from market-level data when product characteristics can be endogenous. Past work suggests nonparametric identification may be impossible: that is, in addition to standard price instruments, exogenous characteristic-based instruments are essentially necessary to identify sufficiently flexible demand models with standard index restrictions. We show, however, that price counterfactuals are nonparametrically identified using recentered instruments—which combine exogenous price instruments with possibly endogenous product characteristics—under a weaker index restriction and a new condition we term faithfulness. We argue that faithfulness, like the usual completeness condition for nonparametric instrumental variable identification, is best viewed as a technical requirement on the strength of identifying variation rather than a substantive economic or statistical restriction. We show the two conditions are closely related, though generally distinct. We conclude with several practical implications for the parametric estimation of demand counterfactuals.</content>
-    <link href="https://www.nber.org/papers/w34842"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34880</id>
     <title>Do Informal Social Markets and Online Sellers Help Youths to Avoid E-Cigarette Taxation?</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -1208,6 +1196,18 @@ Oversight of supervisors also reduces favoritism in bonus allocation and improve
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does government funding influence the choice of research topics? Novel grant-making modalities such as the Advanced Research Projects Agency-Energy (ARPA-E) program aim to encourage scientists to take on difficult-to-solve, wicked societal problems such as clean energy. Yet little causal evidence exists linking funding and research direction, with most existing studies focusing on health sciences. We provide new evidence on the effect of funding on clean energy research, addressing two questions: (1) Do scientists change the focus of their research in response to targeted government funding opportunities? (2) If so, what types of calls for funding best attract new researchers? Using data on grants from the Department of Energy and National Science Foundation, we combine text and regression analyses to compare the publication trajectories of funded scientists to a set of matched controls. After funding, the research of funded scientists becomes more similar to the grant topic than that of the matched controls. The effect is largest for ARPA-E, which explicitly aims to attract new scientists to clean energy research, suggesting that agency efforts to attract new researchers to a topic area can succeed. General calls for funding such as offered by traditional NSF directorates generate less movement.</content>
     <link href="https://www.nber.org/papers/w34856"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34842</id>
+    <title>Nonparametric Identification of Demand without Exogenous Product Characteristics</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kirill Borusyak, Jiafeng Chen, Peter Hull &amp; Lihua Lei</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study identification of differentiated product demand from market-level data when product characteristics can be endogenous. Past work suggests nonparametric identification may be impossible: that is, in addition to standard price instruments, exogenous characteristic-based instruments are essentially necessary to identify sufficiently flexible demand models with standard index restrictions. We show, however, that price counterfactuals are nonparametrically identified using recentered instruments—which combine exogenous price instruments with possibly endogenous product characteristics—under a weaker index restriction and a new condition we term faithfulness. We argue that faithfulness, like the usual completeness condition for nonparametric instrumental variable identification, is best viewed as a technical requirement on the strength of identifying variation rather than a substantive economic or statistical restriction. We show the two conditions are closely related, though generally distinct. We conclude with several practical implications for the parametric estimation of demand counterfactuals.</content>
+    <link href="https://www.nber.org/papers/w34842"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
