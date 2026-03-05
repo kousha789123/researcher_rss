@@ -2,94 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-03-05T03:36:07.529636+00:00</updated>
+  <updated>2026-03-05T14:03:31.085854+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/qje/qjag009</id>
-    <title>Civil War–Induced Displacement and Human Capital</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>Giorgio Chiovelli, Stelios Michalopoulos, Elias Papaioannou, Sandra Sequeira</name>
-    </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We study the impact of conflict-induced displacement on human capital and occupational shifts, focusing on the Mozambican civil war (1977 - 1992), during which millions of civilians were forced to flee to the countryside, cities, and neighboring countries. Reconstructing the wartime mobility histories of the surviving population, we examine the consequences of multiple displacement trajectories within a unified framework. First, we characterize the education and sectoral employment of the universe of (non-)displaced. Second, we exploit differences in relocation trajectories among extended kin members during their schooling years. Displacement is associated with significant gains in education. Third, employing a “movers design,” we show that minors displaced earlier to better districts experienced an increase in educational attainment. Focusing on moves during the intensification of the war and when comparing members of the same household, regional childhood exposure effects remain strong, whereas spatial sorting becomes negligible. Fourth, we jointly estimate place-based, spatial sorting, and uprootedness effects, showing that all forces are at play. Fifth, a small survey in Mozambique’s largest northern city reveals long-term effects: internally displaced report higher education than their siblings who stayed behind, but lower social capital and worse mental health relative to locals. Our findings demonstrate that displacement shocks can foster human capital accumulation, even in very low-income settings, albeit at the cost of enduring social and psychological traumas.</content>
-    <link href="https://doi.org/10.1093/qje/qjag009"/>
-    <category term="The Quarterly Journal of Economics"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0625</id>
-    <title>Reducing Manual Labeling Effort in Imbalanced Data Sets: Active Learning for Detecting Illicit Massage Business Reviews</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>Margaret Tobey, Maria E. Mayorga, Sherrie Bosisto, Osman Y. Özaltın</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Smarter Labeling to Detect Hidden Human Trafficking RisksHuman trafficking investigators face the immense challenge of sifting through vast amounts of online data to uncover illicit activities. In their article, Reducing Manual Labeling Effort in Imbalanced Data Sets: Active Learning for Detecting Illicit Massage Business Reviews, Tobey, Mayorga, Bosisto, and Özaltın present a novel framework that uses reinforcement learning–based active learning to reduce the burden of manual data labeling, improving detection of illicit massage business reviews on Yelp. By strategically selecting the most informative reviews for expert annotation, the approach achieves strong performance despite limited and imbalanced data sets, easing the emotional and time costs of reviewing disturbing content. The study demonstrates that their method outperforms benchmark active learning strategies, remains effective even with large query batches, and generalizes across regions. Beyond combating human trafficking, the framework offers a scalable solution for other domains with scarce, sensitive, or costly-to-label data.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0625"/>
-    <category term="Operations Research"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.0983</id>
-    <title>Online Demand Fulfillment Problem with Initial Inventory Placement: A Regret Analysis</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>Alessandro Arlotto, Irem Nur Keskin, Yehua Wei</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Studying How Inventory Placement Shapes Online Fulfillment PerformanceA growing share of e-commerce operations involves deciding not only how to fulfill incoming orders, but also where to position inventory beforehand. In “Online Demand Fulfillment Problem with Initial Inventory Placement: A Regret Analysis,” Arlotto, Keskin, and Wei examine how these two decisions interact. The authors introduce a joint regret framework that evaluates the performance of a fulfillment policy together with the initial allocation of inventory across warehouses. Their analysis shows that probabilistic fulfillment inevitably accumulates regret that grows with the length of the planning horizon, regardless of how inventory is initially placed. By contrast, when combined with an appropriate offline inventory placement, the score-based approach achieves a regret bound that remains stable over time and scales only with the size of the system. The study offers insight into the role of initial placement in shaping fulfillment policy performance.</content>
-    <link href="https://doi.org/10.1287/opre.2024.0983"/>
-    <category term="Operations Research"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03236</id>
-    <title>Tail-Driven Nonparametric Estimation for State Price Densities</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>Chenxu Li, Xiaojun Song, Yating Wan</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper proposes and implements a novel nonparametric method for estimating the state price density (SPD) over the entire state space, including the tails. This SPD estimator achieves shape consistency properties in theory, particularly at the tails. Monte Carlo simulations demonstrate the accuracy and robustness of our method. In particular, our estimator accurately captures the risk-neutral tail distribution, which is often underestimated by existing alternative methods. In an empirical analysis based on Standard and Poor’s 500 options data, we evaluate the out-of-sample performance of our SPD estimation method and demonstrate that the estimates can serve as effective indicators for market conditions and exhibit predictive power for asset returns. Combining these perspectives, we suggest that our SPD estimator renders a valuable tool for risk management and asset pricing.This paper was accepted by Kay Giesecke, finance.Funding: The research of C. Li was supported by the Guanghua School of Management, the Center for Statistical Science, the High-Performance Computing Platform, and the Key Laboratory of Mathematical Economics and Quantitative Finance (Ministry of Education) at Peking University as well as the National Natural Science Foundation of China [Grant 72173003]. The research of X. Song was supported by the Guanghua School of Management, the Center for Statistical Science, and the Key Laboratory of Mathematical Economics and Quantitative Finance (Ministry of Education) at Peking University as well as the National Natural Science Foundation of China [Grants 72373007 and 72333001]. The research of Y. Wan was supported by the School of Management Science and Engineering and the Coordinated Innovation Center for Computable Modeling in Management Science at Tianjin University of Finance and Economics as well as the Tianjin Municipal Education Commission [Grant 2022SK188].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03236 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03236"/>
-    <category term="Management Science"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05808</id>
-    <title>Expectations Matter: When (Not) to Use Machine Learning Earnings Forecasts</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>John L. Campbell, Harrison Ham, Zhongjin (Gene) Lu, Katherine Wood</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We comprehensively examine the usefulness of machine learning technology to predict a firm’s earnings and offer three main findings. First, although prior literature suggests machine learning can offer better earnings forecasts than analysts, we show that this result is highly sensitive to machine learning model specification choices (i.e., 80% of evaluated machine forecasts fail to beat analysts). Second, we examine why the most accurate machine learning forecast consistently beats analysts, finding that they correct for predictable analyst biases that are both linear and nonlinear and largely relate to analysts’ prior forecast errors, forecasted earnings levels, and the firm’s stock price. Finally, we find that investors’ earnings expectations, as revealed through stock prices, largely—but do not fully—correct for these predictable analyst biases, with delayed price realization up to nine months. In additional analysis, we find that optimal machine learning specification choices remain stable over time and that, although the machine’s outperformance narrows in recent periods, it remains substantial among small-cap stocks. Overall, our study moves beyond the question of whether machine forecasts are superior to human forecasts and instead focuses on which machine forecast specifications matter, as well as when and why machine forecasts are most superior. In so doing, we provide code and estimates for the most accurate machine forecast specification and demonstrate that investors’ expectations appear to largely (but not fully) align with them.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05808 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05808"/>
-    <category term="Management Science"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/joom.70035</id>
-    <title>Supply Chain Guardianship: Why Some Firms Intervene When Other Firms Commit Fraud</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>Scott DuHadway, Steven Carnovale, Lutz Kaufmann</name>
-    </author>
-    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;In supply chains, firms often become aware of illegal actions committed by their partners, prompting the critical question: when and why do those who know become those who act? Drawing on industry examples of supply chain fraud, we introduce the concept of supply chain guardianship to study how firms respond to potential fraud committed by their supply chain partners. We identify key influences on supply chain guardianship and refine these insights into hypotheses, which we test across four behavioral experiments (n= 1000). Study A finds that the tone at the top of an organization can promote supply chain guardianship and that state moral disengagement is negatively correlated with it. Study B manipulates process moral disengagement and finds that it reduces guardianship behavior. Although the network position of the supply chain guardian emerges as important in industry examples, we do not find a significant effect in the experiments. We replicate and validate these findings in Studies C and D. This study offers an initial foundation for a behavioral theory of interfirm fraud responses in supply chains and offers practical insights into how firms can increase supply chain guardianship across macro‐, meso‐, and microlevels.</content>
-    <link href="https://doi.org/10.1002/joom.70035"/>
-    <category term="Journal of Operations Management"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261416425</id>
-    <title>A CEO-Driven Process Model of Firm Responsiveness to Secondary Stakeholder Demands: The Roles of CEO Values and Passion</title>
-    <updated>2026-02-12T00:00:00+00:00</updated>
-    <author>
-      <name>François Neville, G. Alessandra Rizzi, Jeffrey B. Lovelace</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Secondary stakeholder demands represent increasingly important strategic issues for firms. However, the principal drivers of firm response remain poorly understood. We extend research on firm responsiveness to secondary stakeholders by introducing a new theoretical perspective to detail the cognitive processes through which key CEO attributes—namely, personal values and passion—shape the trajectories of firm responsiveness. We first outline key aspects of secondary stakeholder demands to explain why CEO values and passion are important determinants of a firm’s response to secondary stakeholder demands. We then explain how a CEO’s values and passion influence the process of firm responsiveness. Finally, we extend our arguments to illustrate how values and passion-infused responses may influence social (dis)approval among key organizational stakeholders. By focusing on the cognitive processes of CEOs, we offer novel theoretical contributions to stakeholder theory, strategic leadership research, and the literature on firm social evaluations.</content>
-    <link href="https://doi.org/10.1177/01492063261416425"/>
-    <category term="Journal of Management"/>
-    <published>2026-02-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.07017</id>
     <title>How Do Different Remote Work Arrangements Impact Employee Job Satisfaction and Retention?</title>
@@ -1271,62 +1187,62 @@
   <entry>
     <id>https://doi.org/10.1177/00222437261432198</id>
     <title>EXPRESS: How Effective Is Suggested Pricing?: Experimental Evidence from an E-Commerce Platform</title>
-    <updated>2026-03-05T03:36:07+00:00</updated>
+    <updated>2026-03-05T14:03:31+00:00</updated>
     <author>
       <name>Jessica Fong, Puneet Manchanda, Yu Song</name>
     </author>
     <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;We investigate how platform-suggested prices influence sellers’ pricing decisions and selling outcomes. In collaboration with Mercari, a peer-to-peer e-commerce platform, we conduct a field experiment that varies whether a seller receives a suggested price, and if so, the suggested price itself. We find that a 30% change in suggested prices leads to a 5% change in listing prices in the same direction. Suggested prices are more influential when pricing is more challenging, such as for new sellers and used items. Lower suggested prices improve both the likelihood of sale and the resulting seller revenue. We show, in a subsequent experiment, that these results are likely to generalize to the full equilibrium. Our findings imply that platform-suggested pricing is an effective compromise that guides seller pricing while allowing them to incorporate their private information.</content>
     <link href="https://doi.org/10.1177/00222437261432198"/>
     <category term="Journal of Marketing Research"/>
-    <published>2026-03-05T03:36:07+00:00</published>
+    <published>2026-03-05T14:03:31+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/00222437261432622</id>
     <title>EXPRESS: Less is More (Natural): The Effect of Ingredient Quantity Framing on Consumer Preferences</title>
-    <updated>2026-03-05T03:36:07+00:00</updated>
+    <updated>2026-03-05T14:03:31+00:00</updated>
     <author>
       <name>MICHELLE YOOSUN KIM, RACHEL GERSHON, SYDNEY E. SCOTT, DANIELLA KUPOR, TIANQI CHEN, REMI TRUDEL</name>
     </author>
     <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Despite the ubiquity of ingredient quantity information in the marketplace, prior literature has yet to examine whether ingredient quantity shapes consumer choice. We present and test a novel framework that charts when, why, and how this pervasive ingredient quantity information influences consumers’ food decisions. Across two preregistered pilot studies, seven preregistered experiments, and ten supplementary experiments in the Web Appendix—we find that consumers are often more interested in food products framed as containing few (vs. many) ingredients, even when the same ingredient list is displayed across products. This preference stems from the perception that fewer ingredients indicate less processing, especially when the processing history of a product is not available. As a result, a product with fewer ingredients is perceived as more natural and is thus preferred. We also show, though consumers commonly pursue the goal to consume natural products, when other consumption goals (e.g., the goal to seek indulgent or unique products) rise in importance, a product framed as containing more ingredients can become more preferred. This research uncovers how ingredient quantity information biases consumers’ perceptions and daily food product decisions, and it provides easily implementable guidance for marketers seeking to increase consumers’ likelihood of purchasing their products.</content>
     <link href="https://doi.org/10.1177/00222437261432622"/>
     <category term="Journal of Marketing Research"/>
-    <published>2026-03-05T03:36:07+00:00</published>
+    <published>2026-03-05T14:03:31+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/00222429261432971</id>
     <title>EXPRESS: Do Business Professionals Exhibit Racial Bias in Strategic Marketing Decisions?</title>
-    <updated>2026-03-05T03:36:07+00:00</updated>
+    <updated>2026-03-05T14:03:31+00:00</updated>
     <author>
       <name>Jorge Jacob, Yan Vieites</name>
     </author>
     <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;We investigate whether business professionals, on average, exhibit racial bias in strategic marketing decisions involving Black consumers. Across nine studies and four replications with current and aspiring business professionals from the United States, France, and Brazil, we find evidence that commonly held lay theories linking Blackness with economic hardship are associated with racialized interpretations of income. Specifically, professionals tend to perceive Black consumers as lower income than equally earning White consumers. These perceptions, in turn, are associated with consumption-specific stereotypes that characterize Black consumers as more price sensitive and less attuned to quality, innovation, and customization. As a result, professionals are less likely to prioritize predominantly Black consumer markets in core marketing decisions, such as market entry and product portfolio selection, even in contexts where these markets offer greater objective economic potential (i.e., higher individual and aggregate income). Importantly, we show that both diversity training and deliberation-based interventions reduce the likelihood of such biases. We discuss implications for marketing practice and marketplace equity.</content>
     <link href="https://doi.org/10.1177/00222429261432971"/>
     <category term="Journal of Marketing"/>
-    <published>2026-03-05T03:36:07+00:00</published>
+    <published>2026-03-05T14:03:31+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/00222429261432659</id>
     <title>EXPRESS: Filling the Void: How Competing Brands Can Capitalize on a Brand Deletion</title>
-    <updated>2026-03-05T03:36:07+00:00</updated>
+    <updated>2026-03-05T14:03:31+00:00</updated>
     <author>
       <name>Kristopher O. Keller, Harald J. van Heerde</name>
     </author>
     <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Brand manufacturers, big and small, regularly prune brand portfolios by deleting brands from categories. Competing brands try to fill the void, including sister brands owned by the same manufacturer, rival national brands, and private labels. This research examines which competing brands benefit from brand deletions, how these gains depend on brand- and category-level characteristics, and how brands adjust their marketing mix following brand deletions. A difference-in-differences analysis of 1,046 national brand deletions over 10 years across 201 US markets shows that deletions benefit private label revenue the most, followed by sister brands, and rival national brands the least, while category revenue does not fully recover. Competing brands gain more revenue when they have greater price similarity with the deleted brand, when the deleted brand’s pre-deletion market share is higher, and when the category is less concentrated. Post-deletion gains are strongly shaped by marketing mix responses, especially through distribution increases and, for sister brands, longer line length. However, regular price increases constrain gains, as does the limited use of relatively effective price promotions, and the extensive use of relatively ineffective feature advertising. On average, manufacturers retain 38% of deleted brands’ revenues through sister brands, highlighting risks of brand pruning.</content>
     <link href="https://doi.org/10.1177/00222429261432659"/>
     <category term="Journal of Marketing"/>
-    <published>2026-03-05T03:36:07+00:00</published>
+    <published>2026-03-05T14:03:31+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/00222429261433005</id>
     <title>EXPRESS: All the News That’s Fit to Capitalize: How Person Brands Shape Emergent Markets</title>
-    <updated>2026-03-05T03:36:07+00:00</updated>
+    <updated>2026-03-05T14:03:31+00:00</updated>
     <author>
       <name>Gillian Brooks, Ashlee Humphreys</name>
     </author>
     <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;In this article, we examine the role of person brands in shaping emergent markets, markets in which the norms, values, and practices of exchange have yet to be firmly established. Using ethnographic and archival data in the context of the early online news market, we find that person brands use their social, cultural, and symbolic capital to create a unique organizational identity, establish a founding myth, and mobilize resonance with early followers. These organizational assets are carried forward in the emergent market to build cultural-cognitive, normative, and pragmatic legitimacy in a context where these factors are initially low. While prior research in marketing has investigated the market-driving effects of firms, consumers, and intermediaries, our findings yield insight into the role of specific people—person brands as institutional entrepreneurs—in shaping emergent markets. These findings inform managers and other stakeholders in emergent markets as to how to strategically manage the organizational identity, founding myths, and audience resonance built by person brands in order to carry these assets forward as the market further develops.</content>
     <link href="https://doi.org/10.1177/00222429261433005"/>
     <category term="Journal of Marketing"/>
-    <published>2026-03-05T03:36:07+00:00</published>
+    <published>2026-03-05T14:03:31+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.25300/misq/2025/17751</id>
@@ -1725,18 +1641,6 @@
     <published>2026-03-04T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1014</id>
-    <title>Stochastic Gradient Descent with Adaptive Data</title>
-    <updated>2026-03-04T00:00:00+00:00</updated>
-    <author>
-      <name>Ethan Che, Jing Dong, Xin T. Tong</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Stochastic Gradient Descent with Adaptive DataStochastic gradient descent (SGD) is a central tool in modern optimization, but its classical theory relies on the assumption that data are independent of the decisions being optimized. In many operations research settings, this assumption fails: policies influence system dynamics, and the resulting data feed back into subsequent updates. In “Stochastic Gradient Descent with Adaptive Data,” Che, Dong, and Tong address this challenge by developing a general framework for analyzing SGD when data are generated adaptively by policy-dependent Markov processes. Their analysis shows that fully adaptive SGD can still attain convergence rates comparable to the classical i.i.d. setting, provided the underlying system satisfies mild ergodicity and continuity conditions. The theory is illustrated through canonical applications in operations research and reinforcement learning. Overall, the paper provides rigorous and reassuring theoretical foundations for deploying learning algorithms in dynamic environments where decisions and data are fundamentally intertwined.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1014"/>
-    <category term="Operations Research"/>
-    <published>2026-03-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/opre.2023.0694</id>
     <title>Beyond Discounted Returns: Robust Markov Decision Processes with Average and Blackwell Optimality</title>
     <updated>2026-03-04T00:00:00+00:00</updated>
@@ -1745,6 +1649,18 @@
     </author>
     <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Novel Insights on Robust Markov decision Processes with Average Reward and Blackwell Optimality CriteriaRobust Markov decision processes (RMDPs) have been studied extensively when the objective is the discounted return, but little is known for average optimality and Blackwell optimality. We show that average optimal policies can be chosen stationary and deterministic for sa-rectangular RMDPs, but perhaps surprisingly, we show that for s-rectangular RMDPs average optimal policies may not exist, and if they do exist, they may not be stationary. We also study Blackwell optimality for sa-rectangular RMDPs, where we show that approximately Blackwell optimal policies always exist, although exact Blackwell optimal policies may not exist. We provide a general sufficient condition for their existence. We then discuss the connection between average and Blackwell optimality, and we describe several algorithms to compute the optimal average return. Interestingly, our approach leverages the connections between RMDPs and stochastic games. Overall, our paper emphasizes the superior practical properties of distance-based sa-rectangular models over s-rectangular models for average and Blackwell optimality.</content>
     <link href="https://doi.org/10.1287/opre.2023.0694"/>
+    <category term="Operations Research"/>
+    <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1014</id>
+    <title>Stochastic Gradient Descent with Adaptive Data</title>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <author>
+      <name>Ethan Che, Jing Dong, Xin T. Tong</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Stochastic Gradient Descent with Adaptive DataStochastic gradient descent (SGD) is a central tool in modern optimization, but its classical theory relies on the assumption that data are independent of the decisions being optimized. In many operations research settings, this assumption fails: policies influence system dynamics, and the resulting data feed back into subsequent updates. In “Stochastic Gradient Descent with Adaptive Data,” Che, Dong, and Tong address this challenge by developing a general framework for analyzing SGD when data are generated adaptively by policy-dependent Markov processes. Their analysis shows that fully adaptive SGD can still attain convergence rates comparable to the classical i.i.d. setting, provided the underlying system satisfies mild ergodicity and continuity conditions. The theory is illustrated through canonical applications in operations research and reinforcement learning. Overall, the paper provides rigorous and reassuring theoretical foundations for deploying learning algorithms in dynamic environments where decisions and data are fundamentally intertwined.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1014"/>
     <category term="Operations Research"/>
     <published>2026-03-04T00:00:00+00:00</published>
   </entry>
@@ -1771,5 +1687,17 @@
     <link href="https://doi.org/10.1287/isre.2023.0088"/>
     <category term="Information Systems Research"/>
     <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1017/s0022109026102592</id>
+    <title>Price Impact in Closing Auctions, Opening Auctions, and Continuous Markets: A Benchmark for Cost of Trading on Anomalies</title>
+    <updated>2026-03-05T00:00:00+00:00</updated>
+    <author>
+      <name>Amit Goyal, Narasimhan Jegadeesh, Yanbin Wu</name>
+    </author>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;Closing auctions account for about 10% of daily trading volume and offer a potentially attractive alternative to trading in the continuous market. We find that the price impact is lower in closing auctions than in the continuous market for all stocks except Nasdaq microcaps. Opening auctions are illiquid. We compute trading costs for anomalies based strategies by strategically placing orders in the lower cost mechanism. The annualized trading costs for long/short portfolios based on financial ratios such as profitability and investment range from 17 to 41 basis points (bps). Excluding microcaps, these costs fall to 9–21 bps in closing auctions.</content>
+    <link href="https://doi.org/10.1017/s0022109026102592"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-03-05T00:00:00+00:00</published>
   </entry>
 </feed>
