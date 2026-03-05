@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-03-05T14:04:34.257555+00:00</updated>
+  <updated>2026-03-05T15:27:50.069249+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
-  <entry>
-    <id>https://www.nber.org/papers/w34816</id>
-    <title>Extractive Taxation and the French Revolution</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Tommaso Giommoni, Gabriel Loumeau &amp; Marco Tabellini</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In this paper, we provide systematic evidence in support of the long-standing hypothesis that taxation was an important driver of the French Revolution. We first document that areas with heavier taxes experienced more riots between 1750 and 1789 and voiced more complaints against taxation in the cahiers de doléances of 1789. After showing that these effects are driven by indirect taxes, we exploit sharp spatial differences in the salt tax and the traites—the two principal indirect levies—to implement a regression discontinuity design (RDD).We find that unrest was higher on the high-tax side of the border. These effects intensified over time, peaking in the 1780s, and were stronger where fiscal disparities were larger and Enlightenment ideas more widespread. We further show that adverse weather shocks amplified unrest in high-tax municipalities. We then document that taxation fueled the spread of unrest during the Grande Peur—the wave of revolts that swept France in July 1789 and culminated in the abolition of feudal privileges. Finally, we link taxation to revolutionary politics in Paris, documenting that deputies from heavily taxed constituencies were more likely to frame the tax system as oppressive, support the Revolution, demand the abolition of the monarchy, and vote for the king’s execution.</content>
-    <link href="https://www.nber.org/papers/w34816"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34814</id>
     <title>Interest Rates and Equity Valuations</title>
@@ -63,6 +51,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Colombian coca cultivation fell dramatically between 2000 and 2015, a period that saw intense U.S.-backed eradication and interdiction efforts. That progress reversed in 2015, when peace talks and legal rulings in Colombia opened enforcement gaps. Coca plantation has since increased to record levels, which coincided with a sharp rise in cocaine-related overdose deaths in the U.S. We estimate how much of that rise can be causally attributed to Colombia’s new coca boom. Leveraging the unforeseen coca supply shock and cross-county differences in pre-shock cocaine exposure, we find that the surge in supply caused an immediate rise in overdose mortality in the U.S. Our analysis estimates on the order of 1,000–1,500 additional U.S. deaths per year in the late 2010s can be attributed to Colombia’s cocaine boom. Implicit annual loss in American statistical life values about $48,000 per hectare of cultivation in Colombia. If left untamed, the current level of coca cultivation (over 230,000 ha in 2022) may impose on the order of $10 billion per year in costs via overdose fatalities.</content>
     <link href="https://www.nber.org/papers/w34788"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34764</id>
+    <title>How Does Tort Reform Affect Health Care Delivery?</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Charles J. Courtemanche &amp; Joseph Garuccio</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Health care costs in the U.S. have grown dramatically over the past several decades, with one possible cause being physicians providing unnecessary services out of fear of being sued for malpractice – a phenomenon known as “defensive medicine”. States responded by enacting different types of tort reforms. This paper reviews the literature on the effects of these tort reforms on outcomes related to malpractice risk, quantity and quality of health care services, overall utilization and expenditures, physician supply, and patient affordability. We use Google Scholar to identify papers that fall into this scope and use either associational or quasi-experimental quantitative methods. The preponderance of evidence points towards non-economic damage caps reducing malpractice risk, quantity of services (aside from diagnostics and obstetrics), and overall health care utilization and expenditures while increasing physician supply and not having detrimental effects on patient outcomes. In general, the effects of other types of tort reforms are less clear. The literature would benefit from further research utilizing recent methodological advances related to combining machine learning with causal inference and eliminating bias from heterogeneous treatment effects in staggered-treatment-time models.</content>
+    <link href="https://www.nber.org/papers/w34764"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -777,18 +777,6 @@ Oversight of supervisors also reduces favoritism in bonus allocation and improve
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34889</id>
-    <title>Optimal Simple Ratings</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Hugo Hopenhayn &amp; Maryam Saeedi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study optimal simple rating systems that partition sellers into a finite number of tiers. We show that optimal ratings must be threshold partitions, and that for linear supply and Cournot competition with constant marginal cost, optimal thresholds solve a k-means clustering problem requiring only the quality distribution. For convex (concave) supply functions, optimal thresholds are higher (lower) than the k-means solution. For log-concave distributions, two-tier certification captures at least 50 percent of maximum welfare gains from full disclosure, with five tiers typically achieving over 90 percent. Applications to eBay and Medicare Advantage data illustrate our method.</content>
-    <link href="https://www.nber.org/papers/w34889"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34865</id>
     <title>What Drives Money Competition: Comparative Advantage in Payments versus Reserves</title>
     <updated>2026-02-01T00:00:00+00:00</updated>
@@ -881,6 +869,18 @@ Oversight of supervisors also reduces favoritism in bonus allocation and improve
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study identification of differentiated product demand from market-level data when product characteristics can be endogenous. Past work suggests nonparametric identification may be impossible: that is, in addition to standard price instruments, exogenous characteristic-based instruments are essentially necessary to identify sufficiently flexible demand models with standard index restrictions. We show, however, that price counterfactuals are nonparametrically identified using recentered instruments—which combine exogenous price instruments with possibly endogenous product characteristics—under a weaker index restriction and a new condition we term faithfulness. We argue that faithfulness, like the usual completeness condition for nonparametric instrumental variable identification, is best viewed as a technical requirement on the strength of identifying variation rather than a substantive economic or statistical restriction. We show the two conditions are closely related, though generally distinct. We conclude with several practical implications for the parametric estimation of demand counterfactuals.</content>
     <link href="https://www.nber.org/papers/w34842"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34889</id>
+    <title>Optimal Simple Ratings</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hugo Hopenhayn &amp; Maryam Saeedi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study optimal simple rating systems that partition sellers into a finite number of tiers. We show that optimal ratings must be threshold partitions, and that for linear supply and Cournot competition with constant marginal cost, optimal thresholds solve a k-means clustering problem requiring only the quality distribution. For convex (concave) supply functions, optimal thresholds are higher (lower) than the k-means solution. For log-concave distributions, two-tier certification captures at least 50 percent of maximum welfare gains from full disclosure, with five tiers typically achieving over 90 percent. Applications to eBay and Medicare Advantage data illustrate our method.</content>
+    <link href="https://www.nber.org/papers/w34889"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
