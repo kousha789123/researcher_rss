@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-03-18T03:57:34.579269+00:00</updated>
+  <updated>2026-03-18T11:08:17.013055+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34854</id>
+    <title>Building Pro-Worker Artificial Intelligence</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daron Acemoglu, David Autor &amp; Simon Johnson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper defines pro-worker technologies, including Artificial Intelligence, as technologies that make human skills and expertise more valuable by expanding worker capabilities. Our conceptual framework distinguishes among five categories of technological change: labor-augmenting, capital-augmenting, automating, expertise-leveling, and new task-creating. Only the last category is unambiguously pro-worker, generating demand for novel human expertise rather than commodifying it. We illustrate these distinctions through hypothetical and real-world examples spanning aviation maintenance, electrical services, custodial work, education, patent examination, and gig delivery. While AI’s capacity to automate work is substantial, we argue that its potential to serve as a collaborator, by extending human judgment, enabling new tasks, and accelerating skill acquisition, is equally transformative and currently underexploited. We identify market failures, including misaligned firm and developer incentives, path dependence, and a pervasive pro-automation ideology, that may lead to underinvestment in pro-worker AI. We consider nine policy directions that would change incentives, including targeted investments in health care and education, tax code reform, antitrust enforcement, and intellectual property protections for worker expertise.</content>
+    <link href="https://www.nber.org/papers/w34854"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34881</id>
     <title>The Local Origins of Business Formation: Entry as a Two-Stage Process</title>
@@ -75,18 +87,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Canonical urban models fail to jointly account for flexible housing demand, nondegenerate city sizes, and observed urban systems. We introduce a unifying urban framework based on price-independent generalized linear (PIGL) preferences in which housing is a necessity. Non-homothetic housing demand generates income effects that cause urban costs to scale more strongly with population than wages, restoring a unique interior efficient city size under standard assumptions. The framework nests existing canonical models, remains tractable, and is consistent with key empirical regularities, including Zipf’s law and observed housing price elasticities. We also encapsulate a monocentric city model into our framework.</content>
     <link href="https://www.nber.org/papers/w34876"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34875</id>
-    <title>Household Responses to Private Risk Information</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Krebs &amp; Matthew J. Neidell</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how private information affects household responses to environmental risk. Using data from residential air quality monitors, we exploit the timing of monitor installation and high-frequency fine particulate matter (PM2.5) readings to identify responses to new information about indoor pollution risk. We find that indoor PM2.5 concentrations decline by 2.5 ug/m3 over the 12 weeks following installation, conditional on contemporaneous outdoor pollution, with effects significantly larger among households with high initial indoor pollution. The indoor–outdoor pollution gradient declines over time, indicating that households become increasingly effective at mitigating exposure when marginal health damages are highest. Using machine learning techniques to infer cooking activity and air purifier adoption, we show that households respond primarily through durable defensive investments rather than reductions in pollution-generating behavior, with back-of-the-envelope calculations implying positive net benefits. Our results suggest that personalized risk information increases the salience of indoor pollution as a controllable risk for households, in contrast to spatially coarse public information that frames pollution primarily as an outdoor threat requiring avoidance.</content>
-    <link href="https://www.nber.org/papers/w34875"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -223,18 +223,6 @@
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34913</id>
-    <title>Understanding High Schools’ Effects on Longer-Term Outcomes</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Preeya P. Mbekeani, John P. Papay, Ann Mantil &amp; Richard J. Murnane</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Improving education and labor market outcomes for low-income students is critical for advancing socioeconomic mobility in the United States. We use longitudinal data on five cohorts of 9th grade students to explore how Massachusetts public high schools affect the longer-term outcomes of students, with a special focus on students from low-income families. Using detailed administrative and student survey data, we estimate school value-added impacts on college outcomes and earnings. Observationally similar students who attend a school at the 80th percentile of the value-added distribution instead of a school at the 20th percentile are 11% more likely to enroll in college, are 31% more likely to graduate from a four-year college, and earn 25% (or $10,500) more annually at age 30. On average, schools that improve students’ longer-run outcomes the most are those that improve their 10th grade test scores and increase their college plans the most.</content>
-    <link href="https://www.nber.org/papers/w34913"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34904</id>
     <title>An Empirical Evaluation of Some Long-Horizon Macroeconomic Forecasts</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -243,6 +231,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use long-run annual cross-country data for 10 macroeconomic variables to evaluate the long-horizon forecast distributions of six forecasting models. The variables we use range from ones having little serial correlation to ones having persistence consistent with unit roots. Our forecasting models include simple time series models and frequency domain models developed in Müller and Watson (2016). For plausibly stationary variables, an AR(1) model and a frequency domain model that does not require the user to take a stand on the order of integration appear reasonably well calibrated for forecast horizons of 10 and 25 years. For plausibly non-stationary variables, a random walk model appears reasonably well calibrated for forecast horizons of 10 and 25 years.</content>
     <link href="https://www.nber.org/papers/w34904"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34913</id>
+    <title>Understanding High Schools’ Effects on Longer-Term Outcomes</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Preeya P. Mbekeani, John P. Papay, Ann Mantil &amp; Richard J. Murnane</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Improving education and labor market outcomes for low-income students is critical for advancing socioeconomic mobility in the United States. We use longitudinal data on five cohorts of 9th grade students to explore how Massachusetts public high schools affect the longer-term outcomes of students, with a special focus on students from low-income families. Using detailed administrative and student survey data, we estimate school value-added impacts on college outcomes and earnings. Observationally similar students who attend a school at the 80th percentile of the value-added distribution instead of a school at the 20th percentile are 11% more likely to enroll in college, are 31% more likely to graduate from a four-year college, and earn 25% (or $10,500) more annually at age 30. On average, schools that improve students’ longer-run outcomes the most are those that improve their 10th grade test scores and increase their college plans the most.</content>
+    <link href="https://www.nber.org/papers/w34913"/>
     <category term="NBER"/>
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
@@ -547,6 +547,18 @@
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34926</id>
+    <title>Repression</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gerard Padró I Miquel &amp; Nancy Qian</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Removed at the request of the authors. An updated version will be posted shortly.</content>
+    <link href="https://www.nber.org/papers/w34926"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34942</id>
     <title>Dollarization Waves: New Evidence From a Comprehensive International Bond Database</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -653,18 +665,6 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use 70 million policies linked to mortgages and property-level disaster risk to show that credit scores impact homeowners insurance premiums as much as disaster risk. Homeowners with low credit pay 24% more for identical coverage than high–credit score homeowners. Leveraging a natural experiment in Washington State, we find that banning the use of credit information considerably weakens the relationship between credit score and pricing. We discuss the role of credit information in pricing and show that, although insurance is often overlooked in discussions of home affordability, a low credit score increases premiums roughly as much as it raises mortgage rates.</content>
     <link href="https://www.nber.org/papers/w34848"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34926</id>
-    <title>Repression</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gerard Padró I Miquel &amp; Nancy Qian</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Removed at the request of the authors. An updated version will be posted shortly.</content>
-    <link href="https://www.nber.org/papers/w34926"/>
     <category term="NBER"/>
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
@@ -921,54 +921,6 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34968</id>
-    <title>The Global Incumbency Advantage</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Raphaël Descamps, Benjamin Marx, Vincent Pons &amp; Vincent Rollet</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores the global incumbency advantage. We first show that existing subnational estimates of the incumbency advantage correlate positively with GDP per capita and democratic quality, and negatively with corruption across countries. Building on this meta-analysis, we then consider all presidential and parliamentary elections held since 1945 to estimate how a national electoral victory affects the probability that winning parties and candidates retain power beyond the term for which they were elected. On average, national election winners benefit from an incumbency advantage, but this effect is short-lived and differs markedly across contexts: it is large in Africa, North America, and Western Europe, but muted or even reversed in other regions. We explore how standard incumbency effects and electoral manipulation contribute to these results. In established democracies, the national incumbency advantage reflects gains in the subsequent electoral performance of election winners. In less democratic regimes, it mainly stems from manipulation of the fairness and the timing of elections. Overall, this advantage is largest in both the most and the least democratic countries, due to radically different types of equilibria.</content>
-    <link href="https://www.nber.org/papers/w34968"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34947</id>
-    <title>Deep Learning Projects Jurisdiction of New and Proposed Clean Water Act Regulation</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Simon Greenhill, Brant J. Walker &amp; Joseph S. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Projecting the effects of proposed policy reforms is challenging because no outcome data exist for regulations that governments have not yet implemented. We propose an ex ante deep learning framework that can project effects of proposed reforms by mapping outcomes observed under past regulations onto the legal criteria of proposed future policies (i.e., by “relabeling”). We apply this framework to study changes in jurisdiction of the US Clean Water Act (CWA). We compare our ex ante deep learning projection of jurisdiction under the Supreme Court’s Sackett decision against widely used projections from domain experts. Ex ante machine learning generates exceptional performance improvements over the leading domain expert model that the US Environmental Protection Agency currently uses, with 65 times more accurate identification of jurisdictional sites. We also develop an ex post deep learning model trained with data after policy implementation. Ex post deep learning performs best. Sackett deregulates one-third of all previously regulated US waters, particularly floodplains and pristine fish habitats, totaling 700,000 deregulated stream miles and 17 million deregulated wetland acres. Deep learning can effectively project consequences of far-reaching regulatory reforms before they are implemented, when projections are both most uncertain and most useful.</content>
-    <link href="https://www.nber.org/papers/w34947"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34948</id>
-    <title>We've Got You Covered: Firms' Political Stances on Abortion and Labor Market Sorting</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pawel Adrjan, Svenja Gudell, Emily E. Nix, Allison Shrivastava, Jason Sockin &amp; Evan P. Starr</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Amidst rising political polarization, firms engage more frequently with political issues through public statements and policies. This paper examines how firms' stances on polarizing issues impact worker sorting, leveraging announcements from hundreds of employers following the Supreme Court's ruling in Dobbs v. Jackson, overturning federal abortion rights. We introduce a methodology to uncover labor market competitors for each announcing firm based on job seekers' revealed preferences. While announcing firms received more applications from job seekers, particularly in Democratic-leaning states and female-dominated jobs where abortion was outlawed, current employees began searching for jobs elsewhere as employee satisfaction declined, particularly among male-dominated jobs. Smaller companies with less-established reputations experienced the largest effects. When deciding whether to take a sociopolitical stance, firms face a complicated trade-off: attracting culturally-aligned workers at the expense of alienating current ones.</content>
-    <link href="https://www.nber.org/papers/w34948"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34962</id>
-    <title>The Universal Pursuit of Safety and the Demand for (Lethal, Non-Lethal or No) Guns</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Marcella Alsan, Joshua Schwartzstein &amp; Stefanie Stantcheva</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Lethal firearm ownership is deeply polarizing in the United States. We show that beneath this polarization, owners and non-owners share a common objective — safety — but disagree sharply about whether lethal firearms achieve it. Using an original survey of more than 5,400 respondents combined with randomized experiments, we document that owners feel safe and confident with firearms, while non-owners on balance feel less safe around them and perceive large private costs and social harms. Demand for lethal firearms is nonetheless potentially large and growing: one-third of non-owners express interest in acquiring one — these individuals report the lowest day-to-day safety — while very few owners would consider reducing their holdings. Persuading owners to relinquish firearms without any replacement appears unrealistic; the more tractable margins may be safe storage and non-lethal substitution for additional purchases. We organize these patterns through a framework centered on a perceived safety possibilities frontier (SPF) — the safety outcomes a household believes achievable with different combinations of lethal and non-lethal tools. Households may differ in firearm demand because they face different risk environments, weigh protective benefits against harms differently, or hold different beliefs about the frontier. Our descriptive evidence points to heterogeneous beliefs as important drivers, suggesting that levers such as information could shift the perceived frontier. These patterns motivate three experimental treatments: one on the private legal/medical costs of lethal firearm ownership, and two on a non-lethal firearm (NLFA), with and without a conservative pundit’s endorsement. The private-cost treatment increases concern about harms among all respondents and support for safe storage policies, and modestly raises stated willingness to keep lethal firearms locked. NLFA treatments raise willingness to pay for an NLFA, to keep lethal firearms locked, and support for incapacitating over lethal firearms and for policies encouraging NLFAs. These effects are largely persistent. Importantly, NLFA information does not increase willingness to reduce lethal firearm ownership but does increase willingness to store lethal firearms safely. Our results suggest that many owners perceive the SPF differently from nonowners, neglecting harms or less-lethal alternatives, yet remain open to such tools. Overall, individuals share a common goal — safety — yet disagree about the means. Although these disagreements appear entrenched, people remain receptive to alternatives that might command broader agreement.</content>
-    <link href="https://www.nber.org/papers/w34962"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34971</id>
     <title>The max EPS Paradigm for Corporate Finance</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -1065,6 +1017,18 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34968</id>
+    <title>The Global Incumbency Advantage</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Raphaël Descamps, Benjamin Marx, Vincent Pons &amp; Vincent Rollet</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores the global incumbency advantage. We first show that existing subnational estimates of the incumbency advantage correlate positively with GDP per capita and democratic quality, and negatively with corruption across countries. Building on this meta-analysis, we then consider all presidential and parliamentary elections held since 1945 to estimate how a national electoral victory affects the probability that winning parties and candidates retain power beyond the term for which they were elected. On average, national election winners benefit from an incumbency advantage, but this effect is short-lived and differs markedly across contexts: it is large in Africa, North America, and Western Europe, but muted or even reversed in other regions. We explore how standard incumbency effects and electoral manipulation contribute to these results. In established democracies, the national incumbency advantage reflects gains in the subsequent electoral performance of election winners. In less democratic regimes, it mainly stems from manipulation of the fairness and the timing of elections. Overall, this advantage is largest in both the most and the least democratic countries, due to radically different types of equilibria.</content>
+    <link href="https://www.nber.org/papers/w34968"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34961</id>
     <title>Cutting Costs or Cutting Corners: Asset Reallocation in Oil and Gas Production</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -1149,30 +1113,6 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w34951</id>
-    <title>Targeting, Personalization, and Engagement in an Agricultural Advisory Service</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Susan Athey, Shawn Cole, Shanjukta Nath &amp; Jessica Zhu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conduct a series of iterative experiments to evaluate approaches for optimally targeting calls for an agricultural advisory service serving over one million farmers in rural India.  We estimate the value of alternative targeted policies using “off-policy” evaluation on data from randomized call assignments. When we evaluate off-policy using held-out data from the same time periods used to design the targeted policies, we find that targeted policies increase engagement by up to 8%. However, when we design a policy using current data and then implement the policy for randomly selected users in subsequent weeks, our “on-policy” evaluation estimates show realized gains that are substantially smaller. We develop tools to diagnose the causes of this underperformance and adopt a transfer-learning approach to policy learning and off-policy evaluation that accounts for temporal changes in farmer behavior, substantially improving off-policy estimates of performance in subsequent weeks. We further develop novel approaches to targeted policy design that respond to organizational objectives and resource constraints, including distributional goals (e.g., reaching women farmers) and prioritizing farmers likely to benefit most from the information on downstream outcomes (e.g., yields). We propose a method for organizations to quantify trade-offs between objectives, and we demonstrate the value of targeting for alleviating these trade-offs.</content>
-    <link href="https://www.nber.org/papers/w34951"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34950</id>
-    <title>The Economics of Algorithmic Personalization: Evidence from an Educational Technology Platform</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Keshav Agrawal, Susan Athey, Ayush Kanodia, Shanjukta Nath &amp; Emil Palikot</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can personalized recommendations improve engagement in educational technology? We design, test, and scale a collaborative filtering system for Freadom, an English-learning app for Indian children. A randomized controlled trial (RCT) with 7,750 students shows that personalization, deployed in a single content section, increases engagement by 60% in that section and by 14% app-wide. We then exploit an eligibility threshold in a regression discontinuity design (RDD) to track effects over five months of deployment. For user cohorts receiving personalization during deployment, RDD estimates exceed RCT benchmark by a factor of 2.5, opposite of the “voltage drop" typically observed in policy scale-ups. This provides evidence that, for algorithmic interventions, RCT estimates may be lower bounds on scaled impact rather than upper bounds. However, personalization benefits are front-loaded. Gains concentrate in users’ first weeks, with diminishing returns thereafter. This pattern, combined with the sharp decline in predicted match quality as users exhaust their best content matches, suggests that content availability rather than algorithmic sophistication becomes the binding constraint.</content>
-    <link href="https://www.nber.org/papers/w34950"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w34954</id>
     <title>Stimulating Auto Markets</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -1205,6 +1145,66 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Average grades continue to rise in the United States, raising the question of how grade inflation impacts students. We provide comprehensive evidence on how teacher grading practices affect students' long-run success. Using administrative high school data from Los Angeles and from Maryland that is linked to postsecondary and earnings records, we develop and validate two teacher-level measures of grade inflation: one measuring average grade inflation and another measuring a teacher's propensity to give a passing grade. These measures of grade inflation are distinct from teacher value-added, with grade inflating teachers having moderately lower cognitive value-added and slightly higher noncognitive value-added. These two measures also differentially impact students' long-term outcomes. Being assigned a higher average grade inflating teacher reduces a student's future test scores, the likelihood of graduating from high school, college enrollment, and ultimately earnings. In contrast, passing grade inflation reduces the likelihood of being held back and increases high school graduation, with limited long-run effects. The cumulative impact is economically significant: a teacher with one standard deviation higher average grade inflation reduces the present discounted value of lifetime earnings of their students by $213,872 per year.</content>
     <link href="https://www.nber.org/papers/w34952"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34951</id>
+    <title>Targeting, Personalization, and Engagement in an Agricultural Advisory Service</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Susan Athey, Shawn Cole, Shanjukta Nath &amp; Jessica Zhu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conduct a series of iterative experiments to evaluate approaches for optimally targeting calls for an agricultural advisory service serving over one million farmers in rural India.  We estimate the value of alternative targeted policies using “off-policy” evaluation on data from randomized call assignments. When we evaluate off-policy using held-out data from the same time periods used to design the targeted policies, we find that targeted policies increase engagement by up to 8%. However, when we design a policy using current data and then implement the policy for randomly selected users in subsequent weeks, our “on-policy” evaluation estimates show realized gains that are substantially smaller. We develop tools to diagnose the causes of this underperformance and adopt a transfer-learning approach to policy learning and off-policy evaluation that accounts for temporal changes in farmer behavior, substantially improving off-policy estimates of performance in subsequent weeks. We further develop novel approaches to targeted policy design that respond to organizational objectives and resource constraints, including distributional goals (e.g., reaching women farmers) and prioritizing farmers likely to benefit most from the information on downstream outcomes (e.g., yields). We propose a method for organizations to quantify trade-offs between objectives, and we demonstrate the value of targeting for alleviating these trade-offs.</content>
+    <link href="https://www.nber.org/papers/w34951"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34950</id>
+    <title>The Economics of Algorithmic Personalization: Evidence from an Educational Technology Platform</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Keshav Agrawal, Susan Athey, Ayush Kanodia, Shanjukta Nath &amp; Emil Palikot</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can personalized recommendations improve engagement in educational technology? We design, test, and scale a collaborative filtering system for Freadom, an English-learning app for Indian children. A randomized controlled trial (RCT) with 7,750 students shows that personalization, deployed in a single content section, increases engagement by 60% in that section and by 14% app-wide. We then exploit an eligibility threshold in a regression discontinuity design (RDD) to track effects over five months of deployment. For user cohorts receiving personalization during deployment, RDD estimates exceed RCT benchmark by a factor of 2.5, opposite of the “voltage drop" typically observed in policy scale-ups. This provides evidence that, for algorithmic interventions, RCT estimates may be lower bounds on scaled impact rather than upper bounds. However, personalization benefits are front-loaded. Gains concentrate in users’ first weeks, with diminishing returns thereafter. This pattern, combined with the sharp decline in predicted match quality as users exhaust their best content matches, suggests that content availability rather than algorithmic sophistication becomes the binding constraint.</content>
+    <link href="https://www.nber.org/papers/w34950"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34947</id>
+    <title>Deep Learning Projects Jurisdiction of New and Proposed Clean Water Act Regulation</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Simon Greenhill, Brant J. Walker &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Projecting the effects of proposed policy reforms is challenging because no outcome data exist for regulations that governments have not yet implemented. We propose an ex ante deep learning framework that can project effects of proposed reforms by mapping outcomes observed under past regulations onto the legal criteria of proposed future policies (i.e., by “relabeling”). We apply this framework to study changes in jurisdiction of the US Clean Water Act (CWA). We compare our ex ante deep learning projection of jurisdiction under the Supreme Court’s Sackett decision against widely used projections from domain experts. Ex ante machine learning generates exceptional performance improvements over the leading domain expert model that the US Environmental Protection Agency currently uses, with 65 times more accurate identification of jurisdictional sites. We also develop an ex post deep learning model trained with data after policy implementation. Ex post deep learning performs best. Sackett deregulates one-third of all previously regulated US waters, particularly floodplains and pristine fish habitats, totaling 700,000 deregulated stream miles and 17 million deregulated wetland acres. Deep learning can effectively project consequences of far-reaching regulatory reforms before they are implemented, when projections are both most uncertain and most useful.</content>
+    <link href="https://www.nber.org/papers/w34947"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34948</id>
+    <title>We've Got You Covered: Firms' Political Stances on Abortion and Labor Market Sorting</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pawel Adrjan, Svenja Gudell, Emily E. Nix, Allison Shrivastava, Jason Sockin &amp; Evan P. Starr</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Amidst rising political polarization, firms engage more frequently with political issues through public statements and policies. This paper examines how firms' stances on polarizing issues impact worker sorting, leveraging announcements from hundreds of employers following the Supreme Court's ruling in Dobbs v. Jackson, overturning federal abortion rights. We introduce a methodology to uncover labor market competitors for each announcing firm based on job seekers' revealed preferences. While announcing firms received more applications from job seekers, particularly in Democratic-leaning states and female-dominated jobs where abortion was outlawed, current employees began searching for jobs elsewhere as employee satisfaction declined, particularly among male-dominated jobs. Smaller companies with less-established reputations experienced the largest effects. When deciding whether to take a sociopolitical stance, firms face a complicated trade-off: attracting culturally-aligned workers at the expense of alienating current ones.</content>
+    <link href="https://www.nber.org/papers/w34948"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34962</id>
+    <title>The Universal Pursuit of Safety and the Demand for (Lethal, Non-Lethal or No) Guns</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Marcella Alsan, Joshua Schwartzstein &amp; Stefanie Stantcheva</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Lethal firearm ownership is deeply polarizing in the United States. We show that beneath this polarization, owners and non-owners share a common objective — safety — but disagree sharply about whether lethal firearms achieve it. Using an original survey of more than 5,400 respondents combined with randomized experiments, we document that owners feel safe and confident with firearms, while non-owners on balance feel less safe around them and perceive large private costs and social harms. Demand for lethal firearms is nonetheless potentially large and growing: one-third of non-owners express interest in acquiring one — these individuals report the lowest day-to-day safety — while very few owners would consider reducing their holdings. Persuading owners to relinquish firearms without any replacement appears unrealistic; the more tractable margins may be safe storage and non-lethal substitution for additional purchases. We organize these patterns through a framework centered on a perceived safety possibilities frontier (SPF) — the safety outcomes a household believes achievable with different combinations of lethal and non-lethal tools. Households may differ in firearm demand because they face different risk environments, weigh protective benefits against harms differently, or hold different beliefs about the frontier. Our descriptive evidence points to heterogeneous beliefs as important drivers, suggesting that levers such as information could shift the perceived frontier. These patterns motivate three experimental treatments: one on the private legal/medical costs of lethal firearm ownership, and two on a non-lethal firearm (NLFA), with and without a conservative pundit’s endorsement. The private-cost treatment increases concern about harms among all respondents and support for safe storage policies, and modestly raises stated willingness to keep lethal firearms locked. NLFA treatments raise willingness to pay for an NLFA, to keep lethal firearms locked, and support for incapacitating over lethal firearms and for policies encouraging NLFAs. These effects are largely persistent. Importantly, NLFA information does not increase willingness to reduce lethal firearm ownership but does increase willingness to store lethal firearms safely. Our results suggest that many owners perceive the SPF differently from nonowners, neglecting harms or less-lethal alternatives, yet remain open to such tools. Overall, individuals share a common goal — safety — yet disagree about the means. Although these disagreements appear entrenched, people remain receptive to alternatives that might command broader agreement.</content>
+    <link href="https://www.nber.org/papers/w34962"/>
     <category term="NBER"/>
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
