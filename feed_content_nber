@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-03-20T18:59:30.536892+00:00</updated>
+  <updated>2026-03-21T11:03:31.537474+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w34885</id>
+    <title>Demographics and Technology Diffusion: Evidence from Mobile Payments</title>
+    <updated>2026-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicolas Crouzet, Pulak Ghosh, Apoorv Gupta &amp; Filippo Mezzanotti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We show that the age composition of the population can shape the speed at which businesses adopt new technologies, using evidence from mobile payments in India. Consumers' propensity to use new payment technologies declines with age, creating stronger incentives for businesses serving younger customers to accept these technologies. We document this pattern in the rollout of a mobile payment option by a major fintech company. A model where consumer attitudes toward technology vary by age implies that business adoption is inefficiently low, with the young bearing disproportionate welfare losses from network externalities. Jointly subsidizing transaction and adoption costs restores efficiency.</content>
+    <link href="https://www.nber.org/papers/w34885"/>
+    <category term="NBER"/>
+    <published>2026-02-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w34884</id>
     <title>Industrial Policies for Multi-Stage Production: The Battle for Battery-Powered Vehicles</title>
@@ -87,18 +99,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Revolving credit is at the core of the banking business. Corporate revolving lines are demandable claims; thus, similar to a traditional run on deposits, sudden and widespread drawdowns can destabilize banks. However, unlike deposits, credit line utilization exhibits substantial interest rate sensitivity. As a result, a run on revolving credit lines is less likely in a high-interest-rate environment but can introduce vulnerabilities when policy rates are lowered. Using an interest rate discontinuity commonly embedded in commercial credit contracts, we propose a methodology to estimate the elasticity of credit demand and apply it to measure the sensitivity of precautionary drawdowns.</content>
     <link href="https://www.nber.org/papers/w34879"/>
-    <category term="NBER"/>
-    <published>2026-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34878</id>
-    <title>Settlement of Litigation May Increase or Decrease Deterrence and Social Welfare</title>
-    <updated>2026-02-01T00:00:00+00:00</updated>
-    <author>
-      <name>Steven Shavell</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Although the obvious effect of settlement is to save litigants the costs of trial, settlement also influences deterrence—and for two reasons. First, because settlement is agreed upon by plaintiffs, it raises their expected return from litigation and thus the probability of suit. This augments deterrence. Second, because settlement is agreed upon by defendants, it lowers their expected costs of litigation and therefore dilutes deterrence. The primary objective of the article is to identify the net effect of settlement on deterrence and on social welfare in a model of accidents, liability, and litigation. The conditions for the bringing of suit in the model are not only that plaintiffs be willing to go to trial, but also that their anticipated settlements would exceed their pretrial costs.</content>
-    <link href="https://www.nber.org/papers/w34878"/>
     <category term="NBER"/>
     <published>2026-02-01T00:00:00+00:00</published>
   </entry>
@@ -921,6 +921,66 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w34951</id>
+    <title>Targeting, Personalization, and Engagement in an Agricultural Advisory Service</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Susan Athey, Shawn Cole, Shanjukta Nath &amp; Jessica Zhu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conduct a series of iterative experiments to evaluate approaches for optimally targeting calls for an agricultural advisory service serving over one million farmers in rural India.  We estimate the value of alternative targeted policies using “off-policy” evaluation on data from randomized call assignments. When we evaluate off-policy using held-out data from the same time periods used to design the targeted policies, we find that targeted policies increase engagement by up to 8%. However, when we design a policy using current data and then implement the policy for randomly selected users in subsequent weeks, our “on-policy” evaluation estimates show realized gains that are substantially smaller. We develop tools to diagnose the causes of this underperformance and adopt a transfer-learning approach to policy learning and off-policy evaluation that accounts for temporal changes in farmer behavior, substantially improving off-policy estimates of performance in subsequent weeks. We further develop novel approaches to targeted policy design that respond to organizational objectives and resource constraints, including distributional goals (e.g., reaching women farmers) and prioritizing farmers likely to benefit most from the information on downstream outcomes (e.g., yields). We propose a method for organizations to quantify trade-offs between objectives, and we demonstrate the value of targeting for alleviating these trade-offs.</content>
+    <link href="https://www.nber.org/papers/w34951"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34950</id>
+    <title>The Economics of Algorithmic Personalization: Evidence from an Educational Technology Platform</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Keshav Agrawal, Susan Athey, Ayush Kanodia, Shanjukta Nath &amp; Emil Palikot</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can personalized recommendations improve engagement in educational technology? We design, test, and scale a collaborative filtering system for Freadom, an English-learning app for Indian children. A randomized controlled trial (RCT) with 7,750 students shows that personalization, deployed in a single content section, increases engagement by 60% in that section and by 14% app-wide. We then exploit an eligibility threshold in a regression discontinuity design (RDD) to track effects over five months of deployment. For user cohorts receiving personalization during deployment, RDD estimates exceed RCT benchmark by a factor of 2.5, opposite of the “voltage drop" typically observed in policy scale-ups. This provides evidence that, for algorithmic interventions, RCT estimates may be lower bounds on scaled impact rather than upper bounds. However, personalization benefits are front-loaded. Gains concentrate in users’ first weeks, with diminishing returns thereafter. This pattern, combined with the sharp decline in predicted match quality as users exhaust their best content matches, suggests that content availability rather than algorithmic sophistication becomes the binding constraint.</content>
+    <link href="https://www.nber.org/papers/w34950"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34947</id>
+    <title>Deep Learning Projects Jurisdiction of New and Proposed Clean Water Act Regulation</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Simon Greenhill, Brant J. Walker &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Projecting the effects of proposed policy reforms is challenging because no outcome data exist for regulations that governments have not yet implemented. We propose an ex ante deep learning framework that can project effects of proposed reforms by mapping outcomes observed under past regulations onto the legal criteria of proposed future policies (i.e., by “relabeling”). We apply this framework to study changes in jurisdiction of the US Clean Water Act (CWA). We compare our ex ante deep learning projection of jurisdiction under the Supreme Court’s Sackett decision against widely used projections from domain experts. Ex ante machine learning generates exceptional performance improvements over the leading domain expert model that the US Environmental Protection Agency currently uses, with 65 times more accurate identification of jurisdictional sites. We also develop an ex post deep learning model trained with data after policy implementation. Ex post deep learning performs best. Sackett deregulates one-third of all previously regulated US waters, particularly floodplains and pristine fish habitats, totaling 700,000 deregulated stream miles and 17 million deregulated wetland acres. Deep learning can effectively project consequences of far-reaching regulatory reforms before they are implemented, when projections are both most uncertain and most useful.</content>
+    <link href="https://www.nber.org/papers/w34947"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34948</id>
+    <title>We've Got You Covered: Firms' Political Stances on Abortion and Labor Market Sorting</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pawel Adrjan, Svenja Gudell, Emily E. Nix, Allison Shrivastava, Jason Sockin &amp; Evan P. Starr</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Amidst rising political polarization, firms engage more frequently with political issues through public statements and policies. This paper examines how firms' stances on polarizing issues impact worker sorting, leveraging announcements from hundreds of employers following the Supreme Court's ruling in Dobbs v. Jackson, overturning federal abortion rights. We introduce a methodology to uncover labor market competitors for each announcing firm based on job seekers' revealed preferences. While announcing firms received more applications from job seekers, particularly in Democratic-leaning states and female-dominated jobs where abortion was outlawed, current employees began searching for jobs elsewhere as employee satisfaction declined, particularly among male-dominated jobs. Smaller companies with less-established reputations experienced the largest effects. When deciding whether to take a sociopolitical stance, firms face a complicated trade-off: attracting culturally-aligned workers at the expense of alienating current ones.</content>
+    <link href="https://www.nber.org/papers/w34948"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w34962</id>
+    <title>The Universal Pursuit of Safety and the Demand for (Lethal, Non-Lethal or No) Guns</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Marcella Alsan, Joshua Schwartzstein &amp; Stefanie Stantcheva</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Lethal firearm ownership is deeply polarizing in the United States. We show that beneath this polarization, owners and non-owners share a common objective — safety — but disagree sharply about whether lethal firearms achieve it. Using an original survey of more than 5,400 respondents combined with randomized experiments, we document that owners feel safe and confident with firearms, while non-owners on balance feel less safe around them and perceive large private costs and social harms. Demand for lethal firearms is nonetheless potentially large and growing: one-third of non-owners express interest in acquiring one — these individuals report the lowest day-to-day safety — while very few owners would consider reducing their holdings. Persuading owners to relinquish firearms without any replacement appears unrealistic; the more tractable margins may be safe storage and non-lethal substitution for additional purchases. We organize these patterns through a framework centered on a perceived safety possibilities frontier (SPF) — the safety outcomes a household believes achievable with different combinations of lethal and non-lethal tools. Households may differ in firearm demand because they face different risk environments, weigh protective benefits against harms differently, or hold different beliefs about the frontier. Our descriptive evidence points to heterogeneous beliefs as important drivers, suggesting that levers such as information could shift the perceived frontier. These patterns motivate three experimental treatments: one on the private legal/medical costs of lethal firearm ownership, and two on a non-lethal firearm (NLFA), with and without a conservative pundit’s endorsement. The private-cost treatment increases concern about harms among all respondents and support for safe storage policies, and modestly raises stated willingness to keep lethal firearms locked. NLFA treatments raise willingness to pay for an NLFA, to keep lethal firearms locked, and support for incapacitating over lethal firearms and for policies encouraging NLFAs. These effects are largely persistent. Importantly, NLFA information does not increase willingness to reduce lethal firearm ownership but does increase willingness to store lethal firearms safely. Our results suggest that many owners perceive the SPF differently from nonowners, neglecting harms or less-lethal alternatives, yet remain open to such tools. Overall, individuals share a common goal — safety — yet disagree about the means. Although these disagreements appear entrenched, people remain receptive to alternatives that might command broader agreement.</content>
+    <link href="https://www.nber.org/papers/w34962"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w34971</id>
     <title>The max EPS Paradigm for Corporate Finance</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -1145,66 +1205,6 @@ Beyond short-run behavioral adjustments, the findings are consistent with the fi
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Average grades continue to rise in the United States, raising the question of how grade inflation impacts students. We provide comprehensive evidence on how teacher grading practices affect students' long-run success. Using administrative high school data from Los Angeles and from Maryland that is linked to postsecondary and earnings records, we develop and validate two teacher-level measures of grade inflation: one measuring average grade inflation and another measuring a teacher's propensity to give a passing grade. These measures of grade inflation are distinct from teacher value-added, with grade inflating teachers having moderately lower cognitive value-added and slightly higher noncognitive value-added. These two measures also differentially impact students' long-term outcomes. Being assigned a higher average grade inflating teacher reduces a student's future test scores, the likelihood of graduating from high school, college enrollment, and ultimately earnings. In contrast, passing grade inflation reduces the likelihood of being held back and increases high school graduation, with limited long-run effects. The cumulative impact is economically significant: a teacher with one standard deviation higher average grade inflation reduces the present discounted value of lifetime earnings of their students by $213,872 per year.</content>
     <link href="https://www.nber.org/papers/w34952"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34951</id>
-    <title>Targeting, Personalization, and Engagement in an Agricultural Advisory Service</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Susan Athey, Shawn Cole, Shanjukta Nath &amp; Jessica Zhu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conduct a series of iterative experiments to evaluate approaches for optimally targeting calls for an agricultural advisory service serving over one million farmers in rural India.  We estimate the value of alternative targeted policies using “off-policy” evaluation on data from randomized call assignments. When we evaluate off-policy using held-out data from the same time periods used to design the targeted policies, we find that targeted policies increase engagement by up to 8%. However, when we design a policy using current data and then implement the policy for randomly selected users in subsequent weeks, our “on-policy” evaluation estimates show realized gains that are substantially smaller. We develop tools to diagnose the causes of this underperformance and adopt a transfer-learning approach to policy learning and off-policy evaluation that accounts for temporal changes in farmer behavior, substantially improving off-policy estimates of performance in subsequent weeks. We further develop novel approaches to targeted policy design that respond to organizational objectives and resource constraints, including distributional goals (e.g., reaching women farmers) and prioritizing farmers likely to benefit most from the information on downstream outcomes (e.g., yields). We propose a method for organizations to quantify trade-offs between objectives, and we demonstrate the value of targeting for alleviating these trade-offs.</content>
-    <link href="https://www.nber.org/papers/w34951"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34950</id>
-    <title>The Economics of Algorithmic Personalization: Evidence from an Educational Technology Platform</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Keshav Agrawal, Susan Athey, Ayush Kanodia, Shanjukta Nath &amp; Emil Palikot</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can personalized recommendations improve engagement in educational technology? We design, test, and scale a collaborative filtering system for Freadom, an English-learning app for Indian children. A randomized controlled trial (RCT) with 7,750 students shows that personalization, deployed in a single content section, increases engagement by 60% in that section and by 14% app-wide. We then exploit an eligibility threshold in a regression discontinuity design (RDD) to track effects over five months of deployment. For user cohorts receiving personalization during deployment, RDD estimates exceed RCT benchmark by a factor of 2.5, opposite of the “voltage drop" typically observed in policy scale-ups. This provides evidence that, for algorithmic interventions, RCT estimates may be lower bounds on scaled impact rather than upper bounds. However, personalization benefits are front-loaded. Gains concentrate in users’ first weeks, with diminishing returns thereafter. This pattern, combined with the sharp decline in predicted match quality as users exhaust their best content matches, suggests that content availability rather than algorithmic sophistication becomes the binding constraint.</content>
-    <link href="https://www.nber.org/papers/w34950"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34947</id>
-    <title>Deep Learning Projects Jurisdiction of New and Proposed Clean Water Act Regulation</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Simon Greenhill, Brant J. Walker &amp; Joseph S. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Projecting the effects of proposed policy reforms is challenging because no outcome data exist for regulations that governments have not yet implemented. We propose an ex ante deep learning framework that can project effects of proposed reforms by mapping outcomes observed under past regulations onto the legal criteria of proposed future policies (i.e., by “relabeling”). We apply this framework to study changes in jurisdiction of the US Clean Water Act (CWA). We compare our ex ante deep learning projection of jurisdiction under the Supreme Court’s Sackett decision against widely used projections from domain experts. Ex ante machine learning generates exceptional performance improvements over the leading domain expert model that the US Environmental Protection Agency currently uses, with 65 times more accurate identification of jurisdictional sites. We also develop an ex post deep learning model trained with data after policy implementation. Ex post deep learning performs best. Sackett deregulates one-third of all previously regulated US waters, particularly floodplains and pristine fish habitats, totaling 700,000 deregulated stream miles and 17 million deregulated wetland acres. Deep learning can effectively project consequences of far-reaching regulatory reforms before they are implemented, when projections are both most uncertain and most useful.</content>
-    <link href="https://www.nber.org/papers/w34947"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34948</id>
-    <title>We've Got You Covered: Firms' Political Stances on Abortion and Labor Market Sorting</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pawel Adrjan, Svenja Gudell, Emily E. Nix, Allison Shrivastava, Jason Sockin &amp; Evan P. Starr</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Amidst rising political polarization, firms engage more frequently with political issues through public statements and policies. This paper examines how firms' stances on polarizing issues impact worker sorting, leveraging announcements from hundreds of employers following the Supreme Court's ruling in Dobbs v. Jackson, overturning federal abortion rights. We introduce a methodology to uncover labor market competitors for each announcing firm based on job seekers' revealed preferences. While announcing firms received more applications from job seekers, particularly in Democratic-leaning states and female-dominated jobs where abortion was outlawed, current employees began searching for jobs elsewhere as employee satisfaction declined, particularly among male-dominated jobs. Smaller companies with less-established reputations experienced the largest effects. When deciding whether to take a sociopolitical stance, firms face a complicated trade-off: attracting culturally-aligned workers at the expense of alienating current ones.</content>
-    <link href="https://www.nber.org/papers/w34948"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w34962</id>
-    <title>The Universal Pursuit of Safety and the Demand for (Lethal, Non-Lethal or No) Guns</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Marcella Alsan, Joshua Schwartzstein &amp; Stefanie Stantcheva</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Lethal firearm ownership is deeply polarizing in the United States. We show that beneath this polarization, owners and non-owners share a common objective — safety — but disagree sharply about whether lethal firearms achieve it. Using an original survey of more than 5,400 respondents combined with randomized experiments, we document that owners feel safe and confident with firearms, while non-owners on balance feel less safe around them and perceive large private costs and social harms. Demand for lethal firearms is nonetheless potentially large and growing: one-third of non-owners express interest in acquiring one — these individuals report the lowest day-to-day safety — while very few owners would consider reducing their holdings. Persuading owners to relinquish firearms without any replacement appears unrealistic; the more tractable margins may be safe storage and non-lethal substitution for additional purchases. We organize these patterns through a framework centered on a perceived safety possibilities frontier (SPF) — the safety outcomes a household believes achievable with different combinations of lethal and non-lethal tools. Households may differ in firearm demand because they face different risk environments, weigh protective benefits against harms differently, or hold different beliefs about the frontier. Our descriptive evidence points to heterogeneous beliefs as important drivers, suggesting that levers such as information could shift the perceived frontier. These patterns motivate three experimental treatments: one on the private legal/medical costs of lethal firearm ownership, and two on a non-lethal firearm (NLFA), with and without a conservative pundit’s endorsement. The private-cost treatment increases concern about harms among all respondents and support for safe storage policies, and modestly raises stated willingness to keep lethal firearms locked. NLFA treatments raise willingness to pay for an NLFA, to keep lethal firearms locked, and support for incapacitating over lethal firearms and for policies encouraging NLFAs. These effects are largely persistent. Importantly, NLFA information does not increase willingness to reduce lethal firearm ownership but does increase willingness to store lethal firearms safely. Our results suggest that many owners perceive the SPF differently from nonowners, neglecting harms or less-lethal alternatives, yet remain open to such tools. Overall, individuals share a common goal — safety — yet disagree about the means. Although these disagreements appear entrenched, people remain receptive to alternatives that might command broader agreement.</content>
-    <link href="https://www.nber.org/papers/w34962"/>
     <category term="NBER"/>
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
