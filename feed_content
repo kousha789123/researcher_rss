@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-03-23T15:04:50.369919+00:00</updated>
+  <updated>2026-03-23T18:59:25.798394+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -931,6 +931,54 @@
     <published>2026-03-22T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mksc.2024.0930</id>
+    <title>Algorithmic Targeting and the Precision-Recall Tradeoff</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Ganesh Iyer, Yunfei (Jesse) Yao, Zemin (Zachary) Zhong</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;We examine the implications of competitive algorithmic targeting when outcomes of targeting algorithms are the individual consumer-level predicted probabilities of conversion. In these situations, firms implicitly face the well-known precision-recall tradeoff while choosing their targeting strategies. They can choose to target a smaller set of consumers with a high probability of conversion (precision) but miss out on many consumers who might still be interested in their product. Conversely, firms can target a larger set of consumers (recall), but this results in a greater probability that their targeting is wasted on uninterested consumers. We analyze this precision-recall tradeoff under competition between firms that strategically choose their algorithmic targeting policies. We show that competing firms favor a targeting policy that has higher precision but lower recall compared with a monopoly. Firms target fewer consumers when their algorithms are more correlated. They also have the incentive to strategically decrease the precision of their targeting policies in order to reduce competition. If firms endogenously choose their algorithmic correlation, then there is an equilibrium incentive to decrease the correlation.History: Anthony Dukes served as the senior editor for this article.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mksc.2024.0930 .</content>
+    <link href="https://doi.org/10.1287/mksc.2024.0930"/>
+    <category term="Marketing Science"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2024.0847</id>
+    <title>Advertiser Learning in Direct Advertising Markets</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Carl F. Mela, Jason M. T. Roos, Tulio Sousa</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;By pooling information across many advertisers, direct buy ad networks can alleviate advertiser uncertainty about where to place ads, increasing publisher revenue and advertiser welfare.</content>
+    <link href="https://doi.org/10.1287/mksc.2024.0847"/>
+    <category term="Marketing Science"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06206</id>
+    <title>Improving Cash-Constrained Smallholder Farmers’ Revenue: The Role of Government Loans</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Jimin Park, Somya Singhvi, Yanchong Zheng</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines how the need for immediate cash by smallholder farmers may lead to undesirable selling decisions that hurt their revenue and analyzes the efficacy of government loan policies in tackling this challenge. We develop a game-theoretic model to characterize the base scenario of no loan, uncovering the impacts of cash needs on farmers’ revenue. We then examine how a government loan, under which farmers store some of their production at government warehouses in exchange for immediate cash, may counteract these negative impacts. We analyze and optimize two types of policies: one in which all farmers are eligible (a homogeneous loan) and another in which the loan is offered only to farmers whose production is below a certain threshold (a heterogeneous loan). Our results demonstrate that, when designed properly, both loans simultaneously increase aggregate farmer revenue and generate a more equitable revenue distribution among farmers. Nonetheless, overly generous loans can be counterproductive and harm farmers. We further show that heterogeneous loans achieve optimal market outcomes with lower government expenditure when cash needs are moderately high. We then contrast the two policies across key metrics related to farmers. Whereas the homogeneous loan better mitigates inequity among farmers, the heterogeneous loan helps more farmers meet cash needs. These results underscore that government loan design must carefully account for farmers’ strategic responses to the policy to generate positive societal outcomes. Finally, we use field data from India to numerically illustrate our insights and demonstrate the economic impacts of the policies studied.This paper was accepted by Jeannette Song, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06206 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06206"/>
+    <category term="Management Science"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07703</id>
+    <title>On the Quality of Cryptocurrency Markets: Centralized vs. Decentralized Exchanges</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Andrea Barbon, Angelo Ranaldo</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We analyze the market quality of centralized crypto exchanges and decentralized blockchain-based venues (DEXs) using a unique and comprehensive data set. Focusing on two fundamental aspects, transaction costs and deviations from the no-arbitrage condition, we estimate the causal effect of gas fees on DEX market quality. We show that these fixed costs impose a significant burden on relatively small trades and cause persistent arbitrage deviations. Conversely, DEXs offer more competitive transaction costs for larger trades, offering a more favorable environment for institutional investors. Furthermore, we provide causal evidence that innovations aimed at enhancing the flexibility of liquidity provision in DEX markets lead to sizeable improvements in market quality.This paper was accepted by Agostino Capponi, finance.Funding: A. Ranaldo acknowledges financial support from the Swiss National Science Foundation nccr–on the move [Grant 204721].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07703 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07703"/>
+    <category term="Management Science"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/jofi.70030</id>
     <title>Consumer Choice and Corporate Bankruptcy</title>
     <updated>2026-03-23T00:00:00+00:00</updated>
@@ -940,6 +988,42 @@
     <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We estimate the indirect costs of corporate bankruptcy associated with lost customers. In incentivized experiments, randomly informing consumers about a firm's Chapter 11 reorganization lowers their willingness to pay for the firm's products by 17% to 28%. Consumers worry that bankruptcy could reduce product quality or prevent future interactions with the bankrupt firm. On average, 38% of consumers are aware of major bankruptcies. Using our experiments to estimate a structural model, we show that these indirect costs of bankruptcy amount to 12% to 15% of a firm's value. We show that these costs are unlikely to arise before bankruptcy.</content>
     <link href="https://doi.org/10.1111/jofi.70030"/>
     <category term="The Journal of Finance"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0537</id>
+    <title>Robust Predictive Modeling Under Unseen Data Distribution Shifts: A Methodological Commentary</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Hanyu Duan, Yi Yang, Ahmed Abbasi, Kar Yan Tam</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Predictive models are widely used to support decision making, yet they are typically built assuming that future data will follow the same distribution as the training data. In practice, data distributions often change in unseen ways, leading to poor model performance and reduced reliability. This methodological commentary highlights the risks of unseen data distribution shifts and shows how they are frequently overlooked in predictive modeling practice. Drawing on transfer learning, domain generalization, and distributionally robust optimization, we organize existing approaches to handling data shifts and illustrate how uncertainty-aware modeling can be implemented in practice. We conclude with actionable recommendations to guide the design, evaluation, and use of predictive models in uncertain data environments. Our work has implications for policy and practice related to trustworthy and responsible artificial intelligence (AI), predictive modeling, and AI risk management.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0537"/>
+    <category term="Information Systems Research"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587261430328</id>
+    <title>Accent Discrimination in Entrepreneurial Fundraising</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Luca Farè, Silvio Vismara</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Accent is a powerful, yet still socially acceptable, basis of discrimination that shapes interpersonal evaluations and access to opportunities, potentially disadvantaging entrepreneurs seeking funding. Bridging role congruity theory with sociolinguistic literature, we hypothesize that entrepreneurs whose regional accents align with the stereotypical entrepreneur are more likely to secure funding. We test this hypothesis in entrepreneurial pitching contexts using an observational study and two pre-registered experiments that manipulate entrepreneurs’ accents in pitch videos through a professional voice actor and AI. Across the UK, Italy, and the United States, the results support our hypothesis, providing robust evidence of accent-based discrimination in entrepreneurial fundraising.</content>
+    <link href="https://doi.org/10.1177/10422587261430328"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587261430320</id>
+    <title>Startup Evaluations with Generative Artificial Intelligence: An Exploratory Study on Early-Stage Investments and Survival Predictions by Large Language Models</title>
+    <updated>2026-03-23T00:00:00+00:00</updated>
+    <author>
+      <name>Simon Kleinert, Diemo Urbig</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;We examine the capabilities of large language models (LLMs) in evaluating early-stage ventures. In pre-registered experiments, we prompt selected LLMs to generate investment evaluations and survival predictions for an archival dataset of 171 new venture pitches under systematically varied information cues. We compare these LLM-generated evaluations with realized fundraising outcomes, post-campaign survival rates, and evaluations provided by a benchmark sample of human investors. LLMs show strong capabilities in mirroring real fundraising outcomes. In contrast, their apparent accuracy in predicting venture survival largely reflects prior exposure to some ventures’ digital footprints rather than genuine reasoning under uncertainty. Providing LLMs with scientific, contextual, and social information cues can improve their evaluations, but can also activate human-like heuristics, including anchoring and herding. Our study highlights LLMs’ potential in venture evaluations while cautioning that unobserved influences can mislead interpretations of their capabilities.</content>
+    <link href="https://doi.org/10.1177/10422587261430320"/>
+    <category term="Entrepreneurship Theory and Practice"/>
     <published>2026-03-23T00:00:00+00:00</published>
   </entry>
   <entry>
