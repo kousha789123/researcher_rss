@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-03-24T14:57:34.127201+00:00</updated>
+  <updated>2026-03-24T18:58:43.557050+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1162,18 +1162,6 @@
     <published>2026-03-04T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2023.0694</id>
-    <title>Beyond Discounted Returns: Robust Markov Decision Processes with Average and Blackwell Optimality</title>
-    <updated>2026-03-04T00:00:00+00:00</updated>
-    <author>
-      <name>Julien Grand-Clément, Marek Petrik, Nicolas Vieille</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Novel Insights on Robust Markov decision Processes with Average Reward and Blackwell Optimality CriteriaRobust Markov decision processes (RMDPs) have been studied extensively when the objective is the discounted return, but little is known for average optimality and Blackwell optimality. We show that average optimal policies can be chosen stationary and deterministic for sa-rectangular RMDPs, but perhaps surprisingly, we show that for s-rectangular RMDPs average optimal policies may not exist, and if they do exist, they may not be stationary. We also study Blackwell optimality for sa-rectangular RMDPs, where we show that approximately Blackwell optimal policies always exist, although exact Blackwell optimal policies may not exist. We provide a general sufficient condition for their existence. We then discuss the connection between average and Blackwell optimality, and we describe several algorithms to compute the optimal average return. Interestingly, our approach leverages the connections between RMDPs and stochastic games. Overall, our paper emphasizes the superior practical properties of distance-based sa-rectangular models over s-rectangular models for average and Blackwell optimality.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0694"/>
-    <category term="Operations Research"/>
-    <published>2026-03-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/opre.2024.1014</id>
     <title>Stochastic Gradient Descent with Adaptive Data</title>
     <updated>2026-03-04T00:00:00+00:00</updated>
@@ -1182,6 +1170,18 @@
     </author>
     <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Stochastic Gradient Descent with Adaptive DataStochastic gradient descent (SGD) is a central tool in modern optimization, but its classical theory relies on the assumption that data are independent of the decisions being optimized. In many operations research settings, this assumption fails: policies influence system dynamics, and the resulting data feed back into subsequent updates. In “Stochastic Gradient Descent with Adaptive Data,” Che, Dong, and Tong address this challenge by developing a general framework for analyzing SGD when data are generated adaptively by policy-dependent Markov processes. Their analysis shows that fully adaptive SGD can still attain convergence rates comparable to the classical i.i.d. setting, provided the underlying system satisfies mild ergodicity and continuity conditions. The theory is illustrated through canonical applications in operations research and reinforcement learning. Overall, the paper provides rigorous and reassuring theoretical foundations for deploying learning algorithms in dynamic environments where decisions and data are fundamentally intertwined.</content>
     <link href="https://doi.org/10.1287/opre.2024.1014"/>
+    <category term="Operations Research"/>
+    <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0694</id>
+    <title>Beyond Discounted Returns: Robust Markov Decision Processes with Average and Blackwell Optimality</title>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <author>
+      <name>Julien Grand-Clément, Marek Petrik, Nicolas Vieille</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Novel Insights on Robust Markov decision Processes with Average Reward and Blackwell Optimality CriteriaRobust Markov decision processes (RMDPs) have been studied extensively when the objective is the discounted return, but little is known for average optimality and Blackwell optimality. We show that average optimal policies can be chosen stationary and deterministic for sa-rectangular RMDPs, but perhaps surprisingly, we show that for s-rectangular RMDPs average optimal policies may not exist, and if they do exist, they may not be stationary. We also study Blackwell optimality for sa-rectangular RMDPs, where we show that approximately Blackwell optimal policies always exist, although exact Blackwell optimal policies may not exist. We provide a general sufficient condition for their existence. We then discuss the connection between average and Blackwell optimality, and we describe several algorithms to compute the optimal average return. Interestingly, our approach leverages the connections between RMDPs and stochastic games. Overall, our paper emphasizes the superior practical properties of distance-based sa-rectangular models over s-rectangular models for average and Blackwell optimality.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0694"/>
     <category term="Operations Research"/>
     <published>2026-03-04T00:00:00+00:00</published>
   </entry>
