@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-03-24T11:06:35.158649+00:00</updated>
+  <updated>2026-03-24T14:30:18.262987+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1063,6 +1063,45 @@
     <published>2026-03-24T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261438365</id>
+    <title>EXPRESS: The Online Election Campaign Planning Problem: Optimizing Election Campaign Strategies with Inaccurate Information</title>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <author>
+      <name>Davood Shiri, Masoud Shahmanzari, Fehmi Tanrisever</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Effective management of election campaigns involves dynamic decision-making under uncertainty. Traditional approaches rely heavily on pre-planned strategies that often fail to adapt to real-time changes in voter sentiment and external factors. This paper introduces the Online Election Campaign Planning Problem (OECPP) to optimize the scheduling of campaign activities in the context of U.S. presidential elections. OECPP incorporates sequentially updated predictions that represent assessments of the impact of campaign activities over the course of the campaign. Since these predictions evolve in response to new information and their accuracy cannot be fully assessed without perfect information, we develop deterministic and randomized online algorithms for OECPP that can operate effectively under unreliable and evolving predictions.We evaluate the performance of our algorithms using the competitive ratio (CR), a metric particularly useful when probabilistic modeling is impractical. We begin by establishing a tight upper bound on the CR of the online algorithms for the OECPP under unreliable reward predictions. We then introduce a sequential setup-based CR metric to capture the value of reoptimization as new predictions arrive, and we design deterministic and randomized algorithms that are optimal under this metric. Using data from U.S. presidential elections, we show that randomized online algorithms can significantly outperform their deterministic counterparts in terms of empirical CR. We also find that the effectiveness of randomized algorithms is driven by two factors: the selection of prediction samples for generating activity scenarios and the randomization cut-off, which determines the scenarios to be randomized. The benefit of randomization is nonmonotonic, and the best empirical CR is achieved by selectively adding prediction samples to the randomization set.</content>
+    <link href="https://doi.org/10.1177/10591478261438365"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261439058</id>
+    <title>EXPRESS: Communication Patterns in Joint Decision-Making</title>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <author>
+      <name>KELLEY GULLO WIGHT, HOLLY S. HOWE, DANIELLE J. BRICK, GAVAN J. FITZSIMONS</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Communication is a key aspect of the joint decision-making process, yet the field lacks an understanding of how people talk to each other while making joint decisions. In the present research, we analyzed nearly two hundred joint decision conversations from shop-along observations. We found that joint decision conversations are composed of four distinct communication patterns, which characterize how partners talk to each other: (1) coordination (including inquiry and disclosure), (2) contrast (including persuasion and devil’s advocate), (3) build, and (4) one-sided. We then used these communication patterns as the building blocks of joint decision conversations to quantitatively model how communication patterns dynamically flow while partners shop together, finding that decision partners navigate the decision lifecycle non-linearly and the usage of the communication patterns affects immediate satisfaction outcomes. Our findings enabled us to draw connections across the splintered literatures on dyadic communication. We develop a taxonomy that reflects an integrated, cross-disciplinary phenomenological understanding of each communication pattern to facilitate interdisciplinary research. Theoretical advancements and practical implications are discussed, as are areas for future research.</content>
+    <link href="https://doi.org/10.1177/00222437261439058"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2026-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.70064</id>
+    <title>&lt;scp&gt;Customer&lt;/scp&gt;
+                    Mistreatment Among Frontline Staff in Social Care: Supporting Employees Through
+                    &lt;scp&gt;HRM&lt;/scp&gt;
+                    Practices</title>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <author>
+      <name>Shivinder Nijjer, Pawan Budhwar, Puneet Kaur, Amandeep Dhir</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;The social care sector across the globe is increasingly witnessing customer mistreatment incidents that pose significant personal and work‐related challenges for frontline employees. Extant research suggests that human resource management (HRM) can be instrumental in extending support to the frontline to overcome the adversities of such mistreatment. In this study, we first develop a comprehensive account of the types of customer mistreatment prevalent in social care. Then, drawing on psychological contract theory, we outline the frontline's expectations of support from HRM practices to deal with such incidents. We further elaborate on gaps in social care that inhibit extending such support through HRM practices to the frontline and establish how the HR co‐creation approach can be utilized to plug these gaps. In this multistage qualitative study, we collect data in three stages from 51 frontline employees and 15 HR professionals working in the social care sector who have witnessed customer mistreatment. Based on our study's findings, we propose a novel framework called “FRESH against mistreatment” (Frontline Expectations for Support from HRM), which can aid HR professionals in identifying expectations, gaps, and possibilities for extending support through HRM practices to the frontline in social care to handle incidents of customer mistreatment.</content>
+    <link href="https://doi.org/10.1002/hrm.70064"/>
+    <category term="Human Resource Management"/>
+    <published>2026-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/smj.70073</id>
     <title>AI orchestrator: How recommendation algorithms shape complementor strategy and market equality</title>
     <updated>2026-03-04T00:00:00+00:00</updated>
@@ -1123,18 +1162,6 @@
     <published>2026-03-04T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1014</id>
-    <title>Stochastic Gradient Descent with Adaptive Data</title>
-    <updated>2026-03-04T00:00:00+00:00</updated>
-    <author>
-      <name>Ethan Che, Jing Dong, Xin T. Tong</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Stochastic Gradient Descent with Adaptive DataStochastic gradient descent (SGD) is a central tool in modern optimization, but its classical theory relies on the assumption that data are independent of the decisions being optimized. In many operations research settings, this assumption fails: policies influence system dynamics, and the resulting data feed back into subsequent updates. In “Stochastic Gradient Descent with Adaptive Data,” Che, Dong, and Tong address this challenge by developing a general framework for analyzing SGD when data are generated adaptively by policy-dependent Markov processes. Their analysis shows that fully adaptive SGD can still attain convergence rates comparable to the classical i.i.d. setting, provided the underlying system satisfies mild ergodicity and continuity conditions. The theory is illustrated through canonical applications in operations research and reinforcement learning. Overall, the paper provides rigorous and reassuring theoretical foundations for deploying learning algorithms in dynamic environments where decisions and data are fundamentally intertwined.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1014"/>
-    <category term="Operations Research"/>
-    <published>2026-03-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/opre.2023.0694</id>
     <title>Beyond Discounted Returns: Robust Markov Decision Processes with Average and Blackwell Optimality</title>
     <updated>2026-03-04T00:00:00+00:00</updated>
@@ -1143,6 +1170,18 @@
     </author>
     <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Novel Insights on Robust Markov decision Processes with Average Reward and Blackwell Optimality CriteriaRobust Markov decision processes (RMDPs) have been studied extensively when the objective is the discounted return, but little is known for average optimality and Blackwell optimality. We show that average optimal policies can be chosen stationary and deterministic for sa-rectangular RMDPs, but perhaps surprisingly, we show that for s-rectangular RMDPs average optimal policies may not exist, and if they do exist, they may not be stationary. We also study Blackwell optimality for sa-rectangular RMDPs, where we show that approximately Blackwell optimal policies always exist, although exact Blackwell optimal policies may not exist. We provide a general sufficient condition for their existence. We then discuss the connection between average and Blackwell optimality, and we describe several algorithms to compute the optimal average return. Interestingly, our approach leverages the connections between RMDPs and stochastic games. Overall, our paper emphasizes the superior practical properties of distance-based sa-rectangular models over s-rectangular models for average and Blackwell optimality.</content>
     <link href="https://doi.org/10.1287/opre.2023.0694"/>
+    <category term="Operations Research"/>
+    <published>2026-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1014</id>
+    <title>Stochastic Gradient Descent with Adaptive Data</title>
+    <updated>2026-03-04T00:00:00+00:00</updated>
+    <author>
+      <name>Ethan Che, Jing Dong, Xin T. Tong</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Stochastic Gradient Descent with Adaptive DataStochastic gradient descent (SGD) is a central tool in modern optimization, but its classical theory relies on the assumption that data are independent of the decisions being optimized. In many operations research settings, this assumption fails: policies influence system dynamics, and the resulting data feed back into subsequent updates. In “Stochastic Gradient Descent with Adaptive Data,” Che, Dong, and Tong address this challenge by developing a general framework for analyzing SGD when data are generated adaptively by policy-dependent Markov processes. Their analysis shows that fully adaptive SGD can still attain convergence rates comparable to the classical i.i.d. setting, provided the underlying system satisfies mild ergodicity and continuity conditions. The theory is illustrated through canonical applications in operations research and reinforcement learning. Overall, the paper provides rigorous and reassuring theoretical foundations for deploying learning algorithms in dynamic environments where decisions and data are fundamentally intertwined.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1014"/>
     <category term="Operations Research"/>
     <published>2026-03-04T00:00:00+00:00</published>
   </entry>
