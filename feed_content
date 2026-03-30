@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-03-30T14:56:29.017265+00:00</updated>
+  <updated>2026-03-30T18:59:49.968809+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1575,6 +1575,30 @@
     <published>2026-03-29T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2025.1668</id>
+    <title>Erratum to Online Allocation and Pricing: Constant Regret via Bellman Inequalities</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <author>
+      <name>Alberto Vera, Siddhartha Banerjee, Itai Gurvich</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Theorem 3 of the paper Online Allocation and Pricing: Constant Regret via Bellman Inequalities (Operations Research 69(3):821–840) states a constant regret result for a menu-pricing problem. In this erratum, the authors correct the theorem’s proof.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1668"/>
+    <category term="Operations Research"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.1971</id>
+    <title>Dynamic Programming in Ordered Vector Space</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <author>
+      <name>Chengyuan Peng, John Stachurski</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Dynamic Programming in Ordered Vector Space</content>
+    <link href="https://doi.org/10.1287/opre.2025.1971"/>
+    <category term="Operations Research"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/jofi.70037</id>
     <title>The Voting Premium</title>
     <updated>2026-03-30T00:00:00+00:00</updated>
@@ -1585,6 +1609,18 @@
 votes and buying shares from dissenting shareholders. Our theory reconciles conflicting empirical findings by showing that standard measures of the voting premium often misrepresent the true value of voting rights, increased conflicts between the blockholder and small shareholders do not necessarily raise the voting premium, and the voting premium can even turn negative when small shareholders free‐ride on the blockholder's trades.</content>
     <link href="https://doi.org/10.1111/jofi.70037"/>
     <category term="The Journal of Finance"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1179</id>
+    <title>Forget Me If You Can: Auditing User Data Revocation in Recommendation Systems</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <author>
+      <name>Zhihao Zhu, Yi Yang, Yangyang Fan, Defu Lian</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Research Spotlight: Auditing the “Right to Be Forgotten” in AI Recommender SystemsPersonalized recommendation systems power today’s e-commerce and streaming platforms, but they also raise regulatory concerns about user privacy. Under regulations such as the General Data Protection Regulation (GDPR), individuals have the “right to be forgotten.” Whereas companies can remove user records from databases, it remains unclear whether trained AI models truly forget the behavioral patterns or preferences learned from that data. If not, platforms may continue profiling users even after deletion requests.This study introduces RecAudit, a practical auditing tool that tests whether a recommender system has genuinely removed a user’s influence from its trained model. RecAudit acts as an independent verification mechanism that identifies users whose behavioral traces persist after data deletion. Across multiple real-world data sets, RecAudit substantially outperforms existing auditing and membership inference methods.By enabling organizations to detect high-risk cases and target corrective machine unlearning efforts, RecAudit provides a concrete technical pathway to operationalize data revocation rights. The framework supports platform operators and regulators in strengthening accountability and ensuring AI systems comply with evolving data protection laws.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1179"/>
+    <category term="Information Systems Research"/>
     <published>2026-03-30T00:00:00+00:00</published>
   </entry>
 </feed>
