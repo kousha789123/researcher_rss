@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-07T15:02:37.110100+00:00</updated>
+  <updated>2026-04-07T19:18:11.497014+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1492,18 +1492,6 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1257/aer.20240880</id>
-    <title>Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Shan Aman-Rana, Clement Minaudier</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)</content>
-    <link href="https://doi.org/10.1257/aer.20240880"/>
-    <category term="American Economic Review"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1257/aer.20240636</id>
     <title>Negative Control Falsification Tests for Instrumental Variable Designs</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
@@ -1512,6 +1500,18 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     </author>
     <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)</content>
     <link href="https://doi.org/10.1257/aer.20240636"/>
+    <category term="American Economic Review"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20240880</id>
+    <title>Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Shan Aman-Rana, Clement Minaudier</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)</content>
+    <link href="https://doi.org/10.1257/aer.20240880"/>
     <category term="American Economic Review"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
@@ -1885,6 +1885,42 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;This paper investigates how the gender composition of potential heirs influences technology adoption decisions in family-owned agricultural microenterprises. Drawing on primary field data from three waves of panel surveys of 734 rural households in Ethiopia (2013–2019), we exploit the exogenous microshock of a newborn child’s gender to isolate its causal impact on farmers’ uptake of new technologies. We find that the arrival of a son—rather than a daughter—significantly increases the likelihood of adopting agricultural innovations. Additional analyses suggest that this heterogeneity is driven primarily by a combination of gendered social and succession norms that prioritize men over women in agricultural leadership together with parents’ rational expectations about sons’ future involvement in the family business. Our findings contribute to research on entrepreneurship and development by identifying family structure—specifically, heirs’ gender—as a novel determinant of technology adoption. More broadly, by situating the analysis within the family-firm paradigm, we argue that these dynamics extend beyond low-income settings; in many developing and advanced economies, gender biases in succession norms may systematically shape strategic investment decisions and long-term business sustainability.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19985 .</content>
     <link href="https://doi.org/10.1287/orsc.2024.19985"/>
     <category term="Organization Science"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.2228</id>
+    <title>Optimal Inventory Allocation for Indifferent Goods Under Dynamic Substitution</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>Ziyan Zhou, Tong Wang, Jingwei Zhang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;A New Structural Insight into Stockout-Based SubstitutionStockout-based substitution creates complex stochastic dynamics in inventory systems even in highly symmetric settings. In this paper, Zhou, Wang, and Zhang examine a canonical setting in which a firm allocates a fixed inventory across multiple perfectly substitutable product types (e.g., colors or designs) and customers purchase uniformly from available options. Despite the model’s symmetry, the induced stochastic dynamics are subtle and resist classical convexity or induction-based arguments. The authors introduce a continuous-time embedding of the discrete sales process, converting inventory depletion times into independent Erlang random variables. This probabilistic reformulation enables an exact characterization of marginal values and yields a clean structural result: the optimal allocation is balanced. Beyond solving the symmetric case, the method extends naturally to finite-horizon MNL models, offering new analytical insight into fluid relaxations and dynamic substitution.</content>
+    <link href="https://doi.org/10.1287/opre.2025.2228"/>
+    <category term="Operations Research"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.1704</id>
+    <title>Preservation of Multimodularity: New Results and Applications</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>Tong Wang, Li Xiao, Fen Xu</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Preserving Multimodular Structure in Substitution ModelsSubstitution is common in operations problems, where one product or resource may be used to satisfy demand intended for another. In models with multiple resources and demand classes, this flexibility makes it harder to establish structural properties of optimal dynamic decisions. In “Preservation of Multimodularity: New Results and Applications,” Tong Wang, Li Xiao, and Fen Xu develop two new preservation results for multimodularity, a key property for deriving monotonicity and bounded sensitivity of optimal decisions. The first applies to one-way substitution, such as upgrading, and the second extends to two-way substitution under suitable cost and priority conditions. A central insight is that when allocation priorities are determined by marginal cost or value inequalities, both multimodularity and these inequalities are preserved after optimization. Applications include dynamic capacity management, remanufacturing inventory systems with lost sales, buyer-item matching on resale platforms, and multilocation transshipment.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1704"/>
+    <category term="Operations Research"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0167</id>
+    <title>Online Joint Assortment-Inventory Optimization Under MNL Choices</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>Yong Liang, Xiaojie Mao, Shiyuan Wang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Learning to Optimize Assortment and Inventory Decisions with Unknown DemandHow should a retailer coordinate product assortment and inventory when customer preferences need to be learned on the fly and stockouts dynamically reshape demand? In the paper “Online Joint Assortment-Inventory Optimization under MNL Choices,” the authors study an online learning setting where customers follow a multinomial logit choice model with unknown parameters. The retailer repeatedly selects assortments and inventory levels across sales cycles, using observed choice data to update decisions, aiming to maximize the cumulative profit. Because stochastic stockouts induce complex substitution patterns, preference learning and decision making are intrinsically difficult. The paper introduces a new exploration–exploitation algorithm that combines a novel estimator for customer preferences, an adaptive mechanism that promotes informative experimentation, and an optimization oracle for inventory and assortment planning. The authors establish nearly optimal regret bounds and show that the algorithm remains effective when practical approximate optimization methods are used. They also extend the framework to incorporate inventory carryover and unknown arrival processes, with numerical studies confirming the strong performance of the proposed approach.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0167"/>
+    <category term="Operations Research"/>
     <published>2026-04-07T00:00:00+00:00</published>
   </entry>
   <entry>
