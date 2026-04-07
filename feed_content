@@ -2,46 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-06T19:05:53.701106+00:00</updated>
+  <updated>2026-04-07T11:11:24.389913+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2025.0009</id>
-    <title>Large Language Models for Market Research: A Data-Augmentation Approach</title>
-    <updated>2026-03-17T00:00:00+00:00</updated>
-    <author>
-      <name>Mengxin Wang, Dennis J. Zhang, Heng Zhang</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This paper proposes a statistical data augmentation approach that efficiently integrates LLM-generated data with real data in conjoint analysis.</content>
-    <link href="https://doi.org/10.1287/mksc.2025.0009"/>
-    <category term="Marketing Science"/>
-    <published>2026-03-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2022.0414</id>
-    <title>The Role of the User Information Environment in mHealth Effectiveness</title>
-    <updated>2026-03-17T00:00:00+00:00</updated>
-    <author>
-      <name>Weiguang Wang, Yanfang Su, Guodong (Gordon) Gao, Ritu Agarwal</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Despite the promise of mobile health (mHealth) systems, about half of interventions fail to show significant effects. We examine how users’ information environments—the sources from which they obtain health information—shape mHealth effectiveness. Using information integration theory, we ran a 25-month field experiment with 4,629 expectant mothers in rural China, testing an SMS intervention to reduce unnecessary C-sections. The intervention produced a 25.9% overall reduction, but effects depended on how mHealth information integrated with public and private sources. Public information, consistent with theory, overlaps with mHealth content and can complement it for unplanned pregnancies. In contrast, integrating mHealth with private information entails dynamics beyond simple information addition, including physician behavior. Results show that mHealth coupled with private information—especially care-seeking content—prompted more visits and inadvertently enabled provider-driven overtreatment rather than informed patient choice.For practice, mHealth efficacy is inseparable from social context. Providers should recognize that visits and decisions reflect family and peer influence and app design, not just clinical need, to avoid overtreatment. Developers should design with users’ existing information ecosystems rather than treat apps as isolated tools. Clinical guidelines should be updated to reflect mHealth-environment interactions, and patients should build media literacy to synthesize information from multiple sources.</content>
-    <link href="https://doi.org/10.1287/isre.2022.0414"/>
-    <category term="Information Systems Research"/>
-    <published>2026-03-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1417</id>
-    <title>Leveraging Multiview Data Through Discrete and Regularized Deep Learning for Dynamic Financial Risk Prediction</title>
-    <updated>2026-03-17T00:00:00+00:00</updated>
-    <author>
-      <name>Zhao Wang, Wanliu Che, Cuiqing Jiang, Huimin Zhao</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Given the dramatic surge of demand for predictive insights into the dynamics of financial risk and the rich, yet entangled, information brought by proliferating multiview data, we propose a discrete and regularized deep learning (DRDL) method to better leverage such multiview data for dynamic financial risk prediction. Empirical evaluation demonstrates advantages of DRDL over benchmarked classic and state-of-the-art methods at both the model level (time-to-risk and out-of-time prediction performance) and the application level (identification and profitability performance). Besides performance gains, DRDL offers distinctive practical advantages. First, it enables explicit and controllable factor-level representations, allowing practitioners to inspect and regulate how cross-view signals are encoded. Second, it offers unique advantages in explicitly and precisely filtering out redundant information while extracting complementary information across heterogeneous data sources, allowing practitioners to better understand which unique informational components drive risk predictions. Third, it offers a practically viable and empirically effective way to promote functional disentanglement within a discrete and structured latent space. Fourth, it supports both time-wise and instance-wise monotonicity, aligning predictions with the cumulative and irreversible nature of financial risk escalation, which may be particularly valuable in risk monitoring and governance contexts.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1417"/>
-    <category term="Information Systems Research"/>
-    <published>2026-03-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70076</id>
     <title>Hiring at the tip of the funnel: Externalizing the work of integrating and coordinating diverse human capital</title>
@@ -1528,18 +1492,6 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1257/aer.20240636</id>
-    <title>Negative Control Falsification Tests for Instrumental Variable Designs</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Oren Danieli, Daniel Nevo, Itai Walk, Bar Weinstein, Dan Zeltzer</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)</content>
-    <link href="https://doi.org/10.1257/aer.20240636"/>
-    <category term="American Economic Review"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1257/aer.20240880</id>
     <title>Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
@@ -1548,6 +1500,18 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     </author>
     <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)</content>
     <link href="https://doi.org/10.1257/aer.20240880"/>
+    <category term="American Economic Review"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20240636</id>
+    <title>Negative Control Falsification Tests for Instrumental Variable Designs</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Oren Danieli, Daniel Nevo, Itai Walk, Bar Weinstein, Dan Zeltzer</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)</content>
+    <link href="https://doi.org/10.1257/aer.20240636"/>
     <category term="American Economic Review"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
@@ -1852,6 +1816,18 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-06T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/01492063261433560</id>
+    <title>Social Support and Employee Mental Health: A Meta-Synthesis and Theoretical Framework</title>
+    <updated>2026-04-06T00:00:00+00:00</updated>
+    <author>
+      <name>Nathan A. Black, Ekonkar Kaur, Misha Mariam, Christopher M. Barnes</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Social support is widely promoted as a key organizational response to employee mental health challenges, yet management research has often overlooked how different sources of support—such as coworkers, line managers, senior leadership, and professional service providers—vary in their effects on employee recovery. This oversight is especially consequential for employees managing common, diagnosable mental health conditions for whom recovery depends on changes in maladaptive cognitive and behavioral processes that are frequently activated in work contexts. To address this limitation, we conducted an interdisciplinary meta-synthesis of 96 review articles spanning management, clinical psychology, psychiatry, and occupational health. Anchored in Beck and Haigh’s Generic Cognitive Model, we develop the Integrated Work Support Model (IWSM), which explains how distinct sources of social support influence activating work situations, maladaptive beliefs, and maladaptive behaviors over time for employees with common mental health conditions. Our synthesis distinguishes the roles of primary, secondary, and tertiary interventions, clarifying when organizational actors can mitigate triggering work conditions, when clinical expertise from professional service providers is required to directly change maladaptive processes, and how social support from actors internal to the organization can enhance—but not substitute for—therapeutic intervention. By integrating clinical theory with management scholarship, this review advances a process-based understanding of social support, specifies role-differentiated responsibilities for organizational actors and professional service providers, and offers actionable guidance for designing social support systems that promote recovery while avoiding unintended harm.</content>
+    <link href="https://doi.org/10.1177/01492063261433560"/>
+    <category term="Journal of Management"/>
+    <published>2026-04-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/isre.2023.0480</id>
     <title>Token Incentive and Blockchain Developer Contribution</title>
     <updated>2026-04-06T00:00:00+00:00</updated>
@@ -1898,5 +1874,17 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <link href="https://doi.org/10.1177/10422587261435951"/>
     <category term="Entrepreneurship Theory and Practice"/>
     <published>2026-04-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70034</id>
+    <title>Deposit Franchise Runs</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>ITAMAR DRECHSLER, ALEXI SAVOV, PHILIPP SCHNABL, OLIVIER WANG</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;The deposit franchise is valuable because banks pay below‐market deposit rates. However, if depositors leave, its value vanishes. This can trigger runs by uninsured depositors, even if banks hold fully liquid assets. Because the franchise value increases with interest rates, runs are more harmful, and hence likelier, when rates are high. Banks can deter runs by shortening asset duration, but this risks insolvency if rates fall. Avoiding both runs and insolvency requires capital covering the potential loss of the uninsured deposit franchise. We estimate deposit franchise values and use them to identify vulnerable banks during the 2023 regional bank crisis.</content>
+    <link href="https://doi.org/10.1111/jofi.70034"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-04-07T00:00:00+00:00</published>
   </entry>
 </feed>
