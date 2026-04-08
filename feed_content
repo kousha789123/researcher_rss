@@ -2,62 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-07T19:18:11.497014+00:00</updated>
+  <updated>2026-04-08T11:20:09.335318+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1002/smj.70076</id>
-    <title>Hiring at the tip of the funnel: Externalizing the work of integrating and coordinating diverse human capital</title>
-    <updated>2026-03-18T00:00:00+00:00</updated>
-    <author>
-      <name>Sang Won Han, Shinjae Won</name>
-    </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;We adopt a network‐based perspective to examine the effects of hiring strategies in terms of the diversity of hiring sources. Considering the transferability of general and firm‐specific skills, we propose that firms can reduce integration costs while gaining diversity benefits when they hire from a focused set of firms that themselves hire broadly. We suggest that occupying this position in the mobility network enhances both innovation and productivity outcomes. Moreover, we posit that a strong cultural orientation, characterized by high intensity and consistency, further amplifies these benefits. Our analysis of mobility data from US public firms between 2005 and 2021 uncovers the pathways through which firms attain this position. Evidence from the panel matching method and fixed‐effects regressions provides support for our hypotheses.Managerial SummaryWe take a network perspective to understand how firms' hiring choices—particularly the range of companies they recruit from—shape their performance. We argue that firms can benefit when they hire from a small, consistent group of companies that themselves draw talent from many different firms. This approach allows firms to gain a wide variety of skills and experiences while keeping integration and onboarding challenges low, leading to more innovation and higher productivity. We also suggest that firms with a strong and consistent culture are even better positioned to take advantage of these benefits. Using data on employee movements among US public firms from 2005 to 2021, we show how firms attain this position, and find evidence in support of our hypotheses using panel matching and fixed effects models.</content>
-    <link href="https://doi.org/10.1002/smj.70076"/>
-    <category term="Strategic Management Journal"/>
-    <published>2026-03-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00012</id>
-    <title>Frozen-State Value Iteration: Faster Reinforcement Learning by Freezing Slow States</title>
-    <updated>2026-03-18T00:00:00+00:00</updated>
-    <author>
-      <name>Yijia Wang, Daniel R. Jiang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study infinite-horizon Markov decision processes (MDPs) with fast–slow structure, in which some state variables evolve rapidly (fast states), whereas others change more gradually (slow states). This structure commonly arises in practice when decisions must be made at high frequencies over long horizons and when slowly changing information still plays a critical role in determining optimal actions. Examples include inventory control under slowly changing demand indicators or dynamic pricing with gradually shifting consumer behavior. Modeling the problem at the natural decision frequency leads to MDPs with discount factors close to one, making them computationally challenging. We propose a novel approximation strategy that freezes slow states during phases of lower level planning and subsequently applies value iteration to an auxiliary upper level MDP that evolves on a slower timescale. Freezing states for short periods of time leads to easier to solve lower level problems, whereas a slower upper level timescale allows for a more favorable discount factor. On the theoretical side, we analyze the regret incurred by our frozen-state approach, and this leads to simple insights on how to trade off regret versus computational cost. Empirically, we benchmark our new frozen-state methods on three domains: (i) inventory control with fixed order costs, (ii) a grid world problem with spatial tasks, and (iii) dynamic pricing with reference price effects. We demonstrate that the new methods produce high-quality policies with significantly less computation, and we show that simply omitting slow states is often a poor heuristic.This paper was accepted by J. George Shanthikumar, data science.Funding: This research is based upon work supported by the U.S. National Science Foundation [Grant 1807536].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00012 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00012"/>
-    <category term="Management Science"/>
-    <published>2026-03-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261421962</id>
-    <title>Venture Exits: A Review and Future Research Agenda</title>
-    <updated>2026-03-18T00:00:00+00:00</updated>
-    <author>
-      <name>Petrit Ademi, Joseph J. Cabral, Suho Han, Will Drover, Melissa E. Graebner</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Exits are key events in the life cycles of entrepreneurial ventures. Venture exits have immense practical impacts on a variety of stakeholders, including founders, employees, organizations, resource providers, and broader ecosystems. As a result, the phenomenon of venture exits is of interest to a broad community of scholars across fields such as general management, entrepreneurship, finance and accounting, strategy, economics, organizational behavior, and psychology. We examine the multidisciplinary literature on venture exits, including initial public offerings, acquisitions, buy-outs, secondary sales, and related exit events, by analyzing 317 research articles published from 1991 to 2025. We integrate extant findings into a unified model describing the pre-exit, exit execution, and post-exit phases across multiple units of analysis: the individual, venture, resource provider, and environment. We identify common themes, predominant tensions, and important gaps, laying the foundation for a reinvigorated research agenda. Central to this agenda is embracing a process perspective that considers the fluidity of the actors, interests, and resources shaping venture exit decisions and outcomes. Grounded in our review, this perspective offers new insights into venture exits while creating opportunities to meaningfully challenge and advance existing approaches and theories.</content>
-    <link href="https://doi.org/10.1177/01492063261421962"/>
-    <category term="Journal of Management"/>
-    <published>2026-03-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70066</id>
-    <title>Explaining Variability in Employee Perceptions of
-                    &lt;scp&gt;HR&lt;/scp&gt;
-                    Practices in Strategic
-                    &lt;scp&gt;HRM&lt;/scp&gt;
-                    Research: An Integrative Review and Future Outlook</title>
-    <updated>2026-03-18T00:00:00+00:00</updated>
-    <author>
-      <name>Jeske van Beurden, Susanne Beijer, Kaifeng Jiang, Karina van de Voorde, Anthony Nyberg</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Employee perceptions of human resource (HR) practices have become a central focus in strategic human resource management (HRM) research due to their impact on individual and organizational outcomes. Recent studies highlight the importance of understanding how these perceptions are formed, what they encompass, and why they vary across employees. This special issue ofHuman Resource Managementaims to advance this evolving area of research by focusing on variability in employee perceptions of HR practices. We review the current literature on employee perceptions of HR practices, including (1) theoretical and conceptual clarity of the employee perceptions of HR practices construct, (2) antecedents of these perceptions across multiple levels (i.e., individual, HR department, (line) management, and organizational levels), (3) stakeholder alignment, and (4) the dynamic nature of perceptions of HR practices. We then consolidate existing research by offering an integrated overview based on extant studies, incorporating the four themes featured in this special issue. To guide future research, we present a comprehensive agenda aimed at fostering a more nuanced understanding of employee perceptions of HR practices, thereby enhancing both theoretical insights and practical impact in strategic HRM.</content>
-    <link href="https://doi.org/10.1002/hrm.70066"/>
-    <category term="Human Resource Management"/>
-    <published>2026-03-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag023</id>
     <title>De Gustibus and Disputes about Reference Dependence</title>
@@ -1876,6 +1824,18 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-06T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/sej.70026</id>
+    <title>Two hearts that beat as one: Signals, narratives, and financing (less) novel ventures via equity crowdfunding</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>Jiahe Wang, Lien Denoo, Joris Knoben</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Financial resource acquisition is crucial for ventures but hindered by uncertainty. While signaling mitigates this uncertainty, its effectiveness hinges on venture novelty and the narratives used to clarify embedded information. Adopting a configurational lens, we examine the interplay among novelty, signals, and narratives in equity crowdfunding (ECF). Applying qualitative comparative analysis (QCA) to 98 ventures on a UK ECF platform, we reveal multiple equifinal pathways to fundraising success and demonstrate that novelty acts as a critical contingency factor: novel and less‐novel ventures require distinct configurations of signals and narratives, and narratives that clarify signals play a crucial role for novel ventures. Our findings extend research on signaling theory, entrepreneurial narratives, and entrepreneurial finance with a nuanced understanding of the interdependence among novelty, signals, and narratives.Managerial SummaryNovel and less‐novel ventures face distinct challenges in convincing investors, and we show that there is no “one‐size‐fits‐all” strategy in fundraising. Our study demonstrates how entrepreneurs can convince investors using signals and/or narratives that align with the novelty of their ventures. For novel ventures, specific and coherent narratives are particularly helpful in clarifying signals that contain complex information. Conversely, less‐novel ventures that refine existing offerings may improve fundraising performance by simply emphasizing signals that demonstrate clear product‐market fit. We therefore suggest that entrepreneurs should view signals and narratives as complementary tools and tailor their fundraising strategies to match their ventures' novelty and achieve fundraising success.</content>
+    <link href="https://doi.org/10.1002/sej.70026"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/orsc.2024.19985</id>
     <title>Newborn Gender and Technology Adoption Among Rural Entrepreneurs in Ethiopian Family Firms</title>
     <updated>2026-04-07T00:00:00+00:00</updated>
@@ -1960,6 +1920,18 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-07T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/jofi.70038</id>
+    <title>The (Missing) Relation between Acquisition Announcement Returns and Value Creation</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>ITZHAK BEN‐DAVID, UTPAL BHATTACHARYA, RUIDI HUANG, STACEY JACOBSEN</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Cumulative abnormal returns (CARs) computed around acquisition announcements are widely considered to be market‐based assessments of expected value creation. We show, however, that announcement returns do not correlate with commonly used and new measures of ex post outcomes. A simple characteristics‐based model using standard information known at the announcement date can predict these outcomes reasonably well, yet CAR even fails to capture the predictions from this model. Evidence suggests that information about the stand‐alone acquirer dominates CAR, making it virtually impossible to extract deal‐related information. We conclude that CAR is an unreliable measure of expected value creation.</content>
+    <link href="https://doi.org/10.1111/jofi.70038"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/jofi.70034</id>
     <title>Deposit Franchise Runs</title>
     <updated>2026-04-07T00:00:00+00:00</updated>
@@ -1972,6 +1944,18 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-07T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/1475-679x.70050</id>
+    <title>Generative AI in Financial Reporting</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>ELIZABETH BLANKESPOOR, ED DEHAAN, QIANQIAN LI</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;Generative artificial intelligence (GAI) will likely alter many aspects of the financial reporting process and spawn a deep stream of academic research. We take an early step by examining the extent to which firms have begun using GAI in one important part of the reporting process: writing disclosures. We begin by evaluating a commercial tool's ability to detect GAI writing in disclosures, and we find that it reliably identifies even very small amounts of GAI usage in realistic samples. We then examine firms’ actual earnings press releases, conference call prepared remarks, risk factors, MD&amp;As, and IPO filings through 2024 and find statistically significant GAI usage in all five disclosure types, with up to 4.5% of new text written by GAI in 2024. Usage is predictably higher in the cross‐section, and filings with higher GAI have systematically different linguistic properties. Our study provides early insights into the use and effects of GAI in financial reporting, and it motivates future research in this evolving area.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70050"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/isre.2024.1589</id>
     <title>Where the Ball Starts Rolling? An Empirical Investigation into Initial Opinion Formation on Social Media Platforms</title>
     <updated>2026-04-07T00:00:00+00:00</updated>
@@ -1981,6 +1965,20 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Social media users routinely encounter unfamiliar, high-stakes information and form impressions that shape what they believe, share, and act on. This article shows that these first impressions can stabilize after only a small, bounded run of consistent exposure, creating an early “sufficiency” point after which additional posts add little. Once this early stance forms, it guides downstream engagement: users are more receptive to information that aligns with their initial view and less responsive to information that challenges it. Importantly for practice and policy, early judgments are often weakly tied to factual accuracy under low-effort scrolling, making it difficult for later corrections to fully reverse the effects of early exposure. The study also demonstrates that source cues matter: professional titles and affiliations can outweigh visible platform signals such as badges and popularity metrics when people evaluate unfamiliar content. Together, these findings suggest that platforms and regulators should prioritize upstream interventions—verifying expertise claims before allowing professional titles to be displayed, strengthening domain-specific credibility signals, and ensuring authoritative information reaches users early in exposure sequences—especially in sensitive areas such as health, finance, and public safety.</content>
     <link href="https://doi.org/10.1287/isre.2024.1589"/>
     <category term="Information Systems Research"/>
+    <published>2026-04-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.70072</id>
+    <title>The Influence of
+                    &lt;scp&gt;TMT&lt;/scp&gt;
+                    Gender Diversity on Corporate Environmental Strategies: A Power Equality Perspective</title>
+    <updated>2026-04-07T00:00:00+00:00</updated>
+    <author>
+      <name>Yeyao Ren, Liang Zhang, Julie Juan Li, Wenhong Zhao</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Gender diversity in leadership helps organizations address environmental issues, one of the grand challenges. However, much of the existing research treats corporate environmental strategies as a monolithic concept, overlooking important distinctions between different types of environmental approaches. Based on the approach/inhibition theory of power, we argue that TMT gender diversity influences different types of TMT motivation (i.e., approach or avoidance focus), which in turn lead to distinctive environmental strategies (i.e., proactive or reactive strategies). This relationship is shaped by gender power dynamics at both regional and organizational levels. Using panel data comprising 6741 observations from firms in high‐polluting industries, we find that under conditions of traditional regional gender norms or high TMT gender power inequality, gender diversity fosters reactive environmental strategies by activating TMT avoidance focus. Conversely, when TMT gender power inequality is low, gender diversity promotes proactive environmental strategies by activating TMT approach focus. This study highlights the critical roles of gender power equality and team psychological motivations in shaping the impact of female TMT representation on corporate environmental strategies.</content>
+    <link href="https://doi.org/10.1002/hrm.70072"/>
+    <category term="Human Resource Management"/>
     <published>2026-04-07T00:00:00+00:00</published>
   </entry>
 </feed>
