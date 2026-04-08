@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-08T15:05:59.981703+00:00</updated>
+  <updated>2026-04-08T19:07:35.917218+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -2030,6 +2030,114 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <published>2026-04-08T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2023.0411</id>
+    <title>Dual Sourcing in an Assembly System: A Simple and Effective Critical-Set Base-Surge Policy</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Tianhu Deng, Feiyu Shao, Jing-Sheng Jeannette Song, Yi Yu</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Coordinating Dual-Sourcing for Multi-Component Assembly SystemsAssembly manufacturers are increasingly relying on dual sourcing—pairing a low-cost regular supplier with a faster but more expensive express option—to enhance supply chain resilience. Yet although dual sourcing is well understood for single items, managing it across multiple components in an assembly system has remained largely unresolved. In the paper, we introduce a novel Critical-Set Base-Surge (CSBS) policy, which combines a constant order policy for regular sources to meet base demand with a Critical-Set (CS) policy for express sources to handle surge demand. By revealing a weaker form of additive separability and proving exponential state convergence under CSBS, we provide a performance bound and establish asymptotic optimality as regular lead times grow. Numerical experiments show that, compared to benchmark policies that apply the Tailored Base-Surge policy, the CSBS policy achieves substantial optimality gap reductions. Furthermore, we propose a CSBS policy with easy-to-compute parameters and demonstrate that it delivers performance comparable with the CSBS policy.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0411"/>
+    <category term="Operations Research"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04003</id>
+    <title>A Meta-Analysis of Quasi-Hyperbolic Discounting</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Stephen L. Cheung, Agnieszka Tymula, Xueting Wang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper reports a meta-analysis of 86 studies of the two parameters of quasi-hyperbolic ([Formula: see text]) discounting, the dominant model of self-control failures in behavioral economics. The central tenet of the model is that decision makers have a “present bias,” [Formula: see text], for immediate rewards, on top of standard exponential discounting of the future, [Formula: see text]. After correcting for selective reporting, we obtain a meta-analytic estimate of [Formula: see text] for money of 0.938, with 95% confidence interval [0.905, 0.972]. For nonmonetary rewards, our estimate of [Formula: see text] is 0.750, with 95% confidence interval [0.643, 0.857], and there is no evidence of selective reporting. We find that present bias for real effort, although stronger than for money, is weaker than for other rewards such as real consumption.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This research was partly supported by the Australian Government through the Australian Research Council’s Centre of Excellence for Children and Families over the Life Course [Project IDs CE140100027 and CE200100025]. S. L. Cheung received financial support from the Australian Research Council [Grant DP160101794]. A. Tymula received financial support from the University of Sydney [Bridging Grant G199763].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04003 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04003"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05902</id>
+    <title>Executive Cooperativeness: Evidence from Conference Calls</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Wei Cai, Kunlu Ju, Ethan Rouen, Yuan Zou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Cooperativeness is essential to individual and organizational success. We exploit a unique feature of conference calls to study individual executives’ cooperativeness, indicated by their directly inviting colleagues to respond to analysts’ questions, and its relation with their career outcomes and firm performance. After validating our measure, we find that cooperativeness is associated with relevant executive characteristics. Older, more senior, and more experienced executives are more likely to display cooperativeness. We also find that cooperativeness persists but can be influenced by colleagues. Turning to the relation with career and firm outcomes, we find robust evidence of a positive association between cooperativeness and the likelihood of being promoted to chief executive officer (CEO). Appointing CEOs who are more cooperative than their predecessors is associated with an average three-day abnormal return of 0.6% around the announcement of the appointment.This paper was accepted by Ranjani Krishnan, accounting.Funding: W. Cai gratefully acknowledges financial support from the Bernstein Center for Leadership and Ethics of Columbia Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05902 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05902"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05821</id>
+    <title>Firm-Level Litigation Risk: Measurement and Effects</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Bennett, Charles Ham, Todd Milbourn, Zexi Wang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Firms are exposed to litigation risk from various stakeholders, including investors, customers, and regulators, and prior research has shown that such risk shapes a range of corporate policies. In this study, we develop a simple and transparent measure of firm-level litigation risk by parsing SEC 10-K annual reports. This measure demonstrates strong predictability for lawsuits, even after controlling for firm characteristics, existing lawsuits, geographic factors, and various fixed effects, including firm fixed effects. This simple measure performs comparably to a more resource-intensive, AI-generated litigation risk measure. We further link our measure of litigation risk to a variety of corporate policies, including cash holdings, capital expenditures, R&amp;D, and acquisitions, uncovering results consistent with the literature.This paper was accepted by Bo Becker, finance.Funding: C. Ham acknowledges financial support from the Blanche “Peg” Philpott Faculty Fellowship.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05821 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05821"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05423</id>
+    <title>Third-Party Quality Certification in the Market for Financial Advice</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>William C. Gerken, Morteza Momeni</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study third-party quality certification in the market for financial advice. Using Barron’s Top Financial Advisors rankings and multiple identification strategies, we find evidence that being named a top advisor increases both assets under management and accounts for individuals and their firms. The effects increase sharply around state-level thresholds for certification, suggesting that clients value the certification itself and not solely the underlying quality. Contrary to industry folklore about a “Barron’s curse,” we find that after certification, advisors are less likely to engage in misconduct, consistent with reputational models. The certification effect is robust to controlling for increased media attention and operates primarily through certification value rather than visibility, with larger effects for advisors from smaller firms and those with less experience.This paper was accepted by Camelia Kuhnen, finance.Funding: The authors acknowledge the support of the Institute for the Study of Free Enterprise.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05423 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05423"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.02547</id>
+    <title>The Role of Physician Integration in Alternative Payment Models: The Case of the Comprehensive Joint Replacement Program</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Christopher J. Chen, Kraig Delana</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;U.S. health system reform simultaneously promotes alternative payment models (APMs) and integrated provider organizations, where integration is assumed to better enable providers to coordinate and manage the risks introduced by APMs. While the interaction of these two changes has implications for both APM design and regulation of provider integration, it is not well studied. In this paper, we offer empirical evidence on the role of horizontal and vertical integration of orthopedic surgeons in driving heterogeneity in the impact of the Comprehensive Joint Replacement (CJR) APM. Using a quasi-experimental generalized difference-in-differences approach, we find that, relative to similar control hospitals, CJR hospitals with fully horizontally and vertically integrated orthopedic surgeons receive a 5.83% increase in CMS payments to hospitals but do not differ in CJR quality measures. Further analysis shows that the increase in payments stems from changes in physicians’ clinical decision-making that reduce penalties (increase CMS payments) to hospitals for low-value care and reduces CMS payments to postacute care (PAC) providers. Consequently, these hospitals also receive greater CJR reward payments. Overall, our findings suggest that integrated providers are likely to perform better under APMs, providing novel insights for policymakers, payors, and healthcare providers as they design, implement, and evaluate value-based reforms.This paper was accepted by Carri W. Chan, healthcare management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02547 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.02547"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.02025</id>
+    <title>Measuring the Driving Forces of Predictive Performance: Application to Credit Scoring</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Sullivan Hué, Christophe Hurlin, Christophe Pérignon, Sébastien Saurin</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Because they play an increasingly important role in determining access to credit, credit scoring models are under growing scrutiny from banking supervisors and internal model validators. These authorities need to monitor the model performance and identify its key drivers. To facilitate this, we introduce the explainable performance (XPER) methodology to decompose a performance metric (e.g., area under the curve (AUC), [Formula: see text]) into specific contributions associated with the various features of a forecasting model. XPER is theoretically grounded on Shapley values and is both model-agnostic and performance metric-agnostic. Furthermore, it can be implemented either at the model level or at the individual level. Using a novel data set of car loans, we decompose the AUC of a machine-learning model trained to forecast the default probability of loan applicants. We show that a small number of features can explain a surprisingly large part of the model performance. Notably, the features that contribute the most to the predictive performance of the model may not be the ones that contribute the most to individual forecasts (Shapley additive explanation). Finally, we show how XPER can be used to deal with heterogeneity issues and improve performance.This paper was accepted by Kay Giesecke, finance.Funding: The authors thank the Institut Universitaire de France, the Autorité de contrôle prudentiel et de résolution Chair in Regulation and Systemic Risk, the HEC-Deloitte Chair on Artificial Intelligence for Business Innovation, the Excellence Initiative of Aix-Marseille University [A*MIDEX], and the French National Research Agency [Grants AMSE ANR-17-EURE-0020, Ecodec ANR-11-LABX-0047, and MLEforRisk ANR-21-CE26-0007] for supporting our research.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02025 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.02025"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.00094</id>
+    <title>What Do Shareholders Want? Consumer Welfare and the Objective of the Firm</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Keith Marzilli Ericson</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Shareholders want a firm’s objective function to place some weight on consumer welfare, motivated by both self-interest and altruism. Firms have a unique technology for improving consumer welfare: lowering inefficient price markups. Optimal pricing formulas can account for shareholders’ marginal rate of substitution between profits and consumer welfare. Calibrations show shareholders should place nontrivial weights on consumers. A survey experiment with a representative sample shows how shareholders would vote on resolutions giving strategic guidance to firms. Only 7% would vote for pure profit maximization. The median individual is indifferent between $0.44 in profits or $1 in consumer surplus.This paper was accepted by John Beshears, behavioral economics and decision analysis.Funding: This work was supported by Boston University (Impact Measurement and Allocation Program and Ravi K. Mehrotra Institute for Business, Markets, and Society).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00094 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.00094"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04496</id>
+    <title>The Road to Stock Market Participation</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Sumit Agarwal, Meghana Ayyagari, Yuxi Cheng, Pulak Ghosh</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines how infrastructure development affects stock market participation in India using trading data from more than 13 million individuals. Using the phased rollout of a national road construction program as a natural experiment, we find that new road connections lead to significant increases in both trading activity and the number of investors. These effects are driven primarily by new market entrants and are most pronounced in rural and intermediately developed regions as well as among male and middle-aged investors. Two main mechanisms explain these patterns. First is an information channel: improved connectivity reduces information frictions, facilitates portfolio diversification, and encourages investment in geographically distant firms. Second is a financial inclusion channel: road construction spurs new bank branch openings—especially by state-owned banks—expanding access to financial services and enabling portfolio reallocation from savings and consumption to equity markets. We find limited evidence for a third possible channel, risk sharing, whereby participation rises with road connectivity in regions with high income volatility. Whereas initial investor returns are positive, long-term performance declines and risk-taking increases, suggesting that infrastructure expansion promotes market participation but not necessarily optimal investment outcomes.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04496 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04496"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/00222437261444259</id>
     <title>EXPRESS: Does Puffery Sell? Evidence from Airbnb</title>
     <updated>2026-04-08T00:00:00+00:00</updated>
@@ -2051,6 +2159,30 @@ votes and buying shares from dissenting shareholders. Our theory reconciles conf
     <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;When their identity is salient, consumers from historically marginalized and privileged groups are differentially influenced when it comes to choosing algorithmic service providers (e.g., AI-enabled tellers, chatbots, robots, and digital kiosks). Under identity salience, as it would be in a service context where the service providers are all from historically privileged groups, consumers from historically marginalized groups (e.g., Black people) become concerned about identity-based social judgment. Underrepresentation of historically marginalized groups in white-collar professions (e.g., financial services), regulatory pressures to abandon diversity hiring initiatives, and a tight labor market, make it increasingly difficult for companies to ensure diversity among frontline employees. How can managers provide consumers from historically marginalized groups the services they seek in non-diverse settings while balancing other constraints and reducing identity-based social judgment concerns? The results of a series of field studies and controlled experiments suggest that algorithmic service providers can provide a means to serve historically marginalized consumers in non-diverse service settings. The effect attenuates in service contexts where historically marginalized consumers are less concerned about identity-based social judgment. Interestingly, identity salience does not influence historically privileged consumers’ choice of algorithmic service providers.</content>
     <link href="https://doi.org/10.1177/00222429261444284"/>
     <category term="Journal of Marketing"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1683</id>
+    <title>When Vulnerability Drives Action: Designing Forward-Looking Frameworks for Disaster Preparedness</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas Roderick, Monica Chiarini Tremblay, Rajiv Kohli, Arturo Castellanos, Yolande Pengetnze</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Disaster preparedness policies depend on vulnerability indices to guide disaster management. Yet, commonly used tools such as the CDC Social Vulnerability Index and FEMA’s National Risk Index rely largely on static demographic proxies, producing broad vulnerability scores that offer limited insight into the specific needs communities will face during disasters. These approaches can obscure how hazards translate into different forms of harm, such as medical needs during power outages or housing repair needs after storms, and risk embedding structural bias into preparedness decisions.This research shows that vulnerability can be reframed as directly predicting disaster-related needs. We develop the Local Impact Vulnerability Assessment (LIVA), a framework that integrates demographic, housing, socioeconomic, and health indicators with historical disaster outcomes to estimate hazard-specific community needs. Using data from federally declared disasters between 2018 and 2025, LIVA demonstrates substantially stronger alignment with observed FEMA assistance needs across hazards and need categories than existing vulnerability and risk indices.The findings suggest that disaster preparedness policy should advance beyond static indices to tailored predictive planning tools that anticipate how different hazards generate different community needs. By identifying where specific forms of assistance are likely to be required, emergency management organizations can plan, prepare, and improve the equity and effectiveness of disaster response.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1683"/>
+    <category term="Information Systems Research"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0493</id>
+    <title>Less Is Not Always More: The Impact of Social Media Block Intensity and Immediacy on Work Time</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Zenan Chen, Jason Chan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Social media use during work hours is a persistent concern for workplace productivity. Many current blocking policies are designed under the assumption that greater restriction will always produce better outcomes. However, our four-week randomized field experiment with 217 U.S. participants challenges this assumption. We compared different blocker designs along two dimensions: the degree of control (partial versus complete blocking) and the immediacy of implementation (gradual versus immediate rollout). The results show that complete blocking can backfire, reducing time spent working, whereas partial blocking increases it. In addition, gradually introducing restrictions proved more effective than imposing them immediately, particularly during periods when users historically engaged more with social media. Assuming a typical eight-hour workday, complete blocking corresponds to an estimated loss of about 20.3 productive workdays per year, whereas partial blocking is associated with a gain of roughly 6.2 productive workdays annually. Partial blocking also increased the duration of uninterrupted work sessions, indicating improved sustained focus. These findings suggest a clear implication for practice and policy; rather than adopting all-or-nothing bans, organizations, app developers, and policymakers should implement calibrated, adaptive, and phased controls that reduce distractions without triggering behavioral backlash.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0493"/>
+    <category term="Information Systems Research"/>
     <published>2026-04-08T00:00:00+00:00</published>
   </entry>
 </feed>
