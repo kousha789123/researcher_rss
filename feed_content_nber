@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-04-13T06:12:12.643795+00:00</updated>
+  <updated>2026-04-13T11:24:41.624702+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -307,18 +307,6 @@
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35018</id>
-    <title>Trade, Labor Market Concentration, and Wages</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mayara Felix</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I estimate the effect of trade on local labor market concentration and its implications for wages using employer-employee linked data and tariff shocks from Brazil’s trade liberalization. Trade increased concentration by 7%, an effect driven by firm exit and worker flows to surviving import-competing firms. Increased concentration reduced wage take-home shares—estimated at 50 cents on the dollar pre-shock—enough to offset small wage gains from reallocation, but did not meaningfully reduce wages on net. Most of the wage declines attributed to Brazil's trade liberalization resulted instead from reductions in the marginal revenue product of labor. Incorporating informality reveals substantial regional heterogeneity.</content>
-    <link href="https://www.nber.org/papers/w35018"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35017</id>
     <title>Real Effects of Academic Research Revisited</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -550,6 +538,102 @@ The framework identifies a distinct margin of economic behavior—planning under
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35018</id>
+    <title>Trade, Labor Market Concentration, and Wages</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mayara Felix</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I estimate the effect of trade on local labor market concentration and its implications for wages using employer-employee linked data and tariff shocks from Brazil’s trade liberalization. Trade increased concentration by 7%, an effect driven by firm exit and worker flows to surviving import-competing firms. Increased concentration reduced wage take-home shares—estimated at 50 cents on the dollar pre-shock—enough to offset small wage gains from reallocation, but did not meaningfully reduce wages on net. Most of the wage declines attributed to Brazil's trade liberalization resulted instead from reductions in the marginal revenue product of labor. Incorporating informality reveals substantial regional heterogeneity.</content>
+    <link href="https://www.nber.org/papers/w35018"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35038</id>
+    <title>Immigrants at the Margin: Labor Market Effects of the Minimum Wage</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mark Borgschulte, Heepyung Cho &amp; Darren Lubotsky</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the differential effects of minimum wages on immigrant and native workers in the United States. We find that minimum wage increases lead to reduced hours of work among immigrants with no effect on their employment. The effects are concentrated among recently-arrived, likely-undocumented workers in high turnover industries. Native workers show no such response, even when examining native subgroups with similar characteristics to the most affected immigrants.  We conclude that affected immigrant labor markets feature low-surplus, low-investment employment relationships with flexible hours, but they are embedded in labor markets where replacement is unusually costly.</content>
+    <link href="https://www.nber.org/papers/w35038"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35037</id>
+    <title>Amortized Inference for Correlated Discrete Choice Models via Equivariant Neural Networks</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Easton K. Huch &amp; Michael P. Keane</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Discrete choice models are fundamental tools in management science, economics, and marketing for understanding and predicting decision-making. Logit-based models are dominant in applied work, largely due to their convenient closed-form expressions for choice probabilities. However, these models entail restrictive assumptions on the stochastic utility component, constraining our ability to capture realistic and theoretically grounded choice behavior—most notably, substitution patterns. In this work, we propose an amortized inference approach using a neural network emulator to approximate choice probabilities for general error distributions, including those with correlated errors. Our proposal includes a specialized neural network architecture and accompanying training procedures designed to respect the invariance properties of discrete choice models. We provide group-theoretic foundations for the architecture, including a proof of universal approximation given a minimal set of invariant features. Once trained, the emulator enables rapid likelihood evaluation and gradient computation. We use Sobolev training, augmenting the likelihood loss with a gradient-matching penalty so that the emulator learns both choice probabilities and their derivatives. We show that emulator-based maximum likelihood estimators are consistent and asymptotically normal under mild approximation conditions, and we provide sandwich standard errors that remain valid even with imperfect likelihood approximation. Simulations show significant gains over the GHK simulator in accuracy and speed.</content>
+    <link href="https://www.nber.org/papers/w35037"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35036</id>
+    <title>How AI Aggregation Affects Knowledge</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar &amp; James Siderius</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning gap as the deviation of long-run beliefs from the efficient benchmark, allowing us to capture how AI aggregation affects learning. Our main result identifies a threshold in the speed of updating: when the aggregator updates too quickly, there is no positive-measure set of training weights that robustly improves learning across a broad class of environments, whereas such weights exist when updating is sufficiently slow. We then compare global and local architectures. Local aggregators trained on proximate or topic-specific data robustly improve learning in all environments. Consequently, replacing specialized local aggregators with a single global aggregator worsens learning in at least one dimension of the state.</content>
+    <link href="https://www.nber.org/papers/w35036"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35033</id>
+    <title>Real Effects of Nominal Interest Rates</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua K. Hausman, John V. Leahy, John Mondragon &amp; Johannes Wieland</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nominal interest rates have real effects. Residential mortgages and other real world debt contracts require a sequence of constant nominal payments. Combined with payment-to-income constraints, these nominal payments force borrowers to take on less debt when nominal interest rates rise, regardless of the behavior of the real interest rate. Survey data shows that conditional on the real rate, higher nominal mortgage interest rates reduce home buying sentiment. And increases in nominal mortgage rates reduce mortgage origination more in cities where payment-to-income constraints are more likely to bind. We explore the macroeconomic implications of payment-to-income constraints in a new Keynesian model modified to include a credit good. The payment-to-income constraint amplifies the effect of current short-term nominal interest rates on output and inflation, making the model less forward-looking than the standard new Keynesian model.</content>
+    <link href="https://www.nber.org/papers/w35033"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35032</id>
+    <title>Skill Formation, Child Labor, and the Schooling Consequences of the World War I Agricultural Boom</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Taylor Jaworski, Carl T. Kitchens &amp; Luke P. Rodgers</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how the World War I agricultural commodity price boom affected human capital accumulation during the early decades of the high school movement in the United States. First, based on newly collected county-level enrollment data, we show that enrollment and average daily attendance fell sharply at the peak of the boom. Second, using linked census data between 1910 and 1940, we find that greater exposure during teenage years reduced completed schooling by 0.27 to 0.47 years, with the largest effects concentrated in high school. For younger children, the net effect of increased household resources depends on local child labor intensity: the positive effect of higher parental income on completed schooling is offset in counties where child labor was prevalent. Our results are consistent with dynamic complementarities in skill formation whose effects on lifetime schooling are mediated by the opportunity cost of child labor.</content>
+    <link href="https://www.nber.org/papers/w35032"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35031</id>
+    <title>Adversarial Selection</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alma Cohen, Alon Klement, Zvika Neeman &amp; Eilon Solan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In many institutional settings, k items are selected with the goal of representing the underlying distribution of claims, opinions, or characteristics in a large population. We study environments with two adversarial parties whose preferences over the selected items are commonly known and opposed. We propose the Quantile Mechanism: one party partitions the population into k disjoint subsets, and the other selects one item from each subset. We show that this procedure is optimally representative among all feasible mechanisms, and illustrate its use in jury selection, multi-district litigation, and committee formation.</content>
+    <link href="https://www.nber.org/papers/w35031"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35030</id>
+    <title>A Gender Quota for Top Executives: Diversity without Disruption</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>David A. Matsa &amp; Amalia R. Miller</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study Germany’s landmark quota requiring major public companies to include at least one woman on their top executive teams. The quota increased female representation among top executives by about two-thirds. Firms largely recruited women from outside their networks and without prior public-company top-executive experience, choosing them over male candidates with similar profiles. Most were appointed to HR or niche roles, and there was no increase in female CEOs. We find no significant effects on the female share of managers in lower ranks, policies promoting gender equality, firm value, or performance. Overall, the quota boosted diversity without causing much disruption.</content>
+    <link href="https://www.nber.org/papers/w35030"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35029</id>
     <title>Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
@@ -730,86 +814,122 @@ The framework identifies a distinct margin of economic behavior—planning under
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35038</id>
-    <title>Immigrants at the Margin: Labor Market Effects of the Minimum Wage</title>
+    <id>https://www.nber.org/papers/w35061</id>
+    <title>Human Capital Markets</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Mark Borgschulte, Heepyung Cho &amp; Darren Lubotsky</name>
+      <name>Jishnu Das &amp; Cauê Dobbin</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the differential effects of minimum wages on immigrant and native workers in the United States. We find that minimum wage increases lead to reduced hours of work among immigrants with no effect on their employment. The effects are concentrated among recently-arrived, likely-undocumented workers in high turnover industries. Native workers show no such response, even when examining native subgroups with similar characteristics to the most affected immigrants.  We conclude that affected immigrant labor markets feature low-surplus, low-investment employment relationships with flexible hours, but they are embedded in labor markets where replacement is unusually costly.</content>
-    <link href="https://www.nber.org/papers/w35038"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In many low- and middle-income countries, consumers access education and health services in environments characterized by substantial provider choice. In these settings, a dense landscape of fee-charging private providers has emerged, often located near public facilities and competing for the same clientele. We refer to these environments as human capital markets. This chapter begins by documenting that such markets are now pervasive. We present empirical evidence that human capital markets share many features with conventional product markets: households choose among a wide range of public and private providers with heterogeneous attributes, and providers respond strategically to policy interventions and competitive pressures. We then assess the extent to which canonical models from industrial organization can account for observed behavior, highlighting both their insights and their limitations. Next, we examine the key ways in which human capital markets depart from standard product-market benchmarks—most notably that education and health are both consumption goods and investments, and that quality is often difficult to observe—and review empirical and conceptual approaches developed to address these features. We conclude by outlining the major unresolved questions and promising directions for future research.</content>
+    <link href="https://www.nber.org/papers/w35061"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35037</id>
-    <title>Amortized Inference for Correlated Discrete Choice Models via Equivariant Neural Networks</title>
+    <id>https://www.nber.org/papers/w35060</id>
+    <title>The Emergence of the Poverty–Mental Health Gradient and the Great Pakistan Earthquake of 2005</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Easton K. Huch &amp; Michael P. Keane</name>
+      <name>Tahir Andrabi, Benjamin Daniels &amp; Jishnu Das</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Discrete choice models are fundamental tools in management science, economics, and marketing for understanding and predicting decision-making. Logit-based models are dominant in applied work, largely due to their convenient closed-form expressions for choice probabilities. However, these models entail restrictive assumptions on the stochastic utility component, constraining our ability to capture realistic and theoretically grounded choice behavior—most notably, substitution patterns. In this work, we propose an amortized inference approach using a neural network emulator to approximate choice probabilities for general error distributions, including those with correlated errors. Our proposal includes a specialized neural network architecture and accompanying training procedures designed to respect the invariance properties of discrete choice models. We provide group-theoretic foundations for the architecture, including a proof of universal approximation given a minimal set of invariant features. Once trained, the emulator enables rapid likelihood evaluation and gradient computation. We use Sobolev training, augmenting the likelihood loss with a gradient-matching penalty so that the emulator learns both choice probabilities and their derivatives. We show that emulator-based maximum likelihood estimators are consistent and asymptotically normal under mild approximation conditions, and we provide sandwich standard errors that remain valid even with imperfect likelihood approximation. Simulations show significant gains over the GHK simulator in accuracy and speed.</content>
-    <link href="https://www.nber.org/papers/w35037"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The poverty–mental health gradient varies substantially across populations, far more than sampling variation alone would predict. We treat this heterogeneity as a primary object of empirical interest. Using data collected four years after the 2005 Great Pakistan Earthquake from 126 villages spanning 0–75 km from the  activated fault line, we show that in unaffected populations there is no correlation between consumption poverty and mental health. By contrast, among those nearest the fault, mental health improves by 0.12 standard deviations per log unit of consumption, while the relationship is a precise zero beyond 20 km. This gradient is robust to  alternative distance thresholds, sample splits, and binary mental health measures, and is not mediated by acute household trauma. These results suggest that mass adversity can activate the poverty–mental health gradient, helping explain heterogeneity in the broader literature.</content>
+    <link href="https://www.nber.org/papers/w35060"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35036</id>
-    <title>How AI Aggregation Affects Knowledge</title>
+    <id>https://www.nber.org/papers/w35051</id>
+    <title>Tracking the Credibility Revolution across Fields</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar &amp; James Siderius</name>
+      <name>Paul Goldsmith-Pinkham</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning gap as the deviation of long-run beliefs from the efficient benchmark, allowing us to capture how AI aggregation affects learning. Our main result identifies a threshold in the speed of updating: when the aggregator updates too quickly, there is no positive-measure set of training weights that robustly improves learning across a broad class of environments, whereas such weights exist when updating is sufficiently slow. We then compare global and local architectures. Local aggregators trained on proximate or topic-specific data robustly improve learning in all environments. Consequently, replacing specialized local aggregators with a single global aggregator worsens learning in at least one dimension of the state.</content>
-    <link href="https://www.nber.org/papers/w35036"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How far has the credibility revolution spread beyond applied microeconomics? I update Currie, Kleven, and Zwiers (2020b) using approximately 44,000 papers—31,500 NBER working papers (1982–2025) and 12,300 articles from eleven top economics and finance journals (2011–2024)—measuring mentions of empirical methods through keyword matching. Three findings emerge. First, finance and macro/other fields differ substantially from applied micro in their mention of credibility revolution methods: as of 2024, 63 percent of applied micro papers mention experimental or quasi-experimental methods, compared to 47 percent in finance and 39 percent in macro/other. The current levels in finance and macro/other are comparable to where applied micro was in 2008–2010, though the long-run trajectories may differ. Second, growth outside applied micro is driven overwhelmingly by difference-in-differences; including DiD raises the share of finance papers mentioning any experimental or quasi-experimental method by roughly 55 percent versus 30 percent for applied micro. Other quasi-experimental methods—instrumental variables, regression discontinuity, experiments—have seen far less growth. Third, I document a striking gap between the methods studied in the Journal of Econometrics—where nonparametric estimation and asymptotic theory dominate—and those used by applied researchers, where DiD and identification strategies dominate. Published journal articles confirm these patterns are not artifacts of the NBER sample.</content>
+    <link href="https://www.nber.org/papers/w35051"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35033</id>
-    <title>Real Effects of Nominal Interest Rates</title>
+    <id>https://www.nber.org/papers/w35066</id>
+    <title>Zero Energy Day: How Nationwide Blackouts Affect the Economy</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Joshua K. Hausman, John V. Leahy, John Mondragon &amp; Johannes Wieland</name>
+      <name>Luis E. Gonzales, Koichiro Ito &amp; Mar Reguant</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nominal interest rates have real effects. Residential mortgages and other real world debt contracts require a sequence of constant nominal payments. Combined with payment-to-income constraints, these nominal payments force borrowers to take on less debt when nominal interest rates rise, regardless of the behavior of the real interest rate. Survey data shows that conditional on the real rate, higher nominal mortgage interest rates reduce home buying sentiment. And increases in nominal mortgage rates reduce mortgage origination more in cities where payment-to-income constraints are more likely to bind. We explore the macroeconomic implications of payment-to-income constraints in a new Keynesian model modified to include a credit good. The payment-to-income constraint amplifies the effect of current short-term nominal interest rates on output and inflation, making the model less forward-looking than the standard new Keynesian model.</content>
-    <link href="https://www.nber.org/papers/w35033"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Electricity reliability is a central challenge for the energy transition, as growing energy demand, renewable energy integration, and natural disasters increase the risk of large-scale black- outs. However, the economic impacts of large-scale blackouts remain largely unknown. Combining electricity market data with high-frequency economic transaction data from Chile, we find that economic activity declined by 35 percent on the nationwide blackout day, but half of this loss was recovered on subsequent days, highlighting the importance of intertemporal substitution. Exploiting spatial variation in blackout severity, we show that accounting for endogenous recovery is critical when estimating the marginal value of lost load.</content>
+    <link href="https://www.nber.org/papers/w35066"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35032</id>
-    <title>Skill Formation, Child Labor, and the Schooling Consequences of the World War I Agricultural Boom</title>
+    <id>https://www.nber.org/papers/w35065</id>
+    <title>Multimodal Transport Networks</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Taylor Jaworski, Carl T. Kitchens &amp; Luke P. Rodgers</name>
+      <name>Simon Fuchs &amp; Woan Foong Wong</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how the World War I agricultural commodity price boom affected human capital accumulation during the early decades of the high school movement in the United States. First, based on newly collected county-level enrollment data, we show that enrollment and average daily attendance fell sharply at the peak of the boom. Second, using linked census data between 1910 and 1940, we find that greater exposure during teenage years reduced completed schooling by 0.27 to 0.47 years, with the largest effects concentrated in high school. For younger children, the net effect of increased household resources depends on local child labor intensity: the positive effect of higher parental income on completed schooling is offset in counties where child labor was prevalent. Our results are consistent with dynamic complementarities in skill formation whose effects on lifetime schooling are mediated by the opportunity cost of child labor.</content>
-    <link href="https://www.nber.org/papers/w35032"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Over half of distance-weighted U.S. freight is shipped using more than one transport mode. We examine how multimodal transport networks shape the economic and environmental impacts of infrastructure investments and disruptions. We develop a tractable spatial equilibrium model of multimodal routing with mode-specific congestion at intermodal terminals. We estimate a modal substitution elasticity using road and rail data, and a terminal congestion elasticity using vessel-positioning data. Calibrated to the U.S. freight network, the model identifies key bottlenecks and quantifies $.46-$1.85 billion in real GDP gains from intermodal terminal improvements, with additional environmental benefits from shifting away from carbon-intensive road transport. Ignoring mode-specific congestion overstates welfare gains from highway improvements by 85%, while ignoring multimodal flexibility understates them by 22%. Losing rail network access is estimated to reduce real GDP by $230 billion.</content>
+    <link href="https://www.nber.org/papers/w35065"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35031</id>
-    <title>Adversarial Selection</title>
+    <id>https://www.nber.org/papers/w35064</id>
+    <title>Tariffs in 2025: Short-Run Impacts on the U.S. Economy</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>Alma Cohen, Alon Klement, Zvika Neeman &amp; Eilon Solan</name>
+      <name>Pablo D. Fajgelbaum &amp; Amit Khandelwal</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In many institutional settings, k items are selected with the goal of representing the underlying distribution of claims, opinions, or characteristics in a large population. We study environments with two adversarial parties whose preferences over the selected items are commonly known and opposed. We propose the Quantile Mechanism: one party partitions the population into k disjoint subsets, and the other selects one item from each subset. We show that this procedure is optimally representative among all feasible mechanisms, and illustrate its use in jury selection, multi-district litigation, and committee formation.</content>
-    <link href="https://www.nber.org/papers/w35031"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In 2025, the U.S. raised average tariff duties from 2.4% to 9.6%, bringing protectionism to its highest level in eighty years. We explore the structure of these tariffs, estimate their short-run impacts, and summarize the growing literature on their effects. Across trade partners, the tariffs are correlated with trade deficits but not with geopolitical or strategic industrial goals, other than targeting China. In our baseline estimate, 90% of the tariffs are passed through to tariff-inclusive prices paid by U.S. importers. Incorporating the estimated price and trade responses into a static trade framework, we find an overall welfare impact ranging from a loss of 0.13% of GDP to a gain of 0.10%. These small net welfare impacts reflect sizable consumption losses roughly offset by income and revenue gains, with their sign hinging on whether U.S. terms-of-trade adjusted (on which the data are inconclusive). Among their stated rationales, the tariffs have been effective at raising federal revenue and diverting trade from China. However, it remains uncertain whether they will reduce the trade deficit, lower prices set by foreign exporters, promote manufacturing jobs, increase “friend-shoring” among aligned countries, or reshore key sectors; evidence from 2018-19 and 2025 indicators suggests a narrow path towards achieving these goals.</content>
+    <link href="https://www.nber.org/papers/w35064"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35030</id>
-    <title>A Gender Quota for Top Executives: Diversity without Disruption</title>
+    <id>https://www.nber.org/papers/w35059</id>
+    <title>When Policy Shapes Perception: The 2021 Child Tax Credit and Consumer Sentiment</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
     <author>
-      <name>David A. Matsa &amp; Amalia R. Miller</name>
+      <name>Jacob Bastian &amp; Melody Harvey</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study Germany’s landmark quota requiring major public companies to include at least one woman on their top executive teams. The quota increased female representation among top executives by about two-thirds. Firms largely recruited women from outside their networks and without prior public-company top-executive experience, choosing them over male candidates with similar profiles. Most were appointed to HR or niche roles, and there was no increase in female CEOs. We find no significant effects on the female share of managers in lower ranks, policies promoting gender equality, firm value, or performance. Overall, the quota boosted diversity without causing much disruption.</content>
-    <link href="https://www.nber.org/papers/w35030"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consumer sentiment influences household behavior in important ways, yet we lack causal evidence on whether government policies themselves shape these perceptions. We help fill this gap by studying the expiration of the expanded 2021 Child Tax Credit (CTC), which abruptly reduced household income for millions of families. Using monthly microdata from the University of Michigan's Consumer Sentiment Survey and plausibly exogenous variation in benefit losses across households, we implement continuous difference-in-differences and instrumental variables strategies. We find that each $1,000 in lost CTC benefits reduces sentiment by 1.7 points (or about 2.4%), with largest effects among lower-income families with multiple children. These effects persist two years after expiration and remain robust to controls for inflation, interest rates, and macroeconomic conditions. The results suggest that fiscal policy impacts perceived economic well-being beyond contemporaneous income effects, with potential implications for household economic activity, political attitudes, and voting behavior.</content>
+    <link href="https://www.nber.org/papers/w35059"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35044</id>
+    <title>Predicted Incrementality by Experimentation (PIE) for Ad Measurement</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Brett R. Gordon, Robert Moakler &amp; Florian Zettelmeyer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Randomized controlled trials (RCTs) provide the most credible estimates of advertising incrementality but are difficult to scale. We propose Predicted Incrementality by Experimentation (PIE), which reframes ad measurement as a campaign-level prediction problem. PIE uses a sample of RCTs to learn a mapping from campaign features to causal effects, then applies it to campaigns not run as RCTs. Because the RCTs identify the causal effects, PIE can incorporate post-determined features—campaign-level aggregates such as test-group outcomes, exposure rates, and last-click conversions, computed after campaign completion. These metrics reflect the consumer behaviors that generate treatment effects, so they carry predictive information about incrementality even though they would be invalid controls in a causal model. Using 2,226 Meta ad experiments, PIE achieves an out-of-sample R2 = 0.88 for incremental conversions per dollar, compared to R2 = 0.19 for industry-standard 7-day last-click attribution. In a decision-making framework, PIE disagrees with RCT-based decisions in only 8–12% of campaigns, compared to 12–20% for last-click attribution. We conclude that PIE can help scale causal measurement from a limited number of RCTs to a large set of non-experimental campaigns.</content>
+    <link href="https://www.nber.org/papers/w35044"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35043</id>
+    <title>Profit Regulation and Strategic Transfer Pricing by Vertically Integrated Firms: Evidence from Health Care</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pragya Kakani, Eric Yde, Genevieve P. Kanter, Richard G. Frank &amp; Amelia M. Bond</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide evidence of strategic transfer pricing by vertically integrated health care firms in response to insurer profit regulations. Insurers increased prices at vertically integrated pharmacies by 9.5% following the introduction of caps on insurer profits in Medicare Part D. We detect larger price increases by insurers that were at greatest risk of exceeding the allowable profit level. More than one-fifth of these higher prices were borne by the federal government. Our analysis illustrates that vertically integrated firms can evade profit regulation by “tunneling” profits to unregulated subsidiaries, undermining regulatory intent and increasing health care spending.</content>
+    <link href="https://www.nber.org/papers/w35043"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35021</id>
+    <title>The Empathy Channel in Fertility</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sebastian Galiani &amp; Raul A. Sosa</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Being around babies makes people want babies. We formalize this observation as the empathy channel: exposure to infants in the social environment activates neurobiological mechanisms that increase the desire for parenthood. As children become scarcer, this affective stimulus weakens, further eroding the motivation to have children. We embed the mechanism in a two-group overlapping-generations quantity-quality model. The empathy channel generates a positive externality, since each birth raises others’ desire for children, making the decentralized equilibrium inefficient. We characterize the optimal per-child subsidy and show that the first-order Pigouvian rate substantially overshoots the general-equilibrium optimum. The optimal targeting rule follows a Ramsey-like logic, directing the subsidy at the group with the most externality per fiscal dollar, not the group with the largest externality per child. The calibrated model suggests that the empathy channel can account for 3–33% of the fertility decline, with 13.4% at the baseline. At this baseline, the Pigouvian overshoot is 23–32% and the optimal subsidy raises welfare by 0.22% in consumption-equivalent terms.</content>
+    <link href="https://www.nber.org/papers/w35021"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
@@ -1086,126 +1206,6 @@ The framework identifies a distinct margin of economic behavior—planning under
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study who joins startup accelerators, how founders sort across programs, and which accelerators improve startup outcomes. Using a comprehensive sample of about 750,000 U.S. startups linked to 329 accelerators, we adapt the teacher value-added framework from education economics to estimate accelerator value added (AVA) while accounting for sorting. Selection is systematic: observably better ventures are more likely to enter accelerators and to sort into higher-AVA programs. Yet accelerator performance is highly dispersed. Most accelerators have negative value added relative to a no-accelerator benchmark, while a small right tail generates large gains. High-AVA accelerators predict better long-term outcomes, including acquisition, employment, revenue, and valuation, and are also more likely to accelerate the shutdown of weaker ventures. We validate AVA using internal applicant data from a large U.S. non-equity accelerator.</content>
     <link href="https://www.nber.org/papers/w35063"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35061</id>
-    <title>Human Capital Markets</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jishnu Das &amp; Cauê Dobbin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In many low- and middle-income countries, consumers access education and health services in environments characterized by substantial provider choice. In these settings, a dense landscape of fee-charging private providers has emerged, often located near public facilities and competing for the same clientele. We refer to these environments as human capital markets. This chapter begins by documenting that such markets are now pervasive. We present empirical evidence that human capital markets share many features with conventional product markets: households choose among a wide range of public and private providers with heterogeneous attributes, and providers respond strategically to policy interventions and competitive pressures. We then assess the extent to which canonical models from industrial organization can account for observed behavior, highlighting both their insights and their limitations. Next, we examine the key ways in which human capital markets depart from standard product-market benchmarks—most notably that education and health are both consumption goods and investments, and that quality is often difficult to observe—and review empirical and conceptual approaches developed to address these features. We conclude by outlining the major unresolved questions and promising directions for future research.</content>
-    <link href="https://www.nber.org/papers/w35061"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35060</id>
-    <title>The Emergence of the Poverty–Mental Health Gradient and the Great Pakistan Earthquake of 2005</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Tahir Andrabi, Benjamin Daniels &amp; Jishnu Das</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The poverty–mental health gradient varies substantially across populations, far more than sampling variation alone would predict. We treat this heterogeneity as a primary object of empirical interest. Using data collected four years after the 2005 Great Pakistan Earthquake from 126 villages spanning 0–75 km from the  activated fault line, we show that in unaffected populations there is no correlation between consumption poverty and mental health. By contrast, among those nearest the fault, mental health improves by 0.12 standard deviations per log unit of consumption, while the relationship is a precise zero beyond 20 km. This gradient is robust to  alternative distance thresholds, sample splits, and binary mental health measures, and is not mediated by acute household trauma. These results suggest that mass adversity can activate the poverty–mental health gradient, helping explain heterogeneity in the broader literature.</content>
-    <link href="https://www.nber.org/papers/w35060"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35051</id>
-    <title>Tracking the Credibility Revolution across Fields</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Paul Goldsmith-Pinkham</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How far has the credibility revolution spread beyond applied microeconomics? I update Currie, Kleven, and Zwiers (2020b) using approximately 44,000 papers—31,500 NBER working papers (1982–2025) and 12,300 articles from eleven top economics and finance journals (2011–2024)—measuring mentions of empirical methods through keyword matching. Three findings emerge. First, finance and macro/other fields differ substantially from applied micro in their mention of credibility revolution methods: as of 2024, 63 percent of applied micro papers mention experimental or quasi-experimental methods, compared to 47 percent in finance and 39 percent in macro/other. The current levels in finance and macro/other are comparable to where applied micro was in 2008–2010, though the long-run trajectories may differ. Second, growth outside applied micro is driven overwhelmingly by difference-in-differences; including DiD raises the share of finance papers mentioning any experimental or quasi-experimental method by roughly 55 percent versus 30 percent for applied micro. Other quasi-experimental methods—instrumental variables, regression discontinuity, experiments—have seen far less growth. Third, I document a striking gap between the methods studied in the Journal of Econometrics—where nonparametric estimation and asymptotic theory dominate—and those used by applied researchers, where DiD and identification strategies dominate. Published journal articles confirm these patterns are not artifacts of the NBER sample.</content>
-    <link href="https://www.nber.org/papers/w35051"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35066</id>
-    <title>Zero Energy Day: How Nationwide Blackouts Affect the Economy</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Luis E. Gonzales, Koichiro Ito &amp; Mar Reguant</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Electricity reliability is a central challenge for the energy transition, as growing energy demand, renewable energy integration, and natural disasters increase the risk of large-scale black- outs. However, the economic impacts of large-scale blackouts remain largely unknown. Combining electricity market data with high-frequency economic transaction data from Chile, we find that economic activity declined by 35 percent on the nationwide blackout day, but half of this loss was recovered on subsequent days, highlighting the importance of intertemporal substitution. Exploiting spatial variation in blackout severity, we show that accounting for endogenous recovery is critical when estimating the marginal value of lost load.</content>
-    <link href="https://www.nber.org/papers/w35066"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35065</id>
-    <title>Multimodal Transport Networks</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Simon Fuchs &amp; Woan Foong Wong</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Over half of distance-weighted U.S. freight is shipped using more than one transport mode. We examine how multimodal transport networks shape the economic and environmental impacts of infrastructure investments and disruptions. We develop a tractable spatial equilibrium model of multimodal routing with mode-specific congestion at intermodal terminals. We estimate a modal substitution elasticity using road and rail data, and a terminal congestion elasticity using vessel-positioning data. Calibrated to the U.S. freight network, the model identifies key bottlenecks and quantifies $.46-$1.85 billion in real GDP gains from intermodal terminal improvements, with additional environmental benefits from shifting away from carbon-intensive road transport. Ignoring mode-specific congestion overstates welfare gains from highway improvements by 85%, while ignoring multimodal flexibility understates them by 22%. Losing rail network access is estimated to reduce real GDP by $230 billion.</content>
-    <link href="https://www.nber.org/papers/w35065"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35064</id>
-    <title>Tariffs in 2025: Short-Run Impacts on the U.S. Economy</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pablo D. Fajgelbaum &amp; Amit Khandelwal</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In 2025, the U.S. raised average tariff duties from 2.4% to 9.6%, bringing protectionism to its highest level in eighty years. We explore the structure of these tariffs, estimate their short-run impacts, and summarize the growing literature on their effects. Across trade partners, the tariffs are correlated with trade deficits but not with geopolitical or strategic industrial goals, other than targeting China. In our baseline estimate, 90% of the tariffs are passed through to tariff-inclusive prices paid by U.S. importers. Incorporating the estimated price and trade responses into a static trade framework, we find an overall welfare impact ranging from a loss of 0.13% of GDP to a gain of 0.10%. These small net welfare impacts reflect sizable consumption losses roughly offset by income and revenue gains, with their sign hinging on whether U.S. terms-of-trade adjusted (on which the data are inconclusive). Among their stated rationales, the tariffs have been effective at raising federal revenue and diverting trade from China. However, it remains uncertain whether they will reduce the trade deficit, lower prices set by foreign exporters, promote manufacturing jobs, increase “friend-shoring” among aligned countries, or reshore key sectors; evidence from 2018-19 and 2025 indicators suggests a narrow path towards achieving these goals.</content>
-    <link href="https://www.nber.org/papers/w35064"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35059</id>
-    <title>When Policy Shapes Perception: The 2021 Child Tax Credit and Consumer Sentiment</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jacob Bastian &amp; Melody Harvey</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consumer sentiment influences household behavior in important ways, yet we lack causal evidence on whether government policies themselves shape these perceptions. We help fill this gap by studying the expiration of the expanded 2021 Child Tax Credit (CTC), which abruptly reduced household income for millions of families. Using monthly microdata from the University of Michigan's Consumer Sentiment Survey and plausibly exogenous variation in benefit losses across households, we implement continuous difference-in-differences and instrumental variables strategies. We find that each $1,000 in lost CTC benefits reduces sentiment by 1.7 points (or about 2.4%), with largest effects among lower-income families with multiple children. These effects persist two years after expiration and remain robust to controls for inflation, interest rates, and macroeconomic conditions. The results suggest that fiscal policy impacts perceived economic well-being beyond contemporaneous income effects, with potential implications for household economic activity, political attitudes, and voting behavior.</content>
-    <link href="https://www.nber.org/papers/w35059"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35044</id>
-    <title>Predicted Incrementality by Experimentation (PIE) for Ad Measurement</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Brett R. Gordon, Robert Moakler &amp; Florian Zettelmeyer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Randomized controlled trials (RCTs) provide the most credible estimates of advertising incrementality but are difficult to scale. We propose Predicted Incrementality by Experimentation (PIE), which reframes ad measurement as a campaign-level prediction problem. PIE uses a sample of RCTs to learn a mapping from campaign features to causal effects, then applies it to campaigns not run as RCTs. Because the RCTs identify the causal effects, PIE can incorporate post-determined features—campaign-level aggregates such as test-group outcomes, exposure rates, and last-click conversions, computed after campaign completion. These metrics reflect the consumer behaviors that generate treatment effects, so they carry predictive information about incrementality even though they would be invalid controls in a causal model. Using 2,226 Meta ad experiments, PIE achieves an out-of-sample R2 = 0.88 for incremental conversions per dollar, compared to R2 = 0.19 for industry-standard 7-day last-click attribution. In a decision-making framework, PIE disagrees with RCT-based decisions in only 8–12% of campaigns, compared to 12–20% for last-click attribution. We conclude that PIE can help scale causal measurement from a limited number of RCTs to a large set of non-experimental campaigns.</content>
-    <link href="https://www.nber.org/papers/w35044"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35043</id>
-    <title>Profit Regulation and Strategic Transfer Pricing by Vertically Integrated Firms: Evidence from Health Care</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pragya Kakani, Eric Yde, Genevieve P. Kanter, Richard G. Frank &amp; Amelia M. Bond</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide evidence of strategic transfer pricing by vertically integrated health care firms in response to insurer profit regulations. Insurers increased prices at vertically integrated pharmacies by 9.5% following the introduction of caps on insurer profits in Medicare Part D. We detect larger price increases by insurers that were at greatest risk of exceeding the allowable profit level. More than one-fifth of these higher prices were borne by the federal government. Our analysis illustrates that vertically integrated firms can evade profit regulation by “tunneling” profits to unregulated subsidiaries, undermining regulatory intent and increasing health care spending.</content>
-    <link href="https://www.nber.org/papers/w35043"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35021</id>
-    <title>The Empathy Channel in Fertility</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sebastian Galiani &amp; Raul A. Sosa</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Being around babies makes people want babies. We formalize this observation as the empathy channel: exposure to infants in the social environment activates neurobiological mechanisms that increase the desire for parenthood. As children become scarcer, this affective stimulus weakens, further eroding the motivation to have children. We embed the mechanism in a two-group overlapping-generations quantity-quality model. The empathy channel generates a positive externality, since each birth raises others’ desire for children, making the decentralized equilibrium inefficient. We characterize the optimal per-child subsidy and show that the first-order Pigouvian rate substantially overshoots the general-equilibrium optimum. The optimal targeting rule follows a Ramsey-like logic, directing the subsidy at the group with the most externality per fiscal dollar, not the group with the largest externality per child. The calibrated model suggests that the empathy channel can account for 3–33% of the fertility decline, with 13.4% at the baseline. At this baseline, the Pigouvian overshoot is 23–32% and the optimal subsidy raises welfare by 0.22% in consumption-equivalent terms.</content>
-    <link href="https://www.nber.org/papers/w35021"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
