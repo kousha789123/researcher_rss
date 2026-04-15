@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-04-15T15:38:27.688450+00:00</updated>
+  <updated>2026-04-15T15:41:54.001686+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -331,6 +331,18 @@
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35018</id>
+    <title>Trade, Labor Market Concentration, and Wages</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mayara Felix</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I estimate the effect of trade on local labor market concentration and its implications for wages using employer-employee linked data and tariff shocks from Brazil’s trade liberalization. Trade increased concentration by 7%, an effect driven by firm exit and worker flows to surviving import-competing firms. Increased concentration reduced wage take-home shares—estimated at 50 cents on the dollar pre-shock—enough to offset small wage gains from reallocation, but did not meaningfully reduce wages on net. Most of the wage declines attributed to Brazil's trade liberalization resulted instead from reductions in the marginal revenue product of labor. Incorporating informality reveals substantial regional heterogeneity.</content>
+    <link href="https://www.nber.org/papers/w35018"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35017</id>
     <title>Real Effects of Academic Research Revisited</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -538,18 +550,6 @@ The framework identifies a distinct margin of economic behavior—planning under
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35018</id>
-    <title>Trade, Labor Market Concentration, and Wages</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mayara Felix</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I estimate the effect of trade on local labor market concentration and its implications for wages using employer-employee linked data and tariff shocks from Brazil’s trade liberalization. Trade increased concentration by 7%, an effect driven by firm exit and worker flows to surviving import-competing firms. Increased concentration reduced wage take-home shares—estimated at 50 cents on the dollar pre-shock—enough to offset small wage gains from reallocation, but did not meaningfully reduce wages on net. Most of the wage declines attributed to Brazil's trade liberalization resulted instead from reductions in the marginal revenue product of labor. Incorporating informality reveals substantial regional heterogeneity.</content>
-    <link href="https://www.nber.org/papers/w35018"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35020</id>
     <title>Why Do Americans No Longer Work So Much More Than Non-Americans?</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
@@ -582,18 +582,6 @@ The framework identifies a distinct margin of economic behavior—planning under
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do elected officials exploit informational advantages for personal financial gain? This question has attracted heightened attention amid increased scrutiny of congressional stock trading, particularly following the COVID-19 pandemic. Prior research finds little evidence that legislators outperform the market, but existing studies rely on limited time periods and offer limited insight into the mechanisms underlying trade timing. We revisit this question by constructing a novel dataset covering the stock trading activity of all U.S. members of Congress and their immediate families from 2012 to 2023. We find that, on average, legislators’ portfolios underperform or, at best, match market benchmarks after the STOCK Act. What explains this mediocre performance? We show that legislators’ positions track financial professionals’ recommendations, and that their timing largely reflects prevailing market sentiment, estimated from retail investors’ social media posts, rather than anticipating future price changes. Together, these results suggest that legislators’ observable trading behavior is more consistent with public-signal-following than with systematically profitable use of private information.</content>
     <link href="https://www.nber.org/papers/w35041"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35034</id>
-    <title>Thinking versus Doing: Cognitive Capacity, Decision Making and Medical Diagnosis</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin R. Handel, Louis-Jonas Heizlsperger, Jonas Knecht, Jonathan T. Kolstad, Ulrike Malmendier &amp; Filip Matějka</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how situational fluctuations in cognitive capacity shape behavior in high-stakes, real-time decision-making. Drawing on recent advances in behavioral economics that revolve around inattention, cognition and complexity, we show that cognitive load influences how physicians in emergency departments allocate mental effort and attention when making diagnostic and treatment decisions. We use quasi-random variation in patient-physician pairings, along with granular electronic medical record and audit-log data from many clinical interactions, to show that, under higher cognitive load, physicians substitute mental deliberation with more numerous but less precise diagnostic actions. Specifically, we document that higher load (i) increases the total number of orders of diagnostic tests (ii) reduces the use of targeted, but more uncommon tests (iii) increases the use of common tests and (iv) increases uncertainty in diagnostic beliefs. Cognitive load impacts downstream inpatient admission from the emergency department: a physician in the highest cognitive load decile increases admissions by 28% relative to the same physician in the lowest cognitive load decile, for the exact same kind of patient. These results offer novel field-based evidence on the dynamics of attention and belief formation, and shed light on how cognitive constraints shape diagnostic behavior in complex, real-world environments.</content>
-    <link href="https://www.nber.org/papers/w35034"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
@@ -810,6 +798,90 @@ The framework identifies a distinct margin of economic behavior—planning under
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a high-precision classifier to measure artificial intelligence (AI) patents by fine-tuning PatentSBERTa on manually labeled data from the USPTO’s AI Patent Dataset. Our classifier substantially improves the existing USPTO approach, achieving 97.0% precision, 91.3% recall, and a 94.0% F1 score, and it generalizes well to Chinese patents based on citation and lexical validation. Applying it to granted U.S. patents (1976–2023) and Chinese patents (2010–2023), we document rapid growth in AI patenting in both countries and broad convergence in AI patenting intensity and subfield composition, even as China surpasses the United States in recent annual patent counts. The organization of AI innovation nevertheless differs sharply: U.S. AI patenting is concentrated among large private incumbents and established hubs, whereas Chinese AI patenting is more geographically diffuse and institutionally diverse, with larger roles for universities and state-owned enterprises. For listed firms, AI patents command a robust market-value premium in both countries. Cross-border citations show continued technological interdependence rather than decoupling, with Chinese AI inventors relying more heavily on U.S. frontier knowledge than vice versa.</content>
     <link href="https://www.nber.org/papers/w35022"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35034</id>
+    <title>Thinking versus Doing: Cognitive Capacity, Decision Making and Medical Diagnosis</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin R. Handel, Louis-Jonas Heizlsperger, Jonas Knecht, Jonathan T. Kolstad, Ulrike Malmendier &amp; Filip Matějka</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how situational fluctuations in cognitive capacity shape behavior in high-stakes, real-time decision-making. Drawing on recent advances in behavioral economics that revolve around inattention, cognition and complexity, we show that cognitive load influences how physicians in emergency departments allocate mental effort and attention when making diagnostic and treatment decisions. We use quasi-random variation in patient-physician pairings, along with granular electronic medical record and audit-log data from many clinical interactions, to show that, under higher cognitive load, physicians substitute mental deliberation with more numerous but less precise diagnostic actions. Specifically, we document that higher load (i) increases the total number of orders of diagnostic tests (ii) reduces the use of targeted, but more uncommon tests (iii) increases the use of common tests and (iv) increases uncertainty in diagnostic beliefs. Cognitive load impacts downstream inpatient admission from the emergency department: a physician in the highest cognitive load decile increases admissions by 28% relative to the same physician in the lowest cognitive load decile, for the exact same kind of patient. These results offer novel field-based evidence on the dynamics of attention and belief formation, and shed light on how cognitive constraints shape diagnostic behavior in complex, real-world environments.</content>
+    <link href="https://www.nber.org/papers/w35034"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35058</id>
+    <title>Wellbeing, Youth and Survey Mode: Comparisons across 23 Countries Using Three International Datasets</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>David G. Blanchflower &amp; Alex Bryson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Although there is growing evidence that the subjective wellbeing among the young declined in recent years, the evidence is not consistent across surveys. We examine the relationship between age and various measures of wellbeing and illbeing across three major surveys – the Gallup World Poll (GWP, Global Minds (GM) and the Global Flourishing Survey (GFS). The GWP is conducted via face-to-face and telephone surveys; GM surveys are web-based; and GFS uses both telephone and web-based surveys. We focus on 23 countries appearing in all three surveys.  The clearest evidence that wellbeing rises with age and illbeing declines with age comes from the web-based surveys in both GM and GFS. The age profiles look very different when surveys are conducted by telephone: the higher rates of illbeing among the young are far less apparent in these surveys. Because survey mode is not randomly assigned, we cannot be sure differences in age profiles of wellbeing and illbeing are causally affected by survey mode. Selection into survey mode, both across and within country, plus differential non-response by survey across the age range, may be playing a role. However, the evidence indicates very different age patterns in wellbeing and illbeing emerge across different survey modes.</content>
+    <link href="https://www.nber.org/papers/w35058"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35057</id>
+    <title>Credit Crunches and the Great Stagflation</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Itamar Drechsler, Alexi Savov &amp; Philipp Schnabl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We argue that severe credit crunches in the banking system contributed to the Great Stagflation of the 1970s. The credit crunches were due to Regulation Q, a banking law that capped deposit rates. Under Reg Q, Fed tightening triggered large deposit outflows that led banks to contract lending. The credit crunches line up closely with stagflation in the time series. To explain this, we add Reg Q to a standard model where firms use bank loans to finance working capital. When Reg Q binds and credit contracts, working capital becomes more expensive, leading firms to raise prices and shrink output. The model implies an augmented Phillips curve where monetary tightening reduces aggregate supply in addition to demand. The impact on supply is increasing in the severity of the credit crunches, firms' external finance dependence, and their working capital intensity. We test all three predictions in the cross section of manufacturing industries. In each case, we find that more exposed industries raise prices and cut output relative to others. Our results imply that under severe financial frictions monetary policy affects aggregate supply and not just demand.</content>
+    <link href="https://www.nber.org/papers/w35057"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35055</id>
+    <title>The Impacts of Medicaid's Managed Long-Term Services and Supports on Health Outcomes in Medicare</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ajin Lee, Maya Rossin-Slater, Becky Staiger &amp; Amanda Su</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;An aging US population has raised important questions regarding the organization, delivery, and funding of long-term services and supports (LTSS), prompting many state Medicaid programs to shift from fee-for-service to managed care models for LTSS delivery. We analyze the effects of transitioning to managed LTSS (MLTSS) on health outcomes among dual-eligible Medicare-Medicaid beneficiaries aged 65 and older in Florida and New York. Using Medicare claims data and a differences-in-differences design leveraging county-by-county MLTSS rollouts, we find that MLTSS leads to a 4.2 percent increase in hospitalizations in Florida, but no significant change in New York. Analysis of preventive care suggests that declining flu vaccination rates in Florida may have contributed to increased hospitalizations from respiratory causes. These findings highlight important differences in MLTSS effects across states and underscore the value of Medicare data for measuring health effects in the dual-eligible population.</content>
+    <link href="https://www.nber.org/papers/w35055"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35053</id>
+    <title>Trade in AI-Related Products</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael E. Waugh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper documents facts about international trade in AI-related products. I develop a large language model (LLM) classification tool that maps HS10 codes in U.S. trade data to products used in the construction and operation of AI infrastructure. AI-related products account for 23 percent of U.S. imports in 2025, and imports of these products have grown by 73 percent since 2023. Over the same period, imports of non-AI-related products have grown by only 3 percent, with the divergence between the two categories beginning in early 2024. Mexico is a key market on both the import and export side, and together with Taiwan these two countries account for about half of all U.S. trade in AI-related products. Trade policy has treated these products lightly with product-level exemptions shielding much of AI-related imports from tariffs. Absent the AI boom, a simple accounting exercise suggests that the U.S. goods trade deficit would have been nearly $200 billion smaller in 2025.</content>
+    <link href="https://www.nber.org/papers/w35053"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35054</id>
+    <title>A Tale of Two Countries – The Real Estate Crises in 1990s Japan and Contemporary China</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kenneth S. Rogoff &amp; Yuanchen Yang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Real estate has long been central to China’s growth model, yet since 2018 its contribution has declined sharply, turning the sector from a key engine of expansion into a major drag on economic activity. While policy tightening might have triggered the downturn, it reflects deeper structural imbalances in a sector that, together with its upstream and downstream linkages and infrastructure, accounts for nearly one-third of aggregate demand. With housing comprising nearly 70 percent of household wealth, the ongoing price correction has generated sizable negative wealth effects, amplifying the contraction through depressed consumption, investment, and sentiment. We document the macroeconomic propagation of China’s real estate downturn and assess the risks of prolonged stagnation should the sector continue to deteriorate. To provide perspective, we compare China’s experience with Japan’s real estate collapse in the 1990s, uncovering striking parallels in investment dynamics and consumption responses despite profound institutional differences. Our findings highlight the importance of real-side channels, including alternative amplification mechanisms (in addition to banking), in generating persistent output losses following real estate busts.</content>
+    <link href="https://www.nber.org/papers/w35054"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35056</id>
+    <title>The Chinese Current Account Imbalances: Puzzles, Patterns, and Possible Causes</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chang Ma &amp; Shang-Jin Wei</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;China's large current account surplus has been an irritant to its trading partners. While industrial and trade policies often lead to sector-level imbalances, they play a relatively limited role in the economy-wide surplus. Structural factors such as an unbalanced sex ratio and uneven access to financing by state-owned and non-state firms are more important determinants of the current account imbalance. While macroeconomic stimulus can boost imports and reduce the surplus in the short run, any long-term solution would need to involve reforms aiming at addressing the structural problems.</content>
+    <link href="https://www.nber.org/papers/w35056"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
@@ -1134,78 +1206,6 @@ The framework identifies a distinct margin of economic behavior—planning under
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Randomized controlled trials (RCTs) provide the most credible estimates of advertising incrementality but are difficult to scale. We propose Predicted Incrementality by Experimentation (PIE), which reframes ad measurement as a campaign-level prediction problem. PIE uses a sample of RCTs to learn a mapping from campaign features to causal effects, then applies it to campaigns not run as RCTs. Because the RCTs identify the causal effects, PIE can incorporate post-determined features—campaign-level aggregates such as test-group outcomes, exposure rates, and last-click conversions, computed after campaign completion. These metrics reflect the consumer behaviors that generate treatment effects, so they carry predictive information about incrementality even though they would be invalid controls in a causal model. Using 2,226 Meta ad experiments, PIE achieves an out-of-sample R2 = 0.88 for incremental conversions per dollar, compared to R2 = 0.19 for industry-standard 7-day last-click attribution. In a decision-making framework, PIE disagrees with RCT-based decisions in only 8–12% of campaigns, compared to 12–20% for last-click attribution. We conclude that PIE can help scale causal measurement from a limited number of RCTs to a large set of non-experimental campaigns.</content>
     <link href="https://www.nber.org/papers/w35044"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35058</id>
-    <title>Wellbeing, Youth and Survey Mode: Comparisons across 23 Countries Using Three International Datasets</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>David G. Blanchflower &amp; Alex Bryson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Although there is growing evidence that the subjective wellbeing among the young declined in recent years, the evidence is not consistent across surveys. We examine the relationship between age and various measures of wellbeing and illbeing across three major surveys – the Gallup World Poll (GWP, Global Minds (GM) and the Global Flourishing Survey (GFS). The GWP is conducted via face-to-face and telephone surveys; GM surveys are web-based; and GFS uses both telephone and web-based surveys. We focus on 23 countries appearing in all three surveys.  The clearest evidence that wellbeing rises with age and illbeing declines with age comes from the web-based surveys in both GM and GFS. The age profiles look very different when surveys are conducted by telephone: the higher rates of illbeing among the young are far less apparent in these surveys. Because survey mode is not randomly assigned, we cannot be sure differences in age profiles of wellbeing and illbeing are causally affected by survey mode. Selection into survey mode, both across and within country, plus differential non-response by survey across the age range, may be playing a role. However, the evidence indicates very different age patterns in wellbeing and illbeing emerge across different survey modes.</content>
-    <link href="https://www.nber.org/papers/w35058"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35057</id>
-    <title>Credit Crunches and the Great Stagflation</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Itamar Drechsler, Alexi Savov &amp; Philipp Schnabl</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We argue that severe credit crunches in the banking system contributed to the Great Stagflation of the 1970s. The credit crunches were due to Regulation Q, a banking law that capped deposit rates. Under Reg Q, Fed tightening triggered large deposit outflows that led banks to contract lending. The credit crunches line up closely with stagflation in the time series. To explain this, we add Reg Q to a standard model where firms use bank loans to finance working capital. When Reg Q binds and credit contracts, working capital becomes more expensive, leading firms to raise prices and shrink output. The model implies an augmented Phillips curve where monetary tightening reduces aggregate supply in addition to demand. The impact on supply is increasing in the severity of the credit crunches, firms' external finance dependence, and their working capital intensity. We test all three predictions in the cross section of manufacturing industries. In each case, we find that more exposed industries raise prices and cut output relative to others. Our results imply that under severe financial frictions monetary policy affects aggregate supply and not just demand.</content>
-    <link href="https://www.nber.org/papers/w35057"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35055</id>
-    <title>The Impacts of Medicaid's Managed Long-Term Services and Supports on Health Outcomes in Medicare</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ajin Lee, Maya Rossin-Slater, Becky Staiger &amp; Amanda Su</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;An aging US population has raised important questions regarding the organization, delivery, and funding of long-term services and supports (LTSS), prompting many state Medicaid programs to shift from fee-for-service to managed care models for LTSS delivery. We analyze the effects of transitioning to managed LTSS (MLTSS) on health outcomes among dual-eligible Medicare-Medicaid beneficiaries aged 65 and older in Florida and New York. Using Medicare claims data and a differences-in-differences design leveraging county-by-county MLTSS rollouts, we find that MLTSS leads to a 4.2 percent increase in hospitalizations in Florida, but no significant change in New York. Analysis of preventive care suggests that declining flu vaccination rates in Florida may have contributed to increased hospitalizations from respiratory causes. These findings highlight important differences in MLTSS effects across states and underscore the value of Medicare data for measuring health effects in the dual-eligible population.</content>
-    <link href="https://www.nber.org/papers/w35055"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35053</id>
-    <title>Trade in AI-Related Products</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael E. Waugh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper documents facts about international trade in AI-related products. I develop a large language model (LLM) classification tool that maps HS10 codes in U.S. trade data to products used in the construction and operation of AI infrastructure. AI-related products account for 23 percent of U.S. imports in 2025, and imports of these products have grown by 73 percent since 2023. Over the same period, imports of non-AI-related products have grown by only 3 percent, with the divergence between the two categories beginning in early 2024. Mexico is a key market on both the import and export side, and together with Taiwan these two countries account for about half of all U.S. trade in AI-related products. Trade policy has treated these products lightly with product-level exemptions shielding much of AI-related imports from tariffs. Absent the AI boom, a simple accounting exercise suggests that the U.S. goods trade deficit would have been nearly $200 billion smaller in 2025.</content>
-    <link href="https://www.nber.org/papers/w35053"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35054</id>
-    <title>A Tale of Two Countries – The Real Estate Crises in 1990s Japan and Contemporary China</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kenneth S. Rogoff &amp; Yuanchen Yang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Real estate has long been central to China’s growth model, yet since 2018 its contribution has declined sharply, turning the sector from a key engine of expansion into a major drag on economic activity. While policy tightening might have triggered the downturn, it reflects deeper structural imbalances in a sector that, together with its upstream and downstream linkages and infrastructure, accounts for nearly one-third of aggregate demand. With housing comprising nearly 70 percent of household wealth, the ongoing price correction has generated sizable negative wealth effects, amplifying the contraction through depressed consumption, investment, and sentiment. We document the macroeconomic propagation of China’s real estate downturn and assess the risks of prolonged stagnation should the sector continue to deteriorate. To provide perspective, we compare China’s experience with Japan’s real estate collapse in the 1990s, uncovering striking parallels in investment dynamics and consumption responses despite profound institutional differences. Our findings highlight the importance of real-side channels, including alternative amplification mechanisms (in addition to banking), in generating persistent output losses following real estate busts.</content>
-    <link href="https://www.nber.org/papers/w35054"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35056</id>
-    <title>The Chinese Current Account Imbalances: Puzzles, Patterns, and Possible Causes</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chang Ma &amp; Shang-Jin Wei</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;China's large current account surplus has been an irritant to its trading partners. While industrial and trade policies often lead to sector-level imbalances, they play a relatively limited role in the economy-wide surplus. Structural factors such as an unbalanced sex ratio and uneven access to financing by state-owned and non-state firms are more important determinants of the current account imbalance. While macroeconomic stimulus can boost imports and reduce the surplus in the short run, any long-term solution would need to involve reforms aiming at addressing the structural problems.</content>
-    <link href="https://www.nber.org/papers/w35056"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
