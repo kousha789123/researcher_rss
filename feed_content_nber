@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-04-19T14:24:44.206147+00:00</updated>
+  <updated>2026-04-19T15:04:55.606496+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -271,18 +271,6 @@
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35003</id>
-    <title>Salience and (Non-)Buyer's Remorse: Optimal Nonlinear Pricing with Cognitively Constrained Consumers</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Aaron L. Bodoh-Creed, Brent R. Hickman, John A. List, Ian Muir &amp; Gregory K. Sun</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nonlinear pricing theory predicts that firms can extract surplus by inducing heterogeneous consumers to self-sort across price contract offers that are ex-post optimal for them. We study subscription pricing when the frictionless sorting assumption fails. Using large-scale subscription experiments conducted by Lyft, we document systematic deviations from optimal self-selection: many high-demand consumers decline subscriptions that would have saved them money, while some subscribers fail to break even. We develop a structural model of intensive-margin demand in which consumers may exhibit salience failures, forecast errors about future demand, or impulsivity. We show that subscription uptake can be recast as one-sided noncompliance in a binary-instrument framework, allowing us to leverage LATE methods to identify counterfactual outcome distributions and a novel “uptake function” linking baseline outcomes to compliance behavior. Combining experimental price variation with this identification strategy, we recover utility primitives, demand heterogeneity, and behavioral parameters. Salience failures and forecast errors play quantitatively important roles. Counterfactual analyses show that optimal subscription pricing generates substantial gains relative to linear pricing, but these gains are highly sensitive to consumer deviations from ex-post optimal choice. Implementing nonlinear pricing therefore requires not only optimal contract design for consumer screening, but also coordinated efforts to mitigate behavioral frictions.</content>
-    <link href="https://www.nber.org/papers/w35003"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35004</id>
     <title>Using Global Shocks to Understand the Level and Structure of Executive Compensation</title>
     <updated>2026-03-01T00:00:00+00:00</updated>
@@ -291,6 +279,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a model of CEO compensation that unites principal-agent and assignment models in the face of trade shocks that interact with CEO effort.  The model predicts that trade shocks change CEO compensation through scale, volatility, and ability-magnification channels. Using Danish matched worker-firm data, we find empirical support for these channels: (1) Exogenous shocks to trade increase the size and value of the firm and CEO compensation;  (2) the share of firm value paid to the CEO is increasing in the size and value of the firm and increasing in the volatility induced by global shocks; (3) Higher-ability CEOs generate increases in firm value that are more than 100 times greater than their compensation, through a combination of mitigating losses and maximizing the return to positive shocks.</content>
     <link href="https://www.nber.org/papers/w35004"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35003</id>
+    <title>Salience and (Non-)Buyer's Remorse: Optimal Nonlinear Pricing with Cognitively Constrained Consumers</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Aaron L. Bodoh-Creed, Brent R. Hickman, John A. List, Ian Muir &amp; Gregory K. Sun</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Nonlinear pricing theory predicts that firms can extract surplus by inducing heterogeneous consumers to self-sort across price contract offers that are ex-post optimal for them. We study subscription pricing when the frictionless sorting assumption fails. Using large-scale subscription experiments conducted by Lyft, we document systematic deviations from optimal self-selection: many high-demand consumers decline subscriptions that would have saved them money, while some subscribers fail to break even. We develop a structural model of intensive-margin demand in which consumers may exhibit salience failures, forecast errors about future demand, or impulsivity. We show that subscription uptake can be recast as one-sided noncompliance in a binary-instrument framework, allowing us to leverage LATE methods to identify counterfactual outcome distributions and a novel “uptake function” linking baseline outcomes to compliance behavior. Combining experimental price variation with this identification strategy, we recover utility primitives, demand heterogeneity, and behavioral parameters. Salience failures and forecast errors play quantitatively important roles. Counterfactual analyses show that optimal subscription pricing generates substantial gains relative to linear pricing, but these gains are highly sensitive to consumer deviations from ex-post optimal choice. Implementing nonlinear pricing therefore requires not only optimal contract design for consumer screening, but also coordinated efforts to mitigate behavioral frictions.</content>
+    <link href="https://www.nber.org/papers/w35003"/>
     <category term="NBER"/>
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
