@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-22T11:29:16.127156+00:00</updated>
+  <updated>2026-04-22T15:18:14.724524+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -367,18 +367,6 @@
     <published>2026-04-16T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/1475-679x.70060</id>
-    <title>Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?</title>
-    <updated>2026-04-16T00:00:00+00:00</updated>
-    <author>
-      <name>Yue Qi, Timothy A. Seidel, Joseph H. Zhang, Junsheng Zhang</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;The engagement quality review is a key component of an audit firm's quality control system. This study leverages unique data on individual engagement quality reviewers (EQRs) to examine how previous shared working experience between EQRs and engagement partners affects audit quality. While prior research suggests that within‐firm network ties between predecessor and successor partners facilitate knowledge transfer, we find that prior shared working experience between EQRs and engagement partners is associated withloweraudit quality. Mechanism tests indicate that such experience is associated with a higher likelihood of regulatory enforcement actions related to deficiencies in audit procedures, insufficient evidence, and a lack of professional skepticism. We also find that such experience corresponds with higher materiality thresholds, suggesting reduced scrutiny during audit planning and execution. Additional analyses reveal that these adverse effects primarily arise when previous shared working relationships did not produce adverse outcomes, when EQRs are not audit industry leaders, and when they face lower reputational risk. These findings are especially salient given that EQRs’ previous shared working experience with engagement partners appears to weigh heavily in EQR assignments. Overall, our study provides important insights into the implications of EQR independence and the determinants of engagement quality review effectiveness.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70060"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-04-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1111/1475-679x.70052</id>
     <title>Human + AI in Accounting: Early Evidence from the Field</title>
     <updated>2026-04-16T00:00:00+00:00</updated>
@@ -387,6 +375,18 @@
     </author>
     <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;This paper provides early evidence on the integration and impact of generative artificial intelligence (GenAI) in accounting at the accountant and task levels. Using survey data from 277 professional accountants, we document substantial heterogeneity in adoption patterns, perceived benefits, and concerns about GenAI. Using proprietary field data from an AI‐enabled accounting platform serving 79 small‐ and medium‐sized enterprises, we analyze over 200,000 transaction‐level records. We document that GenAI adoption is associated with significant productivity gains and systematic reallocation of effort away from routine data entry toward business communication and quality assurance tasks. GenAI use is also associated with improvements to financial reporting quality, evidenced by more granular ledgers and faster month‐end closing. Examining human–AI interaction, we find that accountants selectively intervene when AI confidence scores are low, consistent with complementarity between professional expertise and AI. A framed field experiment further shows that while AI assistance improves classification accuracy on average, reliance on non‐consensus AI recommendations can increase the risk of error. Overall, our findings highlight both the promise and the risks of GenAI in accounting and suggest that, in practice, AI is most effective as a tool that augments—rather than replaces—professional judgment.</content>
     <link href="https://doi.org/10.1111/1475-679x.70052"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70060</id>
+    <title>Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?</title>
+    <updated>2026-04-16T00:00:00+00:00</updated>
+    <author>
+      <name>Yue Qi, Timothy A. Seidel, Joseph H. Zhang, Junsheng Zhang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;The engagement quality review is a key component of an audit firm's quality control system. This study leverages unique data on individual engagement quality reviewers (EQRs) to examine how previous shared working experience between EQRs and engagement partners affects audit quality. While prior research suggests that within‐firm network ties between predecessor and successor partners facilitate knowledge transfer, we find that prior shared working experience between EQRs and engagement partners is associated withloweraudit quality. Mechanism tests indicate that such experience is associated with a higher likelihood of regulatory enforcement actions related to deficiencies in audit procedures, insufficient evidence, and a lack of professional skepticism. We also find that such experience corresponds with higher materiality thresholds, suggesting reduced scrutiny during audit planning and execution. Additional analyses reveal that these adverse effects primarily arise when previous shared working relationships did not produce adverse outcomes, when EQRs are not audit industry leaders, and when they face lower reputational risk. These findings are especially salient given that EQRs’ previous shared working experience with engagement partners appears to weigh heavily in EQR assignments. Overall, our study provides important insights into the implications of EQR independence and the determinants of engagement quality review effectiveness.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70060"/>
     <category term="Journal of Accounting Research"/>
     <published>2026-04-16T00:00:00+00:00</published>
   </entry>
@@ -953,6 +953,90 @@
     <link href="https://doi.org/10.1287/isre.2024.1004"/>
     <category term="Information Systems Research"/>
     <published>2026-04-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05302</id>
+    <title>Does the Financial Experience of SEC Regional Directors Impact SEC Investigations?</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>James Justin Blann</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The U.S. Security and Exchange Commission’s (SEC’s) Division of Enforcement is frequently criticized for its ineffective oversight, and certain vocal critics attribute this to a lack of financial experience within the SEC. Using novel hand-collected data on SEC regional directors, I find that most of these senior SEC officials lack practical financial experience. I then use a staggered difference-in-differences research design and find that directors with financial experience open 62% more investigations (i.e., four to five additional investigations per office-year). This result is consistent with their financial experience impacting investigations. Additional analyses reveal that this effect is stronger when financial acumen likely matters more and that financial directors conduct more efficient and consequential investigations. Importantly, these results do not appear to be explained by the experience of other directors or by financial regional directors handling more cases. This study answers recent calls for more research on individual regulators and presents timely evidence as the SEC seeks to improve its investigation process. More generally, these findings provide new insights into the SEC’s oversight process and should be of interest to regulators and market participants concerned with the SEC’s policing of financial misreporting.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.05302 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05302"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05665</id>
+    <title>Revenue Management Under a Price Alert Mechanism</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Bo Jiang, Zizhuo Wang, Nanxi Zhang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Many online platforms adopt a price alert mechanism to facilitate customers tracking price changes. This mechanism allows customers to register their valuation with the system if they find the price higher than their valuation. Once the price drops below the customers’ registered price, a message is sent to notify customers. This paper formulates the interaction between the seller and customers as a Markov decision process. We assume customers are patient and are willing to wait for K additional periods for the price to drop if the current price is high. We first analyze the model in which [Formula: see text] and find that the seller’s optimal policy has three properties: (i) the threshold property by which the seller uses a threshold to decide whether to accept or reject a registered price, (ii) the price-at-register property by which the seller sets the price at the customer’s registered level if the registered price exceeds the threshold, and (iii) the cyclic decreasing property by which the price trajectory under the optimal policy has a stochastic cyclic decreasing structure. Modified versions of these properties still hold for the general model in which K is large or when the waiting time is heterogeneous among customers. On the policy computation side, we propose a heuristic pricing policy based on the price-at-register property. Numerical results show that the policy achieves near-optimal performance on all cases tested. We also observe that the impact of the value of K on the optimal revenue is almost negligible in many cases, and this ensures that the policies derived under our model are robust to the misspecification of K. This policy can also be adapted to the model in which customer patience is different and achieves near-optimal performance. Lastly, we show the impact of the price alert mechanism on seller’s revenue, customer surplus, and social welfare.This paper was accepted by Omar Besbes, revenue management and market analytics.Funding: B. Jiang’s research is partially supported by the National Natural Science Foundation of China (NSFC) [Grants 72394364, 72171141, 72394363, and 72442013]. Z. Wang’s research is partially supported by the National Natural Science Foundation of China (NSFC) [Grants 72394361 and 72425013], the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [2023B1212010001], and the 1+1+1 CUHK-CUHK(SZ)-GDSTC Joint Collaboration Fund [2025A0505000079].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05665 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05665"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01176</id>
+    <title>Willful Ignorance and Moral Behavior</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Raphael Epperson, Andreas Gerster</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Consumers’ willful ignorance about the consequences of their actions may impede moral behavior. We test this concern in a real-world context based on a laboratory experiment and field data. We find that willful ignorance about farming practices increases consumption of meat from intensive farming, both in the laboratory and at university canteens. Individuals who prefer to avoid costless evidence are particularly responsive to it, yet their behavioral response vanishes within two weeks. Both findings demonstrate how difficult it is for organizations and governments to address willful ignorance through information interventions.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This work was funded by the Austrian Science Fund [Grant 10.55776/F63] and the Deutsche Forschungsgemeinschaft [Grant CRC TR 224].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01176 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01176"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04608</id>
+    <title>Investing in Lending Technology: IT Spending in Banking</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Zhiguo He, Sheila Jiang, Douglas Xu, Xiao Yin</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Banks’ lending technology hinges on their handling of soft and hard information in dealing with different types of credit demand. Through assembling a novel data set on banks’ investment in information technologies (IT), this paper provides concrete empirical evidence on how banks adapt their lending technologies. We find investment in communication IT is associated with improving banks’ ability to produce and transmit soft information, whereas investment in software IT helps enhance banks’ hard information processing capacity. We exploit policies that affect geographic regions differentially to show causally that banks respond to an increased demand for small business credit (mortgage refinance) by increasing their spending on communication (software) IT spending. We also find that the entry of fintech induces commercial banks to increase their investment in IT—more so in the software IT category.This paper was accepted by Bo Becker, finance.Funding: Z. He acknowledges financial support from the John E. Jeuck Endowment at the University of Chicago Booth School of Business, as most of the work was done while he worked at the University of Chicago.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04608 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04608"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00163</id>
+    <title>The Value of Logistic Flexibility in E-commerce</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Bing Bai, Tat Y. Chan, Dennis J. Zhang, Fuqiang Zhang, Yujie Chen, Haoyuan Hu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Shipping experience improvement has been an essential business strategy in e-commerce. Beyond investing directly in improving shipping speed, online retailers have recently expanded their focus on other shipping strategies, such as offering consumers the option to pick up orders at a local station. This paper uses the opening of hundreds of such pickup stations as a natural experiment to study the impact of these stations on consumers. We find that the introduction of pickup stations increased total sales by [Formula: see text]. In contrast with past literature, we show that shipping time reduction is not the driving factor in the impact of pickup stations. Yet, the logistic flexibility introduced by pickup stations explains the sales impact. To explicitly examine how logistic flexibility affects consumers’ decisions on purchases, we develop and estimate a structural model of consumer choice. In our model, consumers value two types of logistics flexibility—the flexibility to pick up their items at their preferred times, referred to as the value of preferred time flexibility, and the flexibility to delay pickup decisions to the last moment, referred to as the value of last-minute choice flexibility. We show that the value of preferred time flexibility accounts for [Formula: see text] of the impact on sales, whereas the value of last-minute choice flexibility accounts for the remaining [Formula: see text]. Using our estimated model, we develop a counterfactual strategy in building pickup stations that could achieve the sales lift with [Formula: see text]–[Formula: see text] fewer stations. Last but not least, using our estimated time flexibility, we also develop a novel shipping strategy without pickup stations that could improve sales by [Formula: see text]. Our estimates suggest that our counterfactual logistic strategies could increase consumer welfare by [Formula: see text]–[Formula: see text].This paper was accepted by Elena Katok, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00163 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00163"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04308</id>
+    <title>Distributionally Robust Group Testing with Correlation Information</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel Zhuoyu Long, Jin Qi, Yu Sun, Aiqi Zhang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Motivated by the need for more efficient and reliable methods of group testing during widespread infectious outbreaks, this paper introduces a novel operational improvement to the widely used Dorfman’s group testing procedure, where a single test is conducted on the pooled sample, followed by individual testing of positive pools. Our method minimizes a weighted sum of testing volume and misclassifications, taking prevalence rates and interindividual Pearson correlation coefficients as inputs, and employs a distributionally robust optimization (DRO) framework to address the ambiguity in the joint infection distribution induced by these correlations. We study two correlation structures within a population. In single-cluster cases, where all subject pairs share equal correlation, we connect our analysis to Nash equilibrium principles and show that higher correlation favors larger testing groups, whereas higher prevalence often calls for individual testing. In multicluster cases, where the population consists of several intracorrelated but interindependent clusters, we highlight the effectiveness of mixed-cluster testing strategies, particularly under low prevalence and correlation. This is a notable addition to the prevailing view that advocates pooling correlated individuals. We provide polynomial-time solutions for both correlation structures and demonstrate the trade-offs and benefits of our DRO approach through a thorough comparison with stochastic alternatives. Using a case study based on a real-world COVID-19 data set, we show that our proposed pooling strategy can save up to 0.1 tests per individual compared with an independence-based pooling scheme and up to 0.5 tests per individual compared with a heuristic pooling strategy implemented in the studied region.This paper was accepted by Jeannette Song, operations management.Funding: This research was supported by the National Natural Science Foundation of China [Grants 72293582 and 72422005], the Hong Kong Research Grants Council [Collaborative Research Fund C6103-20GF, General Research Fund 14210523, 16209923, and 16213424], and the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2024-05910 and DGECR-2024-00094].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04308 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04308"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1143</id>
+    <title>From Lexicons to Large Language Models: A Holistic Evaluation of Psychometric Text Analysis in Social Science Research</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Reza Mousavi, Brent Kitchens, Abbie Griffith Oliver, Ahmed Abbasi</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Research Spotlight AbstractExtracting psychological insights from text is vital for modern analytics, yet organizations often rely on analysis tools that are either biased and simplistic or prohibitively expensive to build. Our research demonstrates that Large Language Models (LLMs) offer a superior alternative. They match the accuracy of specialized artificial intelligence (AI), while significantly reducing costs and technical barriers. Crucially for policy considerations, we find LLMs are statistically fairer than traditional methods. In our tests, they reduced racial and gender bias by up to 60%. Beyond assessing performance, we introduce a practical technique called “cognitive-affective prompting.” By instructing the AI to adopt specific human strengths, such as using “superior reasoning” for complex tasks or “emotional intelligence” for sentiment analysis, practitioners can boost accuracy by over 10%. To facilitate adoption, we provide a user-friendly “cookbook” to help nonexperts apply these findings immediately. For policymakers and business leaders, this research validates LLMs as a robust, consistent, and equitable standard for analyzing human behavior at scale.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1143"/>
+    <category term="Information Systems Research"/>
+    <published>2026-04-22T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10422587261441596</id>
