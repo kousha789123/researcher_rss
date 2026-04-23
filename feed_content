@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-22T19:15:28.449791+00:00</updated>
+  <updated>2026-04-23T11:26:13.710608+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -367,18 +367,6 @@
     <published>2026-04-16T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/1475-679x.70060</id>
-    <title>Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?</title>
-    <updated>2026-04-16T00:00:00+00:00</updated>
-    <author>
-      <name>Yue Qi, Timothy A. Seidel, Joseph H. Zhang, Junsheng Zhang</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;The engagement quality review is a key component of an audit firm's quality control system. This study leverages unique data on individual engagement quality reviewers (EQRs) to examine how previous shared working experience between EQRs and engagement partners affects audit quality. While prior research suggests that within‐firm network ties between predecessor and successor partners facilitate knowledge transfer, we find that prior shared working experience between EQRs and engagement partners is associated withloweraudit quality. Mechanism tests indicate that such experience is associated with a higher likelihood of regulatory enforcement actions related to deficiencies in audit procedures, insufficient evidence, and a lack of professional skepticism. We also find that such experience corresponds with higher materiality thresholds, suggesting reduced scrutiny during audit planning and execution. Additional analyses reveal that these adverse effects primarily arise when previous shared working relationships did not produce adverse outcomes, when EQRs are not audit industry leaders, and when they face lower reputational risk. These findings are especially salient given that EQRs’ previous shared working experience with engagement partners appears to weigh heavily in EQR assignments. Overall, our study provides important insights into the implications of EQR independence and the determinants of engagement quality review effectiveness.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70060"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-04-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1111/1475-679x.70052</id>
     <title>Human + AI in Accounting: Early Evidence from the Field</title>
     <updated>2026-04-16T00:00:00+00:00</updated>
@@ -387,6 +375,18 @@
     </author>
     <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;This paper provides early evidence on the integration and impact of generative artificial intelligence (GenAI) in accounting at the accountant and task levels. Using survey data from 277 professional accountants, we document substantial heterogeneity in adoption patterns, perceived benefits, and concerns about GenAI. Using proprietary field data from an AI‐enabled accounting platform serving 79 small‐ and medium‐sized enterprises, we analyze over 200,000 transaction‐level records. We document that GenAI adoption is associated with significant productivity gains and systematic reallocation of effort away from routine data entry toward business communication and quality assurance tasks. GenAI use is also associated with improvements to financial reporting quality, evidenced by more granular ledgers and faster month‐end closing. Examining human–AI interaction, we find that accountants selectively intervene when AI confidence scores are low, consistent with complementarity between professional expertise and AI. A framed field experiment further shows that while AI assistance improves classification accuracy on average, reliance on non‐consensus AI recommendations can increase the risk of error. Overall, our findings highlight both the promise and the risks of GenAI in accounting and suggest that, in practice, AI is most effective as a tool that augments—rather than replaces—professional judgment.</content>
     <link href="https://doi.org/10.1111/1475-679x.70052"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70060</id>
+    <title>Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?</title>
+    <updated>2026-04-16T00:00:00+00:00</updated>
+    <author>
+      <name>Yue Qi, Timothy A. Seidel, Joseph H. Zhang, Junsheng Zhang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;The engagement quality review is a key component of an audit firm's quality control system. This study leverages unique data on individual engagement quality reviewers (EQRs) to examine how previous shared working experience between EQRs and engagement partners affects audit quality. While prior research suggests that within‐firm network ties between predecessor and successor partners facilitate knowledge transfer, we find that prior shared working experience between EQRs and engagement partners is associated withloweraudit quality. Mechanism tests indicate that such experience is associated with a higher likelihood of regulatory enforcement actions related to deficiencies in audit procedures, insufficient evidence, and a lack of professional skepticism. We also find that such experience corresponds with higher materiality thresholds, suggesting reduced scrutiny during audit planning and execution. Additional analyses reveal that these adverse effects primarily arise when previous shared working relationships did not produce adverse outcomes, when EQRs are not audit industry leaders, and when they face lower reputational risk. These findings are especially salient given that EQRs’ previous shared working experience with engagement partners appears to weigh heavily in EQR assignments. Overall, our study provides important insights into the implications of EQR independence and the determinants of engagement quality review effectiveness.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70060"/>
     <category term="Journal of Accounting Research"/>
     <published>2026-04-16T00:00:00+00:00</published>
   </entry>
@@ -509,102 +509,6 @@
     <link href="https://doi.org/10.1177/01492063261434193"/>
     <category term="Journal of Management"/>
     <published>2026-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261442860</id>
-    <title>EXPRESS: Waiting Time Externality Awareness in Socially Responsible Queueing</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Legros, Johan S.H. van Leeuwaarden</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In service systems, customers tend to overutilize resources, resulting in high congestion. We study a noncoercive way to alleviate congestion based on customers’ awareness of the negative waiting externalities they impose. To this end, we revisit Naor’s rational-queue model by adding a term that captures the cost a customer associates with the waiting time generated for other customers encountered during their sojourn. First, we show that this modification preserves the threshold structure of customers’ joining strategy. Using lattice-path counting techniques, we derive a closedform expression for the expected generated waiting time, conditional on the number of customers observed upon arrival. The generated wait is increasing and concave in the queue length at arrival. Viewing expected waiting time as allocated across arrivals, the queue length associated with an arbitrary unit of expected generated waiting time is first-order stochastically lower than the queue length associated with a unit of expected personal waiting time. We prove that the maximum generated wait is increasing and convex in the joining threshold and provide tight bounds with exact light/heavy traffic asymptotics. Internalizing social awareness (weight on generated wait) lowers the joining threshold and reduces waiting; in high-demand regimes, it can also increase social welfare. When the operator can also influence the weight on personal wait, that lever reduces congestion more strongly than waiting externality awareness. Finally, we quantify the awareness level needed to reach Naor’s social threshold and show that it is lowest at a non-extreme demand level.</content>
-    <link href="https://doi.org/10.1177/10591478261442860"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261442695</id>
-    <title>EXPRESS: Scheduling Additive Manufacturing Systems: Complexity and Algorithms to Minimize the Number of Late Parts</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Michael D. Stott, Chelliah Sriskandarajah, Jon M. Stauffer</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Additive Manufacturing (AM) is a process by which three-dimensional products are made via the addition of material in a layer-by-layer fashion. This manufacturing technique is growing in commercial usage given its advantages in creating very dense or complex geometries as well as highly customizable components. In healthcare, for example, AM can be used to improve patient outcomes by providing timely medical devices (or parts) required for treatments. Minimizing the number of late parts in this context will directly improve the patients’ welfare. This paper studies the nesting and scheduling problem within the AM context and shows the problem of minimizing the number of late parts is strongly NP-hard even if the nesting of parts-into-jobs is given. We also develop efficient algorithms to minimize the number of late parts, both when nesting is fixed beforehand and when nesting is part of the algorithm. The theoretical results, including algorithm performance bounds, developed in this paper are new contributions to the literature. An extensive computational study evaluates the performance of both algorithms. The nesting and scheduling algorithm performs within 7% of the lower bound on average and shows an effective way to nest and schedule systems containing challenging problem instances. Providing efficient, high-performing algorithms such as these will allow AM managers to quickly schedule parts for AM production with a minimum number of late parts and consequently improve both customer satisfaction and profitability of the firm.</content>
-    <link href="https://doi.org/10.1177/10591478261442695"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.1575</id>
-    <title>Beyond O(T) Regret: Decoupling Learning and Decision Making in Online Linear Programming</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Wenzhi Gao, Dongdong Ge, Chunlin Sun, Chenyu Xue, Yinyu Ye</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Breaking the [Formula: see text] Barrier in Online Linear ProgrammingHow can fast first-order methods for online linear programming (OLP) match the performance of more computationally intensive LP-based approaches? In the paper “Beyond [Formula: see text] Regret: Decoupling Learning and Decision Making in Online Linear Programming,” the authors develop a new framework that improves the regret guarantees of scalable first-order algorithms for online linear programming. They show that when the dual problem satisfies a mild error bound condition, first-order methods can achieve [Formula: see text] regret, including [Formula: see text] in continuous support settings and [Formula: see text] in finite support settings. The key insight is to decouple learning and decision making. The algorithm first learns an approximate dual solution and then localizes decisions to a neighborhood around that solution using an adaptive procedure. This decoupling narrows the gap between efficient gradient-based methods and LP-based benchmarks, providing strong theoretical guarantees while maintaining scalability for applications such as revenue management, online advertising, and cloud computing.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1575"/>
-    <category term="Operations Research"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07224</id>
-    <title>Waiting for the Right Offer: Laboratory Evidence on How News Affects Bargaining</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Tingting Ding, Steven F. Lehrer</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We conduct a series of laboratory experiments to examine whether the gradual exogenous revelation of sellers’ private information influences the occurrence of trades in a bilateral bargaining setting with a static lemon condition. We find that, although information does not increase efficiency, it reduces the likelihood that buyers incur losses when trading with low-quality sellers. Anticipating that additional signals will arrive, buyers hesitate to finalize deals immediately and exhibit a “waiting for news” effect, making sizable offer adjustments only when sufficient positive signals have accumulated. In contrast, informed sellers are less sensitive to news but appear to wait for the offer that they deem acceptable.This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Funding: T. Ding initiated this project while at the Shanghai University of Finance and Economics and thanks the National Natural Science Foundation of China [Grant 72173076] for financial support. S. F. Lehrer thanks the Social Science and Humanities Research Council of Canada for research support.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07224 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07224"/>
-    <category term="Management Science"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03042</id>
-    <title>Responsible Investment and Responsible Consumption</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Hendrik Hakenes, Eva Schliephake</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Should households focus on responsible investment (SRI) or responsible consumption (SRC) to mitigate externalities? Using a general equilibrium model linking product and capital markets, we show that neither strategy is efficient on its own—each shifts prices and triggers offsetting market responses. Combining SRI and SRC neutralizes these effects and maximizes impact. This complementarity holds across diverse settings, even when SRI alone would have negligible impact. The effectiveness of green finance, therefore, critically depends on households acting as both investors and consumers.This paper was accepted by Bo Becker, finance.Funding: This work was supported by Germany’s Excellence Strategy [Grant EXC 2126/1-39083886], Deutsche Forschungsgemeinschaft [Grant CRC TR224 project C03], and the Portuguese Foundation of Science and Technology [Grant PTDC/EGE-ECO/6041/2020].</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03042"/>
-    <category term="Management Science"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261443286</id>
-    <title>EXPRESS: Extended Reality in Business-to-Business Sales: Performance Implications, Adoption Drivers, and Contingency Effects</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>Janina Mettler, Aline Lanzrath, Christian Homburg</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Extended reality (XR) technologies hold the potential to transform buyer–seller relationships in business-to-business (B2B) sales. Yet, the consequences, antecedents, and contingency effects of XR integration in B2B organizations remain underexplored. Drawing on multimethod evidence, including a prestudy, quasi-experimental field data (Studies 1a and 1b), a cross-industry salesperson survey (Study 2a), and between-subjects experiments with B2B salespeople (Study 2b) and buyers (Study 3), the authors find that XR improves buyer- and seller-related outcomes (e.g., loyalty, upselling) by strengthening customers’ mental imagery ability, ultimately improving sales success. However, the findings reveal contingencies: XR is most successful for complex, haptic products, with benefits holding across face-to-face and remote meetings. On the buyer side, any incremental information load associated with XR is modest and, where present, outweighed by imagery-mediated gains. On the seller side, however, XR can increase role stress, while an adaptive selling orientation attenuates this effect. Beyond outcomes, the authors examine adoption drivers and inhibitors at the individual and technology-utility levels and highlight organizational innovativeness and salespeople’s XR experience as contingencies. Overall, the findings specifywhen, why, andhowXR creates value in B2B sales and how firms can implement it to maximize customer engagement and sales while safeguarding salespeople’s well-being.</content>
-    <link href="https://doi.org/10.1177/00222429261443286"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70033</id>
-    <title>Leader‐Follower Dynamics in Shareholder Activism</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>DORUK CETEMEN, GONZALO CISTERNAS, AARON KOLB, S. VISWANATHAN</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We propose a theory of coordination and influence among blockholders. Privately informed activists time their trades in sequence to lower acquisition costs, prompting a strategic use of order flows: leader activists create trading gains for their followers, ultimately influencing their willingness to bear greater value‐enhancing intervention costs. Through this channel, informed trades can exhibit predictability, in sharp contrast with Kyle (1985,Econometrica53, 1315–1335). We explain how this novel predictability shapes free‐rider problems affecting governance, and how it produces price abnormalities analogous to those documented empirically. We also uncover how private information interdependence can be a key catalyst for the mechanism studied.</content>
-    <link href="https://doi.org/10.1111/jofi.70033"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-04-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/1475-679x.70049</id>
-    <title>Fixed Pay for Output or Time? Implications for Work Speed and Quality</title>
-    <updated>2026-04-02T00:00:00+00:00</updated>
-    <author>
-      <name>CAROLYN DELLER, SANTIAGO GALLINO</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;This paper explores the influence of two fixed payment arrangements—time‐based and output‐based wages—on worker behavior and performance in a multidimensional task setting. We examine how these wages affect the time workers spend on individual units of a task and their work quality. We contend that fixed compensation schemes can implicitly communicate standards of acceptable work. Our empirical evidence from MTurk experiments and a laboratory experiment indicates that workers on output‐based wages deliver higher quality and spendmoretime on individual units than their time‐based counterparts. These findings are consistent with output‐based wages, implying a standard of acceptable quality—without a conflicting standard of speed—to which workers respond. Our results emphasize the power of implicit cues from fixed compensation schemes and offer insights for employers, suggesting the choice between output‐ and time‐based wages should be informed by whether quality or turnaround time is valued more.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70049"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-04-02T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70090</id>
@@ -955,6 +859,18 @@
     <published>2026-04-21T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/rfs/hhag043</id>
+    <title>The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Falk Bräuning, Hillary Stein</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Using confidential microdata, we show that shocks to primary dealers’ constraints have significant effects on the U.S. Treasury securities market. We consider two types of constraints: the supplementary leverage ratio and trading desk value-at-risk constraints. In response to tighter constraints, dealers reduce their Treasury positions, triggering a reduction in aggregate turnover and an increase in dealer intermediation margin. Impaired intermediation also amplifies the yield response to net demand shifts and weakens Treasury auction outcomes. Our estimates suggest that the (shadow) cost of dealer constraints is as high as 9% of dealers’ profit margins. (JEL G10, G12, G18, G21)</content>
+    <link href="https://doi.org/10.1093/rfs/hhag043"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05302</id>
     <title>Does the Financial Experience of SEC Regional Directors Impact SEC Investigations?</title>
     <updated>2026-04-22T00:00:00+00:00</updated>
@@ -1060,6 +976,18 @@
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Research Spotlight AbstractExtracting psychological insights from text is vital for modern analytics, yet organizations often rely on analysis tools that are either biased and simplistic or prohibitively expensive to build. Our research demonstrates that Large Language Models (LLMs) offer a superior alternative. They match the accuracy of specialized artificial intelligence (AI), while significantly reducing costs and technical barriers. Crucially for policy considerations, we find LLMs are statistically fairer than traditional methods. In our tests, they reduced racial and gender bias by up to 60%. Beyond assessing performance, we introduce a practical technique called “cognitive-affective prompting.” By instructing the AI to adopt specific human strengths, such as using “superior reasoning” for complex tasks or “emotional intelligence” for sentiment analysis, practitioners can boost accuracy by over 10%. To facilitate adoption, we provide a user-friendly “cookbook” to help nonexperts apply these findings immediately. For policymakers and business leaders, this research validates LLMs as a robust, consistent, and equitable standard for analyzing human behavior at scale.</content>
     <link href="https://doi.org/10.1287/isre.2024.1143"/>
     <category term="Information Systems Research"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.70074</id>
+    <title>Looking Back and Looking Forward: Thirty Years of Evidence on Strategic HRM Systems and Performance (1995–2025)</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaoxuan Zhai, Cherrie Jiuhua Zhu, Mingqiong Mike Zhang</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Research on how to leverage high‐performance work systems (HPWS) and other strategic human resource management (HRM) systems to improve performance outcomes has long been a cornerstone of the HRM discipline. This study offers a comprehensive mapping of the field through bibliometric analysis and a thematic synthesis of 3503 peer‐reviewed articles published across 156 leading journals from 1995 to 2025. By revisiting the HRM‐performance relationship and tracing the evolving trajectories of scholarly inquiry, the review identifies four major thematic domains: (1) configurational HRM architectures, (2) multilevel HRM‐performance impacts, (3) “black box” mechanisms that mediate and moderate the HRM‐performance link, and (4) emerging topics in HRM systems in responding to crises and socio‐technological changes. The review finds evidence for complex transmitting patterns through which HRM systems improve performance, characterized by a horizontally interwoven and vertically multi‐level nature. The study addresses longstanding conceptual fragmentation by clarifying the structure and theorization of HRM systems and contributes a synthesized framework to guide future research. It also highlights promising but underexplored avenues, such as the role of algorithmic HRM, methodological pluralism, and configurational logics, in advancing the understanding of HRM‐performance dynamics. Practical implications are elaborated, translating theoretical findings into actionable guidance for practitioners.</content>
+    <link href="https://doi.org/10.1002/hrm.70074"/>
+    <category term="Human Resource Management"/>
     <published>2026-04-22T00:00:00+00:00</published>
   </entry>
   <entry>
