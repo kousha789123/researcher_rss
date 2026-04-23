@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-04-23T11:27:12.850612+00:00</updated>
+  <updated>2026-04-23T15:17:58.203779+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w35001</id>
+    <title>Screening with Cash Deposits in Digital Credit Markets</title>
+    <updated>2026-03-01T00:00:00+00:00</updated>
+    <author>
+      <name>Paul Gertler, Brett Green &amp; Catherine Wolfram</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study a loan contract that requires borrowers to make a temporary cash deposit prior to disbursement, which is fully refunded and does not alter repayment incentives. In a randomized controlled trial with a digital lender, applicants are offered otherwise identical loans with or without a deposit. The deposit requirement reduces loan take-up but substantially improves repayment and lender profitability. The results indicate that deposits screen borrowers on both observable and unobservable characteristics. Higher-risk borrowers are less likely to take up deposit loans, and among borrowers with the same observable risk profile, those who accept deposit loans repay at higher rates, with the largest differences among low-risk borrowers. These findings show that simple contract features can complement data-driven credit models by adding an additional screening margin.</content>
+    <link href="https://www.nber.org/papers/w35001"/>
+    <category term="NBER"/>
+    <published>2026-03-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35000</id>
     <title>Decoupling Dollar and Treasury Privilege</title>
@@ -63,18 +75,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper presents the results of three field experiments testing interventions designed to increase engagement and improve learning during remote schooling. Since the COVID-19 pandemic, the use of remote learning when schooling is interrupted has become more common, prompting educators to ask: How can we better engage students during remote instruction? This is especially salient because much of what we know about student engagement is based on in-person schooling, not virtual instruction. In the first experiment, we find that personalized phone calls increased families’ likelihood of registering for a virtual summer schooling program in Chicago Public Schools, the pre-specified primary outcome. In the second experiment, we find sending weekly text messages had no effect on students’ summer days absent and usage of Khan Academy, the primary outcomes; in analyses of secondary outcomes, we find that the weekly text messages increased students’ likelihood of passing their summer math course. In the third experiment, we find adding an instructional aide to supplement classroom teachers had no effect on the primary outcomes of summer days absent and usage of Khan Academy; in analyses of secondary outcomes, we find beneficial impacts in the following school year on students’ math grades and passing rates.</content>
     <link href="https://www.nber.org/papers/w34996"/>
-    <category term="NBER"/>
-    <published>2026-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35018</id>
-    <title>Trade, Labor Market Concentration, and Wages</title>
-    <updated>2026-03-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mayara Felix</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I estimate the effect of trade on local labor market concentration and its implications for wages using employer-employee linked data and tariff shocks from Brazil’s trade liberalization. Trade increased concentration by 7%, an effect driven by firm exit and worker flows to surviving import-competing firms. Increased concentration reduced wage take-home shares—estimated at 50 cents on the dollar pre-shock—enough to offset small wage gains from reallocation, but did not meaningfully reduce wages on net. Most of the wage declines attributed to Brazil's trade liberalization resulted instead from reductions in the marginal revenue product of labor. Incorporating informality reveals substantial regional heterogeneity.</content>
-    <link href="https://www.nber.org/papers/w35018"/>
     <category term="NBER"/>
     <published>2026-03-01T00:00:00+00:00</published>
   </entry>
@@ -454,6 +454,18 @@ The framework identifies a distinct margin of economic behavior—planning under
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35059</id>
+    <title>When Policy Shapes Perception: The 2021 Child Tax Credit and Consumer Sentiment</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jacob Bastian &amp; Melody Harvey</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consumer sentiment influences household behavior in important ways, yet we lack causal evidence on whether government policies themselves shape these perceptions. We help fill this gap by studying the expiration of the expanded 2021 Child Tax Credit (CTC), which abruptly reduced household income for millions of families. Using monthly microdata from the University of Michigan's Consumer Sentiment Survey and plausibly exogenous variation in benefit losses across households, we implement continuous difference-in-differences and instrumental variables strategies. We find that each $1,000 in lost CTC benefits reduces sentiment by 1.7 points (or about 2.4%), with largest effects among lower-income families with multiple children. These effects persist two years after expiration and remain robust to controls for inflation, interest rates, and macroeconomic conditions. The results suggest that fiscal policy impacts perceived economic well-being beyond contemporaneous income effects, with potential implications for household economic activity, political attitudes, and voting behavior.</content>
+    <link href="https://www.nber.org/papers/w35059"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35069</id>
     <title>Reason for Treason</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
@@ -802,18 +814,6 @@ The framework identifies a distinct margin of economic behavior—planning under
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35059</id>
-    <title>When Policy Shapes Perception: The 2021 Child Tax Credit and Consumer Sentiment</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jacob Bastian &amp; Melody Harvey</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consumer sentiment influences household behavior in important ways, yet we lack causal evidence on whether government policies themselves shape these perceptions. We help fill this gap by studying the expiration of the expanded 2021 Child Tax Credit (CTC), which abruptly reduced household income for millions of families. Using monthly microdata from the University of Michigan's Consumer Sentiment Survey and plausibly exogenous variation in benefit losses across households, we implement continuous difference-in-differences and instrumental variables strategies. We find that each $1,000 in lost CTC benefits reduces sentiment by 1.7 points (or about 2.4%), with largest effects among lower-income families with multiple children. These effects persist two years after expiration and remain robust to controls for inflation, interest rates, and macroeconomic conditions. The results suggest that fiscal policy impacts perceived economic well-being beyond contemporaneous income effects, with potential implications for household economic activity, political attitudes, and voting behavior.</content>
-    <link href="https://www.nber.org/papers/w35059"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35044</id>
     <title>Predicted Incrementality by Experimentation (PIE) for Ad Measurement</title>
     <updated>2026-04-01T00:00:00+00:00</updated>
@@ -846,6 +846,18 @@ The framework identifies a distinct margin of economic behavior—planning under
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Being around babies makes people want babies. We formalize this observation as the empathy channel: exposure to infants in the social environment activates neurobiological mechanisms that increase the desire for parenthood. As children become scarcer, this affective stimulus weakens, further eroding the motivation to have children. We embed the mechanism in a two-group overlapping-generations quantity-quality model. The empathy channel generates a positive externality, since each birth raises others’ desire for children, making the decentralized equilibrium inefficient. We characterize the optimal per-child subsidy and show that the first-order Pigouvian rate substantially overshoots the general-equilibrium optimum. The optimal targeting rule follows a Ramsey-like logic, directing the subsidy at the group with the most externality per fiscal dollar, not the group with the largest externality per child. The calibrated model suggests that the empathy channel can account for 3–33% of the fertility decline, with 13.4% at the baseline. At this baseline, the Pigouvian overshoot is 23–32% and the optimal subsidy raises welfare by 0.22% in consumption-equivalent terms.</content>
     <link href="https://www.nber.org/papers/w35021"/>
+    <category term="NBER"/>
+    <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35100</id>
+    <title>Measuring the Impact of Data Centers in the United States Economy: Monetary Damage from Air Pollution and Greenhouse Gas Emissions</title>
+    <updated>2026-04-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicholas Z. Muller</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper quantifies the environmental externalities associated with electricity consumption by data centers in the United States, focusing on damages from local air pollution and greenhouse gas (GHG) emissions. Using facility-level data for approximately 2,800 operational data centers in 2025, combined with electricity grid characteristics and emissions data, the analysis estimates pollution impacts through the AP4 integrated assessment model and applies the social cost of carbon for GHG valuation. Results indicate that data centers consume roughly 250 TWh of electricity—about 5–6% of U.S. generation—and generate approximately $25 billion in gross external damages (GED), with a range of $10–$33 billion. These damages are highly geographically concentrated, with Texas and Virginia accounting for 30% of the national total. While GED comprises about 5% of industry GDP, this ratio varies widely across states, exceeding GDP in some regions. Planned data center expansion could increase electricity demand and associated damages by up to 85% in the near term. Despite these environmental costs, preliminary comparisons suggest that the damages attributable to AI-related energy use are small relative to potential productivity gains.</content>
+    <link href="https://www.nber.org/papers/w35100"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
@@ -931,18 +943,6 @@ We explain these occurrences through the lens of an amended small open-economy N
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study examined how health inequalities with respect to income have changed among older adults in Japan from 2001 to 2022. The past two decades have witnessed a series of public pension reforms and increased labor force participation among older individuals. The pro-rich concentration of good health has become less clear for self-rated health and activities of daily living among older men. However, income-related inequality in stress/anxiety increased over time in men, and no clear trend was observed for health deficiencies or conditions. Compared to men, women showed more mixed results, with widening inequalities in health deficiencies and conditions.</content>
     <link href="https://www.nber.org/papers/w35094"/>
-    <category term="NBER"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35100</id>
-    <title>Measuring the Impact of Data Centers in the United States Economy: Monetary Damage from Air Pollution and Greenhouse Gas Emissions</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas Z. Muller</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper quantifies the environmental externalities associated with electricity consumption by data centers in the United States, focusing on damages from local air pollution and greenhouse gas (GHG) emissions. Using facility-level data for approximately 2,800 operational data centers in 2025, combined with electricity grid characteristics and emissions data, the analysis estimates pollution impacts through the AP4 integrated assessment model and applies the social cost of carbon for GHG valuation. Results indicate that data centers consume roughly 250 TWh of electricity—about 5–6% of U.S. generation—and generate approximately $25 billion in gross external damages (GED), with a range of $10–$33 billion. These damages are highly geographically concentrated, with Texas and Virginia accounting for 30% of the national total. While GED comprises about 5% of industry GDP, this ratio varies widely across states, exceeding GDP in some regions. Planned data center expansion could increase electricity demand and associated damages by up to 85% in the near term. Despite these environmental costs, preliminary comparisons suggest that the damages attributable to AI-related energy use are small relative to potential productivity gains.</content>
-    <link href="https://www.nber.org/papers/w35100"/>
     <category term="NBER"/>
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
