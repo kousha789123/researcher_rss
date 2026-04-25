@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-24T19:18:11.708332+00:00</updated>
+  <updated>2026-04-25T11:13:09.386462+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -895,18 +895,6 @@
     <published>2026-04-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.01176</id>
-    <title>Willful Ignorance and Moral Behavior</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <author>
-      <name>Raphael Epperson, Andreas Gerster</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Consumers’ willful ignorance about the consequences of their actions may impede moral behavior. We test this concern in a real-world context based on a laboratory experiment and field data. We find that willful ignorance about farming practices increases consumption of meat from intensive farming, both in the laboratory and at university canteens. Individuals who prefer to avoid costless evidence are particularly responsive to it, yet their behavioral response vanishes within two weeks. Both findings demonstrate how difficult it is for organizations and governments to address willful ignorance through information interventions.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This work was funded by the Austrian Science Fund [Grant 10.55776/F63] and the Deutsche Forschungsgemeinschaft [Grant CRC TR 224].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01176 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.01176"/>
-    <category term="Management Science"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.04608</id>
     <title>Investing in Lending Technology: IT Spending in Banking</title>
     <updated>2026-04-22T00:00:00+00:00</updated>
@@ -915,6 +903,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Banks’ lending technology hinges on their handling of soft and hard information in dealing with different types of credit demand. Through assembling a novel data set on banks’ investment in information technologies (IT), this paper provides concrete empirical evidence on how banks adapt their lending technologies. We find investment in communication IT is associated with improving banks’ ability to produce and transmit soft information, whereas investment in software IT helps enhance banks’ hard information processing capacity. We exploit policies that affect geographic regions differentially to show causally that banks respond to an increased demand for small business credit (mortgage refinance) by increasing their spending on communication (software) IT spending. We also find that the entry of fintech induces commercial banks to increase their investment in IT—more so in the software IT category.This paper was accepted by Bo Becker, finance.Funding: Z. He acknowledges financial support from the John E. Jeuck Endowment at the University of Chicago Booth School of Business, as most of the work was done while he worked at the University of Chicago.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04608 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.04608"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01176</id>
+    <title>Willful Ignorance and Moral Behavior</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Raphael Epperson, Andreas Gerster</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Consumers’ willful ignorance about the consequences of their actions may impede moral behavior. We test this concern in a real-world context based on a laboratory experiment and field data. We find that willful ignorance about farming practices increases consumption of meat from intensive farming, both in the laboratory and at university canteens. Individuals who prefer to avoid costless evidence are particularly responsive to it, yet their behavioral response vanishes within two weeks. Both findings demonstrate how difficult it is for organizations and governments to address willful ignorance through information interventions.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This work was funded by the Austrian Science Fund [Grant 10.55776/F63] and the Deutsche Forschungsgemeinschaft [Grant CRC TR 224].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01176 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01176"/>
     <category term="Management Science"/>
     <published>2026-04-22T00:00:00+00:00</published>
   </entry>
@@ -1027,6 +1027,68 @@
     <published>2026-04-23T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70094</id>
+    <title>Bias in, symbolic compliance out?
+                    &lt;scp&gt;GPT&lt;/scp&gt;
+                    's reliance on gender and race in strategic evaluations</title>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+    <author>
+      <name>Tristan L. Botelho, Qingyang (Iris) Wang</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Organizations are increasingly using large language models (LLMs) to support strategic evaluations. We examine whether and how these systems rely on gender and race. We asked GPT to evaluate identical startup pitches varying only the founder's name, shaping gender and race perceptions. Across 26,000 evaluations, GPT did not systematically assign lower scores to underrepresented minorities but avoided ranking them last without increasing winning likelihoods. To explain these patterns, we conducted “Second Opinion” experiments where GPT evaluated pitches alongside inputs simulating human bias. GPT more readily corrected explicit, identity‐based bias than bias framed as neutral business critiques, with corrections limited in magnitude. We theorize these findings reflectsymbolic compliance: LLMs suppress overt discrimination without substantively altering evaluative logic, allowing inequality to persist in AI‐supported strategic evaluations.Managerial summaryLarge language models (LLMs), like OpenAI's ChatGPT, are increasingly used in strategic evaluations (e.g., hiring, pitches). We examine whether and how these models exhibit gender and racial biases in their evaluations of startup pitches, where we only varied founder names (shaping gender and race perceptions). Across multiple experiments, we find that GPT evaluators did not systematically assign lower scores to underrepresented minorities, primarily by reducing their likelihood of being ranked last. However, this behavior reflects a symbolic effort to avoid overt discrimination rather than a deeper fairness commitment. While LLMs may not reproduce historical and societal biases in overt form, their ability to correct them remains limited. These results highlight the need for implementing bias mitigation measures before integrating LLMs into high‐stakes strategic evaluation processes.</content>
+    <link href="https://doi.org/10.1002/smj.70094"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70093</id>
+    <title>Abortion restriction laws and mobility of scientists</title>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+    <author>
+      <name>Beril Yalcinkaya, Waverly W. Ding</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;We track the enactment of targeted regulation of abortion providers (TRAP) laws in the United States and analyze 4.98 million person‐year mobility records for 535,568 biomedical scientists from 1990 to 2018. Our estimations reveal a 0.8–1.6 percentage‐point increase in scientists' relocation probability after states enacted abortion‐restrictive laws, with substantially stronger effects among junior scientists (1.6–3.9 percentage points). Anti‐abortion states also became less likely to be chosen as relocation destinations, particularly by higher‐quality scientists. These responses appear driven by ideological misalignment and research‐related concerns in fields affected by abortion‐related regulation. We further find that states that have adopted TRAP laws experienced declines in scientific research quality, federal research funding, and patenting in relevant technological fields and among local firms.Managerial SummarySocial policies influence the location choices of creative talent, with further implications for organizational and regional innovations. Research scientists are an important part of the regional innovation ecosystem, whose work is intricately related to innovation activities in firms. In a large‐scale study of 4.98 million records of half a million biomedical scientists from 1990 to 2018, we reveal that restrictive policies, such as restrictions on abortion providers, deter high‐quality scientific talent from relocating to certain regions. Our analysis highlights that ideological (mis)alignment and research‐opportunity‐related concerns, rather than practical concerns like access to abortion services, heighten the effect of abortion‐restriction laws on the observed mobility patterns, underscoring the broader implications of policy choices in the sociopolitical environment on where scientific talent chooses to live and work.</content>
+    <link href="https://doi.org/10.1002/smj.70093"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/sej.70028</id>
+    <title>Learning to innovate: How and when firms transform intellectual capital into exploratory and exploitative innovation</title>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+    <author>
+      <name>Gholamhossein (Amir) Mehralian, Arash Sadeghi, Ralf Wilden</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Corporate entrepreneurship (CE) requires firms to pursue both exploratory and exploitative innovation, yet limited research explains how intellectual capital (IC) is translated into these distinct outcomes. We develop a contingency model that specifies how and when IC drives exploration and exploitation. We theorize that a firm's capacity for learning and transformation (CLT) functions as a firm‐level learning and transformation capability through which IC can be translated into either exploratory or exploitative innovation. Knowledge breadth strengthens the indirect effect of IC on exploratory innovation via CLT, whereas knowledge depth amplifies the indirect effect on exploitative innovation. We test the model in two complementary field studies. Study 1 employs a time‐lagged design with objective archival data, and Study 2 replicates the findings using survey data. Results consistently support the proposed theoretical model.Managerial SummaryFirms operating in fast‐changing and uncertain environments often struggle to balance developing new products with improving existing ones. Our study shows that simply having strong knowledge resources is not enough. What matters is how effectively firms learn from and use that knowledge. We find that firms perform better when they build strong learning capabilities that help them adapt, recombine, and apply knowledge over time. Importantly, the type of knowledge a firm holds shapes this process: broad knowledge supports new product development, while deep, specialized knowledge strengthens improvements to existing products. For managers, this means focusing not only on acquiring knowledge but also on building systems and practices that continuously translate knowledge into action and innovation.</content>
+    <link href="https://doi.org/10.1002/sej.70028"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhag045</id>
+    <title>Broken Relationships: Derisking by Correspondent Banks and International Trade</title>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+    <author>
+      <name>Lea Borchert, Ralph De Haas, Karolin Kirschenmann, Alison Schultz</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We study how terminated correspondent banking relationships affect international trade. Drawing on firm-level export data from emerging Europe, we show that when local banks lose access to correspondent services, their corporate clients, especially small- and medium-sized enterprises, experience significant export declines. Firms only partially offset lost exports with higher domestic sales, resulting in lower total revenues and employment. Other firms cease operations entirely. These firm-level impacts aggregate to lower product-level exports from countries more exposed to correspondent bank retrenchment. (JEL F14, F15, F36, G21, G28, L14)</content>
+    <link href="https://doi.org/10.1093/rfs/hhag045"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjag022</id>
+    <title>The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France</title>
+    <updated>2026-04-24T00:00:00+00:00</updated>
+    <author>
+      <name>Elio Nimier-David, David Sraer, David Thesmar</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;Since 1967, all French firms with more than 100 employees have been required to share a fraction of their excess profits with their employees. Through this scheme, firms with excess profits distribute, on average, 10.5% of their pre-tax income to workers. In 1990, the eligibility threshold was reduced to 50 employees. We exploit this regulatory change to identify the effects of mandated profit-sharing on firms and their employees. The cost of mandated profit-sharing for firms is evident in the significant bunching at the 100-employee threshold observed prior to the reform, which completely disappears post-reform. Using a difference-in-differences strategy, we find that, at the firm level, mandated profit-sharing (a) increases the labor share by 1.8 percentage points, (b) reduces the profit share by 1.4 percentage points, and (c) has small to non-existent effects on investment and productivity. At the employee level, mandated profit-sharing increases lower-skilled workers’ total compensation and leaves high-skilled workers’ total compensation unchanged. Overall, mandated profit-sharing redistributes excess profits to lower-skilled workers in the firm without generating significant distortions or productivity effects.</content>
+    <link href="https://doi.org/10.1093/qje/qjag022"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2026-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10591478261447637</id>
     <title>EXPRESS: Online Traffic Games: Should Firms Compete on Website Speed or Website Capacity?</title>
     <updated>2026-04-24T00:00:00+00:00</updated>
@@ -1123,16 +1185,16 @@
     <published>2026-04-24T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/smj.70085</id>
-    <title>Thinking and feeling about novelty: How cognition and emotion shape investment in novel ideas</title>
-    <updated>2026-04-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/10422587261435928</id>
+    <title>What If We Took Entrepreneurship Practice Seriously? Prescriptive Theorizing From Explanatory Models for Practical Implications</title>
+    <updated>2026-04-25T00:00:00+00:00</updated>
     <author>
-      <name>Matthew P. Mount, Henry Tue Le, Gary Bowman, Christopher Golding</name>
+      <name>Dean A. Shepherd, Johan Wiklund</name>
     </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;While prior research on the strategic framing of innovation highlights the cognitive mechanisms underlying novelty evaluation, we know little about the corresponding emotional mechanisms. Drawing on appraisal theory, construal level theory, and the literature on emotions, we theorize two distinct appraisal‐emotion pathways through which the framing of novel ideas evokes hope and awe among investors with different motives. We argue that high‐construal framing supplements economically motivated investors' low‐level feasibility orientation, which evokes hope and increases their willingness to invest. By contrast, low‐construal framing supplements non‐economically motivated investors' high‐level desirability orientation, which evokes awe and increases their willingness to invest. We test and find some support for these within‐motive pathways across three studies. Our study offers new theoretical and practical insights on the strategic framing of novel ideas.</content>
-    <link href="https://doi.org/10.1002/smj.70085"/>
-    <category term="Strategic Management Journal"/>
-    <published>2026-04-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Just because we undertake value-neutral research to explain an entrepreneurial phenomenon does not mean we cannot extend our work through engaging values to prescribe what entrepreneurs (and/or other focal actors) should do. In this editorial, we illustrate how scholars can generate and offer prescriptive theorizing. Specifically, scholars can generate practical implications by (a) focusing on a phenomenon-based problem; (b) identifying focal actors and values; (c) defining desired outcomes; (d) developing an implementation roadmap; (e) thinking about reflexivity and boundaries; and (f) generating testable prescriptions. We offer additional considerations about when and for whom this prescriptive theorizing is most appropriate.</content>
+    <link href="https://doi.org/10.1177/10422587261435928"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-04-25T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70024</id>
@@ -1485,18 +1547,6 @@
     <published>2026-04-08T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05902</id>
-    <title>Executive Cooperativeness: Evidence from Conference Calls</title>
-    <updated>2026-04-08T00:00:00+00:00</updated>
-    <author>
-      <name>Wei Cai, Kunlu Ju, Ethan Rouen, Yuan Zou</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Cooperativeness is essential to individual and organizational success. We exploit a unique feature of conference calls to study individual executives’ cooperativeness, indicated by their directly inviting colleagues to respond to analysts’ questions, and its relation with their career outcomes and firm performance. After validating our measure, we find that cooperativeness is associated with relevant executive characteristics. Older, more senior, and more experienced executives are more likely to display cooperativeness. We also find that cooperativeness persists but can be influenced by colleagues. Turning to the relation with career and firm outcomes, we find robust evidence of a positive association between cooperativeness and the likelihood of being promoted to chief executive officer (CEO). Appointing CEOs who are more cooperative than their predecessors is associated with an average three-day abnormal return of 0.6% around the announcement of the appointment.This paper was accepted by Ranjani Krishnan, accounting.Funding: W. Cai gratefully acknowledges financial support from the Bernstein Center for Leadership and Ethics of Columbia Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05902 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05902"/>
-    <category term="Management Science"/>
-    <published>2026-04-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.04003</id>
     <title>A Meta-Analysis of Quasi-Hyperbolic Discounting</title>
     <updated>2026-04-08T00:00:00+00:00</updated>
@@ -1505,6 +1555,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper reports a meta-analysis of 86 studies of the two parameters of quasi-hyperbolic ([Formula: see text]) discounting, the dominant model of self-control failures in behavioral economics. The central tenet of the model is that decision makers have a “present bias,” [Formula: see text], for immediate rewards, on top of standard exponential discounting of the future, [Formula: see text]. After correcting for selective reporting, we obtain a meta-analytic estimate of [Formula: see text] for money of 0.938, with 95% confidence interval [0.905, 0.972]. For nonmonetary rewards, our estimate of [Formula: see text] is 0.750, with 95% confidence interval [0.643, 0.857], and there is no evidence of selective reporting. We find that present bias for real effort, although stronger than for money, is weaker than for other rewards such as real consumption.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This research was partly supported by the Australian Government through the Australian Research Council’s Centre of Excellence for Children and Families over the Life Course [Project IDs CE140100027 and CE200100025]. S. L. Cheung received financial support from the Australian Research Council [Grant DP160101794]. A. Tymula received financial support from the University of Sydney [Bridging Grant G199763].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04003 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.04003"/>
+    <category term="Management Science"/>
+    <published>2026-04-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05902</id>
+    <title>Executive Cooperativeness: Evidence from Conference Calls</title>
+    <updated>2026-04-08T00:00:00+00:00</updated>
+    <author>
+      <name>Wei Cai, Kunlu Ju, Ethan Rouen, Yuan Zou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Cooperativeness is essential to individual and organizational success. We exploit a unique feature of conference calls to study individual executives’ cooperativeness, indicated by their directly inviting colleagues to respond to analysts’ questions, and its relation with their career outcomes and firm performance. After validating our measure, we find that cooperativeness is associated with relevant executive characteristics. Older, more senior, and more experienced executives are more likely to display cooperativeness. We also find that cooperativeness persists but can be influenced by colleagues. Turning to the relation with career and firm outcomes, we find robust evidence of a positive association between cooperativeness and the likelihood of being promoted to chief executive officer (CEO). Appointing CEOs who are more cooperative than their predecessors is associated with an average three-day abnormal return of 0.6% around the announcement of the appointment.This paper was accepted by Ranjani Krishnan, accounting.Funding: W. Cai gratefully acknowledges financial support from the Bernstein Center for Leadership and Ethics of Columbia Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05902 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05902"/>
     <category term="Management Science"/>
     <published>2026-04-08T00:00:00+00:00</published>
   </entry>
