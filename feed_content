@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-04-26T11:06:18.689113+00:00</updated>
+  <updated>2026-04-26T15:02:25.447627+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1195,6 +1195,66 @@
     <link href="https://doi.org/10.1177/10422587261435928"/>
     <category term="Entrepreneurship Theory and Practice"/>
     <published>2026-04-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261449015</id>
+    <title>EXPRESS: Event ticket pricing with capacity constraints and price restrictions</title>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <author>
+      <name>Yunke Li, Xin Geng, Harihara Prasad Natarajan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Motivated by ticket pricing challenges facing live event managers, we study how to maximize the revenue when setting prices for multiple ticket categories with interdependent demand, realistic capacity constraints, and pricing restrictions. We define this decision problem as theEvent Ticket Pricing(ETP) problem and formulate it as a constrained nonlinear optimization model. To examine how the nature of product differentiation (i.e., differentiation across ticket categories) affects seat portfolio pricing and revenue outcomes, we analyze the ETP problem under two demand specifications: vertically and horizontally differentiated ticket categories. For each case, we isolate the role of different constraints by developing and solving a sequence of problems with progressively added restrictions. This approach enables us to identify structural properties that either fully characterize the optimal solution or guide the development of efficient algorithms. Under vertical differentiation, we prove that the optimal solution has asold-out threshold structure, with only highquality categories sold out. The treatment of partially sold products depends on the active constraints. Sales vanish under capacity constraints alone but become positive once pricing restrictions are introduced, producing solutions distinct from the unconstrained benchmark. Under horizontal differentiation, the threshold structure persists, but the addition of constraints breaks the well-known “equal markup” rule, yielding prices that are non-increasing in quality. Finally, we study how flexible adjustments in seat capacities reshape optimal outcomes. These results underscore the importance of incorporating realistic constraints and offer practical guidance for live event planners.</content>
+    <link href="https://doi.org/10.1177/10591478261449015"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-04-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261448668</id>
+    <title>EXPRESS: Merchants of Vulnerabilities: How Bug Bounty Programs Benefit Software Vendors</title>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <author>
+      <name>Esther Gal-Or, Muhammad Zia Hydari, Rahul Telang</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We study how bug bounty programs shape software vendors’ security and release choices. Vendors invest in internal assurance before release to reduce residual vulnerabilities, and after launch they must manage vulnerability discovery, disclosure, and remediation. We develop a game-theoretic model in which a vendor chooses release timing and severity-contingent bounties, anticipating effort by ethical and malicious hackers in a winner-take-all discovery race. The model highlights two linked mechanisms: an incentive channel that shifts first discovery of severe vulnerabilities away from malicious exploitation and toward ethical reporting, and a governance channel in which coordinated disclosure changes how vulnerability information is managed while remediation is underway. We derive closed-form optimal bounties and characterize a feasibility region that sustains positive bounties and interior success probabilities. Within this region, a bug bounty program strictly increases the vendor’s expected profit by reallocating first-discovery probability on severe vulnerabilities from malicious to ethical hackers and by converting part of severe-loss exposure into bounded, pay-for-results expenditures. For private programs, we also solve for the optimal invited set of ethical hackers and show that this optimal set is strictly smaller than the expected number of malicious attackers. Higher bounties raise ethical hackers’ effort and first-discovery probabilities but also increase program cost, and they interact with reputational (non-monetary) incentives. Finally, in the baseline model, BBP adoption conditionally reduces the marginal value of additional pre-release delay and therefore conditionally implies earlier release relative to the no-BBP benchmark. This timing result is a within-model conditional implication; its practical relevance depends on operational readiness, triage throughput, and the vendor’s ability to validate and safely deploy fixes once a valid report arrives. Managerially, BBPs should be viewed as a post-release governance layer that complements strong internal assurance rather than as a substitute for it. Policymakers can support responsible use of BBPs by encouraging timely remediation, transparent post-patch disclosure, and reporting standards that reduce information asymmetry and triage frictions.</content>
+    <link href="https://doi.org/10.1177/10591478261448668"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-04-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261448673</id>
+    <title>EXPRESS: Research Opportunities in Disaster Warning Signals from an Operations Management Perspective</title>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <author>
+      <name>Dehai Liu, Kun Qian, Ning Zhao, Sushil Gupta</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Effectively utilization of disaster warning signals is crucial for mitigating impacts and enhancing operational resilience in disaster management. Although an emerging area of scholarly interest, the literature remains fragmented and lacking a unifying framework to guide research and practice. To consolidate knowledge and direct future research, this study conducts a systematic review of the literature on disaster warning signal research published in leading journals in operations management, management science, operations research, and related supply chain and logistics. Building upon the classic communication model proposed by Shannon, this study develops a conceptual framework for systematically classifying the relevant literature according to three dimensions of a warning signal: (1) signal type (natural, engineering, behavioral, informational, composite), (2) signal transmission (source, channel, receiver) and (3) signal purpose (directing the response of the authority, guiding the protection of the public). We then cross-tabulate this framework with the disaster management domain (e.g., disaster phase, type, and function) and the data domain (e.g., data type, analytics techniques). By synthesizing academic contributions with practical challenges, we articulate the specific value that operations management research on warning signals offers to disaster management practice. Finally, we propose a structured agenda for future research focused on the intersections of signal, disaster, and data domains.</content>
+    <link href="https://doi.org/10.1177/10591478261448673"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-04-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261448212</id>
+    <title>EXPRESS: Whether, When, How, and Why Sales Managers Should Be Involved in Sales Teams</title>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel E. Chavez, Molly R. Burchett, Brian Murtha</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;This manuscript examineswhether,when,how, andwhysales managers should get involved in customer exchanges as members of sales teams. It does so by drawing on the literature on status and deference in teams to advance novel hypotheses and testing them across seven main studies. Results of Study 1—based on a multisource dataset involving over 5.5 million business-to-consumer (B2C) exchanges—indicate that a sales manager’s involvement as a member of a sales team enhances the team’s performance (whether). These performance-enhancing effects are stronger for new customers relative to returning customers (when). To addresshowmanagers should engage when involved in sales teams, the manuscript introduces the concept ofselling position primacyand demonstrates that performance is enhanced when sales managers take on a secondary, rather than a primary, selling position within the team. Experimental results across several settings (e.g., automotive services, retail clothing, and kitchen showroom) reinforce these findings and further identify customer-perceived team status and customer orientation as the mechanisms explainingwhysales manager involvement and selling position primacy impact sales performance.</content>
+    <link href="https://doi.org/10.1177/00222429261448212"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-04-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-026-00859-6</id>
+    <title>Hypothesis-testing research in international business: progress, pitfalls, and a way forward</title>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <author>
+      <name>Jelena Cerar, B. Sebastian Reiche, Phillip C. Nell</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Building on Meyer, van Witteloostuijn, and B﻿eugelsdijk’s (2017) editorial on best practices for conducting and reporting hypothesis-testing research in IB, we examine the extent to which their guidelines—and related recommendations by Hahn and Ang (2017)—have been adopted in leading IB journals. We analyze all null-hypothesis significance testing-based articles published in theJournal of International Business Studiesand theJournal of World Businessbetween 2012 and 2024, using fine-grained inferential trend analyses of methodological and reporting standards alongside state-of-the-art tests for p-hacking and publication bias. Our results indicate meaningful progress in several areas, including greater methodological rigor and transparency. However, adoption remains uneven and has plateaued for several practices. Persistent shortcomings include limited reporting of standard errors, confidence intervals, and effect sizes, incomplete disclosure of robustness analyses and outlier treatment, and the continued predominance of confirmed hypotheses. Moreover, we find no evidence that p-hacking or publication bias have declined over time. Drawing on these results, we outline actionable recommendations for advancing methodological and reporting standards in IB by (1) enhancing transparent reporting, (2) providing convincing evidence, and (3) reporting and probing null and negative results. Overall, our study offers a roadmap for strengthening research credibility in IB.</content>
+    <link href="https://doi.org/10.1057/s41267-026-00859-6"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-04-26T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/orsc.2024.18684</id>
