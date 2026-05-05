@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-05-04T19:11:56.088113+00:00</updated>
+  <updated>2026-05-05T04:07:45.138073+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -184,12 +184,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261447023</id>
-    <title>EXPRESS: Competitive Markovian Pricing</title>
+    <title>Competitive Markovian pricing</title>
     <updated>2026-04-17T00:00:00+00:00</updated>
     <author>
       <name>Haokun Du, Bin Hu, Elena Katok</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Dynamic pricing is often complicated by strategic customer behavior. One tactic utilized by retailers to manage strategic customer behavior, known as Markovian pricing, is to offer price discounts at random intervals to prevent customers from predicting when the next discount will occur, thereby simplifying their strategic waiting behavior. In this paper, we study Markovian pricing in competitive settings. We show that retailers can effectively adopt Markovian pricing in competitive environments, establish the optimality of flash discounts under competitive Markovian pricing, and find surprisingly that increased levels of competition may benefit both retailers. We confirm the robustness of these insights and also establish their limits of applicability in two model extensions. Our findings suggest that retailers engaging in competitive Markovian pricing should refrain from naïvely applying common wisdom toward third-party price-monitoring and comparison services and reconsider the efforts in growing their loyal customer base, and more broadly highlight the unique properties of competitive Markovian pricing.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Dynamic pricing is often complicated by strategic customer behavior. One tactic utilized by retailers to manage strategic customer behavior, known as Markovian pricing, is to offer price discounts at random intervals to prevent customers from predicting when the next discount will occur, thereby simplifying their strategic waiting behavior. In this article, we study Markovian pricing in competitive settings. We show that retailers can effectively adopt Markovian pricing in competitive environments, establish the optimality of flash discounts under competitive Markovian pricing, and find surprisingly that increased levels of competition may benefit both retailers. We confirm the robustness of these insights and also establish their limits of applicability in two model extensions. Our findings suggest that retailers engaging in competitive Markovian pricing should refrain from naïvely applying common wisdom toward third-party price-monitoring and comparison services and reconsider the efforts in growing their loyal customer base, and more broadly highlight the unique properties of competitive Markovian pricing.</content>
     <link href="https://doi.org/10.1177/10591478261447023"/>
     <category term="Production and Operations Management"/>
     <published>2026-04-17T00:00:00+00:00</published>
@@ -675,18 +675,6 @@
     <published>2026-04-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.04608</id>
-    <title>Investing in Lending Technology: IT Spending in Banking</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <author>
-      <name>Zhiguo He, Sheila Jiang, Douglas Xu, Xiao Yin</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Banks’ lending technology hinges on their handling of soft and hard information in dealing with different types of credit demand. Through assembling a novel data set on banks’ investment in information technologies (IT), this paper provides concrete empirical evidence on how banks adapt their lending technologies. We find investment in communication IT is associated with improving banks’ ability to produce and transmit soft information, whereas investment in software IT helps enhance banks’ hard information processing capacity. We exploit policies that affect geographic regions differentially to show causally that banks respond to an increased demand for small business credit (mortgage refinance) by increasing their spending on communication (software) IT spending. We also find that the entry of fintech induces commercial banks to increase their investment in IT—more so in the software IT category.This paper was accepted by Bo Becker, finance.Funding: Z. He acknowledges financial support from the John E. Jeuck Endowment at the University of Chicago Booth School of Business, as most of the work was done while he worked at the University of Chicago.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04608 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.04608"/>
-    <category term="Management Science"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2025.01176</id>
     <title>Willful Ignorance and Moral Behavior</title>
     <updated>2026-04-22T00:00:00+00:00</updated>
@@ -695,6 +683,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Consumers’ willful ignorance about the consequences of their actions may impede moral behavior. We test this concern in a real-world context based on a laboratory experiment and field data. We find that willful ignorance about farming practices increases consumption of meat from intensive farming, both in the laboratory and at university canteens. Individuals who prefer to avoid costless evidence are particularly responsive to it, yet their behavioral response vanishes within two weeks. Both findings demonstrate how difficult it is for organizations and governments to address willful ignorance through information interventions.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: This work was funded by the Austrian Science Fund [Grant 10.55776/F63] and the Deutsche Forschungsgemeinschaft [Grant CRC TR 224].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01176 .</content>
     <link href="https://doi.org/10.1287/mnsc.2025.01176"/>
+    <category term="Management Science"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04608</id>
+    <title>Investing in Lending Technology: IT Spending in Banking</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Zhiguo He, Sheila Jiang, Douglas Xu, Xiao Yin</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Banks’ lending technology hinges on their handling of soft and hard information in dealing with different types of credit demand. Through assembling a novel data set on banks’ investment in information technologies (IT), this paper provides concrete empirical evidence on how banks adapt their lending technologies. We find investment in communication IT is associated with improving banks’ ability to produce and transmit soft information, whereas investment in software IT helps enhance banks’ hard information processing capacity. We exploit policies that affect geographic regions differentially to show causally that banks respond to an increased demand for small business credit (mortgage refinance) by increasing their spending on communication (software) IT spending. We also find that the entry of fintech induces commercial banks to increase their investment in IT—more so in the software IT category.This paper was accepted by Bo Becker, finance.Funding: Z. He acknowledges financial support from the John E. Jeuck Endowment at the University of Chicago Booth School of Business, as most of the work was done while he worked at the University of Chicago.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04608 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04608"/>
     <category term="Management Science"/>
     <published>2026-04-22T00:00:00+00:00</published>
   </entry>
@@ -777,7 +777,7 @@
     <author>
       <name>Johan Wiklund</name>
     </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Entrepreneurship scholars have over-invested in borrowed theories and under-invested in the evidence needed to test them—or to build something better. This editorial, written on the occasion ofETP’s 15th anniversary and my departure as Editor-in-Chief, argues for a rebalancing around the research question-design-data trio: important questions rooted in phenomena, designs matched to claims, and serious investment in data quality. The field’s greatest strength has always been its willingness to ask important questions, and its most enduring theoretical contributions come from developing home-grown theories addressing these questions rather than importing frameworks from outside. AI makes this rebalancing urgent. When the front end of a paper can be generated by a machine, the distinctive value of scholarship must reside in the question, the design, and the evidence. The field’s future depends on producing work that reveals how entrepreneurship actually works, and on exporting those insights rather than merely importing ideas from other disciplines.</content>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Entrepreneurship scholars have over-invested in borrowed theories and under-invested in the evidence needed to test them—or to build something better. This editorial, written on the occasion ofETP’s 50th anniversary and my departure as Editor-in-Chief, argues for a rebalancing around the research question-design-data trio: important questions rooted in phenomena, designs matched to claims, and serious investment in data quality. The field’s greatest strength has always been its willingness to ask important questions, and its most enduring theoretical contributions come from developing home-grown theories addressing these questions rather than importing frameworks from outside. AI makes this rebalancing urgent. When the front end of a paper can be generated by a machine, the distinctive value of scholarship must reside in the question, the design, and the evidence. The field’s future depends on producing work that reveals how entrepreneurship actually works, and on exporting those insights rather than merely importing ideas from other disciplines.</content>
     <link href="https://doi.org/10.1177/10422587261441596"/>
     <category term="Entrepreneurship Theory and Practice"/>
     <published>2026-04-22T00:00:00+00:00</published>
@@ -1425,6 +1425,30 @@
     <published>2026-04-30T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261449973</id>
+    <title>EXPRESS: Tele-Follow-Up and Outpatient Care</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <author>
+      <name>Wei Gu, Meng Li, Shujing Sun</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Follow-up appointments are crucial for maintaining continuity of care, yet patients often encounter various barriers to accessing these services. In this study, we examine the potential of telemedicine applications for follow-up care (tele-follow-up), focusing on its impact on care access, service efficiency, and care quality. By collaborating with a large hospital that implemented tele-follow-up services across departments over time, we employ a staggered difference-in-differences design to identify the causal effects of tele-follow-up services. Our findings indicate that the adoption of tele-follow-up services increases total follow-up volume by 48.14%. Notably, we identify positive spillover effects on traditional onsite care, with onsite follow-up visits and initial visits increasing by 14.11% and 7.90%, respectively. We further investigate the mechanism underlying these results. On the demand side, patients with higher costs of accessing onsite follow-up care, such as those living in rural areas or with comorbidities, exhibit greater demand elasticity following the availability of the tele-follow-up channel. On the supply side, dedicating the telemedicine channel exclusively to follow-up care enhances physicians’ efficiency by enabling more focused practice across online and in-person work shifts. The increased access to follow-up services enabled by telemedicine further translates into better patient outcomes, as evidenced by a significant reduction in readmission rates. Our study demonstrates the value of tele-follow-up services and offers practical insights for healthcare decision-makers seeking to leverage digital health to enhance continuity of care.</content>
+    <link href="https://doi.org/10.1177/10591478261449973"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261449968</id>
+    <title>EXPRESS: The Role of Nearby Suppliers After Natural Disasters</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <author>
+      <name>Xabier Barriola, Luk N. Van Wassenhove</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Natural disasters disrupt retail operations by simultaneously triggering demand surges and supply interruptions. Restricted access to affected areas raises transportation costs and complicates replenishment, while stores that remain open experience increased demand from displaced consumers and stockpiling behavior. Ensuring product availability becomes critical, forcing retailers to rely on suppliers who can deliver under constrained conditions. We examine whether supplier proximity mitigates these operational disruptions by comparing the sales evolution of products manufactured near each store (“nearby”) to those produced farther away (“distant”). We combine weekly retail scanner data, manufacturing location information, and FEMA disaster declarations for three North Atlantic hurricanes. Using a triple-difference design, we compare changes in sales of products from nearby versus distant suppliers before and after the event, across affected and unaffected stores. Across the three hurricanes, sales of products from nearby suppliers in operational stores located in affected areas increase by 7 to 11% relative to products from distant suppliers. Moreover, we find that stockouts of products from nearby suppliers are less likely to occur in the aftermath of the disaster. Furthermore, we find that in two of the three events, products from nearby suppliers experience a price reduction compared to those from distant suppliers. These results show that supplier proximity is an actionable resilience lever: nearby suppliers could be more likely to deliver to affected areas when replenishment is challenging, enabling retailers to maintain product availability and continue serving customers. The findings offer guidance for preparedness planning, emphasizing the value of geographically diversified sourcing and coordination with nearby suppliers.</content>
+    <link href="https://doi.org/10.1177/10591478261449968"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/orsc.2024.19786</id>
     <title>Space and Structure: The Interplay Between Proximity, Unit Boundaries, and Supervision in Shaping Workplace Interactions</title>
     <updated>2026-04-30T00:00:00+00:00</updated>
@@ -1518,6 +1542,18 @@
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The class of fixed-fraction rules for sharing sequentially triggered losses has been axiomatized using a set of axioms that include continuity. In this note, we show that continuity is redundant because it is implied by the other axioms. This allows for a more parsimonious characterization and thus reducing complexity.This paper was accepted by Manel Baucels, behavioral economics and decision analysis.Funding: T. Oishi acknowledges financial support from the Japan Society for the Promotion of Science [KAKENHI Grant-in-Aid for Scientific Research (C), Project 24K04913]. E. Gavilán and C. Manuel acknowledge financial support from the Complutense University of Madrid [Grant PR27/25-32473].</content>
     <link href="https://doi.org/10.1287/mnsc.2025.03401"/>
     <category term="Management Science"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261450108</id>
+    <title>EXPRESS: Understanding Internal Linguistic Consistency of Person Brands on Social Media: An Empirical Investigation using the 2020 U.S. Presidential Election</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <author>
+      <name>Christian Hughes, Jillian Hmurovic</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Social media is essential to how brands are built and managed, especially for person brands. This research investigates how political person brands’ internal linguistic consistency shapes social media engagement. Specifically, the authors examine linguistic consistency relative to a candidate’s own prior social media posts (i.e., internal linguistic consistency). Using social media data from the 2020 U.S. presidential election and adopting an empirics-first approach, the authors find that three distinct constructs comprise internal linguistic consistency of person brands: topic (consistency in subject matter or themes), psychological (consistency in psychological states), and semantic (consistency in information and meaning), revealing that each dimension has its own best strategy: (1) topic inconsistency, (2) psychological consistency, (3) semantic inconsistency. The authors find that these effects are moderated by sudden changes in word of mouth, such as a sudden spike in online conversation about a political opponent, and by whether the election is a primary or a general election, such that moderate semantic consistency is most effective during the general election. The findings demonstrate the importance of simultaneously considering multiple dimensions of internal linguistic consistency in person brand strategies.</content>
+    <link href="https://doi.org/10.1177/00222429261450108"/>
+    <category term="Journal of Marketing"/>
     <published>2026-04-30T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1675,5 +1711,137 @@
     <link href="https://doi.org/10.1257/aer.20231016"/>
     <category term="American Economic Review"/>
     <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261450924</id>
+    <title>EXPRESS: When More Capacity Creates More Congestion: The Role of Risk Aversion</title>
+    <updated>2026-05-03T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Legros, Francis de Véricourt, Johan S.H. van Leeuwaarden, Jan C. Fransoo</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;A fundamental principle in operations management holds that increasing the number of servers reduces delays in service systems. To date, no mechanism has been identified that could reverse this effect. We propose, however, that risk aversion can cause increased service capacity to intensify congestion. We study an unobservableM/M/squeue where risk-averse customers choose whether to join based on their anticipated waiting time. We show that, in equilibrium, demand, expected waiting time, expected sojourn time, and the probability of waiting all increase with the number of servers, and that these effects are stronger for more risk-averse customers. We further uncover the mechanism behind this phenomenon: adding servers makes delays less risky (in the sense of second-order stochastic dominance), which increases the sensitivity of demand to capacity as customers become more risk-averse. These patterns are more prevalent in small systems and fade as the system grows. They can also persist when customers differ in their degree of risk aversion, when capacity is increased by raising service speed, and when the system is observable. Our findings reveal a novel trade-off created by customer risk aversion: expanding capacity attracts more customers, but also exacerbates congestion. A manager aiming to reduce waiting times may therefore prefer to de-pool service capacity instead of following the standard approach of pooling, while increasing capacity in the resulting smaller systems to preserve total throughput. When the objective is to maximize profitability, our results further suggest that the cost of additional servers may be offset by the associated increase in revenue when customers are sufficiently risk-averse.</content>
+    <link href="https://doi.org/10.1177/10591478261450924"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70053</id>
+    <title>Generative AI Use by Capital Market Information Intermediaries: Evidence from Seeking Alpha</title>
+    <updated>2026-05-03T00:00:00+00:00</updated>
+    <author>
+      <name>Mark T. Bradshaw, Chenyang Ma, Benjamin P. Yost, Yuan Zou</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We study the use of generative AI for firm‐specific financial analysis on the Seeking Alpha platform. After the initial launch of ChatGPT in November 2022, the share of AI‐generated articles rose sharply to 13.5% of all articles, then declined in late 2023 after Seeking Alpha equated the use of AI to plagiarism and announced a prohibition on its use. We organize our study around two questions: (1) Does AI use increase author productivity? and (2) does AI use have capital market consequences and ultimately affect the informational landscape? We find that authors who adopt AI become more productive, publishing more articles and covering more new firms than non‐adopters. Findings on AI article informativeness are more nuanced. On average, AI articles are less informative than human‐written articles, eliciting smaller trading volume and abnormal return responses. However, AI use leads to increased firm coverage and in turn to improved liquidity and faster price discovery. Our findings suggest that, while AI‐generated articles are currently perceived as less informative than human‐written articles, their comparatively low cost enables increased firm coverage and thereby improves the overall informational landscape.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70053"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70069</id>
+    <title>A Tale of Two Market Disciplines: How Does Bank Financial Misconduct Affect Peer Banks in the Local Deposit Market</title>
+    <updated>2026-05-03T00:00:00+00:00</updated>
+    <author>
+      <name>Ya Kang, Yupeng Lin, Yang Qiu</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;This study examines the spillover effect of bank financial misconduct on the uninsured deposits of peer banks within local markets. We first validate that misconduct banks experience an increase in deposit spreads and a corresponding outflow of deposits following the misconduct. We then show local peer banks exhibit divergent deposit responses, contingent on how misconduct is perceived by information recipients in different economic contexts. During normal periods, depositors receiving a negative signal about bank misconduct reallocate their funds from misconduct banks to local peers, alocal reallocation effectthat decreases deposit spreads and increases deposit inflows for peer banks. Cross‐sectional analysis further reveals that this local reallocation effect is more pronounced for financially sophisticated depositors, amplified when peer banks have strong fundamentals, but attenuated when misconduct banks are financially sound. During financial crisis periods, however, bank misconduct leads to withdrawals from both misconduct banks and their peer banks, alocal contagion effectwhereby local peer banks face increased deposit spreads and deposit outflows following the misconduct.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70069"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-05-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0184</id>
+    <title>Asymptotic Product-Form Steady State for Generalized Jackson Networks in Multiscale Heavy Traffic</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>J. G. Dai, Peter W. Glynn, Yaosheng Xu</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Product-Form Steady-State Approximation of Generalized Jackson NetworksIn “Asymptotic Product-Form Steady State for Generalized Jackson Networks in Multiscale Heavy Traffic,” Dai, Glynn, and Xu revisit a long-standing question in queueing network theory. For open Jackson networks in which interarrival and service distributions are exponential, steady-state queue lengths are independent and admit a product-form distribution, making performance analysis tractable and scalable. For generalized Jackson networks with general primitive distributions, the product-form structure no longer holds. The authors show that under a multiscale heavy traffic condition—where different stations operate at widely separated levels of congestion—the stationary distribution of suitably scaled queue lengths admits an asymptotic product-form limit. In this limit, each component is exponentially distributed, with a rate that depends only on the first two moments of the primitive distributions. This result, along with its recent generalizations, creates the potential for a scalable performance analysis tool for generalized Jackson networks and beyond.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0184"/>
+    <category term="Operations Research"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05295</id>
+    <title>COPPAcalypse? The YouTube Settlement’s Impact on Kids’ Content</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Garrett A. Johnson, Tesary Lin, Liang Zhong, James C. Cooper</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how privacy restrictions affect online content creation and consumption by evaluating the impact of YouTube’s settlement with the Federal Trade Commission over violating the Children’s Online Privacy Protection Act. Under the settlement, YouTube limited personalization for made-for-kids (MFK) content starting in January 2020, and this included personalized ads and content engagement features such as subscriber notifications and playlists. We study the resulting impact on 5,066 top American YouTube channels by comparing the MFK content creators to their non-MFK counterparts using a difference-in-differences design. On the supply side, MFK content creators produce 18% less content and pivot toward non-MFK content production. MFK content creators also invest less in content quality: the proportion of original content falls by 9% and manual captioning drops by 28%, whereas viewer content ratings fall by 9%. On the demand side, views of MFK channels fall by 20%. The restrictions also affected market competition, increasing concentration of both content creation and viewership among top MFK channels.This paper was accepted by Jean-Pierre Dubé, marketing.Funding: This work was supported by the Questrom School of Business Digital Business Institute, the Program on Economics &amp; Privacy at George Mason University, and the “Economics of Digital Services” initiative by the University of Pennsylvania’s Center of Technology, Innovation &amp; Competition and Warren Center.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05295 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05295"/>
+    <category term="Management Science"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08861</id>
+    <title>Before the Storm: Firm Policies and Varying Recession Risk</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Ali Kakhbod, Dmitry Livdan, Max Reppen, Tarik Umar</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recession risk fluctuates substantially “before the storm,” yet little is known about how firms of different sizes adapt their policies accordingly. We embed time-varying recession risk into a model of liquidity management and investment, allowing firms to time their precautionary policies. Estimation reveals that small firms are less sensitive than large firms in their issuance, payout, and investment strategies to variations in recession risk. This is because small firms proactively build larger cash reserves relative to their current cash flow volatility during periods of low recession risk, anticipating that aggressive investment will gradually drain liquidity, grow cash flow volatility, and raise the risk of liquidation if a recession occurs. In contrast, large firms rely on robust cash flows to replenish liquidity during periods of low recession risk, deferring other precautionary actions until recession risk intensifies. These results have important implications for estimating the impact of recessions and macroprudential policy.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08861 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08861"/>
+    <category term="Management Science"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.03108</id>
+    <title>Backfiring AI? AI Deployment in Workplace</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Di Yuan, Manmohan Aseri, Narayan Ramasubbu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Seeking value from artificial intelligence (AI) technologies, firms are rapidly deploying them to augment employees and improve business performance. The diffusion of AI into a firm’s business processes affords the tracking of task actions performed by high-performing employees and the codification of best practices into recommendation systems and training programs. The rising trend in AI deployment reveals managers’ expectations that AI-facilitated knowledge transfer would elevate overall firm performance. However, deploying AI in a workplace has the potential to change the competitive dynamics among employees. The AI system can learn from high-performing employees and make that knowledge available to others. In a competitive environment, this can disincentivize high-performing employees and ultimately backfire, leading to a decline in overall firm productivity. In this paper, we study this problem of employee incentive issues when deploying AI in a competitive workplace, using a game-theoretic model. Our results show that when employees compete using both tangible (“hard”) and intangible (“soft”) skills, firm policies that favor AI-facilitated knowledge transfer and task outcome-based compensation may lower firm performance. We illustrate that payoffs from AI deployments depend on workforce heterogeneity, reliance on tangible skills, the skill disparity between employees, and AI efficacy. Using our model, we develop policy recommendations for maximizing the return on organizational AI deployments. Our results suggest that some ostensibly simple solutions, like guaranteeing or increasing the wages of adversely affected employees, may not solve the problem effectively, and firms would have to judiciously choose optimal AI efficacy levels for achieving better outcomes.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03108 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03108"/>
+    <category term="Management Science"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00899</id>
+    <title>The Information Content of Commodity Futures Markets</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Romulo Alves, Yifan Ma, Marta Szymanowska</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Among commodity futures sectors, only industrial metals returns predict future industrial production growth and revisions in producers’ expectations about future economic conditions across a wide range of countries. This predictive power is stronger in countries more exposed to the global economy, is driven by demand shocks, persists after controlling for trade dependence, continues to hold after the financialization of commodity markets, and is reflected in international stock returns. In contrast, energy and agriculture futures also contain relevant information but mainly for countries that depend on these commodities through trade. Our findings provide global evidence in support of the informational role of commodity markets and identify industrial metals as a reliable barometer of future global economic activity.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00899 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00899"/>
+    <category term="Management Science"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06504</id>
+    <title>Too Good to Be True – Individual and Collective Decision-Making with Misleading Signals</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Sebastian Fehrler, Anna Hochleitner, Moritz Janas</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In many situations, an abundance of misleading evidence—such as fake customer reviews—can lead to false or deceptive conclusions. We experimentally investigate individual and collective decision-making in an information structure in which signals can be correlated, depending on the state of the world. In this setting, too much evidence pointing in one direction has the potential to mislead, necessitating a level of sophistication for rational decision-making. Overall, participants’ performance is poor with only small differences in collective and individual decision-making accuracy. Interestingly, the more complex environment tends to encourage greater honesty within heterogeneous groups than a benchmark setting with independent signals, thus corroborating a rather subtle game-theoretic prediction.This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Funding: The authors received financial support from Tamkeen under NYU Abu Dhabi Research Institute Award CG005, from the Juniorprofessorenprogramm Baden-Württemberg, and from the Federal Ministry of Labour and Social Affairs (Germany) through the funding network Interdisciplinary Social Policy Research (BMAS-FIS).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06504 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06504"/>
+    <category term="Management Science"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05977</id>
+    <title>An Information-Based Theory of Auditor Switching</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Mingcherng Deng, Jing Li, Nan Zhou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We model auditor switching through a tender process involving an incumbent auditor, who has private information about the client firm’s audit cost (driven by audit complexity or audit risk), and an uninformed prospective auditor. When a firm’s audit cost is high, the auditor is more susceptible to audit failure by erroneously attesting to the firm’s favorable report. We show that, in equilibrium, the client facing a high audit cost is more likely to switch to a prospective auditor because of the winner’s curse. Clients who switch auditors experience a reduction in the overall expected audit fee and are more likely to receive favorable audited reports from the new auditor than clients who do not switch. Our analytical findings collectively present a new information-based perspective on auditor switching, extending beyond the conventional “opinion shopping” explanation. We caution researchers to consider the potential influence of information asymmetry among auditors when examining auditor switching.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2024.05977 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05977"/>
+    <category term="Management Science"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261450925</id>
+    <title>EXPRESS: Picture This: How Review Valence Shapes the Quality and Helpfulness of User-Generated Photos</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <author>
+      <name>Jiani Xue, Shiri Melumad</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;User-generated photos play an increasingly important role in online reviews, yet little is known about the process by which they are initially created. This paper develops a theory of image creation arguing that reviewers invest more creative effort in photographing products/services they feel positively (vs. negatively) about. This greater effort results in higher-quality photos that observers find to be more helpful, both because they are easier to visually process and because they engender greater trust in the reviewer. Results across six studies—including controlled experiments and an observational laboratory study (N = 4,218) as well as field analyses of Amazon and Yelp reviews (N = 669,937)—lend support to these predictions. By identifying valence as a driver of creative effort in user-generated photography, the findings advance knowledge on how visual content is produced in online marketplaces and how such content is evaluated by consumers.</content>
+    <link href="https://doi.org/10.1177/00222437261450925"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2026-05-04T00:00:00+00:00</published>
   </entry>
 </feed>
