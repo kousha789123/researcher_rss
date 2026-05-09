@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-05-08T19:37:49.878000+00:00</updated>
+  <updated>2026-05-09T11:20:31.631002+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -729,26 +729,26 @@ We explain these occurrences through the lens of an amended small open-economy N
     <published>2026-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35163</id>
-    <title>How Poverty Fell</title>
+    <id>https://www.nber.org/papers/w35135</id>
+    <title>The Value of Reliable Statistics</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
     <author>
-      <name>Vincent J. Armentano, Paul Niehaus &amp; Tom Vogl</name>
+      <name>Nicholas Bloom, Erica L. Groshen, Duncan Hobbs &amp; Michael R. Strain</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The share of the global population living in extreme poverty fell dramatically from an estimated 36% in 1990 to 9% in 2015. We describe how this decline happened: the extent to which changes within as opposed to between cohorts contributed to poverty declines, and the key changes in the lives of households as they transitioned out of (and into) poverty. We do so using cross-sectional and panel sources that are representative or near-representative of five countries that collectively accounted for 75% of global poverty decline between 1990 and 2015. The data show that overlapping birth cohorts experienced the decline of poverty together over time, such that poverty decline can be viewed as a primarily within-cohort phenomenon. Within cohorts, the data reveal substantial churn, casting the challenge of escaping poverty as a “slippery slope” more than a long-term trap. The data also illustrate a diversity of pathways out of poverty: sectoral transitions, migration, and changing occupational choices and female labor force participation can all account for some part of poverty reduction, but in all but a handful of cases, a majority of households exiting poverty did so without experiencing these changes.</content>
-    <link href="https://www.nber.org/papers/w35163"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;On August 1, 2025, President Trump fired the head of the U.S. Bureau of Labor Statistics (BLS) and claimed that the agency’s data were “rigged.” In the aftermath, measures of economic policy uncertainty rose sharply, consistent with the idea that reduced trust in official data increases uncertainty for investors, businesses, and households. We use an event-study design to estimate the effect of the firing on policy uncertainty, and then map that increase in uncertainty into implied macroeconomic outcomes. This yields a back-of-the-envelope estimate of the marginal value of public trust in official statistics. Our baseline estimate implies that preserving trust in the integrity and quality of official statistics generates economic benefits of about $25 for every $1 spent on the agency’s budget.</content>
+    <link href="https://www.nber.org/papers/w35135"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35157</id>
-    <title>Automation, Learning, and Career Dynamics</title>
+    <id>https://www.nber.org/papers/w35134</id>
+    <title>Taxes and Financial Distress: Evidence from Establishment-Level Data</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
     <author>
-      <name>Hassan Afrouzi, Andres Blanco, Andrés Drenik &amp; Erik Hurst</name>
+      <name>Mara Faccio &amp; Stefano Manfredonia</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how an automating technology affects career dynamics, human capital, and welfare in an economy where workers acquire skill through the tasks they perform. In a continuous-time general equilibrium model, learning-by-doing is determined jointly with the share of tasks automated, the frontier of tasks managers maintain, and the worker-to-manager career transition. Economies with high learning capacity admit pairs of stationary equilibria strictly ranked by the aggregate learning rate. Cheaper technology has opposite effects across the two: in the high-learning equilibrium, it raises welfare through the learning channel itself; in the low-learning equilibrium, it tips the economy into a human-capital trap. The planner's first-best combines a tax on automation profits with a subsidy on frontier-maintenance expenditures at a common rate.</content>
-    <link href="https://www.nber.org/papers/w35157"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use establishment-level data to examine the relation between corporate taxes and financial distress. Using a border discontinuity design, we document that higher corporate income tax rates significantly increase financial distress, particularly for geographically concentrated firms, with sizable spillovers across establishments. We further investigate how taxes affect establishment-level financial distress by exploiting the interest limitation rule introduced by the 2017 Tax Cuts and Jobs Act. Using a difference-in-differences design, we find that affected firms experience a decline in financial distress. This occurs because the reduced tax advantage of debt induces firms to deleverage, reducing financial distress through capital structure adjustments.</content>
+    <link href="https://www.nber.org/papers/w35134"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
@@ -941,6 +941,30 @@ We explain these occurrences through the lens of an amended small open-economy N
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This research explores how human-defined goals influence the behavior of Large Language Models (LLMs) through purpose-conditioned cognition. Using financial prediction tasks, we show that revealing the downstream use (e.g., predicting stock returns or earnings) of LLM outputs leads the LLM to generate biased sentiment and competition measures, even though these measures are intended to be downstream task–independent. Goal-aware prompting shifts these intermediate measures toward the disclosed downstream objective, producing in-sample overfitting. Specifically, purpose leakage improves performance on data prior to the LLM’s knowledge cutoff, but provides no advantage after the cutoff. This bias is strong enough that regularization of prompt instructions cannot fully address this form of overfitting. We further show that the bias can arise from users’ unintentional conversational context that hints at the purpose. Overall, we document that AI bias due to “seeing the goal” is not an algorithmic flaw, but stems from human accountability in research design.</content>
     <link href="https://www.nber.org/papers/w35142"/>
+    <category term="NBER"/>
+    <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35157</id>
+    <title>Automation, Learning, and Career Dynamics</title>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hassan Afrouzi, Andres Blanco, Andrés Drenik &amp; Erik Hurst</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how an automating technology affects career dynamics, human capital, and welfare in an economy where workers acquire skill through the tasks they perform. In a continuous-time general equilibrium model, learning-by-doing is determined jointly with the share of tasks automated, the frontier of tasks managers maintain, and the worker-to-manager career transition. Economies with high learning capacity admit pairs of stationary equilibria strictly ranked by the aggregate learning rate. Cheaper technology has opposite effects across the two: in the high-learning equilibrium, it raises welfare through the learning channel itself; in the low-learning equilibrium, it tips the economy into a human-capital trap. The planner's first-best combines a tax on automation profits with a subsidy on frontier-maintenance expenditures at a common rate.</content>
+    <link href="https://www.nber.org/papers/w35157"/>
+    <category term="NBER"/>
+    <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35163</id>
+    <title>How Poverty Fell</title>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <author>
+      <name>Vincent J. Armentano, Paul Niehaus &amp; Tom Vogl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The share of the global population living in extreme poverty fell dramatically from an estimated 36% in 1990 to 9% in 2015. We describe how this decline happened: the extent to which changes within as opposed to between cohorts contributed to poverty declines, and the key changes in the lives of households as they transitioned out of (and into) poverty. We do so using cross-sectional and panel sources that are representative or near-representative of five countries that collectively accounted for 75% of global poverty decline between 1990 and 2015. The data show that overlapping birth cohorts experienced the decline of poverty together over time, such that poverty decline can be viewed as a primarily within-cohort phenomenon. Within cohorts, the data reveal substantial churn, casting the challenge of escaping poverty as a “slippery slope” more than a long-term trap. The data also illustrate a diversity of pathways out of poverty: sectoral transitions, migration, and changing occupational choices and female labor force participation can all account for some part of poverty reduction, but in all but a handful of cases, a majority of households exiting poverty did so without experiencing these changes.</content>
+    <link href="https://www.nber.org/papers/w35163"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
@@ -1181,30 +1205,6 @@ We explain these occurrences through the lens of an amended small open-economy N
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;State-contingent debt (SCD) instruments have been proposed as an improvement to sovereign debt markets, but their issuance costs are not well understood. We estimate the SCD premium at issuance and for more than a decade thereafter, employing a quasi-twin bond strategy that uses two very similar French government bonds issued in 1956: one conventional bond and one state-contingent bond with coupons linked to industrial production. At issuance, the expected yield on the SCD bond was 77 basis points higher than its twin. Due to robust growth in the French economy ex-post, the realized SCD premium at issuance was roughly twice as large (146 basis points). However, rising market prices of the state-contingent bond reduced both spreads to zero by 1964. They rose again in May 1968 following an unexpected general strike, which significantly reduced French industrial production; however, by 1970, the SCD premium had fallen to values close to zero.</content>
     <link href="https://www.nber.org/papers/w35136"/>
-    <category term="NBER"/>
-    <published>2026-05-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35135</id>
-    <title>The Value of Reliable Statistics</title>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas Bloom, Erica L. Groshen, Duncan Hobbs &amp; Michael R. Strain</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;On August 1, 2025, President Trump fired the head of the U.S. Bureau of Labor Statistics (BLS) and claimed that the agency’s data were “rigged.” In the aftermath, measures of economic policy uncertainty rose sharply, consistent with the idea that reduced trust in official data increases uncertainty for investors, businesses, and households. We use an event-study design to estimate the effect of the firing on policy uncertainty, and then map that increase in uncertainty into implied macroeconomic outcomes. This yields a back-of-the-envelope estimate of the marginal value of public trust in official statistics. Our baseline estimate implies that preserving trust in the integrity and quality of official statistics generates economic benefits of about $25 for every $1 spent on the agency’s budget.</content>
-    <link href="https://www.nber.org/papers/w35135"/>
-    <category term="NBER"/>
-    <published>2026-05-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35134</id>
-    <title>Taxes and Financial Distress: Evidence from Establishment-Level Data</title>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mara Faccio &amp; Stefano Manfredonia</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use establishment-level data to examine the relation between corporate taxes and financial distress. Using a border discontinuity design, we document that higher corporate income tax rates significantly increase financial distress, particularly for geographically concentrated firms, with sizable spillovers across establishments. We further investigate how taxes affect establishment-level financial distress by exploiting the interest limitation rule introduced by the 2017 Tax Cuts and Jobs Act. Using a difference-in-differences design, we find that affected firms experience a decline in financial distress. This occurs because the reduced tax advantage of debt induces firms to deleverage, reducing financial distress through capital structure adjustments.</content>
-    <link href="https://www.nber.org/papers/w35134"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
