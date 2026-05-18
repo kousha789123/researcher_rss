@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-05-18T15:03:45.652778+00:00</updated>
+  <updated>2026-05-18T19:14:30.699897+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -547,18 +547,6 @@
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35194</id>
-    <title>Data Centers and Local Economies in the Age of AI: A Shift--Share Approach</title>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <author>
-      <name>Fernando E. Alvarez, David Argente, Joyce Chow &amp; Diana Van Patten</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data centers are the physical infrastructure behind cloud computing, artificial intelligence, and enterprise software. The rapid diffusion of artificial intelligence (AI) is intensifying demand for compute, accelerating investment in data centers, and raising concerns about the local economic and environmental footprint of these facilities. Their expansion creates a local policy tradeoff. A data center can bring capital investment, construction activity, and specialized employment, but it can also increase demand for electricity, land, and grid capacity. This paper studies these effects at the U.S. county level. We assemble a facility-level panel of global data centers with precise coordinates, scale metrics, and annualized revenue. We map facilities to U.S. counties and combine them with County Business Patterns, county-level IRS income, county-level house prices, and electricity prices. To address endogenous siting, we instrument for data center growth using two shift-share instruments, which leverage pre-existing proximity to InterTubes long-haul fiber nodes and the 1980 county share of U.S. urban college population as shares, and both Chinese and rest-of-the-world data center revenue growth as shifts. The IV estimates show positive effects on total employment, data-processing employment, construction employment, establishments, house prices, and electricity prices at different horizons after data center growth. We also find positive effects on tax returns, adjusted gross income, and wages, while annual payroll responds less robustly. The results suggest that data centers create measurable local activity, increase house prices, and affect local electricity markets through higher prices.</content>
-    <link href="https://www.nber.org/papers/w35194"/>
-    <category term="NBER"/>
-    <published>2026-05-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35193</id>
     <title>Mortality Rates by Race and Ethnicity Among People with Disabilities</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
@@ -615,6 +603,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Campbell and Shiller (1988) log-linear approximation is widely viewed as a model-free accounting identity that always holds: in sample, in expectation, and under arbitrary subjective beliefs. None of these claims is true. The formula is far from automatic even in realized data. Many companies do not pay dividends, making the calculation ill-defined. For dividend payers, the results are not always what they seem. The formula registers buybacks and new issuance as phantom cash-flow shocks. Taking expectations comes with its own complications. Researchers see the forward-looking version of Campbell-Shiller as a dynamic Gordon model, but this interpretation requires investors to consistently think in present-value terms and to know the cap rate with basis-point precision. Both are strong assumptions that do not always hold in the data. Finally, the formula generically fails under arbitrary subjective beliefs. The exceptions represent knife-edge cases where forecast errors obey a precise adding-up condition. Insisting that Campbell-Shiller always holds makes it harder to learn about the true pricing model in the many cases where it does not.</content>
     <link href="https://www.nber.org/papers/w35189"/>
+    <category term="NBER"/>
+    <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35194</id>
+    <title>Data Centers and Local Economies in the Age of AI: A Shift--Share Approach</title>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <author>
+      <name>Fernando E. Alvarez, David Argente, Joyce Chow &amp; Diana Van Patten</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data centers are the physical infrastructure behind cloud computing, artificial intelligence, and enterprise software. The rapid diffusion of artificial intelligence (AI) is intensifying demand for compute, accelerating investment in data centers, and raising concerns about the local economic and environmental footprint of these facilities. Their expansion creates a local policy tradeoff. A data center can bring capital investment, construction activity, and specialized employment, but it can also increase demand for electricity, land, and grid capacity. This paper studies these effects at the U.S. county level. We assemble a facility-level panel of global data centers with precise coordinates, scale metrics, and annualized revenue. We map facilities to U.S. counties and combine them with County Business Patterns, county-level IRS income, county-level house prices, and electricity prices. To address endogenous siting, we instrument for data center growth using two shift-share instruments, which leverage pre-existing proximity to InterTubes long-haul fiber nodes and the 1980 county share of U.S. urban college population as shares, and both Chinese and rest-of-the-world data center revenue growth as shifts. The IV estimates show positive effects on total employment, data-processing employment, construction employment, establishments, house prices, and electricity prices at different horizons after data center growth. We also find positive effects on tax returns, adjusted gross income, and wages, while annual payroll responds less robustly. The results suggest that data centers create measurable local activity, increase house prices, and affect local electricity markets through higher prices.</content>
+    <link href="https://www.nber.org/papers/w35194"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
@@ -1027,6 +1027,42 @@
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35211</id>
+    <title>Endogenous Task Bundling, Skills and Automation</title>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Empirical measures of AI's wage effect typically hold fixed the bundle of activities a worker is paid for at its pre-AI shape. We argue that this assumption hides much of the action. When automation breaks a job apart, firms decide how to recombine the surviving activities; whether they rebundle them into one broad role or split them into specialist roles changes which surviving skills the labour market actually rewards. A skill that played no role in the pre-AI wage can become the dominant component of the post-AI wage, while a skill that anchored the pre-AI wage can disappear from the schedule. We develop an assignment model in which the priced human bundle is endogenous, and we use it to show that a fixed-bundle wage regression can mis-sign the effect of AI exposure. In general, the omitted-redesign bias has no unconditional sign: it is the residual covariance between exposure and role-specific redesign terms. Under explicit sufficient conditions, exposure-correlated unbundling loads specialist comparative-advantage premia onto the exposure coefficient, while exposure-correlated rebundling loads a different, often opposite, omitted term. The sign must therefore be measured from local post-AI partition changes rather than assumed from exposure alone.</content>
+    <link href="https://www.nber.org/papers/w35211"/>
+    <category term="NBER"/>
+    <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35210</id>
+    <title>Medical Innovation and Racial Health Disparities: Evidence from a Breakthrough Treatment</title>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <author>
+      <name>D. Mark Anderson, Kerwin Kofi Charles &amp; Daniel I. Rees</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Whether medical innovation exacerbates or reduces racial health disparities remains an open question. We study surfactant replacement therapy (SRT), a life-saving intervention for premature infants with respiratory disorders. Before its approval by the FDA in 1989, premature Black infants were much less likely than their White counterparts to die from respiratory-related causes. Within a few years of FDA approval, the Black-White gap in respiratory-related neonatal mortality had essentially disappeared. Using 1980-2000 vital statistics data and non-respiratory-related mortality as a counterfactual outcome, we find that both Blacks and Whites benefited from the introduction of SRT, but White neonates experienced larger and more immediate reductions in mortality. We estimate that, by 1993, SRT had reduced respiratory-related mortality among White neonates by 46 percent, compared to 30 percent for Black neonates. These results are not explained by differences in health care access, as proxied by socioeconomic status or distance to the nearest neonatal intensive care unit. We conclude that racial differences in fetal pulmonary maturation, rather than barriers to access, likely drove the uneven impact of SRT on neonatal mortality.</content>
+    <link href="https://www.nber.org/papers/w35210"/>
+    <category term="NBER"/>
+    <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35208</id>
+    <title>Estimating the Present Value of R&amp;D Tax Benefits in the United States</title>
+    <updated>2026-05-01T00:00:00+00:00</updated>
+    <author>
+      <name>Brandon Pecoraro, Nicholas C. Hoffman, Martin Lopez-Daneri, Elena C. Derby, Rachel Moore &amp; Shannon E. Sledz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a panel of confidential corporate tax returns, we provide the first direct estimates of the realized present value of corporate tax benefits from R&amp;D credits and deductions in the United States. Realized tax benefits can deviate from statutory tax benefits because firms in loss status are typically unable to fully utilize credits and deductions to offset current-year taxes and instead must carry these attributes forward. We develop a novel procedure to track the intertemporal firm-level utilization of tax attributes generated by corporate R&amp;D spending, and find that the present value of R&amp;D tax benefits varies substantially with firms’ loss status, age, and size. Old and large firms typically use R&amp;D tax benefits quickly, while young firms – especially those that are small – frequently operate in loss status and use tax attributes more slowly. From 2012–2016, the average firm generated $0.41 in statutory tax benefits per dollar of R&amp;D investment, with a realized present value of $0.36. Young and small firms in a loss position realized only $0.23 per dollar, a 44% decrease relative to the statutory benchmark.</content>
+    <link href="https://www.nber.org/papers/w35208"/>
+    <category term="NBER"/>
+    <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35207</id>
     <title>More Paths or More Contrast? A Theory of Experimentation Breadth</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
@@ -1131,42 +1167,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In this article, we exploit the recent, rapid diffusion of the use of GLP-1 drugs among individuals with diabetes to measure the effect of the use of these drugs on mental health, self-rated health, employment, and marriage. The documented large weight loss from GLP-1 use may plausibly affect these outcomes and evidence of these broader impacts of GLP-1 use is necessary to evaluate their full value. Estimates are obtained using a longitudinal (within-person) regression approach. Results indicate that GLP-1 use is not meaningfully associated with mental health, self-rated health, employment, and marriage. Overall, our analysis adds new evidence about how GLP-1 use is affecting the lives of individuals with diabetes.</content>
     <link href="https://www.nber.org/papers/w35198"/>
-    <category term="NBER"/>
-    <published>2026-05-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35211</id>
-    <title>Endogenous Task Bundling, Skills and Automation</title>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Empirical measures of AI's wage effect typically hold fixed the bundle of activities a worker is paid for at its pre-AI shape. We argue that this assumption hides much of the action. When automation breaks a job apart, firms decide how to recombine the surviving activities; whether they rebundle them into one broad role or split them into specialist roles changes which surviving skills the labour market actually rewards. A skill that played no role in the pre-AI wage can become the dominant component of the post-AI wage, while a skill that anchored the pre-AI wage can disappear from the schedule. We develop an assignment model in which the priced human bundle is endogenous, and we use it to show that a fixed-bundle wage regression can mis-sign the effect of AI exposure. In general, the omitted-redesign bias has no unconditional sign: it is the residual covariance between exposure and role-specific redesign terms. Under explicit sufficient conditions, exposure-correlated unbundling loads specialist comparative-advantage premia onto the exposure coefficient, while exposure-correlated rebundling loads a different, often opposite, omitted term. The sign must therefore be measured from local post-AI partition changes rather than assumed from exposure alone.</content>
-    <link href="https://www.nber.org/papers/w35211"/>
-    <category term="NBER"/>
-    <published>2026-05-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35210</id>
-    <title>Medical Innovation and Racial Health Disparities: Evidence from a Breakthrough Treatment</title>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <author>
-      <name>D. Mark Anderson, Kerwin Kofi Charles &amp; Daniel I. Rees</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Whether medical innovation exacerbates or reduces racial health disparities remains an open question. We study surfactant replacement therapy (SRT), a life-saving intervention for premature infants with respiratory disorders. Before its approval by the FDA in 1989, premature Black infants were much less likely than their White counterparts to die from respiratory-related causes. Within a few years of FDA approval, the Black-White gap in respiratory-related neonatal mortality had essentially disappeared. Using 1980-2000 vital statistics data and non-respiratory-related mortality as a counterfactual outcome, we find that both Blacks and Whites benefited from the introduction of SRT, but White neonates experienced larger and more immediate reductions in mortality. We estimate that, by 1993, SRT had reduced respiratory-related mortality among White neonates by 46 percent, compared to 30 percent for Black neonates. These results are not explained by differences in health care access, as proxied by socioeconomic status or distance to the nearest neonatal intensive care unit. We conclude that racial differences in fetal pulmonary maturation, rather than barriers to access, likely drove the uneven impact of SRT on neonatal mortality.</content>
-    <link href="https://www.nber.org/papers/w35210"/>
-    <category term="NBER"/>
-    <published>2026-05-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35208</id>
-    <title>Estimating the Present Value of R&amp;D Tax Benefits in the United States</title>
-    <updated>2026-05-01T00:00:00+00:00</updated>
-    <author>
-      <name>Brandon Pecoraro, Nicholas C. Hoffman, Martin Lopez-Daneri, Elena C. Derby, Rachel Moore &amp; Shannon E. Sledz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a panel of confidential corporate tax returns, we provide the first direct estimates of the realized present value of corporate tax benefits from R&amp;D credits and deductions in the United States. Realized tax benefits can deviate from statutory tax benefits because firms in loss status are typically unable to fully utilize credits and deductions to offset current-year taxes and instead must carry these attributes forward. We develop a novel procedure to track the intertemporal firm-level utilization of tax attributes generated by corporate R&amp;D spending, and find that the present value of R&amp;D tax benefits varies substantially with firms’ loss status, age, and size. Old and large firms typically use R&amp;D tax benefits quickly, while young firms – especially those that are small – frequently operate in loss status and use tax attributes more slowly. From 2012–2016, the average firm generated $0.41 in statutory tax benefits per dollar of R&amp;D investment, with a realized present value of $0.36. Young and small firms in a loss position realized only $0.23 per dollar, a 44% decrease relative to the statutory benchmark.</content>
-    <link href="https://www.nber.org/papers/w35208"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
