@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-05-23T05:13:27.516206+00:00</updated>
+  <updated>2026-05-23T15:23:14.462642+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -887,18 +887,6 @@
     <published>2026-05-16T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10591478261453991</id>
-    <title>EXPRESS: Robustness of Online Proportional Response in Stochastic Online Fisher Markets: a Decentralized Approach</title>
-    <updated>2026-05-16T00:00:00+00:00</updated>
-    <author>
-      <name>Yongge Yang, Yu-Ching Lee, Po-An Chen, Chuang-Chieh Lin</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study is focused on periodic Fisher markets where items with time-dependent and stochastic values are regularly replenished, and buyers aim to maximize their utilities by spending budgets on these items. Traditional approaches of finding a market equilibrium in the single-period Fisher market rely on complete information about buyers' utility functions and budgets. However, it is impractical to consistently enforce buyers to disclose this private information in a periodic setting. We introduce a distributed bidding algorithm,online proportional response, wherein buyers update bids solely based on the randomly fluctuating values of items in each period. The market then allocates items based on the bids provided by the buyers. We show connections between the online proportional response and the online mirror descent algorithm. Utilizing the known Shmyrev convex program, a variant of the Eisenberg-Gale convex program that establishes market equilibrium of a Fisher market, two performance metrics are proposed: the fairness regret is the cumulative difference in the objective value of a stochastic Shmyrev convex program between an online algorithm and an offline optimum, and the individual buyer's regret gauges the deviation in terms of utility for each buyer between the online algorithm and the offline optimum. Our algorithm attains a problem-dependent upper bound in fairness regret under stationary inputs. This bound is contingent on the number of items and buyers. Additionally, we conduct analysis of regret under various nonstationary stochastic input models to demonstrate the algorithm's efficiency across diverse scenarios. The online proportional response algorithm addresses privacy concerns by allowing buyers to update bids without revealing sensitive information and ensures decentralized decision-making, fostering autonomy and potential improvements in buyer satisfaction. Furthermore, our algorithm is universally applicable to many worlds and shows the robustness of performance guarantees.</content>
-    <link href="https://doi.org/10.1177/10591478261453991"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-05-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/10591478261454489</id>
     <title>EXPRESS: Operations Management under Paradox of Choice</title>
     <updated>2026-05-16T00:00:00+00:00</updated>
@@ -907,6 +895,18 @@
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper examines how assortment size influences consumer purchasing behavior and retailer profits, focusing on the paradox of choice (PoC), where overly limited or excessive options can diminish purchase intent. Although PoC effects are well-documented in behavioral research, their impact on assortment and pricing strategies in retail remains underexplored. To bridge this gap, we formalize PoC mathematically by modeling the utility of the no-purchase option as a U-shaped function of assortment size. We integrate this PoC framework into several discrete choice models, using the multinomial logit (MNL) model as the focal model. By decomposing the assortment problem into subproblems with fixed assortment sizes, we develop efficient solutions for the assortment optimization and the joint assortment and price optimization problems under the MNL with PoC model. Additionally, we compare the optimal solutions of the classical MNL model and the MNL model with the PoC effect through theoretical analysis and numerical experiments, offering managerial insights to guide firms in optimizing their assortments. We further extend our approach to derive optimal assortment and pricing solutions for the nested logit model employing a linear programming approach. Moreover, we devise a Fully Polynomial Time Approximation Scheme (FPTAS) for the assortment optimization under the mixture of multinomial logit model with the PoC effect. This study advances the integration of behavioral insights into discrete choice models, illustrating how retailers can optimize product assortments and prices by balancing variety with cognitive effects linked to assortment size.</content>
     <link href="https://doi.org/10.1177/10591478261454489"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261453991</id>
+    <title>EXPRESS: Robustness of Online Proportional Response in Stochastic Online Fisher Markets: a Decentralized Approach</title>
+    <updated>2026-05-16T00:00:00+00:00</updated>
+    <author>
+      <name>Yongge Yang, Yu-Ching Lee, Po-An Chen, Chuang-Chieh Lin</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study is focused on periodic Fisher markets where items with time-dependent and stochastic values are regularly replenished, and buyers aim to maximize their utilities by spending budgets on these items. Traditional approaches of finding a market equilibrium in the single-period Fisher market rely on complete information about buyers' utility functions and budgets. However, it is impractical to consistently enforce buyers to disclose this private information in a periodic setting. We introduce a distributed bidding algorithm,online proportional response, wherein buyers update bids solely based on the randomly fluctuating values of items in each period. The market then allocates items based on the bids provided by the buyers. We show connections between the online proportional response and the online mirror descent algorithm. Utilizing the known Shmyrev convex program, a variant of the Eisenberg-Gale convex program that establishes market equilibrium of a Fisher market, two performance metrics are proposed: the fairness regret is the cumulative difference in the objective value of a stochastic Shmyrev convex program between an online algorithm and an offline optimum, and the individual buyer's regret gauges the deviation in terms of utility for each buyer between the online algorithm and the offline optimum. Our algorithm attains a problem-dependent upper bound in fairness regret under stationary inputs. This bound is contingent on the number of items and buyers. Additionally, we conduct analysis of regret under various nonstationary stochastic input models to demonstrate the algorithm's efficiency across diverse scenarios. The online proportional response algorithm addresses privacy concerns by allowing buyers to update bids without revealing sensitive information and ensures decentralized decision-making, fostering autonomy and potential improvements in buyer satisfaction. Furthermore, our algorithm is universally applicable to many worlds and shows the robustness of performance guarantees.</content>
+    <link href="https://doi.org/10.1177/10591478261453991"/>
     <category term="Production and Operations Management"/>
     <published>2026-05-16T00:00:00+00:00</published>
   </entry>
@@ -1645,6 +1645,30 @@
     <published>2026-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1111/jofi.70054</id>
+    <title>Hedger of Last Resort: Evidence from Brazilian FX Interventions, Local Credit, and Global Financial Cycles</title>
+    <updated>2026-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>RODRIGO BARBONE GONZALEZ, DMITRY KHAMETSHIN, JOSÉ‐LUIS PEYDRÓ, ANDREA POLO</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We show that FX interventions can be effective, particularly in attenuating global financial spillovers. We exploit global financial shocks and Brazilian central bank interventions in FX derivatives using three matched administrative registers: bank credit (to firms), foreign credit to banks, and employer‐employees. After the U.S. Taper Tantrum (followed by emerging markets' FX turbulence), Brazilian banks with more foreign debt cut credit supply, reducing firm‐level employment. A subsequent large policy intervention supplying derivatives against FX risks —hedger of last resort— halved the negative effects. A 2008 to 2015 panel exploiting global FX shocks and local FX interventions confirms the results and the hedging channel. However, the FX policy entails fiscal and moral hazard costs.</content>
+    <link href="https://doi.org/10.1111/jofi.70054"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70048</id>
+    <title>Quote Competition in Corporate Bonds</title>
+    <updated>2026-05-22T00:00:00+00:00</updated>
+    <author>
+      <name>TERRENCE HENDERSHOTT, DAN LI, DMITRY LIVDAN, NORMAN SCHÜRHOFF, KUMAR VENKATARAMAN</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Dealer quotes in corporate bonds, though indicative, lower trading costs and increase trading volume. Dealers offering higher quality quotes attract more order flow and execute trades at favorable prices. Dealers advertise quotes to manage their inventories and attract orders from nonrelationship clients. However, quote competition is imperfect. The best quotes often fail to attract orders, and trade‐throughs are common. Nevertheless, quote competition is important as clients exploit quotes from other dealers in negotiations, forcing dealers with lower quality quotes to offer price improvements. Quoting is not a zero‐sum game, as more active bond‐level quoting leads to more bond‐level trading.</content>
+    <link href="https://doi.org/10.1111/jofi.70048"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-05-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/jcpy.70028</id>
     <title>Repentance‐driven fitness: Moral striving in a Tunisian context</title>
     <updated>2026-05-22T00:00:00+00:00</updated>
@@ -2186,18 +2210,6 @@
     <published>2026-05-08T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0487</id>
-    <title>Unraveling Generative AI from a Human Intelligence Perspective: A Battery of Experiments</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Wen Wang, Siqi Pei, Tianshu Sun</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study introduces a novel, human-centered framework for evaluating the holistic intelligence of large language models (LLMs), using behavioral theory and experimental benchmarks drawn from human intelligence. Through extensive online experiments, the framework reveals that GPT-4 outperforms humans in cognitive, emotional, and creative intelligence, but falls short in social intelligence, especially in social interest, self-efficacy, and understanding mental states. Beyond theoretical insight, the study validates this framework by assessing GPT-4’s impact across diverse job roles, finding results consistent with established labor market research. It also offers a reusable tool for firms and policymakers to evaluate LLM intelligence and forecast job-level impacts. This enables informed decisions about where and how to integrate LLMs, match models to specific job requirements, and identify risks in socially intensive roles. The framework provides a foundation for responsible LLM deployment, ensuring alignment with human-centered structures and supporting strategic workforce planning.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0487"/>
-    <category term="Information Systems Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2024.1190</id>
     <title>When Do Equity Appeals Increase Giving? Evidence from Educational Crowdfunding</title>
     <updated>2026-05-08T00:00:00+00:00</updated>
@@ -2206,6 +2218,18 @@
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Equity appeals are increasingly used by digital fundraising platforms, nonprofits, and public institutions to direct attention and resources toward disadvantaged communities. However, it remains unclear whether and when equity appeals actually increase giving. We examine this question in the context of educational crowdfunding, where platforms explicitly focus on reducing funding disparities across schools, particularly for students from racial or ethnic minority and low-income backgrounds. Leveraging large-scale data from DonorsChoose, one of the largest educational crowdfunding platforms in the United States, and exploiting arbitrary cutoffs in the platform’s deployment of equity appeals based on the student composition of benefitting schools, we show that equity appeals increase fundraising when they highlight student disadvantage in terms of poverty while providing little to no measurable benefit when they highlight student disadvantage in terms of race. These differential effects reflect how donors interpret disadvantage. Many donors appear to view poverty as a legitimate and actionable barrier to learning, making poverty-based appeals effective. In contrast, perceptions of race as a structural barrier to educational opportunity are more heterogeneous and politically sensitive, limiting the impact of race-based appeals. For platform designers and policymakers seeking to reduce educational fundraising disparities, our findings highlight the importance of how equity appeals are framed. More broadly, our results contribute to understanding under what conditions behavioral nudges can meaningfully reduce inequality versus when alternative approaches may be necessary to achieve equitable outcomes.</content>
     <link href="https://doi.org/10.1287/isre.2024.1190"/>
+    <category term="Information Systems Research"/>
+    <published>2026-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0487</id>
+    <title>Unraveling Generative AI from a Human Intelligence Perspective: A Battery of Experiments</title>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+    <author>
+      <name>Wen Wang, Siqi Pei, Tianshu Sun</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study introduces a novel, human-centered framework for evaluating the holistic intelligence of large language models (LLMs), using behavioral theory and experimental benchmarks drawn from human intelligence. Through extensive online experiments, the framework reveals that GPT-4 outperforms humans in cognitive, emotional, and creative intelligence, but falls short in social intelligence, especially in social interest, self-efficacy, and understanding mental states. Beyond theoretical insight, the study validates this framework by assessing GPT-4’s impact across diverse job roles, finding results consistent with established labor market research. It also offers a reusable tool for firms and policymakers to evaluate LLM intelligence and forecast job-level impacts. This enables informed decisions about where and how to integrate LLMs, match models to specific job requirements, and identify risks in socially intensive roles. The framework provides a foundation for responsible LLM deployment, ensuring alignment with human-centered structures and supporting strategic workforce planning.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0487"/>
     <category term="Information Systems Research"/>
     <published>2026-05-08T00:00:00+00:00</published>
   </entry>
