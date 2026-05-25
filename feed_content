@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-05-24T12:47:25.818148+00:00</updated>
+  <updated>2026-05-25T12:47:42.374684+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -609,18 +609,6 @@
     <published>2026-05-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdag026</id>
-    <title>A Model of Multiple Hypothesis Testing</title>
-    <updated>2026-05-14T00:00:00+00:00</updated>
-    <author>
-      <name>Davide Viviano, Kaspar Wüthrich, Paul Niehaus</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Multiple hypothesis testing (MHT) practices vary widely, without consensus on which are appropriate when. This article provides an economic foundation for these practices designed to capture leading examples, such as regulatory approval on the basis of clinical trials. MHT adjustments are appropriate in our framework to the extent that research costs are invariant to the number of hypotheses. Control of average size, as for example via a Bonferroni correction, emerges in the limit case where all costs are fixed; in the opposite limit, where costs vary in proportion to the hypothesis count, no correction is needed. We illustrate implications by calculating explicit critical values using data on actual costs in the drug approval process and in program evaluation research; these suggest that some MHT adjustment is warranted in these applications, but not as much as implied by standard practice.</content>
-    <link href="https://doi.org/10.1093/restud/rdag026"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-05-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1093/restud/rdag031</id>
     <title>Input Sourcing under Climate Risk: Evidence from U.S. Manufacturing Firms</title>
     <updated>2026-05-14T00:00:00+00:00</updated>
@@ -629,6 +617,18 @@
     </author>
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the effect of risk on how firms organize their supply chains. We use transaction-level data on U.S. manufacturing imports to construct a novel measure of input sourcing risk based on the historical volatility of ocean shipping times. Our measure isolates the unexpected component of shipping times that is induced by weather conditions along more than 331,000 maritime routes. We first document that unexpected shipping delays significantly reduce importers’ sales, profits, and employment. We then show that firms actively diversify weather risk by using more routes and foreign suppliers, although their import values decline. To rationalize these findings, we introduce shipping time risk into a general equilibrium model of importing with firm heterogeneity. Our quantitative analysis predicts substantial costs for the U.S. economy associated with supply chain risk.</content>
     <link href="https://doi.org/10.1093/restud/rdag031"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdag026</id>
+    <title>A Model of Multiple Hypothesis Testing</title>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Davide Viviano, Kaspar Wüthrich, Paul Niehaus</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Multiple hypothesis testing (MHT) practices vary widely, without consensus on which are appropriate when. This article provides an economic foundation for these practices designed to capture leading examples, such as regulatory approval on the basis of clinical trials. MHT adjustments are appropriate in our framework to the extent that research costs are invariant to the number of hypotheses. Control of average size, as for example via a Bonferroni correction, emerges in the limit case where all costs are fixed; in the opposite limit, where costs vary in proportion to the hypothesis count, no correction is needed. We illustrate implications by calculating explicit critical values using data on actual costs in the drug approval process and in program evaluation research; these suggest that some MHT adjustment is warranted in these applications, but not as much as implied by standard practice.</content>
+    <link href="https://doi.org/10.1093/restud/rdag026"/>
     <category term="Review of Economic Studies"/>
     <published>2026-05-14T00:00:00+00:00</published>
   </entry>
@@ -1705,112 +1705,28 @@
     <published>2026-05-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2023.0184</id>
-    <title>Asymptotic Product-Form Steady State for Generalized Jackson Networks in Multiscale Heavy Traffic</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1017/s0022109026102750</id>
+    <title>Careers in Finance</title>
+    <updated>2026-05-25T00:00:00+00:00</updated>
     <author>
-      <name>J. G. Dai, Peter W. Glynn, Yaosheng Xu</name>
+      <name>Andrew Ellul, Marco Pagano, Annalisa Scognamiglio</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Product-Form Steady-State Approximation of Generalized Jackson NetworksIn “Asymptotic Product-Form Steady State for Generalized Jackson Networks in Multiscale Heavy Traffic,” Dai, Glynn, and Xu revisit a long-standing question in queueing network theory. For open Jackson networks in which interarrival and service distributions are exponential, steady-state queue lengths are independent and admit a product-form distribution, making performance analysis tractable and scalable. For generalized Jackson networks with general primitive distributions, the product-form structure no longer holds. The authors show that under a multiscale heavy traffic condition—where different stations operate at widely separated levels of congestion—the stationary distribution of suitably scaled queue lengths admits an asymptotic product-form limit. In this limit, each component is exponentially distributed, with a rate that depends only on the first two moments of the primitive distributions. This result, along with its recent generalizations, creates the potential for a scalable performance analysis tool for generalized Jackson networks and beyond.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0184"/>
-    <category term="Operations Research"/>
-    <published>2026-05-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;Past research has documented a substantial finance wage premium. We examine whether this premium reflects differences in lifetime career opportunities. Using resume data, we reconstruct career trajectories in finance and nonfinance sectors and build synthetic measures of career attractiveness that account for compensation levels, growth, and risk. We find that asset management and investment banking provide a sizable risk-adjusted career premium relative to banking, insurance, and other sectors. This premium has declined across cohorts, particularly relative to high tech. Labor-market entry patterns respond to these premia: potential entrants treat finance and high-tech careers as substitutes when choosing where to start.</content>
+    <link href="https://doi.org/10.1017/s0022109026102750"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-05-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05295</id>
-    <title>COPPAcalypse? The YouTube Settlement’s Impact on Kids’ Content</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/jcpy.70030</id>
+    <title>Authenticity as fact or feeling: A dual‐process framework of consumer authenticity judgments</title>
+    <updated>2026-05-25T00:00:00+00:00</updated>
     <author>
-      <name>Garrett A. Johnson, Tesary Lin, Liang Zhong, James C. Cooper</name>
+      <name>Rosanna K. Smith, Katherine Du</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how privacy restrictions affect online content creation and consumption by evaluating the impact of YouTube’s settlement with the Federal Trade Commission over violating the Children’s Online Privacy Protection Act. Under the settlement, YouTube limited personalization for made-for-kids (MFK) content starting in January 2020, and this included personalized ads and content engagement features such as subscriber notifications and playlists. We study the resulting impact on 5,066 top American YouTube channels by comparing the MFK content creators to their non-MFK counterparts using a difference-in-differences design. On the supply side, MFK content creators produce 18% less content and pivot toward non-MFK content production. MFK content creators also invest less in content quality: the proportion of original content falls by 9% and manual captioning drops by 28%, whereas viewer content ratings fall by 9%. On the demand side, views of MFK channels fall by 20%. The restrictions also affected market competition, increasing concentration of both content creation and viewership among top MFK channels.This paper was accepted by Jean-Pierre Dubé, marketing.Funding: This work was supported by the Questrom School of Business Digital Business Institute, the Program on Economics &amp; Privacy at George Mason University, and the “Economics of Digital Services” initiative by the University of Pennsylvania’s Center of Technology, Innovation &amp; Competition and Warren Center.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05295 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05295"/>
-    <category term="Management Science"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.08861</id>
-    <title>Before the Storm: Firm Policies and Varying Recession Risk</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Ali Kakhbod, Dmitry Livdan, Max Reppen, Tarik Umar</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recession risk fluctuates substantially “before the storm,” yet little is known about how firms of different sizes adapt their policies accordingly. We embed time-varying recession risk into a model of liquidity management and investment, allowing firms to time their precautionary policies. Estimation reveals that small firms are less sensitive than large firms in their issuance, payout, and investment strategies to variations in recession risk. This is because small firms proactively build larger cash reserves relative to their current cash flow volatility during periods of low recession risk, anticipating that aggressive investment will gradually drain liquidity, grow cash flow volatility, and raise the risk of liquidation if a recession occurs. In contrast, large firms rely on robust cash flows to replenish liquidity during periods of low recession risk, deferring other precautionary actions until recession risk intensifies. These results have important implications for estimating the impact of recessions and macroprudential policy.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08861 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.08861"/>
-    <category term="Management Science"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03108</id>
-    <title>Backfiring AI? AI Deployment in Workplace</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Di Yuan, Manmohan Aseri, Narayan Ramasubbu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Seeking value from artificial intelligence (AI) technologies, firms are rapidly deploying them to augment employees and improve business performance. The diffusion of AI into a firm’s business processes affords the tracking of task actions performed by high-performing employees and the codification of best practices into recommendation systems and training programs. The rising trend in AI deployment reveals managers’ expectations that AI-facilitated knowledge transfer would elevate overall firm performance. However, deploying AI in a workplace has the potential to change the competitive dynamics among employees. The AI system can learn from high-performing employees and make that knowledge available to others. In a competitive environment, this can disincentivize high-performing employees and ultimately backfire, leading to a decline in overall firm productivity. In this paper, we study this problem of employee incentive issues when deploying AI in a competitive workplace, using a game-theoretic model. Our results show that when employees compete using both tangible (“hard”) and intangible (“soft”) skills, firm policies that favor AI-facilitated knowledge transfer and task outcome-based compensation may lower firm performance. We illustrate that payoffs from AI deployments depend on workforce heterogeneity, reliance on tangible skills, the skill disparity between employees, and AI efficacy. Using our model, we develop policy recommendations for maximizing the return on organizational AI deployments. Our results suggest that some ostensibly simple solutions, like guaranteeing or increasing the wages of adversely affected employees, may not solve the problem effectively, and firms would have to judiciously choose optimal AI efficacy levels for achieving better outcomes.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03108 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03108"/>
-    <category term="Management Science"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.00899</id>
-    <title>The Information Content of Commodity Futures Markets</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Romulo Alves, Yifan Ma, Marta Szymanowska</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Among commodity futures sectors, only industrial metals returns predict future industrial production growth and revisions in producers’ expectations about future economic conditions across a wide range of countries. This predictive power is stronger in countries more exposed to the global economy, is driven by demand shocks, persists after controlling for trade dependence, continues to hold after the financialization of commodity markets, and is reflected in international stock returns. In contrast, energy and agriculture futures also contain relevant information but mainly for countries that depend on these commodities through trade. Our findings provide global evidence in support of the informational role of commodity markets and identify industrial metals as a reliable barometer of future global economic activity.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00899 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.00899"/>
-    <category term="Management Science"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06504</id>
-    <title>Too Good to Be True – Individual and Collective Decision-Making with Misleading Signals</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Sebastian Fehrler, Anna Hochleitner, Moritz Janas</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In many situations, an abundance of misleading evidence—such as fake customer reviews—can lead to false or deceptive conclusions. We experimentally investigate individual and collective decision-making in an information structure in which signals can be correlated, depending on the state of the world. In this setting, too much evidence pointing in one direction has the potential to mislead, necessitating a level of sophistication for rational decision-making. Overall, participants’ performance is poor with only small differences in collective and individual decision-making accuracy. Interestingly, the more complex environment tends to encourage greater honesty within heterogeneous groups than a benchmark setting with independent signals, thus corroborating a rather subtle game-theoretic prediction.This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Funding: The authors received financial support from Tamkeen under NYU Abu Dhabi Research Institute Award CG005, from the Juniorprofessorenprogramm Baden-Württemberg, and from the Federal Ministry of Labour and Social Affairs (Germany) through the funding network Interdisciplinary Social Policy Research (BMAS-FIS).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06504 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06504"/>
-    <category term="Management Science"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05977</id>
-    <title>An Information-Based Theory of Auditor Switching</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Mingcherng Deng, Jing Li, Nan Zhou</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We model auditor switching through a tender process involving an incumbent auditor, who has private information about the client firm’s audit cost (driven by audit complexity or audit risk), and an uninformed prospective auditor. When a firm’s audit cost is high, the auditor is more susceptible to audit failure by erroneously attesting to the firm’s favorable report. We show that, in equilibrium, the client facing a high audit cost is more likely to switch to a prospective auditor because of the winner’s curse. Clients who switch auditors experience a reduction in the overall expected audit fee and are more likely to receive favorable audited reports from the new auditor than clients who do not switch. Our analytical findings collectively present a new information-based perspective on auditor switching, extending beyond the conventional “opinion shopping” explanation. We caution researchers to consider the potential influence of information asymmetry among auditors when examining auditor switching.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2024.05977 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05977"/>
-    <category term="Management Science"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222437261450925</id>
-    <title>EXPRESS: Picture This: How Review Valence Shapes the Quality and Helpfulness of User-Generated Photos</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Jiani Xue, Shiri Melumad</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;User-generated photos play an increasingly important role in online reviews, yet little is known about the process by which they are initially created. This paper develops a theory of image creation arguing that reviewers invest more creative effort in photographing products/services they feel positively (vs. negatively) about. This greater effort results in higher-quality photos that observers find to be more helpful, both because they are easier to visually process and because they engender greater trust in the reviewer. Results across six studies—including controlled experiments and an observational laboratory study (N = 4,218) as well as field analyses of Amazon and Yelp reviews (N = 669,937)—lend support to these predictions. By identifying valence as a driver of creative effort in user-generated photography, the findings advance knowledge on how visual content is produced in online marketplaces and how such content is evaluated by consumers.</content>
-    <link href="https://doi.org/10.1177/00222437261450925"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2026-05-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2020.0604</id>
-    <title>Navigating Temporal Plurality in Agile Software Development: A Process Explanation</title>
-    <updated>2026-05-04T00:00:00+00:00</updated>
-    <author>
-      <name>Gregory Vial, Suzanne Rivard</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;While agile software development (ASD) promises rapid, iterative delivery, agile teams often face temporal demands—such as organizational reporting schedules, quality requirements, and resource availability—that challenge their ability to meet this promise. These conflicting temporal demands create what we call temporal misfits.Based on an in-depth study of five software development projects, we found that a temporal misfit disturbs an agile team’s work by creating delays and undermining software quality every time it occurs. Because a given temporal misfit reoccurs at each sprint until resolved, work disturbance escalates over successive sprints. Teams respond in different ways. They may sacrifice the speed of delivery and comply with demands that jeopardize it. They may preserve the agile rhythm, sometimes shielding the team from external temporal requirements. Finally, they may mobilize people or tools—digital or not—to play the role of a differential gear, therefore allowing conflicting temporal demands to be met simultaneously.Our work invites ASD teams to consider both the immediate and the longer-term effects of temporal misfits and their responses, highlighting how decisions made within each agile sprint can impact the entire project.</content>
-    <link href="https://doi.org/10.1287/isre.2020.0604"/>
-    <category term="Information Systems Research"/>
-    <published>2026-05-04T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Authenticity is highly valued in the marketplace, yet consumers often disagree on what is authentic and even attribute authenticity to “fake” marketplace entities. Although prior research has advanced understanding by identifying multiple types and components of authenticity, it remains loosely connected to broader psychological theory, limiting integration and predictive power. We propose a conceptual framework that shifts the focus fromwhatauthenticity is tohowauthenticity judgments are formed. Integrating a systematic review of authenticity research with dual‐process theories, we position authenticity as the outcome of ajudgment processthat proceeds through two routes: a fact‐based route grounded in deliberate, analytical evaluation of claims and a feeling‐based route based on intuitive processing, emotional resonance, and automatic associations. This distinction explains paradoxes in authenticity research and generates novel predictions regarding (1) the authenticity cues consumers prioritize under each route and resulting authenticity judgments, (2) the situational and motivational conditions that activate each route, and (3) downstream implications for brands. By embedding authenticity judgments within established psychological theory, we offer a more unified and predictive foundation for authenticity research.</content>
+    <link href="https://doi.org/10.1002/jcpy.70030"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-05-25T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag037</id>
