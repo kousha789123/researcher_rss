@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-05-28T12:48:05.665088+00:00</updated>
+  <updated>2026-05-29T12:47:48.876985+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -609,18 +609,6 @@
     <published>2026-05-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdag031</id>
-    <title>Input Sourcing under Climate Risk: Evidence from U.S. Manufacturing Firms</title>
-    <updated>2026-05-14T00:00:00+00:00</updated>
-    <author>
-      <name>Joaquin Blaum, Federico Esposito, Sebastian Heise</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the effect of risk on how firms organize their supply chains. We use transaction-level data on U.S. manufacturing imports to construct a novel measure of input sourcing risk based on the historical volatility of ocean shipping times. Our measure isolates the unexpected component of shipping times that is induced by weather conditions along more than 331,000 maritime routes. We first document that unexpected shipping delays significantly reduce importers’ sales, profits, and employment. We then show that firms actively diversify weather risk by using more routes and foreign suppliers, although their import values decline. To rationalize these findings, we introduce shipping time risk into a general equilibrium model of importing with firm heterogeneity. Our quantitative analysis predicts substantial costs for the U.S. economy associated with supply chain risk.</content>
-    <link href="https://doi.org/10.1093/restud/rdag031"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-05-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1093/restud/rdag026</id>
     <title>A Model of Multiple Hypothesis Testing</title>
     <updated>2026-05-14T00:00:00+00:00</updated>
@@ -629,6 +617,18 @@
     </author>
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Multiple hypothesis testing (MHT) practices vary widely, without consensus on which are appropriate when. This article provides an economic foundation for these practices designed to capture leading examples, such as regulatory approval on the basis of clinical trials. MHT adjustments are appropriate in our framework to the extent that research costs are invariant to the number of hypotheses. Control of average size, as for example via a Bonferroni correction, emerges in the limit case where all costs are fixed; in the opposite limit, where costs vary in proportion to the hypothesis count, no correction is needed. We illustrate implications by calculating explicit critical values using data on actual costs in the drug approval process and in program evaluation research; these suggest that some MHT adjustment is warranted in these applications, but not as much as implied by standard practice.</content>
     <link href="https://doi.org/10.1093/restud/rdag026"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdag031</id>
+    <title>Input Sourcing under Climate Risk: Evidence from U.S. Manufacturing Firms</title>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Joaquin Blaum, Federico Esposito, Sebastian Heise</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the effect of risk on how firms organize their supply chains. We use transaction-level data on U.S. manufacturing imports to construct a novel measure of input sourcing risk based on the historical volatility of ocean shipping times. Our measure isolates the unexpected component of shipping times that is induced by weather conditions along more than 331,000 maritime routes. We first document that unexpected shipping delays significantly reduce importers’ sales, profits, and employment. We then show that firms actively diversify weather risk by using more routes and foreign suppliers, although their import values decline. To rationalize these findings, we introduce shipping time risk into a general equilibrium model of importing with firm heterogeneity. Our quantitative analysis predicts substantial costs for the U.S. economy associated with supply chain risk.</content>
+    <link href="https://doi.org/10.1093/restud/rdag031"/>
     <category term="Review of Economic Studies"/>
     <published>2026-05-14T00:00:00+00:00</published>
   </entry>
@@ -887,18 +887,6 @@
     <published>2026-05-16T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10591478261454489</id>
-    <title>EXPRESS: Operations Management under Paradox of Choice</title>
-    <updated>2026-05-16T00:00:00+00:00</updated>
-    <author>
-      <name>Milad Mirzaee, Elaheh Fata, Guang Li</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper examines how assortment size influences consumer purchasing behavior and retailer profits, focusing on the paradox of choice (PoC), where overly limited or excessive options can diminish purchase intent. Although PoC effects are well-documented in behavioral research, their impact on assortment and pricing strategies in retail remains underexplored. To bridge this gap, we formalize PoC mathematically by modeling the utility of the no-purchase option as a U-shaped function of assortment size. We integrate this PoC framework into several discrete choice models, using the multinomial logit (MNL) model as the focal model. By decomposing the assortment problem into subproblems with fixed assortment sizes, we develop efficient solutions for the assortment optimization and the joint assortment and price optimization problems under the MNL with PoC model. Additionally, we compare the optimal solutions of the classical MNL model and the MNL model with the PoC effect through theoretical analysis and numerical experiments, offering managerial insights to guide firms in optimizing their assortments. We further extend our approach to derive optimal assortment and pricing solutions for the nested logit model employing a linear programming approach. Moreover, we devise a Fully Polynomial Time Approximation Scheme (FPTAS) for the assortment optimization under the mixture of multinomial logit model with the PoC effect. This study advances the integration of behavioral insights into discrete choice models, illustrating how retailers can optimize product assortments and prices by balancing variety with cognitive effects linked to assortment size.</content>
-    <link href="https://doi.org/10.1177/10591478261454489"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-05-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/10591478261453991</id>
     <title>EXPRESS: Robustness of Online Proportional Response in Stochastic Online Fisher Markets: a Decentralized Approach</title>
     <updated>2026-05-16T00:00:00+00:00</updated>
@@ -907,6 +895,18 @@
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study is focused on periodic Fisher markets where items with time-dependent and stochastic values are regularly replenished, and buyers aim to maximize their utilities by spending budgets on these items. Traditional approaches of finding a market equilibrium in the single-period Fisher market rely on complete information about buyers' utility functions and budgets. However, it is impractical to consistently enforce buyers to disclose this private information in a periodic setting. We introduce a distributed bidding algorithm,online proportional response, wherein buyers update bids solely based on the randomly fluctuating values of items in each period. The market then allocates items based on the bids provided by the buyers. We show connections between the online proportional response and the online mirror descent algorithm. Utilizing the known Shmyrev convex program, a variant of the Eisenberg-Gale convex program that establishes market equilibrium of a Fisher market, two performance metrics are proposed: the fairness regret is the cumulative difference in the objective value of a stochastic Shmyrev convex program between an online algorithm and an offline optimum, and the individual buyer's regret gauges the deviation in terms of utility for each buyer between the online algorithm and the offline optimum. Our algorithm attains a problem-dependent upper bound in fairness regret under stationary inputs. This bound is contingent on the number of items and buyers. Additionally, we conduct analysis of regret under various nonstationary stochastic input models to demonstrate the algorithm's efficiency across diverse scenarios. The online proportional response algorithm addresses privacy concerns by allowing buyers to update bids without revealing sensitive information and ensures decentralized decision-making, fostering autonomy and potential improvements in buyer satisfaction. Furthermore, our algorithm is universally applicable to many worlds and shows the robustness of performance guarantees.</content>
     <link href="https://doi.org/10.1177/10591478261453991"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261454489</id>
+    <title>EXPRESS: Operations Management under Paradox of Choice</title>
+    <updated>2026-05-16T00:00:00+00:00</updated>
+    <author>
+      <name>Milad Mirzaee, Elaheh Fata, Guang Li</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper examines how assortment size influences consumer purchasing behavior and retailer profits, focusing on the paradox of choice (PoC), where overly limited or excessive options can diminish purchase intent. Although PoC effects are well-documented in behavioral research, their impact on assortment and pricing strategies in retail remains underexplored. To bridge this gap, we formalize PoC mathematically by modeling the utility of the no-purchase option as a U-shaped function of assortment size. We integrate this PoC framework into several discrete choice models, using the multinomial logit (MNL) model as the focal model. By decomposing the assortment problem into subproblems with fixed assortment sizes, we develop efficient solutions for the assortment optimization and the joint assortment and price optimization problems under the MNL with PoC model. Additionally, we compare the optimal solutions of the classical MNL model and the MNL model with the PoC effect through theoretical analysis and numerical experiments, offering managerial insights to guide firms in optimizing their assortments. We further extend our approach to derive optimal assortment and pricing solutions for the nested logit model employing a linear programming approach. Moreover, we devise a Fully Polynomial Time Approximation Scheme (FPTAS) for the assortment optimization under the mixture of multinomial logit model with the PoC effect. This study advances the integration of behavioral insights into discrete choice models, illustrating how retailers can optimize product assortments and prices by balancing variety with cognitive effects linked to assortment size.</content>
+    <link href="https://doi.org/10.1177/10591478261454489"/>
     <category term="Production and Operations Management"/>
     <published>2026-05-16T00:00:00+00:00</published>
   </entry>
@@ -1981,18 +1981,6 @@
     <published>2026-05-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06121</id>
-    <title>Cheap Stock Options: Antecedents and Outcomes</title>
-    <updated>2026-05-27T00:00:00+00:00</updated>
-    <author>
-      <name>Brad A. Badertscher, Bjørn N. Jørgensen, Sharon P. Katz, Jeremy Michels</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the prevalence, determinants, and consequences of cheap stock. Practitioners have adopted the label “cheap stock” to refer to equity-based compensation granted before a firm’s IPO that uses a share price below the IPO price. Cheap stock grants have drawn regulators’ attention with the Securities and Exchange Commission frequently commenting on issues related to cheap stock when reviewing firms’ IPO registration statements. We find that the average firm’s IPO price is more than five times the exercise price of options issued in the fiscal year before the IPO. This divergence between the IPO price and the exercise price of recently granted options is greater for firms that grant more options, have larger public offerings, and have venture capital backing. Finally, cheap stock options are associated with higher CEO compensation, lower post-IPO investment, lower post-IPO stock returns, and greater IPO underpricing. Collectively, our results illustrate the extent of cheap stock option grants and how these grants influence firms’ post-IPO behavior.This paper was accepted by Suraj Srinivasan, accounting.Funding: We thank Deloitte, the Mendoza College of Business, the Danish Finance Institute (DFI), and the Wharton-INSEAD Centre for Global Research and Education for financial support.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06121 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06121"/>
-    <category term="Management Science"/>
-    <published>2026-05-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.04948</id>
     <title>Evaluating Investments in Asteroid Detection Technologies to Prevent Catastrophic Impacts on Earth</title>
     <updated>2026-05-27T00:00:00+00:00</updated>
@@ -2001,6 +1989,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Asteroids and other near-Earth objects pose a significant ongoing threat to our planet with the potential for catastrophic effects on human life, the environment, and the global economy. Advance warning would be necessary to deflect any object on a collision course with Earth, but detection and tracking technologies require substantial financial commitments. This paper presents a multiattribute utility framework to analyze whether and which detection technologies are worthwhile. This approach provides a rigorous and systematic understanding of the uncertainties, multiple objectives, and tradeoffs inherent in decisions involving low-probability, high-consequence events. The model shows that the detection technology investment decision is driven more by the abundant population of smaller (&lt;140 meters in diameter) undiscovered near-Earth objects than by any other size category. In addition, we find that the preferred investment alternative varies substantially over a range of plausible value tradeoffs that a decision maker might assign to each human fatality, a well-studied economic measure used by governments and policymakers that is called the value of a statistical life. The model we present allows a decision maker to jointly examine the role of risk and ambiguity preferences in determining the best alternative, and we further extend the framework to consider how a decision maker might evaluate alternatives when the threat affects a larger group of people while the economic cost of investment is borne by a smaller subset of stakeholders.This paper was accepted by George Wu, behavioral economics and decision analysis.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04948 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.04948"/>
+    <category term="Management Science"/>
+    <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06121</id>
+    <title>Cheap Stock Options: Antecedents and Outcomes</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Brad A. Badertscher, Bjørn N. Jørgensen, Sharon P. Katz, Jeremy Michels</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the prevalence, determinants, and consequences of cheap stock. Practitioners have adopted the label “cheap stock” to refer to equity-based compensation granted before a firm’s IPO that uses a share price below the IPO price. Cheap stock grants have drawn regulators’ attention with the Securities and Exchange Commission frequently commenting on issues related to cheap stock when reviewing firms’ IPO registration statements. We find that the average firm’s IPO price is more than five times the exercise price of options issued in the fiscal year before the IPO. This divergence between the IPO price and the exercise price of recently granted options is greater for firms that grant more options, have larger public offerings, and have venture capital backing. Finally, cheap stock options are associated with higher CEO compensation, lower post-IPO investment, lower post-IPO stock returns, and greater IPO underpricing. Collectively, our results illustrate the extent of cheap stock option grants and how these grants influence firms’ post-IPO behavior.This paper was accepted by Suraj Srinivasan, accounting.Funding: We thank Deloitte, the Mendoza College of Business, the Danish Finance Institute (DFI), and the Wharton-INSEAD Centre for Global Research and Education for financial support.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06121 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06121"/>
     <category term="Management Science"/>
     <published>2026-05-27T00:00:00+00:00</published>
   </entry>
@@ -2041,6 +2041,30 @@
     <published>2026-05-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08337</id>
+    <title>Learning in Recovery from Disruption: Empirical Evidence from the U.S. Drug Shortages</title>
+    <updated>2026-05-28T00:00:00+00:00</updated>
+    <author>
+      <name>Hyun Seok (Huck) Lee, Junghee Lee, In Joon Noh, Bradley R. Staats</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;U.S. hospitals continue to face chronic shortages of essential drugs, jeopardizing patient care and driving up costs. Although prior work has identified the structural and economic drivers of these shortages, little is known about whether pharmaceutical plants accumulate operational knowledge from their recovery efforts—tasks that are often irregular and ill-defined. We assemble a unique data set linking 4,741 drug shortages (2015–2020) to 136 finished dosage form plants to examine whether—and under what conditions—plants learn from past recoveries. Using an instrumental variables approach, we find that each additional shortage a plant has previously resolved significantly reduces its time to recovery for a current shortage, indicating cumulative learning. We further show that learning is concentrated in shortages caused by internal plant issues, with no such effect for externally induced disruptions. Breadth of experience also matters; learning gains are larger when prior recoveries span diverse active ingredients or causal categories. Post hoc analyses reveal that the knowledge gained is confined largely to the focal plant and does not readily transfer across facilities within the same firm. These findings suggest that structured knowledge-capture processes, cross-site learning mechanisms, and incentives to diversify recovery experience can strengthen supply chain resilience.This paper was accepted by Stefan Scholtes, healthcare management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08337 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08337"/>
+    <category term="Management Science"/>
+    <published>2026-05-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70122</id>
+    <title>The Price of Prominence: How CEO Extraversion Influences Board Attributions and the Dismissal‐Performance Sensitivity</title>
+    <updated>2026-05-28T00:00:00+00:00</updated>
+    <author>
+      <name>Jan C. Hennig, Sebastian Firk, Joseph S. Harrison, Hauke Meyer, Michael Wolff</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This study extends the socio‐cognitive perspective on CEO dismissal by examining how CEOs' observed levels of extraversion influence the dismissal‐performance sensitivity. Integrating attribution theory with research on personality and leadership, we theorize that more extraverted CEOs' prominence and perceived agency increase directors' attributions of performance to those individuals, thereby increasing their likelihood of dismissal when performance declines. We further posit that these dynamics are amplified in more complex industries and among shorter‐tenured boards, where causal ambiguity and limited contextual knowledge increase reliance on simplifying cues such as personality‐based attributions. Drawing on data from more than 4000 CEOs of S&amp;P 1500 firms, and bolstered by supplemental tests from a vignette study, we find considerable support for our hypotheses. Our study extends attribution theory by identifying stable personality traits as enduring attributional cues that shape causal inferences in high‐stakes governance settings. In doing so, it also contributes to the upper echelons literature and research on CEO‐board dynamics by showing that executive traits influence not only firm actions and outcomes but also boards' collective evaluations of leadership.</content>
+    <link href="https://doi.org/10.1111/joms.70122"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-05-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1057/s41267-026-00871-w</id>
     <title>Parallel internationalization during radical industry transformations: the case of Telecom Finland</title>
     <updated>2026-05-28T00:00:00+00:00</updated>
@@ -2053,148 +2077,64 @@
     <published>2026-05-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2021.15858</id>
-    <title>The Mutual Shaping of Boundaries and Boundary Organizations</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2024.1469</id>
+    <title>When Behavioral Data Betray Users: A Diagnostic and Protective Framework Against Social Interaction Leakages</title>
+    <updated>2026-05-28T00:00:00+00:00</updated>
     <author>
-      <name>Aron Lindberg, Natalia Levina</name>
+      <name>Yan Leng, Yijun Chen, Xiaowen Dong, Junfeng Wu, Guodong Shi</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;As firms increasingly host online communities, they need to mediate across the divergent interests of community members and the firm. One way of addressing this is to establish a formal governance structure referred to as a boundary organization (BO). Yet, how to design such an organization is a puzzle. If a BO is effective, it is likely to reshape firm-community relations and thus needs to be adjusted to respond to this change. Therefore, BOs must constantly adapt to the boundaries they span while also changing the very same boundaries. This research seeks to understand the mutual shaping of boundaries and BOs in firm-hosted online communities. To this end, we investigate the evolution of a BO set up by a firm hosting an online community engaged in a multiplayer game called “EVE Online.” We conducted an eight-year longitudinal qualitative case study of the BO, tracing change in its practices and attendant boundaries. We show how boundaries and the BO mutually shape each other through (1) surfacing of boundary tensions, (2) BO renegotiation practices, and (3) BO’s boundary spanning practices. Based on our findings we develop a theory that shows how mutual shaping unfolds through the varied enactment of these practices along the dimensions of where the voicing of discontent is channeled, how broad representation on the BO is, and the nature of information sharing. Our research contributes to research on boundary work by theorizing how the process of mutual shaping unfolds as an instable “chain reaction” with unintended consequences.</content>
-    <link href="https://doi.org/10.1287/orsc.2021.15858"/>
-    <category term="Organization Science"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0248</id>
-    <title>Planning a Community Approach to Diabetes Care in Low- and Middle-Income Countries Using Optimization</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Katherine B. Adams, Justin J. Boutilier, Sarang Deo, Yonatan Mintz</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Smarter Community Health Visits Improve Diabetes OutcomesDiabetes takes a severe toll in developing countries, where high blood glucose contributes more than half of premature deaths. Community health workers (CHWs) offer a culturally tailored lifeline, but deploying them efficiently requires balancing the screening of new patients against managing those already in treatment. In this issue, researchers introduce an innovative optimization framework that personalizes CHW visit plans to maximize community-wide glycemic control. Uniquely, the model explicitly factors in patients’ motivational states—predicting their likelihood of enrolling in or dropping out of care—to guide intervention strategies and reduce attrition. Applied to operational data from urban slums in India, the approach delivers remarkable results; optimized visit plans reduced fasting blood glucose levels by up to 25% compared with the best baseline methods using identical capacity. The model also proved to be robust under imperfect information, offering a powerful, practical tool for global health resource allocation.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0248"/>
-    <category term="Operations Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05617</id>
-    <title>Can Information Sharing Reduce Diagnostic Disparate Impact? Evidence from a Health Information Exchange</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Minghong Yuan, Indranil Bardhan, Wen Wen</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The literature has documented qualitative evidence of disparities in physician diagnoses, which can lead to disparities in healthcare delivery, patients’ perception of care, and health outcomes. In this research, we seek to understand whether (a) disparities in physician diagnoses can be attributed to disparate impact based on patient race, and (b) information technology–enabled health information sharing among healthcare providers can mitigate such disparate impact. Our empirical context focuses on racial disparities in diagnoses of heart disease between Hispanic patients and non-Hispanic, White patients. Utilizing patient-level, emergency room (ER) encounter data from 2015 to 2022, we find statistical evidence of diagnostic disparate impact where the likelihood of Hispanic patients being diagnosed with heart disease is around three percentage points lower than White patients after accounting for their underlying race-specific risk of heart disease. However, we find that health information sharing can reduce the level of diagnostic disparate impact against Hispanic patients by 18% and the likelihood of severe disparate impact by seven percentage points. We evaluate the robustness of our results using a range of specifications, such as instrumental variable estimation, falsification tests, and alternative measures of disparate impact. We also highlight the underlying mechanism that explains the role of health information sharing in mitigating diagnostic disparate impact. Specifically, we show that health information sharing between healthcare providers can reduce diagnostic uncertainty, especially for Hispanic patients, and low-skilled physicians benefit more from health information sharing compared with highly skilled physicians.This paper was accepted by D. J. Wu, information systems.Funding: The authors gratefully acknowledge the McCombs Dean’s Excellence Research Grant for this research.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05617 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05617"/>
-    <category term="Management Science"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06952</id>
-    <title>The Impact of Climate Change: An Empirical Analysis of Smart Thermostat Data</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Michael R. Blair, Saed Alizamir, Shouqiang Wang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Extreme weather from climate change creates unprecedented fluctuations in residential heating and cooling demand. Understanding how households use thermostats and react to ambient weather is key to achieving demand reductions and avoiding power crises. To this end, we analyze high-frequency microlevel time-series data from smart thermostat users to examine how households adjust their thermostat operations in response to outdoor temperature. Comparing households within a city, we find that households that automate their HVAC mode decisions exhibit reduced responsiveness to temperature shocks. In particular, their heating energy consumption remains elevated, even in the face of a changing climate, compared with households that rely on less automation. With respect to temperature setpoints, households that frequently override preprogrammed schedules show inertia, remaining at the overridden setpoints for long periods, and only partially revert to their preprogrammed setpoints. This can lead to higher energy use compared with those who stay in their preprogrammed schedules. To quantify the impact of these results, we conduct a set of simulations under hypothetical climate scenarios. These simulations reveal that by 2050, total cooling energy usage could rise by at least 67% and as high as 300%, depending on the climate scenario and geographical location, with peak usage and demand variability increasing by over 50%. Whereas heating consumption is reduced, this decrease is dominated by the increase in cooling energy usage. As a case study of the operational implications, we project total hourly loads and generation costs for Texas’ electricity grid in 2050. The increased heating and cooling demand alone could raise annual grid operating costs by 20%–25% and require 21,700 megawatts of additional capacity to maintain grid reliability.This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The e-companion and data files are available at https://doi.org/10.1287/mnsc.2024.06952 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06952"/>
-    <category term="Management Science"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07817</id>
-    <title>Dynamic Matching with Postallocation Service and Its Application to Refugee Resettlement</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Kirk Bansak, Soonbong Lee, Vahideh Manshadi, Rad Niazadeh, Elisabeth Paulson</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Motivated by our collaboration with a major refugee resettlement agency in the United States, we study a dynamic matching problem where each new arrival (a refugee case) must be matched immediately and irrevocably to one of the static resources (a location with a fixed annual quota). In addition to consuming the static resource, each case requires postallocation service from a server, such as a translator. Given the time-consuming nature of service, a server may not be available at a given time, thus we refer to it as a dynamic resource. Upon matching, the case will wait to avail service in a first-come-first-serve manner. Bursty matching to a location may result in undesirable congestion at its corresponding server. Consequently, the central planner (the agency) faces a dynamic matching problem with an objective that combines the matching reward (captured by pair-specific employment outcomes) with the cost for congestion for dynamic resources and overallocation for the static ones. Motivated by the observed fluctuations in the composition of refugee pools across the years, we design algorithms that do not rely on distributional knowledge constructed based on past years’ data. To that end, we develop learning-based algorithms that are asymptotically optimal in certain regimes, easy to interpret, and computationally fast. Our design is based on learning the dual variables of the underlying optimization problem; however, the main challenge lies in the time-varying nature of the dual variables associated with dynamic resources. To overcome this challenge, our theoretical development brings together techniques from Lyapunov analysis, adversarial online learning, and stochastic optimization. On the application side, when tested on real data from our partner agency and incorporating practical considerations, our method outperforms existing ones, making it a viable candidate for replacing the current practice upon experimentation.This paper was accepted by Martin Bichler, market design, platform, and demand analytics.Funding: This work was supported by the Stanford Impact Lab [Stage 2 Grant], Google.org [AI for Social Good Grant TF2111-103726], the Charles Koch Foundation, and the Stanford Institute for Human-Centered Artificial Intelligence [Hoffman-Yee Research Grant].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07817 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07817"/>
-    <category term="Management Science"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70042</id>
-    <title>Partisan Entrepreneurship</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>JOSEPH ENGELBERG, JORGE GUZMAN, RUNJING LU, WILLIAM MULLINS</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Republicans start more firms than Democrats. In a sample of 40 million party‐identified Americans between 2005 and 2017, we find that 5.5% of Republicans and 3.7% of Democrats become entrepreneurs. This partisan entrepreneurship gap is time‐varying—Republicans increase their relative entrepreneurship during Republican administrations and decrease it during Democratic administrations, amounting to a partisan reallocation of 170,000 new firms over our 13‐year sample. We find sharp changes in partisan entrepreneurship around the elections of President Obama and President Trump, with the strongest effects among the most politically active partisans: those that donate and vote.</content>
-    <link href="https://doi.org/10.1111/jofi.70042"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1183</id>
-    <title>How Physician Reviews Affect Online Consultation Demand: An Innovative Small Language Model with Fine-Tuning</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Bin Zhang, Haijing Hao, Yongcheng Zhan, Jiang Wu</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study introduces an efficient specialized artificial intelligence (AI) tool and the SEPTE model—a comprehensive framework for evaluating healthcare service quality—to help healthcare platforms and hospitals better understand what drives patient demand for online consultations. By analyzing physician reviews from one of China’s largest telehealth platforms, our small language model (Doc-BERT) uses the SEPTE framework to accurately identify key aspects of service quality, such as medical effectiveness and empathy, that matter most to patients. Unlike traditional large language models, our approach is cost-effective and can be readily implemented in real-world healthcare settings. We find that higher service-quality scores, especially in effectiveness and patient-centeredness, lead to greater patient demand for online consultations. These insights offer actionable guidance for healthcare providers and administrators seeking to improve patient experiences, optimize physician performance, and inform platform design and policy. Our work demonstrates that targeted, domain-specific AI—guided by the SEPTE model—can deliver both efficiency and impact for digital health services.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1183"/>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Digital platforms often share publicly visible behavioral data, such as ratings and reviews, to improve service quality. Yet, these seemingly innocuous data can also reveal hidden social ties among users. We develop a two-stage framework that first diagnoses this leakage risk by inferring latent social interactions from behavioral data and then mitigates the risk while preserving data utility. We characterize when hidden ties are identifiable from observed actions and show, using public Yelp data from Louisiana and Pennsylvania, that an attacker can recover about half of true social ties at a 10% false-positive rate and more than 60% at a 20% false-positive rate. These inferred ties can materially increase cyber risk: when used for spear phishing, the estimated return on attack rises from 109% for a campaign with 500 impersonation attempts to 1,098% for one with 10,000 attempts. To reduce this leakage, we propose two perturbation mechanisms with formal differential privacy guarantees on the released representations: one adds Gaussian noise directly to the released action matrix, and the other adds Laplace noise to the learned representation before resynthesizing the released data. Both mechanisms reduce the link-inference accuracy and substantially lower estimated attacker returns; under our main protection settings, returns become negative for smaller campaigns and remain much lower at larger scales. Overall, the paper provides a practical framework for diagnosing social interaction leakage and evaluating the privacy-utility trade-off when platforms share behavioral data.History: Peiyu Chen, Senior Editor; Heng Xu, Associate Editor.Funding: Y. Leng is supported by the U.S. National Science Foundation (NSF) [Grant IIS-2153468].Supplemental Material: The online appendix is available at https://doi.org/10.1287/isre.2024.1469 .</content>
+    <link href="https://doi.org/10.1287/isre.2024.1469"/>
     <category term="Information Systems Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
+    <published>2026-05-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2025.2270</id>
-    <title>When Influencers Delegate Replies: How Social AI Agents Shape User Engagement</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2023.0363</id>
+    <title>Enhancing the Benefits of Similarity for Marginalized Identities: How Technology Features Influence Online Reviews When One Evaluates a Similar Other</title>
+    <updated>2026-05-28T00:00:00+00:00</updated>
     <author>
-      <name>Maggie Mengqing Zhang, Yang Gao, Jingjing Li, Steven L. Johnson</name>
+      <name>Saidat Abidemi Sanni, Sherae L. Daniel, Lauren Rhue</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As social media platforms deploy large language model (LLM)-powered agents to help influencers manage social relationships with users, it remains unclear how this delegation impacts user engagement. Automating interactions provides scalability and efficiency for influencers, but it may weaken the influencer-user relationship if the agents fail to serve as effective social delegates. To explore this question, we empirically investigate the impact on user engagement when influencers delegate social interaction tasks, such as replying to comments, to a social artificial intelligence (AI) agent, an LLM-powered proxy that responds on behalf of an influencer. Leveraging the rollout of a social AI agent feature on a major social media platform, we use a staggered difference-in-differences design to compare engagement behaviors between users who received an AI reply (i.e., a reply from an influencer’s social AI agent) and those who did not. Our results show that receiving an AI reply significantly increases user commenting on subsequent influencer posts, particularly when AI replies amplify an influencer’s social presence, as reflected in content relevance, stylistic alignment, and reply timeliness. We also find heterogeneous effects based on influencer-user relationships: engagement gains are stronger among loyal followers but weaker for commercialized influencers and those in the technology domain. Additionally, reply scarcity amplifies the effect: engagement increases more when influencers rarely replied previously or when fewer AI replies appear under the focal post. The engagement boost extends to both sponsored and nonsponsored posts, as well as user reposting behavior, whereas influencers themselves also post more frequently after adopting AI agents. This study contributes to the literature on AI delegation and influencer engagement by highlighting when and how delegating social relationship management to social AI agents can enhance user engagement.History: Jeffrey Parsons, Senior Editor; Pallab Sanyal, Associate Editor.Supplemental Material: The online appendices are available at https://doi.org/10.1287/isre.2025.2270 .</content>
-    <link href="https://doi.org/10.1287/isre.2025.2270"/>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study examines how similarity, social identity, and platform design jointly shape user experiences in two-sided digital platforms. Drawing on theories of power asymmetry, social identity, and digital platforms, we analyze more than 500,000 reviews on Airbnb to evaluate how shared marginalized identities between guests and hosts influence perceived experiences. Contrary to expectations, similarity alone does not consistently yield more positive outcomes; however, platform features that enable power sharing, such as flexible cancellation policies and instant booking, significantly increase the likelihood of positive reviews among marginalized groups.These findings contain practical and policy implications. For platform designers and policymakers, the results highlight the opportunity of structural features that redistribute control and flexibility within transactions to foster inclusive and positive experiences. For platform owners and regulators, these results suggest a shift from representation-focused interventions toward feature-based governance that embeds power sharing, and potentially other shared values, into platform architecture. More broadly, the study underscores the importance of aligning technological features with the values and lived experiences of marginalized users, offering a scalable pathway to promote both inclusion and marketplace performance.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0363"/>
     <category term="Information Systems Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
+    <published>2026-05-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2022.0433</id>
-    <title>The Divorce of Word and Deed—A Data-Mining Approach to Identify and Evaluate Customer Requirements</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2022.0278</id>
+    <title>An Alternative Model of Brand Loyalty</title>
+    <updated>2026-05-28T00:00:00+00:00</updated>
     <author>
-      <name>Kexin Ai, Juan Feng, Xinyu Sun</name>
+      <name>Xiaoyi (Sylvia) Gao, Vidyanand Choudhary</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Whereas online reviews have become a primary data source for understanding customer requirements in both research and practice, using such information alone to guide product design can be unreliable. Our research investigates whether and how consumers’ preferences expressed through online reviews (words) align with their actual purchase decisions (deeds). Our analysis shows that features praised in online reviews do not necessarily translate to market success. This inconsistency between what consumers say and what they do poses significant challenges for manufacturers in product development decisions. We empirically identify the existence of word–deed inconsistency in consumer preferences. Some features are silent in online reviews yet significantly drive purchase decisions, whereas others are frequently praised but have limited influence on actual purchases. Building on these insights, we propose an innovative dual-weights model that extends existing two-dimensional customer requirement analysis by integrating both prepurchase choice drivers and postpurchase satisfaction determinants. Using this model, we classify features based on their importance for satisfaction versus purchase decisions and offer actionable product improvement strategies for different types of features.</content>
-    <link href="https://doi.org/10.1287/isre.2022.0433"/>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;There are two different types of brand loyalty, and they work in different ways. Our study shows that loyalty created by switching costs, such as proprietary standards, data frictions, or restrictive interfaces, has very different market consequences from loyalty created by preference shifts, where repeated use makes customers genuinely prefer a product’s design or features. Although both increase retention, switching costs protect incumbents, soften competition, raise prices, and reduce consumer and social welfare. Preference shifts can have the opposite effect; they can lead to a reduction in differentiation between rival products, intensify competition, lower prices, and under some conditions, improve welfare by better aligning products with what customers want. The managerial message is clear; investments in user experience, reliability, and product design are not strategically equivalent to investments in lock-in. The policy message is equally important; regulators should not treat all customer stickiness as harmful. Remedies, such as interoperability, data portability, or limits on proprietary standards, are best targeted at switching barriers, not loyalty created by genuine product improvement.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0278"/>
     <category term="Information Systems Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
+    <published>2026-05-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2024.1190</id>
-    <title>When Do Equity Appeals Increase Giving? Evidence from Educational Crowdfunding</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/hrm.70078</id>
+    <title>Cross‐Border Acquisitions and Firm Financial Performance: The Overlooked Role of Training Investments</title>
+    <updated>2026-05-28T00:00:00+00:00</updated>
     <author>
-      <name>Amin Sabzehzar, Gordon Burtch, Yili Hong, T. S. Raghu</name>
+      <name>Abubakr Saeed, Kalin D. Kolev, Tanveer Hussain, Shaun Pichler, Omer Farooq Malik</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Equity appeals are increasingly used by digital fundraising platforms, nonprofits, and public institutions to direct attention and resources toward disadvantaged communities. However, it remains unclear whether and when equity appeals actually increase giving. We examine this question in the context of educational crowdfunding, where platforms explicitly focus on reducing funding disparities across schools, particularly for students from racial or ethnic minority and low-income backgrounds. Leveraging large-scale data from DonorsChoose, one of the largest educational crowdfunding platforms in the United States, and exploiting arbitrary cutoffs in the platform’s deployment of equity appeals based on the student composition of benefitting schools, we show that equity appeals increase fundraising when they highlight student disadvantage in terms of poverty while providing little to no measurable benefit when they highlight student disadvantage in terms of race. These differential effects reflect how donors interpret disadvantage. Many donors appear to view poverty as a legitimate and actionable barrier to learning, making poverty-based appeals effective. In contrast, perceptions of race as a structural barrier to educational opportunity are more heterogeneous and politically sensitive, limiting the impact of race-based appeals. For platform designers and policymakers seeking to reduce educational fundraising disparities, our findings highlight the importance of how equity appeals are framed. More broadly, our results contribute to understanding under what conditions behavioral nudges can meaningfully reduce inequality versus when alternative approaches may be necessary to achieve equitable outcomes.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1190"/>
-    <category term="Information Systems Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Cross‐border acquisitions involving developed and emerging economies serve as an important source of organizational learning and performance renewal. Yet, how these cross‐border learning opportunities are internalized through human capital investment and how such investments influence post‐acquisition outcomes remain a theoretically rich but empirically underexplored question. Based on the resource‐based view of the firm and, in conjunction, the absorptive capacity literature, we propose that acquisitions between firms from different economic categories (developed vs. emerging economies) have a positive effect on the training investments, which, in turn, positively mediates the effect of cross‐border acquisitions on post‐acquisition firm performance. We further propose firm‐specific contingencies that bound the relationships between cross‐border acquisitions, training investments, and firm performance. Specifically, we argue that acquirers with prior experience are less reliant on training investments, and R&amp;D of the acquired firm plays a complementary role to training investments in generating higher returns from the acquisition. We test these propositions using data on 1759 acquisition deals during the period 2004–2023. Our results provide support for our theoretical arguments. The findings advance the human resource management literature by highlighting the capability‐building role of training in leveraging human capital to enhance firm performance in cross‐border acquisitions. The study also has practical implications for multinational acquirers aiming to strengthen organizational capabilities and build post‐acquisition resilience through targeted training investments.</content>
+    <link href="https://doi.org/10.1002/hrm.70078"/>
+    <category term="Human Resource Management"/>
+    <published>2026-05-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0487</id>
-    <title>Unraveling Generative AI from a Human Intelligence Perspective: A Battery of Experiments</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70114</id>
+    <title>Fly Solo, Then Return Home? Offspring's Entrepreneurship Experience and their Future As Family Business Successors</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
     <author>
-      <name>Wen Wang, Siqi Pei, Tianshu Sun</name>
+      <name>Philipp Sieger, Jasper Brinkerink, Massimo Baù, Johan Karlsson, Alfredo De Massis</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study introduces a novel, human-centered framework for evaluating the holistic intelligence of large language models (LLMs), using behavioral theory and experimental benchmarks drawn from human intelligence. Through extensive online experiments, the framework reveals that GPT-4 outperforms humans in cognitive, emotional, and creative intelligence, but falls short in social intelligence, especially in social interest, self-efficacy, and understanding mental states. Beyond theoretical insight, the study validates this framework by assessing GPT-4’s impact across diverse job roles, finding results consistent with established labor market research. It also offers a reusable tool for firms and policymakers to evaluate LLM intelligence and forecast job-level impacts. This enables informed decisions about where and how to integrate LLMs, match models to specific job requirements, and identify risks in socially intensive roles. The framework provides a foundation for responsible LLM deployment, ensuring alignment with human-centered structures and supporting strategic workforce planning.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0487"/>
-    <category term="Information Systems Research"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261447791</id>
-    <title>Into the Wild: Advancing Ecocentric Entrepreneurship Through Natural Non-Human Actors</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <author>
-      <name>Man Yang, Matthew Phillip Johnson</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Mainstream entrepreneurship has traditionally focused on the human behaviors involved in the exploitation, innovation, and transformation of human-centric systems. However, this anthropocentric view is inadequate in addressing today’s grand challenges. Assuming human superiority in solving Earth’s problems can be misleading. We challenge this assumption by adopting an ecocentric perspective that incorporates natural non-human actors (NNHAs). Using actor-network theory, we take a relational approach to explore how entrepreneurial behaviors can be theoretically advanced from inclusive, distributed, mutualistic, and co-creative relationships between human and NNHAs. We advance ecocentric entrepreneurship by redefining entrepreneurial agency, interactions, places, and ecosystems.</content>
-    <link href="https://doi.org/10.1177/10422587261447791"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-05-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;How does early‐career entrepreneurship experience of family business offspring affect their likelihood of eventually taking over the established family firm? Considering family business succession as a dual‐agency process, we draw on human capital theory and opportunity cost logic to theorize how the same early‐career experience can have divergent implications for succession by simultaneously shaping parental preferences and offspring's choice. Using early‐career entrepreneurship as a revealing case, we analyse parent–child successions involving 8274 potential successors in Sweden between 2001 and 2019 and find that entrepreneurship experience positively affects a child's succession likelihood. The strength of this effect, in turn, depends on the entrepreneurial offspring's opportunity costs of succession, which are shaped by characteristics of their venture and the family business.</content>
+    <link href="https://doi.org/10.1111/joms.70114"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-05-29T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhag048</id>
@@ -2207,5 +2147,101 @@
     <link href="https://doi.org/10.1093/rfs/hhag048"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-05-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20221351</id>
+    <title>Identifying Preference for Early Resolution from Asset Prices</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Hengjie Ai, Ravi Bansal, Hongye Guo, Amir Yaron</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;This paper develops an asset market-based test for preference for the timing of resolution of uncertainty. Our main theorem provides a characterization of preference for early resolution of uncertainty in terms of the risk premium realized during the period when the informativeness of macroeconomic announcements is resolved. Empirically, we find support for preference for early resolution of uncertainty based on evidence on the dynamics of the implied volatility of S&amp;P 500 index options before Federal Open Market Committee announcements. (JEL D81, D83, G13, G14, G41)</content>
+    <link href="https://doi.org/10.1257/aer.20221351"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20231699</id>
+    <title>Spatial Spillovers of Conflict in Somalia</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Marco Alfano, Thomas Cornelissen</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Conflict along transportation routes during Somalia’s al-Shabaab insurgency significantly increases maize prices at distant locations, decreasing food security, health, and education. Estimated conflict risk has strong price effects independently of realized conflict, highlighting the importance of safety concerns. A model of least-cost route choice in the presence of conflict reveals that more and shorter alternative routes to circumvent conflict can lower prices but their effectiveness diminishes as violence becomes more correlated across routes. Alternatively, securing key transportation routes would alleviate price increases. A market access approach suggests spatial spillovers of conflict also matter for prices of more general baskets of food and nonfood items. (JEL D74, I15, I25, O15, O17, Q11, R41)</content>
+    <link href="https://doi.org/10.1257/aer.20231699"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20230766</id>
+    <title>Quality Adjustment at Scale: Hedonic versus Exact Demand-Based Price Indices</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gabriel Ehrlich, John Haltiwanger, Ron Jarmin, David Johnson, Ed Olivares, Luke Pardue, Matthew D. Shapiro, Laura Yi Zhao</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Item-level transactions data yield cost-of-living indices that can account for quality change and consumer substitution. Transactions data require confronting the rapid turnover of items because prices of new and existing products are interrelated in equilibrium. This paper evaluates multiple approaches to measuring quality change at scale. It shows that a hedonic superlative approach—using econometrics or machine learning for hedonic estimation combined with index formulas that require simultaneous observation of item-level price and expenditure—yields improved measures of the cost of living. Accounting for ubiquitous quality change and for consumer substitution yields lower measures of inflation than traditional, official methods. (JEL C43, C45, E31, L15, L81)</content>
+    <link href="https://doi.org/10.1257/aer.20230766"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20231344</id>
+    <title>Friendship Networks and Political Opinions</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yann Algan, Nicolò Dalvit, Quoc-Anh Do, Alexis Le Chapelain, Yves Zenou</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We examine how social interactions and friendships shape students’ political opinions in a natural experiment at Sciences Po, a leading French university specializing in social and political sciences. The quasi-random assignment of students into short-term integration groups before their academic curriculum reduces political opinion gaps and fosters friendship formation. Using same-group membership as an instrumental variable for friendship, we find that friendship reduces opinion differences by 44 percent of the mean opinion gap. Our evidence supports a homophily-enforced mechanism: Friendships form among initially politically similar students, leading them to join political associations together, reinforcing their similarity. (JEL C93, D72, Z13)</content>
+    <link href="https://doi.org/10.1257/aer.20231344"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20230541</id>
+    <title>The Private Provision of Public Services: Evidence from Random Assignment in Medicaid</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Danil Agafiev Macambira, Michael Geruso, Anthony Lollo, Chima D. Ndumele, Jacob Wallace</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;This paper examines the effects of privatizing social health insurance. We exploit a natural experiment in Medicaid, wherein nearly 100,000 enrollees were randomly assigned between a publicly operated fee-for-service system and private managed care. Managed care reduced costs by 5.6 percent via cost-effective substitutions among prescription drugs and via lower prices for outpatient services. We present evidence that pharmacy utilization management was the key mechanism reducing overuse and encouraging substitution to lower-cost drugs without decreasing observed quality. In contrast, privatizing medical benefits led to only modest savings and was associated with decreased health care quality and consumer satisfaction. (JEL G22, H41, I13, I18, I38)</content>
+    <link href="https://doi.org/10.1257/aer.20230541"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20230017</id>
+    <title>Mergers, Foreign Competition, and Jobs: Evidence from the US Appliance Industry</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Felix Montag</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Policy choices often create trade-offs between workers and consumers. I examine how foreign competition alters the consumer welfare and domestic employment effects of mergers. I construct a model incorporating consumer demand, endogenous product portfolios, and employment decisions. Applying the model to Whirlpool’s acquisition of Maytag in the appliance industry, I compare the observed merger to a counterfactual acquisition by a foreign buyer. Although Whirlpool’s acquisition decreased consumer welfare by $271 million annually, it preserved 797 domestic jobs. These jobs must therefore be valued at more than $344, 000 per year for the domestic employment benefits to offset the consumer harm. (JEL E24, F23, G34, J30, L13, L68, R23)</content>
+    <link href="https://doi.org/10.1257/aer.20230017"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20230802</id>
+    <title>Elite Universities and the Intergenerational Transmission of Human and Social Capital</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrés Barrios-Fernández, Christopher Neilson, Seth Zimmerman</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;Do elite colleges help talented students join the social elite or help incumbent elites retain their positions? We combine intergenerationally linked data from Chile with a regression discontinuity design to show that, looking across generations, elite colleges do both. Lower-status individuals who gain admission to elite college programs transform their children’s social environment. Children become more likely to attend high-status private schools and colleges and to live near and befriend high-status peers. In contrast, academic achievement is unaffected. Simulations combining descriptive and quasi-experimental findings show that elite colleges tighten the link between social and human capital while decreasing intergenerational social mobility. (JEL I23, I26, J24, J62, O15, Z13)</content>
+    <link href="https://doi.org/10.1257/aer.20230802"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20230376</id>
+    <title>Quota versus Quality? Long-Term Gains from an Unusual Gender Quota</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ursina Schaede, Ville Mankki</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We evaluate equity-efficiency trade-offs from admissions quotas by examining effects on output once beneficiaries start producing in the relevant industry. We estimate the impact of abolishing a 40 percent quota for male primary school teachers on their pupils’ long-run outcomes. We combine this reform with the timing of union-bargained teacher retirements to isolate quasi-random variation in male quota teachers. Pupils exposed to male quota teachers transition more smoothly to postcompulsory education and have higher educational attainment and labor force attachment at age 25. Evidence suggests the quota improved the allocation of talent by mending imperfections in the unconstrained selection process. (JEL I21, I23, I28, J16, J24, J45)</content>
+    <link href="https://doi.org/10.1257/aer.20230376"/>
+    <category term="American Economic Review"/>
+    <published>2026-06-01T00:00:00+00:00</published>
   </entry>
 </feed>
