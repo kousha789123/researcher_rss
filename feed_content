@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-05-29T12:47:48.876985+00:00</updated>
+  <updated>2026-05-29T14:42:18.792760+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -609,18 +609,6 @@
     <published>2026-05-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdag026</id>
-    <title>A Model of Multiple Hypothesis Testing</title>
-    <updated>2026-05-14T00:00:00+00:00</updated>
-    <author>
-      <name>Davide Viviano, Kaspar Wüthrich, Paul Niehaus</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Multiple hypothesis testing (MHT) practices vary widely, without consensus on which are appropriate when. This article provides an economic foundation for these practices designed to capture leading examples, such as regulatory approval on the basis of clinical trials. MHT adjustments are appropriate in our framework to the extent that research costs are invariant to the number of hypotheses. Control of average size, as for example via a Bonferroni correction, emerges in the limit case where all costs are fixed; in the opposite limit, where costs vary in proportion to the hypothesis count, no correction is needed. We illustrate implications by calculating explicit critical values using data on actual costs in the drug approval process and in program evaluation research; these suggest that some MHT adjustment is warranted in these applications, but not as much as implied by standard practice.</content>
-    <link href="https://doi.org/10.1093/restud/rdag026"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-05-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1093/restud/rdag031</id>
     <title>Input Sourcing under Climate Risk: Evidence from U.S. Manufacturing Firms</title>
     <updated>2026-05-14T00:00:00+00:00</updated>
@@ -629,6 +617,18 @@
     </author>
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the effect of risk on how firms organize their supply chains. We use transaction-level data on U.S. manufacturing imports to construct a novel measure of input sourcing risk based on the historical volatility of ocean shipping times. Our measure isolates the unexpected component of shipping times that is induced by weather conditions along more than 331,000 maritime routes. We first document that unexpected shipping delays significantly reduce importers’ sales, profits, and employment. We then show that firms actively diversify weather risk by using more routes and foreign suppliers, although their import values decline. To rationalize these findings, we introduce shipping time risk into a general equilibrium model of importing with firm heterogeneity. Our quantitative analysis predicts substantial costs for the U.S. economy associated with supply chain risk.</content>
     <link href="https://doi.org/10.1093/restud/rdag031"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-05-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdag026</id>
+    <title>A Model of Multiple Hypothesis Testing</title>
+    <updated>2026-05-14T00:00:00+00:00</updated>
+    <author>
+      <name>Davide Viviano, Kaspar Wüthrich, Paul Niehaus</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Multiple hypothesis testing (MHT) practices vary widely, without consensus on which are appropriate when. This article provides an economic foundation for these practices designed to capture leading examples, such as regulatory approval on the basis of clinical trials. MHT adjustments are appropriate in our framework to the extent that research costs are invariant to the number of hypotheses. Control of average size, as for example via a Bonferroni correction, emerges in the limit case where all costs are fixed; in the opposite limit, where costs vary in proportion to the hypothesis count, no correction is needed. We illustrate implications by calculating explicit critical values using data on actual costs in the drug approval process and in program evaluation research; these suggest that some MHT adjustment is warranted in these applications, but not as much as implied by standard practice.</content>
+    <link href="https://doi.org/10.1093/restud/rdag026"/>
     <category term="Review of Economic Studies"/>
     <published>2026-05-14T00:00:00+00:00</published>
   </entry>
@@ -887,6 +887,18 @@
     <published>2026-05-16T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261454489</id>
+    <title>Operations management under paradox of choice</title>
+    <updated>2026-05-16T00:00:00+00:00</updated>
+    <author>
+      <name>Milad Mirzaee, Elaheh Fata, Guang Li</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper examines how assortment size influences consumer purchasing behavior and retailer profits, focusing on the paradox of choice (PoC), where overly limited or excessive options can diminish purchase intent. Although PoC effects are well-documented in behavioral research, their impact on assortment and pricing strategies in retail remains underexplored. To bridge this gap, we formalize PoC mathematically by modeling the utility of the no-purchase option as a U-shaped function of assortment size. We integrate this PoC framework into several discrete choice models, using the multinomial logit (MNL) model as the focal model. By decomposing the assortment problem into subproblems with fixed assortment sizes, we develop efficient solutions for the assortment optimization and the joint assortment and price optimization problems under the MNL with PoC model. Additionally, we compare the optimal solutions of the classical MNL model and the MNL model with the PoC effect through theoretical analysis and numerical experiments, offering managerial insights to guide firms in optimizing their assortments. We further extend our approach to derive optimal assortment and pricing solutions for the nested logit model employing a linear programming approach. Moreover, we devise a fully polynomial time approximation scheme for the assortment optimization under the mixture of MNL model with the PoC effect. This study advances the integration of behavioral insights into discrete choice models, illustrating how retailers can optimize product assortments and prices by balancing variety with cognitive effects linked to assortment size.</content>
+    <link href="https://doi.org/10.1177/10591478261454489"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-05-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10591478261453991</id>
     <title>EXPRESS: Robustness of Online Proportional Response in Stochastic Online Fisher Markets: a Decentralized Approach</title>
     <updated>2026-05-16T00:00:00+00:00</updated>
@@ -895,18 +907,6 @@
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This study is focused on periodic Fisher markets where items with time-dependent and stochastic values are regularly replenished, and buyers aim to maximize their utilities by spending budgets on these items. Traditional approaches of finding a market equilibrium in the single-period Fisher market rely on complete information about buyers' utility functions and budgets. However, it is impractical to consistently enforce buyers to disclose this private information in a periodic setting. We introduce a distributed bidding algorithm,online proportional response, wherein buyers update bids solely based on the randomly fluctuating values of items in each period. The market then allocates items based on the bids provided by the buyers. We show connections between the online proportional response and the online mirror descent algorithm. Utilizing the known Shmyrev convex program, a variant of the Eisenberg-Gale convex program that establishes market equilibrium of a Fisher market, two performance metrics are proposed: the fairness regret is the cumulative difference in the objective value of a stochastic Shmyrev convex program between an online algorithm and an offline optimum, and the individual buyer's regret gauges the deviation in terms of utility for each buyer between the online algorithm and the offline optimum. Our algorithm attains a problem-dependent upper bound in fairness regret under stationary inputs. This bound is contingent on the number of items and buyers. Additionally, we conduct analysis of regret under various nonstationary stochastic input models to demonstrate the algorithm's efficiency across diverse scenarios. The online proportional response algorithm addresses privacy concerns by allowing buyers to update bids without revealing sensitive information and ensures decentralized decision-making, fostering autonomy and potential improvements in buyer satisfaction. Furthermore, our algorithm is universally applicable to many worlds and shows the robustness of performance guarantees.</content>
     <link href="https://doi.org/10.1177/10591478261453991"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-05-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261454489</id>
-    <title>EXPRESS: Operations Management under Paradox of Choice</title>
-    <updated>2026-05-16T00:00:00+00:00</updated>
-    <author>
-      <name>Milad Mirzaee, Elaheh Fata, Guang Li</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper examines how assortment size influences consumer purchasing behavior and retailer profits, focusing on the paradox of choice (PoC), where overly limited or excessive options can diminish purchase intent. Although PoC effects are well-documented in behavioral research, their impact on assortment and pricing strategies in retail remains underexplored. To bridge this gap, we formalize PoC mathematically by modeling the utility of the no-purchase option as a U-shaped function of assortment size. We integrate this PoC framework into several discrete choice models, using the multinomial logit (MNL) model as the focal model. By decomposing the assortment problem into subproblems with fixed assortment sizes, we develop efficient solutions for the assortment optimization and the joint assortment and price optimization problems under the MNL with PoC model. Additionally, we compare the optimal solutions of the classical MNL model and the MNL model with the PoC effect through theoretical analysis and numerical experiments, offering managerial insights to guide firms in optimizing their assortments. We further extend our approach to derive optimal assortment and pricing solutions for the nested logit model employing a linear programming approach. Moreover, we devise a Fully Polynomial Time Approximation Scheme (FPTAS) for the assortment optimization under the mixture of multinomial logit model with the PoC effect. This study advances the integration of behavioral insights into discrete choice models, illustrating how retailers can optimize product assortments and prices by balancing variety with cognitive effects linked to assortment size.</content>
-    <link href="https://doi.org/10.1177/10591478261454489"/>
     <category term="Production and Operations Management"/>
     <published>2026-05-16T00:00:00+00:00</published>
   </entry>
@@ -1981,18 +1981,6 @@
     <published>2026-05-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.04948</id>
-    <title>Evaluating Investments in Asteroid Detection Technologies to Prevent Catastrophic Impacts on Earth</title>
-    <updated>2026-05-27T00:00:00+00:00</updated>
-    <author>
-      <name>Thomas S. Palley, Victor Richmond R. Jose, Asa B. Palley, Ralph L. Keeney, Mario Jurić</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Asteroids and other near-Earth objects pose a significant ongoing threat to our planet with the potential for catastrophic effects on human life, the environment, and the global economy. Advance warning would be necessary to deflect any object on a collision course with Earth, but detection and tracking technologies require substantial financial commitments. This paper presents a multiattribute utility framework to analyze whether and which detection technologies are worthwhile. This approach provides a rigorous and systematic understanding of the uncertainties, multiple objectives, and tradeoffs inherent in decisions involving low-probability, high-consequence events. The model shows that the detection technology investment decision is driven more by the abundant population of smaller (&lt;140 meters in diameter) undiscovered near-Earth objects than by any other size category. In addition, we find that the preferred investment alternative varies substantially over a range of plausible value tradeoffs that a decision maker might assign to each human fatality, a well-studied economic measure used by governments and policymakers that is called the value of a statistical life. The model we present allows a decision maker to jointly examine the role of risk and ambiguity preferences in determining the best alternative, and we further extend the framework to consider how a decision maker might evaluate alternatives when the threat affects a larger group of people while the economic cost of investment is borne by a smaller subset of stakeholders.This paper was accepted by George Wu, behavioral economics and decision analysis.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04948 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.04948"/>
-    <category term="Management Science"/>
-    <published>2026-05-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.06121</id>
     <title>Cheap Stock Options: Antecedents and Outcomes</title>
     <updated>2026-05-27T00:00:00+00:00</updated>
@@ -2001,6 +1989,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the prevalence, determinants, and consequences of cheap stock. Practitioners have adopted the label “cheap stock” to refer to equity-based compensation granted before a firm’s IPO that uses a share price below the IPO price. Cheap stock grants have drawn regulators’ attention with the Securities and Exchange Commission frequently commenting on issues related to cheap stock when reviewing firms’ IPO registration statements. We find that the average firm’s IPO price is more than five times the exercise price of options issued in the fiscal year before the IPO. This divergence between the IPO price and the exercise price of recently granted options is greater for firms that grant more options, have larger public offerings, and have venture capital backing. Finally, cheap stock options are associated with higher CEO compensation, lower post-IPO investment, lower post-IPO stock returns, and greater IPO underpricing. Collectively, our results illustrate the extent of cheap stock option grants and how these grants influence firms’ post-IPO behavior.This paper was accepted by Suraj Srinivasan, accounting.Funding: We thank Deloitte, the Mendoza College of Business, the Danish Finance Institute (DFI), and the Wharton-INSEAD Centre for Global Research and Education for financial support.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06121 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.06121"/>
+    <category term="Management Science"/>
+    <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04948</id>
+    <title>Evaluating Investments in Asteroid Detection Technologies to Prevent Catastrophic Impacts on Earth</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas S. Palley, Victor Richmond R. Jose, Asa B. Palley, Ralph L. Keeney, Mario Jurić</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Asteroids and other near-Earth objects pose a significant ongoing threat to our planet with the potential for catastrophic effects on human life, the environment, and the global economy. Advance warning would be necessary to deflect any object on a collision course with Earth, but detection and tracking technologies require substantial financial commitments. This paper presents a multiattribute utility framework to analyze whether and which detection technologies are worthwhile. This approach provides a rigorous and systematic understanding of the uncertainties, multiple objectives, and tradeoffs inherent in decisions involving low-probability, high-consequence events. The model shows that the detection technology investment decision is driven more by the abundant population of smaller (&lt;140 meters in diameter) undiscovered near-Earth objects than by any other size category. In addition, we find that the preferred investment alternative varies substantially over a range of plausible value tradeoffs that a decision maker might assign to each human fatality, a well-studied economic measure used by governments and policymakers that is called the value of a statistical life. The model we present allows a decision maker to jointly examine the role of risk and ambiguity preferences in determining the best alternative, and we further extend the framework to consider how a decision maker might evaluate alternatives when the threat affects a larger group of people while the economic cost of investment is borne by a smaller subset of stakeholders.This paper was accepted by George Wu, behavioral economics and decision analysis.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04948 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04948"/>
     <category term="Management Science"/>
     <published>2026-05-27T00:00:00+00:00</published>
   </entry>
@@ -2134,6 +2134,54 @@
     <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;How does early‐career entrepreneurship experience of family business offspring affect their likelihood of eventually taking over the established family firm? Considering family business succession as a dual‐agency process, we draw on human capital theory and opportunity cost logic to theorize how the same early‐career experience can have divergent implications for succession by simultaneously shaping parental preferences and offspring's choice. Using early‐career entrepreneurship as a revealing case, we analyse parent–child successions involving 8274 potential successors in Sweden between 2001 and 2019 and find that entrepreneurship experience positively affects a child's succession likelihood. The strength of this effect, in turn, depends on the entrepreneurial offspring's opportunity costs of succession, which are shaped by characteristics of their venture and the family business.</content>
     <link href="https://doi.org/10.1111/joms.70114"/>
     <category term="Journal of Management Studies"/>
+    <published>2026-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261442451</id>
+    <title>There’s More Than Meets the Eye: Assessing the Impact of Immigrants on Firm Environmental Performance</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <author>
+      <name>Narae Lee, Heli Wang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;This study investigates how shifts in political attention across issue domains influence firm environmental performance. We theorize that heightened salience of migration—a politically charged and administratively demanding issue—can crowd out the state’s regulatory capacity in unrelated domains such as environmental protection. Drawing on a panel of U.S. manufacturing facilities, we find that increases in migration salience, measured by the volume of migration-related state legislation, are associated with higher levels of toxic pollution. We argue that this occurs as limited public resources and oversight shift toward migration enforcement, weakening the institutional constraints on firms. The effect is more pronounced as states have lower fiscal capacity. These findings are robust to an instrumental variable strategy and alternative specifications. By conceptualizing enforcement capacity as fluid and contested, this study offers new insights into how institutional crowding reshapes the regulatory environment and, in turn, affects firm behavior in the environmental domain.</content>
+    <link href="https://doi.org/10.1177/01492063261442451"/>
+    <category term="Journal of Management"/>
+    <published>2026-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261446904</id>
+    <title>How Racioethnic Equity Contributes To Organizational Functioning</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <author>
+      <name>Larissa R. Garcia, Kristi B. Hatter, Derek R. Avery, Patrick F. McKay</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Although diversity and inclusion have been studied extensively, equity is the relatively underexplored component of DEI. The present study addresses this gap by examining the influence of equity on organization-level outcomes through the lens of management ethnic representativeness (MER), which reflects the alignment between the racioethnic profiles of employees and management. We integrate signaling and equity theories to hypothesize that organizational equity signals elicit employee productivity, ultimately impacting the organization’s bottom line. Specifically, we hypothesize that MER has a positive indirect relationship with organizational performance through operational performance, especially in more racioethnically diverse organizations. Our model is tested through three field studies and an experiment (along with two supplemental studies). Across multiple studies including archival national survey data (Study 1), a large, US-based retail organization (Study 2), five years of professional sports panel data (Study 3), and an experiment (Study 4), we found consistent evidence that MER is associated with higher operational performance and, by extension, greater organizational performance, particularly in units with greater racioethnic diversity. Additionally, we observed that MER is related positively to perceived equity when organizations are more racioethnically diverse. We discuss the theoretical and practical implications of our study findings.</content>
+    <link href="https://doi.org/10.1177/01492063261446904"/>
+    <category term="Journal of Management"/>
+    <published>2026-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261446895</id>
+    <title>A Watched Blossom Seldom Blooms: Board Interlocks and Digital Business Model Innovation</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <author>
+      <name>Fangyi Liu, Jingtao Yi, Liang Chen</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Digital business model innovation (DBMI) represents a critical yet challenging form of strategic adaptation for firms navigating modern technological changes. This study investigates how the directionality of board interlock ties—whether ties are sent or received—shapes a focal firm’s engagement in DBMI. Drawing on a coevolutionary stochastic actor-oriented model (SAOM) applied to a longitudinal dataset, our baseline results reveal an intriguing asymmetry: receiving ties exert a stronger influence on a focal firm’s DBMI than sending ties. To probe this divergence, we abductively unpack the underlying diffusion frictions spanning attention, interpretation, and validation. The results point to attention friction as the primary bottleneck: when boards face heightened attentional scarcity, such as when firms experience CEO succession or operate under high business diversification, the relative advantage of receiving ties over sending ties is magnified. Our work deepens the understanding of how the directionality of board interlock ties channels organizational learning to foster strategic adaptation in the digital age.</content>
+    <link href="https://doi.org/10.1177/01492063261446895"/>
+    <category term="Journal of Management"/>
+    <published>2026-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00018392261450609</id>
+    <title>Remote Work and Hiring Requirements: Cross-Country Evidence from Job Postings</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <author>
+      <name>Shinan Wang, Letian Zhang, Zhenyu Liao</name>
+    </author>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;In this article, we show that remote work is associated with higher skill and qualification requirements in hiring. Drawing on qualitative interviews, we identify several mechanisms through which remote work raises hiring standards. By reducing face-to-face interaction and real-time communication, remote work makes training and employee support more challenging, expands the pool of applicants, and leads employers to rely more on quantifiable metrics. We tested these ideas by analyzing over 50 million job postings from 28 European countries between 2018 and 2021 and found that the shift to remote work is associated with a higher number of required skills and greater work experience for a job. These findings indicate that remote work contributes to skill upgrading in the labor market.</content>
+    <link href="https://doi.org/10.1177/00018392261450609"/>
+    <category term="Administrative Science Quarterly"/>
     <published>2026-05-29T00:00:00+00:00</published>
   </entry>
   <entry>
