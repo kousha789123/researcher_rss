@@ -2,228 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-06-08T12:49:33.902355+00:00</updated>
+  <updated>2026-06-09T12:49:28.879717+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1002/sej.70029</id>
-    <title>Dancing to multiple tunes: Establishing legitimacy with first‐time and repeat backers in crowdfunding campaigns</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Stephanie Hepp, Alexander Vossen, Lien Denoo</name>
-    </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Using 14,108 Kickstarter crowdfunding campaigns, we examine three strategies to gather support from first‐time versus repeat backers: narrative distinctiveness aligning with backers' expectations of novelty, endorsement from Kickstarter staff, and campaign leadership's reciprocity of funding other campaigns. Staff endorsement is more strongly associated with support from first‐time backers, while campaign leadership's reciprocity is associated primarily with repeat backers. Differences between first‐time and repeat backers are evident in evaluating narrative distinctiveness: narratives distinct from past campaigns correlate positively with repeat backers and greater funding but negatively with first‐time backers. Narratives distinct from live campaigns correlate positively with first‐time backers but are associated with lower funding amounts. Our findings conceptualize differences between first‐time and repeat backers that shape the associations between campaign legitimization strategies and backer support.Managerial SummaryThis work examines how Kickstarter campaigns should be designed to attract both new people and get support from existing community members. We test whether differences between these two target groups exist in evaluating commonly established “success factors” of campaigns: An endorsement from Kickstarter, the involvement of the campaign founder on the platform, and a campaign text highlighting the campaign's novel contributions. We find differences in all three between both groups and conclude with insights on how managers should design crowdfunding campaigns based on long‐term goals and objectives. We also offer some implications for crowdfunding platforms, such as Kickstarter, in supporting content creators in attracting new backers, which aids with overall platform growth.</content>
-    <link href="https://doi.org/10.1002/sej.70029"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdag050</id>
-    <title>Jackknife Standard Errors for Clustered Regression</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Bruce E Hansen</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;This article presents a theoretical case for replacement of conventional heteroskedasticity-consistent and cluster-robust variance estimators with jackknife variance estimators, in the context of linear regression with heteroskedastic and/or cluster-dependent observations. We examine the bias of variance estimation and the coverage probabilities of confidence intervals. Concerning bias, we show that conventional variance estimators have full downward worst-case bias, while our jackknife variance estimator is never downward biased. Concerning confidence intervals, we show that intervals based on conventional standard errors have worst-case coverage equalling zero, while the jackknife-based confidence interval has coverage probability bounded by the Cauchy distribution, under the auxiliary assumption of normal errors. We also extend the Bell and McCaffrey (2002) student t approximation to our jackknife t-ratio, resulting in confidence intervals with improved coverage probabilities. Our theory holds under broad assumptions, allowing arbitrary cluster sizes, regressor leverage, within-cluster correlation, heteroskedasticity, regression with a single treated cluster, fixed effects, and delete-cluster invertibility failures. Our theoretical findings are consistent with the extensive simulation literature investigating heteroskedasticity-consistent and cluster-robust variance estimation.</content>
-    <link href="https://doi.org/10.1093/restud/rdag050"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdag049</id>
-    <title>The Dynamics of Internal Migration: A New Fact and its Implications</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Greg Howard, Hansen Shao</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We propose a new model of internal migration, based on persistent and spatially correlated idiosyncratic utility. The model is motivated by a new fact in the data that simple moving cost models struggle to match: the t-year interstate migration rate is proportional to the square root of t. The new model maintains the tractability and flexibility of standard migration models, but better matches the dynamics of migration, including the new fact. It has substantially different welfare implications and makes different counterfactual predictions, especially in terms of dynamic adjustment and long-run responses.</content>
-    <link href="https://doi.org/10.1093/restud/rdag049"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.1987</id>
-    <title>Improving Upon the Generalized
-                    &lt;i&gt;c&lt;/i&gt;
-                    μ Rule: A Whittle Approach</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Zhouzi Li, Keerthana Gurushankar, Mor Harchol-Balter, Alan Scheller-Wolf</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Better Scheduling When the Cost of Delay Grows over TimeImagine a stream of jobs, in which each job costs us some money (a holding cost) for every hour that it is not complete. Furthermore, the holding cost of each job can increase over time and possibly even jump up at deadlines associated with the job. To minimize the rate at which we hemorrhage money, it is common to deploy well-known strategies such as the celebrated generalized c-mu rule, which prioritizes scheduling jobs based on their instantaneous holding cost. However, this approach is limited: it ignores how costs rise in the future; for example, a job with a deadline might be ignored until after the deadline is missed. Li, Gurushankar, Harchol-Balter, and Scheller-Wolf tackle this time-varying holding cost problem by translating it into a restless multiarmed bandit, which they use to derive a Whittle index. This leads to a new priority rule that accounts for how both holding costs and workloads evolve in the future. Their rule is simple to implement, yet it is remarkably robust, consistently outperforming all known heuristics across a wide range of settings.</content>
-    <link href="https://doi.org/10.1287/opre.2025.1987"/>
-    <category term="Operations Research"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03238</id>
-    <title>Fifty Years of Anchoring Effects: A Theoretical Reintegration and Meta-Analysis</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Dan R. Schley, Evan Weingarten</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;One of the most robust phenomena studied across the social behavioral sciences is numeric anchoring, in which a comparison against a presumed-to-be arbitrary number preceding a judgment can influence a myriad of real-world-relevant judgments. The authors meta-analyze the expansive literature containing 2,601 total effect sizes (1,280 comparing high anchors against low anchors), finding a large (Hedges’[Formula: see text] confidence interval [0.765, 0.884], [Formula: see text]) effect that remains large even after accounting for extensive publication bias. Evidence suggests reduced (or null) effects associated with incidental anchoring (i.e., numeric priming), anchors from different dimensions, or from random numbers, the presence of incentives or debiasing interventions, and whether the anchor provides directional information. The authors provide a comprehensive review of both the empirical and theoretical landscape and offer recommendations for consolidating the literature, improving theory testing, future development of theory and methods related to anchoring, and guidance for managers attempting to use anchoring effects in strategic and policy decisions.This paper was accepted by Jack Soll, behavioral economics and decision analysis.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.03238 and at Open Science Foundation’s (OSF) repository page https://osf.io/d583s/overview .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03238"/>
-    <category term="Management Science"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.00781</id>
-    <title>Technology Adoption and Leapfrogging: Racing for Mobile Payments</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Pengfei Han, Zhu Wang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Mobile payments are reshaping the global payment landscape with some developing economies leapfrogging advanced economies in adoption. We build and estimate a dynamic model of sequential payment innovations—progressing from cash to card to mobile—to explain this pattern. The model matches cross-country payment technology adoption patterns and shows how advanced economies’ early success in adopting card payments dampens subsequent mobile payment adoption. Extending the framework to a two-sided market with price coherence, we show that payment externalities justify policy intervention: Promoting mobile payment adoption and usage (e.g., via subsidies or price differentiation) enhances welfare, especially in developing economies.This paper was accepted by Lin William Cong, Virtual Special Issue on Digital Finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00781 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.00781"/>
-    <category term="Management Science"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.00055</id>
-    <title>Learning Product Improvement from Consumer Evaluations</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Amin Hosseininasab, Vincent Zhao, Anuj Kumar</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Product Improvement (PI) involves making minimal changes to an existing product to enhance its market performance. A key source of information for PI is Consumer Evaluation (CE), provided either in aggregate (e.g., sales volume) or descriptive (e.g., online reviews) form. Existing PI approaches analyze the descriptive CE of the focal product, which limits their applicability when descriptive CE is missing, abstract, or interdependent. More importantly, current methods are primarily descriptive and do not generate actionable PI recommendations, despite their considerable value to practitioners. We address these challenges with a new approach that leverages both aggregate and descriptive CE across the entire market to prescribe specific PI recommendations. We first develop Product Segmentation (PS) trees, a type of decision tree with a customized objective function designed to identify the features that best segment products by market performance. We then build a constrained shortest-path algorithm over the PS tree structure to prescribe minimal improvements for any underperforming product. To enhance robustness, we ensemble multiple PS trees, each trained with distinct objectives, into a novel PS forest. Using both real and synthetic data, our approach achieves 73% average precision in PI and improves upon the best benchmarks by 11%. Lastly, we conduct a conjoint analysis to behaviorally validate that consumers prefer the PI recommendations generated by our method over the original underperforming products. Our theoretical and empirical results show that the proposed approach addresses key challenges in using CE for PI and offers interpretable and actionable decision support for practitioners.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00055 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.00055"/>
-    <category term="Management Science"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01838</id>
-    <title>Know Your Users via Image Analytics Before Developing Posts: Data-Driven Optimization Framework to Enhance Social Media Engagement</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Mayukh Majumdar, Subodha Kumar, Chelliah Sriskandarajah</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Social media platforms are popular for advertisers to promote products to their audience via posts. Developing these posts with the appropriate number of image features is essential as these features enhance informativeness and visual complexity, impacting how users engage with posts. However, the existing literature offers a limited investigation into this topic, primarily examining low-level imagery information while overlooking high-level image features, cross-platform differences arising from different user expectations, and the tradeoffs firms must make in tailoring their strategies. To address this critical gap, we develop an optimization framework for analyzing and publishing social media image posts for different platforms within a firm’s limited budget. This optimization framework is grounded in empirical modeling of the association between image features and social media user engagement, with primary and secondary features identified using deep learning algorithms. We focus on secondary features because they add visual complexity and informativeness, are controllable by designers, and are costly to extract, underscoring the need to assess their value for engagement. We find a nonlinear association between secondary features and engagement that varies across the two platforms. The optimization framework, which models the nonlinear relationship and is tested on realistic scenarios, considers and compares our approach against commonly used strategies that allocate budgets solely based on the user bases of platforms, those that ignore secondary features, and those that do not use duplicate features that can enhance informational richness and context. We present key implications for firms seeking to maximize user engagement on social media platforms.This paper was accepted by George Shanthikumar, data science.Funding: S. Kumar was supported by the Temple Center for International Business Education and Research.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01838 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01838"/>
-    <category term="Management Science"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/joom.70046</id>
-    <title>There Is More to Crowdshipping Than Money: Understanding How Operational Characteristics Influence Driver Behaviors</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Nicolò Masorgo, David D. Dobrzykowski, Christopher S. Tang, Brian S. Fugate</name>
-    </author>
-    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;The increasing cost of last‐mile delivery has motivated omnichannel grocery retailers to implementcrowdshipping. Crowdshipping is a platform‐based last‐mile delivery model that relies on engaging drivers who are independent contractors to quickly accept delivery tasks. While studies often focus on the impact of monetary incentives, we draw on perspectives from the service operations literature to explore the moderating effect of three theoretical mechanisms (effort efficiency, uncertainty, and utility), on the curvilinear relationship between monetary incentives and driver engagement. Specifically, we test howdelivery density,delivery type(attended vs. unattended), andtime of the dayinteract with monetary incentives to influence driver's task acceptance response time. Econometric analyses of a dataset comprising about two million observations from a US Fortune 100 grocery retailer's crowdshipping platform confirm the “diminishing negative” effect of remuneration on task acceptance time. More importantly, we reveal that task operational characteristics affect how monetary incentives influence task acceptance time. While task density and unattended deliveries amplify the curvilinear relationship, evening tasks flatten it and are accepted slower than those scheduled in the daytime. Our findings suggest that drivers evaluate tasks based on perceived effort, uncertainty, and utility, offering valuable insights for platforms and future research.</content>
-    <link href="https://doi.org/10.1002/joom.70046"/>
-    <category term="Journal of Operations Management"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70118</id>
-    <title>From Platform Design to Attention Governance: Rethinking Social Media Externalities</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Mirko Benischke, Corinne Post</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Social media platforms have become central infrastructures through which information is produced, distributed, and contested in contemporary societies, with growing consequences for organizations, social interactions, and democracy. Yet, management and organization scholars tend to treat social media platforms as contexts rather than focal organizational entities. Synthesizing aPoint Counterpointdebate, we argue that key disagreements across the debate articles can best be understood as a question of attention governance – who controls attention allocation, by what rules, and with what accountability. We show that despite divergent causal diagnoses (political capture, incentive distortion, or structural constraints), the contributions converge on attention considerations as a key factor through which social media externalities are produced. We synthesize the debate views through three unifying threads: an interest in how attention is valued and accumulated as currency and infrastructure, the recognition of a gradual shift of rule decision‐making from collectively negotiated to algorithmically determined, and the reliance on increasingly thinner decision rules. We conclude with a governance research agenda to advance theory on social media platform externalities.</content>
-    <link href="https://doi.org/10.1111/joms.70118"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70050</id>
-    <title>Why Have CEO Pay Levels Become Less Diverse?</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>TORSTEN JOCHEM, GAIZKA ORMAZABAL, ANJANA RAJAMANI</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;This paper documents a new stylized fact: the cross‐sectional variation in CEO pay levels has declined precipitously in recent years. We offer one explanation for this decline, namely, firms are increasingly benchmarking CEO compensation to industry peers closest in size, thereby creating pay clusters. Our empirical tests provide support for this explanation and suggest that the rise of industry‐size benchmarking is driven by three institutional factors: the mandatory disclosure of compensation peer groups, proxy advisory influence, and say‐on‐pay regulation. Our findings highlight a consequence of adopting a one‐size‐fits‐all standard in the pay‐setting process.</content>
-    <link href="https://doi.org/10.1111/jofi.70050"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1192</id>
-    <title>Games People Play: Strategies to Develop and Release Online Games</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Joohyun Kim, Monica Johar, Vijay Mookerjee</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;When should a game studio continue building in beta and when should it go live? In an industry defined by continuous updates and diverse players, online game developers must decide what to build and when to release while balancing engagement, monetization, and development resources. Unlike traditional software, online games operate in a mass market environment where users differ widely in experience and tolerance for bugs, and where frequent updates are essential to maintain interest and competitiveness. We show that beta releases are not only testing tools but strategic instruments for managing user diversity, product complexity, and release timing. Beta phases allow firms to gather feedback and refine features before broader release. Full releases should be delayed when complexity is high or when experienced users represent a large share of the user base. Release decisions must balance development constraints with market pressures. Although delaying releases can improve quality, competition may require earlier launches. From a policy perspective, platform operators can support better outcomes by enabling structured beta programs, managing user expectations, and providing tools for staged rollouts. These practices help improve product quality, reduce negative user experiences, and enhance long-term user engagement in digital ecosystems.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1192"/>
-    <category term="Information Systems Research"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70077</id>
-    <title>When Do Employees Choose to Invest in Their Firms? An Empirical Examination of Factors Affecting Employees' Participation in Employee Stock Purchase Plans</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Joo Hun Han, So Ri Park, Joseph R. Blasi, Douglas L. Kruse, William G. Castellano</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;The present study examined factors predicting employee participation in employee stock purchase plans (ESPPs). Despite the plausible benefits of ESPPs for participating employees, many employees do not participate in ESPPs even when they are eligible. To shed light on this puzzle, we investigated key variables related to the plan (i.e., discount rates), the firm (i.e., stock price movements), and an external event (i.e., COVID‐19 pandemic) in relation to employees' participation in ESPPs. Using a unique proprietary dataset on employee stock purchases from 40 publicly traded companies with a total of 1,005,300 employees, we found that discount rates and past stock price increases, on their own, were not associated with higher participation. However, these relationships became significantly positive when past stock prices displayed stability rather than volatility during certain pre‐participation periods. In addition, we observed that the firms in our dataset had significantly higher ESPP participation rates during (vs. before) the pandemic. These findings offer various research and practical implications, extending the compensation and employee ownership literature that has paid little attention to the predictors of employees' ESPP participation.</content>
-    <link href="https://doi.org/10.1002/hrm.70077"/>
-    <category term="Human Resource Management"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261440312</id>
-    <title>Is Self-Employment a Career Trap? A Large-Scale Field Experiment in the Labor Market</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Igor Asanov, Maria Mavlikeeva</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;We conduct a large-scale labor-market experiment using more than 8,000 fictitious résumés to uncover the demand-side mechanisms behind the adverse treatment of the self-employed entering wage employment. We find that, compared to wage earners, self-employed individuals face lower callback rates across industries and skill groups. This adverse treatment is concentrated in the lower-skilled, non-managerial market of associate professionals, with a 28% drop in callback. Results suggest that self-employment leads to the development of generalist skills (useful for managerial roles) at the cost of specialist skills. Furthermore, perceived behavioral fit of the self-employed seems to be penalized in associate positions.</content>
-    <link href="https://doi.org/10.1177/10422587261440312"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261441597</id>
-    <title>Is the Venture Growth-Survival Relationship Inverted U-Shaped or Not? A Replication and Extension</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Yassine Lamrani Abou Elassad, Giuseppe Criaco, Justin J.P. Jansen, Tom J.M. Mom</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study revisits the assumption that moderate growth offers the most reliable path to new venture survival. Adopting a lifetime growth perspective, we distinguish genuine failure from strategic or neutral exits to better understand the growth–survival relationship. Using 246,831 venture-year observations from 52,277 Dutch startups (2007–2019), we replicate and extend prior research. While moderate annualized growth enhances short-term survival, our extension reveals a contrasting long-term pattern: ventures with either low or high lifetime growth exhibit the greatest survival likelihood. These findings reconcile competing perspectives and highlight how ventures need to navigate short- and long-term pressures to survive.</content>
-    <link href="https://doi.org/10.1177/10422587261441597"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261447788</id>
-    <title>Self-Employment Entry Across Family Transitions: Household Capability Reallocation Over the Life Course</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Hien Thu Tran</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study examines how major family transitions—marriage, childbirth, divorce, widowhood, and the co-occurrence of marriage and childbirth within the same observation interval—are associated with entry into self-employment as households reallocate risk, care, and income responsibilities. Using longitudinal Canadian data from the Longitudinal and International Study of Adults (2012–2020), it draws on life-course theory, household bargaining perspectives, and the capability approach to conceptualize self-employment entry as a process of contingent capability reallocation rather than simply a reflection of stable entrepreneurial preferences. The findings show that identical life events generate divergent entry responses across gendered breadwinner roles, caregiving demands, and life stage. Marriage and childbirth are positively associated with entry on average, but these associations are contingent: marriage is most strongly associated with entry among newly married secondary-earning women, while childbirth suppresses entry for primary-earning mothers and attenuates for new fathers as caregiving intensity rises. Divorce shows no uniform association: it is positively associated with childcare-expense responsibility but negatively associated with prior primary-earner status. Widowhood is associated with reduced entry, with no working-age moderation. Finally, the co-occurrence of marriage and childbirth within the same biennial interval is associated with higher entry than either transition alone.</content>
-    <link href="https://doi.org/10.1177/10422587261447788"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261444752</id>
-    <title>Can Lack-of-Fit Penalties Apply to Male Entrepreneurs? Equity Fundraising in Femtech</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Hana Milanov, Benedikt David Christian Seigner, Erik Lundmark</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Persistent evidence of a male advantage in equity fundraising has led entrepreneurship scholars to assume that while women face fit penalties in male-typed industries, men are exempt from penalties in female-typed ones. Yet underlying sociological theory implies that lack-of-fit penalties would apply to both sexes. Analyzing 718 equity deals from 408 ventures in Femtech, we find that male CEOs raise smaller deal amounts than female CEOs.Post hocanalyses and interviews provide interpretive triangulation consistent with two plausible explanatory accounts, embodied task competence and moral legitimacy. This challenges the assumption that men are exempt from fit penalties in female-typed industries.</content>
-    <link href="https://doi.org/10.1177/10422587261444752"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00018392261446610</id>
-    <title>The Promise–Risk Balance: Recalibrating Design Choices and Strategic Framing Following Catastrophic Innovation Failure</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <author>
-      <name>Sen Chai, Anil R. Doshi, Luciana Silvestri, Tiona Zuzul</name>
-    </author>
-    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;Catastrophic innovation failure derails firms’ innovation process and threatens their legitimacy. Prior research has analyzed internal and external responses to failure separately, focusing either on intra-firm learning and failure remediation or on efforts to sustain stakeholder support. Research on these responses’ co-evolution has been notably absent. We examine how a firm jointly recalibrated internal design choices and external strategic framing following catastrophic innovation failure, through a study of Virgin Galactic’s 2014 test flight crash. We introduce and develop the concept of the “promise–risk balance”: a state in which the uncertainty inherent to innovation and the framing communicated to stakeholders stand in generative tension and jointly support the innovation process. Catastrophic innovation failure disrupts this balance. We map Virgin Galactic’s recalibration of risk via internal design choices and recalibration of promise via external framing as interdependent levers to restore balance. We show that design choices aimed at de-risking technology can have adverse effects on a firm’s capabilities, externally dampening promise. Following failure, strategic reframing must bring the firm’s external message in line with actual capabilities and inspire stakeholder support. Recognizing and managing interdependencies between design choices and strategic framing is crucial to the continuity of the innovation process and firm survival.</content>
-    <link href="https://doi.org/10.1177/00018392261446610"/>
-    <category term="Administrative Science Quarterly"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70102</id>
     <title>Do multinational enterprises from developed and emerging economies differ in their price discrimination strategies? Evidence from Africa</title>
@@ -1199,532 +981,532 @@
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.06586</id>
     <title>The Check Is in the Mail: Can Disclosure Reduce Late Payments to Suppliers?</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Elizabeth Chuk, Ben Lourie, Il Sun Yoo</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine whether buyers reduce their late payments in response to a regulatory change in the United Kingdom that mandates the public disclosure of their payment practices. We find that UK buyers subject to this regulation reduce their late payments. In cross-sectional tests, we find that this reduction in late payments is more pronounced for buyers with a greater extent of late payments, buyers facing a more concentrated supplier base, and buyer-supplier relationships in which a supplier is more important to a buyer than other suppliers. In additional tests, we document evidence consistent with increases in contracting costs for late payers after the disclosure of late payments. Specifically, we find that late-paying buyers experience (i) a loss of suppliers and (ii) a negative stock market reaction. Finally, for buyers subject to the regulation, we document a decrease in operating cash flows, increase in debt, decrease in investment, and decrease in future profitability. Our findings that the disclosure of late payments contains decision-useful information can inform standard-setters, as the FASB and IASB recently mandated new disclosures related to trade credit but omitted mandates for disclosures related to late payments.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06586 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.06586"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.02381</id>
     <title>Sequential Decision Making: From Decision Elicitation to Strategy Identification</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Evgeny Kagan, Stephen Leider, Ozge Sahin</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Characterizing behavior in sequential problems is often complicated by the presence of multiple decision rules with overlapping predictions. To address this issue, we introduce a new experimental and econometric approach for identifying decision strategies in sequential contexts. This approach consists of eliciting conditional strategies (as opposed to direct choices) and measuring policy adherence via maximum-likelihood estimation (as opposed to counting coincidences). Applying this approach to several common types of sequential problems increases the proportion of uniquely identifiable subjects by up to a third relative to standard methods and yields the following findings. First, in search and stopping problems, decision makers respond less strongly to state and time of the dynamic problem than in problems that do not have a stopping structure. Second, decision rules are often biased toward being more accepting (less demanding) than the optimal policy would predict. Third, the format used to elicit decisions (menu-based choice versus numeric threshold entry) has a significant effect on policy adoption. In addition to identifying decision rules that better fit observed behavior in dynamic choice problems, these results have implications for firms serving customers who face sequential decisions. We use a revenue management example (optimal subscription service pricing) to show that failing to account for the relevant decision rules can reduce firm profits by up to 54%.This paper was accepted by Elena Katok, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02381 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.02381"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03818</id>
     <title>Efficient Switchback Experiments with Surrogate Variables: Estimation and Experimental Design</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Hongyu Chen, David Simchi-Levi</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Switchback experiments, in which experimental units are assigned to control and treatment interchangeably over time, have gained increasing popularity in recent years due to their ability to mitigate interference across units. Despite their wide adoption in the technology sector, drawing reliable inferences from such experiments remains challenging due to temporal interference. In this paper, we address this challenge by examining a special causal structure commonly found in a wide range of applications. Specifically, we consider scenarios where there exist surrogate variables at each experimental period that can fully capture the potential temporal interference from the past. We outline the necessary assumptions for identification in this context and propose an unbiased estimator using the technique of importance sampling. Additionally, we derive an experimental design with a near-optimal worst-case guarantee and compare it theoretically and empirically to the inverse propensity score estimator. To facilitate inferences, we introduce both an exact inference procedure based on Fisher’s randomization test and an asymptotic inference procedure based on the central limit theorem. We demonstrate by extensive numerical experiments that the proposed estimator, coupled with the experimental design, results in lower risk compared with the traditional inverse propensity score estimator.This paper was accepted by J. George Shanthikumar, data science.Funding: Research was funded by the MIT Data Science Lab.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03818 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03818"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01617</id>
     <title>Two-Sided Benefits of Price Transparency in Smallholder Supply Chains</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Yuan Shi, Joann F. de Zegher, Irene Y. Lo</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Information platforms have emerged in the developing world to improve price transparency and welfare for smallholder suppliers. Meanwhile, sustaining welfare improvement often requires such platforms to benefit both suppliers and buyers. This paper studies the impact of price transparency on market price and welfare in smallholder supply chains, and identifies conditions and driving forces for creating benefits to both suppliers and buyers. Motivated by granular data from smallholder supply chains, we develop a new Hotelling model of price search, where price-setting buyers face the operational challenges of demand asymmetry and costly underage or overage amid uncertain supply. We find that high overage costs, combined with high demand asymmetry that dominates random supply variations, give rise to two-sided benefits, driven by price competition benefiting the suppliers and demand signaling benefiting the buyers under increased transparency. Moreover, achieving two-sided benefit requires implementing a well-chosen level of price transparency, and, in some cases, creating a low uncertainty environment for buyers. These results help close the gap between the empirical literature and the theoretical economic literature on this topic, and offer possible explanations for the variation in empirical findings. We provide managerial recommendations for information platform designers, including for our partnering platform, on identifying the target markets and whether to implement full or partial transparency.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported by Stanford King Center on Global Development, Abdul Latif Jameel Water and Food Systems Lab (J-WAFS), and Stanford Woods Institute for the Environment.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01617 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.01617"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.08469</id>
     <title>Balancing Power in Decentralized Governance: Quadratic Voting and Information Aggregation</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Alon Benhaim, Brett Hemenway Falk, Gerry Tsoukalas</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In decentralized governance, quadratic voting (QV)—where the cost of acquiring voting power is convex—optimally aggregates voter preferences, outperforming simpler linear voting (LV) mechanisms when voters have complete information. But what if they do not? We show that uncertainty not only breaks QV optimality but can also cause it to underperform LV. Intuitively, this is because cost convexity can disincentivize better-informed voters from adequately conveying their private information. The optimal mechanism varies with the distribution of stakes and information among voters, implying that QV’s known advantages in preference aggregation do not readily extend to common-value information aggregation settings.This paper was accepted by Will Cong for the Special Issue on the Digital Finance.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2024.08469 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.08469"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.06312</id>
     <title>Retargeting Social Media Outreach for SNAP Take-Up</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Parker Rogers</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In a California field experiment, I investigated the impact of a Facebook outreach campaign aimed at increasing enrollment in the Supplemental Nutrition Assistance Program (SNAP). The campaign used a promising marketing strategy known as “retargeting,” where ads were delivered to a randomly selected subset of over 16,000 eligible nonparticipants who had nearly completed the SNAP application process, while a control group remained unaffected. Despite leveraging ad content developed in collaboration with nonprofit and government partners, the campaign did not produce statistically or economically significant increases in enrollment, even when considering the extreme values of estimated confidence intervals.This paper was accepted by Jean-Pierre Dube, marketing.Funding: This work was supported by Code for America and the National Institute on Aging [Grant T32-AG000186].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06312 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.06312"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.00246</id>
     <title>“Small Data”: Inference with Occasionally Observed States</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Alexandros Gilch, Andreas Lanz, Philipp Müller, Gregor Reich, Ole Wilms</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the estimation of dynamic economic models for which some of the state variables are observed only occasionally by the econometrician—a common problem in many fields, ranging from marketing to finance to industrial organization. If those occasional state observations are serially correlated, the likelihood function of the model becomes a high-dimensional integral over a nonstandard domain. We generalize the recursive likelihood function integration procedure to incorporate the occasional observations, enabling likelihood-based inference in such estimation problems. In extensive Monte Carlo studies, we demonstrate the favorable properties of the proposed method for identifying all model parameters and compare it to alternative methods.This paper was accepted by Raphael Thomadsen, marketing.Funding: This work was supported by Deutsche Forschungsgemeinschaft [Collaborative Research Center Transregio 224]. P. Müller and G. Reich gratefully acknowledge the financial support of Kenneth Judd, senior fellow at the Hoover Institution.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.00246 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.00246"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.02540</id>
     <title>To Each Their Own: Personalized Product Offerings in Competition</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Jinzhao Du, Z. Eddie Ning</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study competition between two firms that personalize product offerings to consumers. Firms have private, imperfect signals of each consumer’s ideal location and offer each consumer a different product without observing the competitor’s product offering. We characterize the equilibrium personalization strategy and examine how the accuracies of firms’ signals affect equilibrium strategy, profits, and consumer welfare. A firm generally charges a higher price for a more niche product and profits more from niche consumers unless its prediction accuracy is sufficiently lower than its competitor’s. When both firms have the same industry-level prediction accuracy, an increase in accuracy initially relaxes but later intensifies price competition for niche consumers, having the opposite effect on mainstream consumers. Interestingly, equilibrium profits also have an inverse-U shape in the prediction accuracy. A higher accuracy can also decrease welfare for mainstream consumers. When firms can endogenously invest in prediction accuracy, firms have incentives to overinvest in equilibrium, resulting in a prisoner’s dilemma. Privacy regulations that reduce predictive accuracy, including industry self-regulation, could improve profits and hurt consumer welfare by relaxing price competition. Our results remain robust under consumer search. The paper also discusses what happens if firms charge uniform pricing, if consumers’ ideal locations are distributed on the Salop circle, or if firms receive common signals, highlighting price discrimination between mainstream and niche consumers as the key driver of results.This paper was accepted by Dmitri Kuksov, marketing.Funding: J. Du is grateful for financial support from the Research Grants Council of Hong Kong [Grant GRF/17501823].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02540 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.02540"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05073</id>
     <title>The Effect of Price Caps on Advertising to Physicians: Evidence from the 340b Drug Pricing Program</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Sylvia Hristakeva, Julie Holland Mortimer, Eric Yde</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the effect of price caps on the provision of costly effort by pharmaceutical firms using variation in drug discounts generated by a price regulation program that allows eligible hospitals to purchase outpatient drugs at steep discounts. These discounts directly affect drug manufacturers’ markups and may change firms’ incentives to exert promotional effort targeted toward physicians at these hospitals. We find that the effects of price regulation on pharmaceutical firm effort depend crucially on the design of the regulations and the multiproduct nature of pharmaceutical firms. Using detailed data on marketing payments from pharmaceutical firms to physicians, we observe that physicians receive 13% fewer promotional payments after their hospitals take up the program. The design of the price caps implies that discounts tend to increase with a drug’s age. Consistent with theoretical predictions, we find that pharmaceutical firms shift promotional payments away from older drugs and toward newer drugs, which are less affected by the price caps. For some drugs, this shift results in an increase in payments to physicians despite the price caps. Understanding these strategic, nonprice adjustments is important for policymakers seeking to design effective regulations targeting specific products.This paper was accepted by Jean-Pierre Dube, marketing.Funding: This work was supported by The Morrison Center for Marketing and Data Analytics and the National Science Foundation [Grant SES-1919040].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05073 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.05073"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03572</id>
     <title>Financial Intermediaries and Agency Problems With and Without Vertical Incentives</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Yeonjoon Lee</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;I study the role of vertical incentives between upstream issuers and downstream brokers in the retail bond market when there exist agency problems. Although arms-length transaction regulations require that vertical incentives not influence their activities, I show that both upstream issuers and downstream brokers are sensitive to vertical incentives. I then present a structural model in order to measure the degree of vertical incentives for downstream brokers, controlling for the extent of agency problems. The structural estimates show that brokers are willing to give up one dollar of their own profit if their vertically integrated issuer’s profit goes up by 1.25 dollars.This paper was accepted by Victoria Ivashina, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03572 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03572"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00961</id>
     <title>Rethinking the Value and Emission Implications of Green Bonds</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Jitendra Aswani, Shivaram Rajgopal</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Our analysis of green bonds issued between 2013 and 2022 reveals a distinctive shareholder preference for such assets, particularly among financial institutions. In the secondary market, the green bonds issued by financial firms’ trade at a “greenium” of 8.2 basis points compared with matched samples, which is attributed potentially to the financial firms’ efforts in channeling funds to green loans. Past work documenting a positive stock price reaction to the issuance of green bonds is isolated to financial firms and to specific issuers. Issuers of green bonds with higher emissions before the green bond issue report an insignificant reduction in such emissions after issuance. Our analysis of the sustainable lending practices of these gatekeepers reveals that the greenium earned in the green bond market does not translate to the green loan market. Furthermore, the borrowers’ performance remains unchanged in the short term, indicating a lack of due diligence by the gatekeepers. This study underscores the complex relationship between financial markets and environmental stewardship.This paper was accepted by Ranjani Krishnan, accounting.Funding: The authors acknowledge financial assistance from Columbia Business School, Fordham University, Harvard University (Program on Corporate Governance), and MIT Sloan (Sustainability Initiative).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00961 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00961"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.02340</id>
     <title>Polluting Public Funds: The Effect of Environmental Regulations on Municipal Bonds</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Akshaya Jha, Stephen A. Karolyi, Nicholas Z. Muller</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We present two findings on how environmental policy uncertainty impacts municipal bond returns. First, yields increase after a new pollution standard is proposed but decrease after this standard is finalized. Second, after annual announcements of compliance status, yields fall for counties that remain in compliance but increase for newly noncompliant counties. We present suggestive evidence linking these short-run municipal bond market reactions to long-run changes in pollution and housing prices. Our findings suggest that increases in either regulatory stringency or uncertainty over future environmental policy increase the cost of municipal debt raised to fund schools, hospitals, and critical infrastructure.This paper was accepted by Tomasz Piskorski, finance.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02340 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.02340"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.04870</id>
     <title>Measuring Probabilistic Risk Attitudes</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Arnaldo Nascimento, Che Tat Ng, Richard Gonzalez</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We introduce formal measures for two psychological factors of probabilistic risk attitudes: attractiveness (motivational factor) and discriminability (cognitive factor). Unlike previous approaches that relied on heuristic proxies, our measures precisely capture these two fundamental factors. Our measures are mathematically tractable, robust to discontinuities, such as in the NEO-additive case, and flexible to be applied to any weighting function, as well as to both small and large probabilities. Additionally, through detailed numerical analysis, we examine to what extent existing weighting function parameters capture the two factors: attractiveness and discriminability. Finally, using these new measures, we provide a formal understanding of the independence between motivational and cognitive factors.This paper was accepted by Jack Soll, behavioral economics and decision analysis.Funding: The research was made possible by the financial support from Brazilian Agency of Research and Innovation (Finep), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) [Grants PROJ–CAPES PRINT 1033427P] and PUC-Rio.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04870 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.04870"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.06332</id>
     <title>Anticompetitive Effects of a Dominant Retailer’s Guaranteed Profit Margin and Low-Price Contracts</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Leela Nageswaran, Aditya Jain, Haresh Gurnani</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;A retailer can insist on a guaranteed margin contract with its supplier, wherein it requires a margin on each sale. In addition, it may want to have the lowest selling price in a market with competing retailers, and if this strategy of offering the lowest price reduces its margin, the supplier must pay up the difference. There has been recent debate on whether this approach leads to anticompetitive behavior with elevated retail prices, monopolistic market, or diminished market coverage. We analyze a game-theoretic model involving a supplier and two retailers where the focal retailer adopts either the guaranteed margin contract or the guaranteed margin contract with lowest price guarantee. We show that when product category competition is intense, the guaranteed margin contract is anticompetitive: The supplier forms an exclusive distribution with the focal retailer leading to higher prices and reduced product access in comparison with when they both adopt a wholesale price contract. However, if the intensity of competition is low, consumers benefit by paying lower prices with wider access as long as the supplier sets identical wholesale prices, but prices remain higher when they set differentiated wholesale prices. The guaranteed margin contract with lowest price guarantee, however, always leads to higher prices by dampening competition. As such, the ability of the focal retailer to choose the contract type and the intensity of product category competition leads to outcomes that can either benefit or hurt consumers. Our results help inform policy makers on the necessary interventions to alleviate anticompetitiveness.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: A. Jain’s work on this research was supported by PSC-CUNY Award jointly funded by The Professional Staff Congress and The City University of New York.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06332 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.06332"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.06200</id>
     <title>Disclosure Costs of Relative Performance Evaluation</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Melissa Martin, Oscar Timmermans</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Relative performance evaluation has become an increasingly common component of executive compensation contracts. We study how these incentive plans relate to corporate disclosure and predict that they introduce an incremental disclosure cost. This cost arises because disclosures can help competitors make better investment decisions, enhancing their performance and thereby reducing managers’ expected compensation. Consistent with this prediction, we find a negative association between relative performance plans and voluntary value-relevant management forecasts, alongside a positive association with redactions in mandatory filings. This pattern is specific to plans with accounting-based metrics and absent for plans with price-based metrics. The results for price-based metrics are consistent with the idea that the incentive to reduce information asymmetry with market participants outweighs disclosure costs in these plans. The results for accounting-based metrics are more pronounced for managers whose plans provide stronger incentives and for those whose forecasts provide meaningful information spillovers to peers. Overall, this paper contributes the idea that relative performance plans can impose disclosure costs, thereby shedding light on contracting mechanisms that discourage disclosure—a less well-understood aspect of disclosure research.This paper was accepted by Ranjani Krishnan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06200 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.06200"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03371</id>
     <title>Queuing Uncertainty of Limit Orders</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Bart Zhou Yueshen</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Limit orders submitted around the same time are subject to random latencies and will be queued accordingly. In equilibrium, end-of-queue limit orders always lose money—the liquidity supply appears excessive. The model generates empirical predictions regarding such “overshooting” liquidity: (i) new limit orders appear fleeting—clustered submissions are followed by immediate cancellations, (ii) the resulting cancel-to-add count ratio reflects adverse selection, and (iii) the cancel-to-add size ratio measures high-frequency market-making activity. Welfare can be hurt by the overshooting liquidity if it induces excessive speculation. Overall, the model contributes to a more comprehensive understanding and better utilization of order book data.This paper was accepted by Agostino Capponi, finance.Supplemental Material: The supplementary appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03371 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03371"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05301</id>
     <title>Flexible Pay and Labor Supply: Evidence from Uber’s Instant Pay</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Keith Chen, Katherine Feinerman, Kareem Haggag</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Modern tech platforms provide workers real-time control over when they work and, increasingly, flexible pay: the option to be paid immediately after work. We investigate the labor supply effects of pay flexibility and the implications of present-biased preferences among gig-economy workers. Using granular data from a nationwide randomized controlled trial at Uber, we estimate the effects of switching from a fixed weekly pay schedule to Instant Pay, a system that allows on-demand, within-day withdrawals. We find that flexible pay substantially increased drivers’ work time. Furthermore, consistent with present bias, the response is significantly higher when drivers are further away from the end of their counterfactual weekly pay cycle. We discuss welfare and broader implications in contexts in which workers have the ability to flexibly supply labor.This paper was accepted by George Wu, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05301 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.05301"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.02324</id>
     <title>Optimal Interventions for Increasing Healthy Food Consumption Among Low-Income Populations</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Retsef Levi, Elisabeth Paulson, Georgia Perakis</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;More than $60 billion per year in the United States is spent on policies aimed to increase fruit and vegetable (FV) consumption among low-income households. Many of these policy interventions are either monetary (e.g., financial incentives) or education related. The goal of this paper is to improve the performance of these interventions through a more strategic and personalized allocation of funds. This paper introduces a consumer behavioral model for grocery shopping decisions, which is nested into the policymaker’s upper-level optimization problem. The policymaker’s goal is to ensure that the FV spending of all consumers in a given population exceeds a specified threshold by utilizing a small strategic set of different intervention bundles—combinations of monetary and education-related interventions. Although an exact solution to the upper-level problem is intractable, we provide an analytical upper bound on the number of intervention bundles needed to achieve the policymaker’s goal, as well as a method for constructing these intervention bundles and assigning them to individuals based on their characteristics. We demonstrate the practicality of the model and approach using the low-income households in the U.S. Department of Agriculture’s FoodAPS data set.This paper was accepted by Jayashankar Swaminathan, operations management.Funding: This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under [Grant 1745302].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02324 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.02324"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.04610</id>
     <title>Pricing and Design of Pay-to-Win Add-Ons</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Mushegh Harutyunyan, Esma Koca</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In player-versus-player video games, players’ natural desire to win and avoid losing has created an opportunity for game developers to sell “pay-to-win” add-ons, digital items that give buyers a competitive advantage against other players. In this paper, we investigate the pricing and design of a pay-to-win add-on, its effect on the base game, and profit implications for the developer. When a large share of the players are less price sensitive and highly willing to buy the pay-to-win add-on, we find that, surprisingly, the developer may prefer not to introduce it. Further, when it is optimal to sell the add-on, the developer designs it to be less (more) powerful in games where players are highly (moderately) sensitive to losing. In practice, the developer may design rewards or penalties in the game to influence players’ sensitivities to winning and losing, respectively. Our findings suggest that when selling a pay-to-win add-on, the developer ideally prefers players’ loss sensitivity to be neither too high nor too low, whereas high win sensitivity tends to benefit the developer. The introduction of a pay-to-win add-on influences the optimal pricing and design of the base game. In particular, the developer decreases the base game price and may even sell it as a freemium. Despite the price reduction, investment in game quality may actually increase. From the players’ perspective, our analysis shows that the introduction of a pay-to-win add-on can actually improve player surplus. In an extension of our core model, we show that the developer may prefer to customize player-to-player matching probabilities based on ownership of the pay-to-win add-on, making players who own it more likely to be matched against nonowners. However, such customization is not always optimal, and under some market conditions, the developer may optimally abstain from customizing matching probabilities. In another extension, we show that the developer may benefit from setting a negative price for the base game; counterintuitively, player surplus does not increase from negative pricing.This paper was accepted by Raphael Thomadsen, marketing.Supplemental Material: The web appendix is available at https://doi.org/10.1287/mnsc.2024.04610 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.04610"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03930</id>
     <title>Volatility (Dis)Connect in International Markets</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>R. Colacito, M. M. Croce, Y. Liu, I. Shaliastovich</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Lack of comovement between consumption differentials and real exchange rates is a traditional indicator of a disconnect of foreign exchange markets from economic fundamentals. We present novel empirical evidence for the disconnect between the volatilities, as opposed to the levels, of these variables. The volatility correlations are below one, but they are larger than the level correlations. We discuss the economics of volatility disconnect anomaly in settings with complete and incomplete markets and provide an explanation of our empirical findings based on international risk sharing of expected growth and volatility news shocks.This paper was accepted by Tomasz Piskorski, finance.Funding: Y. Liu was supported by the NSFC Excellent Young Scientists Fund [Grant 72422011].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.03930 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03930"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.07524</id>
     <title>Should Human Capital Development Programs be Mandatory or Voluntary? Evidence from a Field Experiment on Mentorship</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Jason Sandvik, Richard Saouma, Nathan Seegert, Christopher Stanton</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In a field experiment, we find that a mandatory mentorship program raises worker productivity, whereas a voluntary version of the program does not. A significant reason why the mandatory program results in larger gains is that the lowest-productivity employees do not participate when the program is voluntary despite their having the greatest treatment benefits. A nationally representative survey of U.S. workers shows wide variation in human capital development program participation, suggesting that understanding self-selection is important for firms’ returns on these programs across a variety of settings. Our findings have implications for resource allocation, experimental design, productivity dispersion, and inequality.This paper was accepted by Maria Guadalupe, business strategy.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07524 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.07524"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.04285</id>
     <title>How Does Going Public Affect Employee Satisfaction? Evidence from Glassdoor Reviews</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Meng Li, Jedson Pinto</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how initial public offerings (IPOs) influence employees’ satisfaction with their employers. Using millions of company reviews and a generalized difference-in-differences method, we document that employees become less satisfied after their employers go public. The effect is driven by employees who joined the company before the IPO rather than those who joined after it and is stronger for employees whose tasks relate to regulatory compliance, for smaller firms, and firms with Big 4 auditors at the IPO. The effect is weaker for IPO firms in industries with low environmental, social, and governance (especially social) reputation risk. Using the 2012 Jumpstart Our Business Startups Act to explore changes in regulatory burdens associated with an IPO, we find that the adverse effect of an IPO on employee satisfaction is weaker for IPO firms that benefit from reduced regulatory burden. Overall, our findings provide novel insights into how going public can affect employee welfare and one potential mechanism behind this effect.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.04285 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.04285"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.02043</id>
     <title>Long Goodbyes: How Do Private Equity Funds Manage Sell-Downs After Initial Public Offerings?</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Tim Jenkinson, Howard Jones, Christian Rauch</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We analyze how private equity funds (general partners (GPs)) sell down their stakes in companies they take public. GPs earn private equity management fees and carried interest on public equity holdings. The average duration of post–initial public offering (IPO) holdings is three years, whereas lockups expire after six months. Private equity–backed IPOs perform well during the lockup, but we find no evidence that GPs add value for investors through the timing of their aftermarket sell-down strategies. GPs appear reluctant to sell losers, consistent with behavioral biases and agency effects. Long goodbyes are more likely when the fund is performing better, resulting in higher payments to GPs.This paper was accepted by Victoria Ivanisha, finance.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.02043 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.02043"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2021.01097</id>
     <title>Human Decision Making in Dynamic Resource Allocation</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Damian Beil, Izak Duenyas, Stephen Leider, Jiawei Li, Anyan Qi</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We experimentally study dynamic resource allocation decisions using product development as the context. A product manager must accept or reject a series of design improvement opportunities, given a limited budget. Human subjects perform well when the cost-to-implement is fixed throughout the project. However, in a more complex setting where the cost increases for the latter half of the project, subjects’ performance worsens substantially. We use the strategy frequency estimation method to analyze subjects’ decision mechanisms and find that many subjects are (a) mis-weighting future periods (underweighting in the simple case, overweighting in the complex) and (b) focusing on only the highest value opportunities. These heuristics perform poorly in the complex setting, leading to excess savings and are a counterproductive reaction to the cost increase. Top performers in the complex setting do well by decomposing the problem into two subproblems resembling the simpler setting, which they can handle nearly optimally. In a second study, we test managerial interventions based on prompting this decomposition approach to improve performance in the complex setting. Merely prompting subjects to consider problem decomposition is largely ineffective. However, additionally sharing a “best practice” budget plan that gives information about how and why top performers decompose the problem significantly improves performance. Our results highlight when decision makers will perform well or poorly in a dynamic resource allocation problem and show effective ways to reframe the problem and improve their performance.This paper was accepted by Vishal Gaur, operations management.Funding: The work of D. Beil, I. Duenyas, and J. Li was supported by the Ford Motor Company [Grant AWD006449].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.01097 .</content>
     <link href="https://doi.org/10.1287/mnsc.2021.01097"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.04908</id>
     <title>Vaccines at Work: Experimental Evidence from a Firm Campaign</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Manuel Hoffmann, Roberto Mosquera, Adrian Chadi</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Health campaigns in firms could be a cost-effective approach to reduce sickness absence and to mitigate negative economic consequences of ill health among employees. Low participation rates, however, may prevent firms from realizing such private economic benefits. Moreover, employees may overestimate the effects of the campaign and engage in risky behaviors that could be detrimental to their health, thereby reducing the potential benefits of the intervention. We ran a natural field experiment with a bank in Ecuador, where we employed a randomized encouragement design by experimentally manipulating incentives to participate in a campaign to get vaccinated against influenza. This allows us to study the determinants of on-site vaccination and the consequences of increased participation in a firm campaign for employees, thereby informing about the private incentives for firms to run such interventions. Using rich administrative records merged with employee survey data, we find strong evidence that opportunity costs to participate in the campaign and peer behavior in the firm matter to increase vaccination take-up. Contrary to the firm’s expectation, increased participation in the campaign did not imply reduced sickness absence during the flu season. As we observe no relevant health benefits or externalities via coworker vaccination, our comprehensive analyses indicate that the campaign most likely was not economically beneficial for the firm. We discuss potential explanations for this result and present evidence consistent with the notion that a vaccination campaign can influence the behavior of employees concerning their health.This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04908 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.04908"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03558</id>
     <title>The Consequences to Directors for Deploying Poison Pills</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>William C. Johnson, Jonathan M. Karpoff, Michael D. Wittry</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Using director-specific, within-firm variation in poison pills, we find that pill-adopting nonexecutive directors experience a decrease in shareholder votes, an increase in termination rates across all their directorships, and a decrease in the likelihood of new board appointments. These consequences are not because of poor firm performance, active bid resistance, or hedge fund activism, and accrue especially when the adopted pill is relatively costly to the firm. Firms have positive stock price reactions when pill-associated directors die unexpectedly, compared with negative returns for other directors. We conclude that pill-adopting directors experience a decrease in the value of their services.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03558 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03558"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.00017</id>
     <title>Privacy Choice During Crisis</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Anindya Ghose, Beibei Li, Meghanath Macha, Chenshuo Sun, Natasha Zhang Foutz</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Consumers’ privacy choice between withholding and sharing personal data may change during crises. Crises not only alter personal considerations of benefits and costs of this choice, but also trigger societal considerations, such as use of shared data in crisis management. Although the literature on privacy choice has focused on personal considerations, research on how this choice is influenced by broader circumstances remains sparse. We address this topic by leveraging newly available location big data and a global public health crisis as a natural shock. Analyzing 22 billion raw records of intertemporal individual-level mobile location data across a wide spectrum of cities in the United States, we present the first large-scale evidence that opt-out reduces during a crisis, and societal, beyond personal, considerations might have influenced consumers’ privacy choices.This paper was accepted by David Simchi-Levi, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00017 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.00017"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.00194</id>
     <title>OTC Discount</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Calebe de Roure, Emanuel Moench, Loriana Pelizzon, Michael Schneider</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We document a pecking order of transaction costs in the interdealer market for German sovereign bonds, where three trading protocols coexist. Dealers can trade over the counter (OTC), either bilaterally or via brokers, as well as on an exchange. Trading on the exchange is more expensive than OTC, and broker-intermediated trades are more costly than bilateral OTC trades. The existence of an OTC discount is difficult to square with theories centered around search-and-bargaining frictions but is in line with models of hybrid markets based on information frictions. Consistently, we show that dealers’ information impacts their choice of trading protocol and that the pecking order of transaction costs is aligned with the informational content of order flows across protocols. Search and bargaining as well as information proxies explain differences in OTC discount within protocols. A realistic description of hybrid markets thus requires both types of frictions.This paper was accepted by Agostino Capponi, finance.Funding: L. Pelizzon and M. Schneider acknowledge funding by the Deutsche Forschungsgemeinschaft [Grant 329107530]. L. Pelizzon thanks the Leibniz Institute for Financial Research SAFE for financially sponsoring this research.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00194 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.00194"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00218</id>
     <title>A Global Optimization Algorithm for
                     &lt;i&gt;K&lt;/i&gt;
                     -Center Clustering of One Billion Samples</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Jiayang Ren, Ningning You, Kaixun Hua, Chaojie Ji, Yankai Cao</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper presents a practical global optimization algorithm for the K-center clustering problem, which aims to select K samples as the cluster centers to minimize the maximum within-cluster distance. Specifically, we propose a reduced-space branch and bound scheme that guarantees convergence to the global optimum in a finite number of steps by only branching on the regions of centers. To improve efficiency, we design a two-stage decomposable lower bound, the solution of which can be derived in a closed form. In addition, we also propose several structure-exploiting acceleration techniques to narrow down the region of centers, including bounds tightening, sample reduction, and parallelization. Extensive studies on synthetic and real-world data sets have demonstrated that our algorithm can solve the K-center problems to global optimal within four hours for 10 million samples in the serial mode and 1 billion samples in the parallel mode, whereas existing studies can only address small-scale problems (e.g., thousands of samples). Moreover, compared with the state-of-the-art heuristic methods, the global optimum obtained by our algorithm reduces the objective function by an average of 25.8% on these synthetic and real-world data sets.This paper was accepted by Chung Piaw Teo, optimization.Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2019-05499].Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.00218 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00218"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2025.01197</id>
     <title>Overcoming Deceptive Evasions in Earnings Calls: The Role of Investor Suspicion</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Leonardo P. Barcellos</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Evasive responses enable managers to escape difficult questions in earnings calls without lying. Although such tactics are common in corporate communication and other important settings, we still know little about how investors and other listeners can avoid being misled by them. Drawing on theories from multiple disciplines, I predict that a common type of nonanswer leads to equivocal interpretations, whereas artful dodges escape detection in earnings calls. However, when investors adopt a suspicious state of mind—characterized by suspended judgment, balanced information search, and consideration of plausible rival possibilities—they are better able to distinguish potentially deceptive evasive tactics from proper responses. My experimental results support these predictions, showing that suspicious thinking allows investors to overcome nonanswers and dodges without punishing adequate responses. I also provide evidence that nonanswers and dodges are unique evasive strategies and that simple interventions aligned with the context of earnings calls can prompt suspicion. These findings contribute to research on the informational role of earnings calls and offer new insights into how suspicion influences deception judgments and into previous research on evasive responses in earnings calls.This paper was accepted by Ranjani Krishnan, accounting.Funding: The author acknowledges financial support from the Deloitte Foundation, the Roberto C. Goizueta Foundation, the W. P. Carey School of Business, and the Sheth Fellowship Fund.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01197 .</content>
     <link href="https://doi.org/10.1287/mnsc.2025.01197"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.04350</id>
     <title>What Happens to Corporate Investment in Bad Times?</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Shahram Amini, Andrew MacKinlay, Brian Rountree, James Weston</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Recent studies suggest monitoring increases during economic downturns. In this study, we test whether firms’ abnormal investment activity changes across the business cycle. Focusing on recessions, we find that firms not only curtail overinvestment but also reduce underinvestment, with the combined effect representing a significant 9% of average investment. Employing various proxies for monitoring intensity, we demonstrate that stronger governance mechanisms are associated with more pronounced reductions in abnormal investment. Importantly, the influence of governance on abnormal investment is magnified during recessions relative to other periods. These results are robust to a wide array of control variables, methodologies, and potential endogeneity concerns. Our findings underscore the time-varying benefits of corporate monitoring and highlight the periods when governance mechanisms may be most effective.This paper was accepted by Bo Becker, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04350 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.04350"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05949</id>
     <title>Creditor Rights, Bank-Borrower Relationships and Bank Power</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Marco Ghitti, Florencio Lopez-de-Silanes, Rafael Matta</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study how relationship lending affects the transmission of bankruptcy reforms on credit terms and bank enforcement mechanisms, using a unique database containing the universe of credits of a large Italian bank. Lower creditor rights lead the bank to reduce expected recovery rates, worsen credit terms, and tighten bank enforcement actions. Bank-borrower power dampens the terms’ impact at the cost of tougher borrower renegotiations. Older and more credit-dependent borrowers receive less unfavorable terms but see larger increases in credit suspensions and legal actions. Results suggest that policies curbing credit enforcement weaken the role of bank power in dampening economic shocks.This paper was accepted by Bo Becker, finance.Funding: M. Ghitti thanks Elio Ghitti and Orlando Patelli for financial support.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05949 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.05949"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05948</id>
     <title>Takeover Threats and Mandatory Disclosure Avoidance: Evidence from Contract Redactions</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Dichu Bao, Lixin (Nancy) Su, Chris X. Zhao, Gaoguang (Stephen) Zhou</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Mandatory disclosure is a primary source of public information available to acquirers, yet little is known about how potential target managers respond to takeover threats by avoiding mandatory disclosure. This study focuses on redactions in material contracts as a setting of mandatory disclosure avoidance. We find that managers facing takeover threats are more likely to redact material contracts than other managers. To better differentiate the motives for redactions, we classify redacted contracts into nine different categories and examine managers’ redaction decisions on the three most prominently redacted types. We find managers facing takeover threats redact research and development contracts more heavily when firms possess trade secrecy, as a strategy to thwart technological acquisitions aiming at innovation combinations. By contrast, managers redact purchase and sales contracts and license and royalty contracts more heavily when they have greater private control benefits. Overall, our results highlight new tactics that managers use when they face takeover threats, especially under threats of technological acquisitions.This paper was accepted by Suraj Srinivasan, accounting.Funding: L. (N.) Su acknowledges the financial support from the Faculty of Business, The Hong Kong Polytechnic University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05948 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.05948"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03601</id>
     <title>Financial Shocks and Firm Innovation in Supply Chain Networks</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Emanuele Brancati, Raoul Minetti, Susan Chun Zhu</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the influence of supply chains on the transmission of financial shocks to firms’ innovation. Using matched Italian firm-bank data over the 2007–2017 period, we find that firms’ engagement in supply chains enhanced the resilience of innovation activities to the banking shock caused by the “twin financial crises” (Great Financial Crisis and sovereign debt crisis). The results suggest that, amid the banking shock, supply chains facilitated purchases of innovative intermediates through trade credit provision and helped to sustain firms’ joint research and development efforts. The estimates imply, however, that the support offered by supply chains did not extend to radical product advances.This paper was accepted by Bo Becker, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03601 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03601"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.05701</id>
     <title>Green Bonds: Reputational Bonding via Media Coverage</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Shirley Lu</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Building on prior literature showing that green bond issuance signals a firm’s environmental commitment, this paper provides empirical evidence on a mechanism that gives credibility to this signal: reputational bonding through increased media coverage. Compared with matched firms, media coverage of a firm’s environmental performance increases significantly after issuing green bonds. This increase persists over time and extends to aspects of environmental performance that go beyond the contractual obligations of the green bond. Although this result is more pronounced for positive news, the increase in negative news is significantly larger for green bond issuers with environmental controversies after green bond issuance. Cross-sectional analyses show that this media coverage increase is concentrated among green bond issuers that are larger, listed on green bond exchanges, and in countries with weaker institutional oversight of environmental issues. To shed light on the effectiveness of this reputational bonding mechanism, I find that higher media attention following green bond issuance is associated with higher environmental performance.This paper was accepted by Ranjani Krishnan, accounting.Funding: S. Lu gratefully acknowledges financial support from Harvard Business School, the University of Chicago Booth School of Business, and the Bradley Fellowship awarded by the Stigler Center for the Study of the Economy and the State.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05701 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.05701"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.03924</id>
     <title>How Do Chief Executive Officers Make Strategy?</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Mu-Jeung Yang, Michael Christensen, Nicholas Bloom, Raffaella Sadun, Jan Rivkin</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We survey 262 chief executive officer (CEO) alumni of Harvard Business School and gather evidence on three aspects of each executive’s strategy practice: how formalized it is, how it is developed, and how it is implemented. We report three main results. First, firms with higher adoption of structured strategy practices outperform their peers; they grow faster and are more profitable, especially in industries with greater strategic complexity. Second, the appointment of CEOs with more structured styles appears to drive this outperformance, not firm-specific effects. This raises the question of how an executive comes to adopt more structured strategy practices. Our third finding provides a partial answer; business education can have a lasting impact on a CEO’s strategy practices as evidenced by a regression discontinuity analysis centered around a curriculum change at Harvard Business School.This paper was accepted by Alfonso Gambardella, business strategy.Funding: Financial support was provided by Harvard Business School. M.-J. Yang acknowledges financial support provided by the Leeds School of Business.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03924 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.03924"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.01659</id>
     <title>E-backtesting</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Qiuqi Wang, Ruodu Wang, Johanna Ziegel</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In the recent Basel Accords, the Expected Shortfall (ES) replaces the Value-at-Risk (VaR) as the standard risk measure for market risk in the banking sector, making it the most important risk measure in financial regulation. One of the most challenging tasks in risk modeling practice is to backtest ES forecasts provided by financial institutions. To design a model-free backtesting procedure for ES, we make use of the recently developed techniques of e-values and e-processes. Backtest e-statistics are introduced to formulate e-processes for risk measure forecasts, and unique forms of backtest e-statistics for VaR and ES are characterized using recent results on identification functions. For a given backtest e-statistic, a few criteria for optimally constructing the e-processes are studied. The proposed method can be naturally applied to many other risk measures and statistical quantities. We conduct extensive simulation studies and data analysis to illustrate the advantages of the model-free backtesting method, and compare it with the ones in the literature.This paper was accepted by Agostino Capponi, finance.Funding: R. Wang acknowledges financial support from the Natural Sciences and Engineering Research Council of Canada [Grants RGPIN-2024-03728 and CRC-2022-00141]. J. Ziegel acknowledges financial support from the Swiss National Science Foundation.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01659 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.01659"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2021.03495</id>
     <title>Evaluating the Efficacy of Application Costs for Managing Congestion in Online Matching Markets</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Ni Huang, Gordon Burtch, Pei-yu Chen, Ao Huang</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Matching platforms seek to facilitate market clearing, but congestion arises with imbalances in supply and demand. In online labor markets, when workers can apply to jobs without restriction, they may apply to an excessive volume of positions to maximize their likelihood of securing work, overwhelming employers and making screening difficult if not altogether unmanageable. Prior research has theoretically argued that imposing application costs on workers can mitigate this issue. However, the efficacy of such a solution has yet to be evaluated empirically in matching platforms where employers incur significant screening costs. We address that gap here, considering a prominent online labor market that imposed application costs on workers. We report evidence that application costs successfully improved matching outcomes via at least two channels. First, the application costs reduced bid volumes, lowering employer screening costs in turn. Second, the application costs led workers to become more selective in their applications, focusing on the employers and jobs that they were best suited for and putting greater effort into differentiating themselves, including actively reaching out to employers via direct messages. These worker-side, secondary responses enhance the first-order benefit of the application costs (i.e., constraining application volumes). Finally, the workers’ increased selectivity comes paired with risk aversion among workers, who become more likely to apply for jobs requiring familiar skills and less likely to apply for jobs posted by employers in different time zones or speaking a different language. We discuss the implications of our findings for workers’ longer-term career trajectories and market sustainability generally.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03495 .</content>
     <link href="https://doi.org/10.1287/mnsc.2021.03495"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2022.00463</id>
     <title>Shareholderism Around the World: Corporate Purpose, Culture, and Law</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Renée B. Adams, Amir N. Licht</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We provide the first comprehensive analysis of directors’ shareholderism: their principled stance toward shareholders and stakeholders in forming strategy. We develop an analytical framework that links shareholderism to individual and institutional factors and test our theoretical predictions using a sample of more than 900 directors originating from 55 countries and serving in 23 countries. Directors’ shareholderism varies according to their individual values; their cultural heritage of egalitarianism, harmony, and embeddedness; and their status as expatriate directors. Directors’ shareholderism does not appear to depend on the distinction between common and civil law. Instrumental variable regressions that address the endogeneity of directors’ expatriate status suggest that expatriates’ and local directors’ shareholderism reflect different cultural emphases. To be effective, current approaches to ensuring corporations do the “right” thing through legal injunctions may need to be mindful of the stability and resilience of individual values and culture.This paper was accepted by David Simchi-Levi, business strategy.Funding: A. N. Licht acknowledges financial support from the Israeli Science Foundation [Grant 342/08].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2222.00463 .</content>
     <link href="https://doi.org/10.1287/mnsc.2022.00463"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00654</id>
     <title>Venture Capital and Private M&amp;amp;A Contracting</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Lauren J. Vollon</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&amp;A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary data set of 851 startup acquisitions from 2015 to 2020, I find that M&amp;A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&amp;A outcomes.This paper was accepted by Bo Becker, finance.Funding: Research funding was provided by the University of Chicago Booth School of Business.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00654 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00654"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.02245</id>
     <title>The Role of Auditor Reputation in an Emerging Audit Marketplace: Evidence from Decentralized Finance (DeFi)</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>W. Robert Knechel, Steven A. Maex, Hyun Jong Park</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We explore the role of auditor reputation in driving the value of smart contract audits (SCAs) within the decentralized finance (DeFi) ecosystem. Given the lack of regulatory oversight and the risk of cybersecurity breaches against the protocols comprising the DeFi ecosystem, a marketplace has emerged for voluntary on-demand assurance to identify vulnerabilities in smart contracts’ coded logic. After documenting that market participants value SCAs and exploring the protocol attributes associated with the demand for smart contract audits, we show that auditor reputation can be established through both advertising (i.e., engagement on Twitter) and the delivery of a high-quality audit, which significantly shape the extent to which an SCA is valued. Additional analyses suggest that the value of an SCA is maximized when both high advertising and high audit quality are present, highlighting the complementary role of these two factors in enhancing auditor reputation. Furthermore, we find that events conceivably damaging the reputation of the auditor (i.e., breaches of protocols recently audited) generate a negative spillover to the auditor’s other recent clients. Overall, our study provides novel insights about the role of auditor reputation in emerging audit markets.This paper was accepted by Suraj Srinivasan, accounting.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02245 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.02245"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00603</id>
     <title>Base Rate Neglect as a Source of Inaccurate Statistical Discrimination</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>David Hagmann, Gwendolin B. Sajons, Catherine H. Tinsley</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Statistical discrimination relies on people inferring unobservable characteristics of group members based on their beliefs about the group. Across four preregistered experiments (N = 9,002), we show that accurate information about the composition of top performers can induce incorrect beliefs about performance differences across groups when the groups are of unequal size. Because people fail to account for base rates, they underestimate the performance of individuals from smaller groups. As a result, when participants in our experiments receive true information about the gender composition of top performers in a male-dominated candidate pool, they are less likely to hire women, even when there are no gender differences in performance (Study 1). Similarly, they are less likely to hire better-performing non-White candidates when the racial demographics of the candidate pool reflect the U.S. population (Study 4). We show that these choices reflect an error in statistical reasoning, rather than being motivated by a desire to discriminate against any particular group (Study 2). Despite leading to less accurate beliefs, participants disproportionately seek out information about top performers when given the choice, and discrimination thus persists when information selection is endogenous (Study 3).This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00603 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00603"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2023.00985</id>
     <title>The Interplay Between Product Variety and Customer Retention: Theory and Evidence</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Ulrich Kaiser, Reinhold Kesler, Markus Reisinger</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The optimal number of products to offer consumers is one of the core strategic problems that firms face. This is increasingly so in digital markets where many firms offer a large product variety. In these markets, consumers purchase products repeatedly, making customer retention an important aspect for firm performance. In this paper, we study the interplay between these two variables, product variety and customer retention. First, we provide a novel game-theoretic model to analyze this interplay and also determine how the optimal product variety depends on the market environment. Second, we provide suggestive evidence for our theoretical predictions using data for video games from Steam. Our data set allows us to measure the key variables in our game-theoretic model and additionally contains plausible instrumental variables for empirical identification. We show theoretically that investment in product portfolio size and investment in customer retention are substitutes because the former increases demand from switching consumers, whereas the latter increases the repurchase probability of current consumers. We then derive predictions on how market conditions determine a firm’s product variety, for which we find evidence in our empirical analyses: there is (i) a negative relation between product portfolio size and customer retention, (ii) an inverted U-shaped relationship between market value and product variety, and (iii) a positive relation between consumer heterogeneity and product variety. Both our theoretical and empirical results are robust to a wide set of robustness checks.This paper was accepted by Alfonso Gambardella, business strategy.Funding: This work was supported by Deutsche Forschungsgemeinschaft (DFG) [Grant 462020252].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00985 .</content>
     <link href="https://doi.org/10.1287/mnsc.2023.00985"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/mnsc.2024.06313</id>
     <title>The Role of Networks in Loan Syndicate Markets</title>
-    <updated>2026-06-08T12:49:33+00:00</updated>
+    <updated>2026-06-09T12:49:28+00:00</updated>
     <author>
       <name>Jeffrey H. Harris, Ioannis Spyridopoulos, Morad Zekhnini, Celso Brunetti</name>
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Several large, well-connected banks jointly underwrite the vast majority of syndicated loans. Although syndication reduces risk by spreading large loans across multiple banks and may benefit borrowers, the process may also facilitate collusive pricing. Disentangling these two effects requires a network view of loan syndicates as traditional measures of market concentration do not capture the collaborative nature of syndication. We find that well-connected banks offer 5- to 15-basis-point-lower loan rates. Well-connected lenders leverage their network position to structure larger, more dispersed syndicates with fewer coarrangers, allowing them to earn higher fee income and reduce their loan risk exposure. We address potential selection biases by exploiting the stickiness in firm-bank relationships and the transfer of credit relationships around forced mergers during the 2007–2009 financial crisis. Using new supervisory data on borrowers’ loan repayment and on-site inspections, we find little evidence that connectedness is related to superior monitoring or performance. Our findings suggest that connectivity is instrumental in lowering loan prices rather than facilitating collusive pricing.This paper was accepted by Kay Giesecke, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06313 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.06313"/>
     <category term="Management Science"/>
-    <published>2026-06-08T12:49:33+00:00</published>
+    <published>2026-06-09T12:49:28+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/opre.2022.0353</id>
@@ -1763,14 +1545,14 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.25300/misq/2025/18022</id>
-    <title>The Legal Environment of Side Project Ownership and IT Innovation: Evidence from the Alcatel v. Brown Case</title>
+    <id>https://doi.org/10.25300/misq/2025/17607</id>
+    <title>Enhancing AI-Assisted Purchase Decisions: The Role of the Sense of Autonomy</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Xi Wu, Charlotte R. Ren, Min-Seok Pang</name>
+      <name>Jinghui (Jove) Hou, Shuai Yang, Guiyang Xiong, Paul A. Pavlou</name>
     </author>
-    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Engaging in side projects outside of regular employment has become a growing trend among knowledge workers, particularly information technology (IT) professionals. Side projects offer valuable opportunities for employees to learn new skills and foster creativity. However, the legal ownership of side projects remains uncertain, raising questions about how this affects employee innovation at their primary jobs, which we refer to as “employee innovation at work.” In this study, we leverage an exogenous change in the legal arrangement of side project ownership—the Alcatel v. Brown case—to investigate how firms’ enhanced control over side projects influences employees’ innovation performance at work. We find that in states where firms gained greater contractual authority to claim ownership of employees’ side projects, the number of IT patents owned by firms decreased. However, paradoxically, the quality of these patents, as measured by the number of forward citations, improved following the legal change. Further analyses of the underlying mechanisms suggest that these contrasting findings likely stem from shifts in both employee innovation behaviors and firms’ innovation strategies, post-Alcatel v. Brown. Our findings contribute to the information systems literature by highlighting the nuanced effects of side project ownership on IT innovation.</content>
-    <link href="https://doi.org/10.25300/misq/2025/18022"/>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Empowered by large-scale consumer data, artificial intelligence (AI) systems act as shopping gurus, serving up highly personalized and expertly curated product recommendations for consumers. Despite their proficiency at inferring what could be the commonly “optimal” choices for the average consumer, AI systems have a limited ability to account for the idiosyncratic factors that uniquely shape each consumer’s purchase decisions, such as one’s hidden motives or complex situations. This inherent limitation, termed AI’s uniqueness neglect, poses a key challenge to the value of AI-advised decisions. Our research identifies a heightened sense of autonomy as a crucial means to improve the quality of AI-advised decisions through compensating for AI’s uniqueness neglect. Across five laboratory experiments and one field experiment in the context of apparel purchases, we show that fostering the sense of autonomy enhances purchase intention and the quality of purchase decisions. We also delineate the underlying mechanism and demonstrate a managerially actionable solution to effectively promote the sense of autonomy. Our work contributes to the literature by uncovering a distinct mechanism by which the sense of autonomy improves the quality of AI-advised decisions and by offering a feasible design strategy that leverages personal smartphones to address the uniqueness neglect of AI recommendation systems. Field data on actual product purchases and returns confirm the efficacy of our AI design in a real-world setting. Our findings offer both theoretical and managerial implications for a wide range of AI-aided decision-making contexts where idiosyncratic factors are important to individual human decision makers yet are commonly overlooked by today’s AI systems.</content>
+    <link href="https://doi.org/10.25300/misq/2025/17607"/>
     <category term="MIS Quarterly"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1787,14 +1569,14 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.25300/misq/2025/17607</id>
-    <title>Enhancing AI-Assisted Purchase Decisions: The Role of the Sense of Autonomy</title>
+    <id>https://doi.org/10.25300/misq/2025/18022</id>
+    <title>The Legal Environment of Side Project Ownership and IT Innovation: Evidence from the Alcatel v. Brown Case</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Jinghui (Jove) Hou, Shuai Yang, Guiyang Xiong, Paul A. Pavlou</name>
+      <name>Xi Wu, Charlotte R. Ren, Min-Seok Pang</name>
     </author>
-    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Empowered by large-scale consumer data, artificial intelligence (AI) systems act as shopping gurus, serving up highly personalized and expertly curated product recommendations for consumers. Despite their proficiency at inferring what could be the commonly “optimal” choices for the average consumer, AI systems have a limited ability to account for the idiosyncratic factors that uniquely shape each consumer’s purchase decisions, such as one’s hidden motives or complex situations. This inherent limitation, termed AI’s uniqueness neglect, poses a key challenge to the value of AI-advised decisions. Our research identifies a heightened sense of autonomy as a crucial means to improve the quality of AI-advised decisions through compensating for AI’s uniqueness neglect. Across five laboratory experiments and one field experiment in the context of apparel purchases, we show that fostering the sense of autonomy enhances purchase intention and the quality of purchase decisions. We also delineate the underlying mechanism and demonstrate a managerially actionable solution to effectively promote the sense of autonomy. Our work contributes to the literature by uncovering a distinct mechanism by which the sense of autonomy improves the quality of AI-advised decisions and by offering a feasible design strategy that leverages personal smartphones to address the uniqueness neglect of AI recommendation systems. Field data on actual product purchases and returns confirm the efficacy of our AI design in a real-world setting. Our findings offer both theoretical and managerial implications for a wide range of AI-aided decision-making contexts where idiosyncratic factors are important to individual human decision makers yet are commonly overlooked by today’s AI systems.</content>
-    <link href="https://doi.org/10.25300/misq/2025/17607"/>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Engaging in side projects outside of regular employment has become a growing trend among knowledge workers, particularly information technology (IT) professionals. Side projects offer valuable opportunities for employees to learn new skills and foster creativity. However, the legal ownership of side projects remains uncertain, raising questions about how this affects employee innovation at their primary jobs, which we refer to as “employee innovation at work.” In this study, we leverage an exogenous change in the legal arrangement of side project ownership—the Alcatel v. Brown case—to investigate how firms’ enhanced control over side projects influences employees’ innovation performance at work. We find that in states where firms gained greater contractual authority to claim ownership of employees’ side projects, the number of IT patents owned by firms decreased. However, paradoxically, the quality of these patents, as measured by the number of forward citations, improved following the legal change. Further analyses of the underlying mechanisms suggest that these contrasting findings likely stem from shifts in both employee innovation behaviors and firms’ innovation strategies, post-Alcatel v. Brown. Our findings contribute to the information systems literature by highlighting the nuanced effects of side project ownership on IT innovation.</content>
+    <link href="https://doi.org/10.25300/misq/2025/18022"/>
     <category term="MIS Quarterly"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -2651,6 +2433,54 @@
     <published>2026-06-07T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdag024</id>
+    <title>Quantifying Supply-Side Climate Policies</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>Lassi Ahlvik, Jørgen Juel Andersen, Jonas Hveding Hamang, Torfinn Harding</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;What are the effects of supply-side climate policies in the oil market? We use global company-level data to estimate the impact of 84 reforms of production taxes between 2000 and 2019 on oil production, exploration, and discoveries. We find that higher taxes primarily reduce companies’ exploration expenditures and oil discoveries, and also reduce short-term production of unconventional oil. We then quantify the implications for the oil market using a short- and medium-term dynamic model extending until the end of the century. Imposing a global climate royalty surcharge of 20 percentage points on oil producers reduces average annual emissions from oil by 5–7% in the first 5 years, and 9–20% in the medium term. If only OECD countries adopt this policy, 47–73% of the total emission reductions would be offset by increased production in non-OECD countries in the medium term.</content>
+    <link href="https://doi.org/10.1093/restud/rdag024"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05036</id>
+    <title>Liquidity Support in Financial Institutions</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>Falko Fecht, Egemen Genc, Yigitcan Karabulut, Patrick Weber</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We document a novel support mechanism in financial institutions—the direct flow channel—through which banks coordinate client investments to stabilize affiliated mutual funds facing severe redemptions. Inflows from banks’ retail and institutional clients offset a sizable share of outflows, mitigating adverse performance effects, forced sales, and redemption spillovers. Support via the direct flow channel is liquidity driven, concentrated in fragile but viable funds, and most pronounced when cash and family support are insufficient, while complementing credit lines when they are available. Importantly, we find no evidence that bank clients incur systematic costs, underscoring the stabilizing role of banks as coordination devices.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05036 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05036"/>
+    <category term="Management Science"/>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.03991</id>
+    <title>The Value of Last-Mile Delivery in Online Retail</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>Zhikun Lu, Ruomeng Cui, Tianshu Sun, Lixia Wu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Last-mile delivery, the most expensive stage of the shipment process, has become increasingly important in online retail, raising the strategic question of whether firms should outsource it to customers via pickup stations or offer home delivery. In this paper, we examine the economic value of last-mile delivery to inform this high-stakes decision. Partnering with Cainiao, Alibaba’s logistics platform, we exploit a quasi-experiment where home delivery service was sequentially rolled out to pickup stations in 2021. A staggered difference-in-differences design reveals that home delivery significantly increases sales and customer spending on Alibaba’s retail platform. Because last-mile delivery is labor-intensive and capacity constrained, effectively allocating delivery resources is crucial. To address this challenge, we propose a novel operations-aware targeting framework that integrates causal machine learning with constrained optimization to identify and prioritize the most valuable customers. The framework incorporates both capacity and fairness constraints to maximize sales while maintaining equitable service access. We further extend it with routing optimization, enabling value-aware delivery planning that jointly considers sales uplift and spatial efficiency. We demonstrate that the resulting targeting and routing policies significantly improve revenue performance. Taken together, we show that last-mile delivery is not merely a cost center but also a revenue driver. By adopting tailored logistics strategies that balance customer needs with resource constraints, online retailers can unlock substantial value and win the last mile of e-commerce.This paper was accepted by Jeannette Song, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03991 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.03991"/>
+    <category term="Management Science"/>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70121</id>
+    <title>Keeping Up With the Times? Rethinking Social Evaluations Research Under Contemporary Technological and Sociopolitical Forces</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>Marco Clemente, Michael Etter, Yuliya Snihur, Gokhan Ertug, Graffin Scott, Anastasiya Zavyalova</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;The context within which social evaluations form has been fundamentally altered by contemporary forces, such as digital technologies, polarization, activism, politicization of business, and geopolitical tensions. While research on social evaluations has generated rich insights into the formation and development of constructs, such as legitimacy, status, reputation, stigma, trust, and celebrity, much of this work has been developed under the assumptions of relative stability, coherent audiences, and well‐defined intermediary roles. These assumptions are increasingly challenged in this changing context, requiring us to rethink the formation and management of social evaluations. The articles in this special issue focus on these changes. Building on these contributions, this introductory article develops a research agenda across seven interconnected areas: the stability and fragility of social evaluations, audience fragmentation and convergence, the reshaping of the intermediary landscape, construct interrelationships, range and extension of constructs, the measurement of social evaluations, and their underlying foundations. We discuss how these transformations affect not only organizations and evaluative processes, but also the societal impact of social evaluations. Overall, this editorial provides a framework to guide future research in a field undergoing profound transition.</content>
+    <link href="https://doi.org/10.1111/joms.70121"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/jofi.70043</id>
     <title>Private Equity and Pay Gaps Inside the Firm</title>
     <updated>2026-06-08T00:00:00+00:00</updated>
@@ -2661,5 +2491,41 @@
     <link href="https://doi.org/10.1111/jofi.70043"/>
     <category term="The Journal of Finance"/>
     <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70073</id>
+    <title>Measuring Organizational Capital</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>WEI CAI, ANDREA PRAT, JIEHANG YU</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;Prior research has pointed to differences in organizational capital as a reason for the persistent performance discrepancies among otherwise similar firms. In this paper, we develop and validate a new measure of organizational capital. Based on over a million crowd‐sourced employee reviews scraped from Glassdoor, we construct the measure of organizational capital at the firm‐year level using the word embedding model and ChatGPT‐generated synthetic reviews. Our measure varies over time in accordance with macro trends, and differs both across and within firms, reflecting firm heterogeneity and major internal changes. We validate our measure by testing empirical predictions of the properties of organizational capital discussed in prior literature. Our findings suggest that this measure captures a slowly evolving intangible asset that is significantly associated with firm performance and top management's influence, aligning with the conceptualization of organizational capital by Dessein and Prat. We further showcase applications of our measure in accounting, economics, finance, and management literature. Taken together, the paper provides implications for various stakeholders who are interested in assessing and managing firms' organizational capital.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70073"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587261450579</id>
+    <title>Institutional Space-Making for Equity in Entrepreneurial Ecosystems: Evidence from U.S. Cities</title>
+    <updated>2026-06-08T00:00:00+00:00</updated>
+    <author>
+      <name>Qingfang Wang, Sua Kim, Scott Taylor</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Entrepreneurial ecosystems (EE) are widely viewed as engines of innovation, economic development, and opportunity, yet prior research offers limited insight into how equity is institutionally produced and sustained, particularly for minority- and women-owned businesses. We introduce institutional space-making—the purposeful construction of governance, relational, and organizational environments that enable equitable participation—as a core institutional mechanism for ecosystem redesign. Drawing on a multi-city case analysis of the Ascend program across 13 U.S. cities, we identify 3 interrelated processes: (a) structural redesign that confronts exclusionary rules, routines, and evaluative logics; (b) relational mobilization through institutional entrepreneurship that assembles cross-sector coalitions to reconfigure resource flows and opportunity structures; and (c) organizational and implementation practices that embed cultural responsiveness through trust-building and adaptive coordination. Findings show that inclusive ecosystems emerge when these processes are jointly enacted, linking ecosystem design with everyday implementation. Our study advances EE theory by specifying how equity is produced through institutional redesign and offers actionable guidance for policymakers and ecosystem builders seeking durable inclusion.</content>
+    <link href="https://doi.org/10.1177/10422587261450579"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70060</id>
+    <title>The Debt‐Equity Spread</title>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <author>
+      <name>HUI CHEN, ZHIYAO CHEN, JUN LI</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We propose a measure of the valuation gap between debt and equity—debt‐equity spread (DES)—based on the difference between actual and equity‐implied credit spreads. DES predicts cross‐sectional stock and bond returns in opposite directions. This predictability is unique compared to existing mispricing measures and cannot be explained by exposures to various risk factors. High‐DES firms are more likely to issue equity and retire debt, and have more insider equity selling. These findings are consistent with DES capturing relative mispricing between debt and equity, and provide empirical support for the model of partially segmented markets in Greenwood, Hanson, and Liao (2018,Review of Financial Studies31, 3307–3343).</content>
+    <link href="https://doi.org/10.1111/jofi.70060"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-06-09T00:00:00+00:00</published>
   </entry>
 </feed>
