@@ -2,43 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-09T12:50:04.374681+00:00</updated>
+  <updated>2026-06-10T12:51:07.853044+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
   <entry>
-    <id>https://www.nber.org/papers/w35214</id>
-    <title>The Psychology of Macroeconomic Expectations</title>
+    <id>https://www.nber.org/papers/w35196</id>
+    <title>Making Sense of Labor Market Indicators Amid Data Imperfections</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
     <author>
-      <name>Pedro Bordalo, Nicola Gennaioli, Florencio Lopez-de-Silanes, Simon G. Schröder, Andrei Shleifer &amp; Maarten van Rooij</name>
+      <name>Scott A. Brave, Erin E. Crust, Stefano Eusepi, Bart Hobijn &amp; Ayşegül Şahin</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We present a model of “animal spirits” in which context and emotions affect macroeconomic beliefs by shaping which experiences people recall to simulate similar future aggregate states. We test this mechanism by priming Dutch National Bank Survey respondents to recall personal financial or health adversities before eliciting inflation and home price expectations. The treatment causes instability in beliefs and reasoning tied to the measured similarity of the primed experiences to different macro states. This similarity structure also accounts for heterogeneity in beliefs and reasoning based on a range of other personal experiences we measure. The model micro founds several features of macroeconomic beliefs, including narratives, and yields a “confidence multiplier”: spending by some agents cues optimistic context for others, raising their spending.</content>
-    <link href="https://www.nber.org/papers/w35214"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Interpreting real-time labor market conditions is challenging because commonly used indicators are noisy, revised over time, and often send conflicting signals. In practice, policymakers and market participants describe labor market developments using a shared narrative language centered on labor demand, labor supply, and matching frictions. In this paper, we show that empirical measures of these narrative concepts can be recovered from latent factors that summarize the joint movements of a broad set of high-frequency U.S. labor-market indicators. We use ninety-four labor-market indicators, over the period from 1960 to 2026, and construct measures for labor demand, long-run labor supply, short-run labor supply, and matching efficiency by selecting the factors that satisfy a limited set of restrictions on how underlying forces map into observed data. We find that labor demand and short-run labor supply account for most of the common variation in labor-market indicators. Our results also show that assigning narrow interpretations to individual indicators can lead to misleading conclusions about underlying labor market conditions. Applying the framework to the post-pandemic period reveals that although labor demand recovered briskly after the acute phase of the pandemic, it cannot account for the large rise in vacancies and quits. Instead, movements in short-run labor supply and matching efficiency play a central role. We also show that the “soft-landing” episode from 2023 through 2025 was characterized by a joint decline in labor demand and short-run labor supply, which slowed payroll growth while generating only a moderate increase in the unemployment rate.</content>
+    <link href="https://www.nber.org/papers/w35196"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35213</id>
-    <title>Sophisticated Borrowing Constraints and Macroeconomic Dynamics</title>
+    <id>https://www.nber.org/papers/w35195</id>
+    <title>AlphaPortfolio: Goal-Oriented Investment Management Through Deep Reinforcement Learning</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
     <author>
-      <name>Al-Mahdi Ebsim, Chen Lian, Yueran Ma, Pablo Ottonello &amp; Diego J. Perez</name>
+      <name>Lin William Cong, Ke Tang &amp; Jingyuan Wang</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In traditional macro-finance models, firms' debt contracts impose hard borrowing constraints, which require indiscriminate reductions of borrowing and investment when adverse shocks tighten these limits, giving rise to financial acceleration. We study the macroeconomic implications of "sophisticated borrowing constraints" akin to financial covenants among large U.S. nonfinancial firms, commonly specified based on firms' debt relative to operating earnings. We model these constraints as debt thresholds that trigger a transfer of control rights to creditors when they are violated, in which case creditors influence firms' decisions to maximize their value instead of cutting credit unconditionally to adhere to fixed ratios. At the micro level, our model is quantitatively consistent with empirical patterns of investment and earnings around covenant violations. At the macro level, sophisticated borrowing constraints do not generate financial acceleration, because constraint tightening and violations do not induce creditors to downscale firms indiscriminately.</content>
-    <link href="https://www.nber.org/papers/w35213"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We adapt attention-based neural networks and reinforcement learning to direct portfolio construction, allowing broader portfolio-management objectives (including non-time-additively separable ones) and in a data-driven way, searching over a much richer policy/strategy space than low-dimensional parametric rules or human-specified strategies. As arguably the first non-text-based, “large” GenAI model in Finance, AlphaPortfolio accommodates long- and short-range path dependence in firm and market states (e.g., using Transformer encoder), cross-asset information, flexible (path-dependent) objectives (incl. Sharpe ratio, which is non-additively separable across periods) for end-to-end (rather than step-by-step) optimizations. In U.S. equities, AlphaPortfolio yields superior out-of-sample performance (e.g., Sharpe ratio above two and risk-adjusted alpha over 13% with monthly rebalancing) robust under various market conditions and economic restrictions (e.g., exclusion of small/illiquid stocks) and over time. The gains come from the direct construction, effective sequence modeling, and cross-asset attention network. We further demonstrate AlphaPortfolio's flexibility to incorporate transaction costs, state interactions, and alternative objectives, before developing a polynomial-feature-sensitivity analysis to uncover key drivers of performance, including their rotation and nonlinearity.</content>
+    <link href="https://www.nber.org/papers/w35195"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35212</id>
-    <title>Old Space, New Space: A Commercial Revolution in Innovation?</title>
+    <id>https://www.nber.org/papers/w35197</id>
+    <title>Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes</title>
     <updated>2026-05-01T00:00:00+00:00</updated>
     <author>
-      <name>Ruben Gaetani &amp; Alexander T. Whalley</name>
+      <name>Koichiro Ito, James M. Sallee &amp; Jonathan (Andrew) Smith</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of firms like SpaceX and Blue Origin has made space a leading example of how private enterprise drives innovation, marking what many see as a sharp break between Old Space and New Space. Yet little systematic evidence documents when the transition to this new phase of space innovation occurred and which firms drove it. We use patent data to provide this measurement and find that the largest surge in space innovation occurred in the 1990s, coinciding with demand-side market creation, and preceding the entry of high-profile startups after 2005. Throughout this period and since, incumbent aerospace firms account for most of the space-related patenting, with entrants contributing a growing but minority share. The same geographic regions that dominated space innovation during the post-Apollo era remain dominant today. These patterns are consistent with directed technical change: incumbents direct R&amp;D toward policy-created markets accessible from existing capabilities, while entrants bring science-based insights into domains requiring new paradigms. Our findings suggest that New Space is more closely connected to Old Space than prevailing narratives imply, and that government's most consequential role in space innovation may lie in constructing appropriable markets. We make patent data on space-related technologies available for future research.</content>
-    <link href="https://www.nber.org/papers/w35212"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How should policymakers evaluate policy impacts when firms design products for global markets? Standard economic analyses typically focus on domestic outcomes, implicitly assuming that policies affect only the jurisdiction in which they are enacted. Yet multinational firms often harmonize product design across markets, creating the potential for policies implemented in one country to generate global spillovers through changes in product attributes. We call this phenomenon "attribute propagation" and develop a framework to measure and assess its quantitative importance. Applying this framework to an environmental policy affecting automobiles, we find that a fuel-economy subsidy in Japan led to significant improvements in the fuel economy of vehicles sold in the United States. We then develop a model of multinational automobile markets featuring cross-market cost complementarity as a key mechanism driving attribute propagation. Using the estimated model, we conduct counterfactual simulations to quantify environmental benefits accounting for the policy’s global spillover effects. We find that global spillover effects are first-order—a majority of the CO2 emissions reductions induced by the Japanese policy arise through its impact on the U.S. automobile market. These findings suggest that standard economic analyses that abstract from attribute propagation can substantially understate the full policy impact. More broadly, attribute propagation provides a new lens for evaluating environmental, safety, antitrust, and technology policies in a global economy.</content>
+    <link href="https://www.nber.org/papers/w35197"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
@@ -470,6 +470,18 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35259</id>
+    <title>A Bayesian Critic for Frequentist Procedures</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
+    <link href="https://www.nber.org/papers/w35259"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35271</id>
     <title>Beyond Exposure: Predicting AI Adoption Based on Comparative Advantage</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -782,18 +794,6 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35259</id>
-    <title>A Bayesian Critic for Frequentist Procedures</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
-    <link href="https://www.nber.org/papers/w35259"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35258</id>
     <title>Towards a Methodology for Measuring Rental Property Ownership in the United States</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -890,18 +890,6 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35314</id>
     <title>Innovation without Borders? The Geography of Technological Diffusion</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -950,62 +938,14 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35310</id>
-    <title>Is the iPhone Birth Control? Causal Evidence from AT&amp;T’s 2007–2011 Carrier Monopoly</title>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Caitlin K. Myers &amp; Ezekiel Hooper</name>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference-in-differences event studies imply that access to the iPhone reduced births by 4.5–8.0% at ages 15–19 and 3.2–6.6% at ages 20–24, with statistically significant but smaller declines among older cohorts. Placebo analyses applied to Verizon and Sprint’s pre-2011 coverage footprint are null. Taken together, these cohort effects imply that the diffusion of the iPhone deepened the decline in births among women under 30 while suppressing the rise in births among older women. Overall, the diffusion of the iPhone explains 33–52% of the decline in the general fertility rate among women aged 15–44. National-survey evidence on time use and sexual behavior is consistent with the iPhone reducing in-person interactions, increasing pornography use, and reducing sexual frequency.</content>
-    <link href="https://www.nber.org/papers/w35310"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35309</id>
-    <title>But I Like Doing This! Enjoyable Tasks, Contracting, and Automation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Workers sometimes enjoy productive tasks and voluntarily devote unpaid time to them. We study O-ring jobs in which firms can either price a complete task bundle or specify paid task floors while workers remain free to add time. For any allocation supported by both hourly contracts, the wage bill is identical: voluntary top-up is not a discount. The contracts differ because paid floors cannot cap attractive tasks below the worker's voluntary supply. This implementability constraint adds a containment motive for automation alongside replacement and scale effects. It also makes payroll measures incomplete: conditional on a common automated set and a common AI technology, jobs with the same payroll footprint can differ in worked time and task mix. Rich salaried bundle pricing removes the hourly-contract distortion.</content>
-    <link href="https://www.nber.org/papers/w35309"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35313</id>
-    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
-    <link href="https://www.nber.org/papers/w35313"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35308</id>
-    <title>Do Female Leaders Reduce Corruption? New Evidence from Brazil</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Julieta Peveri &amp; Clemence Tricaud</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does female leadership reduce corruption? We study this question using close mixed-gender elections in Brazilian municipalities over two decades and multiple measures of corruption: budget-based predicted corruption scores, audit irregularities, and legal sanctions. We find no evidence that electing a woman mayor affects corruption. This null result holds across time periods, mayor characteristics, and the electoral cycle. We only detect a negative effect in the small subsample of municipalities randomly audited in early terms, which coincides with a sharp imbalance in incumbency. Because incumbency directly impacts corruption, these previously documented effects likely reflect the impact of incumbency rather than gender.</content>
-    <link href="https://www.nber.org/papers/w35308"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35307</id>
-    <title>Are carbon tariffs climate policy?</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gregory Casey, Kyle C. Meng &amp; Ivan Rudik</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Carbon import tariffs, traditionally considered a complement to domestic climate policy, are increasingly proposed as standalone policies. We build a quantitative trade model to compare U.S. carbon tariffs with and without a domestic carbon tax, each applied to a set of carbon-intensive, trade-exposed sectors. We find three main results. First, a U.S. carbon tariff increases U.S. emissions, lowers foreign emissions, and on net achieves half the global emissions reductions of the combined policy, which lowers both U.S. and foreign emissions. Second, both approaches increase U.S. GDP and welfare, but the combined policy has a larger effect due to terms of trade improvements. Third, global emissions reductions from multilateral tariff-only agreements are modest and do not increase monotonically with greater membership, whereas under combined policies they scale considerably with membership.</content>
-    <link href="https://www.nber.org/papers/w35307"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1210,6 +1150,66 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
     <link href="https://www.nber.org/papers/w35288"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35309</id>
+    <title>But I Like Doing This! Enjoyable Tasks, Contracting, and Automation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Workers sometimes enjoy productive tasks and voluntarily devote unpaid time to them. We study O-ring jobs in which firms can either price a complete task bundle or specify paid task floors while workers remain free to add time. For any allocation supported by both hourly contracts, the wage bill is identical: voluntary top-up is not a discount. The contracts differ because paid floors cannot cap attractive tasks below the worker's voluntary supply. This implementability constraint adds a containment motive for automation alongside replacement and scale effects. It also makes payroll measures incomplete: conditional on a common automated set and a common AI technology, jobs with the same payroll footprint can differ in worked time and task mix. Rich salaried bundle pricing removes the hourly-contract distortion.</content>
+    <link href="https://www.nber.org/papers/w35309"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35313</id>
+    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
+    <link href="https://www.nber.org/papers/w35313"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35308</id>
+    <title>Do Female Leaders Reduce Corruption? New Evidence from Brazil</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Julieta Peveri &amp; Clemence Tricaud</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does female leadership reduce corruption? We study this question using close mixed-gender elections in Brazilian municipalities over two decades and multiple measures of corruption: budget-based predicted corruption scores, audit irregularities, and legal sanctions. We find no evidence that electing a woman mayor affects corruption. This null result holds across time periods, mayor characteristics, and the electoral cycle. We only detect a negative effect in the small subsample of municipalities randomly audited in early terms, which coincides with a sharp imbalance in incumbency. Because incumbency directly impacts corruption, these previously documented effects likely reflect the impact of incumbency rather than gender.</content>
+    <link href="https://www.nber.org/papers/w35308"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35307</id>
+    <title>Are carbon tariffs climate policy?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gregory Casey, Kyle C. Meng &amp; Ivan Rudik</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Carbon import tariffs, traditionally considered a complement to domestic climate policy, are increasingly proposed as standalone policies. We build a quantitative trade model to compare U.S. carbon tariffs with and without a domestic carbon tax, each applied to a set of carbon-intensive, trade-exposed sectors. We find three main results. First, a U.S. carbon tariff increases U.S. emissions, lowers foreign emissions, and on net achieves half the global emissions reductions of the combined policy, which lowers both U.S. and foreign emissions. Second, both approaches increase U.S. GDP and welfare, but the combined policy has a larger effect due to terms of trade improvements. Third, global emissions reductions from multilateral tariff-only agreements are modest and do not increase monotonically with greater membership, whereas under combined policies they scale considerably with membership.</content>
+    <link href="https://www.nber.org/papers/w35307"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35310</id>
+    <title>Is the iPhone Birth Control? Causal Evidence from AT&amp;T’s 2007–2011 Carrier Monopoly</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Caitlin K. Myers &amp; Ezekiel Hooper</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference-in-differences event studies imply that access to the iPhone reduced births by 4.5–8.0% at ages 15–19 and 3.2–6.6% at ages 20–24, with statistically significant but smaller declines among older cohorts. Placebo analyses applied to Verizon and Sprint’s pre-2011 coverage footprint are null. Taken together, these cohort effects imply that the diffusion of the iPhone deepened the decline in births among women under 30 while suppressing the rise in births among older women. Overall, the diffusion of the iPhone explains 33–52% of the decline in the general fertility rate among women aged 15–44. National-survey evidence on time use and sexual behavior is consistent with the iPhone reducing in-person interactions, increasing pornography use, and reducing sexual frequency.</content>
+    <link href="https://www.nber.org/papers/w35310"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
