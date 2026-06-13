@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-12T12:49:22.930083+00:00</updated>
+  <updated>2026-06-13T16:39:16.234077+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -470,6 +470,18 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35262</id>
+    <title>How Much and How Fast Do Investors Respond to Equity Premium Changes? Evidence from Wealth Taxation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andreas Fagereng, Luigi Guiso &amp; Marius A. K. Ring</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using administrative panel data on Norwegian investors’ portfolios, we document strong but slow portfolio allocation responses to a persistent wealth-tax-induced shock to the equity premium. Short-run responses resemble the modest sensitivity documented using surveys. The longer-run responses are much larger and can be rationalized by moderate risk aversion. We document that equity premium shocks affect stock market entry but not exits, suggesting that entry costs dominate participation costs. Our finding of slow responses supports the asset-pricing literature that uses adjustment frictions to explain important asset-pricing puzzles, and has implications for optimal capital taxation when tax rates differ across assets.</content>
+    <link href="https://www.nber.org/papers/w35262"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35261</id>
     <title>Startups in Africa</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -538,18 +550,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One way to measure the efficiency of the Affordable Care Act (ACA) is the extent to which gains in publicly supported health insurance reduced uninsured rates. Using data from the 2008–2024 American Community Survey, we examine time trends in rates of uninsured, public insurance coverage, and employer-sponsored insurance (ESI) by groups defined by the ratio of income to the Federal Poverty Line (FPL). We obtain estimates of associations between changes in public coverage and changes in uninsured and ESI exploiting state-by-year variation in ACA implementation. Importantly, we estimate the total effect of the ACA—including both the Medicaid expansion and Marketplace coverage—on uninsured and ESI rates. For adults in households below 150% of the federal poverty level (FPL), increases in public insurance coverage were associated with one-for-one decrease in uninsured and no change in ESI. For adults with incomes between 151%–400% FPL, each percentage point increase in public coverage was associated with about a 0.6 percentage point decrease in uninsured and a 0.4 decrease, or crowd out, in ESI. Crowd-out was larger among groups with higher pre-ACA ESI rates such as parents and married adults. Using variation from the Medicaid expansion alone to evaluate the ACA’s effect on ESI leads to overstating crowd-out among low-income adults (below 150% FPL) and understating crowd-out among higher-income adults (above 250% FPL). Our findings suggest that policies intended to subsidize health insurance of higher income groups, for example, the enhanced premium subsidies, are far less efficient than policies intended to further expand public insurance to low-income groups, for example, in non-expansion states.</content>
     <link href="https://www.nber.org/papers/w35263"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35262</id>
-    <title>How Much and How Fast Do Investors Respond to Equity Premium Changes? Evidence from Wealth Taxation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andreas Fagereng, Luigi Guiso &amp; Marius A. K. Ring</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using administrative panel data on Norwegian investors’ portfolios, we document strong but slow portfolio allocation responses to a persistent wealth-tax-induced shock to the equity premium. Short-run responses resemble the modest sensitivity documented using surveys. The longer-run responses are much larger and can be rationalized by moderate risk aversion. We document that equity premium shocks affect stock market entry but not exits, suggesting that entry costs dominate participation costs. Our finding of slow responses supports the asset-pricing literature that uses adjustment frictions to explain important asset-pricing puzzles, and has implications for optimal capital taxation when tax rates differ across assets.</content>
-    <link href="https://www.nber.org/papers/w35262"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -890,6 +890,162 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35314</id>
+    <title>Innovation without Borders? The Geography of Technological Diffusion</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ursel Baumann, Zoë B. Cullen, Ester Faia, Annalisa Ferrando, Ricardo Perez-Truglia &amp; Judit Rariga</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms' perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment. We show that firms substantially underestimate competitors' current AI investment, both domestically and abroad, and that they update their expectations about competitors' future AI investment in response to the information treatment. The treatment also causes a statistically significant increase in firms' own expected AI investment rate (p-value &lt; 0.001). We find strong strategic complementarities within borders: a 1 pp increase in the expected share of domestic peers investing in AI raises a firm's own expected AI investment rate by 0.570 pp. These complementarities are absent across borders: the effect of an increase in the expected share of foreign peers investing in AI on a firm's own expected AI investment rate is statistically insignificant. Overall, our evidence shows that innovation diffusion and strategic complementarities in AI investment are much stronger domestically than internationally.</content>
+    <link href="https://www.nber.org/papers/w35314"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35312</id>
+    <title>Bayesian Non-Persuasion</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Rules against persuasion often focus on beliefs: an institution should not manipulate the information on which a decision rests. We show that such rules can miss a distinct source of directional influence. An institution can steer an outcome without changing beliefs by selecting among authorised procedures that translate the same belief into different actions. Jury instructions provide the leading example: a judge may alter no juror’s assessment of the facts yet still affect the verdict through the permissible formulation of the law. The gap is sharpest near a decision threshold. There, the scope for belief movement that preserves the default action vanishes, while procedural steering can remain maximal whenever authorised procedures disagree near the boundary, even with genuinely informative communication. In general, exposure to procedural steering is the concavification of a local steering score. The geometry of Bayesian persuasion thus reappears in reverse: it measures not the value of manipulating beliefs, but the directional discretion left open by institutional rules.</content>
+    <link href="https://www.nber.org/papers/w35312"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35290</id>
+    <title>What Investment Data Implies about the AI Transition</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jessica Wachter &amp; Jonathan Wachter</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The five largest U.S. technology firms spent $380 billion on capital expenditure in 2025 and are forecast to spend roughly double that in 2026. These firms risk bankruptcy unless expected profits grow commensurately. We embed this observation in a two-sector open-economy model with rare productivity booms. We calibrate the boom size to match the observed increase in investment projected through 2027, implying that a boom raises AI-sector productivity by a factor of roughly 2.7. We then calibrate a two-year window of a 50% annual probability of an increase of the same magnitude, generating a range of scenarios consistent with the wide variety of industry forecasts, along with an elevated permanent probability tied to the valuation of the aggregate market. The implied additional cumulative GDP growth ranges from 5 to 58 percentage points by 2030, with AI shares of the economy ranging from 8% to 39%. Long-term annual growth is in expectation approximately 7% but with substantial risk. With risk aversion of 3, and an elasticity of intertemporal substitution equal to 1, the risk-free rate increases by approximately half a percentage point, and the equity premium rises by approximately 3 percentage points.</content>
+    <link href="https://www.nber.org/papers/w35290"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35311</id>
+    <title>How Small is Small? Non-linearities in Heterogeneous Agent Models</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Javier Bianchi &amp; Greg Kaplan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In plausibly calibrated heterogeneous-agent models, marginal propensities to consume (MPCs) are highly non-linear in wealth, falling sharply away from borrowing constraints. As a result, the aggregate consumption response to a fiscal transfer is strongly concave in its size: larger transfers shift households out of high-MPC regions and thereby dampen the consumption response. Across partial- and general-equilibrium settings, linear methods substantially overstate the effects of fiscal stimulus at empirically relevant sizes. Local methods are not reliable for studying shocks and policies where a failure of Ricardian equivalence is important.</content>
+    <link href="https://www.nber.org/papers/w35311"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35310</id>
+    <title>Is the iPhone Birth Control? Causal Evidence from AT&amp;T’s 2007–2011 Carrier Monopoly</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Caitlin K. Myers &amp; Ezekiel Hooper</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference-in-differences event studies imply that access to the iPhone reduced births by 4.5–8.0% at ages 15–19 and 3.2–6.6% at ages 20–24, with statistically significant but smaller declines among older cohorts. Placebo analyses applied to Verizon and Sprint’s pre-2011 coverage footprint are null. Taken together, these cohort effects imply that the diffusion of the iPhone deepened the decline in births among women under 30 while suppressing the rise in births among older women. Overall, the diffusion of the iPhone explains 33–52% of the decline in the general fertility rate among women aged 15–44. National-survey evidence on time use and sexual behavior is consistent with the iPhone reducing in-person interactions, increasing pornography use, and reducing sexual frequency.</content>
+    <link href="https://www.nber.org/papers/w35310"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35309</id>
+    <title>But I Like Doing This! Enjoyable Tasks, Contracting, and Automation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Workers sometimes enjoy productive tasks and voluntarily devote unpaid time to them. We study O-ring jobs in which firms can either price a complete task bundle or specify paid task floors while workers remain free to add time. For any allocation supported by both hourly contracts, the wage bill is identical: voluntary top-up is not a discount. The contracts differ because paid floors cannot cap attractive tasks below the worker's voluntary supply. This implementability constraint adds a containment motive for automation alongside replacement and scale effects. It also makes payroll measures incomplete: conditional on a common automated set and a common AI technology, jobs with the same payroll footprint can differ in worked time and task mix. Rich salaried bundle pricing removes the hourly-contract distortion.</content>
+    <link href="https://www.nber.org/papers/w35309"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35313</id>
+    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
+    <link href="https://www.nber.org/papers/w35313"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35308</id>
+    <title>Do Female Leaders Reduce Corruption? New Evidence from Brazil</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Julieta Peveri &amp; Clemence Tricaud</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does female leadership reduce corruption? We study this question using close mixed-gender elections in Brazilian municipalities over two decades and multiple measures of corruption: budget-based predicted corruption scores, audit irregularities, and legal sanctions. We find no evidence that electing a woman mayor affects corruption. This null result holds across time periods, mayor characteristics, and the electoral cycle. We only detect a negative effect in the small subsample of municipalities randomly audited in early terms, which coincides with a sharp imbalance in incumbency. Because incumbency directly impacts corruption, these previously documented effects likely reflect the impact of incumbency rather than gender.</content>
+    <link href="https://www.nber.org/papers/w35308"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35307</id>
+    <title>Are carbon tariffs climate policy?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gregory Casey, Kyle C. Meng &amp; Ivan Rudik</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Carbon import tariffs, traditionally considered a complement to domestic climate policy, are increasingly proposed as standalone policies. We build a quantitative trade model to compare U.S. carbon tariffs with and without a domestic carbon tax, each applied to a set of carbon-intensive, trade-exposed sectors. We find three main results. First, a U.S. carbon tariff increases U.S. emissions, lowers foreign emissions, and on net achieves half the global emissions reductions of the combined policy, which lowers both U.S. and foreign emissions. Second, both approaches increase U.S. GDP and welfare, but the combined policy has a larger effect due to terms of trade improvements. Third, global emissions reductions from multilateral tariff-only agreements are modest and do not increase monotonically with greater membership, whereas under combined policies they scale considerably with membership.</content>
+    <link href="https://www.nber.org/papers/w35307"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35303</id>
+    <title>Falling Dominoes? The Impact of the US Exit from Free Trade on the Sustainability of Trade Cooperation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Barthélémy Bonadio, Andrei A. Levchenko &amp; Nitya Pandalai-Nayar</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper quantitatively evaluates other countries' optimal tariffs and the prospects of sustaining international trade cooperation when a large player—the United States—exits the cooperative trade regime. To guide the analysis, we rely on an analytical characterization of the optimal tariff in a simplified multi-country trade model with endogenous labor supply. A country's optimal import tariffs are a function of its trade partners' expenditure shares on its goods, and the trade and labor supply elasticities. In both the simplified model and the full quantitative multi-country, multi-sector global network model, the impact of the US withdrawal from free trade on other countries' optimal tariffs and the sustainability of the cooperative trade regime is minimal. This is because quantitatively, the key determinants of these objects—domestic and international trade shares of other countries—change little from the US withdrawal. This main finding is not sensitive to the trade or labor supply elasticities. Thus, the fall of the US free trade domino is unlikely to cause further dominoes to fall.</content>
+    <link href="https://www.nber.org/papers/w35303"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35302</id>
+    <title>Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Julie Pernaudet, John A. List, Arnoldo Müller-Molina, Majid Ahmadi, Imrul Huda, Ajay Sailopal &amp; Dana Suskind</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Parents play a critical role in shaping children’s skills during the first years of life. Yet, identifying the contributors to richer learning environments remains difficult due to various unobservable factors. In this paper, we combine field experiments with AI to explore new acoustic features of parental speech. Specifically, we develop a signal processing model that uses more than 600 hours of recorded parent-child interactions combined with assessment data from two home-visiting experiments conducted in the Chicagoland area to identify features of parental speech that map into children’s skills. Our two experiments consist of the same intervention helping parents provide nurturing interactions to their child. We exploit the experimental and natural variation in our data to explore two causal channels and one potential moderator. First, our intervention improves parental speech consistently across the two studies, as measured by acoustic features that are predictive of higher socioemotional skills and adult-child conversational turns. Further, we find that it also increases children’s language skills in both experiments, as well as socioemotional skills in the second experiment. Interestingly, our heterogeneity analyses reveal that some of the interventions’ impacts vary by socioeconomic groups, with patterns across the two experiments suggesting that the mechanisms are context-dependent.</content>
+    <link href="https://www.nber.org/papers/w35302"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35300</id>
+    <title>Explaining the Historical Rise and Recent Decline in Social Security Disability Insurance Enrollment</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Manasi Deshpande, Maxwell Kellogg, Magne Mogstad &amp; Kuan-Ju Tseng</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;After substantial growth in the 1990s and 2000s, enrollment in the U.S. Social Security Disability Insurance (SSDI) program has been declining since 2013. We use detailed administrative data to quantify the contributions of various factors to trends in SSDI enrollment, focusing especially on the decline in the 2010s. A statistical decomposition suggests that the vast majority of the decline in SSDI enrollment since 2013 is attributable to declines in application rates—and, to a lesser extent, award rates—within demographic groups. There is very little contribution from changes over time in demographic characteristics, eligibility, or exit from SSDI. The decline in SSDI enrollment rates is disproportionately driven by low-to-middle-skilled men who, over time, have become less likely to apply for SSDI and more likely to work. Consistent with this descriptive evidence, we present results from a causal analysis suggesting that improved labor market opportunity for less-skilled men is a key explanation for the decline in SSDI enrollment. We also investigate several other popular hypotheses for the decline in SSDI applications, including lower award rates at the appeals level, and find evidence at odds with them.</content>
+    <link href="https://www.nber.org/papers/w35300"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35301</id>
+    <title>Do Voters Punish Inflation or Pay Cuts? Inflation and Real Wages in U.S. Elections</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Juan Felipe Riaño &amp; Francesco Trebbi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Between 2021 and 2024, the United States experienced one of the most severe inflation episodes in decades, coinciding with renewed debate over the role of economic conditions for electoral outcomes. This paper studies the political economy of inflation and real wages using U.S. county-level data on family budget costs, nominal income, and electoral results for President and Congress during this period. Exploiting within-state, cross-county variation in changes in local prices over time, it examines how inflation, real wage growth, and purchasing power relate to changes in vote shares of incumbents, vote margins, and turnout. Real wage decline, rather than higher inflation, is predictive of Republican electoral gains, in line with an economic voting rationale. Inflation, however, retains an association with presidential vote shares beyond pure economic voting.</content>
+    <link href="https://www.nber.org/papers/w35301"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35298</id>
     <title>Does Regional Variation in Wage Levels Identify the Effects of a National Minimum Wage?</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -910,18 +1066,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Quantitative easing (QE) has been criticized for helping fuel the post-COVID inflation boom and causing large central bank losses. In this paper, we argue that QE should be evaluated mainly on its ability to achieve core macro-objectives as well for its effects on the consolidated fiscal position of the government and central bank, although central bank losses can matter to the extent that they may weaken central bank credibility. Using a DSGE model with segmented asset markets, we show how QE can provide a sizeable boost to output and inflation in a deep liquidity trap and can reduce public debt substantially. This contrasts to the rise in public debt that occurs under fiscal expansion and makes QE an attractive tool in a high debt environment. There is more reason for caution in using QE in a "shallow" liquidity trap in which the notional interest rate is only slightly negative: QE runs more risk of causing the economy to overheat, especially if forward guidance has a strong element of commitment, and is more likely to generate sizeable central bank losses. Some refinements in strategy, including the use of escape clauses, can help mitigate overheating risks.</content>
     <link href="https://www.nber.org/papers/w35297"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35301</id>
-    <title>Do Voters Punish Inflation or Pay Cuts? Inflation and Real Wages in U.S. Elections</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Juan Felipe Riaño &amp; Francesco Trebbi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Between 2021 and 2024, the United States experienced one of the most severe inflation episodes in decades, coinciding with renewed debate over the role of economic conditions for electoral outcomes. This paper studies the political economy of inflation and real wages using U.S. county-level data on family budget costs, nominal income, and electoral results for President and Congress during this period. Exploiting within-state, cross-county variation in changes in local prices over time, it examines how inflation, real wage growth, and purchasing power relate to changes in vote shares of incumbents, vote margins, and turnout. Real wage decline, rather than higher inflation, is predictive of Republican electoral gains, in line with an economic voting rationale. Inflation, however, retains an association with presidential vote shares beyond pure economic voting.</content>
-    <link href="https://www.nber.org/papers/w35301"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1066,150 +1210,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
     <link href="https://www.nber.org/papers/w35205"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35314</id>
-    <title>Innovation without Borders? The Geography of Technological Diffusion</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ursel Baumann, Zoë B. Cullen, Ester Faia, Annalisa Ferrando, Ricardo Perez-Truglia &amp; Judit Rariga</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms' perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment. We show that firms substantially underestimate competitors' current AI investment, both domestically and abroad, and that they update their expectations about competitors' future AI investment in response to the information treatment. The treatment also causes a statistically significant increase in firms' own expected AI investment rate (p-value &lt; 0.001). We find strong strategic complementarities within borders: a 1 pp increase in the expected share of domestic peers investing in AI raises a firm's own expected AI investment rate by 0.570 pp. These complementarities are absent across borders: the effect of an increase in the expected share of foreign peers investing in AI on a firm's own expected AI investment rate is statistically insignificant. Overall, our evidence shows that innovation diffusion and strategic complementarities in AI investment are much stronger domestically than internationally.</content>
-    <link href="https://www.nber.org/papers/w35314"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35312</id>
-    <title>Bayesian Non-Persuasion</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Rules against persuasion often focus on beliefs: an institution should not manipulate the information on which a decision rests. We show that such rules can miss a distinct source of directional influence. An institution can steer an outcome without changing beliefs by selecting among authorised procedures that translate the same belief into different actions. Jury instructions provide the leading example: a judge may alter no juror’s assessment of the facts yet still affect the verdict through the permissible formulation of the law. The gap is sharpest near a decision threshold. There, the scope for belief movement that preserves the default action vanishes, while procedural steering can remain maximal whenever authorised procedures disagree near the boundary, even with genuinely informative communication. In general, exposure to procedural steering is the concavification of a local steering score. The geometry of Bayesian persuasion thus reappears in reverse: it measures not the value of manipulating beliefs, but the directional discretion left open by institutional rules.</content>
-    <link href="https://www.nber.org/papers/w35312"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35290</id>
-    <title>What Investment Data Implies about the AI Transition</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jessica Wachter &amp; Jonathan Wachter</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The five largest U.S. technology firms spent $380 billion on capital expenditure in 2025 and are forecast to spend roughly double that in 2026. These firms risk bankruptcy unless expected profits grow commensurately. We embed this observation in a two-sector open-economy model with rare productivity booms. We calibrate the boom size to match the observed increase in investment projected through 2027, implying that a boom raises AI-sector productivity by a factor of roughly 2.7. We then calibrate a two-year window of a 50% annual probability of an increase of the same magnitude, generating a range of scenarios consistent with the wide variety of industry forecasts, along with an elevated permanent probability tied to the valuation of the aggregate market. The implied additional cumulative GDP growth ranges from 5 to 58 percentage points by 2030, with AI shares of the economy ranging from 8% to 39%. Long-term annual growth is in expectation approximately 7% but with substantial risk. With risk aversion of 3, and an elasticity of intertemporal substitution equal to 1, the risk-free rate increases by approximately half a percentage point, and the equity premium rises by approximately 3 percentage points.</content>
-    <link href="https://www.nber.org/papers/w35290"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35311</id>
-    <title>How Small is Small? Non-linearities in Heterogeneous Agent Models</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Javier Bianchi &amp; Greg Kaplan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In plausibly calibrated heterogeneous-agent models, marginal propensities to consume (MPCs) are highly non-linear in wealth, falling sharply away from borrowing constraints. As a result, the aggregate consumption response to a fiscal transfer is strongly concave in its size: larger transfers shift households out of high-MPC regions and thereby dampen the consumption response. Across partial- and general-equilibrium settings, linear methods substantially overstate the effects of fiscal stimulus at empirically relevant sizes. Local methods are not reliable for studying shocks and policies where a failure of Ricardian equivalence is important.</content>
-    <link href="https://www.nber.org/papers/w35311"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35310</id>
-    <title>Is the iPhone Birth Control? Causal Evidence from AT&amp;T’s 2007–2011 Carrier Monopoly</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Caitlin K. Myers &amp; Ezekiel Hooper</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference-in-differences event studies imply that access to the iPhone reduced births by 4.5–8.0% at ages 15–19 and 3.2–6.6% at ages 20–24, with statistically significant but smaller declines among older cohorts. Placebo analyses applied to Verizon and Sprint’s pre-2011 coverage footprint are null. Taken together, these cohort effects imply that the diffusion of the iPhone deepened the decline in births among women under 30 while suppressing the rise in births among older women. Overall, the diffusion of the iPhone explains 33–52% of the decline in the general fertility rate among women aged 15–44. National-survey evidence on time use and sexual behavior is consistent with the iPhone reducing in-person interactions, increasing pornography use, and reducing sexual frequency.</content>
-    <link href="https://www.nber.org/papers/w35310"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35309</id>
-    <title>But I Like Doing This! Enjoyable Tasks, Contracting, and Automation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Workers sometimes enjoy productive tasks and voluntarily devote unpaid time to them. We study O-ring jobs in which firms can either price a complete task bundle or specify paid task floors while workers remain free to add time. For any allocation supported by both hourly contracts, the wage bill is identical: voluntary top-up is not a discount. The contracts differ because paid floors cannot cap attractive tasks below the worker's voluntary supply. This implementability constraint adds a containment motive for automation alongside replacement and scale effects. It also makes payroll measures incomplete: conditional on a common automated set and a common AI technology, jobs with the same payroll footprint can differ in worked time and task mix. Rich salaried bundle pricing removes the hourly-contract distortion.</content>
-    <link href="https://www.nber.org/papers/w35309"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35313</id>
-    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
-    <link href="https://www.nber.org/papers/w35313"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35308</id>
-    <title>Do Female Leaders Reduce Corruption? New Evidence from Brazil</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Julieta Peveri &amp; Clemence Tricaud</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does female leadership reduce corruption? We study this question using close mixed-gender elections in Brazilian municipalities over two decades and multiple measures of corruption: budget-based predicted corruption scores, audit irregularities, and legal sanctions. We find no evidence that electing a woman mayor affects corruption. This null result holds across time periods, mayor characteristics, and the electoral cycle. We only detect a negative effect in the small subsample of municipalities randomly audited in early terms, which coincides with a sharp imbalance in incumbency. Because incumbency directly impacts corruption, these previously documented effects likely reflect the impact of incumbency rather than gender.</content>
-    <link href="https://www.nber.org/papers/w35308"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35307</id>
-    <title>Are carbon tariffs climate policy?</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gregory Casey, Kyle C. Meng &amp; Ivan Rudik</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Carbon import tariffs, traditionally considered a complement to domestic climate policy, are increasingly proposed as standalone policies. We build a quantitative trade model to compare U.S. carbon tariffs with and without a domestic carbon tax, each applied to a set of carbon-intensive, trade-exposed sectors. We find three main results. First, a U.S. carbon tariff increases U.S. emissions, lowers foreign emissions, and on net achieves half the global emissions reductions of the combined policy, which lowers both U.S. and foreign emissions. Second, both approaches increase U.S. GDP and welfare, but the combined policy has a larger effect due to terms of trade improvements. Third, global emissions reductions from multilateral tariff-only agreements are modest and do not increase monotonically with greater membership, whereas under combined policies they scale considerably with membership.</content>
-    <link href="https://www.nber.org/papers/w35307"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35303</id>
-    <title>Falling Dominoes? The Impact of the US Exit from Free Trade on the Sustainability of Trade Cooperation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Barthélémy Bonadio, Andrei A. Levchenko &amp; Nitya Pandalai-Nayar</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper quantitatively evaluates other countries' optimal tariffs and the prospects of sustaining international trade cooperation when a large player—the United States—exits the cooperative trade regime. To guide the analysis, we rely on an analytical characterization of the optimal tariff in a simplified multi-country trade model with endogenous labor supply. A country's optimal import tariffs are a function of its trade partners' expenditure shares on its goods, and the trade and labor supply elasticities. In both the simplified model and the full quantitative multi-country, multi-sector global network model, the impact of the US withdrawal from free trade on other countries' optimal tariffs and the sustainability of the cooperative trade regime is minimal. This is because quantitatively, the key determinants of these objects—domestic and international trade shares of other countries—change little from the US withdrawal. This main finding is not sensitive to the trade or labor supply elasticities. Thus, the fall of the US free trade domino is unlikely to cause further dominoes to fall.</content>
-    <link href="https://www.nber.org/papers/w35303"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35302</id>
-    <title>Leveraging Artificial Intelligence and Field Experiments to Explore Novel Features of Parental Speech and Foster Child Development</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Julie Pernaudet, John A. List, Arnoldo Müller-Molina, Majid Ahmadi, Imrul Huda, Ajay Sailopal &amp; Dana Suskind</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Parents play a critical role in shaping children’s skills during the first years of life. Yet, identifying the contributors to richer learning environments remains difficult due to various unobservable factors. In this paper, we combine field experiments with AI to explore new acoustic features of parental speech. Specifically, we develop a signal processing model that uses more than 600 hours of recorded parent-child interactions combined with assessment data from two home-visiting experiments conducted in the Chicagoland area to identify features of parental speech that map into children’s skills. Our two experiments consist of the same intervention helping parents provide nurturing interactions to their child. We exploit the experimental and natural variation in our data to explore two causal channels and one potential moderator. First, our intervention improves parental speech consistently across the two studies, as measured by acoustic features that are predictive of higher socioemotional skills and adult-child conversational turns. Further, we find that it also increases children’s language skills in both experiments, as well as socioemotional skills in the second experiment. Interestingly, our heterogeneity analyses reveal that some of the interventions’ impacts vary by socioeconomic groups, with patterns across the two experiments suggesting that the mechanisms are context-dependent.</content>
-    <link href="https://www.nber.org/papers/w35302"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35300</id>
-    <title>Explaining the Historical Rise and Recent Decline in Social Security Disability Insurance Enrollment</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Manasi Deshpande, Maxwell Kellogg, Magne Mogstad &amp; Kuan-Ju Tseng</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;After substantial growth in the 1990s and 2000s, enrollment in the U.S. Social Security Disability Insurance (SSDI) program has been declining since 2013. We use detailed administrative data to quantify the contributions of various factors to trends in SSDI enrollment, focusing especially on the decline in the 2010s. A statistical decomposition suggests that the vast majority of the decline in SSDI enrollment since 2013 is attributable to declines in application rates—and, to a lesser extent, award rates—within demographic groups. There is very little contribution from changes over time in demographic characteristics, eligibility, or exit from SSDI. The decline in SSDI enrollment rates is disproportionately driven by low-to-middle-skilled men who, over time, have become less likely to apply for SSDI and more likely to work. Consistent with this descriptive evidence, we present results from a causal analysis suggesting that improved labor market opportunity for less-skilled men is a key explanation for the decline in SSDI enrollment. We also investigate several other popular hypotheses for the decline in SSDI applications, including lower award rates at the appeals level, and find evidence at odds with them.</content>
-    <link href="https://www.nber.org/papers/w35300"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
