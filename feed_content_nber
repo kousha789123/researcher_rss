@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-16T12:51:16.376445+00:00</updated>
+  <updated>2026-06-16T18:38:11.599387+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -176,18 +176,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build new data on startups in Africa to study which types of financing these firms demand, how financing is allocated in practice, and the implications for startup creation and the composition of the sector. We combine a continent-wide founder survey, an incentive-compatible experiment estimating financing preferences, and venture capital (VC) deal records matched to founders’ education and work histories. We find that startups strongly prefer equity over debt, but equity is supplied mainly by foreign investors and flows disproportionately to foreign-connected founders. About 80 percent of VC deals involve a foreign investor, and more than 60 percent of funded founders have studied or worked outside Africa. A simple accounting framework shows that this foreignness reflects three main forces: scarce local equity capital, a thin pool of local entrepreneurs able to access startup finance, and frictions limiting local entrepreneurs’ access to foreign investors. Together, these forces reduce startup creation and tilt the sector toward foreign investors and foreign-connected founders.</content>
     <link href="https://www.nber.org/papers/w35261"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35259</id>
-    <title>A Bayesian Critic for Frequentist Procedures</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
-    <link href="https://www.nber.org/papers/w35259"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -552,6 +540,42 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35259</id>
+    <title>A Bayesian Critic for Frequentist Procedures</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
+    <link href="https://www.nber.org/papers/w35259"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35288</id>
+    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
+    <link href="https://www.nber.org/papers/w35288"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35314</id>
     <title>Innovation without Borders? The Geography of Technological Diffusion</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -852,30 +876,6 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35288</id>
-    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
-    <link href="https://www.nber.org/papers/w35288"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35333</id>
     <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -924,6 +924,30 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35323</id>
+    <title>How Do Financial and Longevity Literacy Affect Annuity Demand?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jeffrey R. Brown</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deciding whether to use an annuity to draw down accumulated retirement wealth is among the most complex financial decisions individuals face. It requires reasoning about longevity risk, stochastic income streams, and largely irreversible tradeoffs, often at older ages and with limited opportunities to learn from experience. This paper reviews theoretical, empirical, and experimental research to examine how financial literacy and longevity literacy shape annuitization decisions. While some extensions of the standard lifecycle model can rationalize low annuity demand, their explanatory power depends on individuals’ ability to optimize over a set of complex risks and tradeoffs. Evidence shows that, although financial and longevity literacy are only weakly and inconsistently related to annuity take-up, they are strongly associated with retirement planning, the coherence of annuity valuations, and sensitivity to framing and choice architecture. These patterns suggest that literacy should be understood not as a direct determinant of annuity demand, but as a constraint on the extent to which observed annuitization behavior can be interpreted as revealing true preferences.</content>
+    <link href="https://www.nber.org/papers/w35323"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35322</id>
+    <title>Can Online Activity Be Regulated? Evidence from Adult Websites</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matthew Brown, Emily J. Davis &amp; Devin G. Pope</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The consequences of online regulations depend on the extent to which users can circumvent restrictions or substitute toward noncompliant platforms. Since 2023, 25 U.S. states have implemented age verification laws that caused prominent adult websites (including Pornhub) to restrict local access for all users. We study how these restrictions affected browsing activity using individual-level panel data. Access restrictions reduced overall time spent on adult sites by roughly 10%. Specifically, for every 100 hours spent on top adult sites before restrictions, about 50 hours remained accessible at noncompliant sites that never restricted access, 30 hours persisted through VPN-based circumvention, 10 hours were substituted from compliant sites to noncompliant sites, and 10 hours were no longer spent on adult sites.</content>
+    <link href="https://www.nber.org/papers/w35322"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35330</id>
     <title>Before the Exodus? Young Scientists and the Future of US Science</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -968,30 +992,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Male labor force participation has declined steadily for 50 years in the United States. We show that one cause has been changes in men's beliefs about the returns to work, shaped by lifetime experiences of the aggregate male labor market. We find that experience effects on participation persist for men who move across state lines, are stronger for same-race male experiences, and are driven by formative childhood years. We also document effects of experiences on direct measures of labor market expectations. Our findings suggest that experience effects can turn short-run declines in labor demand into long-run declines in labor supply.</content>
     <link href="https://www.nber.org/papers/w35327"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35323</id>
-    <title>How Do Financial and Longevity Literacy Affect Annuity Demand?</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jeffrey R. Brown</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deciding whether to use an annuity to draw down accumulated retirement wealth is among the most complex financial decisions individuals face. It requires reasoning about longevity risk, stochastic income streams, and largely irreversible tradeoffs, often at older ages and with limited opportunities to learn from experience. This paper reviews theoretical, empirical, and experimental research to examine how financial literacy and longevity literacy shape annuitization decisions. While some extensions of the standard lifecycle model can rationalize low annuity demand, their explanatory power depends on individuals’ ability to optimize over a set of complex risks and tradeoffs. Evidence shows that, although financial and longevity literacy are only weakly and inconsistently related to annuity take-up, they are strongly associated with retirement planning, the coherence of annuity valuations, and sensitivity to framing and choice architecture. These patterns suggest that literacy should be understood not as a direct determinant of annuity demand, but as a constraint on the extent to which observed annuitization behavior can be interpreted as revealing true preferences.</content>
-    <link href="https://www.nber.org/papers/w35323"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35322</id>
-    <title>Can Online Activity Be Regulated? Evidence from Adult Websites</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matthew Brown, Emily J. Davis &amp; Devin G. Pope</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The consequences of online regulations depend on the extent to which users can circumvent restrictions or substitute toward noncompliant platforms. Since 2023, 25 U.S. states have implemented age verification laws that caused prominent adult websites (including Pornhub) to restrict local access for all users. We study how these restrictions affected browsing activity using individual-level panel data. Access restrictions reduced overall time spent on adult sites by roughly 10%. Specifically, for every 100 hours spent on top adult sites before restrictions, about 50 hours remained accessible at noncompliant sites that never restricted access, 30 hours persisted through VPN-based circumvention, 10 hours were substituted from compliant sites to noncompliant sites, and 10 hours were no longer spent on adult sites.</content>
-    <link href="https://www.nber.org/papers/w35322"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
