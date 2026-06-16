@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-15T12:49:16.964272+00:00</updated>
+  <updated>2026-06-16T12:51:16.376445+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -130,6 +130,18 @@ The paper reframes testing as a problem of informational design: tests should be
     <link href="https://www.nber.org/papers/w35228"/>
     <category term="NBER"/>
     <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35265</id>
+    <title>Off the Labor Supply Curve: The Zero Employer Size Wage Effect Within Large Firms</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>André Diegmann, Steffen Müller &amp; Benjamin Schoefer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We revisit the employer size wage effect (ESWE)—arguably the most basic and influential departure from the law of one price for labor. Our main result is that this canonical fact disappears completely across establishments within the same firm, even though they operate in different local labor markets. We uncover and dissect this fact by including a firm fixed effect in otherwise standard cross-sectional regressions of wages on establishment size. We implement this demanding specification in population-wide triple-linked firm-establishment-employee data in Germany. This result is new in the ESWE literature (for which our paper also provides the first systematic meta-analysis). This wage-size decoupling is hard to square with the view that employment is determined along a finitely elastic employer-specific labor supply curve—i.e., employers pay exactly the minimum needed for the quantity of labor, but no more—the foundation of the monopsony view. By contrast, large multi-establishment firms (MEF) appear to hire off their labor supply curves (or those curves are very elastic), pay wage premia above the monopsonistic minimum, and leave excess labor supply. We find some evidence for a reemergence of the ESWE within low-premium MEFs. Overall, at least for the 25% of German employment in large firms for which the ESWE disappears, wage setting and employment determination may be better accounted for by alternative models, namely accommodating above-market-clearing wage premia and rationing of labor supply, such as efficiency wage theories.</content>
+    <link href="https://www.nber.org/papers/w35265"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.nber.org/papers/w35264</id>
@@ -284,18 +296,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data assets are increasingly vital in modern economies, yet macroeconomic measurement is not well-adapted to capturing their value. Part of the problem is that data is an intangible asset: investments in data are missed in national accounts, and depreciation losses are missed in firms’ balance sheets. Another part, unique to data, is that it serves as a means of payment in the modern economy: consumption bartered for data is also omitted from national accounts. We propose an output-based approach to measure the missing value of data. We treat data as an asset, measure its volume based on the quality of firms’ revenue forecasts, and endogenously determine its depreciation. We then capitalize the data value and explore what the measured GDP would be if the data were treated and transacted similarly to a physical asset. Our findings suggest that the aggregate value of data is about 1.5% of GDP.</content>
     <link href="https://www.nber.org/papers/w35266"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35265</id>
-    <title>Off the Labor Supply Curve: The Zero Employer Size Wage Effect Within Large Firms</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>André Diegmann, Steffen Müller &amp; Benjamin Schoefer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We revisit the employer size wage effect (ESWE)—arguably the most basic and influential departure from the law of one price for labor. Our main result is that this canonical fact disappears completely across establishments within the same firm, even though they operate in different local labor markets. We uncover and dissect this fact by including a firm fixed effect in otherwise standard cross-sectional regressions of wages on establishment size. We implement this demanding specification in population-wide triple-linked firm-establishment-employee data in Germany. This result is new in the ESWE literature (for which our paper also provides the first systematic meta-analysis). This wage-size decoupling is hard to square with the view that employment is determined along a finitely elastic employer-specific labor supply curve—i.e., employers pay exactly the minimum needed for the quantity of labor, but no more—the foundation of the monopsony view. By contrast, large multi-establishment firms (MEF) appear to hire off their labor supply curves (or those curves are very elastic), pay wage premia above the monopsonistic minimum, and leave excess labor supply. We find some evidence for a reemergence of the ESWE within low-premium MEFs. Overall, at least for the 25% of German employment in large firms for which the ESWE disappears, wage setting and employment determination may be better accounted for by alternative models, namely accommodating above-market-clearing wage premia and rationing of labor supply, such as efficiency wage theories.</content>
-    <link href="https://www.nber.org/papers/w35265"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -548,6 +548,30 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops and estimates a structural model of multiproduct production that allows plant-product quality and factor-augmenting input efficiency. Using plant-level data from Taiwan’s textile industry, we specify a translog multiproduct cost function with input share and output supply equations and estimate the system of equations via GMM.  The model recovers plant-specific input efficiencies, output qualities, economies of scale and scope, and substitution elasticities. It does not impose restrictions for non-joint production or input-output separability and does not require imputing product-level input allocations. We document increasing returns to scale, substitutability between labor and materials, and cost complementarities from joint production. Variation in labor shares and product mixes are jointly driven by large and persistent heterogeneity in both input efficiencies and output qualities. A multilateral productivity index shows that variation in input efficiency and output quality is the dominant source of productivity differences across plants.</content>
     <link href="https://www.nber.org/papers/w35274"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35314</id>
+    <title>Innovation without Borders? The Geography of Technological Diffusion</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ursel Baumann, Zoë B. Cullen, Ester Faia, Annalisa Ferrando, Ricardo Perez-Truglia &amp; Judit Rariga</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms' perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment. We show that firms substantially underestimate competitors' current AI investment, both domestically and abroad, and that they update their expectations about competitors' future AI investment in response to the information treatment. The treatment also causes a statistically significant increase in firms' own expected AI investment rate (p-value &lt; 0.001). We find strong strategic complementarities within borders: a 1 pp increase in the expected share of domestic peers investing in AI raises a firm's own expected AI investment rate by 0.570 pp. These complementarities are absent across borders: the effect of an increase in the expected share of foreign peers investing in AI on a firm's own expected AI investment rate is statistically insignificant. Overall, our evidence shows that innovation diffusion and strategic complementarities in AI investment are much stronger domestically than internationally.</content>
+    <link href="https://www.nber.org/papers/w35314"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35312</id>
+    <title>Bayesian Non-Persuasion</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Rules against persuasion often focus on beliefs: an institution should not manipulate the information on which a decision rests. We show that such rules can miss a distinct source of directional influence. An institution can steer an outcome without changing beliefs by selecting among authorised procedures that translate the same belief into different actions. Jury instructions provide the leading example: a judge may alter no juror’s assessment of the facts yet still affect the verdict through the permissible formulation of the law. The gap is sharpest near a decision threshold. There, the scope for belief movement that preserves the default action vanishes, while procedural steering can remain maximal whenever authorised procedures disagree near the boundary, even with genuinely informative communication. In general, exposure to procedural steering is the concavification of a local steering score. The geometry of Bayesian persuasion thus reappears in reverse: it measures not the value of manipulating beliefs, but the directional discretion left open by institutional rules.</content>
+    <link href="https://www.nber.org/papers/w35312"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -816,42 +840,6 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35314</id>
-    <title>Innovation without Borders? The Geography of Technological Diffusion</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ursel Baumann, Zoë B. Cullen, Ester Faia, Annalisa Ferrando, Ricardo Perez-Truglia &amp; Judit Rariga</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How well does innovation diffuse across geographic boundaries? To shed light on this question, we present a large-scale field experiment involving 3,300 firms across twelve European Union countries. We elicit firms' perceptions of the share of similar firms in their own country that had invested in artificial intelligence (AI), as well as the corresponding share among similar firms in Germany, France, and Italy. We randomly provide half of the sample with accurate information about both domestic and foreign AI investment. We show that firms substantially underestimate competitors' current AI investment, both domestically and abroad, and that they update their expectations about competitors' future AI investment in response to the information treatment. The treatment also causes a statistically significant increase in firms' own expected AI investment rate (p-value &lt; 0.001). We find strong strategic complementarities within borders: a 1 pp increase in the expected share of domestic peers investing in AI raises a firm's own expected AI investment rate by 0.570 pp. These complementarities are absent across borders: the effect of an increase in the expected share of foreign peers investing in AI on a firm's own expected AI investment rate is statistically insignificant. Overall, our evidence shows that innovation diffusion and strategic complementarities in AI investment are much stronger domestically than internationally.</content>
-    <link href="https://www.nber.org/papers/w35314"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35312</id>
-    <title>Bayesian Non-Persuasion</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Rules against persuasion often focus on beliefs: an institution should not manipulate the information on which a decision rests. We show that such rules can miss a distinct source of directional influence. An institution can steer an outcome without changing beliefs by selecting among authorised procedures that translate the same belief into different actions. Jury instructions provide the leading example: a judge may alter no juror’s assessment of the facts yet still affect the verdict through the permissible formulation of the law. The gap is sharpest near a decision threshold. There, the scope for belief movement that preserves the default action vanishes, while procedural steering can remain maximal whenever authorised procedures disagree near the boundary, even with genuinely informative communication. In general, exposure to procedural steering is the concavification of a local steering score. The geometry of Bayesian persuasion thus reappears in reverse: it measures not the value of manipulating beliefs, but the directional discretion left open by institutional rules.</content>
-    <link href="https://www.nber.org/papers/w35312"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35299</id>
     <title>Characterizing the File Drawer: Evidence from a Meta-Analysis of Parent-Interventions Around the World</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -872,6 +860,210 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
     <link href="https://www.nber.org/papers/w35288"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35333</id>
+    <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>James M. Flynn, David R. Munro &amp; Caitlin K. Myers</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of total abortion bans enacted after Dobbs v. Jackson Women's Health on sexual behavior.  Using synthetic and standard difference-in-differences designs, we analyze gonorrhea rates and over-the-counter contraceptive purchases as indicators of sexual activity and contraceptive use. We find that total abortion bans reduced gonorrhea rates by 21% among the population aged 15–44 and increased condom purchases by 5.4%. County-level analyses suggest the response reflects awareness of state policy rather than changes in travel distance to providers. These findings are consistent with a framework in which abortion restrictions increase the perceived cost of unprotected sex, inducing more cautious behavior.</content>
+    <link href="https://www.nber.org/papers/w35333"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35326</id>
+    <title>A Cohort Perspective on Latin America's Fertility Transition</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Regina Calles &amp; Tom Vogl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Latin America's momentous fertility transition is now in the domain of history, allowing a cohort perspective on the decline of completed fertility. Using census microdata from 17 Latin American countries, we track female birth cohorts from the 1920s to the 1970s by subnational region to document the extent to which cohort fertility decline coincided with other demographic and socioeconomic processes. Across cohorts within subnational regions, children ever born fell one-for-one with mortality decline. Expansions in urbanization, multigenerational living, women's and husbands' education, women's employment, and the non-agricultural sector all predicted declines in ever-born and surviving fertility, but women's education and sectoral composition were the dominant forces after covariate adjustment. Fertility decline was not systematically linked with improvements in children's outcomes, including school enrollment, literacy, primary completion, and non-employment. These cohort facts challenge theories of fertility decline centered on women's work and children's education but support others emphasizing women's education.</content>
+    <link href="https://www.nber.org/papers/w35326"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35325</id>
+    <title>Dynamic Risk Adjustment in Markets with Persistent Risk and Manipulable Signals: Market Design for Health Insurance</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex Chan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Risk adjustment is a payment mechanism, not only a prediction problem. I extend optimal risk adjustment to dynamic insurance markets in which plans capture future residuals from persistent risk. Under an efficiency criterion, payments should reflect expected profits and losses over the enrollee relationship on margins plans control, not only one-year spending predictions. A finite-cell model separates selection, health production, and manipulable measurement. The framework implies that annual recalculation can tax prevention, high-R² prediction can reduce welfare, and lagged claims anchors are useful only with gaming safeguards.</content>
+    <link href="https://www.nber.org/papers/w35325"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35324</id>
+    <title>The Female Sensitivity Hypothesis: Evidence From Experimental Economics</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Felipe Araujo, Neeraja Gupta &amp; Lise Vesterlund</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We assess the empirical evidence for the hypothesis that women more than men respond to changes in treatment. First, we examine whether the results of over two hundred experimental economics papers support the female sensitivity hypothesis. Second, using data from two studies (DellaVigna and Pope, 2022; Exley et al., 2025), we conduct over two hundred pairwise tests of the hypothesis. Both analyses show that gender is not predictive of responsiveness to treatment. We further examine how the hypothesis has been disseminated in the literature and find that it is referenced predominantly by papers that support it.</content>
+    <link href="https://www.nber.org/papers/w35324"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35330</id>
+    <title>Before the Exodus? Young Scientists and the Future of US Science</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pierre Azoulay, Raffaella Sadun &amp; Daniela Scur</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Shortly after major policy changes to US science funding began in early 2025, we surveyed 916 young biomedical scientists – PhD students and postdoctoral researchers – about their career intentions and expectations. The results document a dramatic shift in sentiment. Barely half of respondents now say they are likely to remain in academia, down 22 percentage points from how they felt six months earlier. The fraction likely to stay in the United States fell by 21 percentage points. Even satisfaction with having pursued a PhD in science declined by 16 percentage points. These are not the complaints of established scientists defending their budgets, but rather the stated intentions of the next generation – the scientists who would, in ordinary times, become the principal investigators of the future.</content>
+    <link href="https://www.nber.org/papers/w35330"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35329</id>
+    <title>Reconciling Micro Elasticities with the Macro Decline in Labor Supply</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Loukas Karabarbounis</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Micro estimates of the Marshallian elasticity of labor supply are small and typically positive, whereas cross-country and time-series patterns of hours imply a strong negative relationship between wages and hours. I reconcile these two apparently contradictory observations using a single utility specification and taking into account heterogeneity in non-labor income. Micro estimates condition on non-labor income, while macro variation allows capital income to adjust alongside labor income, which strengthens the income effect. A model with heterogeneous households and exogenous capital income yields closed-form expressions in which the distribution of the labor share shapes the gap between the micro and the macro elasticities. A cross-sectional regression of hours on wages that conditions on the labor share recovers the macro elasticity. A dynamic model with heterogeneous households and incomplete asset markets reproduces both elasticities as outcomes when disciplined by joint moments of wages, hours, consumption, and wealth. The income effects that bridge the gap between the two elasticities imply marginal propensities to earn that lie in the range of estimates of micro studies on lottery winners.</content>
+    <link href="https://www.nber.org/papers/w35329"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35328</id>
+    <title>Dollar Erosion: Understanding the Loss of Reserve Currency Status</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Zhengyang Jiang, Arvind Krishnamurthy, Hanno Lustig &amp; Robert J. Richmond</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We quantify the impact of the loss of reserve currency status in goods and asset markets. In goods markets, the loss of seigniorage (1% of GDP per annum) makes American households spend less, mostly on U.S. goods, leaving an excess supply of U.S. goods to be cleared by a real depreciation of the dollar. The larger the home bias and the lower the elasticity of substitution between home and foreign goods, the larger the required depreciation. Standard parameters imply an 8.8% real depreciation of the dollar. In asset markets, about 50% of GDP in dollar bonds must be reabsorbed by home investors, raising the U.S. real interest rate. Standard parameters imply a 90 basis points rise, leading to an aggregate wealth loss of roughly one year of U.S. GDP.</content>
+    <link href="https://www.nber.org/papers/w35328"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35327</id>
+    <title>'Nobody Wants to Work Anymore': Lifetime Labor Market Experiences and the Decline of Male LFP in the United States</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Remy Levin &amp; Daniela Vidart</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Male labor force participation has declined steadily for 50 years in the United States. We show that one cause has been changes in men's beliefs about the returns to work, shaped by lifetime experiences of the aggregate male labor market. We find that experience effects on participation persist for men who move across state lines, are stronger for same-race male experiences, and are driven by formative childhood years. We also document effects of experiences on direct measures of labor market expectations. Our findings suggest that experience effects can turn short-run declines in labor demand into long-run declines in labor supply.</content>
+    <link href="https://www.nber.org/papers/w35327"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35323</id>
+    <title>How Do Financial and Longevity Literacy Affect Annuity Demand?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jeffrey R. Brown</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deciding whether to use an annuity to draw down accumulated retirement wealth is among the most complex financial decisions individuals face. It requires reasoning about longevity risk, stochastic income streams, and largely irreversible tradeoffs, often at older ages and with limited opportunities to learn from experience. This paper reviews theoretical, empirical, and experimental research to examine how financial literacy and longevity literacy shape annuitization decisions. While some extensions of the standard lifecycle model can rationalize low annuity demand, their explanatory power depends on individuals’ ability to optimize over a set of complex risks and tradeoffs. Evidence shows that, although financial and longevity literacy are only weakly and inconsistently related to annuity take-up, they are strongly associated with retirement planning, the coherence of annuity valuations, and sensitivity to framing and choice architecture. These patterns suggest that literacy should be understood not as a direct determinant of annuity demand, but as a constraint on the extent to which observed annuitization behavior can be interpreted as revealing true preferences.</content>
+    <link href="https://www.nber.org/papers/w35323"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35322</id>
+    <title>Can Online Activity Be Regulated? Evidence from Adult Websites</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Matthew Brown, Emily J. Davis &amp; Devin G. Pope</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The consequences of online regulations depend on the extent to which users can circumvent restrictions or substitute toward noncompliant platforms. Since 2023, 25 U.S. states have implemented age verification laws that caused prominent adult websites (including Pornhub) to restrict local access for all users. We study how these restrictions affected browsing activity using individual-level panel data. Access restrictions reduced overall time spent on adult sites by roughly 10%. Specifically, for every 100 hours spent on top adult sites before restrictions, about 50 hours remained accessible at noncompliant sites that never restricted access, 30 hours persisted through VPN-based circumvention, 10 hours were substituted from compliant sites to noncompliant sites, and 10 hours were no longer spent on adult sites.</content>
+    <link href="https://www.nber.org/papers/w35322"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35320</id>
+    <title>Data-Driven Automation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Maryam Farboodi, Andrew J. Koh &amp; Anchi Xia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a dynamic model of data-driven automation in which data (i)  is  heterogeneous and task-specific; (ii) accumulates endogenously as a byproduct of economic activity; and (iii) exhibits spillovers such that data generated by one task can augment the productivity of another. Along the transition path of automation, data plays a dual role in simultaneously augmenting the productivity of already-automated tasks and expanding the automation frontier. We derive tight conditions for the economy to be partially versus fully automated in the long-run. In the latter case, automation exhibits rich short-run dynamics that depend on the pattern of data spillovers but is always slow in the long-run: the share of tasks produced by labor decays asymptotically as a power law in time. We show that the economy is generically inefficient and analyze how a planner optimally tilts the direction of data accumulation. With endogenous capital accumulation, data-driven automation generates explosive growth but stagnant long-run wages.</content>
+    <link href="https://www.nber.org/papers/w35320"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35321</id>
+    <title>Optimal Medical Liability for AI</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex Chan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
+    <link href="https://www.nber.org/papers/w35321"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35319</id>
+    <title>Beliefs and Actions under Government Policy Uncertainty: Evidence from Student Loan Forgiveness</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Dmitri K. Koustas, Michael Weber &amp; Constantine Yannelis</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How does uncertainty about future government policy affect households’ beliefs and subsequent borrowing, spending and debt payment behavior? We study these questions through the lens of student loan forgiveness in the United States, which following electoral promises, was announced in 2022 but never implemented due to judicial rulings. We conduct a customized information provision experiment embedded in a survey eliciting real-time beliefs about future debt forgiveness and repayment, which we link to credit bureau data, employment verification data, and nondurables consumption. Eligible borrowers who are more optimistic about forgiveness reduce payments on student loans by \$40 per month and increase non-durable spending by  $100 per month. We also find some evidence optimistic borrowers may postpone durable spending waiting for uncertainty to resolve. Borrowers  optimistic about future payment pauses make fewer payments on their student loans, reduce payment by $40 per month and are 7.5 percentage points more likely to be delinquent after payments resume. A quantification exercise finds welfare losses from incorrect beliefs can exceed 43 percent of the initial loan balance. Our results provide micro-evidence on the role of policy uncertainty in household decision-making, and have implications for government announcements and commitment policy.</content>
+    <link href="https://www.nber.org/papers/w35319"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35318</id>
+    <title>Sent Away: Displacement, Neighborhoods, and Children’s Outcomes under Slum Clearance Policies</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Fernanda Rojas-Ampuero &amp; Felipe Carrera</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the difference between two policies that target urban slums, relocation versus redevelopment on-site, on children’s future outcomes. We use evidence from a slum clearance program in Chile between 1979 and 1984, where two-thirds of slum-dwelling families were relocated to housing projects on the city’s periphery, and one-third received housing through on-site redevelopment at their original locations. We find that 40 years post-policy, displaced children receive 0.62 fewer years of schooling, earn 10.2% less, experience higher labor informality, and live in higher poverty areas compared to non-displaced children. Relocation to lower-opportunity areas and disruption of social networks explain the negative displacement effects.</content>
+    <link href="https://www.nber.org/papers/w35318"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35317</id>
+    <title>Air Pollution and Internal Migration in the United States</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Michael Keller, Christopher R. Knittel, Benjamin Krebs &amp; Simon Luechinger</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of PM₂.₅ pollution on migration between commuting zones in the United States from 2005-2019. To account for the correlation between origin and destination commuting zones’ pollution levels and potential endogeneity, we estimate a dyadic migration model and isolate permanent changes in origin and destination pollution emanating from distant coal-fired power plants. Annual panel and long-difference estimates indicate that air pollution plays a key role in relocation decisions. For the typical commuting zone, an isolated average 2005-2019 PM₂.₅ concentration decrease of 3.85 μg/m³ would avert out-migration and increase in-migration, totaling 2 percent of the population annually.</content>
+    <link href="https://www.nber.org/papers/w35317"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35316</id>
+    <title>Decomposing Shifts in the Beveridge Curve: Implications for Labor Market Dynamics and Inflation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Katharine G. Abraham, John C. Haltiwanger &amp; Lea E. Rendell</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores the relationship between standard labor market tightness (vacancies divided by unemployment) and generalized labor market tightness (vacancies divided by a measure of effective searchers that accounts for potential hires from all sources including those out of the labor force or currently employed). We show that much of what the standard model attributes to variation in matching efficiency reflects changes in the ratio of effective searchers to unemployment rather than changes in “true” matching efficiency. Generalized tightness outperforms standard tightness in Phillips curve equations, both in models with tightness entering linearly and in better-fitting models with tightness entering nonlinearly. In models that distinguish between movements in generalized tightness due to movements along the generalized Beveridge curve versus Beveridge curve shifts (reflecting changes in generalized matching efficiency and other factors), changes in tightness due to Beveridge curve shifts explain more of the variation in inflation.</content>
+    <link href="https://www.nber.org/papers/w35316"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -991,20 +1183,8 @@ Our main result is a complementarity between automation and repression. Unless t
     <author>
       <name>Panle Jia Barwick, Jack Collison, Pinelopi K. Goldberg, Shanjun Li &amp; Yucheng Wang</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the optimal design of trade and industrial policy when governments pursue environmental objectives alongside traditional welfare goals. Motivated by the global transition to electric vehicles (EVs) and growing concerns about competitiveness, energy security, and climate change, we develop a framework in which policymakers choose tariffs and domestic production subsidies to maximize welfare, defined as the sum of consumer surplus, domestic profits, environmental benefits, and tariff revenue. We combine a theoretical model of differentiated-product oligopoly with a structural demand model estimated using vehicle-level data from 13 countries that together account for the vast majority of global EV sales. Our central finding is that the optimal policy combines a moderate tariff on imported EVs with a subsidy to domestic EV production financed through tariff revenue. This policy substantially outperforms both outright protectionism and laissez-faire. Relative to current policies, it preserves consumer access to affordable EVs, accelerates fleet electrification, supports domestic producers, and remains budget-neutral. For the United States, the optimal policy more than doubles EV market share, generates over $45 billion in annual welfare gains, and avoids approximately 95 million tons of lifetime CO2 emissions. A key mechanism underlying these results is the pass-through of tariffs and subsidies to prices, which depends critically on demand curvature, product substitution, and market structure. More broadly, our results suggest that effective industrial policy requires careful attention to market structure and country-specific conditions, balancing consumer, producer, fiscal, and environmental objectives rather than adhering to ideological prescriptions.</content>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the optimal design of trade and industrial policy when governments pursue environmental objectives alongside traditional national welfare. Motivated by the global transition to electric vehicles (EVs) and growing concerns about competitiveness, resilience, and the environment, we develop a framework in which policymakers choose tariffs and domestic production subsidies to maximize national welfare, defined as the sum of consumer surplus, domestic profits, environmental benefits, and tariff revenue net of subsidies. We combine a theoretical model of differentiated-product oligopoly with a structural demand model estimated using vehicle-level data from 13 countries during 2004-2023 that together account for the vast majority of global EV sales. Our central finding is that the optimal policy combines a moderate tariff on imported EVs with a subsidy to domestic EV production financed through tariff revenue. This policy substantially outperforms both outright protectionism and laissez-faire. Relative to current policies, it preserves consumer access to affordable EVs, accelerates fleet electrification, supports domestic producers, and remains budget-neutral. For the United States, the optimal policy more than doubles EV market share, generates over $45 billion in annual welfare gains, and avoids approximately 95 million tons of lifetime CO2 emissions. A key mechanism underlying these results is the pass-through of tariffs and subsidies to prices, which depends critically on demand curvature, product substitution, and market structure. More broadly, our results suggest that effective industrial policy requires careful attention to market structure and country-specific conditions, balancing consumer, producer, fiscal, and environmental objectives rather than adhering to ideological prescriptions.</content>
     <link href="https://www.nber.org/papers/w35334"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35333</id>
-    <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>James M. Flynn, Caitlin K. Myers &amp; David R. Munro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of total abortion bans enacted after Dobbs v. Jackson Women's Health on sexual behavior.  Using synthetic and standard difference-in-differences designs, we analyze gonorrhea rates and over-the-counter contraceptive purchases as indicators of sexual activity and contraceptive use. We find that total abortion bans reduced gonorrhea rates by 21% among the population aged 15–44 and increased condom purchases by 5.4%. County-level analyses suggest the response reflects awareness of state policy rather than changes in travel distance to providers. These findings are consistent with a framework in which abortion restrictions increase the perceived cost of unprotected sex, inducing more cautious behavior.</content>
-    <link href="https://www.nber.org/papers/w35333"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1029,186 +1209,6 @@ Our main result is a complementarity between automation and repression. Unless t
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how the opioid epidemic shaped local population dynamics in the United States. Exploiting variation in exposure that stems from Purdue Pharma's targeted marketing of OxyContin to high-cancer-mortality areas, we find that more exposed commuting zones experienced lower population growth. By 2020, a one-standard-deviation increase in exposure reduced population growth among individuals aged 18 to 64 by 2.4 percentage points. Direct mortality from drug-induced deaths made only a limited contribution to these changes. Instead, population losses were primarily driven by migratory responses: exposure increased out-migration rates, especially among college-educated individuals. These responses are consistent with the opioid epidemic operating as a disamenity shock, deteriorating local quality of life. Working in the opposite direction, we also document a rise in fertility rates that, by 2020, partially counteracts these population losses. Our findings show that the opioid epidemic reshaped local demographic composition and contributed to the long-run divergence in population dynamics across U.S. commuting zones.</content>
     <link href="https://www.nber.org/papers/w35340"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35330</id>
-    <title>Before the Exodus? Young Scientists and the Future of US Science</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Pierre Azoulay, Raffaella Sadun &amp; Daniela Scur</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Shortly after major policy changes to US science funding began in early 2025, we surveyed 916 young biomedical scientists – PhD students and postdoctoral researchers – about their career intentions and expectations. The results document a dramatic shift in sentiment. Barely half of respondents now say they are likely to remain in academia, down 22 percentage points from how they felt six months earlier. The fraction likely to stay in the United States fell by 21 percentage points. Even satisfaction with having pursued a PhD in science declined by 16 percentage points. These are not the complaints of established scientists defending their budgets, but rather the stated intentions of the next generation – the scientists who would, in ordinary times, become the principal investigators of the future.</content>
-    <link href="https://www.nber.org/papers/w35330"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35329</id>
-    <title>Reconciling Micro Elasticities with the Macro Decline in Labor Supply</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Loukas Karabarbounis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Micro estimates of the Marshallian elasticity of labor supply are small and typically positive, whereas cross-country and time-series patterns of hours imply a strong negative relationship between wages and hours. I reconcile these two apparently contradictory observations using a single utility specification and taking into account heterogeneity in non-labor income. Micro estimates condition on non-labor income, while macro variation allows capital income to adjust alongside labor income, which strengthens the income effect. A model with heterogeneous households and exogenous capital income yields closed-form expressions in which the distribution of the labor share shapes the gap between the micro and the macro elasticities. A cross-sectional regression of hours on wages that conditions on the labor share recovers the macro elasticity. A dynamic model with heterogeneous households and incomplete asset markets reproduces both elasticities as outcomes when disciplined by joint moments of wages, hours, consumption, and wealth. The income effects that bridge the gap between the two elasticities imply marginal propensities to earn that lie in the range of estimates of micro studies on lottery winners.</content>
-    <link href="https://www.nber.org/papers/w35329"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35328</id>
-    <title>Dollar Erosion: Understanding the Loss of Reserve Currency Status</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Zhengyang Jiang, Arvind Krishnamurthy, Hanno Lustig &amp; Robert J. Richmond</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We quantify the impact of the loss of reserve currency status in goods and asset markets. In goods markets, the loss of seigniorage (1% of GDP per annum) makes American households spend less, mostly on U.S. goods, leaving an excess supply of U.S. goods to be cleared by a real depreciation of the dollar. The larger the home bias and the lower the elasticity of substitution between home and foreign goods, the larger the required depreciation. Standard parameters imply an 8.8% real depreciation of the dollar. In asset markets, about 50% of GDP in dollar bonds must be reabsorbed by home investors, raising the U.S. real interest rate. Standard parameters imply a 90 basis points rise, leading to an aggregate wealth loss of roughly one year of U.S. GDP.</content>
-    <link href="https://www.nber.org/papers/w35328"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35327</id>
-    <title>'Nobody Wants to Work Anymore': Lifetime Labor Market Experiences and the Decline of Male LFP in the United States</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Remy Levin &amp; Daniela Vidart</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Male labor force participation has declined steadily for 50 years in the United States. We show that one cause has been changes in men's beliefs about the returns to work, shaped by lifetime experiences of the aggregate male labor market. We find that experience effects on participation persist for men who move across state lines, are stronger for same-race male experiences, and are driven by formative childhood years. We also document effects of experiences on direct measures of labor market expectations. Our findings suggest that experience effects can turn short-run declines in labor demand into long-run declines in labor supply.</content>
-    <link href="https://www.nber.org/papers/w35327"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35326</id>
-    <title>A Cohort Perspective on Latin America's Fertility Transition</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Regina Calles &amp; Tom Vogl</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Latin America's momentous fertility transition is now in the domain of history, allowing a cohort perspective on the decline of completed fertility. Using census microdata from 17 Latin American countries, we track female birth cohorts from the 1920s to the 1970s by subnational region to document the extent to which cohort fertility decline coincided with other demographic and socioeconomic processes. Across cohorts within subnational regions, children ever born fell one-for-one with mortality decline. Expansions in urbanization, multigenerational living, women's and husbands' education, women's employment, and the non-agricultural sector all predicted declines in ever-born and surviving fertility, but women's education and sectoral composition were the dominant forces after covariate adjustment. Fertility decline was not systematically linked with improvements in children's outcomes, including school enrollment, literacy, primary completion, and non-employment. These cohort facts challenge theories of fertility decline centered on women's work and children's education but support others emphasizing women's education.</content>
-    <link href="https://www.nber.org/papers/w35326"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35325</id>
-    <title>Dynamic Risk Adjustment in Markets with Persistent Risk and Manipulable Signals: Market Design for Health Insurance</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Chan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Risk adjustment is a payment mechanism, not only a prediction problem. I extend optimal risk adjustment to dynamic insurance markets in which plans capture future residuals from persistent risk. Under an efficiency criterion, payments should reflect expected profits and losses over the enrollee relationship on margins plans control, not only one-year spending predictions. A finite-cell model separates selection, health production, and manipulable measurement. The framework implies that annual recalculation can tax prevention, high-R² prediction can reduce welfare, and lagged claims anchors are useful only with gaming safeguards.</content>
-    <link href="https://www.nber.org/papers/w35325"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35324</id>
-    <title>The Female Sensitivity Hypothesis: Evidence From Experimental Economics</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Felipe Araujo, Neeraja Gupta &amp; Lise Vesterlund</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We assess the empirical evidence for the hypothesis that women more than men respond to changes in treatment. First, we examine whether the results of over two hundred experimental economics papers support the female sensitivity hypothesis. Second, using data from two studies (DellaVigna and Pope, 2022; Exley et al., 2025), we conduct over two hundred pairwise tests of the hypothesis. Both analyses show that gender is not predictive of responsiveness to treatment. We further examine how the hypothesis has been disseminated in the literature and find that it is referenced predominantly by papers that support it.</content>
-    <link href="https://www.nber.org/papers/w35324"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35323</id>
-    <title>How Do Financial and Longevity Literacy Affect Annuity Demand?</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jeffrey R. Brown</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deciding whether to use an annuity to draw down accumulated retirement wealth is among the most complex financial decisions individuals face. It requires reasoning about longevity risk, stochastic income streams, and largely irreversible tradeoffs, often at older ages and with limited opportunities to learn from experience. This paper reviews theoretical, empirical, and experimental research to examine how financial literacy and longevity literacy shape annuitization decisions. While some extensions of the standard lifecycle model can rationalize low annuity demand, their explanatory power depends on individuals’ ability to optimize over a set of complex risks and tradeoffs. Evidence shows that, although financial and longevity literacy are only weakly and inconsistently related to annuity take-up, they are strongly associated with retirement planning, the coherence of annuity valuations, and sensitivity to framing and choice architecture. These patterns suggest that literacy should be understood not as a direct determinant of annuity demand, but as a constraint on the extent to which observed annuitization behavior can be interpreted as revealing true preferences.</content>
-    <link href="https://www.nber.org/papers/w35323"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35322</id>
-    <title>Can Online Activity Be Regulated? Evidence from Adult Websites</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matthew Brown, Emily J. Davis &amp; Devin G. Pope</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The consequences of online regulations depend on the extent to which users can circumvent restrictions or substitute toward noncompliant platforms. Since 2023, 25 U.S. states have implemented age verification laws that caused prominent adult websites (including Pornhub) to restrict local access for all users. We study how these restrictions affected browsing activity using individual-level panel data. Access restrictions reduced overall time spent on adult sites by roughly 10%. Specifically, for every 100 hours spent on top adult sites before restrictions, about 50 hours remained accessible at noncompliant sites that never restricted access, 30 hours persisted through VPN-based circumvention, 10 hours were substituted from compliant sites to noncompliant sites, and 10 hours were no longer spent on adult sites.</content>
-    <link href="https://www.nber.org/papers/w35322"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35320</id>
-    <title>Data-Driven Automation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Maryam Farboodi, Andrew J. Koh &amp; Anchi Xia</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a dynamic model of data-driven automation in which data (i)  is  heterogeneous and task-specific; (ii) accumulates endogenously as a byproduct of economic activity; and (iii) exhibits spillovers such that data generated by one task can augment the productivity of another. Along the transition path of automation, data plays a dual role in simultaneously augmenting the productivity of already-automated tasks and expanding the automation frontier. We derive tight conditions for the economy to be partially versus fully automated in the long-run. In the latter case, automation exhibits rich short-run dynamics that depend on the pattern of data spillovers but is always slow in the long-run: the share of tasks produced by labor decays asymptotically as a power law in time. We show that the economy is generically inefficient and analyze how a planner optimally tilts the direction of data accumulation. With endogenous capital accumulation, data-driven automation generates explosive growth but stagnant long-run wages.</content>
-    <link href="https://www.nber.org/papers/w35320"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35321</id>
-    <title>Optimal Medical Liability for AI</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Chan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
-    <link href="https://www.nber.org/papers/w35321"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35319</id>
-    <title>Beliefs and Actions under Government Policy Uncertainty: Evidence from Student Loan Forgiveness</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Dmitri K. Koustas, Michael Weber &amp; Constantine Yannelis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How does uncertainty about future government policy affect households’ beliefs and subsequent borrowing, spending and debt payment behavior? We study these questions through the lens of student loan forgiveness in the United States, which following electoral promises, was announced in 2022 but never implemented due to judicial rulings. We conduct a customized information provision experiment embedded in a survey eliciting real-time beliefs about future debt forgiveness and repayment, which we link to credit bureau data, employment verification data, and nondurables consumption. Eligible borrowers who are more optimistic about forgiveness reduce payments on student loans by \$40 per month and increase non-durable spending by  $100 per month. We also find some evidence optimistic borrowers may postpone durable spending waiting for uncertainty to resolve. Borrowers  optimistic about future payment pauses make fewer payments on their student loans, reduce payment by $40 per month and are 7.5 percentage points more likely to be delinquent after payments resume. A quantification exercise finds welfare losses from incorrect beliefs can exceed 43 percent of the initial loan balance. Our results provide micro-evidence on the role of policy uncertainty in household decision-making, and have implications for government announcements and commitment policy.</content>
-    <link href="https://www.nber.org/papers/w35319"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35318</id>
-    <title>Sent Away: Displacement, Neighborhoods, and Children’s Outcomes under Slum Clearance Policies</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Fernanda Rojas-Ampuero &amp; Felipe Carrera</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the difference between two policies that target urban slums, relocation versus redevelopment on-site, on children’s future outcomes. We use evidence from a slum clearance program in Chile between 1979 and 1984, where two-thirds of slum-dwelling families were relocated to housing projects on the city’s periphery, and one-third received housing through on-site redevelopment at their original locations. We find that 40 years post-policy, displaced children receive 0.62 fewer years of schooling, earn 10.2% less, experience higher labor informality, and live in higher poverty areas compared to non-displaced children. Relocation to lower-opportunity areas and disruption of social networks explain the negative displacement effects.</content>
-    <link href="https://www.nber.org/papers/w35318"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35317</id>
-    <title>Air Pollution and Internal Migration in the United States</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Michael Keller, Christopher R. Knittel, Benjamin Krebs &amp; Simon Luechinger</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of PM₂.₅ pollution on migration between commuting zones in the United States from 2005-2019. To account for the correlation between origin and destination commuting zones’ pollution levels and potential endogeneity, we estimate a dyadic migration model and isolate permanent changes in origin and destination pollution emanating from distant coal-fired power plants. Annual panel and long-difference estimates indicate that air pollution plays a key role in relocation decisions. For the typical commuting zone, an isolated average 2005-2019 PM₂.₅ concentration decrease of 3.85 μg/m³ would avert out-migration and increase in-migration, totaling 2 percent of the population annually.</content>
-    <link href="https://www.nber.org/papers/w35317"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35316</id>
-    <title>Decomposing Shifts in the Beveridge Curve: Implications for Labor Market Dynamics and Inflation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Katharine G. Abraham, John C. Haltiwanger &amp; Lea E. Rendell</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper explores the relationship between standard labor market tightness (vacancies divided by unemployment) and generalized labor market tightness (vacancies divided by a measure of effective searchers that accounts for potential hires from all sources including those out of the labor force or currently employed). We show that much of what the standard model attributes to variation in matching efficiency reflects changes in the ratio of effective searchers to unemployment rather than changes in “true” matching efficiency. Generalized tightness outperforms standard tightness in Phillips curve equations, both in models with tightness entering linearly and in better-fitting models with tightness entering nonlinearly. In models that distinguish between movements in generalized tightness due to movements along the generalized Beveridge curve versus Beveridge curve shifts (reflecting changes in generalized matching efficiency and other factors), changes in tightness due to Beveridge curve shifts explain more of the variation in inflation.</content>
-    <link href="https://www.nber.org/papers/w35316"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
