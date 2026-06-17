@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-16T18:38:11.599387+00:00</updated>
+  <updated>2026-06-17T12:50:08.670274+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -132,6 +132,18 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35266</id>
+    <title>The Missing Value of Data</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ankit Bhutani, Guillermo Ordoñez &amp; Laura Veldkamp</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data assets are increasingly vital in modern economies, yet macroeconomic measurement is not well-adapted to capturing their value. Part of the problem is that data is an intangible asset: investments in data are missed in national accounts, and depreciation losses are missed in firms’ balance sheets. Another part, unique to data, is that it serves as a means of payment in the modern economy: consumption bartered for data is also omitted from national accounts. We propose an output-based approach to measure the missing value of data. We treat data as an asset, measure its volume based on the quality of firms’ revenue forecasts, and endogenously determine its depreciation. We then capitalize the data value and explore what the measured GDP would be if the data were treated and transacted similarly to a physical asset. Our findings suggest that the aggregate value of data is about 1.5% of GDP.</content>
+    <link href="https://www.nber.org/papers/w35266"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35265</id>
     <title>Off the Labor Supply Curve: The Zero Employer Size Wage Effect Within Large Firms</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -176,6 +188,18 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build new data on startups in Africa to study which types of financing these firms demand, how financing is allocated in practice, and the implications for startup creation and the composition of the sector. We combine a continent-wide founder survey, an incentive-compatible experiment estimating financing preferences, and venture capital (VC) deal records matched to founders’ education and work histories. We find that startups strongly prefer equity over debt, but equity is supplied mainly by foreign investors and flows disproportionately to foreign-connected founders. About 80 percent of VC deals involve a foreign investor, and more than 60 percent of funded founders have studied or worked outside Africa. A simple accounting framework shows that this foreignness reflects three main forces: scarce local equity capital, a thin pool of local entrepreneurs able to access startup finance, and frictions limiting local entrepreneurs’ access to foreign investors. Together, these forces reduce startup creation and tilt the sector toward foreign investors and foreign-connected founders.</content>
     <link href="https://www.nber.org/papers/w35261"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35259</id>
+    <title>A Bayesian Critic for Frequentist Procedures</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
+    <link href="https://www.nber.org/papers/w35259"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -272,18 +296,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the growth and performance of AI-driven investing. Using investment advisers' regulatory disclosures, labor market data, and fund strategy descriptions, we document that AI-driven investing has grown steadily since the early 2010s and is concentrated among hedge funds. AI hedge funds outperformed non-AI hedge funds in the early years, but this outperformance declined over time, even among early adopters. Contrary to concerns about AI-driven strategy homogeneity, AI hedge funds exhibit lower return comovement than non-AI peers. Our findings highlight both the alpha-generating potential and the limitations of AI as a source of investment performance.</content>
     <link href="https://www.nber.org/papers/w35273"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35266</id>
-    <title>The Missing Value of Data</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ankit Bhutani, Guillermo Ordoñez &amp; Laura Veldkamp</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Data assets are increasingly vital in modern economies, yet macroeconomic measurement is not well-adapted to capturing their value. Part of the problem is that data is an intangible asset: investments in data are missed in national accounts, and depreciation losses are missed in firms’ balance sheets. Another part, unique to data, is that it serves as a means of payment in the modern economy: consumption bartered for data is also omitted from national accounts. We propose an output-based approach to measure the missing value of data. We treat data as an asset, measure its volume based on the quality of firms’ revenue forecasts, and endogenously determine its depreciation. We then capitalize the data value and explore what the measured GDP would be if the data were treated and transacted similarly to a physical asset. Our findings suggest that the aggregate value of data is about 1.5% of GDP.</content>
-    <link href="https://www.nber.org/papers/w35266"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -540,38 +552,26 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35259</id>
-    <title>A Bayesian Critic for Frequentist Procedures</title>
+    <id>https://www.nber.org/papers/w35313</id>
+    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
+      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
-    <link href="https://www.nber.org/papers/w35259"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
+    <link href="https://www.nber.org/papers/w35313"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35288</id>
-    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
+    <id>https://www.nber.org/papers/w35294</id>
+    <title>Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
+      <name>Alex Bell, Sophie Calder-Wang &amp; Shusheng Zhong</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
-    <link href="https://www.nber.org/papers/w35288"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a correctly signed implicit price of air pollution that is in line with quasi-experimental benchmarks.</content>
+    <link href="https://www.nber.org/papers/w35294"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -644,18 +644,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Workers sometimes enjoy productive tasks and voluntarily devote unpaid time to them. We study O-ring jobs in which firms can either price a complete task bundle or specify paid task floors while workers remain free to add time. For any allocation supported by both hourly contracts, the wage bill is identical: voluntary top-up is not a discount. The contracts differ because paid floors cannot cap attractive tasks below the worker's voluntary supply. This implementability constraint adds a containment motive for automation alongside replacement and scale effects. It also makes payroll measures incomplete: conditional on a common automated set and a common AI technology, jobs with the same payroll footprint can differ in worked time and task mix. Rich salaried bundle pricing removes the hourly-contract distortion.</content>
     <link href="https://www.nber.org/papers/w35309"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35313</id>
-    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
-    <link href="https://www.nber.org/papers/w35313"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -780,18 +768,6 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35294</id>
-    <title>Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Bell, Sophie Calder-Wang &amp; Shusheng Zhong</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a correctly signed implicit price of air pollution that is in line with quasi-experimental benchmarks.</content>
-    <link href="https://www.nber.org/papers/w35294"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35293</id>
     <title>The Effect of Height on Adolescents' Body Image Perceptions and Behaviors</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -876,50 +852,26 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35333</id>
-    <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
+    <id>https://www.nber.org/papers/w35288</id>
+    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>James M. Flynn, David R. Munro &amp; Caitlin K. Myers</name>
+      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of total abortion bans enacted after Dobbs v. Jackson Women's Health on sexual behavior.  Using synthetic and standard difference-in-differences designs, we analyze gonorrhea rates and over-the-counter contraceptive purchases as indicators of sexual activity and contraceptive use. We find that total abortion bans reduced gonorrhea rates by 21% among the population aged 15–44 and increased condom purchases by 5.4%. County-level analyses suggest the response reflects awareness of state policy rather than changes in travel distance to providers. These findings are consistent with a framework in which abortion restrictions increase the perceived cost of unprotected sex, inducing more cautious behavior.</content>
-    <link href="https://www.nber.org/papers/w35333"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
+    <link href="https://www.nber.org/papers/w35288"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35326</id>
-    <title>A Cohort Perspective on Latin America's Fertility Transition</title>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Regina Calles &amp; Tom Vogl</name>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Latin America's momentous fertility transition is now in the domain of history, allowing a cohort perspective on the decline of completed fertility. Using census microdata from 17 Latin American countries, we track female birth cohorts from the 1920s to the 1970s by subnational region to document the extent to which cohort fertility decline coincided with other demographic and socioeconomic processes. Across cohorts within subnational regions, children ever born fell one-for-one with mortality decline. Expansions in urbanization, multigenerational living, women's and husbands' education, women's employment, and the non-agricultural sector all predicted declines in ever-born and surviving fertility, but women's education and sectoral composition were the dominant forces after covariate adjustment. Fertility decline was not systematically linked with improvements in children's outcomes, including school enrollment, literacy, primary completion, and non-employment. These cohort facts challenge theories of fertility decline centered on women's work and children's education but support others emphasizing women's education.</content>
-    <link href="https://www.nber.org/papers/w35326"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35325</id>
-    <title>Dynamic Risk Adjustment in Markets with Persistent Risk and Manipulable Signals: Market Design for Health Insurance</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Chan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Risk adjustment is a payment mechanism, not only a prediction problem. I extend optimal risk adjustment to dynamic insurance markets in which plans capture future residuals from persistent risk. Under an efficiency criterion, payments should reflect expected profits and losses over the enrollee relationship on margins plans control, not only one-year spending predictions. A finite-cell model separates selection, health production, and manipulable measurement. The framework implies that annual recalculation can tax prevention, high-R² prediction can reduce welfare, and lagged claims anchors are useful only with gaming safeguards.</content>
-    <link href="https://www.nber.org/papers/w35325"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35324</id>
-    <title>The Female Sensitivity Hypothesis: Evidence From Experimental Economics</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Felipe Araujo, Neeraja Gupta &amp; Lise Vesterlund</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We assess the empirical evidence for the hypothesis that women more than men respond to changes in treatment. First, we examine whether the results of over two hundred experimental economics papers support the female sensitivity hypothesis. Second, using data from two studies (DellaVigna and Pope, 2022; Exley et al., 2025), we conduct over two hundred pairwise tests of the hypothesis. Both analyses show that gender is not predictive of responsiveness to treatment. We further examine how the hypothesis has been disseminated in the literature and find that it is referenced predominantly by papers that support it.</content>
-    <link href="https://www.nber.org/papers/w35324"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -944,6 +896,30 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The consequences of online regulations depend on the extent to which users can circumvent restrictions or substitute toward noncompliant platforms. Since 2023, 25 U.S. states have implemented age verification laws that caused prominent adult websites (including Pornhub) to restrict local access for all users. We study how these restrictions affected browsing activity using individual-level panel data. Access restrictions reduced overall time spent on adult sites by roughly 10%. Specifically, for every 100 hours spent on top adult sites before restrictions, about 50 hours remained accessible at noncompliant sites that never restricted access, 30 hours persisted through VPN-based circumvention, 10 hours were substituted from compliant sites to noncompliant sites, and 10 hours were no longer spent on adult sites.</content>
     <link href="https://www.nber.org/papers/w35322"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35320</id>
+    <title>Data-Driven Automation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Maryam Farboodi, Andrew J. Koh &amp; Anchi Xia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a dynamic model of data-driven automation in which data (i)  is  heterogeneous and task-specific; (ii) accumulates endogenously as a byproduct of economic activity; and (iii) exhibits spillovers such that data generated by one task can augment the productivity of another. Along the transition path of automation, data plays a dual role in simultaneously augmenting the productivity of already-automated tasks and expanding the automation frontier. We derive tight conditions for the economy to be partially versus fully automated in the long-run. In the latter case, automation exhibits rich short-run dynamics that depend on the pattern of data spillovers but is always slow in the long-run: the share of tasks produced by labor decays asymptotically as a power law in time. We show that the economy is generically inefficient and analyze how a planner optimally tilts the direction of data accumulation. With endogenous capital accumulation, data-driven automation generates explosive growth but stagnant long-run wages.</content>
+    <link href="https://www.nber.org/papers/w35320"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35321</id>
+    <title>Optimal Medical Liability for AI</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex Chan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
+    <link href="https://www.nber.org/papers/w35321"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -996,26 +972,38 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35320</id>
-    <title>Data-Driven Automation</title>
+    <id>https://www.nber.org/papers/w35326</id>
+    <title>A Cohort Perspective on Latin America's Fertility Transition</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Maryam Farboodi, Andrew J. Koh &amp; Anchi Xia</name>
+      <name>Regina Calles &amp; Tom Vogl</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a dynamic model of data-driven automation in which data (i)  is  heterogeneous and task-specific; (ii) accumulates endogenously as a byproduct of economic activity; and (iii) exhibits spillovers such that data generated by one task can augment the productivity of another. Along the transition path of automation, data plays a dual role in simultaneously augmenting the productivity of already-automated tasks and expanding the automation frontier. We derive tight conditions for the economy to be partially versus fully automated in the long-run. In the latter case, automation exhibits rich short-run dynamics that depend on the pattern of data spillovers but is always slow in the long-run: the share of tasks produced by labor decays asymptotically as a power law in time. We show that the economy is generically inefficient and analyze how a planner optimally tilts the direction of data accumulation. With endogenous capital accumulation, data-driven automation generates explosive growth but stagnant long-run wages.</content>
-    <link href="https://www.nber.org/papers/w35320"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Latin America's momentous fertility transition is now in the domain of history, allowing a cohort perspective on the decline of completed fertility. Using census microdata from 17 Latin American countries, we track female birth cohorts from the 1920s to the 1970s by subnational region to document the extent to which cohort fertility decline coincided with other demographic and socioeconomic processes. Across cohorts within subnational regions, children ever born fell one-for-one with mortality decline. Expansions in urbanization, multigenerational living, women's and husbands' education, women's employment, and the non-agricultural sector all predicted declines in ever-born and surviving fertility, but women's education and sectoral composition were the dominant forces after covariate adjustment. Fertility decline was not systematically linked with improvements in children's outcomes, including school enrollment, literacy, primary completion, and non-employment. These cohort facts challenge theories of fertility decline centered on women's work and children's education but support others emphasizing women's education.</content>
+    <link href="https://www.nber.org/papers/w35326"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35321</id>
-    <title>Optimal Medical Liability for AI</title>
+    <id>https://www.nber.org/papers/w35325</id>
+    <title>Dynamic Risk Adjustment in Markets with Persistent Risk and Manipulable Signals: Market Design for Health Insurance</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
       <name>Alex Chan</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
-    <link href="https://www.nber.org/papers/w35321"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Risk adjustment is a payment mechanism, not only a prediction problem. I extend optimal risk adjustment to dynamic insurance markets in which plans capture future residuals from persistent risk. Under an efficiency criterion, payments should reflect expected profits and losses over the enrollee relationship on margins plans control, not only one-year spending predictions. A finite-cell model separates selection, health production, and manipulable measurement. The framework implies that annual recalculation can tax prevention, high-R² prediction can reduce welfare, and lagged claims anchors are useful only with gaming safeguards.</content>
+    <link href="https://www.nber.org/papers/w35325"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35324</id>
+    <title>The Female Sensitivity Hypothesis: Evidence From Experimental Economics</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Felipe Araujo, Neeraja Gupta &amp; Lise Vesterlund</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We assess the empirical evidence for the hypothesis that women more than men respond to changes in treatment. First, we examine whether the results of over two hundred experimental economics papers support the female sensitivity hypothesis. Second, using data from two studies (DellaVigna and Pope, 2022; Exley et al., 2025), we conduct over two hundred pairwise tests of the hypothesis. Both analyses show that gender is not predictive of responsiveness to treatment. We further examine how the hypothesis has been disseminated in the literature and find that it is referenced predominantly by papers that support it.</content>
+    <link href="https://www.nber.org/papers/w35324"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1185,6 +1173,18 @@ Our main result is a complementarity between automation and repression. Unless t
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the optimal design of trade and industrial policy when governments pursue environmental objectives alongside traditional national welfare. Motivated by the global transition to electric vehicles (EVs) and growing concerns about competitiveness, resilience, and the environment, we develop a framework in which policymakers choose tariffs and domestic production subsidies to maximize national welfare, defined as the sum of consumer surplus, domestic profits, environmental benefits, and tariff revenue net of subsidies. We combine a theoretical model of differentiated-product oligopoly with a structural demand model estimated using vehicle-level data from 13 countries during 2004-2023 that together account for the vast majority of global EV sales. Our central finding is that the optimal policy combines a moderate tariff on imported EVs with a subsidy to domestic EV production financed through tariff revenue. This policy substantially outperforms both outright protectionism and laissez-faire. Relative to current policies, it preserves consumer access to affordable EVs, accelerates fleet electrification, supports domestic producers, and remains budget-neutral. For the United States, the optimal policy more than doubles EV market share, generates over $45 billion in annual welfare gains, and avoids approximately 95 million tons of lifetime CO2 emissions. A key mechanism underlying these results is the pass-through of tariffs and subsidies to prices, which depends critically on demand curvature, product substitution, and market structure. More broadly, our results suggest that effective industrial policy requires careful attention to market structure and country-specific conditions, balancing consumer, producer, fiscal, and environmental objectives rather than adhering to ideological prescriptions.</content>
     <link href="https://www.nber.org/papers/w35334"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35333</id>
+    <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>James M. Flynn, David R. Munro &amp; Caitlin K. Myers</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of total abortion bans enacted after Dobbs v. Jackson Women's Health on sexual behavior.  Using synthetic and standard difference-in-differences designs, we analyze gonorrhea rates and over-the-counter contraceptive purchases as indicators of sexual activity and contraceptive use. We find that total abortion bans reduced gonorrhea rates by 21% among the population aged 15–44 and increased condom purchases by 5.4%. County-level analyses suggest the response reflects awareness of state policy rather than changes in travel distance to providers. These findings are consistent with a framework in which abortion restrictions increase the perceived cost of unprotected sex, inducing more cautious behavior.</content>
+    <link href="https://www.nber.org/papers/w35333"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
