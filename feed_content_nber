@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-18T12:49:12.274530+00:00</updated>
+  <updated>2026-06-19T14:07:22.516638+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -132,6 +132,18 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-05-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35268</id>
+    <title>An Unfunded Mandate? Medicaid Continuous Coverage Requirements and State Fiscal Burdens During COVID-19</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jeffrey Clemens &amp; Anwita Mahajan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;At the COVID-19 pandemic's onset, the federal government enacted substantial changes impacting both the revenues and expenditures connected to states' Medicaid programs through a pair of provisions in the March 2020 Families First Coronavirus Response Act. These included a 6.2 percentage point increase in states' Federal Medical Assistance Percentages (FMAP), which raised states' revenues, contingent on adherence to a continuous coverage requirement. The latter provision raised expenditures by preventing the disenrollment of individuals whose eligibility would otherwise have lapsed due to changes in income or other eligibility-relevant circumstances. While these provisions were ex-ante expected to result in expenditures and costs of similar magnitudes, the ex-post realizations remain unquantified. Nationwide, we estimate that states’ share of the continuous coverage provision's costs was $139.2 billion, which is roughly $11.0 billion less than the revenues states received, in aggregate, through increased FMAPs. Revenues and costs varied substantially across states, however, with costs exceeding revenues by as much as $594 per capita, and revenues exceeding costs by as much as $838 per capita. The baseline parameters governing the federal government's share of states' Medicaid expenditures  emerge as a key driver of the extent to which the continuous coverage requirement can be viewed as an unfunded federal mandate.</content>
+    <link href="https://www.nber.org/papers/w35268"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35267</id>
     <title>Persistent Effects of Early Academic Rank on Cognitive and Noncognitive Outcomes</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -204,18 +216,6 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35259</id>
-    <title>A Bayesian Critic for Frequentist Procedures</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
-    <link href="https://www.nber.org/papers/w35259"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35271</id>
     <title>Beyond Exposure: Predicting AI Adoption Based on Comparative Advantage</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -272,18 +272,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;One way to measure the efficiency of the Affordable Care Act (ACA) is the extent to which gains in publicly supported health insurance reduced uninsured rates. Using data from the 2008–2024 American Community Survey, we examine time trends in rates of uninsured, public insurance coverage, and employer-sponsored insurance (ESI) by groups defined by the ratio of income to the Federal Poverty Line (FPL). We obtain estimates of associations between changes in public coverage and changes in uninsured and ESI exploiting state-by-year variation in ACA implementation. Importantly, we estimate the total effect of the ACA—including both the Medicaid expansion and Marketplace coverage—on uninsured and ESI rates. For adults in households below 150% of the federal poverty level (FPL), increases in public insurance coverage were associated with one-for-one decrease in uninsured and no change in ESI. For adults with incomes between 151%–400% FPL, each percentage point increase in public coverage was associated with about a 0.6 percentage point decrease in uninsured and a 0.4 decrease, or crowd out, in ESI. Crowd-out was larger among groups with higher pre-ACA ESI rates such as parents and married adults. Using variation from the Medicaid expansion alone to evaluate the ACA’s effect on ESI leads to overstating crowd-out among low-income adults (below 150% FPL) and understating crowd-out among higher-income adults (above 250% FPL). Our findings suggest that policies intended to subsidize health insurance of higher income groups, for example, the enhanced premium subsidies, are far less efficient than policies intended to further expand public insurance to low-income groups, for example, in non-expansion states.</content>
     <link href="https://www.nber.org/papers/w35263"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35268</id>
-    <title>An Unfunded Mandate? Medicaid Continuous Coverage Requirements and State Fiscal Burdens During COVID-19</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jeffrey Clemens &amp; Anwita Mahajan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;At the COVID-19 pandemic's onset, the federal government enacted substantial changes impacting both the revenues and expenditures connected to states' Medicaid programs through a pair of provisions in the March 2020 Families First Coronavirus Response Act. These included a 6.2 percentage point increase in states' Federal Medical Assistance Percentages (FMAP), which raised states' revenues, contingent on adherence to a continuous coverage requirement. The latter provision raised expenditures by preventing the disenrollment of individuals whose eligibility would otherwise have lapsed due to changes in income or other eligibility-relevant circumstances. While these provisions were ex-ante expected to result in expenditures and costs of similar magnitudes, the ex-post realizations remain unquantified. Nationwide, we estimate that states’ share of the continuous coverage provision's costs was $139.2 billion, which is roughly $11.0 billion less than the revenues states received, in aggregate, through increased FMAPs. Revenues and costs varied substantially across states, however, with costs exceeding revenues by as much as $594 per capita, and revenues exceeding costs by as much as $838 per capita. The baseline parameters governing the federal government's share of states' Medicaid expenditures  emerge as a key driver of the extent to which the continuous coverage requirement can be viewed as an unfunded federal mandate.</content>
-    <link href="https://www.nber.org/papers/w35268"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -552,6 +540,18 @@ The paper reframes testing as a problem of informational design: tests should be
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35259</id>
+    <title>A Bayesian Critic for Frequentist Procedures</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
+    <link href="https://www.nber.org/papers/w35259"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35313</id>
     <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -572,6 +572,30 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a correctly signed implicit price of air pollution that is in line with quasi-experimental benchmarks.</content>
     <link href="https://www.nber.org/papers/w35294"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35288</id>
+    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
+    <link href="https://www.nber.org/papers/w35288"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -848,30 +872,6 @@ The paper reframes testing as a problem of informational design: tests should be
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conduct a meta-analysis of 82 randomized controlled trials across more than 20 countries to estimate the effects of low-cost, remote parental engagement interventions delivered through text messages, phone calls, and apps. We estimate a joint likelihood function that incorporates both written studies and unwritten studies identified through trial registries, funder records, research labs, evidence clearinghouses, and other sources. By also recording sample sizes for unwritten studies, the model estimates the distribution of standard errors, identifies write-up probabilities conditional on significance, and characterizes the file drawer by estimating effect distributions for written and unwritten studies. Bias-corrected effects are 0.05 SD for test scores, 0.07 SD for grades, 0.05 SD for attendance, and 0.03 SD for enrollment. In the best-identified domain, test scores, statistically insignificant results are still written up at high rates. We also find that larger studies tend to estimate smaller latent effects, which could indicate that true effects are correlated with study precision, violating a common meta-analysis assumption. In smaller-sample domains, our approach helps identify selection probabilities by anchoring the absolute write-up rates. Finally, we estimate the value of additional RCTs to inform adoption decisions. Any single study estimate is unlikely to dissuade adoption because parent interventions have high marginal value of public funds. Instead, future research is most valuable when it can explain heterogeneity across settings.</content>
     <link href="https://www.nber.org/papers/w35299"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35288</id>
-    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
-    <link href="https://www.nber.org/papers/w35288"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
