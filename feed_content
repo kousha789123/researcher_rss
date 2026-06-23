@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-06-22T13:00:03.782735+00:00</updated>
+  <updated>2026-06-23T13:08:52.917079+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -269,18 +269,6 @@
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.01348</id>
-    <title>Fast and Simple Adaptive Elicitations</title>
-    <updated>2026-06-12T00:00:00+00:00</updated>
-    <author>
-      <name>Nicolò Bertani, Enrico Diecidue, Patrice Perny, Paolo Viappiani</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a new Fast and Simple Elicitation procedure (FSE) for the measurement of decision models. Our procedure bounds the function of the decision model, iteratively halves the maximal distance between the bounds, and incrementally restricts the feasible space of associated parameters. It requires no distributional assumptions and relies on linear programming and approximating splines, improving tractability and descriptiveness. We apply FSE to elicit the probability weighting function in three studies: a simulation and two experiments. Our results demonstrate FSE’s ability to faithfully recover the function. Both in the laboratory and online, FSE reflects the choices made by a respondent more precisely than alternative elicitation procedures and standard functional forms. Importantly, FSE also predicts the out-of-sample choices of a representative online sample more accurately than its alternatives. Taken together, our results shed new light on the prevalence of possibility and certainty effects, and convey general implications for experimental modeling and design.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported by INSEAD R&amp;D and by a grant from Sorbonne University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01348 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.01348"/>
-    <category term="Management Science"/>
-    <published>2026-06-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.07033</id>
     <title>Decentralized Autonomous Organization Governance</title>
     <updated>2026-06-12T00:00:00+00:00</updated>
@@ -289,6 +277,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Decentralized autonomous organizations (DAOs) are entities without central leadership and operate based on a set of decision-making rules encoded into smart contracts using blockchain technology. In this study, we develop a theoretical model of DAO governance featuring strategic token trading under token-based voting to investigate potential conflicts of interest between a large participant (a “whale”) and many small participants. Our results show that ownership concentration has a negative effect on platform growth, but platform size, token illiquidity, and long-term incentives can mitigate this negative effect. We confirm these predictions using novel voting data on major DAOs from 2020 and 2024.This paper has been accepted by Lin William Cong for the Virtual Special Issue on Digital Finance.Funding: J. Han and J. Lee received financial support from the Institute of Management Research at Seoul National University.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.07033 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.07033"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01348</id>
+    <title>Fast and Simple Adaptive Elicitations</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Nicolò Bertani, Enrico Diecidue, Patrice Perny, Paolo Viappiani</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a new Fast and Simple Elicitation procedure (FSE) for the measurement of decision models. Our procedure bounds the function of the decision model, iteratively halves the maximal distance between the bounds, and incrementally restricts the feasible space of associated parameters. It requires no distributional assumptions and relies on linear programming and approximating splines, improving tractability and descriptiveness. We apply FSE to elicit the probability weighting function in three studies: a simulation and two experiments. Our results demonstrate FSE’s ability to faithfully recover the function. Both in the laboratory and online, FSE reflects the choices made by a respondent more precisely than alternative elicitation procedures and standard functional forms. Importantly, FSE also predicts the out-of-sample choices of a representative online sample more accurately than its alternatives. Taken together, our results shed new light on the prevalence of possibility and certainty effects, and convey general implications for experimental modeling and design.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported by INSEAD R&amp;D and by a grant from Sorbonne University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01348 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01348"/>
     <category term="Management Science"/>
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
@@ -511,18 +511,6 @@
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2024.1175</id>
-    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <author>
-      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1175"/>
-    <category term="Information Systems Research"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2023.0556</id>
     <title>Making the Crowd Wiser: (Re)Combination Through Teaming in Crowdsourcing</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
@@ -531,6 +519,18 @@
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Open innovation and crowdsourcing have become standard tools for governments, foundations, and firms seeking solutions to hard problems. The implicit assumption is that more participation and more collaboration produce better outcomes. This research complicates that picture. Using agent-based simulation calibrated against one of the world’s largest crowdsourcing platforms, we show that spontaneous team formation during contests trades off parallel exploration for collaborative depth and that this tradeoff is not always favorable. For simple, well-defined problems, enabling teaming at the right moment improves the odds of finding the best solution. For complex, interdependent problems, precisely the kind that public innovation challenges tend to target, poorly timed or signal-driven teaming can suppress the diversity of search and reduce the likelihood of breakthrough outcomes. Policymakers designing grand challenge competitions, innovation prizes, or open problem-solving initiatives should attend carefully to the structural features of their platforms: what information is made visible, when teaming is permitted, and how incentives interact with collaboration norms. The design of the information environment is not neutral; it shapes who collaborates with whom, and ultimately whether the crowd delivers on its promise.</content>
     <link href="https://doi.org/10.1287/isre.2023.0556"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1175</id>
+    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1175"/>
     <category term="Information Systems Research"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
@@ -563,7 +563,7 @@
     <title>Securing Personal Space in the Crowd: Physical Crowdedness and Organic Mobile Usage</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
     <author>
-      <name>Xiaoni Lu, Siliang Tong, Hyeokkoo Eric Kwon, Xi Zhao, Hsing Kenneth Cheng</name>
+      <name>Xiaoni Lu, Hyeokkoo Eric Kwon, Siliang (Jack) Tong, Xi Zhao, Hsing Kenneth Cheng</name>
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Public transit is a major setting in which individuals spend time on smartphones, yet relatively little is known about how contextual factors in transit environments are associated with mobile usage. In this study, we examine how physical crowdedness is related to organic (self-initiated) smartphone use and how this relationship varies across usage types, individuals, and contexts. We draw on Personal Space Invasion Theory (PSIT) as a conceptual lens to organize potential behavioral responses to crowded environments, emphasizing a sequence involving arousal, attribution, and compensatory behavior. Using detailed mobile usage data from over 200,000 individuals commuting on a major subway system in Qingdao, China, we document systematic associations between crowdedness and organic mobile usage. In particular, crowdedness is positively associated with overall usage, with stronger relationships for social functionalities, among users with shorter prior trips, during off-peak periods, and when individuals are surrounded by different-age groups. To complement the observational analysis, we conduct an online survey with a randomized design, which provides supportive evidence on how crowded environments are perceived and how such perceptions are associated with usage intentions. By shifting the focus from promotion-induced behavior to organic mobile usage, this study provides new empirical evidence on how everyday environmental conditions are associated with digital engagement, and highlights rich heterogeneity in these relationships across contexts.</content>
     <link href="https://doi.org/10.1287/isre.2023.0233"/>
@@ -895,6 +895,18 @@
     <published>2026-06-18T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/rfs/hhag013</id>
+    <title>Can Discount Window Stigma Be Cured? An Experimental Investigation</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Olivier Armantier, Charles Holt</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience. (JEL E58, G01, C92)</content>
+    <link href="https://doi.org/10.1093/rfs/hhag013"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/restud/rdag065</id>
     <title>School Choice and the Housing Market</title>
     <updated>2026-06-19T00:00:00+00:00</updated>
@@ -1075,88 +1087,88 @@
     <published>2026-06-19T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/rfs/hhag052</id>
-    <title>The Real Effect of Sociopolitical Racial/Ethnic Animus: Mutual Fund Manager Performance during AAPI Hate</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/qje/qjag031</id>
+    <title>What Jobs Come to Mind? Stereotypes About Fields of Study</title>
+    <updated>2026-06-22T00:00:00+00:00</updated>
     <author>
-      <name>Vikas Agarwal, Wei Jiang, Yuchen Luo, Hong Zou</name>
+      <name>John J Conlon, Dev Patel</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;During the 2020–2021 “AAPI Hate,” mutual funds led by female managers perceived as East Asian underperformed relative to other female managers. This effect is stronger in states with higher anti-Asian animus, among more actively managed funds, and when these managers hold sole or senior roles. Factors concurrent with COVID-19, including childcare challenges, concerns for overseas families, marketplace and workplace discrimination, and exposure to the Chinese economy, cannot explain the effect. Underperformance is traceable to poor stock picking due to impairments in generating private information. Racial-ethnic animosity, even outside workplace or marketplace, hinders productivity and decision-making in high-skill professions.</content>
-    <link href="https://doi.org/10.1093/rfs/hhag052"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We test for stereotyping—the exaggeration of representative traits—in a high-stakes economic environment. Using both surveys administered among undergraduates at the Ohio State University and large-scale nationally representative data, we measure how US freshmen perceive the relationship between college majors and occupations. We show that students greatly overestimate the likelihood that majors lead to their representative jobs (e.g., counselor for psychology, journalist for journalism). Using an implicit association test, we show that students associate majors with their representative careers and that these associations strongly predict belief biases, in line with a stereotyping mechanism. A simple equilibrium model of the labor market predicts that stereotyping reduces welfare by increasing misallocation, which correlational evidence on job/major mismatch corroborates. In a field experiment, we test a light-touch policy to reduce stereotyping and find significant effects on students’ intentions about what to study as well as the classes and majors they enroll in.</content>
+    <link href="https://doi.org/10.1093/qje/qjag031"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2026-06-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19974</id>
-    <title>Shareholder Activism and Corporate Political Activity: A Governance Systems Perspective</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/opre.2025.1936</id>
+    <title>Online Selection with Uncertain Disruption</title>
+    <updated>2026-06-22T00:00:00+00:00</updated>
     <author>
-      <name>Mark R. DesJardine, Wei Shi, Zhihui Sun</name>
+      <name>Yihua Xu, Süleyman Kerimov, Sebastian Perez-Salazar</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Research documents that firms targeted by financially motivated shareholder activists often reduce spending in areas with uncertain or delayed payoffs. Yet, it is unclear whether this pattern extends to corporate political activity (CPA), particularly lobbying—an investment that is relatively inexpensive and can generate substantial benefits in the short run. We investigate how governance conditions shape the influence of block-holding activism on firm lobbying expenditures. Drawing on an emerging systems perspective on shareholder activism, we theorize how boards (as capability providers) and nonactivist shareholders (as sources of support) shape firms’ lobbying behavior amid shareholder activism. Using panel data on 4,991 U.S. public firms, we find that the influence of block-holding activism on lobbying depends on the governance context; firms with more political directors and greater ownership by lobbying-active shareholders sustain their lobbying following activism, whereas firms without these governance features reduce it. The influence of political directors is amplified when they have greater bandwidth, and the influence of lobbying-active shareholders is strengthened when they have held their positions longer. Our study contributes to CPA research by demonstrating that governance systems determine how activism shapes firms’ political strategies and extends the systems perspective on activism into nonmarket domains of strategy.Funding: M. R. DesJardine acknowledges research support from The Wharton School’s Impact, Value, and Sustainable Business Initiative. W. Shi acknowledges financial support from the University of Miami Provost Research Award. Z. Sun acknowledges financial support from the National Natural Science Foundation of China [Grant 72502157] as well as the Humanities and Social Science Foundation of the Ministry of Education of China [Grant 24YJC630189].Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19974 .</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19974"/>
-    <category term="Organization Science"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Online Selection with Uncertain DisruptionMany digital and service platforms must decide whether to accept a current request or wait for a potentially better one. This trade-off becomes more challenging when serving a request may unexpectedly disrupt future operations. In the paper “Online Selection with Uncertain Disruption,” Yihua Xu, Süleyman Kerimov, and Sebastian Perez-Salazar introduce a model for such settings, where a decision maker observes values sequentially and each accepted value may trigger a disruption that stops the process. The paper develops simple threshold-based algorithms and evaluates them through competitive analysis against a clairvoyant benchmark that knows all values but still faces disruption uncertainty. The authors show that a nonadaptive single-threshold algorithm achieves the tight competitive ratio [Formula: see text], whereas adaptive threshold policies improve the asymptotic guarantee to approximately 0.745. The results connect disruption-aware online selection with classical prophet inequalities and quantify the value of adaptivity under operational uncertainty.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1936"/>
+    <category term="Operations Research"/>
+    <published>2026-06-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07804</id>
-    <title>Selecting and Testing Asset-Pricing Models: A Stepwise Approach</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/mnsc.2024.04778</id>
+    <title>The Spillover Effect of Social Capital Along the Supply Chain: Evidence from the Cost of Debt</title>
+    <updated>2026-06-22T00:00:00+00:00</updated>
     <author>
-      <name>Guanhao Feng, Wei Lan, Hansheng Wang, Jun Zhang</name>
+      <name>Yuyan Guan, Xing Li, Gerald J. Lobo, Haibin Wu</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The asset-pricing literature emphasizes factor models that minimize pricing errors but overlooks unselected candidate factors that could enhance the performance of test assets. This paper proposes a framework for factor model selection and testing by (i) selecting the optimal model that spans the joint efficient frontier of test assets and all candidate factors and (ii) testing pricing performance on both test assets and unselected candidate factors. Our framework updates a baseline model (e.g., capital asset-pricing model) sequentially by adding or removing factors based on asset-pricing tests. Ensuring model selection consistency, our framework utilizes the asset-pricing duality; minimizing cross-sectionally unexplained pricing errors aligns with maximizing the Sharpe ratio of the selected factor model. Empirical evidence shows that workhorse factor models fail asset-pricing tests, whereas our proposed eight-factor model is not rejected and exhibits robust out-of-sample performance.This paper was accepted by Lukas Schmid, finance.Funding: G. Feng acknowledges financial support from the Hong Kong Research Grants Council [Grant GRF11502023] and the National Natural Science Foundation of China [Grant 72203190]. G. Feng is partially supported by the InnoHK Initiative of the Innovation and Technology Commission of the Hong Kong SAR and the Laboratory for AI-Powered Financial Technologies. The research of W. Lan was supported by the National Key R&amp;D Program of China [Grant 2022YFA1003702]; the National Natural Science Foundation of China [Grants 72422020, 72333001, and 12531011]; and the Joint Lab of Data Science and Business Intelligence at Southwestern University of Finance and Economics. The research of H. Wang was partially supported by the National Natural Science Foundation of China [Grants 72495123 and 12271012].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07804 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07804"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Prior research indicates that social capital constrains opportunistic behavior and facilitates cooperation in bilateral relationships. We hypothesize that firms conducting business with high social capital customers are perceived by their banks as having lower supply chain risk and document a negative association between suppliers’ loan spreads and the social capital of their major customers. Our cross-sectional analyses show that the negative association is stronger when (1) suppliers make more relationship-specific investments or have weaker bargaining power; and (2) customers’ information environment is more opaque. Further analyses reveal that customers’ social capital has a positive impact on their supplier firms’ nonpricing loan terms. Taken together, our findings indicate that customers’ social capital engenders a spillover effect along the supply chain, enabling suppliers to enjoy lower borrowing costs and more favorable nonpricing loan terms by mitigating the hold-up risks they face.This paper was accepted by Ranjani Krishnan, accounting.Funding: Y. Guan received financial support from Nanyang Technological University [Start-up Grant 021234-00001]. X. Li received financial support from the National Natural Science Foundation of China [Grant 72302180] and the China Postdoctoral Science Foundation [Grants 2025T180187 and 2021M692542]. H. Wu received financial support from City University of Hong Kong.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04778 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04778"/>
     <category term="Management Science"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <published>2026-06-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02827</id>
-    <title>Estimation Errors as Regret Lower Bounds for Linear Contextual Bandits</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1007/s11142-026-09978-9</id>
+    <title>Capital market regulation and human capital investment: evidence from SOX and accounting major choice</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Jiahao He, Jiheng Zhang, Rachel Q. Zhang</name>
+      <name>Yinghua Li, Haotian Shi, Stephen Teng Sun, Xiao Xiao</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Linear contextual bandits and their variants represent a fundamental class of models with wide real-world applications, usually solved using algorithms guided by parameter estimation. The Cauchy-Schwarz inequality established analytically that estimation errors dominate algorithm regrets. Therefore, accurate parameter estimation suffices to guarantee algorithms with low regrets. In this paper, we establish the necessity of accurate estimations in effective algorithms for linear contextual bandit problems by first constructing an estimator for any given algorithm. We then show that algorithm regrets dominate the estimation errors of their induced estimators under mild conditions. In other words, low-regret algorithms must imply accurate estimators, and developing low-regret algorithms is equivalent to finding efficient estimators, either implicitly or explicitly. Thus, our analysis reduces regret lower bounds to estimation errors, bridging lower bound analysis in bandit problems and regression analysis. This provides a framework for finding practical and informative regret lower bounds by leveraging the extensive estimation literature in Statistics. It leads to insightful lower bounds for a variety of contextual bandit problems in the literature, which are either new or tighter than existing ones.This paper was accepted by J. George Shanthikumar, data science.Funding: Financial support from the Hong Kong Research Grants Council [Grants 16200821, 16500023, 16500225, and T32-615/24-R] is gratefully acknowledged.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02827 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02827"/>
-    <category term="Management Science"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;This paper analyzes the impact of the Sarbanes–Oxley (SOX) Act on individuals’ decisions to invest their human capital in regulatory compliance. Exploiting geographic variation in SOX-induced growth in the demand for accounting labor and rich survey data on college students, we find that freshmen from regions with greater public company presence exhibit a more marked increase in the propensity to major in accounting after the enactment of SOX. Consistent with the financial incentives mechanism, we find that students respond more to SOX when they have stronger pecuniary preferences, when they are better positioned to seize the financial rewards of accounting, and when they have better access to information about SOX-induced changes in monetary returns to the accounting major. Finally, regions with greater public company presence exhibit larger increases in local wages and employment in the accounting industry.</content>
+    <link href="https://doi.org/10.1007/s11142-026-09978-9"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2026-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02573</id>
-    <title>Dropping Standardized Testing for Admissions Trades Off Information and Access</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1007/s11142-026-09964-1</id>
+    <title>The spillover effect of private firm disclosure on public firms’ loan pricing</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Nikhil Garg, Hannah Li, Faidra Monachou</name>
+      <name>Fengqin Chen, Jeffrey Ng, Walid Saffar, Detian Yang</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the role of information and access in capacity-constrained selection problems with fairness concerns. We develop a statistical discrimination framework, where each applicant has multiple features and is potentially strategic. The model formalizes the tradeoff between the (potentially positive) informational role of a feature and its (negative) exclusionary nature when members of different social groups have unequal access to this feature. Our framework finds a natural application to policy debates on dropping standardized testing in admissions. Our primary takeaway is that the decision to drop a feature (such as test scores) cannot be made without the joint context of the information provided by other features and how the requirement affects the applicant pool composition. Dropping a feature may exacerbate disparities by decreasing the amount of information available for each applicant, especially those from nontraditional backgrounds. However, in the presence of access barriers to a feature, the interaction between the informational environment and the effect of access barriers on the applicant pool size becomes highly complex. Furthermore, we consider an extension with two schools and costly tests, where strategic students decide whether to take the test or not. Our theoretical results reveal that the students’ test-taking behavior can be nonmonotonic. We characterize the two-school policy equilibria and show that each school’s optimal decision to drop the test critically depends on the other school’s test policy. Finally, using calibrated simulations, we demonstrate the presence of practical instances where the decision to eliminate standardized testing improves or worsens all metrics.Funding: This work was supported by the National Science Foundation [Grant 2339427]. This research uses public data from the Texas Higher Education Opportunity Project (THEOP) and acknowledges the following agencies that made THEOP data available through grants and support: the Ford Foundation, the Andrew W. Mellon Foundation, the William and Flora Hewlett Foundation, the Spencer Foundation, the National Science Foundation [Grant SES-0350990], the National Institute of Child Health &amp; Human Development [Grant R24 H0047879], and the Office of Population Research at Princeton University. NG was also supported by Cornell Tech Urban Tech Hub, Google, Meta, and Amazon research awards.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02573 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02573"/>
-    <category term="Management Science"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;We examine whether private firm disclosure affects the price that public firms pay for their bank loans. Using global data on syndicated loans, we find that private firm disclosure significantly reduces public firms’ loan spreads. This finding supports a positive information externalities view whereby private firm disclosure helps banks evaluate public borrowers’ credit risk within the industry context and reduces information asymmetry between banks and borrowers. Consistent with this mechanism, we find larger reductions in public firms’ loan spreads when banks have less information about the borrower or lower expected monitoring intensity, when public-firm borrowers are more informationally opaque, when private firms have greater economic importance in the industry, when private and public firms are more economically similar, or when a larger share of private firms in an industry have audited financial statements. We show that private firm disclosure generates positive externalities for the loan market by reducing information asymmetry.</content>
+    <link href="https://doi.org/10.1007/s11142-026-09964-1"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2026-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/joms.70112</id>
-    <title>Understanding and Addressing the Disruptive Impacts of Contemporary Climate Crises</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70124</id>
+    <title>Middle Managers' Interface Work: Exploring Micro‐Practices for Co‐Adoption of Emerging Ecosystem Value Propositions</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Jaco Fourie, Markus A. Höllerer, Renate E. Meyer, Dennis Jancsary, Graham Dwyer, Martin Kornberger, Paul Spee</name>
+      <name>Krithika Randhawa, Wim Vanhaverbeke, Mariano L. M. Heyden, Paavo Ritala</name>
     </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Contemporary climate crises, such as wildfires, droughts, floods, and tropical storms, are increasing in frequency, intensity, scale, and duration. Organization and management scholars have been calling for more systematic study of the impacts of this increasing complexity on extant crisis governance arrangements and capacities for collaboration in response. We here bring together insights from organization and management studies and public administration research to investigate the disruptive impacts of the 2019‐2020 ‘Black Summer’ bushfires – a prototypical contemporary climate crisis. We conceptualize the complexity of such crises in terms of manifestation on, and across multiple, scalar dimensions (i.e., jurisdictional, functional [organizational, sectoral], spatial, cultural, and temporal dimensions) and mobilize transboundary crisis theory to explain how this disrupts the functioning of standing collaborative governance arrangements through five distinct mechanisms:stretching,blurring,fracturing,ossifying, andimprovising. In turn, we synthesize a conceptual model of how these mechanisms interact to undermine collaborative capacity as crisis complexity increases. Our work bridges and extends ongoing debates in organization and management studies as well as public administration, offering a foundation for adaptation of crisis governance and response in a climate‐changed future.</content>
-    <link href="https://doi.org/10.1111/joms.70112"/>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Emerging ecosystem value propositions require collective co‐adoption by heterogeneous stakeholders. Focusing on middle managers (MMs) in ecosystem emergence, we introduce the notion of MM interface work: a form of social‐symbolic work comprising discursive, relational, and material micro‐practices within and across cognitive, behavioural, regulatory, and political interfaces. Drawing on rich primary and secondary data collected over 5 years from six technology providers in the healthcare sector, we explain how these micro‐practices underpin the co‐adoption of an emerging ecosystem value proposition. Two key mechanisms drive this process: the integration of micro‐practices within each interface and the synergistic alignment of the micro‐practices across interfaces. Our study advances ecosystem and strategic leadership literatures by explaining how MMs may influence co‐adoption of an emerging ecosystem value proposition ‘from the middle‐out’.</content>
+    <link href="https://doi.org/10.1111/joms.70124"/>
     <category term="Journal of Management Studies"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <published>2026-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0626</id>
-    <title>The Impact of Threatening Cybersecurity Situations on Employees: A Conceptualization of Security Perplexity</title>
-    <updated>2026-06-02T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/10422587261453883</id>
+    <title>Resource Orchestration, Team Faultlines, and Entrepreneurial Resilience</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
     <author>
-      <name>Sebastian Lins, Malte Greulich, Daniel A. Pienta, Jason Bennett Thatcher, Ali Sunyaev</name>
+      <name>Jian Guan, Shengyuan Lin, Justin Tan, Jiamin Dong</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As the cybersecurity landscape shifts toward more sophisticated, artificial intelligence–enabled, and unpredictable threats, employees are increasingly targeted as the primary entry points for breaches. Modern incidents, such as zero-day exploits and ransomware, often present employees with situations that are technically complex and ambiguous. We show that these situations are often perplexing for employees. Security perplexity is a tense cognitive state experienced by employees in threatening cybersecurity situations, arising from a conflict between perceived pressure to act and a simultaneous state of confusion and uncertainty about how to do so. Through rigorous construct development and multistage testing, we demonstrate that perplexity disrupts how employees cope with threats. Left unmanaged, this tension reaches a tipping point where employees move from proactive protection to maladaptive behaviors like avoidance or emotion coping. Cybersecurity managers must shift their focus from simple threat detection toward action-clarity to better support their teams. Organizations should prioritize employee coping by providing procedural walkthroughs to build confidence. Implementing a "pause-and-assess" principle with decision checklists helps employees manage ambiguity, reduces emotional escalation, and ensures a more resilient organizational response.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0626"/>
-    <category term="Information Systems Research"/>
-    <published>2026-06-02T00:00:00+00:00</published>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study develops an integrated resource orchestration framework to examine how internal resource configurations shape entrepreneurial resilience in new ventures under crisis conditions. Specifically, we focus on bundles of social and technological resource slack and constraints and conceptualize entrepreneurial resilience as comprising two dimensions: stability (severity of loss) and flexibility (time to recovery). We argue that stability is primarily driven by a resource compensation logic, whereas flexibility is driven by a crisis-induced resource reconfiguration logic. Extending resource orchestration theory (ROT), we conceptualize entrepreneurial teams as the central actors of resource orchestration and introduce entrepreneurial team task-related faultlines (ETTF) as a key structural mechanism shaping how effectively resources are mobilized under disruption. Using a sample of 345 Chinese listed new ventures, we find that dual resource slack reduces severity of loss but slows recovery, whereas among constrained bundles, social resource slack combined with technological constraints enables both lower loss and faster recovery. Response surface analyses further show that greater misalignment between social and technological resources increases loss severity but shortens recovery time. In addition, ETTF moderates the effects of resource bundles on resilience outcomes by strengthening both compensatory coordination and reconfiguration capacity. This study advances ROT by showing that internal resource configurations shape entrepreneurial resilience through both bundle composition and misalignment, contingent on team structural conditions.</content>
+    <link href="https://doi.org/10.1177/10422587261453883"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhag053</id>
@@ -1189,7 +1201,7 @@
     <author>
       <name>Sebastian Doerr, Thomas Drechsel, Donggyu Lee</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We propose a novel channel through which rising income inequality affects job creation and macroeconomic outcomes. High-income households save relatively more in stocks and bonds but less in bank deposits. A rising top income share thereby increases the relative financing cost for bank-dependent firms, which in turn create fewer jobs compared to other firms. Exploiting variation in top income shares across US states and an instrumental variable strategy, we provide evidence for this channel. We then build a general equilibrium macroeconomic model with heterogeneous households and heterogeneous firms and calibrate it to our empirical estimates. The model shows that the secular rise in top incomes accounts for 13% of the decline in the employment share of small firms since 1980. Through the new channel, rising inequality also reduces the labor share and aggregate output. Model experiments show that ignoring the link between inequality and job creation understates welfare effects of income redistribution.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We propose a novel channel through which rising income inequality affects job creation and macroeconomic outcomes. High-income households save relatively more in stocks and bonds but less in bank deposits. A rising top income share thereby increases the relative financing cost for bank-dependent firms, which in turn create fewer jobs compared to other firms. Exploiting variation in top income shares across US states and an instrumental variable strategy, we provide evidence for this channel. We then build a general equilibrium macroeconomic model with heterogeneous households and heterogeneous firms and calibrate it to our empirical estimates. The model shows that the secular rise in top incomes accounts for 13% of the decline in the employment share of small firms since 1980. Through the new channel, rising inequality also reduces the labour share and aggregate output. Model experiments show that ignoring the link between inequality and job creation understates welfare effects of income redistribution.</content>
     <link href="https://doi.org/10.1093/restud/rdag053"/>
     <category term="Review of Economic Studies"/>
     <published>2026-06-03T00:00:00+00:00</published>
