@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-24T13:10:42.233108+00:00</updated>
+  <updated>2026-06-25T13:08:19.667658+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w35285</id>
+    <title>Does the Import Invasion Explain the Mysterious Disappearance of Productivity Growth in U.S. Manufacturing?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Robert J. Gordon &amp; Kenneth Ryu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Why did U.S. manufacturing productivity stop growing after 2010? Productivity growth disappeared, evaporating from an annual rate of +3.3 percent during 1987-2010 to -0.3 percent from 2010 to 2023. This paper shifts attention from 2010 as the start of the puzzle to a decade earlier when output stopped growing. This cessation of output growth in 2000 is attributed to the invasion of imports that closed domestic plants, destroyed jobs, and squeezed profits. Then followed a chain of causation that ultimately undermined productivity growth – from falling capacity utilization, to lower investment in fixed capital and R&amp;D, and to an erosion of innovation. Beyond the import invasion, the paper identifies a set of handicaps ranging from self-inflicted wounds by private manufacturing firms to a marked reduction in government-funded R&amp;D spending. Corporate funds were diverted from productive investment to share buybacks. Investment was distorted by environmental, health, safety, and fuel economy regulations. Innovation slowed not only because of diminishing returns to R&amp;D, but also because of a decline in public R&amp;D, and a diversion of private R&amp;D from basic science and process improvements to product refinements and brand extensions. Skilled worker shortages have plagued manufacturing for decades in the absence of sufficient public and private investment in vocational training.</content>
+    <link href="https://www.nber.org/papers/w35285"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35284</id>
     <title>Optimal Long-Term Care Provision and Insurance with Heterogeneous Preferences and Risks</title>
@@ -183,18 +195,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do the productivity effects of AI evolve across successive generations of tools, and to what extent do task-level gains ultimately translate into final output? We study these questions in the context of software development, using data on more than 100,000 GitHub developers combined with their AI usage telemetry. In a matched event study design, we find that autocomplete, interactive coding agents, and autonomous coding agents each significantly increase coding activity (“commits”), with respective cumulative effects of 40%, 140%, and 180%. These gains, however, attenuate sharply across the production hierarchy: the 180% cumulative effect falls to 50% for the number of projects, and to 30% for actual releases. This pattern is consistent with the weak-link hypothesis: the strong productivity gains from AI are attenuated by human bottlenecks in the production chain, with an estimated elasticity of substitution of 0.25 between AI and human effort, which indicates strong complementarities. We further confirm these results across four major app marketplaces, finding a moderate increase in the number of new apps but no increase in total usage. Large task-level AI productivity gains have therefore translated only partially into shipped and used software thus far.</content>
     <link href="https://www.nber.org/papers/w35275"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35274</id>
-    <title>Factor Bias and Heterogeneous Output Quality in Multiproduct Production</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yi Lee, Shengyu Li &amp; Mark J. Roberts</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper develops and estimates a structural model of multiproduct production that allows plant-product quality and factor-augmenting input efficiency. Using plant-level data from Taiwan’s textile industry, we specify a translog multiproduct cost function with input share and output supply equations and estimate the system of equations via GMM.  The model recovers plant-specific input efficiencies, output qualities, economies of scale and scope, and substitution elasticities. It does not impose restrictions for non-joint production or input-output separability and does not require imputing product-level input allocations. We document increasing returns to scale, substitutability between labor and materials, and cost complementarities from joint production. Variation in labor shares and product mixes are jointly driven by large and persistent heterogeneity in both input efficiencies and output qualities. A multilateral productivity index shows that variation in input efficiency and output quality is the dominant source of productivity differences across plants.</content>
-    <link href="https://www.nber.org/papers/w35274"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -860,50 +860,14 @@ Our main result is a complementarity between automation and repression. Unless t
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35369</id>
-    <title>The Search Costs of Inflation in the Labor Market</title>
+    <id>https://www.nber.org/papers/w35345</id>
+    <title>Beta for Alpha: Neural Engagement in Financial Trading</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Laura Pilossoph, Jane M. Ryngaert &amp; Jesse J. Wedewer</name>
+      <name>Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng &amp; Eric Zou</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the effect of unanticipated inflation in the labor market. When wages are contracted in nominal terms, inflation reduces real wages, leading workers to intensify on-the-job search to obtain wage-adjusting outside offers. Both the search effort and the resulting job mobility are costly, yet that same mobility raises output by moving workers toward more productive matches. To quantify these costs and benefits, we extend the canonical job ladder of Postel-Vinay and Robin (2002) to a nominal environment with privately chosen search effort, and calibrate it to standard moments from the pre-pandemic US labor market. A one-time inflation shock scaled to the COVID episode generates an average welfare loss of 0.44% of consumption, with workers at the top of the wage distribution bearing losses over six times those at the bottom. Once the offsetting transfer of surplus to firms and productivity gains from reallocation are accounted for, the net aggregate cost is close to zero. Second, inflation volatility imposes asymmetric costs: worker welfare is approximately invariant to the volatility regime because firms compensate workers for expected search costs at hiring, but social welfare declines meaningfully because the resource cost of search effort is not undone by compensation. This second finding identifies a distinct, labor-market source of welfare costs from inflation volatility, complementing the price-dispersion costs emphasized in the New Keynesian literature.</content>
-    <link href="https://www.nber.org/papers/w35369"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35368</id>
-    <title>Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Roisin O'Neill, Shailee Manandhar &amp; Douglas L. Kruse</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;People with disabilities are disproportionately represented in low-wage work, raising concerns that higher wage floors may reduce their employment opportunities, particularly for workers with more severe disabilities. We examine the effects of state minimum wage increases and state subminimum wage terminations on employment outcomes for people with disabilities using American Community Survey data from 2010–2023.  We find little evidence that minimum wage increases reduce employment or labor force participation among people with disabilities, including those with more severe disabilities. While many estimates are statistically imprecise, confidence intervals generally rule out economically meaningful negative employment effects. We likewise find no evidence that terminating subminimum wages reduces employment opportunities for affected workers, and some estimates suggest positive employment effects for groups most likely to have been employed under subminimum wage arrangements. These gains may reflect complementary policies that often accompany repeal, such as Employment First initiatives. Overall, the results provide little support for the view that higher wage floors create disproportionate employment barriers for people with disabilities.</content>
-    <link href="https://www.nber.org/papers/w35368"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35367</id>
-    <title>Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mahta Ghafarianghadim &amp; Garth Heutel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many effects of pollution exposure on health and education outcomes of children have been identified, but little is known about education effects on preschool-aged children. We estimate the effect of particulate matter air pollution on preschool attendance using restricted administrative data from the state of Georgia. We use thermal inversions, weather phenomena that trap pollutants, as an instrumental variable for pollution. A one-unit increase in the county-week average ambient particulate pollution level decreases attendance by around 2 percentage points. Effects seem to be larger for racial minorities and for children with working parents.</content>
-    <link href="https://www.nber.org/papers/w35367"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35370</id>
-    <title>Empathy, Social Networks, and Academic Achievement: Experimental Evidence on Cross-Productivity in Skill Formation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Flavio Cunha, Qinyou Hu, Yiming Xia &amp; Naibao Zhao</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We evaluate a parent-directed empathy development program for middle school students in China using a randomized trial with 2,246 students. The four-month mobile app intervention produced short-run gains in empathy and reduced bullying but no immediate academic effects. Over the longer term, treatment students were 3.2 percentage points more likely to enter elite high schools and 2.5 percentage points less likely to miss the entrance exam. We trace these gains to improved self-beliefs and a restructuring of classroom friendship networks that reduced academic homophily, revealing a social channel of cross-productivity: non-cognitive investments can reshape peer relationships to improve academic outcomes.</content>
-    <link href="https://www.nber.org/papers/w35370"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divided by the sum of alpha and theta wave power, and document clear spike-and-decay patterns around trade execution. Linking EI dynamics to trading performance, we find that more successful trades are preceded by larger EI spikes in the 30 seconds before execution, while baseline or background EI levels have no predictive power and, if anything, are negatively associated with performance. We further show that higher EI is associated with attenuated behavioral biases in trading, including the round number heuristic and the disposition effect.</content>
+    <link href="https://www.nber.org/papers/w35345"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -928,30 +892,6 @@ Our main result is a complementarity between automation and repression. Unless t
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the role of foreign exchange and gold reserves in mitigating the US monetary policy spillovers to exchange rates at times of geopolitical fragmentation and de-dollarization. US dollar reserves mitigate depreciation driven by US monetary tightening, while non-dollar reserves do not. Gold reserves are also associated with smaller exchange-rate responses, though less strongly than dollar reserves, suggesting novel complementarity between dollar and gold reserves. Moreover, the estimated effects of dollar and gold reserves are concentrated in countries without swap and repo lines. These findings are consistent with recent large-scale purchases and sales of gold reserves by emerging economies amid sanctions-related restrictions and geopolitical concerns about access to dollar liquidity. Our results suggest that not only the aggregate volume but also the composition of foreign exchange and gold reserves and access to dollar liquidity facilities are empirically relevant for exchange-rate responses to US monetary shocks. Finally, we exploit cross-country heterogeneity and show that countries with large dollar exposure exhibit smaller exchange-rate responses when dollar and gold reserve holdings are larger.</content>
     <link href="https://www.nber.org/papers/w35337"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35372</id>
-    <title>Empowering Inclusive Work</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yanyou Chen, Mitchell Hoffman, Huilan Xu &amp; Zhe Yuan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.</content>
-    <link href="https://www.nber.org/papers/w35372"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35345</id>
-    <title>Beta for Alpha: Neural Engagement in Financial Trading</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng &amp; Eric Zou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divided by the sum of alpha and theta wave power, and document clear spike-and-decay patterns around trade execution. Linking EI dynamics to trading performance, we find that more successful trades are preceded by larger EI spikes in the 30 seconds before execution, while baseline or background EI levels have no predictive power and, if anything, are negatively associated with performance. We further show that higher EI is associated with attenuated behavioral biases in trading, including the round number heuristic and the disposition effect.</content>
-    <link href="https://www.nber.org/papers/w35345"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1207,6 +1147,66 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consider a society that faces uncertainty about a payoff-relevant state and wants to train students to make correct decisions. In educational institutions, students learn from their teachers, but they also get outside information, and later learn from peers. We show that privately Bayesian actions need not be optimal inputs into social learning: when students' actions reflect teacher-side information that is correlated across peers, observing many such actions can give this information excessive social weight. A social planner may therefore optimally reduce the precision of instruction, inducing students to rely more on outside information before their actions become signals for others, and students can end up better informed despite learning less from their teachers. The case for a precision cap is stronger when peer interaction is homophilous, because same-teacher information is more likely to survive aggregation, and weaker when outside information is itself systematically distorted. This provides an informational rationale for viewpoint neutrality as an institutional policy: it limits the social overrepresentation of correlated teacher-side information when students mostly learn from peers exposed to similar sources.</content>
     <link href="https://www.nber.org/papers/w35351"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35369</id>
+    <title>The Search Costs of Inflation in the Labor Market</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Laura Pilossoph, Jane M. Ryngaert &amp; Jesse J. Wedewer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the effect of unanticipated inflation in the labor market. When wages are contracted in nominal terms, inflation reduces real wages, leading workers to intensify on-the-job search to obtain wage-adjusting outside offers. Both the search effort and the resulting job mobility are costly, yet that same mobility raises output by moving workers toward more productive matches. To quantify these costs and benefits, we extend the canonical job ladder of Postel-Vinay and Robin (2002) to a nominal environment with privately chosen search effort, and calibrate it to standard moments from the pre-pandemic US labor market. A one-time inflation shock scaled to the COVID episode generates an average welfare loss of 0.44% of consumption, with workers at the top of the wage distribution bearing losses over six times those at the bottom. Once the offsetting transfer of surplus to firms and productivity gains from reallocation are accounted for, the net aggregate cost is close to zero. Second, inflation volatility imposes asymmetric costs: worker welfare is approximately invariant to the volatility regime because firms compensate workers for expected search costs at hiring, but social welfare declines meaningfully because the resource cost of search effort is not undone by compensation. This second finding identifies a distinct, labor-market source of welfare costs from inflation volatility, complementing the price-dispersion costs emphasized in the New Keynesian literature.</content>
+    <link href="https://www.nber.org/papers/w35369"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35368</id>
+    <title>Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Roisin O'Neill, Shailee Manandhar &amp; Douglas L. Kruse</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;People with disabilities are disproportionately represented in low-wage work, raising concerns that higher wage floors may reduce their employment opportunities, particularly for workers with more severe disabilities. We examine the effects of state minimum wage increases and state subminimum wage terminations on employment outcomes for people with disabilities using American Community Survey data from 2010–2023.  We find little evidence that minimum wage increases reduce employment or labor force participation among people with disabilities, including those with more severe disabilities. While many estimates are statistically imprecise, confidence intervals generally rule out economically meaningful negative employment effects. We likewise find no evidence that terminating subminimum wages reduces employment opportunities for affected workers, and some estimates suggest positive employment effects for groups most likely to have been employed under subminimum wage arrangements. These gains may reflect complementary policies that often accompany repeal, such as Employment First initiatives. Overall, the results provide little support for the view that higher wage floors create disproportionate employment barriers for people with disabilities.</content>
+    <link href="https://www.nber.org/papers/w35368"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35367</id>
+    <title>Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mahta Ghafarianghadim &amp; Garth Heutel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many effects of pollution exposure on health and education outcomes of children have been identified, but little is known about education effects on preschool-aged children. We estimate the effect of particulate matter air pollution on preschool attendance using restricted administrative data from the state of Georgia. We use thermal inversions, weather phenomena that trap pollutants, as an instrumental variable for pollution. A one-unit increase in the county-week average ambient particulate pollution level decreases attendance by around 2 percentage points. Effects seem to be larger for racial minorities and for children with working parents.</content>
+    <link href="https://www.nber.org/papers/w35367"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35370</id>
+    <title>Empathy, Social Networks, and Academic Achievement: Experimental Evidence on Cross-Productivity in Skill Formation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Flavio Cunha, Qinyou Hu, Yiming Xia &amp; Naibao Zhao</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We evaluate a parent-directed empathy development program for middle school students in China using a randomized trial with 2,246 students. The four-month mobile app intervention produced short-run gains in empathy and reduced bullying but no immediate academic effects. Over the longer term, treatment students were 3.2 percentage points more likely to enter elite high schools and 2.5 percentage points less likely to miss the entrance exam. We trace these gains to improved self-beliefs and a restructuring of classroom friendship networks that reduced academic homophily, revealing a social channel of cross-productivity: non-cognitive investments can reshape peer relationships to improve academic outcomes.</content>
+    <link href="https://www.nber.org/papers/w35370"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35372</id>
+    <title>Empowering Inclusive Work</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yanyou Chen, Mitchell Hoffman, Huilan Xu &amp; Zhe Yuan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.</content>
+    <link href="https://www.nber.org/papers/w35372"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
