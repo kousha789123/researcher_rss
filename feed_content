@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-06-25T13:07:37.200867+00:00</updated>
+  <updated>2026-06-26T13:08:45.350104+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -547,18 +547,6 @@
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0233</id>
-    <title>Securing Personal Space in the Crowd: Physical Crowdedness and Organic Mobile Usage</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <author>
-      <name>Xiaoni Lu, Hyeokkoo Eric Kwon, Siliang (Jack) Tong, Xi Zhao, Hsing Kenneth Cheng</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Public transit is a major setting in which individuals spend time on smartphones, yet relatively little is known about how contextual factors in transit environments are associated with mobile usage. In this study, we examine how physical crowdedness is related to organic (self-initiated) smartphone use and how this relationship varies across usage types, individuals, and contexts. We draw on Personal Space Invasion Theory (PSIT) as a conceptual lens to organize potential behavioral responses to crowded environments, emphasizing a sequence involving arousal, attribution, and compensatory behavior. Using detailed mobile usage data from over 200,000 individuals commuting on a major subway system in Qingdao, China, we document systematic associations between crowdedness and organic mobile usage. In particular, crowdedness is positively associated with overall usage, with stronger relationships for social functionalities, among users with shorter prior trips, during off-peak periods, and when individuals are surrounded by different-age groups. To complement the observational analysis, we conduct an online survey with a randomized design, which provides supportive evidence on how crowded environments are perceived and how such perceptions are associated with usage intentions. By shifting the focus from promotion-induced behavior to organic mobile usage, this study provides new empirical evidence on how everyday environmental conditions are associated with digital engagement, and highlights rich heterogeneity in these relationships across contexts.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0233"/>
-    <category term="Information Systems Research"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2023.0565</id>
     <title>Is Digital Reading Resilient to Air Pollution?</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
@@ -817,7 +805,7 @@
     <author>
       <name>Gordon B Dahl, Matthew Knepper</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the labor market effects of permanent 30-64% reductions in unemployment insurance benefits available in seven states. Leveraging linked firm-establishment data, we find that establishments based in reform states experience employment increases that are 0.8-1.3% larger than those of the same firm's establishments in other states. Using a similar multi-state firm design, starting salaries are 1.2-5.5% lower in reform states and posted salaries for the same job fall by 3.2-3.5%. The negative co-movement of employment and wages after the reform suggests a labor supply shock, and mitigates against confounding changes in labor demand driving the results. Our findings are consistent with workers lowering their reservation wages as outside options fall, and employers taking advantage of this by offering lower wages and increasing employment.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the labour market effects of permanent 30%–64% reductions on unemployment insurance benefits available in seven states. Leveraging linked firm-establishment data, we find that establishments based on reform states experience employment increases that are 0.8%–1.3% larger than those of the same firm’s establishments in other states. Using a similar multi-state firm design, starting salaries are 1.2%–5.5% lower in reform states and posted salaries for the same job fall by 3.2%–3.5%. The negative co-movement of employment and wages after the reform suggests a labour supply shock and mitigates against confounding changes in labour demand driving the results. Our findings are consistent with workers lowering their reservation wages as outside options fall, and employers take advantage of this by offering lower wages and increasing employment.</content>
     <link href="https://doi.org/10.1093/restud/rdag056"/>
     <category term="Review of Economic Studies"/>
     <published>2026-06-18T00:00:00+00:00</published>
@@ -1304,6 +1292,30 @@
     <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2024.1167</id>
+    <title>Combating Gerrymandering with Ranked Choice Voting: An Experimental Analysis of Multimember Districts in the United States</title>
+    <updated>2026-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Nikhil Garg, Wes Gurnee, David Rothschild, David B. Shmoys</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Blunting Gerrymandering with Multimember DistrictsHow much can election rules blunt the power of partisan mapmakers? In the Operations Research paper “Combating Gerrymandering with Ranked Choice Voting: An Experimental Analysis of Multimember Districts in the United States,” Nikhil Garg, Wes Gurnee, David Rothschild, and David B. Shmoys study this question by combining computational redistricting with models of multiwinner voting. The authors compare single-member districts with multimember districts elected under rules such as single transferable vote (ranked choice voting), using algorithmically generated maps for the U.S. House of Representatives. Their results suggest that even modest three-member districts can help independent commissions reach proportional outcomes, sharply reducing the range of outcomes available to partisan gerrymanderers. The study also tests robustness under voter crossover and explores trade-offs involving geographic cohesion and within-party diversity. The paper points to election-system design as an operations research problem with direct democratic consequences.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1167"/>
+    <category term="Operations Research"/>
+    <published>2026-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0598</id>
+    <title>Sparse PCA with Multiple Components</title>
+    <updated>2026-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Ryan Cory-Wright, Jean Pauphilet</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Sparse PCA with Multiple ComponentsAs the dimension of data sets increases, analysts often rely on principal component analysis (PCA) to summarize data via a small number of informative principal components (PCs). Sparse PCA makes those directions easier to interpret by using only selected variables, but computing several sparse components at once creates a problem: standard one-at-a-time methods lose the orthogonality that makes PCA useful in practice. In “Sparse PCA With Multiple Components,” Ryan Cory-Wright and Jean Pauphilet develop optimization-based methods that choose multiple sparse principal components simultaneously. Their approaches combine semidefinite relaxations, Lagrangian decompositions, and a new combinatorial upper bound to produce sparse, orthogonal components along with certificates of near optimality. Across real and synthetic data sets, the methods deliver high-quality solutions at practical scales, with average bound gaps around 3% for real-world instances with hundreds or thousands of features. The work gives practitioners a principled way to obtain interpretable low-dimensional representations without sacrificing the structural guarantees of PCA.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0598"/>
+    <category term="Operations Research"/>
+    <published>2026-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/00222429261466252</id>
     <title>EXPRESS: Seeding Social Affirmation: Influencer + Follower Seeding Strategies and the Diffusion of Online Word-of-Mouth</title>
     <updated>2026-06-25T00:00:00+00:00</updated>
@@ -1328,160 +1340,52 @@
     <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/rfs/hhag051</id>
-    <title>Voting on Public Goods: Citizens vs Shareholders</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/jofi.70058</id>
+    <title>Twin Defaults and Bank Capital Requirements</title>
+    <updated>2026-06-25T00:00:00+00:00</updated>
     <author>
-      <name>Robin Döttling, Doron Levit, Nadya Malenko, Magdalena Rola-Janicka</name>
+      <name>CATERINA MENDICINO, KALIN NIKOLOV, JUAN RUBIO‐RAMIREZ, JAVIER SUAREZ, DOMINIK SUPERA</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We study the interplay between a “one person-one vote” political system and a “one share-one vote” corporate governance regime. If shareholders push firms for more prosocial policies, political backlash may arise, undoing these initiatives. If public policy is frictionless, shareholder democracy becomes irrelevant: the political system fully offsets shareholder influence. With public policy frictions, prosocial corporations can mitigate regulatory shortcomings and enhance corporate public goods provision. Nevertheless, shareholder democracy can hurt citizens due to the representation problem: it favors the preferences of the wealthy. Investor diversification, pass-through voting, and corporate greenwashing have important implications for these trade-offs of shareholder democracy.</content>
-    <link href="https://doi.org/10.1093/rfs/hhag051"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2026-06-05T00:00:00+00:00</published>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We examine optimal capital requirements in a quantitative general equilibrium model with banks exposed to nondiversifiable borrower default risk. Contrary to standard models of bank default risk, our framework captures the limited upside, but significant downside risk of loan portfolio returns. This helps to reproduce the frequency and severity oftwin defaults: simultaneously high firm and bank defaults. Hence, the optimal bank capital requirement, which trades off a lower frequency of twin defaults against restricting credit provision, is higher than under default risk models which underestimate the impact of borrower default on bank solvency.</content>
+    <link href="https://doi.org/10.1111/jofi.70058"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdag021</id>
-    <title>Unpacking Aggregate Welfare in a Spatial Economy</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2023.0233</id>
+    <title>Securing Personal Space in the Crowd: Physical Crowdedness and Organic Mobile Usage</title>
+    <updated>2026-06-25T00:00:00+00:00</updated>
     <author>
-      <name>Eric Donald, Masao Fukui, Yuhei Miyauchi</name>
+      <name>Xiaoni Lu, Hyeokkoo Eric Kwon, Siliang (Jack) Tong, Xi Zhao, Hsing Kenneth Cheng</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;How do regional productivity shocks or transportation infrastructure improvements affect aggregate welfare? In a general class of spatial equilibrium models, we provide a formula for aggregate welfare changes, decomposed into terms associated with (i) technology [Fogel (1964), Railroads and American Economic Growth (Baltimore: Johns Hopkins Press), Hulten (1978) “Growth Accounting with Intermediate Inputs”, The Review of Economic Studies, 45, 511–518], (ii) spatial dispersion of marginal utility, (iii) fiscal externalities, (iv) technological externalities, and (v) redistribution. We further use this decomposition to derive a general formula for optimal spatial transfers and show that, whenever optimal transfers are in place, the technology term alone captures the aggregate welfare effects of technological shocks. We apply our framework to study welfare gains from improving the US highway network. We find that changes in the spatial dispersion of marginal utility are as important as technological externalities in accounting for the deviations from the Fogel-Hulten benchmark to assess welfare gains.</content>
-    <link href="https://doi.org/10.1093/restud/rdag021"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-06-05T00:00:00+00:00</published>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Public transit is a major setting in which individuals spend time on smartphones. This study shows that physical crowdedness is positively associated with organic smartphone usage, with stronger relationships for social functionalities, among users with shorter prior trips, during off-peak periods, and when individuals are surrounded by different-age groups. These findings offer actionable guidance for app developers, mobile advertisers, and telecom providers. Users in crowded environments appear to actively seek functionalities that help them reclaim a sense of personal space, suggesting that mobile strategies can be made more adaptive, personalized, and context-aware. For app categories that perform poorly under crowded conditions, such as shopping apps, platforms may benefit from embedding features that strengthen self-esteem and perceived control, for example, socially informed recommendations or try-before-you-buy options. More broadly, because high levels of organic mobile usage often precede effective promotional engagement, firms can better identify high-impact windows for targeted advertising strategies, such as socially engaged users in crowded transit contexts during off-peak hours.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0233"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/qje/qjag023</id>
-    <title>A Cognitive Theory of Reasoning and Choice</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/orsc.2022.16727</id>
+    <title>Moving Beyond the MVP in Hyper-Constrained Contexts: The Generative Power of Constraints Work</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
     <author>
-      <name>Pedro Bordalo, Nicola Gennaioli, Giacomo Lanzani, Andrei Shleifer</name>
+      <name>Hila Lifshitz, Steven Randazzo, Olivia Seunghae Jung</name>
     </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We present a theory of choice in which attention to the features of options is determined by the decision maker’s categorization of the current problem in a set of problems she solved in the past. Categorization depends on goal-relevant and contextual problem-level features. The model yields heterogeneity in attention and choice in a given problem based on different past experiences and instability when changes in irrelevant context cause re-categorization. We show that heterogeneous and unstable representations of a choice problem unify major biases in judgment and decision making.</content>
-    <link href="https://doi.org/10.1093/qje/qjag023"/>
-    <category term="The Quarterly Journal of Economics"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2024.18656</id>
-    <title>Outsiders at the Helm: When Institutional Outsiderness Helps or Hurts Public Leaders’ Crisis Management Performance</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Lin Jiang, Dong Liu, Yan Yu</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Institutional outsiders have become increasingly common in public administrations, coinciding with a growing prevalence of public crises. Yet we know little about whether and under what conditions leaders with limited political experience perform well or poorly during such crises. Drawing on strategic leadership and institutional change research, we develop competing hypotheses and a contingency framework that explains how public leaders’ institutional outsiderness shapes their crisis management performance. We argue that outsiderness can either hinder or facilitate crisis response, depending on conditions that affect leaders’ ability to effectively enact institutional change. Specifically, institutional outsiderness is more likely to hinder crisis management when leaders (i) operate in highly institutionalized environments, (ii) lack relevant crisis management experience, and (iii) hold low precrisis social approval. Using data on U.S. state governors during the COVID-19 pandemic (Study 1), we find that governors’ institutional outsiderness is associated with lower crisis management performance, especially under these conditions. However, when institutionalization is low, outsiderness is associated with higher crisis management performance. We conducted a second study with a different sample and crisis context (U.S. state governors during the 2008 financial crisis) and partially replicate the results from Study 1. Together, our results suggest that whether institutional outsiderness is a liability or an asset for crisis management depends on contextual and leader-level conditions. These findings contribute to research on crisis leadership, strategic leadership, and public administration.Supplemental Material: The online appendix is available at https://doi.org/10.1287/2024.18656 .</content>
-    <link href="https://doi.org/10.1287/orsc.2024.18656"/>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;In a world of increasingly numerous and contradictory constraints, this study reveals how individuals can navigate hyper-constrained contexts to rapidly develop new deployable products. We draw on an in-depth field study of seven projects developing affordable, open-source ventilators in just 75 days during the COVID-19 pandemic. Our analysis shows that innovation outcomes are fundamentally shaped by what we call "constraints work"—how individuals actively deal with and manage constraints—and find two types of constraints work that lead to divergent processes and outcomes. Four projects conducted “reductionist constraints work,” as they scanned, prioritized, and sequenced the key constraints. They then followed the well-known lean innovation process to sprint to a functioning minimum viable product (MVP). In contrast, three projects counterintuitively slowed down at the outset to conduct “generative constraints work,” extreme-mapping the full landscape of constraints and loading the design space even with additional hidden constraints. They then followed a “multiplex innovation process,” surfacing interdependencies among constraints and treating the resulting contradictions as design problems to be solved simultaneously. This process resulted in deployable products that went beyond the MVP, surpassing experts’ expectations. Regarding temporal pace, the multiplex innovation process entailed V-shaped acceleration—braking at the start, resisting the time pressure, to confront the full complexity of tensions, then sharply accelerating to resolve them in parallel, while the lean innovation process entailed a linear acceleration. Our findings contribute to theories of innovation and new product development processes and temporality, advancing understanding of how individuals can successfully navigate an excess of multiple, contradictory constraints.</content>
+    <link href="https://doi.org/10.1287/orsc.2022.16727"/>
     <category term="Organization Science"/>
-    <published>2026-06-05T00:00:00+00:00</published>
+    <published>2026-06-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.04079</id>
-    <title>Markovian Search with Ex Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2023.0635</id>
+    <title>Asymmetric Algorithm Aversion</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
     <author>
-      <name>Mohammad Reza Aminian, Vahideh Manshadi, Rad Niazadeh</name>
+      <name>Saunak Basu, Alan Dennis, Aravinda Garimella, Wencui Han</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study and develop an algorithmic framework for incorporating “ex ante” constraints—constraints on outcomes that hold only on average—into stateful sequential search problems with costly inspection. Our framework encompasses the classical Weitzman’s Pandora’s box and its extensions to joint Markovian scheduling, which model richer processes such as multistage search with multiple layers of inspection. Ex ante constraints are particularly motivated by social considerations in algorithmic hiring, where they can adjust outcome distributions to promote equity and access. Although most work in the algorithmic fairness literature in computer science and economics has focused on incorporating such constraints into machine learning tasks like classification and regression, far less attention has been devoted to operational problems such as sequential search, with their unique intricacies. Our work aims to bridge this gap. Building on the optimality of index-based policies in the unconstrained versions of these problems, we show that optimal policies under a single ex ante constraint (e.g., demographic parity) retain an index-based structure but require (i) dual-based adjustments of the indices and (ii) randomization between two such adjustments via a “tie-breaking rule,” both easy to compute and economically interpretable. We then extend our results to multiple affine constraints by reducing the problem to a variant of the exact Carathéodory problem and providing a polynomial-time algorithm that constructs an optimal randomized dual-adjusted index-based policy satisfying all constraints simultaneously. For general affine and convex constraints, we develop a primal-dual algorithm that randomizes over a polynomial number of dual-based adjustments, yielding a near-feasible, near-optimal policy. These results rely on the key observation that a suitable relaxation of the Lagrange dual function for these constrained problems admits index-based policies akin to those in the unconstrained setting. Finally, through a numerical study, we investigate the implications of imposing socially aware ex ante constraints and their socially desirable outcomes.This paper was accepted by Vivek Farias, data science.Funding: R. Niazadeh’s research was partially supported by the Asness Junior Faculty Fellowship at The University of Chicago Booth School of Business.Supplemental Material: The online appendix and data are available at https://doi.org/10.1287/mnsc.2023.04079 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.04079"/>
-    <category term="Management Science"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05875</id>
-    <title>Crypto Value, Factor Pricing, and Market Segmentation</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Lin William Cong, G. Andrew Karolyi, Ke Tang, Weiyi Zhao</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In the largest data set of crypto assets to date, we uncover a significant value effect based on the active-addresses-to-market-cap ratio. The corresponding novel value factor, together with the crypto market, size, and momentum factors adapted to our sample, forms a four-factor model that explains the cross-sectional return variations better than existing benchmarks. We show that the crypto value premium is plausibly driven by compensation for on-chain activity risk. We also provide the first comprehensive classification of major cryptocurrencies based on their economic functionality. Applying methodologies from international asset pricing, we document significant market segmentation across the token categories, with nonmonotone dynamics and implications for crypto investment strategy and regulation.This paper was accepted by Christoph Loch, finance.Conflict of Interest Statement: L. W. Cong serves as a senior economist and senior economic advisor to Chainlink Labs; G. A. Karolyi serves as an ad hoc consultant to Avantis Investors.Funding: K. Tang’s work was supported by the National Natural Science Foundation of China [Grants 72192802, 72342008]. W. Zhao’s work was supported by the National Natural Science Foundation of China [Grant 72503258], the China Postdoctoral Science Foundation [Grant 2025M773717], and the Innovation and Talent Base for Digital Technology and Finance [Grant B21038]. L. W. Cong’s work was supported by the Ripple University Blockchain Research Initiative.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05875 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05875"/>
-    <category term="Management Science"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222437261460880</id>
-    <title>EXPRESS: The Three-dimensional Effect in Logo Design: When Depth Cues Improve Brand Purchase Likelihood</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Taku Togawa, Naoto Onzo</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Brand logos are key visual elements that shape consumers’ perceptions and behaviors. This research advances the logo literature by systematically examining an understudied design feature: three-dimensionality. Three-dimensional (3D) logos incorporate visual depth cues such as shading, perspective, and occlusion, which can make them appear more like tangible objects than two-dimensional (2D) logos. Across multiple field, lab, and online studies, the authors demonstrate that, relative to their 2D counterparts, 3D logos can increase brand purchase likelihood. This effect arises because depth cues in 3D logos evoke mental representations of tangible, physical forms, thereby increasing perceived logo realism and, in turn, enhancing brand trust. Importantly, these benefits are not universal but conditional. The positive effects of 3D logos emerge when logos appear in visually simple environments or when offerings are perceived as more concrete (i.e., higher in tangible dominance). Conversely, in visually complex environments or for abstract offerings with limited physical contact, 3D logos provide little or no advantage over 2D designs. By identifying when depth cues improve consumer responses, this research offers a nuanced theoretical account of logo three-dimensionality and actionable guidance for managers considering 3D logo adoption.</content>
-    <link href="https://doi.org/10.1177/00222437261460880"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261460019</id>
-    <title>EXPRESS: How Social Cues Drive Popularity in NFT Art Markets</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Jaeyeon (Jae) Chung, Eric S. Park</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;How do consumers form preferences when they cannot rely on established quality standards? We examined this question in the context of non-fungible token (NFT) art markets, where buyers lack evaluative anchors such as provenance, conventional aesthetic criteria, or institutional endorsement. We demonstrated that view counts, a social cue that reflects others' attention, are one key attribute. Across a 150-day observational dataset (N = 1,459,979), a pre-registered 20-wave panel study, and six experiments, we documented that artworks that attract early views accumulate disproportionately greater attention over time, while other artworks fall further behind. We showed that this “snowballing” effect is driven by investment motives. When consumers approach markets with the motive to invest rather than collect, they rely on others' attention as a proxy for market value. Two structural features of the NFT market amplify this reliance: high price volatility and purely digital ownership, both of which heighten the salience of investment outcomes. By attenuating volatility or introducing tangible ownership cues, we diminished this reliance on social signals. Our findings extend theory on social influence and digital consumption, demonstrating that in the absence of objective quality standards, social cues shift from supplementary information to the primary basis for preference formation.</content>
-    <link href="https://doi.org/10.1177/00222429261460019"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261460011</id>
-    <title>EXPRESS: Surviving Economic Adversity: Governance of Franchise Clusters</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Xu (Vivian) Zheng, Yajing Fan, Mrinal Ghosh</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Despite research on clustering strategies in franchised systems, little is known about its impact on outlet survival during times of economic adversity. In this research, we identify two governance mechanisms used by franchisors that vary at a cluster- or outlet-level –franchisee ownership fragmentationandfranchisor on-site supervision– and develop a framework to suggest the efficacy of these mechanisms in mitigating the negative effect of economic adversity on the survival of franchised outlets operating in a cluster. We test our framework using a novel clustering algorithm and survival analysis on a uniquely constructed dataset of 8,677 outlets across 18 franchisors over 14 years. We find that when economic conditions deteriorate, franchisee ownership fragmentation, which reflects greater diversity in cluster composition and knowledge sources, reduces franchised outlet failure hazard within denser clusters. In contrast, franchisor on-site supervision, which denotes lower franchisee autonomy, intensifies outlet failure hazard in such clusters. Our research offers actionable insights for franchisors on managing in-cluster outlets during economic adversity and introducesFranClusterer, a practical app-based tool for cluster identification and governance.</content>
-    <link href="https://doi.org/10.1177/00222429261460011"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261460342</id>
-    <title>EXPRESS: The Marketization of Tradition: How Firms Reconfigure Tradition to Create Consumer Value</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Michelle I.C. Yang, Julien Cayla</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;The role of marketers in sustaining traditions remains ambiguous. From weddings to funerals, commercial providers supply key resources to help consumers perform traditional practices. But marketization can also slide into crass commodification. However, past research remains unclear on how marketers can create consumer value from tradition. Our study resolves these ambiguities through an ethnographic study ofzuò yuèzi,a Chinese postpartum confinement custom that continues to thrive in Chinese communities yet increasingly conflicts with contemporary ideals of autonomy, health, and scientific expertise. In the Asian cities where we conducted fieldwork (Singapore, Taipei, and Kuala Lumpur), a booming industry of confinement centers has emerged in response to these tensions. Drawing on practice theory, we show that the effectiveness of these commercial interventions depends on adapting key elements of tradition while preserving its teleoaffective structure: the moral purposes and affective orientations that define what a traditional practice is for and how it should feel. Our primary contribution is to advance a more constructive theorization of marketization that highlights the possibilities for value creation in the tradition domain.</content>
-    <link href="https://doi.org/10.1177/00222429261460342"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261460888</id>
-    <title>EXPRESS: Personalization in Marketing Communication: A Meta-Analysis</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Martin Eisend, Dominika Niewiadomska, Guda van Noort</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Personalization in marketing communication may increase relevance, and thus lead to successful persuasion, but at the same time may trigger privacy concerns, thus leading to persuasion failure. These contradictory effects are described by the personalization paradox. Prior research has provided diverse results on personalization effects and what they depend on. It lacks a generalizable empirical pattern describing the paradox, leaving researchers with ambiguous theoretical implications and practitioners with little guidance on whether and when personalization is a useful marketing communication tool. To address these gaps, this meta-analysis integrates 1,536 effect sizes of personalization effects in marketing communication extracted from 290 studies found in 229 papers. The results reveal, first, that personalization leads to persuasion success and has negligible negative effects. Second, personalization effects depend on various moderators including the data type used: personalization is more persuasive when these data are closely tied to the consumer’s self-concept. Third, the level of personalization leads to a J-shaped pattern of persuasion, describing a modified model of the personalization paradox, with the most persuasive effects at the end of the personalization spectrum. These findings provide novel empirical generalizations of personalization effects and recommend marketers to use personalization and when personalized marketing communication is most effective.</content>
-    <link href="https://doi.org/10.1177/00222429261460888"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261449761</id>
-    <title>Rewriting the Imprint: How #MeToo Led CEOs From Male-Dominant Cultures to Increase Gender Equality</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Michael J. Mueller, Taco H. Reus</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;This paper examines how CEOs’ cultural imprints shape women’s representation in corporate leadership and how social movements can alter these effects. Building on imprinting theory, we argue that transformative social movements, such as the #MeToo movement, can create secondary sensitive periods during which deeply ingrained imprints are revisited and reinterpreted. Using a difference-in-differences design in the U.S. information and communications technology sector, we find that, before #MeToo, firms led by CEOs from male-dominant cultures employed fewer women in senior management. After the movement’s emergence, however, these CEOs increased women’s representation more strongly than their peers from more gender-egalitarian cultures. The effect persisted through 2024, was concentrated in male-typed roles, and was strongest among younger CEOs, consistent with intrinsic rather than purely extrinsic motives. Complementary analyses of employees’ career trajectories, employee reviews, and CEO speech suggest that these changes reflect shifts in promotion dynamics, organizational culture, and CEOs’ emphasis on integrity and respect. Together, the findings show that social movements can prompt lasting behavioral change among leaders whose cultural imprints are most directly challenged.</content>
-    <link href="https://doi.org/10.1177/01492063261449761"/>
-    <category term="Journal of Management"/>
-    <published>2026-06-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261440210</id>
-    <title>Robustness Analysis in Quantitative Management Research: A Review and Recommendations</title>
-    <updated>2026-06-05T00:00:00+00:00</updated>
-    <author>
-      <name>Shuai Yuan, Deanne N. Den Hartog, Yicun Liu, Annebel H.B. De Hoogh, Lujia (Sophia) Sun, Danqin Zhao, Katrin Riisla, Frank D. Belschak</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Robustness analysis assesses the fragility or stability of empirical findings by testing whether research findings remain stable across alternative, justifiable analytical choices. Understanding the robustness of empirical results is important both for management scholars to build reliable theories and for management practitioners to derive appropriate practical implications for decision-making. Yet, the management field currently faces three problems in designing and reporting robustness analysis: terminological confusion, fragmented recommendations across isolated topics without integration, and a lack of systematic evidence on actual reporting practices. This paper clarifies the concept of robustness analysis and distinguishes it from related credibility-enhancing practices. Using a framework encompassing six key dimensions of robustness (i.e., methods, measurements, covariates, preprocessing, subsampling, and statistical specifications), we review and synthesize the currently fragmented recommendations for each dimension. Next, to systematically review the reporting of robustness practices, we develop a hybrid Generative AI-assisted coding approach enabling the analysis of a larger volume of articles than feasible with human coding alone. In a systematic review of 1,706 articles containing 2,770 quantitative sub-studies published in seven leading management journals (2020–2025), we find that reporting of robustness analyses is often done narrowly and inconsistently, scattered across multiple article sections, and using different terms. Our findings reveal gaps between recommended and documented practices, between macro and micro domains, and across time periods. Based on the review results, we offer recommendations for conducting and reporting robustness analyses.</content>
-    <link href="https://doi.org/10.1177/01492063261440210"/>
-    <category term="Journal of Management"/>
-    <published>2026-06-05T00:00:00+00:00</published>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;We examine human decision-making in the presence of Artificial Intelligence (AI) advice in the context of Fintech. Through four studies (two randomized controlled experiments, a field study, and a qualitative interview study), we show that human acceptance of AI advice exhibits asymmetric algorithm aversion that depends on the advice the AI provides. In our Fintech setting, investments are commonly assessed using criteria based on both explicit knowledge and tacit knowledge. Human experts believed that AI had the ability to effectively use explicit knowledge but were less confident in its ability to effectively use tacit knowledge (a common perception regarding AI). As a result, AI advice significantly influenced experts’ evaluations when it recommended against investing, as they believed that this advice could have been correctly generated using explicit knowledge criteria alone. However, AI advice had no significant effect on experts’ evaluations when it recommended investing, as they believed that this advice could not have been correctly generated without using both types of knowledge and that AI could not effectively use tacit knowledge. Instead, AI advice to invest served as a trigger for them to examine the investment with a focus on tacit knowledge criteria, which often meant that the human expert’s evaluation did not match AI’s advice. We did not find this same asymmetric pattern for accepting human advice in this context, indicating that the results are not due to loss aversion. Recognizing asymmetric algorithm aversion—that human experts are more likely to accept AI’s advice when it produces one recommendation and less likely when it produces a different recommendation —is important because an inconsistent attitude towards accepting AI advice may lead to systematic biases in human-AI collaboration that may defeat the very purpose of using AI.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0635"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-26T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261460124</id>
