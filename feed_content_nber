@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-25T13:08:19.667658+00:00</updated>
+  <updated>2026-06-26T13:09:24.639772+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -187,14 +187,14 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35275</id>
-    <title>Writing Code vs. Shipping Code: Productivity Effects Across Generations of AI Coding Tools</title>
+    <id>https://www.nber.org/papers/w35259</id>
+    <title>A Bayesian Critic for Frequentist Procedures</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Mert Demirer, Leon Musolff &amp; Liyuan Yang</name>
+      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do the productivity effects of AI evolve across successive generations of tools, and to what extent do task-level gains ultimately translate into final output? We study these questions in the context of software development, using data on more than 100,000 GitHub developers combined with their AI usage telemetry. In a matched event study design, we find that autocomplete, interactive coding agents, and autonomous coding agents each significantly increase coding activity (“commits”), with respective cumulative effects of 40%, 140%, and 180%. These gains, however, attenuate sharply across the production hierarchy: the 180% cumulative effect falls to 50% for the number of projects, and to 30% for actual releases. This pattern is consistent with the weak-link hypothesis: the strong productivity gains from AI are attenuated by human bottlenecks in the production chain, with an estimated elasticity of substitution of 0.25 between AI and human effort, which indicates strong complementarities. We further confirm these results across four major app marketplaces, finding a moderate increase in the number of new apps but no increase in total usage. Large task-level AI productivity gains have therefore translated only partially into shipped and used software thus far.</content>
-    <link href="https://www.nber.org/papers/w35275"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
+    <link href="https://www.nber.org/papers/w35259"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -219,6 +219,30 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
     <link href="https://www.nber.org/papers/w35313"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35288</id>
+    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
+    <link href="https://www.nber.org/papers/w35288"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -499,26 +523,14 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35288</id>
-    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
+    <id>https://www.nber.org/papers/w35321</id>
+    <title>Optimal Medical Liability for AI</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
+      <name>Alex Chan</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
-    <link href="https://www.nber.org/papers/w35288"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
+    <link href="https://www.nber.org/papers/w35321"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -603,18 +615,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a dynamic model of data-driven automation in which data (i)  is  heterogeneous and task-specific; (ii) accumulates endogenously as a byproduct of economic activity; and (iii) exhibits spillovers such that data generated by one task can augment the productivity of another. Along the transition path of automation, data plays a dual role in simultaneously augmenting the productivity of already-automated tasks and expanding the automation frontier. We derive tight conditions for the economy to be partially versus fully automated in the long-run. In the latter case, automation exhibits rich short-run dynamics that depend on the pattern of data spillovers but is always slow in the long-run: the share of tasks produced by labor decays asymptotically as a power law in time. We show that the economy is generically inefficient and analyze how a planner optimally tilts the direction of data accumulation. With endogenous capital accumulation, data-driven automation generates explosive growth but stagnant long-run wages.</content>
     <link href="https://www.nber.org/papers/w35320"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35321</id>
-    <title>Optimal Medical Liability for AI</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Chan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
-    <link href="https://www.nber.org/papers/w35321"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -860,14 +860,98 @@ Our main result is a complementarity between automation and repression. Unless t
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35345</id>
-    <title>Beta for Alpha: Neural Engagement in Financial Trading</title>
+    <id>https://www.nber.org/papers/w35365</id>
+    <title>Shaping Major Choice: The Role of High School Counselors</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng &amp; Eric Zou</name>
+      <name>Kennedy Johnston, Jonathan Meer &amp; Danila Serra</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divided by the sum of alpha and theta wave power, and document clear spike-and-decay patterns around trade execution. Linking EI dynamics to trading performance, we find that more successful trades are preceded by larger EI spikes in the 30 seconds before execution, while baseline or background EI levels have no predictive power and, if anything, are negatively associated with performance. We further show that higher EI is associated with attenuated behavioral biases in trading, including the round number heuristic and the disposition effect.</content>
-    <link href="https://www.nber.org/papers/w35345"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Existing  studies show that high school counselors can significantly influence students' graduation rates and college enrollment; less is known about their ability to direct students toward particular fields of study. We evaluate an information intervention aimed at increasing counselors' awareness of economics, a major often associated with misconceptions about its content and career opportunities, and characterized by substantial under-representation of women and racial and ethnic minorities. Counselors from randomly selected Texas high schools were invited to participate in a one-day information workshop on the economics major. We  evaluate the impact of the intervention on students' major preferences and outcomes using application and admissions data from a large public university attended by many graduates from the treatment schools, as well as enrollment and course-taking records from the Texas Education Research Center. The intervention led to substantial increases in interest in economics at the college application stage, particularly among high-achieving women, but did not lead to significant changes in college major outcomes. We conclude that high school counselors can play an important role in shaping students' field-of-study preferences, but translating preferences into enrollment requires additional exposure and reinforcement.</content>
+    <link href="https://www.nber.org/papers/w35365"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35371</id>
+    <title>Climate and Prehistoric Migration</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Huybers, Marco Tabellini, Charles A. Taylor &amp; Francesco Toti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What factors drove human migration before modern states, markets, and borders? We develop a sorting framework in which climate-specific subsistence knowledge depreciates with ecological distance. To test this, we use ancient DNA identity-by-descent segments to construct bilateral migration flows across Western Eurasia over the last 10,000 years. We document three main findings. First, migration flows decline with differences in growing degree days, precipitation, and soil characteristics between origins and destinations. Second, the binding factor varies across subsistence systems: farmers exhibit strong thermal and soil matching, while pastoralists match most strongly on precipitation. Third, periods of warming increase farmer expansion while cooling increases pastoral expansion in patterns that recover known archaeological migration episodes. Migration also acts as a margin of climate adaptation: populations exposed to temperature change move to destinations that partly offset the shift.</content>
+    <link href="https://www.nber.org/papers/w35371"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35363</id>
+    <title>Paying for Quality vs. Paying for Rank: When Purifying a Metric Backfires</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans ⓡ Scott Duke Kominers</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Matching markets allocate scarce opportunities using performance metrics that agents can game. When does making a metric less gameable actually reduce gaming? We show that the answer hinges on how the market converts evaluations into stakes. Where evaluations assign prices — wages, credit terms, score-indexed payments — partially purifying the metric raises gaming precisely when gameable variation dominates it: the market's trust in the metric then rises faster than its exposure to gaming falls. By contrast, where evaluations assign positions — fixed seats allocated by rank — purification never backfires: ranking cancels trust from the incentive, leaving a rank price that deflates with the metric's dispersion, so mean gaming falls monotonically. We solve both markets in closed form under a first-order equilibrium concept; transfers microfound the first regime, rank tournaments the second. A prize-curvature index then determines when gaming improves rather than harms sorting, and when perfecting the metric is itself sorting-suboptimal.</content>
+    <link href="https://www.nber.org/papers/w35363"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35351</id>
+    <title>An Informational Rationale for Viewpoint Neutrality in Education</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Georgy Egorov &amp; Konstantin Sonin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consider a society that faces uncertainty about a payoff-relevant state and wants to train students to make correct decisions. In educational institutions, students learn from their teachers, but they also get outside information, and later learn from peers. We show that privately Bayesian actions need not be optimal inputs into social learning: when students' actions reflect teacher-side information that is correlated across peers, observing many such actions can give this information excessive social weight. A social planner may therefore optimally reduce the precision of instruction, inducing students to rely more on outside information before their actions become signals for others, and students can end up better informed despite learning less from their teachers. The case for a precision cap is stronger when peer interaction is homophilous, because same-teacher information is more likely to survive aggregation, and weaker when outside information is itself systematically distorted. This provides an informational rationale for viewpoint neutrality as an institutional policy: it limits the social overrepresentation of correlated teacher-side information when students mostly learn from peers exposed to similar sources.</content>
+    <link href="https://www.nber.org/papers/w35351"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35369</id>
+    <title>The Search Costs of Inflation in the Labor Market</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Laura Pilossoph, Jane M. Ryngaert &amp; Jesse J. Wedewer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the effect of unanticipated inflation in the labor market. When wages are contracted in nominal terms, inflation reduces real wages, leading workers to intensify on-the-job search to obtain wage-adjusting outside offers. Both the search effort and the resulting job mobility are costly, yet that same mobility raises output by moving workers toward more productive matches. To quantify these costs and benefits, we extend the canonical job ladder of Postel-Vinay and Robin (2002) to a nominal environment with privately chosen search effort, and calibrate it to standard moments from the pre-pandemic US labor market. A one-time inflation shock scaled to the COVID episode generates an average welfare loss of 0.44% of consumption, with workers at the top of the wage distribution bearing losses over six times those at the bottom. Once the offsetting transfer of surplus to firms and productivity gains from reallocation are accounted for, the net aggregate cost is close to zero. Second, inflation volatility imposes asymmetric costs: worker welfare is approximately invariant to the volatility regime because firms compensate workers for expected search costs at hiring, but social welfare declines meaningfully because the resource cost of search effort is not undone by compensation. This second finding identifies a distinct, labor-market source of welfare costs from inflation volatility, complementing the price-dispersion costs emphasized in the New Keynesian literature.</content>
+    <link href="https://www.nber.org/papers/w35369"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35368</id>
+    <title>Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Roisin O'Neill, Shailee Manandhar &amp; Douglas L. Kruse</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;People with disabilities are disproportionately represented in low-wage work, raising concerns that higher wage floors may reduce their employment opportunities, particularly for workers with more severe disabilities. We examine the effects of state minimum wage increases and state subminimum wage terminations on employment outcomes for people with disabilities using American Community Survey data from 2010–2023.  We find little evidence that minimum wage increases reduce employment or labor force participation among people with disabilities, including those with more severe disabilities. While many estimates are statistically imprecise, confidence intervals generally rule out economically meaningful negative employment effects. We likewise find no evidence that terminating subminimum wages reduces employment opportunities for affected workers, and some estimates suggest positive employment effects for groups most likely to have been employed under subminimum wage arrangements. These gains may reflect complementary policies that often accompany repeal, such as Employment First initiatives. Overall, the results provide little support for the view that higher wage floors create disproportionate employment barriers for people with disabilities.</content>
+    <link href="https://www.nber.org/papers/w35368"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35367</id>
+    <title>Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mahta Ghafarianghadim &amp; Garth Heutel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many effects of pollution exposure on health and education outcomes of children have been identified, but little is known about education effects on preschool-aged children. We estimate the effect of particulate matter air pollution on preschool attendance using restricted administrative data from the state of Georgia. We use thermal inversions, weather phenomena that trap pollutants, as an instrumental variable for pollution. A one-unit increase in the county-week average ambient particulate pollution level decreases attendance by around 2 percentage points. Effects seem to be larger for racial minorities and for children with working parents.</content>
+    <link href="https://www.nber.org/papers/w35367"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35370</id>
+    <title>Empathy, Social Networks, and Academic Achievement: Experimental Evidence on Cross-Productivity in Skill Formation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Flavio Cunha, Qinyou Hu, Yiming Xia &amp; Naibao Zhao</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We evaluate a parent-directed empathy development program for middle school students in China using a randomized trial with 2,246 students. The four-month mobile app intervention produced short-run gains in empathy and reduced bullying but no immediate academic effects. Over the longer term, treatment students were 3.2 percentage points more likely to enter elite high schools and 2.5 percentage points less likely to miss the entrance exam. We trace these gains to improved self-beliefs and a restructuring of classroom friendship networks that reduced academic homophily, revealing a social channel of cross-productivity: non-cognitive investments can reshape peer relationships to improve academic outcomes.</content>
+    <link href="https://www.nber.org/papers/w35370"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -892,6 +976,30 @@ Our main result is a complementarity between automation and repression. Unless t
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the role of foreign exchange and gold reserves in mitigating the US monetary policy spillovers to exchange rates at times of geopolitical fragmentation and de-dollarization. US dollar reserves mitigate depreciation driven by US monetary tightening, while non-dollar reserves do not. Gold reserves are also associated with smaller exchange-rate responses, though less strongly than dollar reserves, suggesting novel complementarity between dollar and gold reserves. Moreover, the estimated effects of dollar and gold reserves are concentrated in countries without swap and repo lines. These findings are consistent with recent large-scale purchases and sales of gold reserves by emerging economies amid sanctions-related restrictions and geopolitical concerns about access to dollar liquidity. Our results suggest that not only the aggregate volume but also the composition of foreign exchange and gold reserves and access to dollar liquidity facilities are empirically relevant for exchange-rate responses to US monetary shocks. Finally, we exploit cross-country heterogeneity and show that countries with large dollar exposure exhibit smaller exchange-rate responses when dollar and gold reserve holdings are larger.</content>
     <link href="https://www.nber.org/papers/w35337"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35372</id>
+    <title>Empowering Inclusive Work</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yanyou Chen, Mitchell Hoffman, Huilan Xu &amp; Zhe Yuan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.</content>
+    <link href="https://www.nber.org/papers/w35372"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35345</id>
+    <title>Beta for Alpha: Neural Engagement in Financial Trading</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng &amp; Eric Zou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divided by the sum of alpha and theta wave power, and document clear spike-and-decay patterns around trade execution. Linking EI dynamics to trading performance, we find that more successful trades are preceded by larger EI spikes in the 30 seconds before execution, while baseline or background EI levels have no predictive power and, if anything, are negatively associated with performance. We further show that higher EI is associated with attenuated behavioral biases in trading, including the round number heuristic and the disposition effect.</content>
+    <link href="https://www.nber.org/papers/w35345"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1099,114 +1207,6 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many group identities that influence economic behavior are imperfectly observed. Individuals and institutions often conceal identity markers to limit discrimination. Yet concealment also creates uncertainty about group membership, hampering coordination in social interaction. To study this tradeoff, we paired high- and low-caste men for collaborative data entry work in North India. We randomly assigned each mixed-caste pair to either be: (i) introduced by full names, making caste common knowledge; (ii) introduced by first names only, making caste disclosure a choice; or (iii) instructed not to disclose caste. The two concealment conditions substantially reduce the accuracy of beliefs about a partner’s caste and confidence in those beliefs. They also weaken workplace relations, lowering trust, willingness to interact, and perceived productivity—consistent with identity helping structure social coordination. Evidence on mechanisms shows that identity concealment inhibits authentic interaction, making workers less able to express their “true selves,” while certainty about a partner’s identity is associated with stronger workplace ties. Concealment leaves a sizable caste disparity in higher-status role assignment intact, implying minimal impacts on discrimination. We conclude that where group identities are socially entrenched, reducing their legibility may undermine intergroup relations.</content>
     <link href="https://www.nber.org/papers/w35364"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35365</id>
-    <title>Shaping Major Choice: The Role of High School Counselors</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kennedy Johnston, Jonathan Meer &amp; Danila Serra</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Existing  studies show that high school counselors can significantly influence students' graduation rates and college enrollment; less is known about their ability to direct students toward particular fields of study. We evaluate an information intervention aimed at increasing counselors' awareness of economics, a major often associated with misconceptions about its content and career opportunities, and characterized by substantial under-representation of women and racial and ethnic minorities. Counselors from randomly selected Texas high schools were invited to participate in a one-day information workshop on the economics major. We  evaluate the impact of the intervention on students' major preferences and outcomes using application and admissions data from a large public university attended by many graduates from the treatment schools, as well as enrollment and course-taking records from the Texas Education Research Center. The intervention led to substantial increases in interest in economics at the college application stage, particularly among high-achieving women, but did not lead to significant changes in college major outcomes. We conclude that high school counselors can play an important role in shaping students' field-of-study preferences, but translating preferences into enrollment requires additional exposure and reinforcement.</content>
-    <link href="https://www.nber.org/papers/w35365"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35371</id>
-    <title>Climate and Prehistoric Migration</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Huybers, Marco Tabellini, Charles A. Taylor &amp; Francesco Toti</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What factors drove human migration before modern states, markets, and borders? We develop a sorting framework in which climate-specific subsistence knowledge depreciates with ecological distance. To test this, we use ancient DNA identity-by-descent segments to construct bilateral migration flows across Western Eurasia over the last 10,000 years. We document three main findings. First, migration flows decline with differences in growing degree days, precipitation, and soil characteristics between origins and destinations. Second, the binding factor varies across subsistence systems: farmers exhibit strong thermal and soil matching, while pastoralists match most strongly on precipitation. Third, periods of warming increase farmer expansion while cooling increases pastoral expansion in patterns that recover known archaeological migration episodes. Migration also acts as a margin of climate adaptation: populations exposed to temperature change move to destinations that partly offset the shift.</content>
-    <link href="https://www.nber.org/papers/w35371"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35363</id>
-    <title>Paying for Quality vs. Paying for Rank: When Purifying a Metric Backfires</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joshua S. Gans ⓡ Scott Duke Kominers</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Matching markets allocate scarce opportunities using performance metrics that agents can game. When does making a metric less gameable actually reduce gaming? We show that the answer hinges on how the market converts evaluations into stakes. Where evaluations assign prices — wages, credit terms, score-indexed payments — partially purifying the metric raises gaming precisely when gameable variation dominates it: the market's trust in the metric then rises faster than its exposure to gaming falls. By contrast, where evaluations assign positions — fixed seats allocated by rank — purification never backfires: ranking cancels trust from the incentive, leaving a rank price that deflates with the metric's dispersion, so mean gaming falls monotonically. We solve both markets in closed form under a first-order equilibrium concept; transfers microfound the first regime, rank tournaments the second. A prize-curvature index then determines when gaming improves rather than harms sorting, and when perfecting the metric is itself sorting-suboptimal.</content>
-    <link href="https://www.nber.org/papers/w35363"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35351</id>
-    <title>An Informational Rationale for Viewpoint Neutrality in Education</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Georgy Egorov &amp; Konstantin Sonin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consider a society that faces uncertainty about a payoff-relevant state and wants to train students to make correct decisions. In educational institutions, students learn from their teachers, but they also get outside information, and later learn from peers. We show that privately Bayesian actions need not be optimal inputs into social learning: when students' actions reflect teacher-side information that is correlated across peers, observing many such actions can give this information excessive social weight. A social planner may therefore optimally reduce the precision of instruction, inducing students to rely more on outside information before their actions become signals for others, and students can end up better informed despite learning less from their teachers. The case for a precision cap is stronger when peer interaction is homophilous, because same-teacher information is more likely to survive aggregation, and weaker when outside information is itself systematically distorted. This provides an informational rationale for viewpoint neutrality as an institutional policy: it limits the social overrepresentation of correlated teacher-side information when students mostly learn from peers exposed to similar sources.</content>
-    <link href="https://www.nber.org/papers/w35351"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35369</id>
-    <title>The Search Costs of Inflation in the Labor Market</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Laura Pilossoph, Jane M. Ryngaert &amp; Jesse J. Wedewer</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the effect of unanticipated inflation in the labor market. When wages are contracted in nominal terms, inflation reduces real wages, leading workers to intensify on-the-job search to obtain wage-adjusting outside offers. Both the search effort and the resulting job mobility are costly, yet that same mobility raises output by moving workers toward more productive matches. To quantify these costs and benefits, we extend the canonical job ladder of Postel-Vinay and Robin (2002) to a nominal environment with privately chosen search effort, and calibrate it to standard moments from the pre-pandemic US labor market. A one-time inflation shock scaled to the COVID episode generates an average welfare loss of 0.44% of consumption, with workers at the top of the wage distribution bearing losses over six times those at the bottom. Once the offsetting transfer of surplus to firms and productivity gains from reallocation are accounted for, the net aggregate cost is close to zero. Second, inflation volatility imposes asymmetric costs: worker welfare is approximately invariant to the volatility regime because firms compensate workers for expected search costs at hiring, but social welfare declines meaningfully because the resource cost of search effort is not undone by compensation. This second finding identifies a distinct, labor-market source of welfare costs from inflation volatility, complementing the price-dispersion costs emphasized in the New Keynesian literature.</content>
-    <link href="https://www.nber.org/papers/w35369"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35368</id>
-    <title>Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Roisin O'Neill, Shailee Manandhar &amp; Douglas L. Kruse</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;People with disabilities are disproportionately represented in low-wage work, raising concerns that higher wage floors may reduce their employment opportunities, particularly for workers with more severe disabilities. We examine the effects of state minimum wage increases and state subminimum wage terminations on employment outcomes for people with disabilities using American Community Survey data from 2010–2023.  We find little evidence that minimum wage increases reduce employment or labor force participation among people with disabilities, including those with more severe disabilities. While many estimates are statistically imprecise, confidence intervals generally rule out economically meaningful negative employment effects. We likewise find no evidence that terminating subminimum wages reduces employment opportunities for affected workers, and some estimates suggest positive employment effects for groups most likely to have been employed under subminimum wage arrangements. These gains may reflect complementary policies that often accompany repeal, such as Employment First initiatives. Overall, the results provide little support for the view that higher wage floors create disproportionate employment barriers for people with disabilities.</content>
-    <link href="https://www.nber.org/papers/w35368"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35367</id>
-    <title>Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mahta Ghafarianghadim &amp; Garth Heutel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many effects of pollution exposure on health and education outcomes of children have been identified, but little is known about education effects on preschool-aged children. We estimate the effect of particulate matter air pollution on preschool attendance using restricted administrative data from the state of Georgia. We use thermal inversions, weather phenomena that trap pollutants, as an instrumental variable for pollution. A one-unit increase in the county-week average ambient particulate pollution level decreases attendance by around 2 percentage points. Effects seem to be larger for racial minorities and for children with working parents.</content>
-    <link href="https://www.nber.org/papers/w35367"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35370</id>
-    <title>Empathy, Social Networks, and Academic Achievement: Experimental Evidence on Cross-Productivity in Skill Formation</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Flavio Cunha, Qinyou Hu, Yiming Xia &amp; Naibao Zhao</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We evaluate a parent-directed empathy development program for middle school students in China using a randomized trial with 2,246 students. The four-month mobile app intervention produced short-run gains in empathy and reduced bullying but no immediate academic effects. Over the longer term, treatment students were 3.2 percentage points more likely to enter elite high schools and 2.5 percentage points less likely to miss the entrance exam. We trace these gains to improved self-beliefs and a restructuring of classroom friendship networks that reduced academic homophily, revealing a social channel of cross-productivity: non-cognitive investments can reshape peer relationships to improve academic outcomes.</content>
-    <link href="https://www.nber.org/papers/w35370"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35372</id>
-    <title>Empowering Inclusive Work</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yanyou Chen, Mitchell Hoffman, Huilan Xu &amp; Zhe Yuan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.</content>
-    <link href="https://www.nber.org/papers/w35372"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
