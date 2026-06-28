@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-06-27T12:56:31.112578+00:00</updated>
+  <updated>2026-06-28T12:01:15.387497+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -499,18 +499,6 @@
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2024.1175</id>
-    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <author>
-      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1175"/>
-    <category term="Information Systems Research"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2023.0556</id>
     <title>Making the Crowd Wiser: (Re)Combination Through Teaming in Crowdsourcing</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
@@ -519,6 +507,18 @@
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Open innovation and crowdsourcing have become standard tools for governments, foundations, and firms seeking solutions to hard problems. The implicit assumption is that more participation and more collaboration produce better outcomes. This research complicates that picture. Using agent-based simulation calibrated against one of the world’s largest crowdsourcing platforms, we show that spontaneous team formation during contests trades off parallel exploration for collaborative depth and that this tradeoff is not always favorable. For simple, well-defined problems, enabling teaming at the right moment improves the odds of finding the best solution. For complex, interdependent problems, precisely the kind that public innovation challenges tend to target, poorly timed or signal-driven teaming can suppress the diversity of search and reduce the likelihood of breakthrough outcomes. Policymakers designing grand challenge competitions, innovation prizes, or open problem-solving initiatives should attend carefully to the structural features of their platforms: what information is made visible, when teaming is permitted, and how incentives interact with collaboration norms. The design of the information environment is not neutral; it shapes who collaborates with whom, and ultimately whether the crowd delivers on its promise.</content>
     <link href="https://doi.org/10.1287/isre.2023.0556"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1175</id>
+    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1175"/>
     <category term="Information Systems Research"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
@@ -1458,42 +1458,6 @@
     <link href="https://doi.org/10.1287/isre.2023.0635"/>
     <category term="Information Systems Research"/>
     <published>2026-06-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70123</id>
-    <title>Hidden in Plain Sight: Conceptualizing Platform Auxiliaries and Their Conflicting Impacts on Platforms' Value Architecture</title>
-    <updated>2026-06-07T00:00:00+00:00</updated>
-    <author>
-      <name>Donato Cutolo, Andrew Hargadon, Martin Kenney</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This paper introduces the concept of platform auxiliaries to identify a set of actors that provide independent resources explicitly designed to support complementors in their value creation and capture activities. Platform auxiliaries capitalize on unmet needs of complementors within platforms, offering services such as third‐party software development kits (SDKs) for app developers, social media analytics tools for content creators, rental management software for hosts, and even fake review services for sellers. Although the presence and relevance of these actors have been largely overlooked in platform research, we demonstrate the importance of recognizing their distinctive role and their conflicting impacts on platform value architectures. Specifically, we theorize three mechanisms through which auxiliaries support complementors (augmenting their development and commercialization capabilities on the focal platform, increasing access to platform‐specific information, and expanding their activities beyond the focal platform), discussing how they enhance complementors' engagement and innovation potential, thereby fostering generativity on the platform. Yet, because auxiliaries operate outside the architectural framework established by the platform owner, in supporting complementors, they may reshape fundamental channels underpinning architectural stability, such as platform curation, information distribution, and platform compatibility, potentially weakening the control mechanisms through which the platform owner manages the platform and captures value.</content>
-    <link href="https://doi.org/10.1111/joms.70123"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-06-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70080</id>
-    <title>Enforced but not Enacted: How Return‐to‐Office Policies Reshape Boundary Enactment, Work‐Location Volition, and Eudaimonic Wellbeing</title>
-    <updated>2026-06-07T00:00:00+00:00</updated>
-    <author>
-      <name>Michael E. Clinton, Tara Reich, Amanda Jones, Huiyu Wu</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;HR faces a conundrum over how to organize hybrid working patterns given the pros and cons associated with conducting work across multiple domains. Many organizations are currently seeking to clarify and often increase the requirements for employee presence at employer premises, meaning studies are needed to better understand how HR should look to influence decision‐making regarding office attendance practices. We draw on theories of boundary control to examine the relationship between return‐to‐office (RTO) policy enforcement, office time, and eudaimonic worker wellbeing; specifically work‐related vitality and work meaningfulness. We propose that enforced RTO policies serve to lower eudaimonic wellbeing via reducing both the psychological experiences of volition (working from one's preferred location) and control (being able to choose where one works). Across two time‐lagged survey studies, including a field study in an organization implementing a new RTO policy (Study 1), we find broad support for our propositions. We further find higher office time does not automatically follow RTO policy implementation and that office time is unrelated to eudaimonic worker wellbeing. In our third study, interview data collected over 2 years from key stakeholders of the RTO implementation allows us to explore unresolved and new questions prompted by the two survey studies. We discuss these findings in relation to building theory‐informed insights into office attendance policies and the importance of worker volition and control over hybrid working patterns.</content>
-    <link href="https://doi.org/10.1002/hrm.70080"/>
-    <category term="Human Resource Management"/>
-    <published>2026-06-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261450569</id>
-    <title>From Personal to Collective Powers: Towards Gender Inclusivity in Entrepreneurial Ecosystems</title>
-    <updated>2026-06-07T00:00:00+00:00</updated>
-    <author>
-      <name>Iulia Stroila, Elina Isakova, Helle Neergaard</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Entrepreneurship research increasingly seeks to explain how systemic change towards gender inclusivity unfolds. Drawing on a critical realist case study, we develop a morphogenetic account of how such change becomes possible within entrepreneurial ecosystems throughstructural and cultural conditioning,social interaction, andstructural and cultural elaboration. We show thatbondingandbridgingfunction as collective, agential mechanisms through which women and their allies reflexively contest gendered constraints and mobilise resource gatekeepers, thereby enabling shifts in ecosystem norms and practices over time. By doing so, the study bridges women’s entrepreneurship, ecosystem scholarship, and critical realism through a processual explanation of change.</content>
-    <link href="https://doi.org/10.1177/10422587261450569"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-06-07T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag024</id>
