@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-06-28T12:01:15.387497+00:00</updated>
+  <updated>2026-06-28T12:56:29.036212+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -257,18 +257,6 @@
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.01348</id>
-    <title>Fast and Simple Adaptive Elicitations</title>
-    <updated>2026-06-12T00:00:00+00:00</updated>
-    <author>
-      <name>Nicolò Bertani, Enrico Diecidue, Patrice Perny, Paolo Viappiani</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a new Fast and Simple Elicitation procedure (FSE) for the measurement of decision models. Our procedure bounds the function of the decision model, iteratively halves the maximal distance between the bounds, and incrementally restricts the feasible space of associated parameters. It requires no distributional assumptions and relies on linear programming and approximating splines, improving tractability and descriptiveness. We apply FSE to elicit the probability weighting function in three studies: a simulation and two experiments. Our results demonstrate FSE’s ability to faithfully recover the function. Both in the laboratory and online, FSE reflects the choices made by a respondent more precisely than alternative elicitation procedures and standard functional forms. Importantly, FSE also predicts the out-of-sample choices of a representative online sample more accurately than its alternatives. Taken together, our results shed new light on the prevalence of possibility and certainty effects, and convey general implications for experimental modeling and design.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported by INSEAD R&amp;D and by a grant from Sorbonne University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01348 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.01348"/>
-    <category term="Management Science"/>
-    <published>2026-06-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2024.07033</id>
     <title>Decentralized Autonomous Organization Governance</title>
     <updated>2026-06-12T00:00:00+00:00</updated>
@@ -277,6 +265,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Decentralized autonomous organizations (DAOs) are entities without central leadership and operate based on a set of decision-making rules encoded into smart contracts using blockchain technology. In this study, we develop a theoretical model of DAO governance featuring strategic token trading under token-based voting to investigate potential conflicts of interest between a large participant (a “whale”) and many small participants. Our results show that ownership concentration has a negative effect on platform growth, but platform size, token illiquidity, and long-term incentives can mitigate this negative effect. We confirm these predictions using novel voting data on major DAOs from 2020 and 2024.This paper has been accepted by Lin William Cong for the Virtual Special Issue on Digital Finance.Funding: J. Han and J. Lee received financial support from the Institute of Management Research at Seoul National University.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.07033 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.07033"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01348</id>
+    <title>Fast and Simple Adaptive Elicitations</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Nicolò Bertani, Enrico Diecidue, Patrice Perny, Paolo Viappiani</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a new Fast and Simple Elicitation procedure (FSE) for the measurement of decision models. Our procedure bounds the function of the decision model, iteratively halves the maximal distance between the bounds, and incrementally restricts the feasible space of associated parameters. It requires no distributional assumptions and relies on linear programming and approximating splines, improving tractability and descriptiveness. We apply FSE to elicit the probability weighting function in three studies: a simulation and two experiments. Our results demonstrate FSE’s ability to faithfully recover the function. Both in the laboratory and online, FSE reflects the choices made by a respondent more precisely than alternative elicitation procedures and standard functional forms. Importantly, FSE also predicts the out-of-sample choices of a representative online sample more accurately than its alternatives. Taken together, our results shed new light on the prevalence of possibility and certainty effects, and convey general implications for experimental modeling and design.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported by INSEAD R&amp;D and by a grant from Sorbonne University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01348 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01348"/>
     <category term="Management Science"/>
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
@@ -499,18 +499,6 @@
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0556</id>
-    <title>Making the Crowd Wiser: (Re)Combination Through Teaming in Crowdsourcing</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <author>
-      <name>Junjie Zhou, Jungpil Hahn</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Open innovation and crowdsourcing have become standard tools for governments, foundations, and firms seeking solutions to hard problems. The implicit assumption is that more participation and more collaboration produce better outcomes. This research complicates that picture. Using agent-based simulation calibrated against one of the world’s largest crowdsourcing platforms, we show that spontaneous team formation during contests trades off parallel exploration for collaborative depth and that this tradeoff is not always favorable. For simple, well-defined problems, enabling teaming at the right moment improves the odds of finding the best solution. For complex, interdependent problems, precisely the kind that public innovation challenges tend to target, poorly timed or signal-driven teaming can suppress the diversity of search and reduce the likelihood of breakthrough outcomes. Policymakers designing grand challenge competitions, innovation prizes, or open problem-solving initiatives should attend carefully to the structural features of their platforms: what information is made visible, when teaming is permitted, and how incentives interact with collaboration norms. The design of the information environment is not neutral; it shapes who collaborates with whom, and ultimately whether the crowd delivers on its promise.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0556"/>
-    <category term="Information Systems Research"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2024.1175</id>
     <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
@@ -519,6 +507,18 @@
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
     <link href="https://doi.org/10.1287/isre.2024.1175"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0556</id>
+    <title>Making the Crowd Wiser: (Re)Combination Through Teaming in Crowdsourcing</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Junjie Zhou, Jungpil Hahn</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Open innovation and crowdsourcing have become standard tools for governments, foundations, and firms seeking solutions to hard problems. The implicit assumption is that more participation and more collaboration produce better outcomes. This research complicates that picture. Using agent-based simulation calibrated against one of the world’s largest crowdsourcing platforms, we show that spontaneous team formation during contests trades off parallel exploration for collaborative depth and that this tradeoff is not always favorable. For simple, well-defined problems, enabling teaming at the right moment improves the odds of finding the best solution. For complex, interdependent problems, precisely the kind that public innovation challenges tend to target, poorly timed or signal-driven teaming can suppress the diversity of search and reduce the likelihood of breakthrough outcomes. Policymakers designing grand challenge competitions, innovation prizes, or open problem-solving initiatives should attend carefully to the structural features of their platforms: what information is made visible, when teaming is permitted, and how incentives interact with collaboration norms. The design of the information environment is not neutral; it shapes who collaborates with whom, and ultimately whether the crowd delivers on its promise.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0556"/>
     <category term="Information Systems Research"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
