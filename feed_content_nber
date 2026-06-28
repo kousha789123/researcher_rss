@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-06-27T12:56:54.787060+00:00</updated>
+  <updated>2026-06-28T12:01:44.174753+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w35289</id>
+    <title>What do news readers want?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gregory J. Martin, Shoshana Vasserman &amp; Cameron Pfiffer</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a novel dataset covering the complete history of individual-level web traffic and digital subscriptions from a major metropolitan newspaper in the United States between 2020 and 2024, we investigate consumers' willingness to pay for different categories of news content, with particular focus on the kinds of coverage believed to generate civic externalities. Our identification strategy relies on the quasi-random arrival of paywall events which force consumers to subscribe if they wish to continue reading. Using this variation, we estimate a model of consumer demand and construct the optimal staff allocation for the paper under different counterfactual revenue models: a fully subscription-based model and a fully ad-supported model. Our results suggest that readers are willing to pay for local reporting, and that measures of demand based only on time-use substantially underestimate the value of “hard” news coverage on topics like local politics and public health. However, digital subscription revenues alone are insufficient to cover staff costs even at the highest revenue-generating sections of the paper. We use our model to estimate the subsidy required to expand the newspaper's production of investigative coverage.</content>
+    <link href="https://www.nber.org/papers/w35289"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35287</id>
+    <title>The U.S. Civil War's Impact on Women's Work and Political Participation</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Madison K. Arnsbarger, Andreas Ferrara &amp; Paige Montrose</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the role of economic participation via the labor market in enabling the political mobilization of an underrepresented group. Specifically, we study the wives and daughters of disabled Union Army soldiers after the U.S. Civil War. Linking Union Army enlistment records to the 1860 and 1870 U.S. censuses, we find that the wives and daughters of disabled veterans were significantly more likely to participate in the labor force than those of non-disabled veterans. Historical evidence suggests that disabled veterans were also more exposed to postwar alcohol and substance abuse, increasing the household burdens faced by women. Town-level data show that increases in women's labor force participation combined with higher shares of disabled veterans predict more Temperance Crusade activity in 1873-74. Information provision via newspapers and proximity to other protest towns amplify these effects. Using unit-level disability rates as an instrument for veterans' disability status supports a causal interpretation of the labor market effects. Our results suggest that labor force participation can be an important enabling factor for the political mobilization of underrepresented groups.</content>
+    <link href="https://www.nber.org/papers/w35287"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35286</id>
     <title>Beliefs and Stock Market Fluctuations: New Evidence from the Past Seven Decades</title>
@@ -103,18 +127,6 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35277</id>
-    <title>Deadly Stigma</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Manasvini Singh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How harmful is stigma in the “real world”? Answers are elusive because stigma is difficult to measure in observational data, and isolating its effects requires exogenous variation in stigma without variation in the stigmatized trait. This study addresses these challenges by focusing on a widespread form of stigma — weight stigma — in the high-stakes setting of inpatient healthcare. BMI categories are displayed prominently to providers in electronic medical records, and obesity is heavily stigmatized socially. Thus, at the "obese" cutoff, stigma may shift discretely while the underlying trait (BMI) does not. Using a regression discontinuity design that exploits this institutional feature, I find a discontinuous increase in in-hospital mortality at this cutoff, though patient health does not change. Two patterns suggest stigma-based discrimination as the mechanism. First, just-obese patients receive less diagnostic effort than almost-obese patients. Second, a physician-validated LLM identifies at the cutoff a rise in stigmatizing language in clinical notes — specifically, language that imposes moral judgment, undermines patient credibility, and stereotypes patients — among the most stigmatizing providers, who also drive the mortality result. Overall, these results suggest that stigma is a powerful social force with potentially life-or-death consequences.</content>
-    <link href="https://www.nber.org/papers/w35277"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35278</id>
     <title>An Ethical Pollution Tax</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -187,18 +199,6 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35259</id>
-    <title>A Bayesian Critic for Frequentist Procedures</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We propose a method for automated, probabilistic evaluation of the frequentist properties (e.g., bias, coverage) of procedures (e.g., estimators, confidence intervals) in a given setting. A Bayesian critic observes a sample of data and updates their prior belief on the underlying data-generating process (DGP). The resulting posterior belief about the DGP implies a posterior belief about the property of interest. When the critic's prior is in a low-precision Dirichlet process class, the critic's posterior can be approximated via a Bayesian bootstrap, making the method fully automated. We apply the method to several canonical settings and show that the critic shares some concerns raised in previous work and delivers new insights.</content>
-    <link href="https://www.nber.org/papers/w35259"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35294</id>
     <title>Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -219,30 +219,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
     <link href="https://www.nber.org/papers/w35313"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35288</id>
-    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
-    <link href="https://www.nber.org/papers/w35288"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -519,6 +495,30 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We conduct a meta-analysis of 82 randomized controlled trials across more than 20 countries to estimate the effects of low-cost, remote parental engagement interventions delivered through text messages, phone calls, and apps. We estimate a joint likelihood function that incorporates both written studies and unwritten studies identified through trial registries, funder records, research labs, evidence clearinghouses, and other sources. By also recording sample sizes for unwritten studies, the model estimates the distribution of standard errors, identifies write-up probabilities conditional on significance, and characterizes the file drawer by estimating effect distributions for written and unwritten studies. Bias-corrected effects are 0.05 SD for test scores, 0.07 SD for grades, 0.05 SD for attendance, and 0.03 SD for enrollment. In the best-identified domain, test scores, statistically insignificant results are still written up at high rates. We also find that larger studies tend to estimate smaller latent effects, which could indicate that true effects are correlated with study precision, violating a common meta-analysis assumption. In smaller-sample domains, our approach helps identify selection probabilities by anchoring the absolute write-up rates. Finally, we estimate the value of additional RCTs to inform adoption decisions. Any single study estimate is unlikely to dissuade adoption because parent interventions have high marginal value of public funds. Instead, future research is most valuable when it can explain heterogeneity across settings.</content>
     <link href="https://www.nber.org/papers/w35299"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35288</id>
+    <title>Water Works: Causes and Consequences of Safe Drinking Water in America</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>David A. Keiser, Bhashkar Mazumder, David Molitor &amp; Joseph S. Shapiro</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.</content>
+    <link href="https://www.nber.org/papers/w35288"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35205</id>
+    <title>Tatonnement and Price Setting in General Equilibrium</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Iván Werning ⓡ Guido Lorenzoni</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
+    <link href="https://www.nber.org/papers/w35205"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -860,6 +860,138 @@ Our main result is a complementarity between automation and repression. Unless t
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35358</id>
+    <title>The Short- and Long-Run Effects of Railroads on Mexico-US Migration</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>David Escamilla-Guerrero &amp; Giovanni Peri</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper leverages variation in the access to the Mexican railroad network in the early 1900s to estimate its impact on migration to the United States and evaluate its long-run persistence after passenger rail service became obsolete. Using an IV strategy based on least-cost paths between historical cities, we find that locations with railroad access had migration rates four times higher than those without in the early twentieth century. Sequential migration was the key mechanism: railroads first facilitated internal mobility toward railroad hubs, then onward migration to the US. Railroad access also contributed to structural transformation, raising urbanization and local economic development. In terms of persistence, locations with historical railroad access show weakly lower total migration rates to the US in the early 21st century, consistent with local economic growth reducing the incentive to migrate. Yet destination-specific patterns prove remarkably durable: locations that disproportionately sent migrants to California, Arizona, or Texas in the 1900s continued to do so in the 2000s, reflecting the persistence of migrant networks.</content>
+    <link href="https://www.nber.org/papers/w35358"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35356</id>
+    <title>Trading Frictions in Dynamic Cap-and-Trade Markets</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicola Borri, Yukun Liu, Aleh Tsyvinski &amp; Xi Wu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005–2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</content>
+    <link href="https://www.nber.org/papers/w35356"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35355</id>
+    <title>Panel Attrition, Data Imputation and Age Patterns in Subjective Ill-being</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>David G. Blanchflower, Alex Bryson &amp; Alan J. Cui</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the implications of panel attrition for the age profile of subjective ill-being in the Global Flourishing Study (GFS).  We establish that survey attrition rates are high, and are highest among the young, particularly when interviewed in wave 1 using a computer-assisted web interview (CAWI). We then deploy three methods (inverse probability weighting, multiple imputation chain equations, and last observation carried forward) to estimate the age pattern in subjective ill-being in wave 2 of the survey.  All three methods have their strengths and weaknesses, but we demonstrate that such adjustments are merited given the nature of survey attrition in the data.  We conclude that subjective ill-being is declining in age in both waves 1 and 2 of the GFS having accounted for sample attrition, something that would not have been apparent if one simply ran wave 2 regressions without accounting for sample attrition.</content>
+    <link href="https://www.nber.org/papers/w35355"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35372</id>
+    <title>Empowering Inclusive Work</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yanyou Chen, Mitchell Hoffman, Huilan Xu &amp; Zhe Yuan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.</content>
+    <link href="https://www.nber.org/papers/w35372"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35345</id>
+    <title>Beta for Alpha: Neural Engagement in Financial Trading</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng &amp; Eric Zou</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divided by the sum of alpha and theta wave power, and document clear spike-and-decay patterns around trade execution. Linking EI dynamics to trading performance, we find that more successful trades are preceded by larger EI spikes in the 30 seconds before execution, while baseline or background EI levels have no predictive power and, if anything, are negatively associated with performance. We further show that higher EI is associated with attenuated behavioral biases in trading, including the round number heuristic and the disposition effect.</content>
+    <link href="https://www.nber.org/papers/w35345"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35362</id>
+    <title>What Happens to Contractors After States Ban Affirmative Action?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin Rosa</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using restricted Census business records, I explore how banning affirmative action in state contracting affects minority- and women-owned business enterprises (MWBEs). I find that ending affirmative action led MWBE contractors to gradually downsize, with the most pronounced reductions in force experienced by Black-owned businesses and larger MWBEs. Despite these workforce changes, existing MWBEs were no more likely to shut down than other businesses. New MWBEs were relatively less common after a state's ban, highlighting how bans can shift the demographic composition of new contractors. A calibrated model suggests bans are equivalent to considerable reductions in MWBE productivity and scrap values.</content>
+    <link href="https://www.nber.org/papers/w35362"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35361</id>
+    <title>On the Origins of the Multinational Premium</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>José L. Fillat &amp; Stefania Garetto</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relationship between management, multinational expansion, and risk premia. We document two facts: firms run by better managers are more likely to become multinationals (MNEs), and risk premia are higher for current and future MNEs than for firms that remain exclusively domestic. We develop a model in which endogenous matching between heterogeneous firms and managers jointly determines selection into foreign direct investment (FDI) and risk premia. Quantitatively, we use the model to examine how corporate taxation and distortions in the market for managerial talent affect multinational activity, firm risk exposure, and financial market outcomes.</content>
+    <link href="https://www.nber.org/papers/w35361"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35360</id>
+    <title>How Climate Shocks Produce Armed Rebellion: The 1970 Bhola Cyclone and the Birth of Bangladesh</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sultan Mehmood &amp; Ahmed Mushfiq Mobarak</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Why do climate shocks produce conflict (Hsiang et al., 2013)? We study the 1970 Bhola cyclone in East Pakistan, one of the deadliest natural disasters in recorded history, which killed an estimated 350,000 people. Using satellite imagery, archival records, electoral returns, and insurgent biographies, we show that cyclone exposure amplified pre-existing separatist sentiment at the ballot box and increased citizens’ subsequent participation in guerrilla warfare against the state. Our estimates imply that exposure to the cyclone’s devastation induced an additional 48,613 insurgents to join the guerrilla war effort. Effects are larger in areas with pre-existing political and economic grievances and weaker relief provision. Our analysis reveals the step-by-step mechanisms through which environmental shocks can produce conflict: they shift voting behavior, expose state indifference, and convert grievance into armed mobilization.</content>
+    <link href="https://www.nber.org/papers/w35360"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35359</id>
+    <title>Transportation Infrastructure and Urban and Regional Development</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gilles Duranton &amp; Matthew Turner</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The literature assessing the effects of transportation infrastructure on how people and economic activity distribute themselves across a system of cities has three main parts. The theoretical literature makes robust predictions about how transportation infrastructure affects the internal structure of cities, but for systems of cities, theory does not let us rule much out. The city-level empirical literature establishes that improved urban transportation infrastructure causes suburban migration, but has only a small impact on city population. This literature is less helpful for understanding the effects of transportation infrastructure on the way people are distributed across a system of cities, but has made some progress. The small empirical literature looking at how transportation infrastructure affects systems of cities using cross-country data remains underdeveloped and is inconclusive.</content>
+    <link href="https://www.nber.org/papers/w35359"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35357</id>
+    <title>Information Provision and Demand-Side Barriers to Healthcare Innovation: Experimental Evidence on Shared Medical Appointments in Menopause Care</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Soledad Giardili, Monika Heller, Sanjay Jain, Amalia R. Miller &amp; Kamalini Ramdas</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Alternative care delivery models may offer benefits to patients and providers, but adoption often remains low. We study whether brief narrative testimonials shift willingness to attend virtual shared medical appointments (SMAs), a relatively little-used care format in which 5-15 patients with a shared non-urgent health condition meet simultaneously with a clinician. Using a pre-registered field experiment with over 4,000 women aged 45–60 in the UK, we randomly assigned participants to view only standard descriptive information about menopause appointment options (the control group) or to receive testimonials about SMAs from either previous patients or a clinician (treatment groups). Testimonials more than doubled the share of women choosing an SMA: when appointments were offered with a 6-8 week wait, 11% of the control group chose an SMA compared to 26% in the peer testimonials arm and 24% in the clinician testimonials arm. Shorter waiting times further increase uptake. When the SMA wait was reduced to one week, the share of women ever choosing an SMA rose by 14-19 percentage points across arms, reaching nearly 40% in the testimonial groups. Treatment effects are systematically larger among women with greater information-processing capacity: university education, higher baseline menopause knowledge, and broader information-seeking. Our findings suggest that women’s reluctance to choose SMAs is driven primarily by demand-side barriers, including unfamiliarity and uncertainty about their benefits, rather than deep-seated aversion to group-based care. Testimonials appear sufficient to meaningfully reduce these barriers.</content>
+    <link href="https://www.nber.org/papers/w35357"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35352</id>
+    <title>Insurance with Multiple Actors</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jason Abaluck, Oren Sarig &amp; Jintaek Song</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze how social-planner insurers split cost-sharing between consumers and firms (e.g. patients and doctors, or drivers and car mechanics). With no contracting frictions, firm cost-sharing can replace consumer cost-sharing other than “visit copays.” Optimal firm contracts depend on the marginal rate of substitution between consumer and firm cost-sharing. For Medicare physician services, paying physicians more up front but less as spending increases reduces risk for both patients and providers; in our calibration, net benefits are twice those from eliminating Medigap externality. For prescription drugs, a dollar of physician paperwork costs is 45–110 times more impactful than a dollar of consumer cost-sharing.</content>
+    <link href="https://www.nber.org/papers/w35352"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35354</id>
     <title>The Perceived Inflation Wedge</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -1075,138 +1207,6 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the role of foreign exchange and gold reserves in mitigating the US monetary policy spillovers to exchange rates at times of geopolitical fragmentation and de-dollarization. US dollar reserves mitigate depreciation driven by US monetary tightening, while non-dollar reserves do not. Gold reserves are also associated with smaller exchange-rate responses, though less strongly than dollar reserves, suggesting novel complementarity between dollar and gold reserves. Moreover, the estimated effects of dollar and gold reserves are concentrated in countries without swap and repo lines. These findings are consistent with recent large-scale purchases and sales of gold reserves by emerging economies amid sanctions-related restrictions and geopolitical concerns about access to dollar liquidity. Our results suggest that not only the aggregate volume but also the composition of foreign exchange and gold reserves and access to dollar liquidity facilities are empirically relevant for exchange-rate responses to US monetary shocks. Finally, we exploit cross-country heterogeneity and show that countries with large dollar exposure exhibit smaller exchange-rate responses when dollar and gold reserve holdings are larger.</content>
     <link href="https://www.nber.org/papers/w35337"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35372</id>
-    <title>Empowering Inclusive Work</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yanyou Chen, Mitchell Hoffman, Huilan Xu &amp; Zhe Yuan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.</content>
-    <link href="https://www.nber.org/papers/w35372"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35345</id>
-    <title>Beta for Alpha: Neural Engagement in Financial Trading</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng &amp; Eric Zou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divided by the sum of alpha and theta wave power, and document clear spike-and-decay patterns around trade execution. Linking EI dynamics to trading performance, we find that more successful trades are preceded by larger EI spikes in the 30 seconds before execution, while baseline or background EI levels have no predictive power and, if anything, are negatively associated with performance. We further show that higher EI is associated with attenuated behavioral biases in trading, including the round number heuristic and the disposition effect.</content>
-    <link href="https://www.nber.org/papers/w35345"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35362</id>
-    <title>What Happens to Contractors After States Ban Affirmative Action?</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Benjamin Rosa</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using restricted Census business records, I explore how banning affirmative action in state contracting affects minority- and women-owned business enterprises (MWBEs). I find that ending affirmative action led MWBE contractors to gradually downsize, with the most pronounced reductions in force experienced by Black-owned businesses and larger MWBEs. Despite these workforce changes, existing MWBEs were no more likely to shut down than other businesses. New MWBEs were relatively less common after a state's ban, highlighting how bans can shift the demographic composition of new contractors. A calibrated model suggests bans are equivalent to considerable reductions in MWBE productivity and scrap values.</content>
-    <link href="https://www.nber.org/papers/w35362"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35361</id>
-    <title>On the Origins of the Multinational Premium</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>José L. Fillat &amp; Stefania Garetto</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relationship between management, multinational expansion, and risk premia. We document two facts: firms run by better managers are more likely to become multinationals (MNEs), and risk premia are higher for current and future MNEs than for firms that remain exclusively domestic. We develop a model in which endogenous matching between heterogeneous firms and managers jointly determines selection into foreign direct investment (FDI) and risk premia. Quantitatively, we use the model to examine how corporate taxation and distortions in the market for managerial talent affect multinational activity, firm risk exposure, and financial market outcomes.</content>
-    <link href="https://www.nber.org/papers/w35361"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35360</id>
-    <title>How Climate Shocks Produce Armed Rebellion: The 1970 Bhola Cyclone and the Birth of Bangladesh</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Sultan Mehmood &amp; Ahmed Mushfiq Mobarak</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Why do climate shocks produce conflict (Hsiang et al., 2013)? We study the 1970 Bhola cyclone in East Pakistan, one of the deadliest natural disasters in recorded history, which killed an estimated 350,000 people. Using satellite imagery, archival records, electoral returns, and insurgent biographies, we show that cyclone exposure amplified pre-existing separatist sentiment at the ballot box and increased citizens’ subsequent participation in guerrilla warfare against the state. Our estimates imply that exposure to the cyclone’s devastation induced an additional 48,613 insurgents to join the guerrilla war effort. Effects are larger in areas with pre-existing political and economic grievances and weaker relief provision. Our analysis reveals the step-by-step mechanisms through which environmental shocks can produce conflict: they shift voting behavior, expose state indifference, and convert grievance into armed mobilization.</content>
-    <link href="https://www.nber.org/papers/w35360"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35359</id>
-    <title>Transportation Infrastructure and Urban and Regional Development</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gilles Duranton &amp; Matthew Turner</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The literature assessing the effects of transportation infrastructure on how people and economic activity distribute themselves across a system of cities has three main parts. The theoretical literature makes robust predictions about how transportation infrastructure affects the internal structure of cities, but for systems of cities, theory does not let us rule much out. The city-level empirical literature establishes that improved urban transportation infrastructure causes suburban migration, but has only a small impact on city population. This literature is less helpful for understanding the effects of transportation infrastructure on the way people are distributed across a system of cities, but has made some progress. The small empirical literature looking at how transportation infrastructure affects systems of cities using cross-country data remains underdeveloped and is inconclusive.</content>
-    <link href="https://www.nber.org/papers/w35359"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35357</id>
-    <title>Information Provision and Demand-Side Barriers to Healthcare Innovation: Experimental Evidence on Shared Medical Appointments in Menopause Care</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Soledad Giardili, Monika Heller, Sanjay Jain, Amalia R. Miller &amp; Kamalini Ramdas</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Alternative care delivery models may offer benefits to patients and providers, but adoption often remains low. We study whether brief narrative testimonials shift willingness to attend virtual shared medical appointments (SMAs), a relatively little-used care format in which 5-15 patients with a shared non-urgent health condition meet simultaneously with a clinician. Using a pre-registered field experiment with over 4,000 women aged 45–60 in the UK, we randomly assigned participants to view only standard descriptive information about menopause appointment options (the control group) or to receive testimonials about SMAs from either previous patients or a clinician (treatment groups). Testimonials more than doubled the share of women choosing an SMA: when appointments were offered with a 6-8 week wait, 11% of the control group chose an SMA compared to 26% in the peer testimonials arm and 24% in the clinician testimonials arm. Shorter waiting times further increase uptake. When the SMA wait was reduced to one week, the share of women ever choosing an SMA rose by 14-19 percentage points across arms, reaching nearly 40% in the testimonial groups. Treatment effects are systematically larger among women with greater information-processing capacity: university education, higher baseline menopause knowledge, and broader information-seeking. Our findings suggest that women’s reluctance to choose SMAs is driven primarily by demand-side barriers, including unfamiliarity and uncertainty about their benefits, rather than deep-seated aversion to group-based care. Testimonials appear sufficient to meaningfully reduce these barriers.</content>
-    <link href="https://www.nber.org/papers/w35357"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35358</id>
-    <title>The Short- and Long-Run Effects of Railroads on Mexico-US Migration</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>David Escamilla-Guerrero &amp; Giovanni Peri</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper leverages variation in the access to the Mexican railroad network in the early 1900s to estimate its impact on migration to the United States and evaluate its long-run persistence after passenger rail service became obsolete. Using an IV strategy based on least-cost paths between historical cities, we find that locations with railroad access had migration rates four times higher than those without in the early twentieth century. Sequential migration was the key mechanism: railroads first facilitated internal mobility toward railroad hubs, then onward migration to the US. Railroad access also contributed to structural transformation, raising urbanization and local economic development. In terms of persistence, locations with historical railroad access show weakly lower total migration rates to the US in the early 21st century, consistent with local economic growth reducing the incentive to migrate. Yet destination-specific patterns prove remarkably durable: locations that disproportionately sent migrants to California, Arizona, or Texas in the 1900s continued to do so in the 2000s, reflecting the persistence of migrant networks.</content>
-    <link href="https://www.nber.org/papers/w35358"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35356</id>
-    <title>Trading Frictions in Dynamic Cap-and-Trade Markets</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicola Borri, Yukun Liu, Aleh Tsyvinski &amp; Xi Wu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005–2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.</content>
-    <link href="https://www.nber.org/papers/w35356"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35355</id>
-    <title>Panel Attrition, Data Imputation and Age Patterns in Subjective Ill-being</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>David G. Blanchflower, Alex Bryson &amp; Alan J. Cui</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the implications of panel attrition for the age profile of subjective ill-being in the Global Flourishing Study (GFS).  We establish that survey attrition rates are high, and are highest among the young, particularly when interviewed in wave 1 using a computer-assisted web interview (CAWI). We then deploy three methods (inverse probability weighting, multiple imputation chain equations, and last observation carried forward) to estimate the age pattern in subjective ill-being in wave 2 of the survey.  All three methods have their strengths and weaknesses, but we demonstrate that such adjustments are merited given the nature of survey attrition in the data.  We conclude that subjective ill-being is declining in age in both waves 1 and 2 of the GFS having accounted for sample attrition, something that would not have been apparent if one simply ran wave 2 regressions without accounting for sample attrition.</content>
-    <link href="https://www.nber.org/papers/w35355"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35352</id>
-    <title>Insurance with Multiple Actors</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jason Abaluck, Oren Sarig &amp; Jintaek Song</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze how social-planner insurers split cost-sharing between consumers and firms (e.g. patients and doctors, or drivers and car mechanics). With no contracting frictions, firm cost-sharing can replace consumer cost-sharing other than “visit copays.” Optimal firm contracts depend on the marginal rate of substitution between consumer and firm cost-sharing. For Medicare physician services, paying physicians more up front but less as spending increases reduces risk for both patients and providers; in our calibration, net benefits are twice those from eliminating Medigap externality. For prescription drugs, a dollar of physician paperwork costs is 45–110 times more impactful than a dollar of consumer cost-sharing.</content>
-    <link href="https://www.nber.org/papers/w35352"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
