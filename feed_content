@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-06-28T12:56:29.036212+00:00</updated>
+  <updated>2026-06-29T13:01:36.768354+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -257,18 +257,6 @@
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07033</id>
-    <title>Decentralized Autonomous Organization Governance</title>
-    <updated>2026-06-12T00:00:00+00:00</updated>
-    <author>
-      <name>Jungsuk Han, Jongsub Lee, Tao Li</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Decentralized autonomous organizations (DAOs) are entities without central leadership and operate based on a set of decision-making rules encoded into smart contracts using blockchain technology. In this study, we develop a theoretical model of DAO governance featuring strategic token trading under token-based voting to investigate potential conflicts of interest between a large participant (a “whale”) and many small participants. Our results show that ownership concentration has a negative effect on platform growth, but platform size, token illiquidity, and long-term incentives can mitigate this negative effect. We confirm these predictions using novel voting data on major DAOs from 2020 and 2024.This paper has been accepted by Lin William Cong for the Virtual Special Issue on Digital Finance.Funding: J. Han and J. Lee received financial support from the Institute of Management Research at Seoul National University.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.07033 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07033"/>
-    <category term="Management Science"/>
-    <published>2026-06-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2025.01348</id>
     <title>Fast and Simple Adaptive Elicitations</title>
     <updated>2026-06-12T00:00:00+00:00</updated>
@@ -277,6 +265,18 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a new Fast and Simple Elicitation procedure (FSE) for the measurement of decision models. Our procedure bounds the function of the decision model, iteratively halves the maximal distance between the bounds, and incrementally restricts the feasible space of associated parameters. It requires no distributional assumptions and relies on linear programming and approximating splines, improving tractability and descriptiveness. We apply FSE to elicit the probability weighting function in three studies: a simulation and two experiments. Our results demonstrate FSE’s ability to faithfully recover the function. Both in the laboratory and online, FSE reflects the choices made by a respondent more precisely than alternative elicitation procedures and standard functional forms. Importantly, FSE also predicts the out-of-sample choices of a representative online sample more accurately than its alternatives. Taken together, our results shed new light on the prevalence of possibility and certainty effects, and convey general implications for experimental modeling and design.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported by INSEAD R&amp;D and by a grant from Sorbonne University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01348 .</content>
     <link href="https://doi.org/10.1287/mnsc.2025.01348"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07033</id>
+    <title>Decentralized Autonomous Organization Governance</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Jungsuk Han, Jongsub Lee, Tao Li</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Decentralized autonomous organizations (DAOs) are entities without central leadership and operate based on a set of decision-making rules encoded into smart contracts using blockchain technology. In this study, we develop a theoretical model of DAO governance featuring strategic token trading under token-based voting to investigate potential conflicts of interest between a large participant (a “whale”) and many small participants. Our results show that ownership concentration has a negative effect on platform growth, but platform size, token illiquidity, and long-term incentives can mitigate this negative effect. We confirm these predictions using novel voting data on major DAOs from 2020 and 2024.This paper has been accepted by Lin William Cong for the Virtual Special Issue on Digital Finance.Funding: J. Han and J. Lee received financial support from the Institute of Management Research at Seoul National University.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.07033 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07033"/>
     <category term="Management Science"/>
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
@@ -499,18 +499,6 @@
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2024.1175</id>
-    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <author>
-      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1175"/>
-    <category term="Information Systems Research"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2023.0556</id>
     <title>Making the Crowd Wiser: (Re)Combination Through Teaming in Crowdsourcing</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
@@ -519,6 +507,18 @@
     </author>
     <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Open innovation and crowdsourcing have become standard tools for governments, foundations, and firms seeking solutions to hard problems. The implicit assumption is that more participation and more collaboration produce better outcomes. This research complicates that picture. Using agent-based simulation calibrated against one of the world’s largest crowdsourcing platforms, we show that spontaneous team formation during contests trades off parallel exploration for collaborative depth and that this tradeoff is not always favorable. For simple, well-defined problems, enabling teaming at the right moment improves the odds of finding the best solution. For complex, interdependent problems, precisely the kind that public innovation challenges tend to target, poorly timed or signal-driven teaming can suppress the diversity of search and reduce the likelihood of breakthrough outcomes. Policymakers designing grand challenge competitions, innovation prizes, or open problem-solving initiatives should attend carefully to the structural features of their platforms: what information is made visible, when teaming is permitted, and how incentives interact with collaboration norms. The design of the information environment is not neutral; it shapes who collaborates with whom, and ultimately whether the crowd delivers on its promise.</content>
     <link href="https://doi.org/10.1287/isre.2023.0556"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1175</id>
+    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Emerging licensing regimes that generate revenue from game sales, along with gamers’ consideration of video game purchases in their platform adoption decisions, call for a reexamination of traditional models of platform competition. We develop a novel model of competition between ecosystems, defined by platforms and their console-specific subsidiary markets for video games, to incorporate post-adoption factors into platform pricing decisions. Counterintuitively, our results show that access to additional surplus from game sales intensifies competition, forcing platforms to further subsidize the gamer side. In the absence of royalties, publishers’ licensing fees remain unaffected even when the subsidiary market is considered; however, these fees increase under royalty transfers, suggesting that money-side considerations dominate in ecosystem competition. When publishers multihome, the role of the subsidiary market becomes more pronounced: gamer-side subsidies deepen while platforms impose higher licensing fees. The subsidiary market also induces greater multihoming than predicted by traditional licensing models. Surprisingly, the effect of royalties on platforms becomes non-monotonic, in contrast to scenarios where all publishers singlehome. This leads to a threshold beyond which platforms may no longer prefer multihoming, diverging from conventional models where multihoming is typically advantageous. Overall, our findings highlight that platforms’ strategic responses to gamers’ post-adoption behavior and royalty-based licensing structures cannot be inferred through simple extensions of existing frameworks.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1175"/>
     <category term="Information Systems Research"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
@@ -1460,88 +1460,112 @@
     <published>2026-06-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/restud/rdag024</id>
-    <title>Quantifying Supply-Side Climate Policies</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1093/rfs/hhag060</id>
+    <title>Emission Caps and Investment in Green Technologies</title>
+    <updated>2026-06-27T00:00:00+00:00</updated>
     <author>
-      <name>Lassi Ahlvik, Jørgen Juel Andersen, Jonas Hveding Hamang, Torfinn Harding</name>
+      <name>Bruno Biais, Augustin Landier</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;What are the effects of supply-side climate policies in the oil market? We use global company-level data to estimate the impact of 84 reforms of production taxes between 2000 and 2019 on oil production, exploration, and discoveries. We find that higher taxes primarily reduce companies’ exploration expenditures and oil discoveries, and also reduce short-term production of unconventional oil. We then quantify the implications for the oil market using a short- and medium-term dynamic model extending until the end of the century. Imposing a global climate royalty surcharge of 20 percentage points on oil producers reduces average annual emissions from oil by 5–7% in the first 5 years, and 9–20% in the medium term. If only OECD countries adopt this policy, 47–73% of the total emission reductions would be offset by increased production in non-OECD countries in the medium term.</content>
-    <link href="https://doi.org/10.1093/restud/rdag024"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-06-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We study the interaction between firms, which can invest in green technologies, and a government, which can impose emission caps but has limited commitment power. Investment in green technologies generates innovation spillovers, reducing the cost of further investments. Spillovers generate intertemporal strategic complementarities between firms and government, and equilibrium multiplicity. In a “green equilibrium”, firms, anticipating caps, invest in green technologies, which reduces the cost of further investment, making the government willing to cap emissions. In a “brown equilibrium”, firms, anticipating no caps, don’t invest, so green technologies remain costly and the government gives up on emission caps. (JEL Q54, Q55, Q58, H23, O33)</content>
+    <link href="https://doi.org/10.1093/rfs/hhag060"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-06-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05036</id>
-    <title>Liquidity Support in Financial Institutions</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70125</id>
+    <title>Property Rights and Intangible Assets: Indigenous Theory and the Case of Indian Imagery</title>
+    <updated>2026-06-28T00:00:00+00:00</updated>
     <author>
-      <name>Falko Fecht, Egemen Genc, Yigitcan Karabulut, Patrick Weber</name>
+      <name>Terry R. Adler, Thomas G. Pittz, Carma M. Claw</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We document a novel support mechanism in financial institutions—the direct flow channel—through which banks coordinate client investments to stabilize affiliated mutual funds facing severe redemptions. Inflows from banks’ retail and institutional clients offset a sizable share of outflows, mitigating adverse performance effects, forced sales, and redemption spillovers. Support via the direct flow channel is liquidity driven, concentrated in fragile but viable funds, and most pronounced when cash and family support are insufficient, while complementing credit lines when they are available. Importantly, we find no evidence that bank clients incur systematic costs, underscoring the stabilizing role of banks as coordination devices.This paper was accepted by Camelia Kuhnen, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05036 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05036"/>
-    <category term="Management Science"/>
-    <published>2026-06-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.03991</id>
-    <title>The Value of Last-Mile Delivery in Online Retail</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
-    <author>
-      <name>Zhikun Lu, Ruomeng Cui, Tianshu Sun, Lixia Wu</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Last-mile delivery, the most expensive stage of the shipment process, has become increasingly important in online retail, raising the strategic question of whether firms should outsource it to customers via pickup stations or offer home delivery. In this paper, we examine the economic value of last-mile delivery to inform this high-stakes decision. Partnering with Cainiao, Alibaba’s logistics platform, we exploit a quasi-experiment where home delivery service was sequentially rolled out to pickup stations in 2021. A staggered difference-in-differences design reveals that home delivery significantly increases sales and customer spending on Alibaba’s retail platform. Because last-mile delivery is labor-intensive and capacity constrained, effectively allocating delivery resources is crucial. To address this challenge, we propose a novel operations-aware targeting framework that integrates causal machine learning with constrained optimization to identify and prioritize the most valuable customers. The framework incorporates both capacity and fairness constraints to maximize sales while maintaining equitable service access. We further extend it with routing optimization, enabling value-aware delivery planning that jointly considers sales uplift and spatial efficiency. We demonstrate that the resulting targeting and routing policies significantly improve revenue performance. Taken together, we show that last-mile delivery is not merely a cost center but also a revenue driver. By adopting tailored logistics strategies that balance customer needs with resource constraints, online retailers can unlock substantial value and win the last mile of e-commerce.This paper was accepted by Jeannette Song, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03991 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.03991"/>
-    <category term="Management Science"/>
-    <published>2026-06-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70121</id>
-    <title>Keeping Up With the Times? Rethinking Social Evaluations Research Under Contemporary Technological and Sociopolitical Forces</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
-    <author>
-      <name>Marco Clemente, Michael Etter, Yuliya Snihur, Gokhan Ertug, Graffin Scott, Anastasiya Zavyalova</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;The context within which social evaluations form has been fundamentally altered by contemporary forces, such as digital technologies, polarization, activism, politicization of business, and geopolitical tensions. While research on social evaluations has generated rich insights into the formation and development of constructs, such as legitimacy, status, reputation, stigma, trust, and celebrity, much of this work has been developed under the assumptions of relative stability, coherent audiences, and well‐defined intermediary roles. These assumptions are increasingly challenged in this changing context, requiring us to rethink the formation and management of social evaluations. The articles in this special issue focus on these changes. Building on these contributions, this introductory article develops a research agenda across seven interconnected areas: the stability and fragility of social evaluations, audience fragmentation and convergence, the reshaping of the intermediary landscape, construct interrelationships, range and extension of constructs, the measurement of social evaluations, and their underlying foundations. We discuss how these transformations affect not only organizations and evaluative processes, but also the societal impact of social evaluations. Overall, this editorial provides a framework to guide future research in a field undergoing profound transition.</content>
-    <link href="https://doi.org/10.1111/joms.70121"/>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This paper develops a theory‐building argument about the limits of property rights theory (PRT) when applied to culturally embedded intangible assets. Integrating property rights theory, organizational sociology, and Indigenous theory, we examine historically informed contrasts between low and moderate tribal sovereignty to show why tangible and intangible assets differ analytically in their governability. We argue that Native imagery reveals a class of contexts in which the specificity assumed by classical PRT becomes difficult to satisfy because authority is plural, asset boundaries are ambiguous, and value is relational rather than fully alienable. Using Native imagery as an illustrative case, we specify how PRT can be extended to better account for culturally embedded intangible assets by incorporating collective guardianship, community consent, sacred and relational inalienability constraints, and multi‐sovereign enforcement. In doing so, the paper reframes property governance in settings where meaning, spirituality, and community relationships are integral to the asset itself.</content>
+    <link href="https://doi.org/10.1111/joms.70125"/>
     <category term="Journal of Management Studies"/>
-    <published>2026-06-08T00:00:00+00:00</published>
+    <published>2026-06-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/jofi.70043</id>
-    <title>Private Equity and Pay Gaps Inside the Firm</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70127</id>
+    <title>Property Rights and Corporate Toxic Emissions: Evidence from the Enactment of Property Law in China</title>
+    <updated>2026-06-28T00:00:00+00:00</updated>
     <author>
-      <name>LILY FANG, JIM GOLDMAN, ALEXANDRA ROULET</name>
+      <name>Lihan Chen, Shaojie Lai, Xiaoling Pu, Qing Sophie Wang</name>
     </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Using two decades of French administrative data, we find that post‐leveraged buyout (LBO), target firms reduce within‐firm pay gaps while increasing profitability relative to control firms. Employee turnover drives the pay‐gap reduction. In target and control firms alike, turnovers reduce average pay more at the top of the wage distribution than at the bottom because separated employees are paid more—new joiners less—than similar employees, especially among skilled employees. LBOs amplify this effect through increased turnover among managers. Post‐buyout, p90/p10, gender, age, and managers/non‐managers pay gaps decline by 3%, 9%, 21%, and 4% and the employee pool becomes younger.</content>
-    <link href="https://doi.org/10.1111/jofi.70043"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-06-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Property rights theory holds that stronger ownership protection stimulates firm investment, yet whether such investment supports environmentally beneficial uses remains unclear. We develop a property rights perspective on corporate pollution control, arguing that stronger ownership protection promotes cleaner production when complementary institutional conditions make environmental upgrading both strategically valuable and financially feasible. Exploiting China's 2007Property Lawas a quasi‐natural experiment, we find that firms more exposed to the reform significantly reduce toxic emissions after theLaw. Importantly, this emission‐reducing effect is concentrated among firms operating under stronger external monitoring and among financially constrained firms that experience improved credit access. Mechanism tests show that green innovation and abatement upgrading partially explain the emission reductions. These findings extend property rights theory by showing that ownership protection does not automatically lead to cleaner production; its sustainability effects depend on monitoring and financing conditions that shape firms' strategic investment choices.</content>
+    <link href="https://doi.org/10.1111/joms.70127"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-06-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/1475-679x.70073</id>
-    <title>Measuring Organizational Capital</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1007/s11142-026-09963-2</id>
+    <title>Private firm information dissemination and analysts’ public firm forecast accuracy</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
     <author>
-      <name>WEI CAI, ANDREA PRAT, JIEHANG YU</name>
+      <name>Justin Chircop, Shaohua He, Jiancheng Duncan Liu, Guochang Zhang</name>
     </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;Prior research has pointed to differences in organizational capital as a reason for the persistent performance discrepancies among otherwise similar firms. In this paper, we develop and validate a new measure of organizational capital. Based on over a million crowd‐sourced employee reviews scraped from Glassdoor, we construct the measure of organizational capital at the firm‐year level using the word embedding model and ChatGPT‐generated synthetic reviews. Our measure varies over time in accordance with macro trends, and differs both across and within firms, reflecting firm heterogeneity and major internal changes. We validate our measure by testing empirical predictions of the properties of organizational capital discussed in prior literature. Our findings suggest that this measure captures a slowly evolving intangible asset that is significantly associated with firm performance and top management's influence, aligning with the conceptualization of organizational capital by Dessein and Prat. We further showcase applications of our measure in accounting, economics, finance, and management literature. Taken together, the paper provides implications for various stakeholders who are interested in assessing and managing firms' organizational capital.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70073"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-06-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;We examine the effect of private firm information dissemination on analysts’ forecast accuracy for public firms, utilizing the mandatory adoption of electronic business registers in EU countries as a (plausibly) exogenous shock. Our findings reveal a significant improvement in analysts’ earnings forecast accuracy following the registers’ implementation that enhanced private firms’ information dissemination, indicating positive information spillovers to public firms. This effect strengthens (i) when private firm disclosures are timelier within the context of the focal public firm’s fiscal year and (ii) when the focal public firm has private firm suppliers, customers, or competitors. However, increased transparency of private firms also reduces analysts’ incentives to cover public firms, as investor attention shifts from public to private firms. This countervailing force negatively impacts analyst forecast accuracy, partially offsetting the positive effects from information spillovers.</content>
+    <link href="https://doi.org/10.1007/s11142-026-09963-2"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2026-06-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/10422587261450579</id>
-    <title>Institutional Space-Making for Equity in Entrepreneurial Ecosystems: Evidence from U.S. Cities</title>
-    <updated>2026-06-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/10591478261466844</id>
+    <title>EXPRESS: From Return to Exchange: The Value of an Omni-channel Journey</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
     <author>
-      <name>Qingfang Wang, Sua Kim, Scott Taylor</name>
+      <name>Somayeh Torkaman, Sarah Gelper, Nevin Mutlu, Tom Van Woensel</name>
     </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Entrepreneurial ecosystems (EE) are widely viewed as engines of innovation, economic development, and opportunity, yet prior research offers limited insight into how equity is institutionally produced and sustained, particularly for minority- and women-owned businesses. We introduce institutional space-making—the purposeful construction of governance, relational, and organizational environments that enable equitable participation—as a core institutional mechanism for ecosystem redesign. Drawing on a multi-city case analysis of the Ascend program across 13 U.S. cities, we identify 3 interrelated processes: (a) structural redesign that confronts exclusionary rules, routines, and evaluative logics; (b) relational mobilization through institutional entrepreneurship that assembles cross-sector coalitions to reconfigure resource flows and opportunity structures; and (c) organizational and implementation practices that embed cultural responsiveness through trust-building and adaptive coordination. Findings show that inclusive ecosystems emerge when these processes are jointly enacted, linking ecosystem design with everyday implementation. Our study advances EE theory by specifying how equity is produced through institutional redesign and offers actionable guidance for policymakers and ecosystem builders seeking durable inclusion.</content>
-    <link href="https://doi.org/10.1177/10422587261450579"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-06-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Omni-channel retailers typically face high return rates, particularly in their online channel. This paper examines how these returns can be converted into exchanges by leveraging omni-channel capabilities. We do so in the context of a fast-fashion retailer running integrated physical store and online channels. Our unit of analysis is a return journey, which starts with an initial online purchase, proceeds with a return, and then potentially continues with subsequent exchanges and returns, replacing the original purchase. Using a random forest with instrumental variables, we study whether store visits for pick-up or return of the initial purchase influence a consumer’s likelihood to make an exchange, thereby generating revenue for the retailer. We explore the heterogeneous effect of these store visits across different customer profiles based on the recency-frequency-monetary value (RFM) framework. Our results indicate that store visits for pick-up or return increase the likelihood of an exchange, with a more pronounced effect among less valuable customers. Follow-up analyses suggest that this effect is driven by the customers’ ability to reduce product uncertainty through in-store inspection. Additionally, a store visit decreases the likelihood of a return (consistent with previous literature) and increases the likelihood of keeping an exchange purchase when it has been made. Our findings thus underscore the critical role of physical stores for online shoppers in finding the right product and, consequently, for retailers to convert returns into exchanges.</content>
+    <link href="https://doi.org/10.1177/10591478261466844"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261467752</id>
+    <title>EXPRESS: Are You Okay? Effects of a National Peer-Support Campaign on Mental Health</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <author>
+      <name>Nicole Black, Lachlan Deer, David W. Johnston, Johannes S. Kunz</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;National public health awareness campaigns that emphasize peer-to-peer support are increasingly adopted, but evidence on the effects of peer-based programs at scale remains limited. Using quasi-experimental methods, we examine whether the prominent nationwide “R U OK? Day” campaign affects short-term mental health outcomes in Australia. Leveraging survey and administrative data, we find R U OK? Day leads to a 4% of a standard deviation increase in self-reported mental wellbeing, with the effect particularly pronounced among middle-aged males who experience a 9% of a standard deviation increase. We find no detectable effects on mental health care utilization, and we detect no statistically significant changes in suicide-related deaths in the short run, though the mortality outcomes are rare and power is limited. Our results underscore that peer-based campaigns can improve mental wellbeing, especially for high-risk groups, and point to a distinction between short-run psychological responses and outcomes that require behavioural follow-through.</content>
+    <link href="https://doi.org/10.1177/00222429261467752"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261466668</id>
+    <title>EXPRESS: How Closely Should You Follow a Trend? Atypicality and Engagement on Social Media</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <author>
+      <name>Marc Bravin, Melanie Clegg, Reto Hofstetter, Marc Pouly, Jonah Berger</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Following trends on social media has become increasingly popular. But what is the best way to do so? Should brands and other creators copy the trend as closely as possible, or should they put a more unique spin on it? To answer this question, we develop a multimodal, unsupervised video analytics tool (MUVID) to quantify the typicality of over 85,000 TikTok dance videos. Results indicate that more atypical videos (i.e., more differentiated from the trend) generate more engagement. Consistent with the notion that atypicality drives engagement, this relationship is amplified when atypicality is easier to observe (i.e., when audiences have seen more trend videos). Follow-up experiments, including a content creator field experiment, manipulate atypicality and confirm its causal impact. Our findings provide practical guidance on how to create more impactful content, shed light on effective trend following, and offer a tool (available through an app) that researchers and practitioners can use to quantify typicality and analyze short videos more generally.</content>
+    <link href="https://doi.org/10.1177/00222429261466668"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261442455</id>
+    <title>Shining a Light on Dark Money in Corporate Politics: Unveiling CEO Ideology’s Influence on Corporate Political Transparency</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <author>
+      <name>Mirzokhidjon Abdurakhmonov, Amy Elizabeth Ingram, Jason W. Ridge</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Although calls for firms to disclose their political spending have intensified, nonmarket strategy scholars have yet to explain why some firms embrace corporate political transparency (CPT) while others remain opaque. We theorize that CEO political ideology serves as a critical antecedent of CPT. We argue that liberal CEOs, valuing stakeholder accountability, favor CPT, whereas conservative CEOs, prioritizing shareholder primacy and reputational control, resist it. We further argue that the effect of CEO ideology on CPT depends on contextual factors that shape the discretion CEOs retain in navigating CPT trade-offs. Using a sample of publicly traded firms covered by the Zicklin CPT Index, we find that CEO liberalism increases CPT, but this effect weakens when firm-specific political uncertainty is high, when industry-level transparency norms are strong, and when industry concentration is high. Our study recasts CPT as a value-infused choice contingent on boundary conditions that influence managerial discretion, extends upper echelons theory into the political arena, and advances political activity research.</content>
+    <link href="https://doi.org/10.1177/01492063261442455"/>
+    <category term="Journal of Management"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.1792</id>
+    <title>Leveraging Information Networks for Marketing Brand Alliance Discovery: A Data-Driven Framework for Actionable Insights</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <author>
+      <name>Pankhuri Malhotra, Daniel Ringel, Keran Zhao, Yaxin Cui</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Marketing brand alliances are consumer-facing collaborations in which brands are jointly presented through shared offerings or campaigns. Yet, despite their widespread use in practice, no existing framework supports their market-wide, ex ante discovery with execution guidance. We address this gap by formalizing brand alliance opportunity discovery as a new computational design problem characterized by two desiderata that prior work has not jointly addressed: signal fusion and actionability. We propose BANE (Brand Alliance Network Exploitation), a sociotechnical framework that leverages information networks derived from digital user traces to satisfy these desiderata through four phases: (1) predicting alliance opportunities by integrating offline brand attributes, online consumer co-mention signals, and network embeddings; (2) validating predictions through consumer and brand manager surveys; (3) qualifying predicted positive, non-materialized alliance opportunities for actionability across quadrants; and (4) generating marketing-mix execution guidance. Temporal holdout testing demonstrates that BANE predicts future alliances from pre-announcement signals, ablation analysis confirms the incremental value of each signal layer, and stakeholder surveys show that BANE-identified opportunities are perceived as significantly more promising than controls. Our work contributes three salient design insights to the IS literature: multi-layer signal fusion is necessary for identifying truly promising brand alliance opportunities; consumer co-mention networks systematically align with theory-grounded alliance covariates, providing a distinct informational input for alliance prediction; and coupling prediction with qualification and prescription enhances managerial actionability. These insights enable a scalable, data-driven alternative to survey-based alliance search while generating predictive knowledge that can motivate future causal research on the mechanisms underlying brand alliance formation.</content>
+    <link href="https://doi.org/10.1287/isre.2025.1792"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-29T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70033</id>
