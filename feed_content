@@ -2,46 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-07-01T13:14:30.161018+00:00</updated>
+  <updated>2026-07-02T13:07:59.855389+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdag057</id>
-    <title>Spatial Implications of Telecommuting</title>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <author>
-      <name>Matthew J Delventhal, Andrii Parkhomenko</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We build a quantitative spatial model in which some workers can substitute on-site effort with work done from home. Ability and propensity to telecommute vary by education and industry. We quantify our framework to match the distribution of jobs and residents across 4,502 U.S. locations. Then, we simulate permanent increases in the attractiveness and productivity of telework that lead to greater adoption of hybrid and fully remote work. To validate our model, we show that our results are positively correlated with local changes in residents, jobs, and housing costs since 2019. The rise of telework results in a rich non-monotonic pattern of reallocations of residents and jobs within and across cities. Workers who can telecommute experience welfare gains, and those who cannot suffer losses. Broader access to jobs reduces wage inequality across residential locations, and heralds a partial reversal in the spatial concentration of talent and spending power known as the “Great Divergence”.</content>
-    <link href="https://doi.org/10.1093/restud/rdag057"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-06-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1007/s11142-026-09970-3</id>
-    <title>Attention to detail: how do information users process exhibits in Form 10-K?</title>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <author>
-      <name>Stephanie F. Cheng, Yimeng Li, Pengkai Lin</name>
-    </author>
-    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;Form 10-K offers a setting for studying how users process complex, multi-layered disclosures: managerial narratives in the main file alongside separate exhibits, such as contracts and certifications, that provide unfiltered detail. Drawing on rational inattention theory, we investigate how users allocate limited attention across these components. Users typically begin with the main file and selectively access exhibits when the main file appears shorter, less readable, or less confident, indicating higher perceived information loss. This pattern strengthens for exhibits that offer more detail on topics discussed in the main file and among institutional investors and time-constrained users. Exhibit access persists beyond the initial filing window and increases around subsequent firm events, especially when external monitoring strengthens and event-related information asymmetry grows. Collectively, our findings underscore the active, discerning nature of user attention in navigating multi-layered disclosures and reveal the often-overlooked informational value of exhibits in Form 10-K.</content>
-    <link href="https://doi.org/10.1007/s11142-026-09970-3"/>
-    <category term="Review of Accounting Studies"/>
-    <published>2026-06-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1007/s11142-026-09961-4</id>
-    <title>Individual investors’ paid news subscriptions</title>
-    <updated>2026-06-11T00:00:00+00:00</updated>
-    <author>
-      <name>Jeremiah Green, Eunjee Kim, Ben Lourie, Chenqi Zhu</name>
-    </author>
-    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;We study individual investors’ paid news subscriptions. Among individual investors, only 4% of individual-quarters include a news subscription, and 1.2% include a financial news subscription. These low rates mask substantial variation across news sources and over time. Within financial news, approximately 30% of aggregate subscription dollars are spent on crowdsourced news, with the remaining 70% spent on traditional financial news. Subscription dollars vary over time, with crowdsourced news at times matching or exceeding traditional financial news. We also find that subscriptions are correlated with capital market activity. Aggregated payments for subscriptions, particularly for crowdsourced news, are correlated with stock market valuation, trading volume, and investment. Similarly, within individuals, the association between subscriptions and investment is driven primarily by crowdsourced news: subscribing is associated with a $280 increase in quarterly investment. Overall, our findings highlight variation in individual investors’ news subscriptions and their correlated investment activities.</content>
-    <link href="https://doi.org/10.1007/s11142-026-09961-4"/>
-    <category term="Review of Accounting Studies"/>
-    <published>2026-06-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70032</id>
     <title>Hatching and fledging? A meta‐analysis of the performance effects of business incubators</title>
@@ -79,15 +43,111 @@
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2025.2240</id>
-    <title>The Curious Price of Distributional Robustness in Reinforcement Learning with a Generative Model</title>
+    <id>https://doi.org/10.25300/misq/2026/18723</id>
+    <title>Translational Action in Cybernetic Systems</title>
     <updated>2026-06-12T00:00:00+00:00</updated>
     <author>
-      <name>Laixi Shi, Gen Li, Yuting Wei, Yuxin Chen, Matthieu Geist, Yuejie Chi</name>
+      <name>Jonathan Wareham, Angelo Kenneth Romasanta, Laia Pujol Priego</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Robust Reinforcement Learning Without Compromising Data EfficiencyThis paper investigates model robustness in reinforcement learning (RL) to reduce the sim-to-real gap in practice. We adopt the framework of distributionally robust Markov decision processes (RMDPs), which aims to learn a policy that optimizes worst-case performance over a prescribed uncertainty set around a nominal Markov decision process (MDP). Despite recent efforts, the sample complexity of RMDPs has remained largely unresolved, leaving open whether distributional robustness has any statistical consequences when benchmarked against standard RL. Assuming access to a generative model of the nominal MDP, the paper provides a near-optimal characterization of the sample complexity of RMDPs across the full range of uncertainty levels under two common uncertainty sets specified by either total variation (TV) distance or chi-squared divergence. Somewhat surprisingly, the results reveal that RMDPs are not necessarily easier or harder to learn than standard MDPs. The statistical consequences of the robustness requirement depend heavily on the size and shape of the uncertainty set, requiring less data in the TV case but more in the chi-squared case compared with standard MDPs.</content>
-    <link href="https://doi.org/10.1287/opre.2025.2240"/>
-    <category term="Operations Research"/>
+    <content>&lt;b&gt;MIS Quarterly&lt;/b&gt; &lt;br&gt;Sensors, actuators, and controllers are becoming deeply embedded across nearly every aspect of life, from transportation and manufacturing to energy systems, consumer technologies, and healthcare. This expansion of cybernetic systems carries two important implications. First, the category of “computing machines” is broadening in both form and scope, now including a diverse array of computational architectures that sense and actuate across increasingly complex physical environments. Second, the growing integration of cybernetics is driving higher degrees of computational autonomy, enabling systems to operate with greater independence—both augmenting and, in some cases, replacing human agency. At the core of cybernetic systems are translational actions (TAs) that facilitate the detection and transformation of the energies of the physical world, across the strata of technology artifacts, to ultimately become virtualized representations in the computational world. However, the concept of TA remains underspecified, offering scant insight into its concrete forms, the value and costs these different forms create, and ultimately, how physical-digital TAs function in real-world systems. In response, we conducted an inductive study of 188 detection and computational technologies originating from leading scientific research institutions to develop a more nuanced vocabulary of how translational actions govern the relationship between digital representations and their physical referents. Our analysis identifies six distinct TA forms and three hierarchical levels at which they operate, each with specific trade-offs that we characterize as fidelity costs. These insights enable us to theorize how TAs shape the technical construction of data as inputs to digital representations, and, in turn, how such representations attain performative value in the physical world.</content>
+    <link href="https://doi.org/10.25300/misq/2026/18723"/>
+    <category term="MIS Quarterly"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.00564</id>
+    <title>Climate Transition Beliefs</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Marco Ceccarelli, Stefano Ramelli</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study an overlooked driver of heterogeneity in green investment behavior: differences in expectations about the long-term trajectory of the energy transition (climate transition beliefs). Drawing on a survey of U.S. retail investors, we document considerable heterogeneity in climate transition beliefs at different long-term horizons. Transition optimism is positively associated with expected green financial performance and preferences for green investments, particularly among investors without strong pro-environmental attitudes. Two preregistered survey experiments provide causal evidence that transition beliefs play a key role in shaping green return expectations and investment decisions. Distinguishing between heterogeneous beliefs and preferences is crucial for a better understanding of the motivations behind green investment behavior.This paper was accepted by Caroline Flammer, sustainability.Funding: This work was supported by the Universität St. Gallen Basic Research Fund [Grant 2130787].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00564 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.00564"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04703</id>
+    <title>Driving Merchant Adoption of Digital Payment Solutions Through Customer Success Management</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Shreya Kankanhalli, Stephen J. Anderson, Leonardo Iacovone, Sridhar Narayanan</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Despite their potential to advance financial inclusion and improve business outcomes, digital payment solutions have low adoption rates among retail merchants in developing economies. Prior interventions have tackled prepurchase frictions such as awareness and affordability, showing limited success. We instead examine postpurchase frictions in the merchant onboarding journey, focusing on installation complexity and value uncertainty. We implement a randomized field experiment with 479 cash-only retailers in Mexico, testing interventions modeled on customer success management (CSM)—a marketing function widely used by business-to-business technology companies to onboard and retain clients, but not previously examined causally. In the first treatment group (T1: n = 159), we tackle installation complexity by introducing a CSM to support system integration for a provided digital payment solution. In the second treatment group (T2: n = 162), we further tackle value uncertainty by adding a second CSM to support value realization. Relative to the control group (n = 158), long-term adoption increased by 21.4 percentage points in T1 and by an additional 13.4 points in T2. Mechanism evidence shows that system integration primarily operates on the extensive margin of ensuring a functioning device in-store and substitutes for missing digital capacity, which constitutes merchants’ digital savviness and the local installed base of cardholders. By contrast, value realization operates on the intensive margin of usage and complements existing digital capacity. Cost-benefit analyses and spillover analyses support the scalability of our interventions. These findings offer insights into promoting the diffusion of digital payments.This paper was accepted by Raphael Thomadsen, marketing.Funding: This research was supported by the Stanford King Center on Global Poverty and Development, the World Bank’s Latin America and the Caribbean Gender Innovation Lab (LACGIL) with the Umbrella Facility for Gender Equality (UFGE), and the MasterCard Center for Inclusive Growth. Further support is acknowledged from the Leonard L. Berry Chair in Services Marketing at Mays Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04703 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04703"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.04717</id>
+    <title>The AI Democratization Paradox: Evidence from Decentralized Knowledge Communities</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Kai Zhu, Dylan Walker</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Does AI democratize knowledge production or amplify existing disparities? We investigate this tension by studying the deployment of neural machine translation across more than 100 Wikipedia language communities. Leveraging rich, fine-grained data and exogenous variation from a natural experiment, we uncover the “AI democratization paradox,” where the technology simultaneously drives democratizing and concentrating forces. AI lowered barriers, leading to a substantial increase in content creation across diverse target languages without sacrificing quality or readership. However, the benefits were concentrated: well-resourced communities captured disproportionate gains—three to four times larger than mid-tier editions. Whereas editors actively leveraged AI to address representation gaps, translating female biographies at twice the expected rate, structural constraints still limited the impact in high-need areas. We conclude that technological solutions alone cannot overcome structural inequalities; AI’s distributional impact is contingent on the interplay between technological capabilities and existing social structures.This paper was accepted by Anindya Ghose, information systems.Funding: This work was supported by the Wikimedia Research &amp; Technology Fund and European Union – NextGenerationEU funds, Component M4.C2, Investment 1.1, PRIN 2022 PNRR, CUP: J53D23015440001.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04717 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04717"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01348</id>
+    <title>Fast and Simple Adaptive Elicitations</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Nicolò Bertani, Enrico Diecidue, Patrice Perny, Paolo Viappiani</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a new Fast and Simple Elicitation procedure (FSE) for the measurement of decision models. Our procedure bounds the function of the decision model, iteratively halves the maximal distance between the bounds, and incrementally restricts the feasible space of associated parameters. It requires no distributional assumptions and relies on linear programming and approximating splines, improving tractability and descriptiveness. We apply FSE to elicit the probability weighting function in three studies: a simulation and two experiments. Our results demonstrate FSE’s ability to faithfully recover the function. Both in the laboratory and online, FSE reflects the choices made by a respondent more precisely than alternative elicitation procedures and standard functional forms. Importantly, FSE also predicts the out-of-sample choices of a representative online sample more accurately than its alternatives. Taken together, our results shed new light on the prevalence of possibility and certainty effects, and convey general implications for experimental modeling and design.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: This work was supported by INSEAD R&amp;D and by a grant from Sorbonne University.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01348 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01348"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07033</id>
+    <title>Decentralized Autonomous Organization Governance</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Jungsuk Han, Jongsub Lee, Tao Li</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Decentralized autonomous organizations (DAOs) are entities without central leadership and operate based on a set of decision-making rules encoded into smart contracts using blockchain technology. In this study, we develop a theoretical model of DAO governance featuring strategic token trading under token-based voting to investigate potential conflicts of interest between a large participant (a “whale”) and many small participants. Our results show that ownership concentration has a negative effect on platform growth, but platform size, token illiquidity, and long-term incentives can mitigate this negative effect. We confirm these predictions using novel voting data on major DAOs from 2020 and 2024.This paper has been accepted by Lin William Cong for the Virtual Special Issue on Digital Finance.Funding: J. Han and J. Lee received financial support from the Institute of Management Research at Seoul National University.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.07033 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07033"/>
+    <category term="Management Science"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0379</id>
+    <title>Influencer Authenticity Cues, Connectedness, and Purchase Decisions</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Hyunji So, Angela Aerry Choi, Jui Ramaprasad</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Practice and Policy-Oriented AbstractSocial media has accelerated the growth of influencer marketing, for which authenticity signals are central to shaping consumer purchase behavior, yet empirical evidence on their effects remains limited. Through a partnership with an influencer-affiliated e-commerce platform, we analyze influencer endorsement posts and develop a methodological framework to extract transparency cues from content, providing a practical tool for measuring and evaluating authenticity at scale. We show that these cues have distinct effects on consumer purchase decisions: unedited content and objectivity increase purchase likelihood, whereas openness about brand affiliations can reduce it, especially when consumers feel strongly connected to influencers. In contrast, consumers who engage with a broader set of influencers rely more heavily on these cues when making decisions. These findings offer actionable guidance for influencers and brands in designing content and partnership strategies that align with audience relationships and expectations. From a policy perspective, the results highlight the need for more nuanced disclosure guidelines as uniform transparency requirements may produce unintended effects across different relationship contexts, underscoring the importance of evidence-based regulation in digital advertising environments.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0379"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1339</id>
+    <title>Anticipating the Digital: How Interpretive Debt and Layered Architectural Framing Shape Innovation Pathways</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Virginia Leavell</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Long before new technologies are adopted, organizations already anticipate and shape what those technologies will become. Through a comparative ethnography of two municipal water agencies pursuing “smart meter” systems, this study shows how past innovation experience steers digital innovation’s earliest initiation period. Both agencies faced similar conditions but pursued the technologies in very different ways. The agency with decades of digital metering experience approached smart meters as a limited hardware replacement, while the second agency pursued them as a foundation for data-driven organizational transformation. To explain this divergence, this study introduces interpretive debt: the accumulated assumptions, obligations, and habits of attention from past innovation that shape what organizations recognize as possible in new technologies. It also develops layered architectural framing, showing how organizations focus on different layers of the digital stack. These aspects become consequential through anticipatory practices: organizational actions enacting projected futures before adoption. Through procurement, these practices shape what technologies can do; through reorganizing departments and workflows, they shape what the organization becomes. For organizations confronting new technologies, this study shows how digital futures take shape well before procurement, when organizations define both the technologies they adopt and the pathways they pursue.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1339"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0581</id>
+    <title>Navigating the Influencer Marketplace: Long-Tail Effects and Content Strategies</title>
+    <updated>2026-06-12T00:00:00+00:00</updated>
+    <author>
+      <name>Lanfei Shi, Shu He, Sulin Ba</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study examines how influencer marketplaces reshape sponsorship opportunities and content strategies on social media platforms. Using the launch of RedNote’s influencer marketplace as a natural experiment, we analyze more than 152,000 posts from 1,161 influencers before and after the platform introduced centralized search and matching tools. The findings show that reducing search costs and increasing transparency disproportionately benefit medium-tier influencers, who receive significantly more sponsorship opportunities than top-tier creators after the marketplace launch.The study also finds that influencers strategically adapt their content in response to increased sponsorships. Medium-tier influencers post more organic and diverse content to maintain audience trust and reduce the reputational risks of appearing overly commercialized, whereas top-tier influencers improve the quality of sponsored posts.The findings offer important policy and managerial implications. For platforms, transparent creator marketplaces can broaden economic opportunities for smaller creators and support a healthier, more competitive digital ecosystem. For policymakers, the results highlight how platform design and transparency policies influence competition, market access, and consumer trust in digital labor markets. The study also underscores the importance of governance mechanisms that balance monetization, disclosure, and authenticity in influencer marketing.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0581"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-12T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -141,6 +201,18 @@
     <published>2026-06-14T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/jcpy.70032</id>
+    <title>The continuity heuristic: Temporal extrapolation in consumer judgment</title>
+    <updated>2026-06-14T00:00:00+00:00</updated>
+    <author>
+      <name>Matthew Fisher, Adam H. Smiley</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;From choosing an established brand over a newcomer to deciding when to replace a product or commit to a subscription, consumers routinely make judgments about how much longer things will last. Across 24 studies (N= 9718), this research introduces and tests thecontinuity heuristic, an intuitive forecasting strategy in which consumers use how long something has lasted as a basis for predicting how long it will continue. This temporal extrapolation shapes judgments across a diverse set of consumer domains, including brand heritage, product obsolescence, subscription retention, and trend forecasting. Even when quality is held constant, and age is not explicitly mentioned, past duration predicts future longevity expectations. We propose a question‐substitution account, where consumers faced with the difficult question “How long will it last?” often rely on the easier and more accessible “How long has it lasted?” This substitution explains why the effect weakens for technology products, where clear lifespan norms provide direct answers to the target question, and for expert consumers, who can draw on domain knowledge to estimate longevity without relying on past duration. This research contributes to the psychology of temporal judgment and provides marketers with a tool for predicting preference, loyalty, and perceived durability.</content>
+    <link href="https://doi.org/10.1002/jcpy.70032"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/hrm.70086</id>
     <title>Building a Contextually Agile Workforce</title>
     <updated>2026-06-14T00:00:00+00:00</updated>
@@ -183,21 +255,33 @@
     <author>
       <name>Nail Kashaev, Natalia Lazzati, Ruli Xiao</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We develop a general model of discrete choice that incorporates peer effects in preferences and consideration sets. We characterize the equilibrium behavior and establish conditions under which all parts of the model can be recovered from a sequence of choices. We allow peers to affect preferences, consideration, or both. We show that these peer-effect mechanisms have different behavioral implications in the data. This allows us to recover the set and the type of connections between the agents in the network. We then use this information to recover each agent’s preferences and consideration mechanisms. These nonparametric identification results allow for general forms of heterogeneity across agents and do not rely on the variation of either exogenous covariates or the set of available options (menus). We apply our results to model expansion decisions by tea chains and find evidence of limited consideration. We simulate counterfactual predictions and show how limited consideration slows market penetration and competition.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We develop a general model of discrete choice that incorporates peer effects in preferences and consideration sets. We characterize the equilibrium behaviour and establish conditions under which all parts of the model can be recovered from a sequence of choices. We allow peers to affect preferences, consideration, or both. We show that these peer-effect mechanisms have different behavioural implications in the data. This allows us to recover the set and the type of connections between the agents in the network. We then use this information to recover each agent’s preferences and consideration mechanisms. These nonparametric identification results allow for general forms of heterogeneity across agents and do not rely on the variation of either exogenous covariates or the set of available options (menus). We apply our results to model expansion decisions by tea chains and find evidence of limited consideration. We simulate counterfactual predictions and show how limited consideration slows market penetration and competition.</content>
     <link href="https://doi.org/10.1093/restud/rdag059"/>
     <category term="Review of Economic Studies"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.0761</id>
-    <title>An Efficient Algorithm for Continuous Bi-Criteria Traffic Assignment</title>
+    <id>https://doi.org/10.1287/mnsc.2023.04141</id>
+    <title>Using Neural Networks to Guide Data-Driven Operational Decisions</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
     <author>
-      <name>Jun Xie, Qianni Wang, Jiayang Li, Yu (Marco) Nie</name>
+      <name>Saman Lagzi, Ningyuan Chen, Joseph Milner</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Computing Equilibrium with Heterogeneous User PreferencesThe authors address a long-standing challenge in transportation network modeling: how travelers choose routes in congested networks when balancing multiple route attributes, some of which are naturally continuous. Their new algorithm decomposes this complex problem into a sequence of intuitive route-level adjustments based on implicit boundaries of continuous attributes. This enables the model to capture detailed route-level decisions that have been difficult to compute at scale in such settings. The results show that the new method significantly outperforms existing approaches, often delivering speedups of an order of magnitude. Beyond computational gains, the study also establishes rigorous convergence guarantees and demonstrates the advantages of working directly with a continuous formulation as opposed to conventional discretization-based methods. The work opens the door to more realistic and scalable modeling of transportation systems with behaviorally heterogeneous users.</content>
-    <link href="https://doi.org/10.1287/opre.2024.0761"/>
-    <category term="Operations Research"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose deep neural networks for data-driven stochastic optimization. Using historical data (covariates, decisions, costs), we propose to train a neural network to predict the objective value as a function of both the decision and covariate. After training, for a given covariate, this predicted objective is optimized over the decision variables using gradient-based methods with analytical gradients and Hessians. Performance is characterized by neural network generalization bounds. Comprehensive experiments on newsvendor, personalized assortment pricing, and call center staffing problems demonstrate our method’s strength over existing approaches such as conditional stochastic optimization and analytical approximations, especially when (i) the objective function is unknown, (ii) moderate to large data sets are available, or (iii) the problem structure resists simple parametric approximations.This paper was accepted by Chung Piaw Teo, optimization and decision analytics.Funding: The research of N. Chen is supported by the UTMM MARC Grant and the IMI Research Grant. The research of J. Milner is supported by NSERC [Grant 453954].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04141 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04141"/>
+    <category term="Management Science"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.03083</id>
+    <title>Information Design of Online Platforms</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>T. Tony Ke, Song Lin, Michelle Y. Lu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study how an online platform strategically uses information to both guide consumer search and influence sellers’ targeted advertising. Our model unifies personalized recommendations and targeted ads under an information design framework. We illustrate a fundamental tradeoff facing the platform between improving match efficiency and extracting seller surplus by inducing their competition for prominence. The optimal information design may be socially inefficient because it balances the tradeoff by limiting consumer search and mixing the matched product with a long tail of unmatched ones for recommendation. This implies that sponsored targeted advertising on retail platforms may introduce match inefficiency.This paper was accepted by Greg Shaffer, marketing.Funding: T. T. Ke acknowledges financial support from the National Natural Science Foundation of China [Grants 72422003 and 72394395] and the Hong Kong Research Grants Council [Grant 14503122].</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.03083"/>
+    <category term="Management Science"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -213,6 +297,18 @@
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/01492063261448817</id>
+    <title>Crises Unbound: Institutions, Occupational Groups, and the Construction of Omnicrises</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Gerardo Patriotta, Maxim Voronov</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Omnicrises are systemic disruptions that transcend organizational boundaries, rapidly escalating across institutional domains and destabilizing the jurisdictional order through which social life is coordinated. Unlike conventional crises that are confined to specific organizations or industries, an omnicrisis triggers a state of jurisdictional fracturing, creating vacuums of authority that undermine communities’ sense of stability and continuity. We argue that omnicrises occur when systemic disruptions misalign established connections between occupational mandates, settled jurisdictions, and recognized expertise, compelling occupational groups to avow, delegate, or realign authority in response to unfolding threats. Resolution emerges through processes of institutional repair that stabilize a coherent jurisdictional settlement and enable the construction of a “new normal.” By incorporating insights from institutional theory and the sociology of occupations, we advance understanding of crisis governance, expertise under systemic threat, and the reconstruction of institutional order in an era of pervasive uncertainty.</content>
+    <link href="https://doi.org/10.1177/01492063261448817"/>
+    <category term="Journal of Management"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/jcr/ucag015</id>
     <title>Defining and Understanding Vintage</title>
     <updated>2026-06-15T00:00:00+00:00</updated>
@@ -222,6 +318,78 @@
     <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Trendsetters and cutting-edge brands constantly seek new styles and fresh designs that set them apart from previous trends. However, in recent decades, these early adopters and innovators have also increasingly turned to selected pieces from the past, a market phenomenon often referred to as “vintage.” But what are vintage products exactly? This research develops a unified framework for understanding vintage consumption using a multimethod approach that combines interviews, surveys, online product scraping, structural equation modeling, experiments, and data on over 2,000 vintage products across 16 categories collected at vintage fairs, stores, and online retailers. Vintage is a composite formative construct determined by three dimensions: moderate age, iconicity, and scarcity. By mapping its nomological network, the authors clarify the dimensions vintage shares with related constructs (i.e., antique, secondhand, retro), examine its downstream consequences for consumers, and identify its managerial implications. Vintage products deliver personal (e.g., heritage connection and authenticity), social (e.g., coolness), and sustainability benefits (e.g., environmental responsibility) for consumers. Moreover, highlighting a product’s age, iconicity, and scarcity can enhance consumer responses to vintage more than to new products. This research provides a theoretical foundation for understanding vintage consumption and offers guidance for identifying and positioning vintage products in the marketplace.</content>
     <link href="https://doi.org/10.1093/jcr/ucag015"/>
     <category term="Journal of Consumer Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0556</id>
+    <title>Making the Crowd Wiser: (Re)Combination Through Teaming in Crowdsourcing</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Junjie Zhou, Jungpil Hahn</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Open innovation and crowdsourcing have become standard tools for governments, foundations, and firms seeking solutions to hard problems. The implicit assumption is that more participation and more collaboration produce better outcomes. This research complicates that picture. Using agent-based simulation calibrated against one of the world’s largest crowdsourcing platforms, we show that spontaneous team formation during contests trades off parallel exploration for collaborative depth and that this tradeoff is not always favorable. For simple, well-defined problems, enabling teaming at the right moment improves the odds of finding the best solution. For complex, interdependent problems, precisely the kind that public innovation challenges tend to target, poorly timed or signal-driven teaming can suppress the diversity of search and reduce the likelihood of breakthrough outcomes. Policymakers designing grand challenge competitions, innovation prizes, or open problem-solving initiatives should attend carefully to the structural features of their platforms: what information is made visible, when teaming is permitted, and how incentives interact with collaboration norms. The design of the information environment is not neutral; it shapes who collaborates with whom, and ultimately whether the crowd delivers on its promise.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0556"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0579</id>
+    <title>From Opacity to Transparency: User Behavior and Downstream Effects in Algorithmic Evaluation</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Akshat Lakhiwal, Che-Wei Liu, Hillol Bala, Hung-Yue Suen</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations are increasingly integrating artificial intelligence (AI) into traditionally human-driven evaluation processes, such as recruitment and performance evaluation. Yet the complexity of the underlying AI algorithms often renders these processes opaque, limiting users’ understanding and potentially inducing stress and other behavioral changes. In response to these challenges, transparency is often advocated as a mitigative approach, but its effects remain somewhat ambiguous. While transparency in algorithmic evaluation may mitigate interviewees’ stress in the recruitment context, it may also incentivize opportunistic impression management (IM), thereby engendering a transparency paradox. Focusing on this tension, we theorize that while algorithmic evaluation, relative to human evaluation, may heighten stress and deceptive IM in the recruitment process, transparency has the potential to mitigate these disruptions. We test this across eight studies, including two main experiments and a quasi-field replication. In Experiment I, we found that while algorithmic evaluation increased interviewees’ stress and deceptive IM relative to human evaluation, transparency counteracted these effects, aligning them closely with human evaluation. In Experiment II, we study how these effects caused deviations in downstream interview performance when such performance is assessed in human-only, AI-augmented (wherein human decision-makers are assisted by AI scores), or fully automated decision-making configurations. Although transparency consistently reduced deviations in stress and IM from human evaluation for interviewees, its corrective effect on interview performance was constrained on the evaluative side: when AI scores were present, evaluators anchored on them, discounting their own judgment, even as the AI scores failed to distinguish honest from deceptive behaviors. Together, these findings disentangle the dual-edged effects of transparency in algorithmic evaluation, showing that its benefits depend not only on how users respond, but also on how evaluation is conducted. This work advances research on algorithmic decision-making and socio-technical systems, and offers implications for organizations, policymakers, and AI developers.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0579"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1526</id>
+    <title>Let it Ride! An Empirical Investigation of Problem Gambling and the Implications of Legalized Online Sports Betting</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Gorkem Turgut Ozer, Brad N. Greenwood, Anandasivam Gopal</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;In 2018, the Supreme Court of the United States struck down the Professional and Amateur Sports Protection Act (PASPA), ending a nearly 30-year federal ban on sports betting and paving the way for dozens of states to legalize such operations. The impact has been pronounced, with the sports betting market growing nearly 27% year on year since the decision. Yet, while our understanding of the financial effects of these markets is beginning to emerge, the downstream consequences of the legalization of sports betting remain understudied. In this paper, we examine the impact of legalization of both offline and online sports betting on the well-being of individuals in those jurisdictions. We focus on two outcomes: the number of calls to the National Problem Gambling Hotline and the number of suicides reported per state as a result of legalization of sports betting. Using a difference in differences approach to exploit the phased legalization of sports betting at the state level, results indicate that while the number of calls associated with problem gambling is uncorrelated with the legalization of physical sportsbooks, it is strongly correlated with the legalization of online sports betting. Further, results suggest that the legalization of online betting is correlated with an increase in suicides, an outcome historically associated with problem gambling. Finally, we observe that these deleterious effects manifest more strongly for particular groups (viz. young, unmarried, and relatively less educated men). Our work informs policymakers of the implications of legalization of sports betting, thereby adding to the growing research addressing this important topic.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1526"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.2160</id>
+    <title>Revenue in First- and Second-Price Display Advertising Auctions: Understanding Markets with Learning Agents</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Martin Bichler, Alok Gupta, Matthias Oberlechner</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;The transition of display ad exchanges from second-price to first-price auctions has raised questions about its impact on revenue. Auction theory predicts revenue equivalence between these two auction formats under standard assumptions. However, display ad auctions differ from standard auction models in at least two important ways. First, automated bidding agents cannot easily derive equilibrium strategies in first-price auctions because distributional information about competitors' values, or even the number of competitors, is often unavailable. Second, due to principal-agent problems, bidding agents often optimize return on investment (ROI) rather than quasilinear payoff. The literature on learning agents for real-time bidding is growing because of the practical relevance of this setting. However, whether such learning agents converge to equilibrium is an open question: learning dynamics in games can cycle, become chaotic, or generate off-equilibrium outcomes. Recent experiments suggest that learning agents may also converge to collusive low-price outcomes. Since bidders' underlying values are typically unobserved, it is difficult to determine from field data alone whether observed bids are consistent with equilibrium behavior. In this paper, we derive equilibrium predictions and study the convergence behavior of widely used online learning algorithms in a stationary benchmark model of display-advertising auctions. We also leverage recent developments in equilibrium computation to obtain equilibrium predictions in settings where analytical solutions to the governing differential equations are unavailable. In the stationary benchmark environments we study, the learning algorithms do not exhibit systematic bid suppression and instead move toward the computed equilibrium. The benchmark identifies a theoretically important channel through which auction-format changes can affect revenues when bidders optimize ROI rather than quasilinear payoff: lower first-price revenues can arise from non-collusive ROI-based equilibrium behavior in a canonical auction model. We show that, in equilibrium, second-price auctions achieve higher expected revenue than first-price auctions with ROI-maximizing bidders. These results do not imply that algorithmic collusion is unlikely in real display-advertising markets, but they show that lower first-price revenues are not uniquely diagnostic of collusion and may also reflect bidder objectives.</content>
+    <link href="https://doi.org/10.1287/isre.2025.2160"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1198</id>
+    <title>Explaining Sustained Blockchain Decentralization with Quasi-Experiments: The Resource Flexibility of Consensus Mechanisms</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Harang Ju, Madhav Kumar, Ehsan Valavi, Sinan Aral</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Blockchains support a rapidly growing digital economy. Through decentralization, they enable the ownership and transfer of digital assets without centralized intermediaries while resisting attacks, faults, and collusion. Yet decentralization is not guaranteed and must be sustained against external shocks. What design choices help blockchains maintain decentralization when disrupted? We find that resource flexibility, how easily consensus resources can be moved and redeployed, is key to sustained decentralization. Using three real-world shocks—China’s 2021 crypto mining ban, Hetzner’s 2022 shutdown of Solana validators, and Ethereum’s transition from proof-of-work to proof-of-stake—we show that blockchains whose consensus resources are more flexible recover decentralization faster. These findings offer actionable guidance. Blockchain designers should consider resource flexibility as a first-order design parameter. Operators should diversify infrastructure across jurisdictions to reduce vulnerability to localized shocks. Policymakers should be aware that regulations targeting blockchains can have unintended effects on decentralization.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1198"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1008</id>
+    <title>Gender Gating? Addressing the Impact of Congestion on the User Experience for Women in Online Matrimonial Matching Platforms</title>
+    <updated>2026-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>Sabari Rajan Karmegam, Anandasivam Gopal, Jui Ramaprasad</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Online dating and matrimonial matching platforms suffer from a common problem: Men far outnumber women, making it harder for parties to find matches. Men face inordinately low odds of making a connection with women, whereas women face a barrage of messages from unsuitable men. Gender skew causes women to leave the platform, worsening the problem. In a field experiment with a large Indian matrimonial platform, we test a proposed solution called "gender gating": a default setting where we restrict the visibility of women profiles to men who “match” their requirements, based on accepted social norms on age, education, and income. Women can choose to override these defaults. The logic is simple: Limiting visibility cuts unwanted attention at source instead of requiring women to exert effort in screening messages. We see positive results: Among treated women, incoming requests fell 7%, and matching efficacy (incoming requests converting to matches) rose 72%. Women initiated 75% of contacts themselves, indicating growing comfort with the platform. Importantly, outcomes for men did not worsen because they saw profiles that were suited to them per social norms. In all, our approach shows that platform design grounded in local norms is a more precise lever than blanket regulations.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1008"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-15T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -246,6 +414,42 @@
     <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;The paper explores peer effects in user churn within a digital socially-connected platform and investigates how firms can leverage peer effects and network structure for customer relationship management (CRM). The data come from a massively-multiplayer online game, where gamer social ties are endogenous. We build a two-stage structural model to capture network formation and peer effects in churn. Unobserved gamer heterogeneity inferred from network formation corrects for endogeneity bias in peer effects. The main findings are: (i) Peer effects substantially amplify intervention effectiveness, with an average social multiplier of 2.48. Critically, the full model with unobserved gamer heterogeneity reveals substantial cross-network variation in social multipliers that the restricted model largely masks. (ii) Users vary far more in how they influence peers' retention than in their own likelihood of retention. (iii) User's network value is driven primarily by network centrality measures, unlike user's direct value which correlates more with individual characteristics.</content>
     <link href="https://doi.org/10.1177/00222437261463518"/>
     <category term="Journal of Marketing Research"/>
+    <published>2026-06-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261464104</id>
+    <title>EXPRESS: A Recipe for Creativity: An Ingredient Embedding Approach</title>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <author>
+      <name>Sibel Sozuer, Oded Netzer, Kriste Krstovski</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;An idea is more than a simple collection of words or ingredients that make up the idea. What makes an idea original or appealing is how these elements are combined in the context in which they appear. This research leverages representation learning methods, specifically word embeddings, to measure internal coherence among the components of a creative idea and capture the relationship between its coherence and idea evaluation or success. Using a large-scale online recipe dataset with over 57K recipes, as well as an ideation dataset of 1,057 ideas, the authors investigate how the fit among idea components relates to downstream measures such as popularity and evaluation. The results consistently show that internal coherence of an idea promotes its popularity, trial, and post-trial evaluation. Counter to prior research on creativity, which suggests that creativity is mostly associated with positive outcomes, the study finds that ideas with unique ingredients have lower popularity or trial, but higher ratings given trial in the context of food recipes. Based on these findings, the authors develop a generative recipe tool that suggests recipe improvements by adding, removing, or substituting ingredients (http://recipecreativity.com/).</content>
+    <link href="https://doi.org/10.1177/00222429261464104"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261463517</id>
+    <title>EXPRESS: People Like Us: Heightened Preference for Ingroup Providers in Mental Healthcare</title>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <author>
+      <name>Phyllis Xue Wang, Zhengyu Shi, Jinjie Chen, Qiyuan Wang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Although mental health conditions have worsened globally, many consumers remain insufficiently engaged in mental healthcare. Intuitively, practitioners can address this challenge by applying strategies that research has shown to promote physical healthcare. However, this approach might not be optimal because the decision-making process for seeking mental healthcare differs significantly from that for seeking physical healthcare. This research examines how consumers’ relative preference for ingroup (i.e., consumers’ own groups) versus outgroup healthcare providers varies when seeking healthcare for mental versus physical illness. Using a large-scale dataset comprising approximately 25 million medical consultations and 11 randomized controlled experiments, we consistently found that when seeking healthcare for mental (vs. physical) illness, consumers placed greater importance on healthcare provider empathy. This resulted in a stronger preference for ingroup over outgroup healthcare providers. The effect of illness type on healthcare provider preference was reduced when consumers were presented with ratings that demonstrated healthcare provider empathy; the main effect was attenuated among consumers with higher global identity. This research contributes to the literature on mental health, healthcare decision-making, empathy, and accessible healthcare. It offers practical implications for marketers, healthcare professionals, and policymakers for promoting mental healthcare and mitigating health disparities.</content>
+    <link href="https://doi.org/10.1177/00222429261463517"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.70022</id>
+    <title>Gender identity, overconfidence, and risk attitudes</title>
+    <updated>2026-06-16T00:00:00+00:00</updated>
+    <author>
+      <name>Edward R. Lawrence, Benedikt Wick</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;We explore the relationship between gender identity, overconfidence, and investment risk‐taking behaviors. We quantify overconfidence as a discrepancy between an individual's perceived and actual financial knowledge, and our empirical analysis reveals significant differences in overconfidence levels across gender identities. Consumers who identify as nonbinary exhibit significantly lower levels of financial overconfidence compared to individuals identifying as either male or female. The lower levels of overconfidence are attributed to a more modest self‐assessment of financial knowledge rather than a difference in actual knowledge. Higher overconfidence is linked with a greater willingness to take on financial risks. Nonbinary individuals exhibit a considerably lower inclination to take risks in their investment decisions. While nonbinary individuals are more likely to experience mental health challenges, these do not explain the reduced levels of overconfidence and risk‐taking. Moreover, the nonbinary pattern is not a generic minority effect.</content>
+    <link href="https://doi.org/10.1002/jcpy.70022"/>
+    <category term="Journal of Consumer Psychology"/>
     <published>2026-06-16T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -274,12 +478,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag060</id>
-    <title>Customer Acquisition, Business Dynamism and Aggregate Growth</title>
+    <title>Customer Acquisition, Business Dynamism, and Aggregate Growth</title>
     <updated>2026-06-17T00:00:00+00:00</updated>
     <author>
       <name>Marek Ignaszak, Petr Sedláček</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Business dynamism -- the process of firm entry, growth and exit -- lies at the heart of modern endogenous growth models. While productivity differences have traditionally been seen as the main driving forces of business dynamism, a growing body of evidence suggests that customer acquisition is at least as important. In light of this evidence, we propose a novel endogenous growth model in which innovating firms must first acquire customers to sell their products. Estimating our model with aggregate and firm-level data, we find that expansions of firms' customer bases (market sizes) boost their incentives to innovate and shift resources towards high-growth businesses (“gazelles”). Combined, these effects explain over 40% of aggregate growth and substantially change predictions about the efficacy of growth policies. Finally, we document support for key model predictions using firm-level micro-data.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Business dynamism—the process of firm entry, growth and exit—lies at the heart of modern endogenous growth models. While productivity differences have traditionally been seen as the main driving forces of business dynamism, a growing body of evidence suggests that customer acquisition is at least as important. In light of this evidence, we propose a novel endogenous growth model in which innovating firms must first acquire customers to sell their products. Estimating our model with aggregate and firm-level data, we find that expansions of firms’ customer bases (market sizes) boost their incentives to innovate and shift resources towards high-growth businesses (“gazelles”). Combined, these effects explain over 40% of aggregate growth and substantially change predictions about the efficacy of growth policies. Finally, we document support for key model predictions using firm-level micro-data.</content>
     <link href="https://doi.org/10.1093/restud/rdag060"/>
     <category term="Review of Economic Studies"/>
     <published>2026-06-17T00:00:00+00:00</published>
@@ -321,13 +525,61 @@
     <published>2026-06-17T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08833</id>
+    <title>Do Hedge Funds Strategically Misreport Their Holdings? Evidence from 13F Restatements</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <author>
+      <name>Sean Cao, Zhi Da, Xin Daniel Jiang, Baozhong Yang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Hedge funds can subsequently amend their originally reported 13F quarterly holdings using restatements. We conduct the first systematic analysis of such filings, which are as common as confidential filings (used by funds to delay holding disclosures) but affect three times as many stocks. Restated holdings are associated with significant abnormal returns, suggesting that some original holdings are strategically misreported to hide funds’ trading intentions and that later restatements facilitate copycat trading and price convergence. We construct a restatement return gap measure to gauge the value added by such restatements and find that a positive return gap is predictive of superior future fund performance.This paper was accepted by Kay Giesecke, finance.Funding: S. Cao acknowledges support from the AI Initiative from Capital Markets Research at the University of Maryland.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08833 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08833"/>
+    <category term="Management Science"/>
+    <published>2026-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70062</id>
+    <title>Learning to Navigate a New Financial Technology</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <author>
+      <name>EMILY BREZA, MARTIN KANZ, LEORA KLAPPER</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We present results from a field experiment that introduced digital payroll accounts to unbanked factory workers to examine how inexperienced consumers learn to use a new financial technology. We find that exposure to payroll accounts leads to increased account use, accelerated learning, and avoidance of common consumer protection risks. Those receiving electronic wage payments gradually build trust in the technology, learn to use accounts without assistance, and avoid illicit fees. Using experimental variation in assignment to bank versus mobile money accounts, we show that these impacts are concentrated in mobile money accounts, the newer, more complex, and less trusted financial technology.</content>
+    <link href="https://doi.org/10.1111/jofi.70062"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70072</id>
+    <title>Consensus? An Examination of Differences in Earnings Information Across Forecast Data Providers</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <author>
+      <name>Stephannie Larocque, Jessica Watkins, Eric Weisbrod</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We compare the earnings information produced by the five largest forecast data providers (FDPs)—Bloomberg, Capital IQ, FactSet, I/B/E/S, and Zacks—and observe substantial differences across FDPs in both forecasted and actual street earnings values, and thus the earnings surprise, for the same firm‐quarter. We provide evidence that differences in the earnings surprise across FDPs for the same firm‐quarter (i.e., “FDP differences”) have economically meaningful implications for price responsiveness and liquidity around earnings announcements. We also find that, for announcements where FDPs disagree about whether the announcing firm missed or beat earnings expectations, investors are more likely to side with higher‐quality FDPs but may not fully impound the implications of FDP quality differences during the announcement window. On average, relative to the other FDPs, I/B/E/S ranks highly in our measure of FDP quality, such that investor reactions are likely to align with I/B/E/S earnings information, validating its use as a representative FDP in academic research. Taken together, our results are consistent with FDPs pursuing differentiated information production strategies that generate capital market frictions when these strategies lead to material FDP differences.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70072"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1124</id>
+    <title>Strategic Throttling in Large Cloud Computing Platforms</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <author>
+      <name>Yingda Zhai, Maxwell B. Stinchcombe, Andrew B. Whinston</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Cloud platforms are critical infrastructure for digital economy. This study explains how large cloud providers use prices and service quality to allocate nonstorable computing time among customers with different willingness to pay and delay sensitivity. Pooling many uncorrelated workloads makes utilization predictable, reducing the need for idle backup capacity and improving operating efficiency. The predictability, however, allows providers to profitably throttle lower-tier customers through slower processing or higher interruption risk while keeping the whole market served. For cloud managers, the analysis shows how cross-region pooling, transparent interruption policies, and auction-based spot pricing can improve utilization, segment demand, and guide capacity planning. For customers and policymakers, the results identify why throttling persists: high switching costs and proprietary ecosystems weaken competitive pressure. Policies that improve workload portability, reduce data-egress frictions, and increase data interoperability can benefit the consumers and society without sacrificing the scale economies of large cloud networks. Structural remedies that reduce scale may curb market power but risk undermining operational efficiency.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1124"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/rfs/hhag055</id>
     <title>Green Investing and Political Behavior</title>
     <updated>2026-06-18T00:00:00+00:00</updated>
     <author>
       <name>Florian Heeb, Julian F Kölbel, Stefano Ramelli, Anna Vasileva</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;A fundamental concern about green investing is that it may crowd out political support for public policies addressing negative externalities. We examine this concern in a preregistered experiment conducted shortly before a real referendum on a climate law in Switzerland. We find that offering an opportunity to invest in a climate-friendly fund does not reduce individual support for climate regulation, measured by political donations and voting intentions. A replication of the experiment in the United Kingdom yields similar results. Our estimates reject a crowding-out effect, suggesting instead a modest crowding-in effect of green investing on political support for green policies. (JEL D14, H42, G18, P16)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;A fundamental concern about green investing is that it may crowd out political support for public policies addressing negative externalities. We examine this concern in a preregistered experiment conducted shortly before a real referendum on a climate law in Switzerland. We find that offering an opportunity to invest in a climate-friendly fund does not reduce individual support for climate regulation, measured by political donations and voting intentions. A replication of the experiment in the United Kingdom yields similar results. Our estimates reject a crowding-out effect, suggesting instead a modest crowding-in effect of green investing on political support for green policies.</content>
     <link href="https://doi.org/10.1093/rfs/hhag055"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-06-18T00:00:00+00:00</published>
@@ -339,7 +591,7 @@
     <author>
       <name>Ilwoo Hwang, Kyungmin Kim, Raphael Boleslavsky</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We consider an oligopoly model in which each firm chooses not only its price but also its advertising strategy regarding how much, and what, product information to provide. To highlight firms' strategic incentives, we impose no structural restrictions on feasible advertising content, so that each firm can disclose or conceal any information. We obtain a comprehensive characterization of the equilibrium advertising strategy and provide some sufficient conditions for the existence of symmetric pure-price equilibria. We show that intense competition induces firms to provide accurate product information; firms usually obfuscate consumers' relatively low or high values; and requiring firms to provide more product information can reduce social surplus and also be harmful to consumers.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We consider an oligopoly model in which each firm chooses not only its price but also its advertising strategy regarding how much, and what, product information to provide. To highlight firms’ strategic incentives, we impose no structural restrictions on feasible advertising content, so that each firm can disclose or conceal any information. We obtain a comprehensive characterization of the equilibrium advertising strategy and provide some sufficient conditions for the existence of symmetric pure-price equilibria. We show that intense competition induces firms to provide accurate product information; firms usually obfuscate consumers’ relatively low or high values; and requiring firms to provide more product information can reduce social surplus and also be harmful to consumers.</content>
     <link href="https://doi.org/10.1093/restud/rdag062"/>
     <category term="Review of Economic Studies"/>
     <published>2026-06-18T00:00:00+00:00</published>
@@ -369,6 +621,42 @@
     <published>2026-06-18T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/01492063261448457</id>
+    <title>Leveraging the Reputation of Being Socially Responsible: Evidence from Firms’ Online Job Postings</title>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <author>
+      <name>Qiang (John) Li, Bingyi Qin, Wenfeng Wang, Zheng Wang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;While prior research has examined individuals’ preference to work for socially responsible employers, little is known about how firms actively leverage their CSR reputation in recruiting talent. Drawing on the resource-based view (RBV), we conceptualize CSR reputation as a strategic resource that provides firms with a competitive edge in the labor market. To leverage this strategic resource, firms set higher skill requirements and advertise their CSR activities in job postings, which allows them to more effectively target and recruit talent. Using a large sample of online job posting data, we first provide empirical evidence confirming that CSR reputation is positively associated with higher skill requirements in terms of education, experience, and social and cognitive skills, as well as greater promotion of CSR activities in job postings. Using employee resume data, we further show that these two recruitment strategies mediate the positive effect of CSR reputation on actual recruitment outcomes, measured by the actual skills of new hires and job position filling rates. Overall, our findings support the notion that firms can rely on their reputation of being socially responsible as a valuable resource for recruiting high-quality human capital.</content>
+    <link href="https://doi.org/10.1177/01492063261448457"/>
+    <category term="Journal of Management"/>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-026-00872-9</id>
+    <title>The two Coases of green governance: multinational enterprises and the internalization of environmental externalities through green innovation</title>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <author>
+      <name>Elizabeth Yi Wang, Jeremy Clegg, Jiahui Cheng</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Green governance aims to resolve environmental externalities at minimum cost. By uniting Coase's two foundational theories (Economica 4: 386–405, 1937; J Law Econ 3: 1–44, 1960) we reframe MNEs not merely as profit-seeking entities but as transnational institutions capable of internalizing environmental externalities through green innovation across borders. We show how national environmental regulation spurs subsidiary-level green patenting with profit spillovers into third-country markets, thereby yielding environmental benefits. Using data on over 1.4 million MNE-owned green patents (including 10,444 patents from 103 foreign subsidiaries of 89 MNEs, 1998–2014), we examine how host-country environmental regulatory stringency shapes subsidiary innovation. We find that a higher national mix of market-based over non-market regulatory stringency significantly increases local subsidiaries’ green patenting, and that green patenting in one jurisdiction enhances parent MNEs’ net profits in third-country markets. These effects suggest MNEs can operate as low-cost institutional engines of the Green Agenda by diffusing green innovation, complementing fragmented international governance efforts. They also imply that large economies can exercise policy leadership by prioritizing market-based regulation design that induces green innovation with cross-border benefits. Our Coasean approach to global environmental governance highlights MNEs’ promise for addressing grand challenges, particularly in extending the reach of the Green Agenda and in realizing the Sustainable Development Goals.</content>
+    <link href="https://doi.org/10.1057/s41267-026-00872-9"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.70033</id>
+    <title>Three strategies for claiming research progress</title>
+    <updated>2026-06-18T00:00:00+00:00</updated>
+    <author>
+      <name>David Gal, Bobby Calder, Brian Sternthal</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Researchers are increasingly challenged by this question: On what basis can they claim their work contributes to research progress? We propose that contemporary consumer research relies on three broad strategies for warranting such claims. An establishing‐an‐effect strategy claims progress based on confidence that a focal relationship between variables X and Y reliably replicates. A theory‐of‐the‐effect strategy claims progress based on confidence that a local mechanistic account specifies when and how a particular effect occurs. A theoretical framework strategy instead claims progress based on confidence in an explanation that transcends any single effect paradigm. We (a) clarify how these strategies differ in their core logic, methodological emphases, and vulnerabilities; (b) document via a coding of recent articles in leading consumer research journals that the field relies overwhelmingly on the theory‐of‐the‐effect strategy and rarely advances theoretical frameworks; and (c) develop actionable guidance for progressing from theories of effects to frameworks. We argue that recognizing the merits and vulnerabilities of each strategy—and deliberately leveraging the strategies in combination—provides a stronger basis for claiming research progress.</content>
+    <link href="https://doi.org/10.1002/jcpy.70033"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10422587261453879</id>
     <title>Toward a Relational Perspective on Hybrid Entrepreneurship: Institutional Complexity and the Co-Construction of Liminal Space in Hybrid Female Entrepreneurship</title>
     <updated>2026-06-18T00:00:00+00:00</updated>
@@ -387,7 +675,7 @@
     <author>
       <name>Olivier Armantier, Charles Holt</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience. (JEL E58, G01, C92)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience.</content>
     <link href="https://doi.org/10.1093/rfs/hhag013"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-06-19T00:00:00+00:00</published>
@@ -429,15 +717,99 @@
     <published>2026-06-19T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1547</id>
-    <title>Invariant Distributions in Nonlinear Markov Chains with Aggregators: Theory, Computation, and Applications</title>
+    <id>https://doi.org/10.1287/mnsc.2024.07248</id>
+    <title>Lemon Cycles</title>
     <updated>2026-06-19T00:00:00+00:00</updated>
     <author>
-      <name>Bar Light</name>
+      <name>Feng Dong, Ernest Liu</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Unique Steady States Without Contraction in Nonlinear Stochastic ModelsMany models in operations and economics describe systems whose future behavior depends not only on the current state but also on a function of the current distribution of states. In “Invariant Distributions in Nonlinear Markov Chains with Aggregators: Theory, Computation, and Applications,” Bar Light studies when such systems have a unique invariant distribution. The paper develops flexible monotonicity-based conditions that can be tailored to different models to establish uniqueness. It also shows that standard contraction arguments may fail in natural settings with strategic behavior, aggregate feedback, or interacting agents. The paper provides existence results and a simple computational method that finds an invariant distribution by solving easier subproblems. The framework applies to strategic queues, inventory systems, nonlinear equations, and wealth distributions in dynamic economies, helping identify and compute unique steady states in stochastic systems where aggregate conditions shape individual dynamics.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1547"/>
-    <category term="Operations Research"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We build a model of endogenous credit cycles arising from the dynamics of adverse selection. Heterogeneous entrepreneurs trade productive assets in an anonymous market subject to financial frictions. Cream-skimming rent-seekers create lemon assets that can be traded. Lemon assets are indistinguishable ex-ante from the productive assets but have no productive value ex-post. The average quality of assets is the key state variable of the economy. High asset prices today attract the creation of more lemons, thereby exacerbating adverse selection and depressing the future reallocation of productive assets and asset prices. Productive and lemon assets therefore exhibit predator-prey dynamics, and the quality of assets evolves endogenously over time. The equilibrium may feature endogenous cycles and chaos, with the credit market freezing and thawing recurrently and with deterministic ups and downs in asset prices and the volume of trades. We show that a social planner has incentives to tax credit market activities in order to reduce lemon assets and to eliminate endogenous cycles.This paper was accepted by Will Cong, finance.Funding: F. Dong acknowledges the financial support from the National Natural Science Foundation of China [Grant 72525004].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07248 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07248"/>
+    <category term="Management Science"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08999</id>
+    <title>EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference with ML- Generated Variables</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Gordon Burtch, Edward McFowland, Mochen Yang, Gediminas Adomavicius</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Advances in machine learning have made it easier to extract useful information from both structured and unstructured data. Accordingly, empirical researchers often seek to leverage machine learning for statistical inference and hypothesis testing. We study an increasingly popular practice wherein a supervised machine learning model is trained to predict a certain variable of interest, and the predicted values are subsequently used in regression models as independent variables to draw statistical inferences. However, inevitably, errors in predictions manifest as measurement errors in regression models and lead to estimation biases. In this paper, we design and evaluate a novel approach, termed EnsembleIV, to address the issue. We propose the use of ensemble machine learning techniques to generate the predictions and show that individual learners in the ensemble (after a proposed special-purpose data-driven transformation procedure) can serve as instrumental variables to correct for the measurement error and avoid estimation biases. EnsembleIV’s effectiveness is demonstrated on both synthetic and real data sets for both linear and generalized linear regression models. We also compare EnsembleIV with several alternative bias correction methods and highlight its advantages. Overall, EnsembleIV represents a flexible algorithm that enables empirical researchers to draw robust statistical inferences with independent variables generated via machine learning.This paper was accepted by D.J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08999 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08999"/>
+    <category term="Management Science"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08673</id>
+    <title>The Impact of Voluntary Carbon Goal Announcements on Stock Returns</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Lukas Schnabel, Setareh Heidari, Stefan J. Hock, Sascha Raithel</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study quantifies the impact of voluntary carbon goal announcements on cumulative abnormal stock returns (CAR). Using 188 announcements of U.S. publicly traded firms between 2018 and 2024 across a variety of industries, this event study offers new and economically relevant insights on when and how firms should announce their carbon goals. First, a voluntary carbon goal announcement is associated with 0.65% positive CAR for the main event window (−2,+2), which translates to an increase of about $490 million based on the average market capitalization of firms in our data set. Notably, despite the substantial financial commitments implied by carbon neutrality, this corresponds to an average gain of about $75 in abnormal return per current ton of CO2-equivalent emissions. Second, our analysis of announcement-related media coverage using topic modeling reveals that investors respond more positively when the media highlights the expected business impact of the carbon goal. Third, firms with higher current emissions in the scopes they commit to eliminate are evaluated more favorably by the stock market, suggesting that investors value the larger emission reduction volume associated with such commitments. Finally, the positive effects of emphasizing business impact and promising to eliminate higher current emissions diminish over time. We conduct a series of robustness checks to ensure that our results are reliable and unbiased. Overall, this study provides a strong empirical foundation for understanding the consequences of voluntary carbon goal announcements of firms and discusses implications for theory and practice.This paper was accepted by Anita McGahan, business strategy.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08673 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08673"/>
+    <category term="Management Science"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08619</id>
+    <title>Second-Tier Stock Exchanges and Growth of Entrepreneurship</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Huasheng Gao, Po-Hsuan Hsu, Yuxi Wang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine the role of second-tier stock exchanges in an entrepreneurial context from a global perspective. We construct a country-industry-year panel of global venture capitalist (VC)-invested startups, and find a significant increase in entrepreneurial activity following the launch of such markets. A causal interpretation is supported by additional tests for staggered difference-in-differences regressions and interacted regressions based on industry-specific dependence on second-tier stock exchanges. We propose a VC exit mechanism that receives empirical support: the launch of second-tier stock exchanges positively predicts (i) VC investment in startups, (ii) VCs’ valuation of startups, (iii) startups’ patenting records, (iv) startups’ initial public offering (IPO) likelihood, and (v) startups’ IPO valuation. We find that more startups are created in countries with more VC investment after the launch of such markets. We also find that the effect of second-tier stock exchanges on entrepreneurial ventures increases with financial resources, human capital, and intellectual property protection.This paper was accepted by Matt Marx, entrepreneurship and innovation.Funding: H. Gao acknowledges financial support from the National Natural Science Foundation of China [Grant 72472028]. P.-H. Hsu acknowledges research support from the National Science and Technology Council in Taiwan [Grants NSTC 113-2410-H-007-008-MY3 and NSTC 114-2410-H-007-016-MY3], the Mack Institute for Innovation Management of the Wharton School at the University of Pennsylvania, and the E.SUN Academic Award for financial and research support. Y. Wang acknowledges financial support from the National Natural Science Foundation of China [Grant 72402130]. This work was also supported by the Dalian Commodity Exchange.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08619 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08619"/>
+    <category term="Management Science"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261464934</id>
+    <title>EXPRESS: How the #MeToo Movement Has Reshaped Gender Dynamics in the Marketplace: Evidence from the Entertainment Industry</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Chi P. Tran, Nooshin L. Warren, (Late) Joshua T. Beck</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;#MeToo is one of the most influential social movements of recent decades, yet its marketplace effects remain underexplored. The authors investigate how #MeToo reshaped both consumer responses to gender portrayals and short-run content change in the U.S. entertainment industry. Drawing on social role theory, social movement framing and consumer behavior research, they analyze a unique data set of 1,523 top-grossing films released between 2010 and 2023. Using artificial intelligence–assisted content analysis validated by human coders and supplemented with text analysis of 334,917 crowdsourced movie keywords, the authors measure portrayals of sexual misconduct, female objectification, and stereotypical and counter-stereotypical gender roles. The findings show little evidence of meaningful short-run content change following #MeToo. While audiences penalize films featuring problematic behaviors targeted by the movement, they have enduring preferences for traditional gender roles, showing resistance to counter-stereotypical male portrayals while only selectively embracing counter-stereotypical female representations. These findings reveal the complex and uneven ways the #MeToo movement reshaped marketplace behavior, and they provide implications for entertainment firms, marketers and social movement organizers navigating changing cultural norms.</content>
+    <link href="https://doi.org/10.1177/00222429261464934"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261465366</id>
+    <title>EXPRESS: Going Smaller with Precise Numbers: How Numerical Precision Orients Attention and Shifts Attribute Weighting in Consumer Judgments</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>JORGE PENA-MARIN, MATHEW S. ISAAC, JENNIFER SEOKHWA HONG</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;When choosing from a product assortment, consumers often compare options on multiple product attributes (e.g., energy usage, processor speed). These attributes may be displayed with more precise numbers (e.g., 12.34) or less precise numbers (e.g., 12). The present research shows that when attribute values are communicated more (vs. less) precisely, consumers weight smaller-is-better attributes (e.g., energy usage)—for which smaller numbers are generally preferred—relatively more in their decision making. Furthermore, building on an association between precise numbers and smaller magnitudes, the authors provide evidence that this difference in attribute weighting occurs because numerical precision orients consumers’ attention toward the smaller (and therefore more favorable) values of smaller-is-better attributes. This shift in attention causes smaller-is-better attributes to be weighted more heavily during multi-attribute comparison, which affects consumer evaluations and choice. Findings from nine studies (four of which are reported in the Web Appendix), including a field study with a real estate website, offer triangulating evidence for the proposed theorizing and contribute to several streams of research within judgment and decision making, including attribute weighting and numerical cognition.</content>
+    <link href="https://doi.org/10.1177/00222429261465366"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0577</id>
+    <title>Response to Entry in Streaming Markets: A Game-Theoretic Model</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Deepika Jain, Emre M Demirezen, Sreelata Jonnalagedda, Subodha Kumar</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;The rise of new entrants in content-streaming markets has intensified competition for established platforms like Netflix, prompting them to reassess their pricing and content strategies. In this research, we examine an incumbent streaming platform that offers both exclusive and non-exclusive content, exploring its optimal pricing response to the entry of a competitor providing only non-exclusive content under a subscription or usage-based pricing model. We develop an analytical framework to study the incumbent's strategic choices, focusing on key factors such as consumer heterogeneity, consumption intensity, content acquisition costs, and the entrant's pricing strategy. Our findings reveal that the incumbent does not always differentiate its pricing strategy from the entrant and, under specific conditions, matches its pricing approach. Entry is governed by a cost threshold that depends on consumer valuation and the incumbent’s pricing response, and higher valuation does not always strengthen the entrant’s incentive to enter, as incumbents can deter participation through strategic pricing. Moreover, we show that increased consumption can harm the entrant's profitability when relying on usage-based pricing. We also find that entrants may invest more in content than incumbents when acquisition costs and exclusivity appreciation are low, and that incumbents do not always attain a positional advantage, as market conditions such as valuation and content costs significantly affect profitability. Our work offers actionable insights for streaming platforms navigating competitive markets. Platforms must align their pricing and content strategies with consumer behavior, competitive dynamics, and content characteristics. Our findings provide a robust framework for understanding how incumbents and entrants can optimize their strategies in the evolving landscape of streaming markets, contributing to both academic literature and managerial practice.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0577"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.0952</id>
+    <title>Agency Configurations in Generative AI Ideation: How Textual and Visual Idea Concretizations Shape Idea Creativity and Ideator Effort</title>
+    <updated>2026-06-19T00:00:00+00:00</updated>
+    <author>
+      <name>Philipp Gordetzki, Ivo Blohm, Melanie Clegg, Felix Schakols, Reto Hofstetter</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Ideators increasingly turn to generative artificial intelligence (GenAI) to improve the creativity of their ideas and reduce the cognitive effort required to refine them. This collaboration is based on fine-grained configurations of human-AI agency that allow for partial automation and augmentation of the creative-ideation process. In this study, we examine how representational differences in AI-generated inputs into human ideation in the form of textual and visual concretizations influence the creativity of the jointly produced ideas and the effort ideators must expend. These AI-generated concretizations transform initial raw ideas into more mature representations that ideators can inspect, interpret, and evaluate. In an online experiment, we found that AI-generated textual concretizations improved idea creativity by 18% relative to AI-generated visual concretizations but required 30% greater effort from ideators. This effect was most pronounced for more mature ideas (i.e., specific and actionable). For very immature ideas, visual concretizations enhanced idea creativity without increased effort. We explain these differences through different configurations of human-AI agency in ideation. Textual concretizations correspond to augmentation: GenAI produces coherent textual concretizations that ideators must interpret and complete with their imagination. The material agency of GenAI is matched by human agency, increasing idea creativity but requiring greater effort. As ideas mature, richer textual concretizations provide greater substance for creative elaboration, boosting both idea creativity and ideator effort. In contrast, the use of visual concretizations follows an automation logic. GenAI exerts material agency by autonomously specifying all required details for a visual concretization. While this can boost creativity for very immature ideas by offering stimulating details for creative exploration, these details become constraining as ideas mature. This constrains human agency and ideators’ abilities to integrate novel elements into ideation. As its main contribution, our paper shows that representational differences in AI-generated concretizations shape idea creativity and ideator effort by producing distinct configurations of human-AI agency.</content>
+    <link href="https://doi.org/10.1287/isre.2024.0952"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-19T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -477,15 +849,15 @@
     <published>2026-06-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2025.1936</id>
-    <title>Online Selection with Uncertain Disruption</title>
+    <id>https://doi.org/10.1287/mnsc.2024.04778</id>
+    <title>The Spillover Effect of Social Capital Along the Supply Chain: Evidence from the Cost of Debt</title>
     <updated>2026-06-22T00:00:00+00:00</updated>
     <author>
-      <name>Yihua Xu, Süleyman Kerimov, Sebastian Perez-Salazar</name>
+      <name>Yuyan Guan, Xing Li, Gerald J. Lobo, Haibin Wu</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Online Selection with Uncertain DisruptionMany digital and service platforms must decide whether to accept a current request or wait for a potentially better one. This trade-off becomes more challenging when serving a request may unexpectedly disrupt future operations. In the paper “Online Selection with Uncertain Disruption,” Yihua Xu, Süleyman Kerimov, and Sebastian Perez-Salazar introduce a model for such settings, where a decision maker observes values sequentially and each accepted value may trigger a disruption that stops the process. The paper develops simple threshold-based algorithms and evaluates them through competitive analysis against a clairvoyant benchmark that knows all values but still faces disruption uncertainty. The authors show that a nonadaptive single-threshold algorithm achieves the tight competitive ratio [Formula: see text], whereas adaptive threshold policies improve the asymptotic guarantee to approximately 0.745. The results connect disruption-aware online selection with classical prophet inequalities and quantify the value of adaptivity under operational uncertainty.</content>
-    <link href="https://doi.org/10.1287/opre.2025.1936"/>
-    <category term="Operations Research"/>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Prior research indicates that social capital constrains opportunistic behavior and facilitates cooperation in bilateral relationships. We hypothesize that firms conducting business with high social capital customers are perceived by their banks as having lower supply chain risk and document a negative association between suppliers’ loan spreads and the social capital of their major customers. Our cross-sectional analyses show that the negative association is stronger when (1) suppliers make more relationship-specific investments or have weaker bargaining power; and (2) customers’ information environment is more opaque. Further analyses reveal that customers’ social capital has a positive impact on their supplier firms’ nonpricing loan terms. Taken together, our findings indicate that customers’ social capital engenders a spillover effect along the supply chain, enabling suppliers to enjoy lower borrowing costs and more favorable nonpricing loan terms by mitigating the hold-up risks they face.This paper was accepted by Ranjani Krishnan, accounting.Funding: Y. Guan received financial support from Nanyang Technological University [Start-up Grant 021234-00001]. X. Li received financial support from the National Natural Science Foundation of China [Grant 72302180] and the China Postdoctoral Science Foundation [Grants 2025T180187 and 2021M692542]. H. Wu received financial support from City University of Hong Kong.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04778 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.04778"/>
+    <category term="Management Science"/>
     <published>2026-06-22T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -549,6 +921,42 @@
     <published>2026-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/isre.2024.1665</id>
+    <title>Culture Priming of Multicultural Individuals on Localized Websites: A Cultural Frame Switching Perspective</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Muller Y. M. Cheung, Weiyin Hong, James Y. L. Thong</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As businesses expand globally, effective website localization becomes crucial, especially in countries where consumers have diverse cultural backgrounds. Traditional website localization strategies focus on tailoring its content and design to the dominant culture of a country. Our research investigates the complexities of localizing websites for countries with multicultural consumers who identify with more than one culture. We found that successful website localization involves priming multicultural consumers with cultural cues (in the forms of language and image) to activate specific cultural identities, for example, individualism or collectivism. The activated culture of multicultural consumers can interact with various website design and content elements to affect multicultural consumers’ trust in the website and crowdfunding support. Our findings offer actionable insights for global businesses. By strategically implementing these insights in website localization, global companies can better navigate diverse consumer landscapes and foster stronger connections with multicultural consumers.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1665"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1022</id>
+    <title>The Evolution of Digital Platform Ecosystems: An Identity Domain Perspective</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Panos Constantinides, Carmelo Cennamo, Aleksi Aaltonen</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;For managers, this research demonstrates that the long-term success of digital platform ecosystems requires identity-coherent orchestration. For example, Apple iOS’s identity domain around a seamless, premium user experience on the iOS ecosystem legitimizes Apple’s “walled garden” and vertical integration approach. Conversely, Google Android’s identity domain of data ubiquity drives Google’s horizontal scaling and proprietary control points. Platform sponsors are cautioned that deviating from their identity domain or appearing as incoherent to their partners and users—as seen in the failures of BlackBerry and Windows Phone—creates strategic dissonance that confuses participants and erodes competitive distinctiveness. For policymakers, this research challenges “one-size-fits-all” regulations, such as the European Union’s Digital Markets Act. Ex ante mandates may disproportionately undermine vertically integrated, privacy-centric models, like iOS, while leaving data-driven ecosystems, like Android, relatively unscathed. Effective antitrust policy must move beyond size thresholds (i.e., gatekeeper status classifications) to consider how the enforcement of ex ante and ex post regulatory approaches can account for the dynamic evolution of digital platform ecosystems as informed by their unique identity domain.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1022"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.1869</id>
+    <title>Buy Online, Pick Up, or Deliver from Store: Why Would an Online Retail Platform with Third-Party Sellers Offer It?</title>
+    <updated>2026-06-23T00:00:00+00:00</updated>
+    <author>
+      <name>Ping Tang, Jianqing Chen, Srinivasan Raghunathan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Digital technologies are enabling online retail platforms to connect consumers not only to sellers’ online offerings but also to sellers’ physical stores through options such as local pickup and store-based delivery, which we refer to as local selling. This study examines why a platform would adopt such a strategy even when it gives up fulfillment-related revenue. We show that local selling can still increase platform profits by raising sales commission revenue. By allowing some consumers to pick up orders locally, the platform reveals geographic differences among consumers that traditional online fulfillment masks. This can soften price competition between sellers, increase prices, and benefit both the platform and sellers. Consumers, however, do not necessarily benefit, even when they are offered more fulfillment options. The findings suggest that local selling is not merely a service innovation that improves convenience. It can also be a strategic tool that helps platforms manage seller competition and extract surplus. For practice, the results indicate that platforms should tailor local-selling strategies to product and market conditions rather than apply them uniformly. For policy, the study highlights that expanding consumer choice does not necessarily improve consumer welfare, and that platform innovations should also be evaluated based on their effects on competition, pricing, and surplus allocation.</content>
+    <link href="https://doi.org/10.1287/isre.2025.1869"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10422587261453883</id>
     <title>Resource Orchestration, Team Faultlines, and Entrepreneurial Resilience</title>
     <updated>2026-06-23T00:00:00+00:00</updated>
@@ -561,6 +969,18 @@
     <published>2026-06-23T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07169</id>
+    <title>ESG and the Stock Market: Is ESG Exposure Systematic?</title>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <author>
+      <name>Liya Chu, Kent Wang, Bohui Zhang, Guofu Zhou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the relation between firms’ environmental, social, and governance (ESG) performance and the aggregate stock market returns. Based on 38 individual ESG measures, we construct a market-level ESG index. With both the traditional predictive regression approach and two recently developed machine-learning methods, we find that the ESG index has strong and positive predictive power on the market both in- and out-of-sample, and both the cash flow and discount rate channels are the economic drivers of predictability. Our results are robust to a number of controls and set-ups. Our novel finding on the significant market-wide impact of the ESG provides support for the economy-wide importance of the ESG risk and for the central role played by governments.This paper was accepted by Caroline Flammer, sustainability.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07169 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07169"/>
+    <category term="Management Science"/>
+    <published>2026-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/joms.70129</id>
     <title>The Portfolio Ceiling in Asymmetric Alliances: Large Partners and the Internationalization of Japanese
                     &lt;scp&gt;SMEs&lt;/scp&gt;</title>
@@ -571,6 +991,18 @@
     <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Large partners are critical for small‐ and medium‐sized enterprises (SMEs) seeking to overcome resource constraints in internationalization. However, as an SME's portfolio of size‐asymmetric alliances expands, governance costs can increase during post‐formation alliance management. We develop theory on the resource benefits and governance costs of asymmetric alliance portfolios, arguing that the net benefit of access to large partners' resources is bounded by a portfolio ceiling. Initial alliances with large partners provide knowledge, legitimacy and network support that facilitate foreign direct investment (FDI) entries. As the portfolio expands, however, cross‐partner interfaces, safeguarding demands and partner competition consume scarce managerial capacity, limiting SMEs' ability to mobilize large partners' resources. Using a 30‐year firm‐year panel (1990–2019) of Japanese SME trading companies and their equity alliances with business‐group‐affiliated general trading companies, we identify an inverted U‐shaped relationship between the number of large partners and FDI entries, consistent with this portfolio ceiling. In line with our theory, competition among large partners is negatively associated with FDI entries. Overall, our study shows that, for resource‐constrained firms, the net value of asymmetric alliance portfolios depends on the balance between partner resource benefits and portfolio‐level governance costs.</content>
     <link href="https://doi.org/10.1111/joms.70129"/>
     <category term="Journal of Management Studies"/>
+    <published>2026-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0159</id>
+    <title>Does Mobile Technology Integration Enhance Complaint Resolution Efficiency and Equity? An Empirical Study of How an Omnichannel Approach Affects Speed of Resolution of Government Service Requests</title>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <author>
+      <name>Catherine Tucker, Yifei Wang, Shuyi Yu</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This paper examines how integrating mobile touchpoints with existing service channels affects the efficiency and equity of nonemergency complaint resolution for cities. In 2015, Boston integrated its existing citizen app with its phone and website services into a single unified “311” service, where complaints would be handled consistently regardless of submission channel. This was among the first efforts in the United States to bring an omnichannel approach to public services. We document that this change had an unexpected effect. Before integration, the app delivered more equitable service across higher- and lower-income neighborhoods than other channels. After integration, because the app made it easier to submit a broader range of complaints, it was increasingly used in requests on enforcing city codes against other residents. The mobile app allowed quicker resolution of enforcement complaints, especially in richer areas with signs of gentrification. The pattern appears to be driven by the economics of density: residents in wealthier neighborhoods are more likely to submit multiple enforcement requests simultaneously. Complaints requiring citations were processed more quickly when related requests came from geographically concentrated areas rather than dispersed locations.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0159"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-24T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -622,27 +1054,27 @@
     <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1167</id>
-    <title>Combating Gerrymandering with Ranked Choice Voting: An Experimental Analysis of Multimember Districts in the United States</title>
+    <id>https://doi.org/10.1177/00222429261466252</id>
+    <title>EXPRESS: Seeding Social Affirmation: Influencer + Follower Seeding Strategies and the Diffusion of Online Word-of-Mouth</title>
     <updated>2026-06-25T00:00:00+00:00</updated>
     <author>
-      <name>Nikhil Garg, Wes Gurnee, David Rothschild, David B. Shmoys</name>
+      <name>Hee Mok Park, Minki Kim, Nicholas H. Lurie</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Blunting Gerrymandering with Multimember DistrictsHow much can election rules blunt the power of partisan mapmakers? In the Operations Research paper “Combating Gerrymandering with Ranked Choice Voting: An Experimental Analysis of Multimember Districts in the United States,” Nikhil Garg, Wes Gurnee, David Rothschild, and David B. Shmoys study this question by combining computational redistricting with models of multiwinner voting. The authors compare single-member districts with multimember districts elected under rules such as single transferable vote (ranked choice voting), using algorithmically generated maps for the U.S. House of Representatives. Their results suggest that even modest three-member districts can help independent commissions reach proportional outcomes, sharply reducing the range of outcomes available to partisan gerrymanderers. The study also tests robustness under voter crossover and explores trade-offs involving geographic cohesion and within-party diversity. The paper points to election-system design as an operations research problem with direct democratic consequences.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1167"/>
-    <category term="Operations Research"/>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Given influencers’ greater social influence, managers are often advised to target influencers alone in social media marketing. However, the spread of word-of-mouth (WOM) may be enhanced by social affirmation (i.e., cues a message is valuable to others). The authors show that an influencer + follower seeding strategy, in which the best influencer-follower pair in a social network is chosen to tweet and retweet a message, respectively, outperforms an influencer-only strategy in spreading word-of-mouth. Lab experiments show that the likelihood that a user chooses to share or engage with a promoted tweet is higher under an influencer + follower strategy than under an influencer-only or influencer-twice strategy. Greater perceived message value to others explains these results. A field study involving promoted tweets shows that an influencer + follower strategy leads to greater event attendance than a two-influencer strategy. Simulation results show that the advantages of influencer + follower seeding strategies over influencer-only strategies are greater for social networks characterized by a stronger response to social affirmation. When social affirmation is not important to WOM diffusion, an influencer-only seeding strategy is superior. These findings contribute to research on seeding strategies and provide firms a way to improve return on investments in influencer marketing.</content>
+    <link href="https://doi.org/10.1177/00222429261466252"/>
+    <category term="Journal of Marketing"/>
     <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2023.0598</id>
-    <title>Sparse PCA with Multiple Components</title>
+    <id>https://doi.org/10.1177/00222429261466254</id>
+    <title>EXPRESS: Preference Filtering: When Customers Share Narrow Preferences with Algorithms</title>
     <updated>2026-06-25T00:00:00+00:00</updated>
     <author>
-      <name>Ryan Cory-Wright, Jean Pauphilet</name>
+      <name>Phyliss Jia Gai, Eugina Leung, Anne-Kathrin Klesse</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Sparse PCA with Multiple ComponentsAs the dimension of data sets increases, analysts often rely on principal component analysis (PCA) to summarize data via a small number of informative principal components (PCs). Sparse PCA makes those directions easier to interpret by using only selected variables, but computing several sparse components at once creates a problem: standard one-at-a-time methods lose the orthogonality that makes PCA useful in practice. In “Sparse PCA With Multiple Components,” Ryan Cory-Wright and Jean Pauphilet develop optimization-based methods that choose multiple sparse principal components simultaneously. Their approaches combine semidefinite relaxations, Lagrangian decompositions, and a new combinatorial upper bound to produce sparse, orthogonal components along with certificates of near optimality. Across real and synthetic data sets, the methods deliver high-quality solutions at practical scales, with average bound gaps around 3% for real-world instances with hundreds or thousands of features. The work gives practitioners a principled way to obtain interpretable low-dimensional representations without sacrificing the structural guarantees of PCA.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0598"/>
-    <category term="Operations Research"/>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Digital platforms commonly ask customers to select interest categories (e.g., genres/topics) as input for personalized recommendations. Twelve main studies and two pilot studies (total N = 8,824) reveal that customers share less diverse preferences with algorithms (versus human curators or when merely listing preferences for themselves); they focus on core preferences while omitting tangential ones, a phenomenon termedpreference filtering. It is driven by customers’ expectation that algorithms weigh their preferences more uniformly than human curators (i.e., expected uniformity). A mathematical model, as well as interviews and a survey with practitioners show that preference filtering appears rational ex ante yet leads to negative consequences for both customers and firms ex post. The authors examine key design dimensions of the preference elicitation task—whenpreferences are elicited,howcustomers articulate them,whatpurpose is made salient, andwhocustomers believe they are interacting with—that determine the extent to which customers engage in preference filtering. Two studies on self-developed video-streaming websites show that alleviating preference filtering can boost engagement and enhance customer reviews of recommendation services. These findings offer valuable insights for firms that rely on algorithms to engage customers.</content>
+    <link href="https://doi.org/10.1177/00222429261466254"/>
+    <category term="Journal of Marketing"/>
     <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -655,6 +1087,18 @@
     <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We examine optimal capital requirements in a quantitative general equilibrium model with banks exposed to nondiversifiable borrower default risk. Contrary to standard models of bank default risk, our framework captures the limited upside, but significant downside risk of loan portfolio returns. This helps to reproduce the frequency and severity oftwin defaults: simultaneously high firm and bank defaults. Hence, the optimal bank capital requirement, which trades off a lower frequency of twin defaults against restricting credit provision, is higher than under default risk models which underestimate the impact of borrower default on bank solvency.</content>
     <link href="https://doi.org/10.1111/jofi.70058"/>
     <category term="The Journal of Finance"/>
+    <published>2026-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0233</id>
+    <title>Securing Personal Space in the Crowd: Physical Crowdedness and Organic Mobile Usage</title>
+    <updated>2026-06-25T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaoni Lu, Hyeokkoo Eric Kwon, Siliang (Jack) Tong, Xi Zhao, Hsing Kenneth Cheng</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Public transit is a major setting in which individuals spend time on smartphones. This study shows that physical crowdedness is positively associated with organic smartphone usage, with stronger relationships for social functionalities, among users with shorter prior trips, during off-peak periods, and when individuals are surrounded by different-age groups. These findings offer actionable guidance for app developers, mobile advertisers, and telecom providers. Users in crowded environments appear to actively seek functionalities that help them reclaim a sense of personal space, suggesting that mobile strategies can be made more adaptive, personalized, and context-aware. For app categories that perform poorly under crowded conditions, such as shopping apps, platforms may benefit from embedding features that strengthen self-esteem and perceived control, for example, socially informed recommendations or try-before-you-buy options. More broadly, because high levels of organic mobile usage often precede effective promotional engagement, firms can better identify high-impact windows for targeted advertising strategies, such as socially engaged users in crowded transit contexts during off-peak hours.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0233"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-25T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -679,6 +1123,90 @@
     <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;I propose a model of skill-replacing routine-biased technological change (SR-RBTC). In this model, technology substitutes for the use of skill in routine tasks, in contrast to standard RBTC models, which assume that technology replaces the workers themselves. The SR-RBTC model explains three key trends that are inconsistent with standard RBTC models: 1) why specifically middle wages declined even though workers in routine occupations are dispersed across the entire bottom half of the wage distribution, 2) why middle wages stopped declining while technological change continued, and 3) why there is no substantial decline in the average wage of workers in routine occupations. I derive two new testable predictions from the model: a decrease in the return to skill and a decrease in skill level in routine occupations. I use an interactive fixed-effects model to confirm both predictions. Since SR-RBTC violates the ignorability assumption required by standard decomposition methods, I introduce a “skewness decomposition” to show that SR-RBTC is the main driver of bottom-half inequality trends.</content>
     <link href="https://doi.org/10.1093/restud/rdag068"/>
     <category term="Review of Economic Studies"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2022.16727</id>
+    <title>Moving Beyond the MVP in Hyper-Constrained Contexts: The Generative Power of Constraints Work</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Hila Lifshitz, Steven Randazzo, Olivia Seunghae Jung</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;In a world of increasingly numerous and contradictory constraints, this study reveals how individuals can navigate hyper-constrained contexts to rapidly develop new deployable products. We draw on an in-depth field study of seven projects developing affordable, open-source ventilators in just 75 days during the COVID-19 pandemic. Our analysis shows that innovation outcomes are fundamentally shaped by what we call "constraints work"—how individuals actively deal with and manage constraints—and find two types of constraints work that lead to divergent processes and outcomes. Four projects conducted “reductionist constraints work,” as they scanned, prioritized, and sequenced the key constraints. They then followed the well-known lean innovation process to sprint to a functioning minimum viable product (MVP). In contrast, three projects counterintuitively slowed down at the outset to conduct “generative constraints work,” extreme-mapping the full landscape of constraints and loading the design space even with additional hidden constraints. They then followed a “multiplex innovation process,” surfacing interdependencies among constraints and treating the resulting contradictions as design problems to be solved simultaneously. This process resulted in deployable products that went beyond the MVP, surpassing experts’ expectations. Regarding temporal pace, the multiplex innovation process entailed V-shaped acceleration—braking at the start, resisting the time pressure, to confront the full complexity of tensions, then sharply accelerating to resolve them in parallel, while the lean innovation process entailed a linear acceleration. Our findings contribute to theories of innovation and new product development processes and temporality, advancing understanding of how individuals can successfully navigate an excess of multiple, contradictory constraints.</content>
+    <link href="https://doi.org/10.1287/orsc.2022.16727"/>
+    <category term="Organization Science"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2026.02442</id>
+    <title>From Shadow AI to Governed AI Review: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Zhenhui (Jack) Jiang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper was accepted by Christoph Loch, commentary.</content>
+    <link href="https://doi.org/10.1287/mnsc.2026.02442"/>
+    <category term="Management Science"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2022.03394</id>
+    <title>Speed Up the Cold-Start Learning in Two-Sided Bandits with Many Arms</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Mohsen Bayati, Junyu Cao, Wanning Chen</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Multiarmed bandit (MAB) algorithms are efficient approaches to reduce the opportunity cost of online experimentation and are used by companies to find the best product from periodically refreshed product catalogs. However, these algorithms face the so-called cold-start at the onset of the experiment due to a lack of knowledge of customer preferences for new products, requiring an initial data collection phase known as the burn-in period. During this period, standard MAB algorithms operate like randomized experiments, incurring large burn-in costs which scale with the large number of products. We attempt to reduce the burn-in by identifying that many products can be cast into two-sided products and then naturally model the rewards of the products with a matrix, whose rows and columns represent the two sides, respectively. Next, we design two-phase bandit algorithms that first use subsampling and low-rank matrix estimation to obtain a substantially smaller targeted set of products and then apply a Upper Confidence Bound procedure on the target products to find the best one. We theoretically show that the proposed algorithms lower costs and expedite the experiment in cases when there is limited experimentation time along with a large product set. Our analysis also provides insights into three experiment regimes of long, short, and ultra-short horizon, determined by the dimensions of the matrix. Empirical evidence from both synthetic data and a real-world data set on music streaming services validates the superior performance suggested by our theory.This paper was accepted by J. George Shanthikumar, data science.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03394 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2022.03394"/>
+    <category term="Management Science"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70130</id>
+    <title>Government Orchestration at Play: The Influence of Disclosure Regulation on Stakeholder Accusations and the Role of CSR</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Julia Bartosch, Emma Avetisyan, Philipp A. Thompson</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Government orchestration describes regulatory settings in which governments delegate some governance functions to private actors; for instance, business conduct is monitored by stakeholders under CSR disclosure regulation. This article examines the impact of this type of regulation on stakeholder monitoring, which is a core yet little‐examined governance function. We analyse the effects of the European Union's Non‐Financial Reporting Directive (NFRD) on stakeholder accusations and on the relationship between CSR and accusations across firms in 28 OECD countries (2007–2018) using a difference‐in‐differences design. The analysis shows that government orchestration significantly increases the number of stakeholder accusations by inducing a transparency dynamic. It also demonstrates a fundamental shift in how reported CSR relates to stakeholder accusations. In the past, companies were able to protect themselves from accusations by publicly reporting their CSR efforts. More recently, two patterns have emerged: where no disclosure regulation exists, CSR no longer buffers firms against accusations; under regulation, it produces a ‘backfire effect’ whereby CSR increases accusations. These findings advance research on the government–CSR nexus and social evaluations and offer a contextual explanation for previously inconsistent results on the link between CSR and stakeholder accusations.</content>
+    <link href="https://doi.org/10.1111/joms.70130"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-026-00878-3</id>
+    <title>Populism, regime characteristics, and MNC location choice</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Srividya Jandhyala, Vera Kunczer, Thomas Lindner</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Countries with populist governments are less attractive investment destinations for Multinational Corporations (MNCs), as foreign firms tend to be delegitimized and targeted as members of the outgroup. However, populist governments vary in the extent to which they delegitimize foreign firms as outsiders. Departing from the traditional right–left classification that masks key differences among political regimes, this paper investigates aspects central to populism and to how populist governments see foreign firms: business orientation and stance on immigration. Pro-business regimes perceive a greater role for private sector firms and are less likely to treat MNCs as members of the outgroup. However, regimes with a strong anti-immigration stance highlight threats to local identity and are more likely to treat MNCs as members of the outgroup. Using a dataset of over 23,000 foreign direct investments (FDI) across 61 host countries from 2008 to 2017, we find that the adverse effect of populism on FDI is diminished in pro-business regimes whereas it is amplified in regimes with strong anti-immigration stances. Furthermore, regime alignment between home and host countries reduces the negative impact of populist governments on FDI. Our research highlights the crucial role of regime characteristics in shaping FDI across populist governments.</content>
+    <link href="https://doi.org/10.1057/s41267-026-00878-3"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0565</id>
+    <title>Is Digital Reading Resilient to Air Pollution?</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Lizheng Wang, Jinyang Zheng, Yongjun Li, Yong Tan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Air pollution is widely known to harm physical health, but its hidden toll on the digital knowledge economy is equally profound. This study reveals that air pollution–induced cognitive strain significantly reduces user engagement on digital reading platforms. When faced with poor air quality, readers adapt to cognitive fatigue by shifting to less demanding hedonic genres, revisiting familiar content, shortening reading sessions, and slowing their reading pace. Although digital platform features, like frictionless switching and personalized recommendations, make these adaptations effortless, they ultimately erode deep, sustained reading. Consequently, a single-unit increase in the air quality index reduces overall reading time by 0.7% and platform spending by 1.2%. For practitioners and platform designers, these findings highlight the need to move beyond simply reducing user effort. Platforms should actively integrate cognitive support tools, such as summary overlays and audio narration, to sustain high-value engagement during periods of environmental stress. For policymakers, this research broadens the recognized societal costs of air pollution to include suppressed participation in cognitively demanding digital activities, reinforcing the economic imperative for stricter environmental controls and potential subsidies for cognitive enrichment.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0565"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0635</id>
+    <title>Asymmetric Algorithm Aversion</title>
+    <updated>2026-06-26T00:00:00+00:00</updated>
+    <author>
+      <name>Saunak Basu, Alan Dennis, Aravinda Garimella, Wencui Han</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;We examine human decision-making in the presence of Artificial Intelligence (AI) advice in the context of Fintech. Through four studies (two randomized controlled experiments, a field study, and a qualitative interview study), we show that human acceptance of AI advice exhibits asymmetric algorithm aversion that depends on the advice the AI provides. In our Fintech setting, investments are commonly assessed using criteria based on both explicit knowledge and tacit knowledge. Human experts believed that AI had the ability to effectively use explicit knowledge but were less confident in its ability to effectively use tacit knowledge (a common perception regarding AI). As a result, AI advice significantly influenced experts’ evaluations when it recommended against investing, as they believed that this advice could have been correctly generated using explicit knowledge criteria alone. However, AI advice had no significant effect on experts’ evaluations when it recommended investing, as they believed that this advice could not have been correctly generated without using both types of knowledge and that AI could not effectively use tacit knowledge. Instead, AI advice to invest served as a trigger for them to examine the investment with a focus on tacit knowledge criteria, which often meant that the human expert’s evaluation did not match AI’s advice. We did not find this same asymmetric pattern for accepting human advice in this context, indicating that the results are not due to loss aversion. Recognizing asymmetric algorithm aversion—that human experts are more likely to accept AI’s advice when it produces one recommendation and less likely when it produces a different recommendation —is important because an inconsistent attitude towards accepting AI advice may lead to systematic biases in human-AI collaboration that may defeat the very purpose of using AI.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0635"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-26T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -790,15 +1318,27 @@
     <published>2026-06-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/01492063261456641</id>
-    <title>Bridging the Gap: An Integrative Review of Research on Veterans’ Transition to the Civilian Workforce</title>
+    <id>https://doi.org/10.1177/00222429261467752</id>
+    <title>EXPRESS: Are You Okay? Effects of a National Peer-Support Campaign on Mental Health</title>
     <updated>2026-06-29T00:00:00+00:00</updated>
     <author>
-      <name>John P. Jasionowicz, María del Carmen Triana, Timothy J. Vogus, Jorge Delgado</name>
+      <name>Nicole Black, Lachlan Deer, David W. Johnston, Johannes S. Kunz</name>
     </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;The uniformed personnel who deploy around the world provide a key service to their country and often do so by putting themselves in dangerous situations to defend peace and security for others. After serving, military veterans face a challenging transition into civilian life and workplaces. In this review, we describe the importance of understanding the extreme context of veterans’ transitions and then integrate multidisciplinary research on veterans to identify the conditions under which the transition is successful (or not). Specifically, our review identifies how and under what conditions the knowledge, skills, and abilities of veterans translate to the civilian workforce, the employment outcomes (successes or failures) seen during the transition to the civilian workforce, and how employment opportunities increase the wellness of veterans. Throughout the review, we illustrate how incorporating the experiences of veterans can advance management theory on social identity, stigma, unemployment, intersectionality, and careers. In parallel, we highlight how management theory can help contextualize and enrich the study of veterans. We also distill insights from research into tools and practices that can improve civilian employment outcomes for veterans. Finally, we discuss an agenda for management research that enhances the experience of veterans and management theory by complicating the process of stigmatization and its resolution, positively reframing social identity, learning from veteran employment programs, exploring intersectional identities of veterans, and including veterans in the study of careers.</content>
-    <link href="https://doi.org/10.1177/01492063261456641"/>
-    <category term="Journal of Management"/>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;National public health awareness campaigns that emphasize peer-to-peer support are increasingly adopted, but evidence on the effects of peer-based programs at scale remains limited. Using quasi-experimental methods, we examine whether the prominent nationwide “R U OK? Day” campaign affects short-term mental health outcomes in Australia. Leveraging survey and administrative data, we find R U OK? Day leads to a 4% of a standard deviation increase in self-reported mental wellbeing, with the effect particularly pronounced among middle-aged males who experience a 9% of a standard deviation increase. We find no detectable effects on mental health care utilization, and we detect no statistically significant changes in suicide-related deaths in the short run, though the mortality outcomes are rare and power is limited. Our results underscore that peer-based campaigns can improve mental wellbeing, especially for high-risk groups, and point to a distinction between short-run psychological responses and outcomes that require behavioural follow-through.</content>
+    <link href="https://doi.org/10.1177/00222429261467752"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261466668</id>
+    <title>EXPRESS: How Closely Should You Follow a Trend? Atypicality and Engagement on Social Media</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <author>
+      <name>Marc Bravin, Melanie Clegg, Reto Hofstetter, Marc Pouly, Jonah Berger</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Following trends on social media has become increasingly popular. But what is the best way to do so? Should brands and other creators copy the trend as closely as possible, or should they put a more unique spin on it? To answer this question, we develop a multimodal, unsupervised video analytics tool (MUVID) to quantify the typicality of over 85,000 TikTok dance videos. Results indicate that more atypical videos (i.e., more differentiated from the trend) generate more engagement. Consistent with the notion that atypicality drives engagement, this relationship is amplified when atypicality is easier to observe (i.e., when audiences have seen more trend videos). Follow-up experiments, including a content creator field experiment, manipulate atypicality and confirm its causal impact. Our findings provide practical guidance on how to create more impactful content, shed light on effective trend following, and offer a tool (available through an app) that researchers and practitioners can use to quantify typicality and analyze short videos more generally.</content>
+    <link href="https://doi.org/10.1177/00222429261466668"/>
+    <category term="Journal of Marketing"/>
     <published>2026-06-29T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -826,6 +1366,18 @@
     <published>2026-06-29T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/isre.2025.1792</id>
+    <title>Leveraging Information Networks for Marketing Brand Alliance Discovery: A Data-Driven Framework for Actionable Insights</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <author>
+      <name>Pankhuri Malhotra, Daniel Ringel, Keran Zhao, Yaxin Cui</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Marketing brand alliances are consumer-facing collaborations in which brands are jointly presented through shared offerings or campaigns. Yet, despite their widespread use in practice, no existing framework supports their market-wide, ex ante discovery with execution guidance. We address this gap by formalizing brand alliance opportunity discovery as a new computational design problem characterized by two desiderata that prior work has not jointly addressed: signal fusion and actionability. We propose BANE (Brand Alliance Network Exploitation), a sociotechnical framework that leverages information networks derived from digital user traces to satisfy these desiderata through four phases: (1) predicting alliance opportunities by integrating offline brand attributes, online consumer co-mention signals, and network embeddings; (2) validating predictions through consumer and brand manager surveys; (3) qualifying predicted positive, non-materialized alliance opportunities for actionability across quadrants; and (4) generating marketing-mix execution guidance. Temporal holdout testing demonstrates that BANE predicts future alliances from pre-announcement signals, ablation analysis confirms the incremental value of each signal layer, and stakeholder surveys show that BANE-identified opportunities are perceived as significantly more promising than controls. Our work contributes three salient design insights to the IS literature: multi-layer signal fusion is necessary for identifying truly promising brand alliance opportunities; consumer co-mention networks systematically align with theory-grounded alliance covariates, providing a distinct informational input for alliance prediction; and coupling prediction with qualification and prescription enhances managerial actionability. These insights enable a scalable, data-driven alternative to survey-based alliance search while generating predictive knowledge that can motivate future causal research on the mechanisms underlying brand alliance formation.</content>
+    <link href="https://doi.org/10.1287/isre.2025.1792"/>
+    <category term="Information Systems Research"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1093/rfs/hhag061</id>
     <title>Too Good to Be True: Look-Ahead Bias in Empirical Options Research</title>
     <updated>2026-06-30T00:00:00+00:00</updated>
@@ -835,30 +1387,6 @@
     <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Numerous trading strategies examined in options research exhibit remarkably high mean returns and Sharpe ratios. We show some of these seemingly “good deals” are due to look-ahead biases. These biases stem from using information unavailable at the portfolio formation time to filter out observations suspected of being noisy or erroneous. Our results suggest that elevated Sharpe ratios may serve as potential indicators of such look-ahead biases. Furthermore, deviating from previous literature findings, we show that illiquidity is not strongly priced in stock options and that only a small set of stock characteristics are in fact associated with option expected returns. (JEL G12, G14, G17)</content>
     <link href="https://doi.org/10.1093/rfs/hhag061"/>
     <category term="The Review of Financial Studies"/>
-    <published>2026-06-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.1702</id>
-    <title>Multipurchase Assortment Optimization Under a General Random Utility Model</title>
-    <updated>2026-06-30T00:00:00+00:00</updated>
-    <author>
-      <name>Tarek Abdallah, Anton Braverman, Wenhao Gu</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Choosing Product Assortments When Customers Buy More Than One ItemRetailers often need to decide which products to offer, but many existing assortment-optimization models assume that each customer buys at most one item. This paper studies a more realistic setting in which customers may purchase multiple items from an offered assortment while also considering outside options such as competing retailers, alternative channels, or not buying. The authors develop a general random utility model for this setting and show how the optimization problem can be approximated by a tractable surrogate problem. The surrogate is motivated by a large-offering asymptotic regime, can be solved efficiently, and performs well in numerical experiments, even for moderate-sized problems. The paper also provides theoretical bounds on the approximation error and develops an estimation framework that remains valid when outside-option choices are not directly observed.</content>
-    <link href="https://doi.org/10.1287/opre.2025.1702"/>
-    <category term="Operations Research"/>
-    <published>2026-06-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0060</id>
-    <title>On Multivariate Singular Spectrum Analysis: Tensor and Matrix Variants</title>
-    <updated>2026-06-30T00:00:00+00:00</updated>
-    <author>
-      <name>Anish Agarwal, Abdullah Alomar, Devavrat Shah</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Tensor and Matrix Methods for Multivariate Time Series, with Provable GuaranteesReal-world time series data—from financial markets to electricity demand—are often multivariate, noisy, and riddled with missing observations. In “On multivariate singular spectrum analysis: Tensor and matrix variants,” Anish Agarwal, Abdullah Alomar, and Devavrat Shah introduce and rigorously analyze two extensions of singular spectrum analysis (SSA) for this challenging setting. Their matrix variant (mSSA) achieves imputation and forecasting error scaling as [Formula: see text] improving over both univariate SSA and standard matrix estimation methods that ignore temporal structure. A novel tensor variant (tSSA) further improves sample complexity in certain regimes, strengthening the link between time series analysis and tensor estimation. These results are made possible by a spatio-temporal factor model that accommodates a rich class of dynamics—harmonics, polynomials, and smooth periodic functions—which the authors extend further by introducing a “Hankel calculus” establishing closure under component-wise addition and multiplication. Empirically, mSSA matches state-of-the-art deep learning methods while significantly outperforming classical approaches such as vector autoregression.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0060"/>
-    <category term="Operations Research"/>
     <published>2026-06-30T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -883,6 +1411,42 @@
     <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Firms under regulatory threat often have a collective interest in influencing policy outcomes through market behaviour. However, when coordination is prohibited and collective benefits are non‐excludable, such efforts are constrained by coordination and outcome uncertainty. While prior research emphasizes firm influence through the public policy arena, much less is known about how firms navigate collective action problems in the market arena, where interdependent incentives and uncertainty about rivals' behaviour make coordination difficult under legal constraints. We address this gap by theorizing that multimarket contact (MMC) creates the conditions under which coordination and sanctioning mechanisms become feasible. Using data from the Indian pharmaceutical industry's response to a 2013 price‐control regulation, we show that firms with higher MMC are more likely to raise prices in regulated markets, thereby participating in collective efforts to shape the average market price used to set price ceilings. Our findings extend the MMC framework by showing how firms can activate it selectively for cooperative purposes under regulatory pressure, even when assumptions like competitive parity are violated. More broadly, we identify MMC as a contingency that enables firms to overcome collective action barriers in the market arena, offering new insights into the interplay between market and non‐market strategy.</content>
     <link href="https://doi.org/10.1111/joms.70115"/>
     <category term="Journal of Management Studies"/>
+    <published>2026-06-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-026-00887-2</id>
+    <title>Media as nonmarket influencer in international business</title>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <author>
+      <name>Yadong Luo, Anlan Zhang, Tony Fang</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Media has emerged as a powerful yet under-theorized force shaping the nonmarket environments of multinationals (MNEs), particularly amid intensifying geopolitical tensions and ideological polarization. Drawing on mass communication theory, we conceptualize media, encompassing both institutional news media and social media platforms, as a distinct nonmarket influencer that actively constructs legitimacy, propagates geopolitical narratives, and accelerates public sentiment across borders. We develop a framework that explicates the pathways through which media reconfigures nonmarket influences facing MNEs, including legitimacy arbitration, geopolitical narrative, sentiment cascades, and shaping liabilities of foreignness and origin across interconnected home, host, and global arenas. We advance media literacy as a form of corporate soft power that enables MNEs to sense media-driven threats, seize narrative opportunities, and reconfigure communication structures as part of an integrated nonmarket strategy and corporate diplomacy. By repositioning media as a constitutive force rather than a peripheral communication channel, we present a foundation for understanding how MNEs develop their capacity to anticipate media-driven risks, manage legitimacy across borders, and adapt nonmarket strategies under geopolitical and ideological uncertainty.</content>
+    <link href="https://doi.org/10.1057/s41267-026-00887-2"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-06-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.70034</id>
+    <title>Naturalness against environment‐friendliness: The impact of shelf life on food perceptions and purchase decisions</title>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <author>
+      <name>Dan Liu, Yann Cornil, Xiaobing Xu</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;We study the impact of shelf‐life information on consumers' expectations about food healthiness, naturalness, and environmental friendliness, as well as purchase decisions. Through seven studies (and four additional studies reported in the appendix), we demonstrate that shelf‐life information produces divergent effects: foods with a longer shelf life are perceived as less wasteful and more environmentally friendly but also as less natural and less healthy. Accordingly, we demonstrate that emphasizing naturalness or healthiness (vs. waste reduction or environmental friendliness) increases consumers' preference for foods with a shorter (vs. longer) shelf life. This happens even when foods with different shelf lives have nearly identical ingredients and nutritional quality, or when the longer shelf life can objectively be attributed to better packaging rather than the food itself, unless consumers are explicitly prompted to elaborate on why the foods differ in shelf life. Theoretically, these findings contribute to the literature on shelf life as a determinant of food choice and deepen understanding of perceptions of naturalness and environmental friendliness. Practically, our research provides insights on how consumers' preference for naturalness can ultimately lead to more waste by increasing the appeal of foods with shorter shelf lives.</content>
+    <link href="https://doi.org/10.1002/jcpy.70034"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-06-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.0996</id>
+    <title>Interlopers or Catalysts? Dissecting the Impact of Incorporating AI Players on Multiplayer Online Games</title>
+    <updated>2026-06-30T00:00:00+00:00</updated>
+    <author>
+      <name>Zhechao Yang, Qili Wang, Liangfei Qiu</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As AI becomes increasingly embedded in multiplayer online games, AI-controlled players are frequently deployed as opponents to human players. Whereas this practice is becoming increasingly common, its impact on player engagement, social interactions, and the broader game ecosystem remains unclear. Our study investigates the effects of introducing AI players using a natural experiment from a popular multiplayer online game. We find that AI players significantly increase player engagement and encourage players to team up with friends more frequently. These effects are driven by enhanced self-efficacy and perceived team responsibility. Moreover, the positive effects are particularly strong among novice players and among players who previously preferred teaming up with strangers. Our findings offer valuable insights for game developers seeking to enhance player engagement and foster social interaction, highlighting the potential of carefully designed AI participants to strengthen online communities and improve player retention.</content>
+    <link href="https://doi.org/10.1287/isre.2024.0996"/>
+    <category term="Information Systems Research"/>
     <published>2026-06-30T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -922,6 +1486,18 @@
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/qje/qjag034</id>
+    <title>Who Pays for Unions?</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Samuel Dodini, Anna Stansbury, Alexander Willén</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;If unions raise worker wages, who pays? We provide a comprehensive assessment of firm responses to increased unionization, using changes in the tax deductibility of union dues in Norway as a quasi-exogenous source of variation in firm-level union density. In the average private sector firm, higher union density raises labor costs and leads firms to contract employment and production, lowering profits without increasing the labor share. The incidence is shared: consumers bear part of the cost through higher prices, shareholders through lower profits, and the remainder is offset by productivity improvements. The total wage bill falls, with losses concentrated among less-attached “outsider” workers. Firm responses vary systematically by the degree of market competition. In manufacturing, where firms operate in less competitive product and labor markets, the response is reversed: the average firm expands employment and production, reduces labor markdowns, and does not experience profit declines. Instead, higher labor costs are largely passed on to consumers through higher prices, with the remainder offset by productivity gains. Workers benefit as both wages and employment rise. These patterns suggest that unions can offset employer monopsony power and that firm responses–and therefore who ultimately bears the cost-depend importantly on market structure. Overall, unionization in this setting primarily redistributes from consumers rather than shareholders and has effects that differ sharply across firms, including a reallocation toward larger and more productive firms. We rationalize these patterns using a partial-equilibrium model of union bargaining with product- and labor-market power.</content>
+    <link href="https://doi.org/10.1093/qje/qjag034"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10591478261468125</id>
     <title>EXPRESS: Enhancing Electric Vehicle Charging Station Design Using Multi-Fidelity Simulations</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -955,6 +1531,54 @@
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Prior research on supply chain geographical complexity has predominantly treated geographical distance and geographical dispersion as interchangeable concepts. Further, nearly all empirical studies in this stream that examined supply chain antecedents of product quality risks used samples from Western, educated, industrialized, rich, and democratic (WEIRD) countries. To improve the theoretical and practical insights from this stream of research, we theorize that, particularly for manufacturers in emerging markets, supply base geographical distance and dispersion affect product quality risks through monitoring and coordination challenges, respectively. Analyzing data from the Chinese automobile industry, we find that the geographical distance of firms from their supply base is not significantly related to automobile quality risks, but geographical dispersion is significantly and positively associated. In line with our arguments, we found that the relationship between geographical distance and quality risk is weakened when firms source from suppliers located in countries with strong regulatory quality, and that the positive relationship between geographical dispersion and quality risks is weakened by supplier quality certifications. Taken together, our findings provide a nuanced understanding of the relationship between supply chain geographical complexity and product quality risks, which leads to new theoretical and practical insights relevant for non-WEIRD countries.</content>
     <link href="https://doi.org/10.1177/10591478261468430"/>
     <category term="Production and Operations Management"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00539</id>
+    <title>Asymptotic Optimality of Semi-Open-Loop Policies in Inventory Models with Stochastic Lead Times</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Xingyu Bai, Xin Chen, Menglong Li, Alexander L. Stolyar</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Inventory models with large and uncertain lead times are notoriously difficult to manage due to the curse of dimensionality. Recent works suggest that in inventory models with large deterministic lead times, semi-open-loop policies are asymptotically optimal. In this paper, we provide a theoretical foundation for the superior performance of semi-open-loop policies in inventory models where the lead times are not only large but also exhibit high variability. In the single-sourcing lost-sales inventory model with divisible products, we show that the optimality gap of constant-order policies decays exponentially fast as the lead time increases. In the single-sourcing lost-sales inventory model with indivisible products, under the assumption that the placed orders cannot cross in time, we propose a bracket policy, which alternates deterministically between two consecutive integer order quantities, and prove that the bracket policy is asymptotically optimal. In the dual-sourcing backlog inventory model with divisible products, we show that a semi-open-loop policy, which places a constant order from the regular supplier in each period, and implements a state-dependent modified base-stock policy from the emergency supplier, is asymptotically optimal, and we also extend our analysis to the joint pricing and inventory model. Finally, we provide a comprehensive numerical study to demonstrate the good performance of the proposed policies and derive further managerial insights.This paper was accepted by Jeannette Song, operations management.Funding: This work was supported by the National Science Foundation [Grant CMMI-1635160], the Hong Kong Research Grants Council [General Research Fund CityU11508223], and the Hong Kong Research Grants Council [Early Career Scheme CityU21505825].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00539 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00539"/>
+    <category term="Management Science"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06633</id>
+    <title>The Role of Digital Platforms in Data Markets: How Platform-Shared Market Data Through Advanced Analytics Empower Firm Innovation</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yubo Chen, Xuebin Cui, Aishen Li, Banggang Wu, Liu Yang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Despite the growing value of data in digital markets, data sharing across firms is constrained by increasingly stringent privacy regulations. Digital platforms with their extensive data and analytical capabilities can help overcome these constraints by sharing market information through advanced analytics rather than raw data. In collaboration with Alibaba’s Taobao Marketplace, we utilize a natural experiment and examine how platform-shared data affect retailers’ performance. We find that advanced data analytics increase retailer sales by 31.8% beyond the effects of descriptive analytics. Analytics leveraging platform-level market data generate larger and more persistent performance gains than those relying solely on firm-level data, with small retailers benefiting disproportionately as market data help bridge their information gaps. Mechanism analyses reveal no effect on price and advertising expenditures; instead, platform-shared data enable retailers to innovate their product assortments, expanding category scope by 6.8% and increasing new stock-keeping unit introductions by 10.5%. This study contributes to the data economy literature by demonstrating that platform-shared market data can serve as a critical input to firm innovation, fostering more effective product assortment innovation and sustained performance improvements. Our findings also inform ongoing debates on data and platforms regulation by offering managerial and policy insights into how nonrival market data can be shared by platforms through data analytics to empower traditional businesses.This paper was accepted by Duncan Simester, marketing.Funding: Y. Chen and L. Yang acknowledge the financial support from the National Natural Science Foundation of China [Grant 71991461] and Tsinghua University School of Economics and Management Research Grant. X. Cui acknowledges the financial support from the National Natural Science Foundation of China [Grant 72002096]. B. Wu acknowledges the financial support from the National Natural Science Foundation of China [Grants 72372109 and 71902148] and Guanghua Talent Project of Southwestern University of Finance and Economics.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06633 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06633"/>
+    <category term="Management Science"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261456644</id>
+    <title>Newcomers Flying Solo: Why, How, and for Whom Perceived Experience Creates Adjustment Challenges</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex L. Rubenstein, Feiyue Chen, John D. Kammeyer-Mueller, Mo Wang, Lin Wang</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;In this study, we examine the relationships between perceived experience and newcomer adjustment outcomes. Drawing from Feedback Seeking Behavior theory, we challenge the assumption that greater perceived experience is universally beneficial during organizational entry. We propose that greater perceived experience could impair adjustment outcomes (i.e., job performance, work stress, and social disconnectedness) through two mechanisms: increased self-reliance beliefs and perceived risk of information seeking. In a field study of 243 new hires, we found evidence consistent with several of our predictions. Additionally, we found that openness to experience significantly weakened the relationships between perceived experience and self-reliance beliefs and risk of information seeking, as well as to subsequent adjustment outcomes (i.e., moderated mediation). Our research highlights the potential liabilities of starting a new job with greater perceived experience, turning attention to the factors that might inhibit proactive socialization efforts, while also examining openness as a key moderator of these effects.</content>
+    <link href="https://doi.org/10.1177/01492063261456644"/>
+    <category term="Journal of Management"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1175</id>
+    <title>Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ramnath K. Chellappa, Rajiv Mukherjee</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Practice and Policy Oriented Abstract for “Ecosystem Competition: Platforms, Subsidiary Markets and Multihoming in the Videogames Industry”This study examines how royalty-bearing game sales and multi-platform publishing reshape competition in the videogame console industry. By modeling consoles, publishers, and gamers as part of an interconnected ecosystem rather than a simple two-sided market, the analysis shows that downstream game revenues can intensify, rather than soften, platform competition. When consoles expect to earn royalties from later game purchases, they have stronger incentives to lower hardware prices to attract gamers, while shifting more of the revenue burden to publishers through higher licensing fees under royalty-based contracts. The study also finds that when publishers release games on multiple platforms, gamer subsidies deepen, licensing fees rise, and multihoming may cease to benefit platforms beyond a threshold, overturning a common assumption in platform strategy.For practice, these findings suggest that platform managers should evaluate pricing, exclusivity, and revenue-sharing decisions at the ecosystem level, not in isolation. For policy, the results imply that regulators and industry observers should expect royalty structures and content distribution rules to affect consumer prices, publisher bargaining power, and market competition in digital ecosystems more broadly.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1175"/>
+    <category term="Information Systems Research"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1006,18 +1630,6 @@
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1257/aer.20250064</id>
-    <title>A Theory of Price Caps on Nonrenewable Resources</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Simon Johnson, Lukasz Rachel, Catherine Wolfram</name>
-    </author>
-    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances. (JEL F12, F14, F51, L71, P28, P33, Q35)</content>
-    <link href="https://doi.org/10.1257/aer.20250064"/>
-    <category term="American Economic Review"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1257/aer.20240642</id>
     <title>Self-Fulfilling Fluctuations in HANK Economies</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -1026,6 +1638,18 @@
     </author>
     <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;We show that in heterogeneous agent New Keynesian (HANK) economies with countercyclical risk, the natural interest rate is endogenous and co-moves with output, leaving the economy susceptible to self-fulfilling fluctuations. Unlike in representative agent New Keynesian models, the Taylor principle is not sufficient to guarantee uniqueness of equilibrium in HANK if risk is even mildly countercyclical: Multiple bounded equilibria exist, no matter how strongly monetary policy responds to changes in inflation. For an active monetary policy to eliminate self-fulfilling fluctuations, it must stabilize the endogenous natural rate fluctuations. Alternatively, a passive monetary and active fiscal regime can also eliminate equilibrium multiplicity. (JEL E12, E23, E31, E32, E43, E52, E62)</content>
     <link href="https://doi.org/10.1257/aer.20240642"/>
+    <category term="American Economic Review"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1257/aer.20250064</id>
+    <title>A Theory of Price Caps on Nonrenewable Resources</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Simon Johnson, Lukasz Rachel, Catherine Wolfram</name>
+    </author>
+    <content>&lt;b&gt;American Economic Review&lt;/b&gt; &lt;br&gt;What is the optimal response of a resource exporter when a price cap is imposed on its main export? This paper develops a dynamic framework incorporating stochastic prices, financial frictions, and market power to study this novel tool of statecraft. With the right design, a price cap can incentivize increased extraction, stabilizing prices in the global market. But the stabilizing effects diminish when there is leakage outside the cap. Consequently, weak enforcement of the policy worsens the trade-off faced by the sanctioning policymaker. We provide a systematic approach to setting and enforcing an optimal cap level in these circumstances. (JEL F12, F14, F51, L71, P28, P33, Q35)</content>
+    <link href="https://doi.org/10.1257/aer.20250064"/>
     <category term="American Economic Review"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
@@ -1088,5 +1712,29 @@
     <link href="https://doi.org/10.1257/aer.20230344"/>
     <category term="American Economic Review"/>
     <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdag070</id>
+    <title>Subjective Earnings Risk</title>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew Caplin, Victoria Gregory, Eungik Lee, Søren Leth-Petersen, Johan Sæverud</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We introduce a survey instrument to measure earnings risk allowing for the possibility of quitting or being fired from the current job. We find these transitions to be the key drivers of subjective risk. A link with administrative data provides multiple credibility checks and reveals that subjective earnings risk varies systematically across the population. It is also many times smaller than traditional estimates even when conditioning richly on demographics and job history. We show that subjective earnings risk can help explain why many hold limited liquid assets.</content>
+    <link href="https://doi.org/10.1093/restud/rdag070"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-07-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1007/s11142-026-09962-3</id>
+    <title>Tax numbers and ETR forecasting</title>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <author>
+      <name>Carlyle S. Burd</name>
+    </author>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;This study examines the determinants and implications of the volume of tax-related numbers reported in the financial statements. I document that the volume of tax numbers increases with tax reporting requirements and decreases with the complexity of the tax rate, implying that firms with greater proprietary costs decrease their numeric disclosures once they meet mandatory reporting requirements. With respect to implications, I document that firms reporting more tax numbers improve the transparency of the information environment, reducing the errors and dispersion of analysts’ implied effective tax rate forecasts. In contrast, greater emphasis on narrative tax disclosure does not reduce information frictions, highlighting an important trade-off between numeric detail and strategic narratives. Further investigation suggests that this relationship is driven by more tax numbers in the financial statement footnotes rather than in the face financial statements. These findings suggest firms’ tax information environment improves with a greater volume of numeric tax-related disclosures.</content>
+    <link href="https://doi.org/10.1007/s11142-026-09962-3"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2026-07-02T00:00:00+00:00</published>
   </entry>
 </feed>
