@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-07-05T13:02:53.444235+00:00</updated>
+  <updated>2026-07-06T13:05:42.980869+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
-  <entry>
-    <id>https://www.nber.org/papers/w35310</id>
-    <title>Is the iPhone Birth Control? Causal Evidence from AT&amp;T’s 2007–2011 Carrier Monopoly</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Caitlin K. Myers &amp; Ezekiel Hooper</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The U.S. general fertility rate has fallen by 22% since 2007, a sustained decline not readily explained by economic conditions, contraceptive use, housing or childcare costs, or other commonly cited factors. We assess the potential role of a different shock: the diffusion of the smartphone. The U.S. rollout of the iPhone, the first modern smartphone, provides a natural experiment: from June 2007 through February 2011, the device was sold only on AT&amp;T, allowing us to identify its effect from variation in AT&amp;T’s mobile broadband coverage. Entropy-balanced Poisson and synthetic difference-in-differences event studies imply that access to the iPhone reduced births by 4.5–8.0% at ages 15–19 and 3.2–6.6% at ages 20–24, with statistically significant but smaller declines among older cohorts. Placebo analyses applied to Verizon and Sprint’s pre-2011 coverage footprint are null. Taken together, these cohort effects imply that the diffusion of the iPhone deepened the decline in births among women under 30 while suppressing the rise in births among older women. Overall, the diffusion of the iPhone explains 33–52% of the decline in the general fertility rate among women aged 15–44. National-survey evidence on time use and sexual behavior is consistent with the iPhone reducing in-person interactions, increasing pornography use, and reducing sexual frequency.</content>
-    <link href="https://www.nber.org/papers/w35310"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35309</id>
     <title>But I Like Doing This! Enjoyable Tasks, Contracting, and Automation</title>
@@ -27,6 +15,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Workers sometimes enjoy productive tasks and voluntarily devote unpaid time to them. We study O-ring jobs in which firms can either price a complete task bundle or specify paid task floors while workers remain free to add time. For any allocation supported by both hourly contracts, the wage bill is identical: voluntary top-up is not a discount. The contracts differ because paid floors cannot cap attractive tasks below the worker's voluntary supply. This implementability constraint adds a containment motive for automation alongside replacement and scale effects. It also makes payroll measures incomplete: conditional on a common automated set and a common AI technology, jobs with the same payroll footprint can differ in worked time and task mix. Rich salaried bundle pricing removes the hourly-contract distortion.</content>
     <link href="https://www.nber.org/papers/w35309"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35313</id>
+    <title>Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kristina Butaeva, Steven N. Durlauf &amp; Alexander Shapoval</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.</content>
+    <link href="https://www.nber.org/papers/w35313"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -151,6 +151,18 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35294</id>
+    <title>Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex Bell, Sophie Calder-Wang &amp; Shusheng Zhong</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "anti-instrument'' for unobserved housing quality when pricing environmental amenities, recovering a correctly signed implicit price of air pollution that is in line with quasi-experimental benchmarks.</content>
+    <link href="https://www.nber.org/papers/w35294"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35293</id>
     <title>The Effect of Height on Adolescents' Body Image Perceptions and Behaviors</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -247,38 +259,50 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35205</id>
-    <title>Tatonnement and Price Setting in General Equilibrium</title>
+    <id>https://www.nber.org/papers/w35330</id>
+    <title>Before the Exodus? Young Scientists and the Future of US Science</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Iván Werning ⓡ Guido Lorenzoni</name>
+      <name>Pierre Azoulay, Raffaella Sadun &amp; Daniela Scur</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution.</content>
-    <link href="https://www.nber.org/papers/w35205"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Shortly after major policy changes to US science funding began in early 2025, we surveyed 916 young biomedical scientists – PhD students and postdoctoral researchers – about their career intentions and expectations. The results document a dramatic shift in sentiment. Barely half of respondents now say they are likely to remain in academia, down 22 percentage points from how they felt six months earlier. The fraction likely to stay in the United States fell by 21 percentage points. Even satisfaction with having pursued a PhD in science declined by 16 percentage points. These are not the complaints of established scientists defending their budgets, but rather the stated intentions of the next generation – the scientists who would, in ordinary times, become the principal investigators of the future.</content>
+    <link href="https://www.nber.org/papers/w35330"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35321</id>
-    <title>Optimal Medical Liability for AI</title>
+    <id>https://www.nber.org/papers/w35329</id>
+    <title>Reconciling Micro Elasticities with the Macro Decline in Labor Supply</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Alex Chan</name>
+      <name>Loukas Karabarbounis</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
-    <link href="https://www.nber.org/papers/w35321"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Micro estimates of the Marshallian elasticity of labor supply are small and typically positive, whereas cross-country and time-series patterns of hours imply a strong negative relationship between wages and hours. I reconcile these two apparently contradictory observations using a single utility specification and taking into account heterogeneity in non-labor income. Micro estimates condition on non-labor income, while macro variation allows capital income to adjust alongside labor income, which strengthens the income effect. A model with heterogeneous households and exogenous capital income yields closed-form expressions in which the distribution of the labor share shapes the gap between the micro and the macro elasticities. A cross-sectional regression of hours on wages that conditions on the labor share recovers the macro elasticity. A dynamic model with heterogeneous households and incomplete asset markets reproduces both elasticities as outcomes when disciplined by joint moments of wages, hours, consumption, and wealth. The income effects that bridge the gap between the two elasticities imply marginal propensities to earn that lie in the range of estimates of micro studies on lottery winners.</content>
+    <link href="https://www.nber.org/papers/w35329"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35333</id>
-    <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
+    <id>https://www.nber.org/papers/w35328</id>
+    <title>Dollar Erosion: Understanding the Loss of Reserve Currency Status</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>James M. Flynn, David R. Munro &amp; Caitlin K. Myers</name>
+      <name>Zhengyang Jiang, Arvind Krishnamurthy, Hanno Lustig &amp; Robert J. Richmond</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of total abortion bans enacted after Dobbs v. Jackson Women's Health on sexual behavior.  Using synthetic and standard difference-in-differences designs, we analyze gonorrhea rates and over-the-counter contraceptive purchases as indicators of sexual activity and contraceptive use. We find that total abortion bans reduced gonorrhea rates by 21% among the population aged 15–44 and increased condom purchases by 5.4%. County-level analyses suggest the response reflects awareness of state policy rather than changes in travel distance to providers. These findings are consistent with a framework in which abortion restrictions increase the perceived cost of unprotected sex, inducing more cautious behavior.</content>
-    <link href="https://www.nber.org/papers/w35333"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We quantify the impact of the loss of reserve currency status in goods and asset markets. In goods markets, the loss of seigniorage (1% of GDP per annum) makes American households spend less, mostly on U.S. goods, leaving an excess supply of U.S. goods to be cleared by a real depreciation of the dollar. The larger the home bias and the lower the elasticity of substitution between home and foreign goods, the larger the required depreciation. Standard parameters imply an 8.8% real depreciation of the dollar. In asset markets, about 50% of GDP in dollar bonds must be reabsorbed by home investors, raising the U.S. real interest rate. Standard parameters imply a 90 basis points rise, leading to an aggregate wealth loss of roughly one year of U.S. GDP.</content>
+    <link href="https://www.nber.org/papers/w35328"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35327</id>
+    <title>'Nobody Wants to Work Anymore': Lifetime Labor Market Experiences and the Decline of Male LFP in the United States</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Remy Levin &amp; Daniela Vidart</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Male labor force participation has declined steadily for 50 years in the United States. We show that one cause has been changes in men's beliefs about the returns to work, shaped by lifetime experiences of the aggregate male labor market. We find that experience effects on participation persist for men who move across state lines, are stronger for same-race male experiences, and are driven by formative childhood years. We also document effects of experiences on direct measures of labor market expectations. Our findings suggest that experience effects can turn short-run declines in labor demand into long-run declines in labor supply.</content>
+    <link href="https://www.nber.org/papers/w35327"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -351,6 +375,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a dynamic model of data-driven automation in which data (i)  is  heterogeneous and task-specific; (ii) accumulates endogenously as a byproduct of economic activity; and (iii) exhibits spillovers such that data generated by one task can augment the productivity of another. Along the transition path of automation, data plays a dual role in simultaneously augmenting the productivity of already-automated tasks and expanding the automation frontier. We derive tight conditions for the economy to be partially versus fully automated in the long-run. In the latter case, automation exhibits rich short-run dynamics that depend on the pattern of data spillovers but is always slow in the long-run: the share of tasks produced by labor decays asymptotically as a power law in time. We show that the economy is generically inefficient and analyze how a planner optimally tilts the direction of data accumulation. With endogenous capital accumulation, data-driven automation generates explosive growth but stagnant long-run wages.</content>
     <link href="https://www.nber.org/papers/w35320"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35321</id>
+    <title>Optimal Medical Liability for AI</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex Chan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study medical liability when artificial intelligence acts as a doctor rather than as a passive clinical tool. The central object is the legally usable medical record: the inputs, logs, warnings, prescriptions, follow-up instructions, and outcomes on which courts, contracts, insurers, and regulators can condition responsibility. I show that AI medical liability is an institutional design problem under imperfect legal information. If the record separates AI-controllable error from patient nonadherence and natural disease progression, high-powered AI-fault liability implements the standard accident-law ideal. If the record is coarse, the first best may be infeasible: the same transfer that disciplines the AI also insures the patient's hidden action. With joint causation, the relevant object is a marginal-responsibility score rather than a posterior cause label. I characterize the feasible set of liability incentives generated by the record and show when the optimal rule is no liability, strict liability, negligence, a safe harbor, comparative fault, or a continuous warranty. I then study algorithmic defensive design, through which AI developers can design not only medical recommendations but also the record on which future liability depends. Adoption, learning, enterprise liability, insurance, no-fault compensation, and regulation enter as ways to change the record, the liable entity, or the financing of compensation. The framework yields conditional implications rather than a one-size-fits-all rule.</content>
+    <link href="https://www.nber.org/papers/w35321"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -524,6 +560,18 @@ Our main result is a complementarity between automation and repression. Unless t
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35333</id>
+    <title>Playing it Safe? The Effect of Abortion Bans on Sexual Behavior</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>James M. Flynn, David R. Munro &amp; Caitlin K. Myers</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the effect of total abortion bans enacted after Dobbs v. Jackson Women's Health on sexual behavior.  Using synthetic and standard difference-in-differences designs, we analyze gonorrhea rates and over-the-counter contraceptive purchases as indicators of sexual activity and contraceptive use. We find that total abortion bans reduced gonorrhea rates by 21% among the population aged 15–44 and increased condom purchases by 5.4%. County-level analyses suggest the response reflects awareness of state policy rather than changes in travel distance to providers. These findings are consistent with a framework in which abortion restrictions increase the perceived cost of unprotected sex, inducing more cautious behavior.</content>
+    <link href="https://www.nber.org/papers/w35333"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35332</id>
     <title>Economic Assimilation of Women and Families in the Age of Mass Migration</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -548,74 +596,38 @@ Our main result is a complementarity between automation and repression. Unless t
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35330</id>
-    <title>Before the Exodus? Young Scientists and the Future of US Science</title>
+    <id>https://www.nber.org/papers/w35352</id>
+    <title>Insurance with Multiple Actors</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Pierre Azoulay, Raffaella Sadun &amp; Daniela Scur</name>
+      <name>Jason Abaluck, Oren Sarig &amp; Jintaek Song</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Shortly after major policy changes to US science funding began in early 2025, we surveyed 916 young biomedical scientists – PhD students and postdoctoral researchers – about their career intentions and expectations. The results document a dramatic shift in sentiment. Barely half of respondents now say they are likely to remain in academia, down 22 percentage points from how they felt six months earlier. The fraction likely to stay in the United States fell by 21 percentage points. Even satisfaction with having pursued a PhD in science declined by 16 percentage points. These are not the complaints of established scientists defending their budgets, but rather the stated intentions of the next generation – the scientists who would, in ordinary times, become the principal investigators of the future.</content>
-    <link href="https://www.nber.org/papers/w35330"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze how social-planner insurers split cost-sharing between consumers and firms (e.g. patients and doctors, or drivers and car mechanics). With no contracting frictions, firm cost-sharing can replace consumer cost-sharing other than “visit copays.” Optimal firm contracts depend on the marginal rate of substitution between consumer and firm cost-sharing. For Medicare physician services, paying physicians more up front but less as spending increases reduces risk for both patients and providers; in our calibration, net benefits are twice those from eliminating Medigap externality. For prescription drugs, a dollar of physician paperwork costs is 45–110 times more impactful than a dollar of consumer cost-sharing.</content>
+    <link href="https://www.nber.org/papers/w35352"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35329</id>
-    <title>Reconciling Micro Elasticities with the Macro Decline in Labor Supply</title>
+    <id>https://www.nber.org/papers/w35354</id>
+    <title>The Perceived Inflation Wedge</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Loukas Karabarbounis</name>
+      <name>Neville Francis</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Micro estimates of the Marshallian elasticity of labor supply are small and typically positive, whereas cross-country and time-series patterns of hours imply a strong negative relationship between wages and hours. I reconcile these two apparently contradictory observations using a single utility specification and taking into account heterogeneity in non-labor income. Micro estimates condition on non-labor income, while macro variation allows capital income to adjust alongside labor income, which strengthens the income effect. A model with heterogeneous households and exogenous capital income yields closed-form expressions in which the distribution of the labor share shapes the gap between the micro and the macro elasticities. A cross-sectional regression of hours on wages that conditions on the labor share recovers the macro elasticity. A dynamic model with heterogeneous households and incomplete asset markets reproduces both elasticities as outcomes when disciplined by joint moments of wages, hours, consumption, and wealth. The income effects that bridge the gap between the two elasticities imply marginal propensities to earn that lie in the range of estimates of micro studies on lottery winners.</content>
-    <link href="https://www.nber.org/papers/w35329"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Standard measures of inflation, such as the Consumer Price Index (CPI), are designed to measure changes in the cost of living, not how households perceive price changes under limited attention and imperfect information. This paper introduces Perceived Inflation (PI), an attention-weighted inflation measure derived from a model in which households allocate attention across goods and observe noisy price signals. I construct monthly PI using disaggregated CPI data and attention proxies based on price salience, volatility, media mentions, and search behavior. The resulting PI series is highly correlated with CPI inflation but exhibits greater short-run volatility, especially during the Global Financial Crisis, the COVID-19 recession, and the 2021–22 inflation surge. A state-space version of the index implies a persistent latent attention component and a time-varying PI wedge. Finally, the paper embeds the estimated PI wedge into a heterogeneous-household model to demonstrate how attention-driven distortions in inflation perceptions affect saving and consumption through perceived real returns.</content>
+    <link href="https://www.nber.org/papers/w35354"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35328</id>
-    <title>Dollar Erosion: Understanding the Loss of Reserve Currency Status</title>
+    <id>https://www.nber.org/papers/w35353</id>
+    <title>Task-Specific Technical Change and Comparative Advantage</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
     <author>
-      <name>Zhengyang Jiang, Arvind Krishnamurthy, Hanno Lustig &amp; Robert J. Richmond</name>
+      <name>Lukas Althoff &amp; Hugo Reichardt</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We quantify the impact of the loss of reserve currency status in goods and asset markets. In goods markets, the loss of seigniorage (1% of GDP per annum) makes American households spend less, mostly on U.S. goods, leaving an excess supply of U.S. goods to be cleared by a real depreciation of the dollar. The larger the home bias and the lower the elasticity of substitution between home and foreign goods, the larger the required depreciation. Standard parameters imply an 8.8% real depreciation of the dollar. In asset markets, about 50% of GDP in dollar bonds must be reabsorbed by home investors, raising the U.S. real interest rate. Standard parameters imply a 90 basis points rise, leading to an aggregate wealth loss of roughly one year of U.S. GDP.</content>
-    <link href="https://www.nber.org/papers/w35328"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35327</id>
-    <title>'Nobody Wants to Work Anymore': Lifetime Labor Market Experiences and the Decline of Male LFP in the United States</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Remy Levin &amp; Daniela Vidart</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Male labor force participation has declined steadily for 50 years in the United States. We show that one cause has been changes in men's beliefs about the returns to work, shaped by lifetime experiences of the aggregate male labor market. We find that experience effects on participation persist for men who move across state lines, are stronger for same-race male experiences, and are driven by formative childhood years. We also document effects of experiences on direct measures of labor market expectations. Our findings suggest that experience effects can turn short-run declines in labor demand into long-run declines in labor supply.</content>
-    <link href="https://www.nber.org/papers/w35327"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35368</id>
-    <title>Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Roisin O'Neill, Shailee Manandhar &amp; Douglas L. Kruse</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;People with disabilities are disproportionately represented in low-wage work, raising concerns that higher wage floors may reduce their employment opportunities, particularly for workers with more severe disabilities. We examine the effects of state minimum wage increases and state subminimum wage terminations on employment outcomes for people with disabilities using American Community Survey data from 2010–2023.  We find little evidence that minimum wage increases reduce employment or labor force participation among people with disabilities, including those with more severe disabilities. While many estimates are statistically imprecise, confidence intervals generally rule out economically meaningful negative employment effects. We likewise find no evidence that terminating subminimum wages reduces employment opportunities for affected workers, and some estimates suggest positive employment effects for groups most likely to have been employed under subminimum wage arrangements. These gains may reflect complementary policies that often accompany repeal, such as Employment First initiatives. Overall, the results provide little support for the view that higher wage floors create disproportionate employment barriers for people with disabilities.</content>
-    <link href="https://www.nber.org/papers/w35368"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35359</id>
-    <title>Transportation Infrastructure and Urban and Regional Development</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gilles Duranton &amp; Matthew Turner</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The literature assessing the effects of transportation infrastructure on how people and economic activity distribute themselves across a system of cities has three main parts. The theoretical literature makes robust predictions about how transportation infrastructure affects the internal structure of cities, but for systems of cities, theory does not let us rule much out. The city-level empirical literature establishes that improved urban transportation infrastructure causes suburban migration, but has only a small impact on city population. This literature is less helpful for understanding the effects of transportation infrastructure on the way people are distributed across a system of cities, but has made some progress. The small empirical literature looking at how transportation infrastructure affects systems of cities using cross-country data remains underdeveloped and is inconclusive.</content>
-    <link href="https://www.nber.org/papers/w35359"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence (AI) reshapes workers’ comparative advantage by altering the tasks they perform and the skills those tasks require. We develop a dynamic task-based model to quantify the general-equilibrium effects of task-specific technical change. Workers have multidimensional skills, choose occupations, and accumulate skills on the job; occupations combine tasks, and productivity depends on how workers’ skills match task requirements. We develop a computationally efficient procedure to estimate the model using panel data and a new database of task-level skill requirements. We apply the model to AI, allowing it to augment, automate, and simplify tasks. We find that AI narrows wage inequality and raises average wages across scenarios ranging from slow to rapid AI progress. The key equalizing force is simplification: by lowering tasks’ skill requirements, AI lets lower-skill workers compete for previously inaccessible jobs. Adoption costs, highest for lower-skill workers, dampen but do not eliminate the decline in inequality.</content>
+    <link href="https://www.nber.org/papers/w35353"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -680,6 +692,18 @@ Our main result is a complementarity between automation and repression. Unless t
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35359</id>
+    <title>Transportation Infrastructure and Urban and Regional Development</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gilles Duranton &amp; Matthew Turner</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The literature assessing the effects of transportation infrastructure on how people and economic activity distribute themselves across a system of cities has three main parts. The theoretical literature makes robust predictions about how transportation infrastructure affects the internal structure of cities, but for systems of cities, theory does not let us rule much out. The city-level empirical literature establishes that improved urban transportation infrastructure causes suburban migration, but has only a small impact on city population. This literature is less helpful for understanding the effects of transportation infrastructure on the way people are distributed across a system of cities, but has made some progress. The small empirical literature looking at how transportation infrastructure affects systems of cities using cross-country data remains underdeveloped and is inconclusive.</content>
+    <link href="https://www.nber.org/papers/w35359"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35357</id>
     <title>Information Provision and Demand-Side Barriers to Healthcare Innovation: Experimental Evidence on Shared Medical Appointments in Menopause Care</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -724,42 +748,6 @@ Our main result is a complementarity between automation and repression. Unless t
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the implications of panel attrition for the age profile of subjective ill-being in the Global Flourishing Study (GFS).  We establish that survey attrition rates are high, and are highest among the young, particularly when interviewed in wave 1 using a computer-assisted web interview (CAWI). We then deploy three methods (inverse probability weighting, multiple imputation chain equations, and last observation carried forward) to estimate the age pattern in subjective ill-being in wave 2 of the survey.  All three methods have their strengths and weaknesses, but we demonstrate that such adjustments are merited given the nature of survey attrition in the data.  We conclude that subjective ill-being is declining in age in both waves 1 and 2 of the GFS having accounted for sample attrition, something that would not have been apparent if one simply ran wave 2 regressions without accounting for sample attrition.</content>
     <link href="https://www.nber.org/papers/w35355"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35352</id>
-    <title>Insurance with Multiple Actors</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jason Abaluck, Oren Sarig &amp; Jintaek Song</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze how social-planner insurers split cost-sharing between consumers and firms (e.g. patients and doctors, or drivers and car mechanics). With no contracting frictions, firm cost-sharing can replace consumer cost-sharing other than “visit copays.” Optimal firm contracts depend on the marginal rate of substitution between consumer and firm cost-sharing. For Medicare physician services, paying physicians more up front but less as spending increases reduces risk for both patients and providers; in our calibration, net benefits are twice those from eliminating Medigap externality. For prescription drugs, a dollar of physician paperwork costs is 45–110 times more impactful than a dollar of consumer cost-sharing.</content>
-    <link href="https://www.nber.org/papers/w35352"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35354</id>
-    <title>The Perceived Inflation Wedge</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Neville Francis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Standard measures of inflation, such as the Consumer Price Index (CPI), are designed to measure changes in the cost of living, not how households perceive price changes under limited attention and imperfect information. This paper introduces Perceived Inflation (PI), an attention-weighted inflation measure derived from a model in which households allocate attention across goods and observe noisy price signals. I construct monthly PI using disaggregated CPI data and attention proxies based on price salience, volatility, media mentions, and search behavior. The resulting PI series is highly correlated with CPI inflation but exhibits greater short-run volatility, especially during the Global Financial Crisis, the COVID-19 recession, and the 2021–22 inflation surge. A state-space version of the index implies a persistent latent attention component and a time-varying PI wedge. Finally, the paper embeds the estimated PI wedge into a heterogeneous-household model to demonstrate how attention-driven distortions in inflation perceptions affect saving and consumption through perceived real returns.</content>
-    <link href="https://www.nber.org/papers/w35354"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35353</id>
-    <title>Task-Specific Technical Change and Comparative Advantage</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Lukas Althoff &amp; Hugo Reichardt</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence (AI) reshapes workers’ comparative advantage by altering the tasks they perform and the skills those tasks require. We develop a dynamic task-based model to quantify the general-equilibrium effects of task-specific technical change. Workers have multidimensional skills, choose occupations, and accumulate skills on the job; occupations combine tasks, and productivity depends on how workers’ skills match task requirements. We develop a computationally efficient procedure to estimate the model using panel data and a new database of task-level skill requirements. We apply the model to AI, allowing it to augment, automate, and simplify tasks. We find that AI narrows wage inequality and raises average wages across scenarios ranging from slow to rapid AI progress. The key equalizing force is simplification: by lowering tasks’ skill requirements, AI lets lower-skill workers compete for previously inaccessible jobs. Adoption costs, highest for lower-skill workers, dampen but do not eliminate the decline in inequality.</content>
-    <link href="https://www.nber.org/papers/w35353"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -899,6 +887,18 @@ The framework explains why production systems, tool systems, research paths, sov
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35368</id>
+    <title>Do Wage Floors Increase Employment Risk for Workers with Disabilities? Evidence from Minimum Wage Increases and Subminimum Wage Repeal</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Roisin O'Neill, Shailee Manandhar &amp; Douglas L. Kruse</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;People with disabilities are disproportionately represented in low-wage work, raising concerns that higher wage floors may reduce their employment opportunities, particularly for workers with more severe disabilities. We examine the effects of state minimum wage increases and state subminimum wage terminations on employment outcomes for people with disabilities using American Community Survey data from 2010–2023.  We find little evidence that minimum wage increases reduce employment or labor force participation among people with disabilities, including those with more severe disabilities. While many estimates are statistically imprecise, confidence intervals generally rule out economically meaningful negative employment effects. We likewise find no evidence that terminating subminimum wages reduces employment opportunities for affected workers, and some estimates suggest positive employment effects for groups most likely to have been employed under subminimum wage arrangements. These gains may reflect complementary policies that often accompany repeal, such as Employment First initiatives. Overall, the results provide little support for the view that higher wage floors create disproportionate employment barriers for people with disabilities.</content>
+    <link href="https://www.nber.org/papers/w35368"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35367</id>
     <title>Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -943,102 +943,6 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies the role of foreign exchange and gold reserves in mitigating the US monetary policy spillovers to exchange rates at times of geopolitical fragmentation and de-dollarization. US dollar reserves mitigate depreciation driven by US monetary tightening, while non-dollar reserves do not. Gold reserves are also associated with smaller exchange-rate responses, though less strongly than dollar reserves, suggesting novel complementarity between dollar and gold reserves. Moreover, the estimated effects of dollar and gold reserves are concentrated in countries without swap and repo lines. These findings are consistent with recent large-scale purchases and sales of gold reserves by emerging economies amid sanctions-related restrictions and geopolitical concerns about access to dollar liquidity. Our results suggest that not only the aggregate volume but also the composition of foreign exchange and gold reserves and access to dollar liquidity facilities are empirically relevant for exchange-rate responses to US monetary shocks. Finally, we exploit cross-country heterogeneity and show that countries with large dollar exposure exhibit smaller exchange-rate responses when dollar and gold reserve holdings are larger.</content>
     <link href="https://www.nber.org/papers/w35337"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35391</id>
-    <title>Government Funding Costs Under Financial Repression</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Roberto Gómez-Cram, Howard Kung, Hanno Lustig &amp; David Zeke</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation.</content>
-    <link href="https://www.nber.org/papers/w35391"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35379</id>
-    <title>Leaning Against Inflation Experiences</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stefan Nagel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large share of secular variation in real interest rates can be understood as the effect of monetary policy leaning against experience-based long-run inflation expectations. Survey microdata show that adaptive learning from experienced inflation generates highly persistent, slow-moving long-run inflation expectations. When expectations are shaped by experience, central banks cannot anchor them through communication. Instead, when expectations deviate from the inflation target, monetary policy must remain persistently hawkish or dovish to generate realized inflation outcomes that, through agents’ belief updating, gradually pull long-run expectations back toward the target. Consistent with this mechanism, I find a strong positive relationship between experience-based long-run inflation expectations and real interest rates in the U.S., Germany, the U.K., and Japan. Under their subjective expectations, private-sector agents do not anticipate future reversals in inflation and short-term real interest rates. As a result, long-term real interest rates move with experience-based long-run inflation expectations about as much as short-term real interest rates do, consistent with the data. Secular movements in real rates are also accompanied by persistent patterns in interest-rate forecast errors. Overall, the interaction of monetary policy and  learning from experience generates a distinct source of secular real-rate variation, beyond movements in the natural rate of interest.</content>
-    <link href="https://www.nber.org/papers/w35379"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35378</id>
-    <title>The Incredible Flexibility of Moment Matching</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isaiah Andrews &amp; Bas Sanders</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We ask how far the choice of which moments to match can push estimates in misspecified structural models. The answer is: very far. Under regularity conditions, an adversarial researcher informed about the data distribution can choose moments that render any parameter value the unique solution to the population moment-matching problem. Moreover, in many cases they can do so with little increase in model-implied standard errors relative to maximum likelihood. We illustrate both results in a menu-cost model.</content>
-    <link href="https://www.nber.org/papers/w35378"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35377</id>
-    <title>Labor Market Responses to Tariffs: Frictions, Dynamics, and Policy Responses</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Rafael Dix-Carneiro &amp; Brian K. Kovak</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This article introduces the evidence and associated modeling frameworks contemporary economists use to understand the effects of trade and trade policy on labor markets, with a particular emphasis on labor-market frictions and adjustment dynamics.  The effects of trade shocks differ across industries, regions, and occupations, implying the presence of important adjustment frictions in labor markets, and these effects evolve slowly over time, implying the need for dynamic frameworks rationalizing slow transitions.  After reviewing the key insights from this literature, we discuss policies aimed at mitigating costs to workers and ensuring that the gains from trade are shared more equitably.</content>
-    <link href="https://www.nber.org/papers/w35377"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35376</id>
-    <title>Prices Versus Quantities Revisited: What Do Policymakers Need to Know to Set Pigouvian Taxes and Subsidies?</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Denise Dipasquale, Edward L. Glaeser, Adam M. Guren &amp; Paul S. Willen</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What information do policymakers need to design Pigouvian taxes or subsidies? Standard logic suggests that it is sufficient to know the size of the externality and unnecessary to know about quantities. Yet this logic is incorrect if interventions have fixed costs, taxes create deadweight losses, or there are distributional concerns. We present a model in which these considerations can make it more valuable for policymakers to learn about equilibrium quantities. We apply the model to congestion pricing, which has high fixed costs, and to a proposed housing subsidy in Boston that features deadweight losses and distributional concerns.</content>
-    <link href="https://www.nber.org/papers/w35376"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35375</id>
-    <title>Compensation vs. Reinforcement: Experimental Identification of Parental Aversion to Inequality in Offspring</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Felipe Barrera-Osorio, Leonardo Bonilla-Mejía, Matias Busso, Sebastian Galiani, Hyunjae Kang, Juan S. Muñoz-Morales &amp; Juan Pantano</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Parents may invest differently across children by compensating the disadvantaged child or by reinforcing the child with higher expected returns. We study this question using a conditional cash transfer experiment that uniquely randomized transfers at the student level, generating exogenous variation in transfer exposure across siblings within the same household. The transfers increased short-run attendance among treated students but generated negative spillovers on untreated siblings: untreated siblings of treated students were 3.7 percentage points less likely to graduate from college, a decline of about 30 percent relative to the control mean. We interpret these effects using a dynamic model of household schooling decisions that identifies parental aversion to inequality in children’s educational outcomes. The estimated model implies limited aversion to inequality in children’s educational outcomes and reproduces held-out treatment effects not used in estimation. A decomposition shows that the negative spillover is primarily driven by substitution in educational investments toward the treated child.</content>
-    <link href="https://www.nber.org/papers/w35375"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35374</id>
-    <title>A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andreas Ferrara</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large language models (LLMs) are lowering the entry barriers to working with exciting data sources that used to require strong data science skills, such as handwritten ledgers, text, images, or sound recordings. This guide provides an introduction for researchers who are new to LLMs. It sets out a step-by-step workflow for turning a research idea into working code and data, and describes the four main ways of interacting with an LLM: the chat window, editor-integrated assistants, agentic coding tools, and the API. It then works through the decisions a practitioner meets in sequence, beginning with whether an LLM is the right tool and whether the data are allowed to be sent to one, then how to select models, write prompts, manage context limits, and control costs, and finally how to validate, reproduce, document, and correct LLM-generated measures in regression settings. A review of recent research shows how these tools already extract, link, harmonize, and classify historical data at scale. Four worked examples with replication files illustrate the use of LLMs. They classify emotions in paintings, link census records without names, measure newspaper salience and sentiment around the 1882 Chinese Exclusion Act, and score the emotional delivery of Franklin D. Roosevelt's wartime speeches. The guide also condenses the workflow, the best-practice recommendations, and the preparation of replication packages into summary tables and checklists to aid applied economists.</content>
-    <link href="https://www.nber.org/papers/w35374"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35344</id>
-    <title>AI and the Collapse of the www</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Chan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies market design for generative AI intermediation. AI answer systems can improve user experience while diverting visits that finance publisher content and generate source-level quality signals. I show that an AI platform that underinternalizes future content reproduction retains too little referral traffic and can make costly open-web information subcritical, even with truthful content, accurate answers, and rational users. The mechanism can be self-reinforcing: less source-level measurement weakens conventional search, inducing further AI reliance. Sustainable repair requires replacing displaced revenue and deleted measurement through visitor-replacement royalties, audited provenance, human-information audits, and keystone-topic compensation.</content>
-    <link href="https://www.nber.org/papers/w35344"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -1207,6 +1111,102 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Health care reforms are often enacted before implementation, creating uncertainty that can shape firms’ decisions. We examine how Medicare Part D affected the retail pharmacy industry using 2000-2009 establishment-level data, leveraging the fact that Part D disproportionately affected counties with larger elderly populations. Consistent with predictions from a conceptual model in which pre-implementation uncertainty discourages entry and lower post-implementation margins prevent full recovery, we find that Part D was associated with a 5-percent reduction in pharmacies, driven by fewer openings rather than more closures. We also find suggestive evidence that reduced pharmacy access dampened Part D’s mortality benefits.</content>
     <link href="https://www.nber.org/papers/w35380"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35379</id>
+    <title>Leaning Against Inflation Experiences</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stefan Nagel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A large share of secular variation in real interest rates can be understood as the effect of monetary policy leaning against experience-based long-run inflation expectations. Survey microdata show that adaptive learning from experienced inflation generates highly persistent, slow-moving long-run inflation expectations. When expectations are shaped by experience, central banks cannot anchor them through communication. Instead, when expectations deviate from the inflation target, monetary policy must remain persistently hawkish or dovish to generate realized inflation outcomes that, through agents’ belief updating, gradually pull long-run expectations back toward the target. Consistent with this mechanism, I find a strong positive relationship between experience-based long-run inflation expectations and real interest rates in the U.S., Germany, the U.K., and Japan. Under their subjective expectations, private-sector agents do not anticipate future reversals in inflation and short-term real interest rates. As a result, long-term real interest rates move with experience-based long-run inflation expectations about as much as short-term real interest rates do, consistent with the data. Secular movements in real rates are also accompanied by persistent patterns in interest-rate forecast errors. Overall, the interaction of monetary policy and  learning from experience generates a distinct source of secular real-rate variation, beyond movements in the natural rate of interest.</content>
+    <link href="https://www.nber.org/papers/w35379"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35378</id>
+    <title>The Incredible Flexibility of Moment Matching</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Isaiah Andrews &amp; Bas Sanders</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We ask how far the choice of which moments to match can push estimates in misspecified structural models. The answer is: very far. Under regularity conditions, an adversarial researcher informed about the data distribution can choose moments that render any parameter value the unique solution to the population moment-matching problem. Moreover, in many cases they can do so with little increase in model-implied standard errors relative to maximum likelihood. We illustrate both results in a menu-cost model.</content>
+    <link href="https://www.nber.org/papers/w35378"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35377</id>
+    <title>Labor Market Responses to Tariffs: Frictions, Dynamics, and Policy Responses</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Rafael Dix-Carneiro &amp; Brian K. Kovak</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This article introduces the evidence and associated modeling frameworks contemporary economists use to understand the effects of trade and trade policy on labor markets, with a particular emphasis on labor-market frictions and adjustment dynamics.  The effects of trade shocks differ across industries, regions, and occupations, implying the presence of important adjustment frictions in labor markets, and these effects evolve slowly over time, implying the need for dynamic frameworks rationalizing slow transitions.  After reviewing the key insights from this literature, we discuss policies aimed at mitigating costs to workers and ensuring that the gains from trade are shared more equitably.</content>
+    <link href="https://www.nber.org/papers/w35377"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35376</id>
+    <title>Prices Versus Quantities Revisited: What Do Policymakers Need to Know to Set Pigouvian Taxes and Subsidies?</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Denise Dipasquale, Edward L. Glaeser, Adam M. Guren &amp; Paul S. Willen</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What information do policymakers need to design Pigouvian taxes or subsidies? Standard logic suggests that it is sufficient to know the size of the externality and unnecessary to know about quantities. Yet this logic is incorrect if interventions have fixed costs, taxes create deadweight losses, or there are distributional concerns. We present a model in which these considerations can make it more valuable for policymakers to learn about equilibrium quantities. We apply the model to congestion pricing, which has high fixed costs, and to a proposed housing subsidy in Boston that features deadweight losses and distributional concerns.</content>
+    <link href="https://www.nber.org/papers/w35376"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35375</id>
+    <title>Compensation vs. Reinforcement: Experimental Identification of Parental Aversion to Inequality in Offspring</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Felipe Barrera-Osorio, Leonardo Bonilla-Mejía, Matias Busso, Sebastian Galiani, Hyunjae Kang, Juan S. Muñoz-Morales &amp; Juan Pantano</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Parents may invest differently across children by compensating the disadvantaged child or by reinforcing the child with higher expected returns. We study this question using a conditional cash transfer experiment that uniquely randomized transfers at the student level, generating exogenous variation in transfer exposure across siblings within the same household. The transfers increased short-run attendance among treated students but generated negative spillovers on untreated siblings: untreated siblings of treated students were 3.7 percentage points less likely to graduate from college, a decline of about 30 percent relative to the control mean. We interpret these effects using a dynamic model of household schooling decisions that identifies parental aversion to inequality in children’s educational outcomes. The estimated model implies limited aversion to inequality in children’s educational outcomes and reproduces held-out treatment effects not used in estimation. A decomposition shows that the negative spillover is primarily driven by substitution in educational investments toward the treated child.</content>
+    <link href="https://www.nber.org/papers/w35375"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35374</id>
+    <title>A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andreas Ferrara</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large language models (LLMs) are lowering the entry barriers to working with exciting data sources that used to require strong data science skills, such as handwritten ledgers, text, images, or sound recordings. This guide provides an introduction for researchers who are new to LLMs. It sets out a step-by-step workflow for turning a research idea into working code and data, and describes the four main ways of interacting with an LLM: the chat window, editor-integrated assistants, agentic coding tools, and the API. It then works through the decisions a practitioner meets in sequence, beginning with whether an LLM is the right tool and whether the data are allowed to be sent to one, then how to select models, write prompts, manage context limits, and control costs, and finally how to validate, reproduce, document, and correct LLM-generated measures in regression settings. A review of recent research shows how these tools already extract, link, harmonize, and classify historical data at scale. Four worked examples with replication files illustrate the use of LLMs. They classify emotions in paintings, link census records without names, measure newspaper salience and sentiment around the 1882 Chinese Exclusion Act, and score the emotional delivery of Franklin D. Roosevelt's wartime speeches. The guide also condenses the workflow, the best-practice recommendations, and the preparation of replication packages into summary tables and checklists to aid applied economists.</content>
+    <link href="https://www.nber.org/papers/w35374"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35391</id>
+    <title>Government Funding Costs Under Financial Repression</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Roberto Gómez-Cram, Howard Kung, Hanno Lustig &amp; David Zeke</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation.</content>
+    <link href="https://www.nber.org/papers/w35391"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35344</id>
+    <title>AI and the Collapse of the www</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alex Chan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies market design for generative AI intermediation. AI answer systems can improve user experience while diverting visits that finance publisher content and generate source-level quality signals. I show that an AI platform that underinternalizes future content reproduction retains too little referral traffic and can make costly open-web information subcritical, even with truthful content, accurate answers, and rational users. The mechanism can be self-reinforcing: less source-level measurement weakens conventional search, inducing further AI reliance. Sustainable repair requires replacing displaced revenue and deleted measurement through visitor-replacement royalties, audited provenance, human-information audits, and keystone-topic compensation.</content>
+    <link href="https://www.nber.org/papers/w35344"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
