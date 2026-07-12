@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-07-11T13:09:35.359298+00:00</updated>
+  <updated>2026-07-12T12:59:18.588213+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -563,6 +563,18 @@ The framework explains why production systems, tool systems, research paths, sov
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35391</id>
+    <title>Government Funding Costs Under Financial Repression</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Roberto Gómez-Cram, Howard Kung, Hanno Lustig &amp; David Zeke</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation.</content>
+    <link href="https://www.nber.org/papers/w35391"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35389</id>
     <title>International Risk-Sharing in a Fragmented World</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -787,18 +799,6 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large language models (LLMs) are lowering the entry barriers to working with exciting data sources that used to require strong data science skills, such as handwritten ledgers, text, images, or sound recordings. This guide provides an introduction for researchers who are new to LLMs. It sets out a step-by-step workflow for turning a research idea into working code and data, and describes the four main ways of interacting with an LLM: the chat window, editor-integrated assistants, agentic coding tools, and the API. It then works through the decisions a practitioner meets in sequence, beginning with whether an LLM is the right tool and whether the data are allowed to be sent to one, then how to select models, write prompts, manage context limits, and control costs, and finally how to validate, reproduce, document, and correct LLM-generated measures in regression settings. A review of recent research shows how these tools already extract, link, harmonize, and classify historical data at scale. Four worked examples with replication files illustrate the use of LLMs. They classify emotions in paintings, link census records without names, measure newspaper salience and sentiment around the 1882 Chinese Exclusion Act, and score the emotional delivery of Franklin D. Roosevelt's wartime speeches. The guide also condenses the workflow, the best-practice recommendations, and the preparation of replication packages into summary tables and checklists to aid applied economists.</content>
     <link href="https://www.nber.org/papers/w35374"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35391</id>
-    <title>Government Funding Costs Under Financial Repression</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Roberto Gómez-Cram, Howard Kung, Hanno Lustig &amp; David Zeke</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation.</content>
-    <link href="https://www.nber.org/papers/w35391"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
