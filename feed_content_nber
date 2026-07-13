@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-07-12T13:33:22.348883+00:00</updated>
+  <updated>2026-07-13T02:10:28.035315+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -563,6 +563,18 @@ The framework explains why production systems, tool systems, research paths, sov
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35392</id>
+    <title>Immigration, Innovation, and the Geography of Growth</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Costas Arkolakis, Sun Kyoung Lee &amp; Michael Peters</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Between 1880 and 1920, more than 20 million immigrants settled in the United States. We study how this migration wave affected innovation and growth. Using a newly constructed dataset linking individual census records to historical immigration records and the universe of US patents, we highlight a new channel through which immigrants contributed to growth: they disproportionately settled in urban innovation hubs. To quantify the aggregate and regional effects of this mass migration episode, we develop a new spatial growth model in which skilled workers have a comparative advantage in innovation and sort endogenously across space. We find that international arrivals after 1880 raised US income per capita by 8.2% by 1940. Removing the subsequent immigration restrictions of the 1920s would have raised income per capita by a further 1.7% by 2000. Immigrants' skill composition and their concentration in urban hubs are key drivers of these effects.</content>
+    <link href="https://www.nber.org/papers/w35392"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35391</id>
     <title>Government Funding Costs Under Financial Repression</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -619,18 +631,6 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how wealth inequality shapes safe-asset demand in heterogeneous-agent economies. Asset bubbles arise when agents face sufficiently high probabilities of falling into extreme poverty. In such cases, assets insulated from idiosyncratic risk become infinitely large relative to agents' wealth ex-post, which makes them infinitely valuable ex-ante. This mechanism is fundamentally different from classic rational bubbles, generates bubbles even under stationary wealth distributions, and requires no aggregate uncertainty or growth. Using this insight, we revisit the pricing of aggregate assets in standard heterogeneous-agent economies, and show that prior analyses may be incomplete due to overlooked possibility of transversality condition violation.</content>
     <link href="https://www.nber.org/papers/w35393"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35392</id>
-    <title>Immigration, Innovation, and the Geography of Growth</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Costas Arkolakis, Sun Kyoung Lee &amp; Michael Peters</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Between 1880 and 1920, more than 20 million immigrants settled in the United States. We study how this migration wave affected innovation and growth. Using a newly constructed dataset linking individual census records to historical immigration records and the universe of US patents, we highlight a new channel through which immigrants contributed to growth: they disproportionately settled in urban innovation hubs. To quantify the aggregate and regional effects of this mass migration episode, we develop a new spatial growth model in which skilled workers have a comparative advantage in innovation and sort endogenously across space. We find that international arrivals after 1880 raised US income per capita by 8.2% by 1940. Removing the subsequent immigration restrictions of the 1920s would have raised income per capita by a further 1.7% by 2000. Immigrants' skill composition and their concentration in urban hubs are key drivers of these effects.</content>
-    <link href="https://www.nber.org/papers/w35392"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -803,30 +803,6 @@ The framework explains why production systems, tool systems, research paths, sov
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35428</id>
-    <title>Beyond Mean Exposure: How Exposure Variance Shapes Air Pollution Mortality Risk</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Bissan Ghaddar, Kimberly Singer Babiarz, Hongbin Li, Lingsheng Meng, Lynn Hildemann, Han Hong, Alvise Scarabosio, Meili Wang, Aprajit Mahajan, Peng Yin, Maigeng Zhou &amp; Grant Miller et al. (View all)</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Ambient air pollution contributes substantially to premature mortality globally, and the effectiveness of policies addressing it depends critically on the shape of the dose-response relationship, which remains poorly understood. Linking hourly air pollution data with daily vital statistics from 251 Chinese cities over four years, we show this relationship depends not only on the mean, but also on the variance of within-period exposure. At a 7-day mean of 150 μg/m³, predicted mortality varies more across observed hourly PM2.5 distributions than across mean exposure differences of 100 μg/m³. The sign of this variance effect also depends on the mean: at low mean concentrations (a convex region), higher variance is associated with modestly higher mortality. At higher concentrations (a concave region), greater variance is associated with lower mortality – implying constant exposure is more harmful than fluctuating exposure for a given mean. These findings reveal important relationships masked using temporally aggregated air pollution data.</content>
-    <link href="https://www.nber.org/papers/w35428"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35429</id>
-    <title>Benefit-Based Taxation can Include Substantial Redistribution</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jo Ellery &amp; Matthew C. Weinzierl</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Contrary to a long-standing concern, we present evidence that classical benefit-based labor income taxation in the tradition of Smith (1776) is consistent with income redistribution through transfers and negative average tax rates both theoretically and---in plausibly-specified simulations---quantitatively at levels which reflect U.S. policy over the past several decades. As redistribution is widespread in practice, our results remove an obstacle to the benefit principle’s plausibility as a prevailing normative foundation of tax policy.</content>
-    <link href="https://www.nber.org/papers/w35429"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35426</id>
     <title>Quality, Selection, and Congestion: Equilibrium Hospital Outcomes During Covid-19</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -871,6 +847,78 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Relatively little is known about occupational licensing across nations. We assemble harmonized estimates of licensing prevalence for 44 countries using nationally representative surveys, including new surveys for previously unstudied countries. Licensing ranges from roughly 14 percent of workers in Denmark to more than 40 percent in India and South Africa. Licensed workers earn 6 to 19 percent higher wages than comparable unlicensed workers across specifications. Licensing prevalence is negatively associated with GDP per capita and governance quality, and positively associated with informal employment, suggesting occupational licensing is intertwined with labor market efficiency, formalization, and long-run economic development.</content>
     <link href="https://www.nber.org/papers/w35424"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35396</id>
+    <title>New Evidence on the Health-Status Gradient from Imperial China</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Wolfgang Keller, Carol H. Shiue &amp; Karen Eggleston</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relationship between health and social status in China using genealogical data from the 14th to 19th centuries. The data covers broad segments of the population linking husbands, wives, and sons, allowing us to examine whether status was associated with survival not only for adult men but also across households and generations. In a sample centered on the early 1700s, the typical lifespan of married men is 52, but varies widely. High-status men have a 22 percent higher probability of living past 50 than low-status men, resulting in a lifespan advantage of seven years. High status is also associated with significant survival advantages for wives and children. The lifespan premium of the wife of a high-status man over the wife of a commoner exceeds 10 years, and the chance that the son of a high-status man dies before reaching 10 years is less than half that of a low-status man’s son. Up to the 17th century the lifespan advantage is largely confined to those with top status, while the health-status gradient across all status levels emerges during the 18th century. The findings provide new evidence on health-status inequality in a less-studied setting, and suggest that health-status inequality is usefully analyzed from a family and intergenerational perspective.</content>
+    <link href="https://www.nber.org/papers/w35396"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35401</id>
+    <title>Baby Busts and Growth Booms: Demographic Change and the Macroeconomy</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Daron Acemoglu, David Autor, Keelan Beirne &amp; Andrew Scott</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across countries and higher wage growth across US commuting zones, with no negative impact on aggregate GDP or earnings. These patterns are not explained by educational upgrading, rising female labor force participation, the declining importance of agriculture, or neoclassical-Solow mechanisms. We argue that they reflect the endogenous, labor-saving response of technology to the scarcity of younger workers. Consistent with this interpretation, countries and regions with lower birth rates exhibit more labor-saving patents and growing high-tech activity. There is also higher TFP growth across countries and industries. Exploiting cross-country variation in WWII military and civilian deaths, we find that declines in younger population, rather than population size per se, drive our results.</content>
+    <link href="https://www.nber.org/papers/w35401"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35400</id>
+    <title>How Does Monetary and Fiscal Policy Affect the Economy in the Face of Large Shocks?</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Greg Kaplan &amp; Ken Miyahara</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a model that combines (i) heterogeneous households with incomplete markets, and (ii) state-dependent pricing with strategic complementarities by firms, to analyze the effects of large macroeconomic shocks and policy interventions. Both features significantly influence the transmission of fiscal stimulus and monetary policy—heterogeneous households because of failures of Ricardian equivalence, and state-dependent pricing because of its nonlinear effects on inflation. We use our model to quantify how monetary and fiscal policy shaped macroeconomic dynamics in response to the large shocks of 2020, and how alternative policy choices could have led to different aggregate and distributional outcomes. We find large departures from Ricardian equivalence and strong stepping-on-a-rake effects of interest rate changes. The large unfunded fiscal transfer program helped prevent deflation in 2020 and significantly raised output throughout 2021 and 2022, but led to permanently higher prices. The monetary easing through 2020 and 2021 also contributed to preventing deflation, but had a minimal impact on GDP. The monetary tightening from 2022 lowered the maximum inflation rate, but contributed to persistently above-trend inflation. These policies led to net welfare gains for low-wealth households and net welfare losses for high-wealth households, but those welfare effects are due to incomplete markets for idiosyncratic risk not aggregate stabilization. Alternative commitments to funding fiscal stimulus could have achieved similar short-term effects on inflation and output with a much smaller long-term increase in the price level.</content>
+    <link href="https://www.nber.org/papers/w35400"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35412</id>
+    <title>Digital Safe Havens: The Economics of Tokenized Treasuries</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chen Lin, Eswar S. Prasad, Daniel Rabetti &amp; Che Zhang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the emerging market for tokenized US Treasuries and yield-bearing dollar instruments on public blockchains. Using a comprehensive dataset that combines on-chain transactions, protocol-level total value locked, pool yields, and monetary policy and stress events, we document three core findings. First, yields can be decomposed into distinct components reflecting issuer fees, lending premia, leverage, basis-trade carry, and collateral pledgability, with the latter generating economically large implicit convenience yields. Second, monetary policy transmission into on-chain dollar markets is highly heterogeneous across product designs, with administratively set rates adjusting slowly and basis-trade-backed instruments displaying economically amplified responses to policy shocks. Third, tokenized Treasuries serve as digital safe havens during episodes of cross-asset stress, attracting large inflows during risk-off events while simultaneously exposing new fragilities arising from the interaction between on-chain composability and off-chain reserve structures, particularly through stablecoin balance sheets. Overall, we provide insights into the distinctive dynamics of pricing, transmission, and fragility of digital Treasuries as decentralized and traditional financial infrastructures increasingly integrate.</content>
+    <link href="https://www.nber.org/papers/w35412"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35411</id>
+    <title>Forecasting with Uncertain Persistence</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joel P. Flynn, Maksim Meinert &amp; Karthik Sastry</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;With uncertainty about persistence, we show that forecasts necessarily become more persistent and over-react at long horizons. For these reasons, correctly specified and Bayesian forecasts may under-react at short horizons and over-react at long horizons. These results provide a unified explanation for several asset pricing and forecasting puzzles, including: (i) the excess responsiveness of long-horizon rates to short rates, (ii) the dominance of apparent term premia for long-term rates, (iii) the ex post predictability of bond yields, (iv) the excess volatility of long-horizon forward prices, (v) the excess persistence of long-horizon forecasts, and (vi) the over-reaction of long-horizon forecasts.</content>
+    <link href="https://www.nber.org/papers/w35411"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35395</id>
+    <title>Seemingly Anchored Inflation Expectations</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Ulrike Malmendier &amp; Stefan Nagel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Empirical evidence commonly cited as indicating that inflation expectations have become better anchored includes the declining sensitivity of expectations to inflation surprises over time, particularly around the adoption of inflation targeting. These patterns are typically attributed to the influence of explicit or implicit inflation targets on inflation expectations. We show that this evidence is consistent with a model of experience-based learning in which individuals learn solely from their life-time history of realized inflation, without anchoring their expectations to an announced inflation target. In this model, the prolonged experience of low short-run inflation persistence in the pre-COVID decades renders long-run expectations insensitive to inflation surprises, matching the patterns observed in empirical anchoring tests. A unique prediction of the experience-based learning model is also borne out in the data: the decline in surprise sensitivity since the 1980s is strongest among younger individuals. The memory of low inflation persistence experiences further explains why long-run inflation expectations remained stable in the face of the post-COVID inflation surge. At the same time, simulations indicate that the sensitivity of long-run expectations to inflation surprises would rise sharply if individuals were to experience another sustained episode of highly persistent inflation. Overall, long-run inflation expectations may be less firmly anchored than commonly believed.</content>
+    <link href="https://www.nber.org/papers/w35395"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
@@ -995,6 +1043,114 @@ The framework explains why production systems, tool systems, research paths, sov
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35429</id>
+    <title>Benefit-Based Taxation can Include Substantial Redistribution</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jo Ellery &amp; Matthew C. Weinzierl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Contrary to a long-standing concern, we present evidence that classical benefit-based labor income taxation in the tradition of Smith (1776) is consistent with income redistribution through transfers and negative average tax rates both theoretically and---in plausibly-specified simulations---quantitatively at levels which reflect U.S. policy over the past several decades. As redistribution is widespread in practice, our results remove an obstacle to the benefit principle’s plausibility as a prevailing normative foundation of tax policy.</content>
+    <link href="https://www.nber.org/papers/w35429"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35402</id>
+    <title>Importing Aggregate Demand</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Chen Lian, Dmitry Mukhin &amp; Christian K. Wolf</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How exposed are open economies to global demand shocks? In equilibrium, foreign booms can be absorbed either by domestic consumption ("quantities") or by real exchange rate appreciation ("prices"). We show that failures of Ricardian equivalence and global financial market imperfections, two frictions popular in much recent work, have opposite effects on the split: while elevated marginal propensities to consume push towards quantities, financial frictions instead increase price adjustment. As the flexible-price equilibrium generally features a mix of quantity and price responses, policy needs to be contractionary to achieve flexible-price outcomes if the spending effect dominates, and vice-versa if financial frictions are severe. In our quantitative explorations the spending effect tends to win the race, necessitating aggressive domestic policy action.</content>
+    <link href="https://www.nber.org/papers/w35402"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35399</id>
+    <title>Understanding Cross-State Variations in Medicaid Enrollment During and After the COVID-19 Pandemic</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jeffrey Clemens, Helena Detering &amp; Anwita Mahajan</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The implementation and unwinding of the FFCRA's continuous coverage requirement generated historically large changes in Medicaid enrollment during the COVID-19 pandemic. Using a combination of descriptive and causal analyses, we examine the substantial cross-state differences in these changes, which remain little understood. We find that policies designed to ease unwinding frictions, as well as federal fiscal assistance to states, have little predictive power, suggesting limited roles for administrative design or liquidity constraints. Political preferences have modest predictive power during the unwinding period. Pandemic-era Medicaid expansions and more generous baseline eligibility thresholds are strongly associated with larger net enrollment gains.</content>
+    <link href="https://www.nber.org/papers/w35399"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35398</id>
+    <title>The Pass-through of Tariffs and Exchange Rates</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stéphane Auray, Michael B. Devereux &amp; Aurélien Eyquem</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper shows that the currency in which traded goods are invoiced has a first-order implication for the short-run impact of tariffs on the economy. If prices are set in terms of producer’s currency (PCP), a unilateral tariff is contractionary on impact, reducing GDP, and causing a deterioration in the trade balance. By contrast, with prices pre-set in buyers currency (LCP), the same tariff shock is expansionary, and improves the trade balance. The key difference between the two regimes lies in the differential exchange rate pass- through under PCP relative to LCP. In welfare terms however, the situation is reversed. A tariff under LCP leads to a fall in short-run welfare, as consumption and investment fall sharply, while the same tariff may be welfare enhancing under PCP. Under dollar currency pricing (DCP), we find results intermediate between the two invoicing regimes. With retaliation, the stark difference in pricing regimes is attenuated.</content>
+    <link href="https://www.nber.org/papers/w35398"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35406</id>
+    <title>The Use and Misuse of Average and Marginal Energy Prices: Implications for Climate Policy</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jonathan T. Hawkins-Pierot &amp; Katherine R.H. Wagner</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many governments and institutions use marginal price signals, such as fuel and carbon taxes, to meet emission reduction targets. However, the responses of firms and individuals to these price signals are often calculated using average prices commonly reported in economic data, rather than marginal prices. This paper first documents that the marginal price of electricity paid by U.S. manufacturing plants is 50% lower than the average price. To do so, we construct a novel dataset of both average and marginal electricity prices, and the wedge between these, using plant-level microdata from the U.S. Census and utility-level electricity rate schedules for over two hundred utilities. Second, we provide guidance on when average prices are an appropriate proxy for marginal prices in price elasticities by identifying economic and geographic characteristics that predict variation in this wedge. Overall, the magnitude of this wedge suggests that the standard use of average energy prices to calculate responses to carbon taxes may underestimate the energy price increases needed to meet emissions targets by 50%.</content>
+    <link href="https://www.nber.org/papers/w35406"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35405</id>
+    <title>Growth, Firm Scale, and the Energy Intensity of Production</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Kathryn McDonald, Noémie Pinardon-Touati &amp; Conor Walsh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We uncover a new mechanism that links growth and a decline in the energy intensity of production, observed globally since 1990. Using microdata from India and a causal research design, we demonstrate that the expenditure share of energy declines steeply with firm scale, due both to physical scaling laws and technology investment. Given that average firm size increases with growth, this scale dependence implies that production endogenously becomes less energy-intensive along the growth path. We develop a model of this mechanism in general equilibrium, and quantify significant reductions in aggregate energy intensity as low-income countries like India grow. We conclude with a discussion of the future path of emissions in India.</content>
+    <link href="https://www.nber.org/papers/w35405"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35404</id>
+    <title>The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Riley K. Acton ⓡ Camila Morales ⓡ Julia A. Turner ⓡ Lois Miller ⓡ Kalena Cortes</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Community colleges are more financially, academically, and geographically accessible than four-year institutions. Yet despite most community college students intending to earn a bachelor’s degree, few successfully transfer and complete one. Community College Baccalaureate (CCB) programs have emerged as an alternative pathway, allowing community colleges to confer bachelor’s degrees directly. However, little is known about how employers value these credentials in the labor market. To address this question, we conduct the first resume audit study of CCB degrees, submitting fictitious applications to real job vacancies while experimentally varying applicants’ educational credentials, degree-granting institutions, and demographic signals. In this pilot study, we focus on the early childhood education (ECE) labor market, a rapidly growing CCB field characterized by labor shortages and increasing educational requirements. We find that employers view CCB degrees similarly to both traditional bachelor’s and associate degrees, with statistically indistinguishable interview-request rates across degree types. A text analysis of employer callback messages reveals little evidence that employers communicate differently with CCB applicants, while a net-price simulation suggests that sticker-price comparisons substantially overstate the affordability advantage of CCB programs. Together, these findings provide new evidence on the labor market value and affordability of CCB degrees and inform an ongoing large-scale audit study across additional fields and labor markets.</content>
+    <link href="https://www.nber.org/papers/w35404"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35403</id>
+    <title>Literature Review and Evidence Aggregation: a Toolkit for Applied Micro</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Ganong, Avik Garg &amp; Maximilian Kasy</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consider an analyst interested in predicting the size of an effect. She has identified a set of prior published studies of similar effects. We provide a toolkit for (i) summarizing the prior literature, (ii) making predictions of effects in new contexts, and (iii) correcting for the bias from selectivity in the prior literature. We illustrate these methods with empirical examples from labor, public, behavioral, environmental, and development economics. Some of the tools are relevant even when only three prior studies are available. We show how it is possible to use covariates to transparently make predictions for a new context by reweighting prior estimates. The mean effect—after correcting for selectivity—is between 12% and 21% of the simple mean in our empirical examples. We conclude with a cookbook for practitioners producing meta-analyses.</content>
+    <link href="https://www.nber.org/papers/w35403"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35428</id>
+    <title>Beyond Mean Exposure: How Exposure Variance Shapes Air Pollution Mortality Risk</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bissan Ghaddar, Kimberly Singer Babiarz, Hongbin Li, Lingsheng Meng, Lynn Hildemann, Han Hong, Alvise Scarabosio, Meili Wang, Aprajit Mahajan, Peng Yin, Maigeng Zhou &amp; Grant Miller et al. (View all)</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Ambient air pollution contributes substantially to premature mortality globally, and the effectiveness of policies addressing it depends critically on the shape of the dose-response relationship, which remains poorly understood. Linking hourly air pollution data with daily vital statistics from 251 Chinese cities over four years, we show this relationship depends not only on the mean, but also on the variance of within-period exposure. At a 7-day mean of 150 μg/m³, predicted mortality varies more across observed hourly PM2.5 distributions than across mean exposure differences of 100 μg/m³. The sign of this variance effect also depends on the mean: at low mean concentrations (a convex region), higher variance is associated with modestly higher mortality. At higher concentrations (a concave region), greater variance is associated with lower mortality – implying constant exposure is more harmful than fluctuating exposure for a given mean. These findings reveal important relationships masked using temporally aggregated air pollution data.</content>
+    <link href="https://www.nber.org/papers/w35428"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35413</id>
     <title>Causal Inference for Asset Pricing</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -1051,162 +1207,6 @@ The framework explains why production systems, tool systems, research paths, sov
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;There is a long-running debate over using standardized test scores to inform college and graduate admissions decisions, with some arguing that test scores are an important signal of academic strength and others arguing that they are biased and exclusionary. Here we revisit this issue by analyzing a novel dataset of more than 13,000 applications over roughly a decade to a large public policy master’s program in the United States. Consistent with past work, we find that GRE scores substantially improve predictions of first-year grades relative to predictions based on GPA alone. However, when these predictions are used to inform admissions decisions, we find that test scores only modestly improve the expected academic quality of admitted students. The gap shrinks further when we augment the test-aware and test-blind predictive models with more fine-grained information available in student transcripts and other application materials. Specifically, we estimate that incorporating standardized test scores in our setting would result in admitting students who perform, on average, only 0.03 grade points better. We show—both empirically and theoretically—that this pattern stems from a subtle distinction between predictions and decisions. Even with improved predictions, the downstream admissions decisions are often the same; and where there are differences, they often involve selecting between similarly qualified applicants. Our results indicate that standardized test scores may be less important for university admissions than previously suggested.</content>
     <link href="https://www.nber.org/papers/w35407"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35406</id>
-    <title>The Use and Misuse of Average and Marginal Energy Prices: Implications for Climate Policy</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jonathan T. Hawkins-Pierot &amp; Katherine R.H. Wagner</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many governments and institutions use marginal price signals, such as fuel and carbon taxes, to meet emission reduction targets. However, the responses of firms and individuals to these price signals are often calculated using average prices commonly reported in economic data, rather than marginal prices. This paper first documents that the marginal price of electricity paid by U.S. manufacturing plants is 50% lower than the average price. To do so, we construct a novel dataset of both average and marginal electricity prices, and the wedge between these, using plant-level microdata from the U.S. Census and utility-level electricity rate schedules for over two hundred utilities. Second, we provide guidance on when average prices are an appropriate proxy for marginal prices in price elasticities by identifying economic and geographic characteristics that predict variation in this wedge. Overall, the magnitude of this wedge suggests that the standard use of average energy prices to calculate responses to carbon taxes may underestimate the energy price increases needed to meet emissions targets by 50%.</content>
-    <link href="https://www.nber.org/papers/w35406"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35405</id>
-    <title>Growth, Firm Scale, and the Energy Intensity of Production</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kathryn McDonald, Noémie Pinardon-Touati &amp; Conor Walsh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We uncover a new mechanism that links growth and a decline in the energy intensity of production, observed globally since 1990. Using microdata from India and a causal research design, we demonstrate that the expenditure share of energy declines steeply with firm scale, due both to physical scaling laws and technology investment. Given that average firm size increases with growth, this scale dependence implies that production endogenously becomes less energy-intensive along the growth path. We develop a model of this mechanism in general equilibrium, and quantify significant reductions in aggregate energy intensity as low-income countries like India grow. We conclude with a discussion of the future path of emissions in India.</content>
-    <link href="https://www.nber.org/papers/w35405"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35404</id>
-    <title>The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Riley K. Acton ⓡ Camila Morales ⓡ Julia A. Turner ⓡ Lois Miller ⓡ Kalena Cortes</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Community colleges are more financially, academically, and geographically accessible than four-year institutions. Yet despite most community college students intending to earn a bachelor’s degree, few successfully transfer and complete one. Community College Baccalaureate (CCB) programs have emerged as an alternative pathway, allowing community colleges to confer bachelor’s degrees directly. However, little is known about how employers value these credentials in the labor market. To address this question, we conduct the first resume audit study of CCB degrees, submitting fictitious applications to real job vacancies while experimentally varying applicants’ educational credentials, degree-granting institutions, and demographic signals. In this pilot study, we focus on the early childhood education (ECE) labor market, a rapidly growing CCB field characterized by labor shortages and increasing educational requirements. We find that employers view CCB degrees similarly to both traditional bachelor’s and associate degrees, with statistically indistinguishable interview-request rates across degree types. A text analysis of employer callback messages reveals little evidence that employers communicate differently with CCB applicants, while a net-price simulation suggests that sticker-price comparisons substantially overstate the affordability advantage of CCB programs. Together, these findings provide new evidence on the labor market value and affordability of CCB degrees and inform an ongoing large-scale audit study across additional fields and labor markets.</content>
-    <link href="https://www.nber.org/papers/w35404"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35403</id>
-    <title>Literature Review and Evidence Aggregation: a Toolkit for Applied Micro</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Ganong, Avik Garg &amp; Maximilian Kasy</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consider an analyst interested in predicting the size of an effect. She has identified a set of prior published studies of similar effects. We provide a toolkit for (i) summarizing the prior literature, (ii) making predictions of effects in new contexts, and (iii) correcting for the bias from selectivity in the prior literature. We illustrate these methods with empirical examples from labor, public, behavioral, environmental, and development economics. Some of the tools are relevant even when only three prior studies are available. We show how it is possible to use covariates to transparently make predictions for a new context by reweighting prior estimates. The mean effect—after correcting for selectivity—is between 12% and 21% of the simple mean in our empirical examples. We conclude with a cookbook for practitioners producing meta-analyses.</content>
-    <link href="https://www.nber.org/papers/w35403"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35402</id>
-    <title>Importing Aggregate Demand</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chen Lian, Dmitry Mukhin &amp; Christian K. Wolf</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How exposed are open economies to global demand shocks? In equilibrium, foreign booms can be absorbed either by domestic consumption ("quantities") or by real exchange rate appreciation ("prices"). We show that failures of Ricardian equivalence and global financial market imperfections, two frictions popular in much recent work, have opposite effects on the split: while elevated marginal propensities to consume push towards quantities, financial frictions instead increase price adjustment. As the flexible-price equilibrium generally features a mix of quantity and price responses, policy needs to be contractionary to achieve flexible-price outcomes if the spending effect dominates, and vice-versa if financial frictions are severe. In our quantitative explorations the spending effect tends to win the race, necessitating aggressive domestic policy action.</content>
-    <link href="https://www.nber.org/papers/w35402"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35399</id>
-    <title>Understanding Cross-State Variations in Medicaid Enrollment During and After the COVID-19 Pandemic</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jeffrey Clemens, Helena Detering &amp; Anwita Mahajan</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The implementation and unwinding of the FFCRA's continuous coverage requirement generated historically large changes in Medicaid enrollment during the COVID-19 pandemic. Using a combination of descriptive and causal analyses, we examine the substantial cross-state differences in these changes, which remain little understood. We find that policies designed to ease unwinding frictions, as well as federal fiscal assistance to states, have little predictive power, suggesting limited roles for administrative design or liquidity constraints. Political preferences have modest predictive power during the unwinding period. Pandemic-era Medicaid expansions and more generous baseline eligibility thresholds are strongly associated with larger net enrollment gains.</content>
-    <link href="https://www.nber.org/papers/w35399"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35398</id>
-    <title>The Pass-through of Tariffs and Exchange Rates</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stéphane Auray, Michael B. Devereux &amp; Aurélien Eyquem</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper shows that the currency in which traded goods are invoiced has a first-order implication for the short-run impact of tariffs on the economy. If prices are set in terms of producer’s currency (PCP), a unilateral tariff is contractionary on impact, reducing GDP, and causing a deterioration in the trade balance. By contrast, with prices pre-set in buyers currency (LCP), the same tariff shock is expansionary, and improves the trade balance. The key difference between the two regimes lies in the differential exchange rate pass- through under PCP relative to LCP. In welfare terms however, the situation is reversed. A tariff under LCP leads to a fall in short-run welfare, as consumption and investment fall sharply, while the same tariff may be welfare enhancing under PCP. Under dollar currency pricing (DCP), we find results intermediate between the two invoicing regimes. With retaliation, the stark difference in pricing regimes is attenuated.</content>
-    <link href="https://www.nber.org/papers/w35398"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35396</id>
-    <title>New Evidence on the Health-Status Gradient from Imperial China</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Wolfgang Keller, Carol H. Shiue &amp; Karen Eggleston</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relationship between health and social status in China using genealogical data from the 14th to 19th centuries. The data covers broad segments of the population linking husbands, wives, and sons, allowing us to examine whether status was associated with survival not only for adult men but also across households and generations. In a sample centered on the early 1700s, the typical lifespan of married men is 52, but varies widely. High-status men have a 22 percent higher probability of living past 50 than low-status men, resulting in a lifespan advantage of seven years. High status is also associated with significant survival advantages for wives and children. The lifespan premium of the wife of a high-status man over the wife of a commoner exceeds 10 years, and the chance that the son of a high-status man dies before reaching 10 years is less than half that of a low-status man’s son. Up to the 17th century the lifespan advantage is largely confined to those with top status, while the health-status gradient across all status levels emerges during the 18th century. The findings provide new evidence on health-status inequality in a less-studied setting, and suggest that health-status inequality is usefully analyzed from a family and intergenerational perspective.</content>
-    <link href="https://www.nber.org/papers/w35396"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35401</id>
-    <title>Baby Busts and Growth Booms: Demographic Change and the Macroeconomy</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Daron Acemoglu, David Autor, Keelan Beirne &amp; Andrew Scott</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across countries and higher wage growth across US commuting zones, with no negative impact on aggregate GDP or earnings. These patterns are not explained by educational upgrading, rising female labor force participation, the declining importance of agriculture, or neoclassical-Solow mechanisms. We argue that they reflect the endogenous, labor-saving response of technology to the scarcity of younger workers. Consistent with this interpretation, countries and regions with lower birth rates exhibit more labor-saving patents and growing high-tech activity. There is also higher TFP growth across countries and industries. Exploiting cross-country variation in WWII military and civilian deaths, we find that declines in younger population, rather than population size per se, drive our results.</content>
-    <link href="https://www.nber.org/papers/w35401"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35400</id>
-    <title>How Does Monetary and Fiscal Policy Affect the Economy in the Face of Large Shocks?</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Greg Kaplan &amp; Ken Miyahara</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a model that combines (i) heterogeneous households with incomplete markets, and (ii) state-dependent pricing with strategic complementarities by firms, to analyze the effects of large macroeconomic shocks and policy interventions. Both features significantly influence the transmission of fiscal stimulus and monetary policy—heterogeneous households because of failures of Ricardian equivalence, and state-dependent pricing because of its nonlinear effects on inflation. We use our model to quantify how monetary and fiscal policy shaped macroeconomic dynamics in response to the large shocks of 2020, and how alternative policy choices could have led to different aggregate and distributional outcomes. We find large departures from Ricardian equivalence and strong stepping-on-a-rake effects of interest rate changes. The large unfunded fiscal transfer program helped prevent deflation in 2020 and significantly raised output throughout 2021 and 2022, but led to permanently higher prices. The monetary easing through 2020 and 2021 also contributed to preventing deflation, but had a minimal impact on GDP. The monetary tightening from 2022 lowered the maximum inflation rate, but contributed to persistently above-trend inflation. These policies led to net welfare gains for low-wealth households and net welfare losses for high-wealth households, but those welfare effects are due to incomplete markets for idiosyncratic risk not aggregate stabilization. Alternative commitments to funding fiscal stimulus could have achieved similar short-term effects on inflation and output with a much smaller long-term increase in the price level.</content>
-    <link href="https://www.nber.org/papers/w35400"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35412</id>
-    <title>Digital Safe Havens: The Economics of Tokenized Treasuries</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chen Lin, Eswar S. Prasad, Daniel Rabetti &amp; Che Zhang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the emerging market for tokenized US Treasuries and yield-bearing dollar instruments on public blockchains. Using a comprehensive dataset that combines on-chain transactions, protocol-level total value locked, pool yields, and monetary policy and stress events, we document three core findings. First, yields can be decomposed into distinct components reflecting issuer fees, lending premia, leverage, basis-trade carry, and collateral pledgability, with the latter generating economically large implicit convenience yields. Second, monetary policy transmission into on-chain dollar markets is highly heterogeneous across product designs, with administratively set rates adjusting slowly and basis-trade-backed instruments displaying economically amplified responses to policy shocks. Third, tokenized Treasuries serve as digital safe havens during episodes of cross-asset stress, attracting large inflows during risk-off events while simultaneously exposing new fragilities arising from the interaction between on-chain composability and off-chain reserve structures, particularly through stablecoin balance sheets. Overall, we provide insights into the distinctive dynamics of pricing, transmission, and fragility of digital Treasuries as decentralized and traditional financial infrastructures increasingly integrate.</content>
-    <link href="https://www.nber.org/papers/w35412"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35411</id>
-    <title>Forecasting with Uncertain Persistence</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Joel P. Flynn, Maksim Meinert &amp; Karthik Sastry</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;With uncertainty about persistence, we show that forecasts necessarily become more persistent and over-react at long horizons. For these reasons, correctly specified and Bayesian forecasts may under-react at short horizons and over-react at long horizons. These results provide a unified explanation for several asset pricing and forecasting puzzles, including: (i) the excess responsiveness of long-horizon rates to short rates, (ii) the dominance of apparent term premia for long-term rates, (iii) the ex post predictability of bond yields, (iv) the excess volatility of long-horizon forward prices, (v) the excess persistence of long-horizon forecasts, and (vi) the over-reaction of long-horizon forecasts.</content>
-    <link href="https://www.nber.org/papers/w35411"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35395</id>
-    <title>Seemingly Anchored Inflation Expectations</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ulrike Malmendier &amp; Stefan Nagel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Empirical evidence commonly cited as indicating that inflation expectations have become better anchored includes the declining sensitivity of expectations to inflation surprises over time, particularly around the adoption of inflation targeting. These patterns are typically attributed to the influence of explicit or implicit inflation targets on inflation expectations. We show that this evidence is consistent with a model of experience-based learning in which individuals learn solely from their life-time history of realized inflation, without anchoring their expectations to an announced inflation target. In this model, the prolonged experience of low short-run inflation persistence in the pre-COVID decades renders long-run expectations insensitive to inflation surprises, matching the patterns observed in empirical anchoring tests. A unique prediction of the experience-based learning model is also borne out in the data: the decline in surprise sensitivity since the 1980s is strongest among younger individuals. The memory of low inflation persistence experiences further explains why long-run inflation expectations remained stable in the face of the post-COVID inflation surge. At the same time, simulations indicate that the sensitivity of long-run expectations to inflation surprises would rise sharply if individuals were to experience another sustained episode of highly persistent inflation. Overall, long-run inflation expectations may be less firmly anchored than commonly believed.</content>
-    <link href="https://www.nber.org/papers/w35395"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
