@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-07-16T13:03:33.777347+00:00</updated>
+  <updated>2026-07-17T12:56:09.848921+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -103,18 +103,6 @@
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35391</id>
-    <title>Government Funding Costs Under Financial Repression</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <author>
-      <name>Roberto Gómez-Cram, Howard Kung, Hanno Lustig &amp; David Zeke</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation.</content>
-    <link href="https://www.nber.org/papers/w35391"/>
-    <category term="NBER"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35392</id>
     <title>Immigration, Innovation, and the Geography of Growth</title>
     <updated>2026-06-01T00:00:00+00:00</updated>
@@ -123,6 +111,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Between 1880 and 1920, more than 20 million immigrants settled in the United States. We study how this migration wave affected innovation and growth. Using a newly constructed dataset linking individual census records to historical immigration records and the universe of US patents, we highlight a new channel through which immigrants contributed to growth: they disproportionately settled in urban innovation hubs. To quantify the aggregate and regional effects of this mass migration episode, we develop a new spatial growth model in which skilled workers have a comparative advantage in innovation and sort endogenously across space. We find that international arrivals after 1880 raised US income per capita by 8.2% by 1940. Removing the subsequent immigration restrictions of the 1920s would have raised income per capita by a further 1.7% by 2000. Immigrants' skill composition and their concentration in urban hubs are key drivers of these effects.</content>
     <link href="https://www.nber.org/papers/w35392"/>
+    <category term="NBER"/>
+    <published>2026-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35391</id>
+    <title>Government Funding Costs Under Financial Repression</title>
+    <updated>2026-06-01T00:00:00+00:00</updated>
+    <author>
+      <name>Roberto Gómez-Cram, Howard Kung, Hanno Lustig &amp; David Zeke</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the equilibrium effects of financial repression on government funding costs in an endowment economy with limited asset market participation. We show how a broad set of repression policies operates through a wedge in the Euler equation responsive to government size or by affecting fiscal redistribution between agents. Repression intensity is captured by a policy feedback rule that depends positively on net government spending. When fiscal policy is profligate and monetary policy accommodates, we show that such a repression policy raises bond values, reduces the inflationary cost of unfunded fiscal expansions, and lowers bond risk premia. Repression is not a free lunch for bondholders---they pay a lower inflation tax but also earn lower future real returns. When monetary policy does not accommodate fiscal policy, repression can provide stopgap funding for deficits, allowing the central bank to retain control over inflation while making government debt a hedge for fiscal inflation.</content>
+    <link href="https://www.nber.org/papers/w35391"/>
     <category term="NBER"/>
     <published>2026-06-01T00:00:00+00:00</published>
   </entry>
@@ -331,18 +331,6 @@
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35425</id>
-    <title>The Rise of Female Autonomy and the Decline of Fertility: The Role of Mismatch</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Claudia Goldin</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The fertility decline is everywhere in the world today and goes back decades for rich countries. Birthrates have been below replacement in the U.S. and Europe since the mid-1970s. Completed cohort fertility in the U.S. was lower for those born in 1955 than for 1975. The reasons for the initial declines involve greater female autonomy and a mismatch between the desires of men and women. Men generally benefit more from maintaining traditions; women often benefit more from eschewing them. When the probability is low that men will abandon traditions, some career women will not have children and others will delay.</content>
-    <link href="https://www.nber.org/papers/w35425"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35420</id>
     <title>From Minor Ailments to Major Illnesses: A Practical Framework for Valuing Morbidity in Environmental Policy Analysis</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -375,6 +363,30 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We uncover a new mechanism that links growth and a decline in the energy intensity of production, observed globally since 1990. Using microdata from India and a causal research design, we demonstrate that the expenditure share of energy declines steeply with firm scale, due both to physical scaling laws and technology investment. Given that average firm size increases with growth, this scale dependence implies that production endogenously becomes less energy-intensive along the growth path. We develop a model of this mechanism in general equilibrium, and quantify significant reductions in aggregate energy intensity as low-income countries like India grow. We conclude with a discussion of the future path of emissions in India.</content>
     <link href="https://www.nber.org/papers/w35405"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35396</id>
+    <title>New Evidence on the Health-Status Gradient from Imperial China</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Wolfgang Keller, Carol H. Shiue &amp; Karen Eggleston</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relationship between health and social status in China using genealogical data from the 14th to 19th centuries. The data covers broad segments of the population linking husbands, wives, and sons, allowing us to examine whether status was associated with survival not only for adult men but also across households and generations. In a sample centered on the early 1700s, the typical lifespan of married men is 52, but varies widely. High-status men have a 22 percent higher probability of living past 50 than low-status men, resulting in a lifespan advantage of seven years. High status is also associated with significant survival advantages for wives and children. The lifespan premium of the wife of a high-status man over the wife of a commoner exceeds 10 years, and the chance that the son of a high-status man dies before reaching 10 years is less than half that of a low-status man’s son. Up to the 17th century the lifespan advantage is largely confined to those with top status, while the health-status gradient across all status levels emerges during the 18th century. The findings provide new evidence on health-status inequality in a less-studied setting, and suggest that health-status inequality is usefully analyzed from a family and intergenerational perspective.</content>
+    <link href="https://www.nber.org/papers/w35396"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35425</id>
+    <title>The Rise of Female Autonomy and the Decline of Fertility: The Role of Mismatch</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Claudia Goldin</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The fertility decline is everywhere in the world today and goes back decades for rich countries. Birthrates have been below replacement in the U.S. and Europe since the mid-1970s. Completed cohort fertility in the U.S. was lower for those born in 1955 than for 1975. The reasons for the initial declines involve greater female autonomy and a mismatch between the desires of men and women. Men generally benefit more from maintaining traditions; women often benefit more from eschewing them. When the probability is low that men will abandon traditions, some career women will not have children and others will delay.</content>
+    <link href="https://www.nber.org/papers/w35425"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
@@ -675,18 +687,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The implementation and unwinding of the FFCRA's continuous coverage requirement generated historically large changes in Medicaid enrollment during the COVID-19 pandemic. Using a combination of descriptive and causal analyses, we examine the substantial cross-state differences in these changes, which remain little understood. We find that policies designed to ease unwinding frictions, as well as federal fiscal assistance to states, have little predictive power, suggesting limited roles for administrative design or liquidity constraints. Political preferences have modest predictive power during the unwinding period. Pandemic-era Medicaid expansions and more generous baseline eligibility thresholds are strongly associated with larger net enrollment gains.</content>
     <link href="https://www.nber.org/papers/w35399"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35396</id>
-    <title>New Evidence on the Health-Status Gradient from Imperial China</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Wolfgang Keller, Carol H. Shiue &amp; Karen Eggleston</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relationship between health and social status in China using genealogical data from the 14th to 19th centuries. The data covers broad segments of the population linking husbands, wives, and sons, allowing us to examine whether status was associated with survival not only for adult men but also across households and generations. In a sample centered on the early 1700s, the typical lifespan of married men is 52, but varies widely. High-status men have a 22 percent higher probability of living past 50 than low-status men, resulting in a lifespan advantage of seven years. High status is also associated with significant survival advantages for wives and children. The lifespan premium of the wife of a high-status man over the wife of a commoner exceeds 10 years, and the chance that the son of a high-status man dies before reaching 10 years is less than half that of a low-status man’s son. Up to the 17th century the lifespan advantage is largely confined to those with top status, while the health-status gradient across all status levels emerges during the 18th century. The findings provide new evidence on health-status inequality in a less-studied setting, and suggest that health-status inequality is usefully analyzed from a family and intergenerational perspective.</content>
-    <link href="https://www.nber.org/papers/w35396"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
