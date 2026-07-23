@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-07-23T03:22:55.207370+00:00</updated>
+  <updated>2026-07-23T12:57:41.102996+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w35428</id>
+    <title>Beyond Mean Exposure: How Exposure Variance Shapes Air Pollution Mortality Risk</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Bissan Ghaddar, Kimberly Singer Babiarz, Hongbin Li, Lingsheng Meng, Lynn Hildemann, Han Hong, Alvise Scarabosio, Meili Wang, Aprajit Mahajan, Peng Yin, Maigeng Zhou &amp; Grant Miller et al. (View all)</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Ambient air pollution contributes substantially to premature mortality globally, and the effectiveness of policies addressing it depends critically on the shape of the dose-response relationship, which remains poorly understood. Linking hourly air pollution data with daily vital statistics from 251 Chinese cities over four years, we show this relationship depends not only on the mean, but also on the variance of within-period exposure. At a 7-day mean of 150 μg/m³, predicted mortality varies more across observed hourly PM2.5 distributions than across mean exposure differences of 100 μg/m³. The sign of this variance effect also depends on the mean: at low mean concentrations (a convex region), higher variance is associated with modestly higher mortality. At higher concentrations (a concave region), greater variance is associated with lower mortality – implying constant exposure is more harmful than fluctuating exposure for a given mean. These findings reveal important relationships masked using temporally aggregated air pollution data.</content>
+    <link href="https://www.nber.org/papers/w35428"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35429</id>
     <title>Benefit-Based Taxation can Include Substantial Redistribution</title>
@@ -219,18 +231,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Consider an analyst interested in predicting the size of an effect. She has identified a set of prior published studies of similar effects. We provide a toolkit for (i) summarizing the prior literature, (ii) making predictions of effects in new contexts, and (iii) correcting for the bias from selectivity in the prior literature. We illustrate these methods with empirical examples from labor, public, behavioral, environmental, and development economics. Some of the tools are relevant even when only three prior studies are available. We show how it is possible to use covariates to transparently make predictions for a new context by reweighting prior estimates. The mean effect—after correcting for selectivity—is between 12% and 21% of the simple mean in our empirical examples. We conclude with a cookbook for practitioners producing meta-analyses.</content>
     <link href="https://www.nber.org/papers/w35403"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35402</id>
-    <title>Importing Aggregate Demand</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Chen Lian, Dmitry Mukhin &amp; Christian K. Wolf</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How exposed are open economies to global demand shocks? In equilibrium, foreign booms can be absorbed either by domestic consumption ("quantities") or by real exchange rate appreciation ("prices"). We show that failures of Ricardian equivalence and global financial market imperfections, two frictions popular in much recent work, have opposite effects on the split: while elevated marginal propensities to consume push towards quantities, financial frictions instead increase price adjustment. As the flexible-price equilibrium generally features a mix of quantity and price responses, policy needs to be contractionary to achieve flexible-price outcomes if the spending effect dominates, and vice-versa if financial frictions are severe. In our quantitative explorations the spending effect tends to win the race, necessitating aggressive domestic policy action.</content>
-    <link href="https://www.nber.org/papers/w35402"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
