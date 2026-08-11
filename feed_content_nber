@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-08-11T04:14:38.795177+00:00</updated>
+  <updated>2026-08-11T13:30:17.945864+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -211,6 +211,18 @@
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35521</id>
+    <title>Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Susan Athey, Bruno Fava, Dean Karlan, Adam Osman &amp; Jonathan Zinman</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The canonical approach to corporate governance posits a tradeoff between maximizing shareholder profits and maximizing other aspects of shareholder welfare such as social impact. Advances in machine learning that enhance the firm's ability to target specific customers may exacerbate or ameliorate this tradeoff. We estimate these tradeoffs using data from randomized microcredit approvals in South Africa, the Philippines, and Bosnia. We examine social impact on two dimensions: credit access (i.e., reaching disadvantaged groups that typically have less access to financial markets) and impact (i.e., treatment effects on household income). Two of the three lenders could have increased average loan profit margin by 7–9 percentage points through machine learning-based targeting. However, such targeting pushes against social impact goals vis-à-vis credit access; specifically, women and lower-income households would have been more excluded (the implied impact on borrowers' income, also central to the dual goal of social impact, is too imprecisely estimated to draw an inference). To gauge the magnitude of the first tradeoff, we examine how profits would change if the lenders altered whom they lent to within each quintile of baseline borrower income, thus holding the distribution broadly similar but fine-tuning the targeting within income bands. Such a constraint would lower the profit gains of targeting by about half. These findings highlight the importance of quantifying tradeoffs and complementarities when deciding what to maximize.</content>
+    <link href="https://www.nber.org/papers/w35521"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35533</id>
     <title>Early Life Healthcare Access and Later-life Mortality: Evidence Using Openings of County Health Departments</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -279,18 +291,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How does information disclosure reshape the allocation of environmental risk in the housing market? We quantify the price and distributional impact of the nationwide disclosure of property-level flood risk from First Street on U.S. housing platforms. Using a difference-in-RD design that exploits discrete cutoffs in the disclosed risk categories, we find that homes labeled as "extreme'' flood risk experience a 3.3% price discount and stay on the market for a week longer, relative to those labeled as "severe'' risk. These effects are strongest for coastal properties and remain pervasive across different FEMA floodplain designations. Disclosure also generates significant household resorting: buyers of extreme-risk homes have 5.3% lower income, are more likely to use FHA financing, and are older. Through a discrete choice model, we find that the redistribution of risk to lower-income households is primarily driven by price changes rather than heterogeneous preferences for flood risk.</content>
     <link href="https://www.nber.org/papers/w35516"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35515</id>
-    <title>Beyond Price: Rights Trading in Strategic Factor Markets</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Anparasan Mahalingam &amp; Matthew J. Higgins</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded university–industry licenses, we find that contracts relying more heavily on royalty and milestone provisions grant licensees stronger future improvement claims and broader commercialization scope. The results persist across controls and fixed effects and are directionally consistent with complementary instrumental-variable, event-study, and selection-bound analyses. We further show that this relationship is stronger when university technology transfer offices have greater contracting experience, suggesting that contracting capability shapes value appropriation in strategic factor markets. More broadly, the study shows that value appropriation in strategic factor markets depends not only on what organizations pay for strategic resources, but also on how contracts allocate control over their future development and commercialization.</content>
-    <link href="https://www.nber.org/papers/w35515"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
@@ -499,18 +499,6 @@
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35521</id>
-    <title>Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Susan Athey, Bruno Fava, Dean Karlan, Adam Osman &amp; Jonathan Zinman</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The canonical approach to corporate governance posits a tradeoff between maximizing shareholder profits and maximizing other aspects of shareholder welfare such as social impact. Advances in machine learning that enhance the firm's ability to target specific customers may exacerbate or ameliorate this tradeoff. We estimate these tradeoffs using data from randomized microcredit approvals in South Africa, the Philippines, and Bosnia. We examine social impact on two dimensions: credit access (i.e., reaching disadvantaged groups that typically have less access to financial markets) and impact (i.e., treatment effects on household income). Two of the three lenders could have increased average loan profit margin by 7–9 percentage points through machine learning-based targeting. However, such targeting pushes against social impact goals vis-à-vis credit access; specifically, women and lower-income households would have been more excluded (the implied impact on borrowers' income, also central to the dual goal of social impact, is too imprecisely estimated to draw an inference). To gauge the magnitude of the first tradeoff, we examine how profits would change if the lenders altered whom they lent to within each quintile of baseline borrower income, thus holding the distribution broadly similar but fine-tuning the targeting within income bands. Such a constraint would lower the profit gains of targeting by about half. These findings highlight the importance of quantifying tradeoffs and complementarities when deciding what to maximize.</content>
-    <link href="https://www.nber.org/papers/w35521"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35511</id>
     <title>Information and Macroeconomic Expectations: Global Evidence</title>
     <updated>2026-07-01T00:00:00+00:00</updated>
@@ -571,6 +559,18 @@
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35515</id>
+    <title>Beyond Price: Rights Trading in Strategic Factor Markets</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Anparasan Mahalingam &amp; Matthew J. Higgins</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded university–industry licenses, we find that contracts relying more heavily on royalty and milestone provisions grant licensees stronger future improvement claims and broader commercialization scope. The results persist across controls and fixed effects and are directionally consistent with complementary instrumental-variable, event-study, and selection-bound analyses. We further show that this relationship is stronger when university technology transfer offices have greater contracting experience, suggesting that contracting capability shapes value appropriation in strategic factor markets. More broadly, the study shows that value appropriation in strategic factor markets depends not only on what organizations pay for strategic resources, but also on how contracts allocate control over their future development and commercialization.</content>
+    <link href="https://www.nber.org/papers/w35515"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35567</id>
     <title>The Value of Behavioral Policies</title>
     <updated>2026-08-01T00:00:00+00:00</updated>
@@ -603,42 +603,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The study of bureaucracy as a key dimension of state capacity has gained increasing attention in economics. What organizational features create an effective bureaucracy, however, remains subject to debate. This paper focuses on the central role of civil service protections in delineating the boundary between politics and administration. I introduce a simple principal-agent framework to discuss the key theoretical channels through which political insulation can shape bureaucrat performance. Guided by the framework, I establish stylized facts and organize evidence from historical and contemporary civil service reforms. Overall, the micro-level evidence documents a positive effect of civil service protections on the quality of public service delivery. I conclude with open questions about the political economy of reform adoption.</content>
     <link href="https://www.nber.org/papers/w35568"/>
-    <category term="NBER"/>
-    <published>2026-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35548</id>
-    <title>Reserves and the Buyer of Last Resort</title>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Frederic Boissay &amp; Harald Uhlig</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the role of central bank reserves and public liquidity when secondary markets may freeze. Central bank reserves help intermediaries purchase assets during stress but crowd out investment. Under laissez-faire, intermediaries hold insufficient reserves, overlooking how aggregate liquidity reduces freeze risk. We propose a "market-backstop principle", akin to Bagehot’s principle for intermediaries. It combines state-contingent buyer-of-last-resort interventions to restore trading with modest liquidity requirements to limit moral hazard. The welfare benefits of restoring market functioning exceed the fiscal costs of interventions. We explore implications for the size and composition of central bank balance sheets.</content>
-    <link href="https://www.nber.org/papers/w35548"/>
-    <category term="NBER"/>
-    <published>2026-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35547</id>
-    <title>Designing Around Selection: Identification and Inference Under Multi-Dimensional Unobserved Heterogeneity</title>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Brent R. Hickman, John A. List, Ian Muir &amp; Gregory K. Sun</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study identification and optimal policy design in a broad class of principal-agent models. We show that the most common empirical framework within the literature is equivalent to an unstructured potential-outcomes model augmented with three specific assumptions: the Law of Demand (LoD), or treatment-effect monotonicity; extrapolative model structure (EMS), which rules out lumpy agent responses to price changes; and rank invariance (RI), which restricts unobserved heterogeneity (UH) to be one-dimensional. This decomposition isolates the identifying content of each assumption and clarifies its economic role. The LoD and MS are empirically testable using exogenous price variation; RI, on the other hand, is a strong assumption ruling out many economically plausible behaviors, and also not empirically testable. We derive sharp bounds on counterfactual outcomes when RI is relaxed. The conventional 1-dimensional model delivers an upper bound on planner objectives, while the lower bound, which allows for arbitrary multi-dimensional UH, has an adversarial interpretation for policy design. We estimate empirical bounds and apply them to nonlinear pricing of rideshare services. The resulting robust pricing policy fully insures against worst-case latent selection while preserving most of the profit and consumer-surplus gains predicted by the conventional model. Our framework provides a tractable approach to robust policy design in adverse-selection settings including Mirrleesian taxation, regulation, labor supply, and procurement.</content>
-    <link href="https://www.nber.org/papers/w35547"/>
-    <category term="NBER"/>
-    <published>2026-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35546</id>
-    <title>Time Travel on Professional Profiles</title>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas Bloom, Gideon Moore, Lisa K. Simon &amp; Caelan Wilkie-Rogers</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economists increasingly use professional profile data to reconstruct employment histories and measure skill supply. We show that these records are not fixed historical snapshots, but mutable accounts that workers revise over time. Using monthly vintages of Revelio Labs data from 2020–2026, we document that 19.7 percent of established U.S. LinkedIn users retroactively edit the title or description of a job they have already left. These “time-travel” edits are closely tied to labor market transitions: around such edits, workers are much more likely to change employers as compared to later-editing users. This mutability can bias historical measures of skills, but it also reveals workers’ beliefs about which skills are in demand. Retroactive edits show sharp post-2022 increases in AI-related language and recent reductions in work-from-home and DEI language. Finally, LLM-associated writing markers surge after ChatGPT, especially among less-educated groups and MBAs from lower-ranked programs, revealing heterogeneous AI-assisted profile editing.</content>
-    <link href="https://www.nber.org/papers/w35546"/>
     <category term="NBER"/>
     <published>2026-08-01T00:00:00+00:00</published>
   </entry>
@@ -939,6 +903,42 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Unnecessary treatment reflects a gap between what patients believe about their health and their true condition; people often seek and consume care for diseases they suspect, but do not know that actually have. The value a patient places on testing therefore depends on their priors about being sick, and when those beliefs are biased, the resulting testing rate might be sub-optimal and leave welfare on the table. We study diagnosis-contingent incentive contracts, which tie treatment incentives to diagnostic results. For malaria, the contract subsidizes rapid diagnostic tests (RDTs) and antimalarials (ACTs) only for patients who test positive. In a cluster-randomized experiment across 140 Kenyan pharmacies, both patient subsidies and provider incentives roughly tripled testing and sharply reduced unnecessary ACT purchases among test-negative patients, working through distinct channels: patient subsidies through lower prices, provider incentives through information and advice. A model of patient choice implies these contracts raise social welfare well above their cost. Estimating the model structurally, we find that because patients substantially overestimate their infection risk, loading incentives onto diagnosis-contingent treatment discounts delivers four times the welfare gains of free testing programs.</content>
     <link href="https://www.nber.org/papers/w35543"/>
+    <category term="NBER"/>
+    <published>2026-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35548</id>
+    <title>Reserves and the Buyer of Last Resort</title>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Frederic Boissay &amp; Harald Uhlig</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine the role of central bank reserves and public liquidity when secondary markets may freeze. Central bank reserves help intermediaries purchase assets during stress but crowd out investment. Under laissez-faire, intermediaries hold insufficient reserves, overlooking how aggregate liquidity reduces freeze risk. We propose a "market-backstop principle", akin to Bagehot’s principle for intermediaries. It combines state-contingent buyer-of-last-resort interventions to restore trading with modest liquidity requirements to limit moral hazard. The welfare benefits of restoring market functioning exceed the fiscal costs of interventions. We explore implications for the size and composition of central bank balance sheets.</content>
+    <link href="https://www.nber.org/papers/w35548"/>
+    <category term="NBER"/>
+    <published>2026-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35547</id>
+    <title>Designing Around Selection: Identification and Inference Under Multi-Dimensional Unobserved Heterogeneity</title>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Brent R. Hickman, John A. List, Ian Muir &amp; Gregory K. Sun</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study identification and optimal policy design in a broad class of principal-agent models. We show that the most common empirical framework within the literature is equivalent to an unstructured potential-outcomes model augmented with three specific assumptions: the Law of Demand (LoD), or treatment-effect monotonicity; extrapolative model structure (EMS), which rules out lumpy agent responses to price changes; and rank invariance (RI), which restricts unobserved heterogeneity (UH) to be one-dimensional. This decomposition isolates the identifying content of each assumption and clarifies its economic role. The LoD and MS are empirically testable using exogenous price variation; RI, on the other hand, is a strong assumption ruling out many economically plausible behaviors, and also not empirically testable. We derive sharp bounds on counterfactual outcomes when RI is relaxed. The conventional 1-dimensional model delivers an upper bound on planner objectives, while the lower bound, which allows for arbitrary multi-dimensional UH, has an adversarial interpretation for policy design. We estimate empirical bounds and apply them to nonlinear pricing of rideshare services. The resulting robust pricing policy fully insures against worst-case latent selection while preserving most of the profit and consumer-surplus gains predicted by the conventional model. Our framework provides a tractable approach to robust policy design in adverse-selection settings including Mirrleesian taxation, regulation, labor supply, and procurement.</content>
+    <link href="https://www.nber.org/papers/w35547"/>
+    <category term="NBER"/>
+    <published>2026-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35546</id>
+    <title>Time Travel on Professional Profiles</title>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nicholas Bloom, Gideon Moore, Lisa K. Simon &amp; Caelan Wilkie-Rogers</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Economists increasingly use professional profile data to reconstruct employment histories and measure skill supply. We show that these records are not fixed historical snapshots, but mutable accounts that workers revise over time. Using monthly vintages of Revelio Labs data from 2020–2026, we document that 19.7 percent of established U.S. LinkedIn users retroactively edit the title or description of a job they have already left. These “time-travel” edits are closely tied to labor market transitions: around such edits, workers are much more likely to change employers as compared to later-editing users. This mutability can bias historical measures of skills, but it also reveals workers’ beliefs about which skills are in demand. Retroactive edits show sharp post-2022 increases in AI-related language and recent reductions in work-from-home and DEI language. Finally, LLM-associated writing markers surge after ChatGPT, especially among less-educated groups and MBAs from lower-ranked programs, revealing heterogeneous AI-assisted profile editing.</content>
+    <link href="https://www.nber.org/papers/w35546"/>
     <category term="NBER"/>
     <published>2026-08-01T00:00:00+00:00</published>
   </entry>
