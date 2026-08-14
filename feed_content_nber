@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-08-13T17:39:30.614157+00:00</updated>
+  <updated>2026-08-14T04:47:41.054857+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -207,6 +207,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Financial incentives may encourage vaccination, but their cost-effectiveness depends on targeting patients who are most responsive. We conducted a randomized controlled trial with 57,579 adult patients in an integrated health system during the 2021–2022 influenza season. Patients with an upcoming appointment were randomized to a no-contact control, a simple reminder, a $1 cash incentive, or a scratch-off lottery ticket incentive worth up to $5,000. Any active intervention increased vaccination at the scheduled appointment by 2 percentage points (an 8% increase over the control mean) and by 1.5 percentage points over the full influenza season. The three active arms did not differ significantly, indicating that small financial incentives provided no additional benefit beyond a reminder. Using electronic health records and area-level characteristics, we used causal forests to estimate conditional average treatment effects. Predicted responsiveness varied substantially: patients in the top quartile were 3–4 times more likely to respond to incentives than those in the bottom quartile, whereas reminder effects were relatively homogeneous. These findings suggest that low-cost reminders can increase influenza vaccination, while machine-learning methods can help identify patients most responsive to small financial incentives.</content>
     <link href="https://www.nber.org/papers/w35537"/>
+    <category term="NBER"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35524</id>
+    <title>The Welfare Effects of Conditioning the Potential Duration of UI Benefits on Prior Work History</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <author>
+      <name>Leonard Goff &amp; Simon Quach</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most unemployment insurance (UI) systems condition the potential duration of benefits on claimants' work history, yet little evidence exists on whether doing so is socially optimal. We study this question using 25 regression discontinuities in Canada's UI system, where benefit duration increases discretely when prior hours worked crosses various thresholds. Using administrative records covering the universe of UI claims from 1997 to 2018, we estimate the fiscal effects of extending potential duration across the work-history distribution. On average, an additional week lengthens unemployment by 0.30 weeks and costs the government $96. However, this average effect masks significant heterogeneity: the mechanical cost falls steeply with prior hours, while the behavioral cost increases modestly. Consequently, the fiscal externality of extending UI rises with labor market attachment. Embedding these estimates in a sufficient statistics framework, we find that the fiscal externality of a uniform extension is 76% larger than that of an extension targeted at claimants with short histories. Moreover, aggregate welfare can be raised at zero fiscal cost by redistributing benefits from high to low hour claimants.</content>
+    <link href="https://www.nber.org/papers/w35524"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
@@ -447,18 +459,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We investigate whether, by providing better and more timely information, the first mandatory online reporting and auditing program for wastewater discharge releases in the U.S. improved facility compliance and environmental performance, while also allowing state regulators to more effectively monitor and enforce regulations. Examining reporting programs with automated feedback features can also offer insights into the potential for artificial intelligence-based tools to improve compliance and environmental performance. Difference-in-difference results suggest that the program resulted in significant increases in the completeness of reporting and reductions in discharges but also greater reported violations. We find that effects are larger for minor dischargers and publicly owned facilities. We also find evidence consistent with the more efficient targeting of inspections by state authorities towards plants with a history of recent noncompliance, which could be a potential mechanism driving these results.</content>
     <link href="https://www.nber.org/papers/w35525"/>
-    <category term="NBER"/>
-    <published>2026-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35524</id>
-    <title>The Welfare Effects of Conditioning the Potential Duration of UI Benefits on Prior Work History</title>
-    <updated>2026-07-01T00:00:00+00:00</updated>
-    <author>
-      <name>Leonard Goff &amp; Simon Quach</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Most unemployment insurance (UI) systems condition the potential duration of benefits on claimants' work history, yet little evidence exists on whether doing so is socially optimal. We study this question using 25 regression discontinuities in Canada's UI system, where benefit duration increases discretely when prior hours worked crosses various thresholds. Using administrative records covering the universe of UI claims from 1997 to 2018, we estimate the fiscal effects of extending potential duration across the work-history distribution. On average, an additional week lengthens unemployment by 0.30 weeks and costs the government $96. However, this average effect masks significant heterogeneity: the mechanical cost falls steeply with prior hours, while the behavioral cost increases modestly. Consequently, the fiscal externality of extending UI rises with labor market attachment. Embedding these estimates in a sufficient statistics framework, we find that the fiscal externality of a uniform extension is 76% larger than that of an extension targeted at claimants with short histories. Moreover, aggregate welfare can be raised at zero fiscal cost by redistributing benefits from high to low hour claimants.</content>
-    <link href="https://www.nber.org/papers/w35524"/>
     <category term="NBER"/>
     <published>2026-07-01T00:00:00+00:00</published>
   </entry>
