@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-08-29T15:57:52.436426+00:00</updated>
+  <updated>2026-08-30T15:06:15.833465+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w35553</id>
+    <title>Sharing the Burden: The Impacts of Pharmacy Sector Reforms on the Labor Market for Pharmacists in Portugal</title>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>David Card, Ana Rute Cardoso &amp; Pedro Luis Silva</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In the depths of the 2010 financial crisis the Portuguese government enacted a series of reforms in its prescription drug reimbursement system. Over the next three years value added per pharmacist in retail pharmacies fell by a third, reflecting a rise in generic substitution and reductions in the markups allowed for prescription drugs. This massive shock led to pay cuts for incumbent pharmacists and the introduction of a two-tier pay system for new hires, with little or no reduction in the growth of employment.  We use detailed longitudinal records from the Quadros de Pessoal data base, merged with information on collective bargaining settlements and firm financial records, to study the impacts of the reforms. We estimate that between 2009 and 2022 average wages of pharmacists fell by a third; most of this reduction was due to lower wages for newly entering cohorts. The implied responsiveness of wages to productivity is substantially above most estimates in the rent-sharing literature, arguably reflecting the strong attachment of workers to the sector and the steady inflow of newly graduating pharmacists.  Stepping back, we then consider how wages of pharmacists have diverged relative to wages of other health care professionals in Portugal, and the decisions of recent college applicants to enter the profession.</content>
+    <link href="https://www.nber.org/papers/w35553"/>
+    <category term="NBER"/>
+    <published>2026-08-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35552</id>
     <title>The Equilibrium Impact of Credit Frictions: Evidence from Default Risk Using Firm-Level Data</title>
@@ -63,18 +75,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earnings declines and changes in the likelihood of job destruction than profit gains from their own firm’s innovations, while top workers are significantly more exposed than the average worker. We develop an endogenous-growth model with monopsonistic labor markets and worker heterogeneity that replicates this asymmetry and the distribution of earnings risk. In the model, creative destruction exposes high-income workers to concentrated downside risk while increasing upward mobility for lower-income workers, shaping the welfare consequences of innovation policy.</content>
     <link href="https://www.nber.org/papers/w35542"/>
-    <category term="NBER"/>
-    <published>2026-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35540</id>
-    <title>Predictive Risk Scores in the Public Sector: Experimental Evidence from Child-Protection Investigations</title>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>E. Jason Baron, Arkadev Ghosh &amp; Richard Lombardo</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many public-sector decisions require allocating scarce attention under uncertainty. We examine whether algorithmic risk assessments improve child-protection decisions, where supervisors decide which cases need closer scrutiny. In a randomized evaluation of 4,752 child referrals over 14 months in Northampton County, supervisors received an algorithmic risk score alongside standard case records. Access to the score increased foster-care placements and services for children at highest predicted risk, with little change for lower-risk cases, and it reduced subsequent maltreatment referrals. We find no evidence that the score widened racial disparities in decisions or outcomes, suggesting algorithms can improve targeting while preserving human discretion.</content>
-    <link href="https://www.nber.org/papers/w35540"/>
     <category term="NBER"/>
     <published>2026-08-01T00:00:00+00:00</published>
   </entry>
@@ -391,18 +391,6 @@
     <published>2026-08-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35628</id>
-    <title>Do Minimum Wages Help Workers in Poor and Low-Income Families?</title>
-    <updated>2026-08-01T00:00:00+00:00</updated>
-    <author>
-      <name>David Neumark &amp; Emma Wohl</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse – rather than beneficial – effects of minimum wages on the employment, hours, and earnings of initially-employed low-wage workers in poor and low-income families. Although we do not find a gradient indicating more adverse effects on the poorest low-wage workers, the adverse effects for poor and low-income low-wage workers help explain why minimum wages do not reduce poverty.</content>
-    <link href="https://www.nber.org/papers/w35628"/>
-    <category term="NBER"/>
-    <published>2026-08-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35629</id>
     <title>Optimal Experimental Design and Estimation when Potential Outcomes are Bounded</title>
     <updated>2026-08-01T00:00:00+00:00</updated>
@@ -411,6 +399,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I study the optimal design and analysis of randomized experiments for estimating finite-population average treatment effects when potential outcomes are known to be bounded, as with binary outcomes. Among all assignment mechanisms and a broad class of affine estimators, worst-case mean-squared error (MSE) is minimized by independent random assignment and an unconventional regression of the support-midpoint-centered outcome on the recentered treatment, with no intercept. This contrasts with the usual prescription of balanced complete randomization and difference-in-means estimation: when outcomes are bounded, randomness in the realized treatment share is informative. The worst-case gain over full-sample complete randomization is asymptotically small, but gains can be first-order relative to other designs: complete within-pair randomization and pair-fixed-effect regression have twice the worst-case MSE. I then consider the general problem, allowing for any measurable estimator. Independent random assignment remains optimal, and the generally-nonlinear optimal estimator can meaningfully reduce worst-case MSE.</content>
     <link href="https://www.nber.org/papers/w35629"/>
+    <category term="NBER"/>
+    <published>2026-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35628</id>
+    <title>Do Minimum Wages Help Workers in Poor and Low-Income Families?</title>
+    <updated>2026-08-01T00:00:00+00:00</updated>
+    <author>
+      <name>David Neumark &amp; Emma Wohl</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families. We find adverse – rather than beneficial – effects of minimum wages on the employment, hours, and earnings of initially-employed low-wage workers in poor and low-income families. Although we do not find a gradient indicating more adverse effects on the poorest low-wage workers, the adverse effects for poor and low-income low-wage workers help explain why minimum wages do not reduce poverty.</content>
+    <link href="https://www.nber.org/papers/w35628"/>
     <category term="NBER"/>
     <published>2026-08-01T00:00:00+00:00</published>
   </entry>
