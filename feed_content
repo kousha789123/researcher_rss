@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-09-28T03:29:32.077914+00:00</updated>
+  <updated>2026-09-28T12:42:46.461613+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1445,6 +1445,18 @@
     <published>2026-09-26T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70132</id>
+    <title>Designing for unanticipated uses: How product attributes shape community‐led exaptation</title>
+    <updated>2026-09-27T00:00:00+00:00</updated>
+    <author>
+      <name>Shi‐Ying Lim, Tian Heong Chan</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Users often discover new uses for products that firms may later commercialize, which we call community‐led exaptation. We examine how product attributes shape users' discovery of new functions versus new functionalities. Using 1925 IKEA product hacks, we find that modularity increases the likelihood of new functions. This effect strengthens when product components are compatible across product lines but weakens when esthetic product variants exist. Visual simplicity, conversely, increases the likelihood of new functionalities. These findings suggest that firms can structure the opportunity space for discovery through product design. Exploratory analysis of archival data and interviews further illustrates how IKEA responds to these discoveries. We contribute to exaptation, user innovation, and design research by showing how product attributes shape the types of new uses communities discover.Managerial SummaryHow can firms design products to facilitate community‐led exaptation? We find that product attributes can shape what users discover. Modular products enable users to find new functions (i.e., applications), while visually simple products enable users to find new functionalities (i.e., new product capabilities). Firms' decisions to offer components that are compatible across product lines and esthetic product variants can influence the likelihood of new functions. Additionally, firms can capitalize on these new uses by showcasing promising community‐discovered functions on official channels or incorporate them as complements to existing product lines. However, functional modifications can raise safety concerns and may require additional development. Firms should therefore design for intended use, and for the kinds of new uses they are willing to seed and commercialize.</content>
+    <link href="https://doi.org/10.1002/smj.70132"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-09-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/hrm.70102</id>
     <title>From Individual Advancement to Structural Conditions: Reframing Leadership Development</title>
     <updated>2026-09-27T00:00:00+00:00</updated>
@@ -1457,126 +1469,28 @@
     <published>2026-09-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1093/qje/qjag044</id>
-    <title>Fairness Across the World</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/10422587261485961</id>
+    <title>Appearance-Based Legitimate Distinctiveness: Founder Attractiveness, Gender, and Venture Evaluations</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
     <author>
-      <name>Ingvild Almås, Alexander W Cappelen, Erik Ø Sørensen, Bertil Tungodden</name>
+      <name>Henrik Lekkas, Torben Antretter, Ivo Blohm, Charlotta Sirén, Joakim Wincent</name>
     </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;This paper provides the first comprehensive global evidence on people’s fairness and efficiency preferences, beliefs about the sources of inequality and the efficiency cost of redistribution, and policy attitudes toward redistribution. Using a globally harmonized consequential experiment with more than 65,000 individuals across 60 countries, we show that the source of inequality plays a substantially larger role for inequality acceptance than the efficiency cost of redistribution. At the global level, implemented inequality increases by 85 percent when inequality is caused by merit rather than luck, compared to a 14 percent increase when redistribution entails a 50 percent efficiency cost. We document substantial heterogeneity in fairness views and beliefs both within and across societies. The meritocratic fairness view is most prominent in many richer Western societies, while libertarian and egalitarian fairness views are widespread in many other parts of the world. Globally, people are more likely to believe that inequality reflects luck rather than merit, while beliefs in large efficiency costs of redistribution are relatively weak. Fairness preferences and beliefs are strongly associated with redistribution attitudes and actual redistribution through taxes and transfers across countries. Our findings illustrate how the interaction between fairness views and beliefs may shape redistribution across societies, highlighting the importance of jointly understanding preferences and beliefs in the political economy of redistribution.</content>
-    <link href="https://doi.org/10.1093/qje/qjag044"/>
-    <category term="The Quarterly Journal of Economics"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261484829</id>
-    <title>Joint planning and operations of wind power under decision-dependent uncertainty</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Zhiqiang Chen, Wei Xu, Caihua Chen, Jingshi Cui, Qian Hu</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We study a joint wind farm planning and operational scheduling problem under decision-dependent uncertainty. Geographic heterogeneity in wind power resources induces stochastic fluctuations that can partially offset one another—a phenomenon known as the smoothing effect. Capturing this effect requires strategic capacity allocation, which introduces decision-dependent uncertainty. At the same time, joint planning and operations must address long-term complexity, where traditional stochastic optimization faces a trade-off between statistical robustness and computational burden. To address these challenges, we propose a two-stage distributionally robust optimization model with a decision-dependent Wasserstein ambiguity set, where both the distribution and the radius adapt to planning decisions. The resulting decision-dependent radius contracts at theO(N−1/2)rate and avoids the dimensionality dependence. The model is reformulated as a mixed-integer second-order cone programming, incorporating an empirical approximation and a regularization term that includes variance-covariance estimates for the wind power resource of each farm. We further establish finite-sample guarantees on both cost and power stability under the theoretically calibrated radius. These theoretical insights motivate an asymmetric sampling strategy that leverages large datasets for variance-covariance estimation while using smaller datasets for optimization. To improve computational efficiency, we develop a constraint generation based solution framework that accelerates the solution procedure by hundreds of times. Numerical experiments using different datasets validate the effectiveness of the solution framework and demonstrate the superior performance of the proposed model in risk management. Our results offer clear managerial implications for renewable energy planning under uncertainty: (i) information quality outweighs quantity—covariance information should be incorporated only when it is sufficiently reliable; otherwise, it may compromise power stability; and (ii) effective data utilization is more valuable than simply increasing data quantity—the asymmetric sampling strategy can achieve comparable performance with substantially lower computational effort.</content>
-    <link href="https://doi.org/10.1177/10591478261484829"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261484823</id>
-    <title>Collateral damage: Environmental risk shocks and process innovation</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Yushan Zhou, Suvrat Dhanorkar, Jinbo Song</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Unforeseen events such as accidents and disasters cause substantial economic losses to firms worldwide each year. It is, therefore, crucial for firms to make targeted adjustments to their processes to effectively manage operational risks from such events. We examine whether and how firms engage in process innovation in response to elevated environmental risk. By exploiting exogenous shifts in environmental risk created by nearby spill and pollution (SP) accidents, we investigate the impact of such environmental risk exposure on the non-offending (i.e. victim) firms’ environmental process innovation (EPI). Using a stacked difference-in-differences (DiD) design, we find that higher risk exposure results in a substantial increase in firms’ EPI, exhibiting a 23.06% increment compared to the control group. Next, we find that the main effect is contingent on the non-offending firms’ degree of risk tolerance stemming from (i) political, (ii) local regulatory, and (iii) market-based factors. Interestingly, we also find evidence that higher risk exposure propagates through the non-offending firms’ supply chain, giving more credibility to the hypothesized mechanism. We further explore mechanisms (e.g. managerial attention and risk awareness) underlying this relationship and document the role of the severity of environmental accidents. To policymakers, our results highlight that heightened risk exposure can motivate firms’ sustainability efforts even at non-offending firms which, if leveraged (e.g. through timely nudges), could mitigate future environmental accidents.</content>
-    <link href="https://doi.org/10.1177/10591478261484823"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261485796</id>
-    <title>Targeted service improvement for individualized providers</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Jindong Qin, Pan Zheng, Xiaojun Wang, Yusen Xia</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online reviews offer valuable insights for service improvement, especially with the increasing availability of multimodal data (e.g., text and images). However, most existing research has primarily focused on industry- or group-level analyses, often overlooking individual business contexts (e.g., performance and competition), the interaction effects between different service attributes, and the full potential of image information. This study fills these gaps by developing a novel multimodal framework that leverages machine learning and optimization theory to generate targeted service improvement recommendations for individual service providers. The three-stage framework begins with extracting and clustering aspect-opinion pairs from review texts and matching them with corresponding image features. Subsequently, we use a feature distribution smoothing-based Bayesian iterative algorithm to address biases from data imbalance and estimate attribute-level interaction effects. Finally, we construct an interaction effect network, propose a probability-based stepwise optimization algorithm, and integrate image features with large language models to generate specific and actionable recommendations for individual providers. Through a large-scale case study of hotel service improvement, we validate the effectiveness of the proposed framework and demonstrate enhanced predictive accuracy and management insights. A user study with practitioners showed that our method outperformed the best baseline by19.5%in practitioner satisfaction.</content>
-    <link href="https://doi.org/10.1177/10591478261485796"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261483354</id>
-    <title>A practical guide to causal inference in healthcare operations using single-world intervention graphs (SWIGs)</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Amy Louise Cochran, Sebastian Alejandro Alvarez-Avendaño, Fernando Acosta-Perez, Keith Eric Kocher, Brian William Patterson, Gabriel Zayas-Cabán</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Observational studies in operations management (OM) increasingly guide managerial, clinical, and policy decisions in healthcare. To strengthen their rigor, empirical OM research has turned toward causal inference. However, reliably attributing specific effects to interventions using observational data remains challenging. This tutorial describes a causal inference approach for healthcare OM, centered on single-world intervention graphs, which unify the potential outcomes and do-calculus frameworks. We emphasize constructing precise causal questions and determining when causal effects can be identified from observed variables. We present a detailed case study examining whether a longer treatment time in the emergency department can reduce unnecessary admissions without adversely affecting downstream patient outcomes. The example shows what applying the proposed framework looks like in practice, from defining causal questions and encoding assumptions graphically to walking through the identification process, thereby illustrating how structured causal reasoning can inform healthcare OM.</content>
-    <link href="https://doi.org/10.1177/10591478261483354"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70147</id>
-    <title>State De‐Orchestration of Corporate Social Responsibility: The Backlash against
-                    &lt;scp&gt;CSR&lt;/scp&gt;
-                    in Brazil under the Bolsonaro Government</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Alan Brejnholt, Jukka Rintamäki, Gerhard Schnyder</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Governments have become increasingly active players in corporate social responsibility (CSR), with many countries adopting more stringent regulations for firms to pursue goals not limited to profit‐making. However, more recently, some jurisdictions have seen a backlash against CSR, which implies that the state's role in CSR is reversing from facilitating, encouraging, and mandating to prohibiting or undermining CSR. We study one such case of backlash against CSR in Bolsonaro's Brazil. We introduce the concept ofstate de‐orchestrationto capture the reversal of the government's role in CSR in Brazil. We contribute to processual perspectives on state‐business interactions, the government and CSR literature, and the orchestration literature, by identifying the mechanisms by which the state loosens the constraints on and support for firms to pursue public good objectives. We also contribute to the government and CSR literature by demonstrating and theorising the impact de‐orchestration has on corporate discretion. We argue that corporate discretion needs to be conceived as both thelibertyto adopt or not adopt CSR practices and theabilityto do so. We further show that for some firms, domestic de‐orchestration may impair the exercise of corporate discretion, particularly among those exposed to pressures stemming from transnational CSR norms.</content>
-    <link href="https://doi.org/10.1111/joms.70147"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261480612</id>
-    <title>The Networks of Others: A Model of Secondhand Brokerage and its Effects on Employee Innovation</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Rohit S. Piplani, Travis J. Grosser</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Social network research on creativity and innovation has primarily focused on the focal employee (i.e., ego), implicitly assuming that ego’s own network position determines the resources available for creative work. We advance an alter-centric perspective, arguing that what matters is not merely the availability of diverse information but the capacity of network contacts (i.e., alters) to make it usable. The brokerage characteristics of ego’s alters (i.e., secondhand brokerage) are decisive in that alters who are brokers are likely to have both valuable non-redundant information and the capability to convey it effectively. Prior work treating secondhand brokerage as a monolithic construct has yielded equivocal results; we reconcile these findings by decomposing it into distinct forms and matching each to the demands of a specific phase of the innovation process (i.e., idea generation, idea elaboration, idea championing, and idea implementation). We theorize that external secondhand brokerage facilitates idea generation, internal secondhand brokerage facilitates idea elaboration, internal alters’ network oscillation facilitates idea championing, and external alters’ network oscillation facilitates idea implementation, with ego’s knowledge integration capability, psychological ownership, organizational status, professional status, and tie strength serving as phase-specific and cross-phase boundary conditions. In doing so, we also challenge the prevailing view of brokers as default opportunists, specifying when cooperation, rather than opportunism, is the more rational strategy. By integrating the social network and innovation literatures, our framework clarifies how, when, and why the networks of others shape ego’s success across the innovation process.</content>
-    <link href="https://doi.org/10.1177/01492063261480612"/>
-    <category term="Journal of Management"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/jcr/ucag036</id>
-    <title>Consumer Responsibilization Work: The Everyday Making of Responsible Subjects</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Cristiano Smaniotto, Julie Emontspool</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;How do consumers make themselves responsible for social change? Consumer responsibilization refers to the institutional shaping of individuals into responsible subjects tasked with driving social change through market participation. Prior research shows that responsibilization generates tensions for consumers but says less about how they work through these tensions to craft responsible subjectivities. Drawing on a multi-sited ethnography of zero-waste lifestyles in Denmark, this study examines consumers’ efforts to act responsibly amid uncertainty, balance personal well-being with the common good, and promote responsible consumption without appearing judgmental. The analysis reveals that consumers address these tensions through consumer responsibilization work—a threefold process of self-problematization, moralization, and intensification. Consumers enact this process through self-techniques that enable them to scrutinize the adequacy of their conduct, interpret consumption as a moral obligation, and strengthen their commitment to a responsible lifestyle. These self-techniques draw on local understandings of responsibility and are sustained through mundane interactions in which consumers hold themselves and one another accountable. The findings shift attention from institutional responsibilization to the culturally situated self-techniques through which consumers enact it in everyday life. They thereby recast responsibilization as a technical, situated, and relational process that reproduces neoliberal governmentality through consumer lifestyles.</content>
-    <link href="https://doi.org/10.1093/jcr/ucag036"/>
-    <category term="Journal of Consumer Research"/>
-    <published>2026-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261470045</id>
-    <title>Are All Patents Equal? How Patent Attributes Shape Market Reactions to Family and Nonfamily Firm Innovation</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
-    <author>
-      <name>Kimberly A. Eddleston, Francesco Chirico, Pankaj C. Patel</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Integrating family firm innovation research with signaling theory, we develop a framework explaining market reactions to patents granted to family versus nonfamily firms. Using a U.S. dataset of 52,241 patents from 2014 to 2018, we find the stock market reacts more positively to patents granted to family firms than nonfamily firms. We then examine reactions to radical versus incremental patents. Patents reflecting radical innovation, measured by novelty and pedigree, create greater market value for family firms than nonfamily firms, although the pedigree effect is only marginally significant. By contrast, patents reflecting incremental innovation, measured by temporal depth, have little effect on nonfamily firms’ market value but reduce family firms’ market value.</content>
-    <link href="https://doi.org/10.1177/10422587261470045"/>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study proposes a way to reconcile the beauty premium and beauty-is-beastly arguments by suggesting that founder appearance is processed through two separable and countervailing channels: perceived legitimacy and perceived distinctiveness. We further theorize that in startups, the relationship is gendered, because women do not fit the entrepreneurial prototype, limiting their perceived legitimacy. A field study of 359 founders supports our theorizing that male founders are evaluated best when moderately attractive, while female founders see no significant attractiveness effects. A preregistered experiment with 771 participants, using AI-manipulated attractiveness, does not confirm these patterns but supports our theorizing about both mediators.</content>
+    <link href="https://doi.org/10.1177/10422587261485961"/>
     <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-09-07T00:00:00+00:00</published>
+    <published>2026-09-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1177/00018392261473620</id>
-    <title>Legitimizing the Regulatory State: How Institutional Intermediaries Facilitate Inclusive and Effective Co-creation in Emerging Economies</title>
-    <updated>2026-09-07T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/00018392261477694</id>
+    <title>“Clean” Meat? Regulatory Entrepreneurship and Jurisdictional Contestation in a Nascent Industry</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
     <author>
-      <name>Allen Hicken, Edmund J. Malesky, Songkhun “Sunny” Nillasithanukroh, Markus Taussig</name>
+      <name>Cheng Gao, Alicia DeSantola, Nina Guilbeault</name>
     </author>
-    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;Theory indicates that inclusive regulatory co-creation between firms and their governments activates a procedural justice mechanism that improves firms’ views of state legitimacy and leads to rules that better fit the full spectrum of real-world operating conditions. Emerging economies, however, face what we argue is a legitimacy–co-creation paradox: Widely held baseline views of government as corrupt and captured by elite interests lead many firms to balk at engaging with the state, thereby impeding opportunities for mutually beneficial co-creation. To address this challenge, we pilot and test the impact of a third-party intervention that we name the RegRoom, wherein an expert helps firms refine their comments on draft regulation before submitting them and, in so doing, increases the firms’ understanding of the regulation’s public purpose. We hypothesize and find evidence through a field experiment in Thailand that this institutional intermediation improves firms’ perceptions of state legitimacy and observable engagement in regulatory co-creation. Further exploration of our data leads us to theorize a sequence by which institutional intermediaries overcome the legitimacy–co-creation paradox; specifically, legitimacy deficits need to be addressed before capability enhancement can occur. Our study shows how institutional intermediaries can contribute to the expansion of fairer and more-sustainable markets.</content>
-    <link href="https://doi.org/10.1177/00018392261473620"/>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;In nascent industries, uncertainty about which regulatory agency has jurisdiction is often a major challenge for pioneering ventures. Yet, much of the literature on new ventures’ nonmarket strategy takes for granted the existence of a designated regulator. How do ventures manage regulatory jurisdictional uncertainty? We conduct an inductive, multi-case research study on how entrepreneurial organizations pioneering the nascent cell-cultivated-meat industry navigated such uncertainty in the United States between 2015 and 2019. Drawing on extensive semi-structured interviews and archival data, we uncover stratagems and processes that organizations employ across three phases of regulatory jurisdictional uncertainty: jurisdictional void, contestation, and convergence. Our resulting theoretical framework distinguishes two overarching strategies—complementaryandoppositional—and unpacks their underlying mechanisms, theorizing how they enable organizations to influence jurisdictional uncertainty. Our study uniquely elucidates the rich dynamics among the disparate actors that compose nascent technology-enabled industries: new ventures, nonprofits, incumbents, investors, and regulators. More broadly, it provides a fresh perspective on how entrepreneurial organizations shape the regulatory architecture of the industries they are striving to create.</content>
+    <link href="https://doi.org/10.1177/00018392261477694"/>
     <category term="Administrative Science Quarterly"/>
-    <published>2026-09-07T00:00:00+00:00</published>
+    <published>2026-09-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/orsc.2024.19440</id>
