@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-09-28T12:42:46.461613+00:00</updated>
+  <updated>2026-09-29T12:42:50.710232+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -323,7 +323,7 @@
     <author>
       <name>Adrien Auclert, Hannes Malmberg, Frédéric Martenet, Matthew Rognlie</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We use a sufficient statistic approach to quantify the general equilibrium effects of population aging on the returns to wealth, wealth accumulation, and global imbalances. Combining population forecasts with household survey data from 25 countries, we measure the compositional effect of aging: how a changing age distribution affects wealth-to-GDP, holding the age profiles of wealth and labor income fixed. In a baseline overlapping generations model this statistic, in conjunction with cross-sectional information and two standard macro parameters, pins down general equilibrium outcomes. Since the compositional effect is positive, large, and heterogeneous across countries, our model predicts that population aging will lower returns to wealth, increase wealth-to-GDP ratios, and widen global imbalances through the twenty-first century. These conclusions extend to a richer model in which bequests, individual savings, and the tax-and-transfer system all respond to demographic change.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We use a sufficient statistic approach to quantify the general equilibrium effects of population ageing on the returns to wealth, wealth accumulation, and global imbalances. Combining population forecasts with household survey data from twenty-five countries, we measure the compositional effect of ageing: how a changing age distribution affects wealth-to-GDP, holding the age profiles of wealth and labour income fixed. In a baseline overlapping generations model this statistic, in conjunction with cross-sectional information and two standard macro parameters, pins down general equilibrium outcomes. Since the compositional effect is positive, large, and heterogeneous across countries, our model predicts that population ageing will lower returns to wealth, increase wealth-to-GDP ratios, and widen global imbalances through the twenty-first century. These conclusions extend to a richer model in which bequests, individual savings, and the tax-and-transfer system all respond to demographic change.</content>
     <link href="https://doi.org/10.1093/restud/rdag103"/>
     <category term="Review of Economic Studies"/>
     <published>2026-09-16T00:00:00+00:00</published>
@@ -354,12 +354,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261491419</id>
-    <title>EXPRESS: To Cooperate or Not? A Finite-Capacity Manufacturer’s Decision to Enter the Sharing Market</title>
+    <title>To cooperate or not? A finite-capacity manufacturer’s decision to enter the sharing market</title>
     <updated>2026-09-16T00:00:00+00:00</updated>
     <author>
       <name>Kangning Jin, Ying-Ju Chen, Yong-Wu Zhou, Xiaogang Lin</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Recently, more manufacturers have embraced peer-to-peer product sharing by complementing their traditional sales channels with direct cooperation with sharing platforms to supply products for rental. Unlike prior studies, this paper considers a manufacturer withfinite production capacityand investigates whether and under what conditions it chooses to cooperate with a sharing platform, as well as how such cooperation affects capacity utilization. We find that cooperation may arise under both high and low capacity regimes, but for fundamentally different reasons. When the commission rate is high, cooperation is driven by scarcity monetization: the manufacturer cooperates when either marginal production cost is high or capacity is limited, as product scarcity can be sustained and sharing-channel revenue is substantial. When the commission rate is low, cooperation becomes a capacity-utilization strategy and occurs only when marginal production cost is low and capacity is sufficiently large, so that the benefit from absorbing idle capacity outweighs sales cannibalization. We further show that cooperation does not necessarily increase the selling price or reduce the rental price, as pricing and allocation responses depend critically on the commission environment. Finally, cooperation is not a universal remedy for capacity waste. It improves capacity utilization only when the sharing channel effectively absorbs excess capacity under a low commission rate. In contrast, when cooperation is driven by scarcity preservation under a high commission rate, its ability to reduce idle capacity is limited. Moreover, the per-unit idle cost plays an asymmetric role: it discourages cooperation under scarcity-driven regimes but encourages cooperation under capacity-utilization regimes.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Recently, more manufacturers have embraced peer-to-peer product sharing by complementing their traditional sales channels with direct cooperation with sharing platforms to supply products for rental. Unlike prior studies, this article considers a manufacturer withfinite production capacityand investigates whether and under what conditions it chooses to cooperate with a sharing platform, as well as how such cooperation affects capacity utilization. We find that cooperation may arise under both high and low capacity regimes, but for fundamentally different reasons. When the commission rate is high, cooperation is driven by scarcity monetization: the manufacturer cooperates when either marginal production cost is high or capacity is limited, as product scarcity can be sustained and sharing-channel revenue is substantial. When the commission rate is low, cooperation becomes a capacity-utilization strategy and occurs only when marginal production cost is low and capacity is sufficiently large, so that the benefit from absorbing idle capacity outweighs sales cannibalization. We further show that cooperation does not necessarily increase the selling price or reduce the rental price, as pricing and allocation responses depend critically on the commission environment. Finally, cooperation is not a universal remedy for capacity waste. It improves capacity utilization only when the sharing channel effectively absorbs excess capacity under a low commission rate. In contrast, when cooperation is driven by scarcity preservation under a high commission rate, its ability to reduce idle capacity is limited. Moreover, the per-unit idle cost plays an asymmetric role: it discourages cooperation under scarcity-driven regimes but encourages cooperation under capacity-utilization regimes.</content>
     <link href="https://doi.org/10.1177/10591478261491419"/>
     <category term="Production and Operations Management"/>
     <published>2026-09-16T00:00:00+00:00</published>
@@ -378,12 +378,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261490953</id>
-    <title>EXPRESS: Let Clickstream Talk: A Graph Neural Network Approach to Sales Forecasting</title>
+    <title>Let clickstream talk: A graph neural network approach to sales forecasting</title>
     <updated>2026-09-16T00:00:00+00:00</updated>
     <author>
       <name>Rong Liu, Zihan Chen, Denghui Zhang, Feng Mai, Xuying Zhao</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper proposes ForecastClickGraph, a deep learning framework that extracts cross-product relationships and demand information from clickstream data for probabilistic sales forecasting. ForecastClickGraph models stages in consumer shopping journeys as a dynamic graph, where nodes represent individual product-stage combinations, such as product A viewed or added to cart, and directed edges capture the transitions between stages. A customized graph neural network learns product representations that incorporate both product-level temporal patterns and cross-product associations. Another graph-based module further detects demand spikes using early signals from related products. ForecastClickGraph cross-learns demand patterns across large-scale products and estimates demand distributions through quantile regression. Extensive experiments on a real-world dataset show that ForecastClickGraph outperforms state-of-the-art benchmark models by 10-28% in forecast accuracy, with particularly strong performance in predicting promotional sales bursts. It also yields superior probabilistic forecasts with substantially lower quantile loss and improved calibration relative to benchmarks.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This article proposes ForecastClickGraph, a deep learning framework that extracts cross-product relationships and demand information from clickstream data for probabilistic sales forecasting. ForecastClickGraph models stages in consumer shopping journeys as a dynamic graph, where nodes represent individual product-stage combinations, such as product A viewed or added to cart, and directed edges capture the transitions between stages. A customized graph neural network learns product representations that incorporate both product-level temporal patterns and cross-product associations. Another graph-based module further detects demand spikes using early signals from related products. ForecastClickGraph cross-learns demand patterns across large-scale products and estimates demand distributions through quantile regression. Extensive experiments on a real-world dataset show that ForecastClickGraph outperforms state-of-the-art benchmark models by 10%–28% in forecast accuracy, with particularly strong performance in predicting promotional sales bursts. It also yields superior probabilistic forecasts with substantially lower quantile loss and improved calibration relative to the benchmarks.</content>
     <link href="https://doi.org/10.1177/10591478261490953"/>
     <category term="Production and Operations Management"/>
     <published>2026-09-16T00:00:00+00:00</published>
@@ -1469,6 +1469,174 @@
     <published>2026-09-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/sej.70048</id>
+    <title>Startup multihoming in enterprise software ecosystems: The role of skill breadth and organizational learning</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Vijayaraghavan Venkataraman, Marco Ceccagnoli, Chris Forman</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;We investigate startup decisions to multihome to another platform. We develop a theory that shows startup engagement with the initial platform leads first to exploratory learning and later a shift toward exploitation, leading to an inverted U‐shape relationship between duration of platform partnership and the likelihood of multihoming. This tradeoff is shaped by the breadth of the startup's skill base. Startups with a broader set of skills initially face slower learning, but over time skill breadth provides greater adaptability that better positions them for multihoming. We test our theory using a novel dataset on SAP partners' multihoming decisions, examining the implications of Oracle acquisitions that increased the expected benefits of multihoming. Our empirical findings are consistent with our hypotheses.Managerial SummaryThe growth phase forms an important part of any startup's evolution, particularly when engaging with digital platform ecosystems, where expansion often depends on the ability to multihome. Startups' accumulated experience with a platform shapes how they respond when opportunities to expand to another platform arise. Startups with moderate levels of prior platform experience are most likely to expand, while longer relationships can create dependencies that reduce flexibility. Importantly, the breadth of a startup's skill base changes this trajectory. Startups with diverse skills are better able to avoid lock‐in and remain flexible, even after long partnerships. Evidence from the enterprise software ecosystem shows managers should see platform partnerships as both opportunity and risk, investing in broad skill sets to balance deep collaboration with the ability to grow across platforms.</content>
+    <link href="https://doi.org/10.1002/sej.70048"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261495686</id>
+    <title>EXPRESS: The Role of Post-Purchase Communications on Product Returns and Downstream Consequences in Online Apparel Retail</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Punya Chatterjee, Susana Jaramillo, Ganga S. Urumutta Hewage, Gretchen R. Ross</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The expansion of online apparel retail has introduced a persistent challenge: subtle mismatches between consumer expectations about a product and the reality—particularly regarding attributes like color or texture—often leading to dissatisfaction and costly returns. While prior research has primarily focused on pre-purchase solutions such as virtual try-ons or detailed product descriptions, these tactics are not always effective and are often inaccessible to small- and medium-sized apparel sellers—who comprise the vast majority of firms in the apparel sector—due to resource constraints. In this paper, we explore a low-cost alternative: strategic post-purchase messaging—seller-initiated communications designed to reassure consumers of the product’s quality, acknowledge potential concerns that the product may not be as expected, explain potential discrepancies, and offer recovery strategies and additional product-related guidance after a purchase is complete. Across three empirical studies we find that when consumers experience minor expectation-reality gaps, post-purchase messages sent at the time of delivery can reduce product return intentions and enhance positive downstream consequences, including, satisfaction, word-of-mouth, and repurchase intentions. A follow-up mixed-method survey conducted with small- and medium-sized online sellers supports the empirical findings that sending such messages is logistically and financially feasible. We identify perceived seller trustworthiness as the psychological mechanism driving this effect. Product reputation (based on consumer reviews) and post-purchase message content are explored as two theoretically derived moderators of the effect. Our findings make theoretical contributions and offer practical guidance—particularly for small- and medium-sized online apparel sellers seeking scalable, cost-friendly ways to manage product mismatches and strengthen consumer engagement in the absence of high product reputation.</content>
+    <link href="https://doi.org/10.1177/10591478261495686"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261495695</id>
+    <title>EXPRESS: Agile Approaches for Gaming Software Development</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Joohyun Kim, Monica Johar, Vijay Mookerjee</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online games increasingly operate as continuously evolving live services enabled by agile and CI/CD-based development. In such environments, release timing is no longer a downstream scheduling choice but an operational control variable that interacts directly with functionality growth, error accumulation, and system complexity. This paper develops a multi-release optimal control framework that endogenizes release timing and user-facing value. Extending the functionality and error dynamics structure of Ji et al. (2005), we embed repeated release decisions directly into the development process and characterize how construction effort, debugging effort, and cadence jointly determine long-run value creation. Within this framework, we analyze two structured release regimes widely observed in practice: a time-based release policy, with fixed sprint duration, and a functionality-based release policy, with fixed feature scope. We show that incremental release value declines endogenously as integration complexity increases. Under time-based policies, the number of new features delivered per release decreases over time. Under functionality-based policies, maintaining fixed feature bundles requires progressively longer development intervals. In both regimes, effort shifts systematically from construction toward debugging as the system matures. We further introduce a hybrid release policy as a supplementary benchmark, allowing the firm to switch between time-based and functionality-based policies subject to a switching cost. This benchmark identifies conditions under which policy flexibility improves release performance while preserving the operational structure of the two release regimes. The results provide an operations-based theory of release cadence under endogenous complexity growth in software systems with repeated deployment.</content>
+    <link href="https://doi.org/10.1177/10591478261495695"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261495674</id>
+    <title>EXPRESS: Learning to Price under Competition with Reference Price Effects</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Yongge Yang, Jiannan Ke, Cong Shi</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper studies the algorithmic design of price competition in oligopolistic markets, with a focus on long-run market dynamics under reference price effects. We consider a sequential price competition framework with multiple sellers operating over a finite horizon, each lacking prior knowledge of the demand functions. Consumer demand depends not only on current prices but also on a reference price, defined as a weighted average of past prices that shapes consumer expectations. We characterize market stability through the concept of a stationary Nash equilibrium (SNE), where no seller has an incentive to deviate unilaterally and the reference price remains stable. To operate under incomplete demand information and limited observability of competitors' prices, we propose a Simultaneous Perturbation Stochastic Approximation with Callbacks (SPSAC) policy. Despite the lack of a monotonicity condition, which is typically required for convergence in online games, we show that this policy achieves a last-iterate convergence rate ofO(1/T)for both prices and reference prices toward the SNE, along with a dynamic regret ofO(T)overTperiods. We further consider three extensions. In the first extension, when sellers have access to first-order feedback, the convergence rate improves toO(1/T), highlighting the value of demand information in simplifying sequential price competition. In the second extension, where prices have long-term effects on the reference price and demand evolves as a nonstationary stochastic process, and in the third extension, where each seller maintains its own reference price, our policy continues to guaranteeO(1/T)convergence andO(T)dynamic regret.</content>
+    <link href="https://doi.org/10.1177/10591478261495674"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.2478</id>
+    <title>Subsidised Proportionality in Fair Allocation</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Xiaowei Wu, Cong Zhang, Shengwei Zhou</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;The Price of a Fair ShareImagine dividing a limited set of resources among a group of people. When the items cannot be split, even a carefully chosen allocation may leave someone feeling shortchanged. One practical response is to offer compensation, but then a new question arises: how much money is enough? This paper develops ways to make such allocations fair while keeping the total compensation as small as possible. It identifies the exact worst-case cost when everyone has the same claim and provides strong guarantees when claims differ. The approach works for both desirable resources and burdensome tasks. The findings appear in the forthcoming Operations Research paper, “Subsidised Proportionality in Fair Allocation,” by Xiaowei Wu, Cong Zhang, and Shengwei Zhou.</content>
+    <link href="https://doi.org/10.1287/opre.2025.2478"/>
+    <category term="Operations Research"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2022.0630</id>
+    <title>In Which Matching Markets Do Costly Compatibility Inspections Lead to a Deadlock?</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Nicole Immorlica, Yash Kanoria, Jiaqi Lu</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;When Learning About a Match Stalls the MarketIn many matching markets, participants must investigate whether a match is feasible. When inspection is costly, participants may delay investigating a potential match until both sides have effectively committed. Such caution can cause each side to wait for others to act, creating an “information deadlock.” In their article, “In Which Matching Markets Do Costly Compatibility Inspections Lead to a Deadlock?” Immorlica, Kanoria, and Lu study this problem in random two-sided markets. They characterize how deadlock depends on the market balance, market connectivity, and the chance that inspections succeed. Using statistical physics tools, their analysis identifies phase transitions between deadlock-free and deadlocked markets. The findings offer design guidance: More choice is not always better; match rates are highest at the deadlock phase boundary; and parallel inspections and clearer participant differentiation can reduce the extent to which waiting chains stall the market.</content>
+    <link href="https://doi.org/10.1287/opre.2022.0630"/>
+    <category term="Operations Research"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07339</id>
+    <title>How Awareness of Media Slant Affects Reaction to News: Field and Experimental Evidence from Microblog Users</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Yihong Huang, Juanjuan Meng, Xi Weng</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper investigates whether news consumers react strategically to media slant. Using data from Microblog users and an online experiment that varies whether sources and stances are disclosed, we find that users are more likely to repost news consistent with their own attitudes, yet they also exhibit a higher propensity to repost news inconsistent with the reporting outlet’s general stance. Evidence suggests that this latter behavior reflects strategic inference: users recognize the outlet’s tradeoff between popularity and stance, and thus infer greater popularity for inconsistent news. Heterogeneity analysis indicates that users with stronger Bayesian updating and level-k reasoning abilities display larger strategic reactions. Finally, we show that simply reminding users of media slant can serve as an effective nudge to foster more strategic responses.This paper was accepted by John Beshears, behavioral economics and decision analysis.Funding: This work was supported by National Natural Science Foundation of China [Grants 72225002, 72394393, 72225001, 72192843, 72531001].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07339 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07339"/>
+    <category term="Management Science"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.02137</id>
+    <title>Who Directs the Control Tower? Customer vs. Supplier-Managed Inventory in Supply Chains</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Shi Chen, Morris A. Cohen, Hau L. Lee</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Information distortion and incentive misalignment often undermine supply chain performance. In response, many firms adopt a “control tower” approach, whereby one party assumes responsibility for replenishment decisions across the supply chain. Industry examples showed that this role may be assigned to the customer, Customer-Managed Inventory (CMI), or to the supplier, Supplier-Managed Inventory (SMI). This paper investigates when one governance structure is preferable. We study a two-echelon, one-to-many supply chain consisting of a single supplier and a customer operating multiple warehouses. We characterize optimal base-stock policies and equilibrium holding-cost-sharing parameters under CMI and SMI and benchmark them against decentralized operations and a fully centralized system. Two primary forces shape the choice between CMI and SMI: the relative shortage penalty costs of the two parties and the structure of the customer’s distribution network. Specifically, CMI is preferred when the customer faces relatively higher shortage penalties and operates in a more asymmetric environment—for example, when demand is concentrated in a subset of its warehouses or when replenishment lead times vary substantially across these locations. In contrast, SMI is favored under opposite conditions. We further examine how intertemporal and interspatial demand correlations affect this comparison. A key finding is that, although neither CMI nor SMI achieves the first-best outcome, their efficiency loss relative to full centralization is typically small. Calibrated numerical studies based on four industry cases disentangle the incremental value of information sharing, decision-right transfer, and cost sharing, showing that most performance gains stem from decision-right transfer supported by appropriate holding-cost sharing.This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02137 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.02137"/>
+    <category term="Management Science"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261496232</id>
+    <title>EXPRESS: The Double-Edged Offline Touchpoint: How Self-Pickup Stations Reshape Pure-Play E-Commerce Transactions</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Jingcun Cao, Zhiqi Li, Chenxi Liao, Ying Xie</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Click-and-collect services through self-pickup stations have gained popularity as an alternative to traditional home delivery in e-commerce. This fulfillment option can increase customer purchases by enhancing post-purchase convenience and reducing transaction costs. However, increased hassle costs for customers and exposure to offline competition make the net impact uncertain. This study utilizes a Synthetic Difference-in-Differences (SDID) approach to analyze individual-level transaction data from an online shopping platform in Asia. Self-pickup station openings are found to have a positive net effect on customer spending and shopping frequency on the platform, without cannibalizing home delivery. A closer examination of customer dynamics reveals that station openings stabilize the platform’s user base by reducing customer churn and deepening engagement among existing shoppers, rather than driving new user acquisition. Furthermore, these positive effects are moderated by: station accessibility, level of nearby offline competition, and product attributes. Specifically, this paper provides the first empirical evidence that the positive effect of pickup stations can be reduced, if platforms locate them close to major offline retail alternatives. These findings provide important implications for e-commerce platforms regarding self-pickup station benefits, product suitability, and location strategy to reduce the risk of customer loss to offline retailers.</content>
+    <link href="https://doi.org/10.1177/00222429261496232"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70167</id>
+    <title>Between Play and Reason: Integrating Sensible Foolishness Into Strategy‐Making Workshops</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Rebecca Lu, Gary T. Burke, Omid Omidvar, David J. Carrington</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Sensible foolishness through play can offer a valuable escape from prevailing dogmas and rational models of intelligence, affording actors freedom to explore, imagine, and create without constraint. Yet the value of sensible foolishness, and the vital interplay between play and reason, remains underexplored in strategy scholarship. Drawing on a qualitative experimental study of three SMEs, we examine how high‐stakes strategic challenges can be addressed through sensible foolishness. Our analysis shows how the interplay between play and reason gains generative momentum during strategy‐making workshops, as actors co‐create playful atmospheres and shift into more expressive, embodied ways of being. We identify three transitional modes –deliberate,dialectical, anddwelling– through which actors integrate play and reason and co‐produce moments of strategic insight and value. We develop a process theory of integrating sensible foolishness into strategy‐making, showing how attuned facilitation and atmospheric shifts enable its enactment as a collective, affectively sustained mode of strategizing. This extends debates in strategy and serious play scholarship by advancing a practice‐based view of sensible foolishness as a complementary instrument of collective strategic intelligence.</content>
+    <link href="https://doi.org/10.1111/joms.70167"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-026-00907-1</id>
+    <title>Commentary on Han et al.’s meta-analytic work on high-investment human resource practices: through the 3P lens for workforce management</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Riki Takeuchi, He Huang, April Ye Zhou, Hwayoung Kim, Zelu Zhang</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Han, Kang, Allen and Pan’s (2026) meta-analysis integrates human capital resources (HCR) theory and institutional theory to examine how educational systems and labor market institutions jointly influence the effectiveness of high-investment human resource practices (HIHRPs). Contrary to their theoretical prediction, low–low educational system and labor market configurations relate to firm performance as positively as high–high configurations do, and that puzzle remains unresolved. This combination describes the institutional profile of many host economies, which makes it an international business problem: should multinational enterprises transfer their HIHRPs abroad or adapt to local practice? This commentary outlines substitution effects, drawn from the institutional voids literature and organizational support theory, as an alternative mechanism that may better account for its effect. We reflect that theoretical parsimony, while elegant, could oversimplify and obscure complex phenomena that span multiple levels of analysis, the types of topics that strategic international human resource management (SIHRM) aims to research. We then propose a people–places–practices (3P) lens to note the theoretical directions Han et al.’s work addresses and those it leaves for future work. The commentary illustrates how deliberate theory integration, guided by the specific research question and institutional context, can enhance explanatory power in SIHRM research.</content>
+    <link href="https://doi.org/10.1057/s41267-026-00907-1"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70088</id>
+    <title>An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>CHRISTOPHER J. PALMER</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;I develop a control function methodology robust to endogenous or mismeasured regressors in hazard models. Applying the estimator to the subprime mortgage crisis, I quantify what caused the foreclosure rate to triple across the 2003 to 2007 subprime cohorts. To identify the elasticity of default to housing prices, I use various home price instruments including historical variation in home price cyclicality. Loose credit played a significant role in the crisis, but much of the increase in defaults across cohorts was caused by price declines unrelated to lending standards, with a 10% price decline increasing subprime mortgage default rates by 50%.</content>
+    <link href="https://doi.org/10.1111/jofi.70088"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70089</id>
+    <title>Partisanship, Information, and Punishment for Misconduct at Work</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>VIVEK PANDEY, JOANNA S. WU, YUANZHE ZHANG</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We examine whether firms apply partisan standards when responding to employee financial misconduct. Using detailed individual‐level data on financial advisers, we find that advisers who are in the political minority at their firm (political minority advisers) are no different from their colleagues at the same firm and time in the incidence and severity of misconduct, yet following misconduct, they are significantly more likely to depart—a pattern we term “partisan punishment standards.” This pattern is especially pronounced at firms with lower internal information quality (IIQ), proxied with (1) lower external reporting quality (for public firms only), (2) private firms (relative to public firms), and (3) not hiring an independent public accountant to create an internal control report (for both public and private firms). We also document “partisan reporting standards”: Firms are more likely to publicly disclose misconduct by political minority advisers while remaining relatively silent in other cases. Firms that exhibit partisan punishment practices subsequently experience slower growth.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70089"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587261485969</id>
+    <title>How Can We Research Social Mobility in Entrepreneurship?</title>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+    <author>
+      <name>Elsa T. Chan, Steven A. Brieger, Ngoc Luu, Marii Paskov, Mirela Xheneti</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Social mobility is a central concern in contemporary societies, yet its dynamics within entrepreneurship remain insufficiently understood. This paper’s purpose is to facilitate research on entrepreneurial social mobility by making three key contributions: first, we examine the distinct conceptual and methodological challenges related to capturing social mobility in entrepreneurship and provide strategies for solving them; second, we introduce multidimensional social mobility measures that move beyond the predominant focus on income-based metrics in existing quantitative research; third, we demonstrate how alternative quantitative and qualitative methods can produce more holistic evidence for understanding social mobility among entrepreneurs.</content>
+    <link href="https://doi.org/10.1177/10422587261485969"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-09-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10422587261485961</id>
     <title>Appearance-Based Legitimate Distinctiveness: Founder Attractiveness, Gender, and Venture Evaluations</title>
     <updated>2026-09-28T00:00:00+00:00</updated>
@@ -1493,64 +1661,28 @@
     <published>2026-09-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19440</id>
-    <title>Social Performance Feedback and Managerial Moral Self-Regulation: The Microfoundations of Corporate Social (Ir)Responsibility</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1017/s0022109026103172</id>
+    <title>Flow Diversification</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
     <author>
-      <name>Benjamin G. Perkins, Yilin Liu, Songcui Hu, Cuili Qian, Sarah Doyle</name>
+      <name>Sunil Wahal, Albert Y. Wang</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Despite growing interest in the microfoundations of corporate social activities, prior research has not articulated the full chain connecting firm-level conditions to managers’ psychological processes (a top-down pathway) and back to firm-level corporate social behavior (a bottom-up pathway), leaving existing microfoundational accounts incomplete. Drawing on the behavioral theory of the firm and moral self-regulation theory, we develop a crosslevel moral feedback model that integrates both pathways by linking firm-level social performance feedback, individual-level managerial cognition, and firm-level corporate social responsibility (CSR) and corporate social irresponsibility (CSI). We argue that social performance feedback activates managers’ moral self-regulation. When a firm falls below its social performance aspiration, its managers perceive a diminished firm image, which undermines their moral self-image and triggers moral cleansing behaviors—manifested as increased CSR and/or reduced CSI. Conversely, when a firm exceeds its social performance aspiration, its managers perceive an enhanced firm image, which elevates their moral self-image and activates moral licensing behaviors—manifested as reduced CSR and/or increased CSI. Study 1 uses archival data to examine the main effects of firms’ social performance feedback on CSR and CSI. Study 2 uses a series of experiments to examine the proposed microlevel mechanisms, demonstrating how managers’ perceived firm image and moral self-image sequentially mediate the effects of social performance feedback on CSR and CSI. These studies provide complementary evidence for our multilevel behavioral model. Our study contributes to research on the microfoundations of corporate social activities, behavioral strategy, and moral self-regulation.Funding: The authors acknowledge financial support for this research from the University of Arizona’s Center for Leadership Ethics.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19440 .</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19440"/>
-    <category term="Organization Science"/>
-    <published>2026-09-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We measure flow diversification in mutual funds using the cross-sectional correlation of daily flows across investor clienteles. Greater flow diversification is associated with lower future flow volatility, smaller subsequent outflows, and lower cash holdings. We decompose flow correlation into predictable and unexpected components. Unexpectedly low flow correlation is associated with higher post-outflow fund returns, mitigating outflow-induced externalities on incumbent shareholders. Flow diversification also dampens the higher flow-performance sensitivity of illiquid funds, partially offsetting strategic complementarities that can generate fragility.</content>
+    <link href="https://doi.org/10.1017/s0022109026103172"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2025.20084</id>
-    <title>Fit to Print? How Political Bias Affects Media Coverage of Corporate Sociopolitical Activism</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/jcpy.70042</id>
+    <title>Growing sentimental value through object usage</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
     <author>
-      <name>Farhan Iqbal, Michael D. Pfarrer, Abhinav Gupta</name>
+      <name>Daniel M. Grossman, Ryan Rahinel, John Lancaster</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Organizational research has largely treated media coverage of firms as insulated from news outlets’ political biases, implicitly assuming that it provides a balanced representation of firm behaviors. However, increasing political polarization and firms’ growing involvement in social and political controversies challenge this assumption by creating greater scope for news outlets’ political orientations to shape business reporting. We explore this possibility by developing a two-stage framework that discerns news outlets’ attention (i.e., what firm behaviors they cover) from their tone (i.e., how they portray those behaviors). We argue that media organizations face two competing pressures: an incentive to cultivate ideological differentiation that appeals to readers and an incentive to maintain credibility that appeals to advertisers. We find that ideological congruence between a news outlet’s political orientation and a firm’s behavior increases the likelihood that the behavior receives coverage but does not influence the evaluative tone of that coverage—a pattern we term bias allocation. Supplemental analyses also reveal ideological asymmetries across left- and right-leaning outlets. We conclude by discussing the implications of our findings for research on the media, organizational political ideology, and strategic management.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2025.20084 .</content>
-    <link href="https://doi.org/10.1287/orsc.2025.20084"/>
-    <category term="Organization Science"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70156</id>
-    <title>Who Are You Hanging Out With? The Conditional Importance of Investment Managers’ Personal Reputation in the Formation of Venture Capital Syndication Ties</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <author>
-      <name>Massimo G. Colombo, Annalisa Croce, Elisa Ughetto</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;We examine how the two dimensions of VC managers' personal reputation, that is, ‘being known’ and ‘being known for quality’, jointly influence the formation of initial syndication ties. We propose that VC managers follow a two‐stage cognitive process. In the first stage, the ‘being known for quality’ dimension – a reflection of their abilities‐must enter their ‘consideration set’. The ‘being known’ dimension is crucial to draw attention to potential candidates. In the second stage, lead VC managers evaluate the signal conveyed by the ‘being known for quality’ dimension of prospective partners' reputation. The ‘being known’ dimension is also important at this stage, as it allows for a more accurate assessment of what is otherwise a noisy signal. We test our hypotheses on a pairwise dataset of 1686 realized and 14,395 counterfactual initial syndication ties between VC managers. We find that lead VC managers are more likely to form initial syndication ties with VC managers with similar reputations. This effect is stronger if they share a previous common employer, have a similar industrial or geographic investment focus, or work at VC firms that have previously syndicated one or more investments with each other or with the same VC firm.</content>
-    <link href="https://doi.org/10.1111/joms.70156"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/jcr/ucag035</id>
-    <title>Consumer Entrapment</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <author>
-      <name>Fredah G Mwiti, Maria G Piacentini, Andrew Pressey</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Why do consumers sometimes remain trapped in the very practices and communities that once helped them? Consumer practice research has largely emphasized the enabling outcomes of sustained practice participation, with less attention given to how those same practices can become entrapping. This article explores how consumer entrapment emerges within interconnected collective practices. Drawing on an ethnographic study of Chama, a community-based savings and support group in Kenya, it integrates practice theory with Hodder’s theory of entanglement. The study identifies three mechanisms (prefiguration, socialization, and entrenchment) through which participation generates commitments, dependencies, and obligations that produce recurring practice misalignments. Consumers continually work to realign these misalignments, yet under specific conditions, these efforts reproduce the contingencies that sustain participation while progressively deepening entrapment. The findings reveal a central tension: efforts to restore practice alignment can sustain what consumers value while simultaneously reproducing the interdependencies through which consumer entrapment emerges.</content>
-    <link href="https://doi.org/10.1093/jcr/ucag035"/>
-    <category term="Journal of Consumer Research"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2026.editorial.v37.n4</id>
-    <title>Computational Creativity in the AI Era: A Research Agenda for Information Systems</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <author>
-      <name>Min Ding, Ram Gopal, Ulrike Schultze, D. J. Wu</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This editorial presents computational creativity as a durable research program for Information Systems. Defining creativity as a structured, instrumentable, and improvable process of search, recombination, evaluation, and realization, we conceptualize computational creativity as being concerned with computational systems that model, simulate, enact, or augment the creative behavior of human creators. The five articles in this Special Issue show that the promise of computational systems—in particular, generative AI—lies in configuring human and machine agency so that creative work produces ideas and artifacts that are deemed creative—that is, novel and useful—while also safeguarding the generative, effortful, accountable, and socially meaningful nature of creativity. We translate these findings into an IS research agenda focused on process instrumentation, diversity-preserving design, agency-sensitive governance, organizational capability building for human-AI creative systems, and responsible computational creativity. The core challenge is to engineer the practices of computational creativity without forfeiting either the novelty or usefulness of the output, or human agency.</content>
-    <link href="https://doi.org/10.1287/isre.2026.editorial.v37.n4"/>
-    <category term="Information Systems Research"/>
-    <published>2026-09-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Consumers often protect their sentimentally valuable possessions by storing them away, which precludes them from being used. Across five studies, we show that usage of sentimentally valuable objects increases their sentimental value. Process evidence suggests one reason this happens: Repeatedly using a sentimentally valuable object makes the association held by the object (i.e., the source of its sentimental value) salient more frequently. This leads one to believe that such an association is more closely integrated into their self‐concept, which cyclically enhances the sentimental value of the object. We conclude by discussing the contribution of these findings to the literature, providing recommendations to marketers and consumers, and elaborating on directions for future research.</content>
+    <link href="https://doi.org/10.1002/jcpy.70042"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/opre.2025.1854</id>
