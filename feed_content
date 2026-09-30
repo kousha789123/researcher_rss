@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-09-29T12:42:50.710232+00:00</updated>
+  <updated>2026-09-30T12:42:22.484817+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1661,6 +1661,54 @@
     <published>2026-09-28T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/sej.70046</id>
+    <title>Logical reframing: A theory‐based view of entrepreneurial persuasion</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <author>
+      <name>Timo Ehrig, Jens Schmidt</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Prior literature that addresses how entrepreneurs systematically deal with Knightian uncertainty has primarily focused on individual entrepreneurs but has largely neglected that, to be successful, entrepreneurs must also persuade others of their view of the future. Uncertainty implies that others may initially have different and potentially conflicting framings of the future. In this article we offer a belief revision framework for persuasion under uncertainty based on the idea of logical reframing: using and communicating theories and what‐if beliefs that allow recipients to draw logical conclusions in line with the sender's view. Our propositions identify the trade‐offs the receiver has to make between contradictory explanations in her mind so she can be persuaded. The central insight from our framework concerns the role of filters, which are sets of beliefs that create resistance against an argument. Overall, our article contributes by taking the theory‐based view of entrepreneurship to a multi‐agent setting. We also continue the formalization of the theory‐based view, introducing ranking theory, which can be used to model how agents revise their beliefs, to the management literature.Managerial SummaryEntrepreneurs often need stakeholders to accept not only a proposed action but also a shared account of why that action can succeed under uncertainty. We develop a framework of logical reframing in which entrepreneurs use arguments to connect stakeholders’ existing beliefs to a desired conclusion. Persuasion requires a complete logical route to that conclusion, a theory whose weakest premise is sufficiently strong and can overcome any additional contradictions activated by the argument. We show that what‐if beliefs can prepare stakeholders to accept an argument but they can also generate resistance by connecting the argument to conflicting prior beliefs. Our framework helps entrepreneurs identify which assumptions require strengthening, which objections must be addressed, and when an alternative route to persuasion may be more effective.</content>
+    <link href="https://doi.org/10.1002/sej.70046"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.2265</id>
+    <title>Diffusion Approximation Error for Queueing Systems with General Primitives</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <author>
+      <name>Anton Braverman, Ziv Scully</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We investigate the steady-state diffusion-approximation error for continuous-time queueing systems with generally distributed primitives. A common picture emerges after analyzing a number of canonical systems: the error decomposes into interior and boundary terms. The former are simpler to handle and can be bounded using only low-order moments of the system’s primitives — when the approximation error is measured using the Wasserstein distance, three moments suffice. The boundary terms are inherently more delicate: while crude bounds are easy to obtain, sharper (e.g., order optimal) bounds require deeper, model specific, insights. Methodologically, we extend the generator comparison approach of Stein's method to piecewise-deterministic Markov processes (PDMPs). The discontinuous nature of the PDMP at jump times necessitates using the basic adjoint relationship (BAR), instead of the infinitesimal generator, to characterize the stationary distribution. A second-order Taylor expansion of the BAR’s jump terms, coupled with a Palm-inversion step that converts event-averaged quantities into time averages, yields the candidate diffusion generator and a transparent interior/boundary error decomposition. In parallel, we show how the prelimit generator approach — working with the Poisson equation of the queueing system instead of the diffusion process — offers a promising avenue for bounding the challenging boundary terms.</content>
+    <link href="https://doi.org/10.1287/opre.2025.2265"/>
+    <category term="Operations Research"/>
+    <published>2026-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08260</id>
+    <title>Impact of Short-Form Videos on Screentime and Sleep: Evidence from TikTok</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <author>
+      <name>Saharsh Agarwal, Uttara M. Ananthakrishnan</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Short-form video platforms have become central to debates about digital overuse and sleep disruption, yet causal evidence on their behavioral impacts remains limited. We study the effects of adopting short-form video in the context of TikTok, which pioneered the format and accounts for a large share of global short-form video consumption. Using granular smartphone touchstream data from a large opt-in panel of U.S. Android users, we track app usage, screen time, and inferred sleep behavior before and after TikTok adoption. We employ a difference-in-differences framework leveraging a high-frequency app usage data set from nearly 7,000 TikTok adopters. Our findings reveal a significant increase in overall screen time—averaging 221 minutes per week for heavy TikTok users—following TikTok adoption, alongside notable declines in usage of other social media and gaming apps, suggesting a strong substitution effect. The screen time effects are highest during late night hours. We also observe shifts in sleep patterns, including delayed bedtimes and a moderate reduction in sleep duration, among high-intensity users. We observe no effects for low-intensity users, who engage minimally with TikTok postadoption. Our findings show that short-form video adoption expands total digital attention rather than merely reallocating it, with important implications for platform design, regulation, and digital well-being. As a side result, our analysis provides clear evidence of substitutability between TikTok and traditional social media platforms, which has important implications for competition policy.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08260 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08260"/>
+    <category term="Management Science"/>
+    <published>2026-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05152</id>
+    <title>Data-Driven Population Tracking in Service Systems</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <author>
+      <name>Fernando Bernstein, N. Bora Keskin, Adam Mersereau, Morgan Wood, Serhan Ziya</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Motivated by an application at the Raleigh-Durham International Airport, we consider a service system in which a manager aims to track the number of people in the system based only on noisy observations of arrivals and departures over a time horizon. We study two tracking problems in this context. In the busyness tracking problem, the manager seeks to determine whether the system is busy or not, whereas in the population tracking problem, the manager tracks the number of people in the system and accumulates losses as squared errors. We characterize the cumulative losses of various policies in an asymptotic regime in which the time horizon grows large. We prove general lower bounds on the cumulative loss of any policy and propose relatively simple policies that achieve these lower bounds, up to logarithmic terms. These policies outperform naive tracking policies in many instances. Finally, we characterize the impact of having the ability to periodically inspect the system at a cost. We find that effective population tracking policies take opportunities to reset the population count to accurate estimates to stop the accumulation of error. Without inspections, this is achieved by resetting the population count to zero when a near-empty system is detected based on observing the departure stream. Inspections, although coming at a cost, allow for greater flexibility in the timing of corrections and, hence, improved performance. We demonstrate the performance of our policies using real-world data we collected by installing people-counting sensors at the airport.This paper was accepted by Vivek Farias, data science.Funding: Financial support from the Triangle Impact Challenge 2021 is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05152 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05152"/>
+    <category term="Management Science"/>
+    <published>2026-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1017/s0022109026103172</id>
     <title>Flow Diversification</title>
     <updated>2026-09-29T00:00:00+00:00</updated>
@@ -1670,6 +1718,18 @@
     <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We measure flow diversification in mutual funds using the cross-sectional correlation of daily flows across investor clienteles. Greater flow diversification is associated with lower future flow volatility, smaller subsequent outflows, and lower cash holdings. We decompose flow correlation into predictable and unexpected components. Unexpectedly low flow correlation is associated with higher post-outflow fund returns, mitigating outflow-induced externalities on incumbent shareholders. Flow diversification also dampens the higher flow-performance sensitivity of illiquid funds, partially offsetting strategic complementarities that can generate fragility.</content>
     <link href="https://doi.org/10.1017/s0022109026103172"/>
     <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70094</id>
+    <title>Money to Burn: Crowdfunding Wildfire Recovery</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
+    <author>
+      <name>J. ANTHONY COOKSON, EMILY A. GALLAGHER, PHILIP MULDER</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Person‐to‐person crowdfunding is an increasingly important form of disaster relief, yet its distribution is poorly understood. Linking GoFundMe campaigns from a major wildfire to property and household credit records, we find that higher‐income households are 12 pp more likely to have campaigns and raise over 25% more, holding property losses constant. These disparities reflect unequal access to social capital: broader donor bases, more nonlocal ties, greater advocacy by friends, and more generous donors. Donors appear influenced by social pressure in online crowdfunding. These mechanisms mirror national patterns and underscore crowdfunding's limitations as a tool for equitable disaster relief.</content>
+    <link href="https://doi.org/10.1111/jofi.70094"/>
+    <category term="The Journal of Finance"/>
     <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1685,27 +1745,139 @@
     <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2025.1854</id>
-    <title>Mitigating Market Incompleteness with Minor Market Distortions: The Case of Negative Spot Prices for Electricity</title>
-    <updated>2026-09-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/1475-679x.70090</id>
+    <title>Book Value Risk Management of Banks: Limited Hedging, HTM Accounting, and Rising Interest Rates</title>
+    <updated>2026-09-29T00:00:00+00:00</updated>
     <author>
-      <name>Ibrahim Abada, Andreas Ehrenmann</name>
+      <name>João Granja, Erica Xuewei Jiang, Gregor Matvos, Tomasz Piskorski, Amit Seru</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;How should policymakers mitigate investment risk in renewable electricity markets without undermining the efficiency of spot markets?Risk mitigation instruments can foster investment in financially incomplete markets but may distort operating incentives, contributing, for example, to increasingly frequent negative electricity prices. In Mitigating Market Incompleteness with Minor Market Distortions: The Case of Negative Spot Prices for Electricity, Ibrahim Abada and Andreas Ehrenmann develop a bi-level programming framework that explicitly incorporates these distortions when addressing market incompleteness. At the lower level, risk-averse agents make investment and operating decisions in an incomplete electricity market. At the upper level, a central planner optimally designs contracts for difference and price markups to maximize social welfare. The paper establishes an existence result, develops an algorithm for finding a solution, and applies the framework to a detailed numerical simulation inspired by the French power system. The results show that carefully designed risk mitigation instruments can enhance welfare while substantially limiting market distortions and the prevalence of negative prices.</content>
-    <link href="https://doi.org/10.1287/opre.2025.1854"/>
-    <category term="Operations Research"/>
-    <published>2026-09-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We document that as interest rates rose in 2022, banks largely left long‐duration assets exposed to interest rate risk while shielding the accounting value of their balance sheets. Call report and Securities and Exchange Commission (SEC) data show that only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged only a small share of their portfolios. Rather than hedge market‐value risk, banks relied on held‐to‐maturity (HTM) accounting to shield book capital, reclassifying about $700 billion of securities as HTM during the tightening period, more than twice the amount reclassified beforehand. Cross‐sectionally, banks with lower capitalization, more fragile uninsured funding, and greater long‐duration asset exposure were less likely to expand hedging during tightening and more likely to rely on HTM accounting. More vulnerable banks, especially those overseen by less stringent state regulators, were also more likely to shift into HTM. We develop a stylized model showing how higher interest rate risk, through its effects on bank solvency, run risk, and regulatory capital, shapes banks’ incentives to hedge, recapitalize, or rely on HTM accounting. While HTM accounting can help well‐capitalized banks avoid excessively tight capital constraints, it can also weaken hedging incentives among weaker, moderately capitalized banks by allowing them to window‐dress capital ratios while remaining exposed to runs. Our evidence suggests that this latter channel dominated during the tightening episode. Incorporating deposit franchise value into regulatory capital without accounting for run risk may further weaken the effectiveness of capital regulation. These findings carry important implications for regulatory capital accounting and bank risk‐management practices.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70090"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2024.1250</id>
-    <title>Increasing Parents’ Engagement on EdTech Platforms: Evidence from the Field</title>
-    <updated>2026-09-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/orsc.2024.19305</id>
+    <title>Phantom Networks: Window on Agency in Social Mechanisms</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
     <author>
-      <name>Nishit Goyal, Alex Akira Okuno, Divya Singhvi, Somya Singhvi</name>
+      <name>Ronald Burt, Ray Reagans, Sonja Opper</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Increasing Parents’ Engagement on EdTech Platforms: Evidence from the FieldSimple, well-designed digital nudges can meaningfully increase parents’ participation in early childhood education, according to a large-scale study conducted with Rocket Learning in India. In “Increasing Parents’ Engagement on EdTech Platforms: Evidence from the Field,” Goyal, Okuno, Singhvi, and Singhvi examine peer- and self-comparison messages delivered through digital educational communities. In a randomized controlled trial involving nearly 154,000 parents, peer-comparison nudges increased the average number of parents active each day by 13.5%, whereas self-comparison nudges increased it by 8.0% relative to no nudge. Building on these insights, they develop a data-driven targeting policy that selects the nudge best suited to each parent. A second trial involving 122,000 parents shows that, whereas the targeting policy performs comparably to the best uniform policy on average, it identifies a substantial subgroup—8.8% of parents—for whom targeted nudging increases engagement by 5.4% over the uniform approach. The findings offer nonprofits and policymakers a scalable, low-cost tool for strengthening parental engagement, highlighting both the potential and limitations of personalized nudging.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1250"/>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Our goal is to offer proof of concept for the idea that behavioral networks emerging with and beyond assigned treatment networks in experiments can provide a valuable window on agency. We call these often unobserved behavioral structures phantom networks. Most evidence of agency is entangled with audience — what people recall, how others attribute, or who is seen to act. We strip that away to observe agency directly in the ties participants build within and beyond what they are assigned. Their deviation from assignment is not error but structure-in-action, a behavioral trace of agency. We offer three exhibits of that “behavioral deviation” revealing agency in gendered brokerage, rival brokerage, and structural reproduction. Across the three exhibits, behavioral deviation shows how a team works (sometimes in surprising ways), not how well the team works. Teams perform as expected in theory, but the behavior responsible for their performance is made more apparent by watching behavioral deviation. We close with a summary proof of concept and discussion of next steps for particularly promising future work</content>
+    <link href="https://doi.org/10.1287/orsc.2024.19305"/>
+    <category term="Organization Science"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.1758</id>
+    <title>The Sooner, the Better? Optimal Vaccination Policy with Limited Vaccine Supply</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Miao Bai, Qi (George) Chen, Cuihong Li</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We study the optimal single-dose vaccination policy during an infectious disease outbreak, considering both limited vaccine supply and imperfect efficacy, which provides partial immunity to each vaccinated individual. The inclusion of imperfect efficacy introduces an additional compartment to the celebrated Susceptible-Infectious-Recovered (SIR) model, giving rise to an infinite horizon nonlinear optimal control problem. We derive a closed-form expression for the optimal vaccination policy under infinite administrative capacity and establish theoretical structures of the optimal policy under finite capacity. Our results suggest that delaying the start of the vaccination process may be optimal, especially when the vaccine is less effective, the vaccine supply is more limited, and the disease is more infectious. We identify key terms as an integral part of the analysis that characterize the individual-level benefit of vaccination and, importantly, provide insights into the intuition behind vaccination delay. Building on these theoretical findings, our numerical study verifies these insights based on sensitivity results. We demonstrate the significant benefit of delay in reducing the total number of infections compared to policies without delay. Furthermore, we extend our analysis to alternative model dynamics and objective functions, confirming that our key findings remain robust and our methodology applicable across different settings. Additionally, we develop a general framework and provide guidance for applying the methodology to broader epidemic settings. Our study contributes to the methodological framework to analyze optimal vaccination policies for infectious disease control, and uncovers an important policy structure — vaccination delay — that has been overlooked in the literature but has important implications for practice.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1758"/>
     <category term="Operations Research"/>
-    <published>2026-09-09T00:00:00+00:00</published>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0558</id>
+    <title>Brand-Neutral Content Marketing and Endogenous Search Prominence</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Michelle Y. Lu</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Brand-neutral content marketing attracts consumers by addressing category-level needs without directly promoting the brand. Although this may position a firm as consumers’ first point of inquiry, it leaves consumers only partially informed about brand fit. Rivals can exploit this gap by providing brand-specific information. Using a game-theoretic framework, we examine when content marketing generates endogenous search prominence and how the resulting search dynamics shape competitive communication strategies. We show that content marketing can provide a counterintuitive competitive edge: by shaping the information structure of consumer search, it influences rival pricing incentives, giving rise to asymmetric communication equilibria sustained by an information–exploitation tradeoff that governs profit allocation between the prominent gatekeeper and the non-prominent follower. When prices cannot be credibly committed, exploitation permanently dominates and content marketing becomes the unique equilibrium strategy. Brand strength and appeal breadth further determine which firm adopts content marketing.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0558"/>
+    <category term="Marketing Science"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70168</id>
+    <title>Reframing Bricolage as a Way of Inhabiting the World: Beyond Scarcity and Innovation with Lévi‐Strauss</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Raffi Duymedjian, Frank Janssen, Sophie Bacq, Guillaume Ferrante</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This paper reframes the concept of bricolage by returning to its foundational roots in Claude Lévi‐Strauss's seminal 1962 work,The Savage Mind. By conducting a systematic review of entrepreneurial bricolage, which represents more than two thirds of management research on bricolage, alongside a close reading of Lévi‐Strauss, we uncover three core divergences regarding contexts, process, and outcomes. Although contemporary literature typically frames bricolage as an innovation‐driven response to resource scarcity, the original anthropological text conceptualized it as an experiential way of inhabiting the world aimed at preserving social structures. To bridge this theoretical gap, we construct a six‐dimensional model of Lévi‐Straussian bricolage that integrates sensory perception, intimate knowledge, perceived abundance, relational composition, mutual help, and system preservation. Returning to the Lévi‐Straussian perspective broadens our understanding of bricolage from a tactical method for resource mobilization to a relational and experiential way of inhabiting the world, emphasizing maintenance, preservation, and creative construction alongside innovation. Finally, our proposed research agenda illustrates how this foundational reframing expands theoretical boundaries for both entrepreneurship and management scholarship, opening new avenues for studying resourcefulness as embodied perception, organizing as relational composition, and entrepreneurial and managerial action as care for resilient and enduring worlds.</content>
+    <link href="https://doi.org/10.1111/joms.70168"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70169</id>
+    <title>Reframing Top‐Down and Bottom‐Up Dynamics in Sustainability Research: A Multilevel Framework for
+                    &lt;scp&gt;OB&lt;/scp&gt;
+                    /
+                    &lt;scp&gt;HRM&lt;/scp&gt;
+                    Scholars</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Chidiebere Ogbonnaya, Tiffany Trzebiatowski, Hannes Leroy</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Sustainability has emerged as an important priority for organizations navigating social, economic, and environmental uncertainty. We define sustainability as the ongoing process through which organizations balance objectives across these three domains while creating long‐term value for current and future stakeholders. Yet much of the existing research continues to focus on macro‐level considerations such as organizational commitments to corporate social responsibility (CSR) and environmental, social, and governance (ESG) initiatives and pays less attention to the experiences of people within organizations. This editorial introduces a thematic collection that advances a multilevel, person‐centred perspective on how macro‐, meso‐, and micro‐level organizational dynamics interact to shape sustainability. Drawing on selected articles published in theJournal of Management Studiesbetween 2010 and 2026, the collection identifies four research clusters that demonstrate how formal sustainability commitments are shaped by social processes and individual experiences across organizational levels. Together, these articles underscore the central role of people management processes in explaining how and why sustainability goals are translated into organizational action. We conclude by outlining directions for future research that examines sustainability as a multilevel process shaped by the interaction between top‐down and bottom‐up dynamics.</content>
+    <link href="https://doi.org/10.1111/joms.70169"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1017/s0022109026103354</id>
+    <title>How Does Domestic Competition Affect Firms’ Foreign Market Expansion?</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Tiago Loncan, Philip Valta</name>
+    </author>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We examine how domestic product market competition shapes firms’ foreign market expansion. Using a panel of U.S. public firms from 1997 to 2017 and text-based measures of output offshoring, we show that stronger domestic competition increases foreign sales activity. To address endogeneity concerns, we exploit the competitive effects of policy-induced variation from staggered rejections of the Inevitable Disclosure Doctrine. Further tests indicate that these labor mobility shocks that intensify competitive pressure spur foreign expansion primarily among firms with stronger intangible and organizational capabilities and higher profitability. The findings suggest that domestic competition is an important driver of foreign market expansion.</content>
+    <link href="https://doi.org/10.1017/s0022109026103354"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70092</id>
+    <title>The Real Channel for Nominal Bond‐Stock Puzzles</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>MIKHAIL CHERNOV, LARS A. LOCHSTOER, DONGHO SONG</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We document that the nature of aggregate consumption dynamics changes when the bond‐stock correlation switches sign. We identify three regimes in a real‐time, sequential learning framework: two highly persistent regimes where permanent or transitory consumption shocks are more dominant, and a largely transitory disaster regime. We study the implications for asset prices. The transition from the second to the first regime in the late 1990s makes the correlation between equities and real bonds switch from positive to negative as in the data, providing an explanation from the perspective of real consumption dynamics. The findings extend to the international setting.</content>
+    <link href="https://doi.org/10.1111/jofi.70092"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70091</id>
+    <title>Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>CARLO ALTAVILLA, MIGUEL BOUCINHA, MARTINA JASOVA, JOSÉ‐LUIS PEYDRÓ, FRANK SMETS</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Using a novel data set of multi‐country credit registers and an institutional change from national to supranational supervision, we show that supranational banking supervision can increase credit supply while mitigating excessive risk‐taking. Supranational supervision increases credit supply only in financially stressed countries while reducing the credit supply to the riskiest (zombie) firms. These improved lending effects stem from weaker national institutions, differential national supervisory incentives, lower national supervisory abilities, and weaker national insolvency laws. Moreover, improved access to external finance from wholesale and bond markets as well as lower risk‐weighted assets allow supranationally supervised banks to expand the supply of credit. Overall, despite some supranational supervisory arbitrage, supranational supervision decreases firm‐level credit to the riskiest firms while increasing firm‐level credit availability in stressed countries without reducing it in nonstressed countries.</content>
+    <link href="https://doi.org/10.1111/jofi.70091"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70087</id>
+    <title>Mind the App: Mobile Access to Financial Information and Consumer Behavior</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>YARON LEVI, SHLOMO BENARTZI</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We study whether easier monitoring of personal finances affects consumer spending. We use transaction data from an account aggregation company to study consumers who installed the mobile app after using the same service on a personal computer for several months. We utilize the staggered release of the apps on different devices (iPhone, iPad, and Android) to identify a causal effect conditional on adoption of the mobile app. Consumers decrease their discretionary spending following the installation of the mobile app. The decrease is larger during evening hours and among individuals with lower proxies of self‐control, patterns consistent with a monitoring/self‐regulation channel and with benchmark models of costly self‐control.</content>
+    <link href="https://doi.org/10.1111/jofi.70087"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587261485972</id>
+    <title>Transitional Path or Optimal State? Hybrid Entrepreneurship and the Decisions to Enter and Exit Entrepreneurship</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Sandra Graf, Matthias Schulz</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Real-options-based research suggests that hybrid entrepreneurship serves as a transitional path to full-time entrepreneurship. Other theories posit that hybrid entrepreneurship is an optimal state. We refer to these opposing perspectives as the transition and state perspectives, respectively, and identify their differing implications. To this end, we examine how hybrid entrepreneurship influences the impact of switching costs on full-time entrepreneurship entry and entrepreneurship exit. Our empirical results, based on large-scale U.S. data, reveal patterns more consistent with the state perspective. We highlight the need to consider variety among hybrid entrepreneurs and discuss how the state perspective can improve our understanding of hybrid entrepreneurship.</content>
+    <link href="https://doi.org/10.1177/10422587261485972"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-09-30T00:00:00+00:00</published>
   </entry>
 </feed>
