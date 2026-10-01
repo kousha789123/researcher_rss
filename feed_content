@@ -2,71 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-09-30T12:42:22.484817+00:00</updated>
+  <updated>2026-10-01T12:42:50.912614+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
   <entry>
-    <id>https://doi.org/10.1002/smj.70125</id>
-    <title>Knowledge protection and modularity of innovation activities in firms: Evidence from US trade secrecy law</title>
-    <updated>2026-09-10T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/smj.70129</id>
+    <title>Government as orchestrator: Ecosystem transformation at scale and speed</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Eunkwang Seo, Christopher P. Dinkel</name>
+      <name>Ron Adner</name>
     </author>
-    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Strategy scholars have theoretically explored the relationship between legal knowledge protection and modularity of innovation activities in firms, but this relationship has yet to be empirically tested in the literature. Leveraging state‐level changes in US trade secrecy law and using a network modularity measure, this paper examines how trade secret protection affects the modularity of firms' innovation activities. Analyzing intrafirm inventor collaboration patterns in US patent data from 783 high‐tech firms between 1976 and 2017, we find that increased trade secret protection is negatively associated with the modularity of innovation activities within firms. This effect is more pronounced for firms with superior technologies and those geographically collocated with competitors—factors that enhance firms' knowledge appropriability concerns—and less pronounced for firms in industries where alternative appropriability mechanisms are highly effective. Moreover, our findings suggest that the increased betweenness centrality of new hires (skilled and junior) serves as an important underlying mechanism for the treatment effect. These results contribute to the literature by illuminating how firms strategize their internal innovation activities for knowledge protection and by underscoring its underlying mechanism.Managerial SummaryFirms often modularize innovation activities to safeguard proprietary knowledge, but this approach can undermine innovation performance by restricting knowledge integration within organizations. This study demonstrates that stronger legal mechanisms alleviating firms' knowledge protection concerns, such as increased trade secret protection, encourage firms to adopt a less modularized, more integrated innovation system. Furthermore, we find that under such protections, firms are more likely to position new hires, including both skilled and junior employees, in central roles to connect innovation communities within the organization. These findings offer valuable insights for managers, illustrating how knowledge protection concerns can shape the structure of firms' innovation activities.</content>
-    <link href="https://doi.org/10.1002/smj.70125"/>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Grand challenges are ecosystem challenges: success depends on aligning a multilateral set of public and private sector actors whose interdependent contributions determine whether a mission is achieved. This study examines how government can orchestrate ecosystem alignment by leveraging distinctive capabilities to deliver solutions at scale with urgency. Using an ecosystem‐as‐structure analytic approach, it draws on Operation Warp Speed, the U.S. government COVID‐19 vaccine initiative, to surface mechanisms and dynamics of ecosystem transformation. The analysis introducescoordinative fiatas a mode of coordination distinct from hierarchy, coercion, or market signals; considers the choices involved in designing a purpose‐built orchestrating entity; links orchestration of the external ecosystem to reconfiguration of the orchestrator's own internal ecosystem; and identifiesorchestration capacityas a key constraint on ecosystem strategy.Managerial SummaryGrand challenges are ecosystem challenges: success depends on aligning a multilateral set of public and private sector actors whose interdependent contributions determine whether a mission is achieved. The Operation Warp Speed COVID‐19 vaccine initiative demonstrates how government can drive alignment at speed and scale to address such challenges. The analysis highlights four lessons for leaders: (i) the use ofcoordinative fiatto align independent actors without relying on hierarchy or coercion; (ii) thedesignof orchestrating entities; (iii) linking transformation of external ecosystems to the transformation ofinternalecosystems; and (iv) strategizingorchestration capacityas a key constraint on scope. While the discussion is anchored in the public sector, it holds clear implications for private‐sector initiatives as well.</content>
+    <link href="https://doi.org/10.1002/smj.70129"/>
     <category term="Strategic Management Journal"/>
-    <published>2026-09-10T00:00:00+00:00</published>
+    <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mksc.2024.1176</id>
-    <title>Frontiers: Discrimination Against Femininity in Headshots: A Field Experiment with AI-Enabled Controllable Stimuli Generation</title>
-    <updated>2026-09-10T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/00018392261484887</id>
+    <title>In Pursuit of Ideal Data: Epistemic Enchantment and the Unintended Consequences of Datafying for Artificial Intelligence</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Lan E. Luo, Olivier Toubia</name>
+      <name>Elmira van den Broek, Natalia Levina</name>
     </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Using AI-generated headshots that vary only in femininity, a field experiment finds that consumers discriminate against femininity independently of gender identity.</content>
-    <link href="https://doi.org/10.1287/mksc.2024.1176"/>
-    <category term="Marketing Science"/>
-    <published>2026-09-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.03155</id>
-    <title>From Trees to Treewidth: Inventory Management in Complex Supply Chain Networks</title>
-    <updated>2026-09-10T00:00:00+00:00</updated>
-    <author>
-      <name>Philippe Blaettchen, Andre P. Calmon, Georgina Hall, Mohit Tawarmalani</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose an exact linear programming (LP)-based solution approach to the Guaranteed Service Model (GSM), one of the most widely applied models for optimizing safety stock placement in supply chain networks. Our approach handles any directed acyclic network and any cost function that depends on a stage’s incoming and outgoing service times. It scales polynomially in the number of nodes n in the network, pseudo-polynomially with respect to the bit size of the maximum replenishment time M, and (for fixed M) exponentially in its treewidth, which quantifies how “tree-like” a network is and can be much smaller than n. This contrasts with existing approaches, which scale exponentially in n. The proof of exactness relies crucially on showing that the join of transportation-like polytopes remains integral and is more broadly applicable to other Operations Management problems. In addition to an exact formulation, our LP-based approach enables a practical solution strategy for the GSM built on a hierarchy of LP relaxations. These relaxations provide valid lower bounds, certify optimality when integral, and can strengthen existing exact methods. In our computational study, the smallest relaxation already recovers an optimal GSM solution on every real-world benchmark instance, leading to substantial speed-ups over the state-of-the-art exact algorithm and commercial general-purpose solvers. The framework also supports sensitivity analysis and accommodates additional operational constraints. Overall, our approach builds a new bridge between Operations Management and Computer Science, providing new theoretical foundations and practical tools for managing safety stocks in complex modern supply chain networks.This paper was accepted by Jeannette Song, operations management.Funding: A. P. Calmon acknowledges financial support provided by the Ray C. Anderson Center for Sustainable Business.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03155 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.03155"/>
-    <category term="Management Science"/>
-    <published>2026-09-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70155</id>
-    <title>The Narrative Construction of Internal Organizational Legitimacy</title>
-    <updated>2026-09-10T00:00:00+00:00</updated>
-    <author>
-      <name>Kerrie E. Howard, Andrew D. Brown</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Organizations torn by significant contradictions may struggle to maintain internal legitimacy. Taking a narrative perspective, and drawing on a case study of Walgreens, a Fortune 500 retail pharmacy, we develop a process model that shows how organizations with an entrenched conflict in their official narratives manage the resulting polyphony of members' personal narratives through the development of myths that sustain internal legitimacy by making the contradiction ‘liveable’. The model reveals how myths that represent contradictions as temporary and project a future in which they will be satisfactorily resolved help people to cope with inconsistencies in processes of organizing and support thestatus quo. Our theorizing suggests that internal legitimacy is constituted by the narratives that individuals author about the desirability, propriety, and appropriateness of their organization and its practices. From a narratological perspective, rather than existing on a continuum from high to low and being a resource that can be stockpiled, internal legitimacy may be theorized as a polyphony of distinctive narratives that while discursively dynamic is also generally durable.</content>
-    <link href="https://doi.org/10.1111/joms.70155"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-09-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/jcpy.70038</id>
-    <title>Advice taking across social class: Why (and when) high‐
-                    &lt;scp&gt;SES&lt;/scp&gt;
-                    consumers are more likely to take advice from marketplace agents</title>
-    <updated>2026-09-10T00:00:00+00:00</updated>
-    <author>
-      <name>Bryce Pyrah, Chelsea Galoni</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;The present research investigates whether consumers of low or high socioeconomic status (SES) are more likely to take advice from marketplace agents. Across five studies (and an additional three in the Methodological Details Appendix), including an analysis of the World Values Survey, and across a range of different advice taking contexts, we find that high‐SES consumers are more likely to take the advice of marketplace agents compared to low‐SES consumers. We demonstrate that this is due to differences in the sources through which high and low‐SES consumers form judgments of trustworthiness, leading high‐SES consumers to perceive advisors as generally more trustworthy, increasing the likelihood that they take their advice. However, these differences are attenuated under two conditions: First, when providing an external trustworthiness cue, differences in advice taking between low‐ and high‐SES consumers are reduced. Second, shifting attention away from the agent and toward one's own product needs and preferences attenuates the effect. This work makes important theoretical contributions regarding how low‐ and high‐SES consumers differ in their propensity to take advice and carries important consumer well‐being implications, particularly for the low‐SES consumer.</content>
-    <link href="https://doi.org/10.1002/jcpy.70038"/>
-    <category term="Journal of Consumer Psychology"/>
-    <published>2026-09-10T00:00:00+00:00</published>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;The increasing datafication of work has become a pervasive theme within organizations, particularly with the rise of artificial intelligence (AI) technologies that rely on data and machine learning to generate insights and decisions. Prior research has shown that datafication practices aimed at administrative control and accountability can transform organizations in profound and often unintended ways. Our research moves beyond investigating datafication for administrative purposes to explore how it unfolds when actors intend to extract knowledge through AI predictive modeling. Drawing on a three-year ethnography of a human resources (HR) department introducing AI for candidate screening, we find that datafication expanded far beyond the technology’s initially envisioned scope. We explain this scope expansion by introducing the concept ofepistemic enchantment: a collective process through which organizational members become captivated and mobilized by AI’s promise to generate predictive, objective, and continuously improving insights from data, while overlooking the costs and risks involved. Our study reveals how datafication practices can expand endlessly as organizational members, enchanted by AI’s epistemic promises, pursue the notion of ideal data as an ever-desired but never reachable goal.</content>
+    <link href="https://doi.org/10.1177/00018392261484887"/>
+    <category term="Administrative Science Quarterly"/>
+    <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhag075</id>
@@ -82,12 +44,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag102</id>
-    <title>Company Wage Policy in a Low-Wage Labor Market</title>
+    <title>Company Wage Policy in a Low-Wage Labour Market</title>
     <updated>2026-09-11T00:00:00+00:00</updated>
     <author>
       <name>Giulia Giupponi, Stephen Machin</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labor market.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labour market.</content>
     <link href="https://doi.org/10.1093/restud/rdag102"/>
     <category term="Review of Economic Studies"/>
     <published>2026-09-11T00:00:00+00:00</published>
@@ -618,12 +580,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261493185</id>
-    <title>EXPRESS: Toward ‘Omniscient’ Supply Chains: Enabling and Incentivizing Sustainable Operations</title>
+    <title>Toward “Omniscient” supply chains: Enabling and incentivizing sustainable operations</title>
     <updated>2026-09-18T00:00:00+00:00</updated>
     <author>
       <name>Onesun Steve Yoo</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Business norms have shifted markedly toward sustainability and social responsibility, placing increasing pressure on firms and investors to conduct comprehensive due diligence on sustainability impacts across entire value chains, as well as on regulators to enforce such standards. Despite this momentum, the sustainability transition is approaching the limits of both market and regulatory effectiveness, as a structural mismatch persists between the level of transparency society demands and the capacity of firms and regulators to reliably provide and enforce such information. The operations management research community is uniquely positioned to help avert potential market and regulatory failures by reducing compliance burdens and enhancing the effectiveness of regulatory enforcement—particularly through advancing “omniscient” supply chains and strengthening the business case for sustainability. This paper reviews prior research and outlines key directions aligned with current sustainability trends and the community’s research strengths. These include leveraging novel and repurposed data sources to improve granularity and address missing data challenges in life cycle assessment (LCA) and environmentally extended input–output (EEIO) analysis, as well as quantifying both tangible and intangible dimensions of socially responsible operations and the hidden competitive forces underlying industrial waste and inefficiencies. Such research has the potential to significantly influence contemporary business practice, and it is our collective responsibility to help drive this transformation.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Business norms have shifted markedly toward sustainability and social responsibility, placing increasing pressure on firms and investors to conduct comprehensive due diligence on sustainability impacts across entire value chains, as well as on regulators to enforce such standards. Despite this momentum, the sustainability transition is approaching the limits of both market and regulatory effectiveness, as a structural mismatch persists between the level of transparency society demands and the capacity of firms and regulators to reliably provide and enforce such information. The operations management research community is uniquely positioned to help avert potential market and regulatory failures by reducing compliance burdens and enhancing the effectiveness of regulatory enforcement—particularly through advancing “omniscient” supply chains and strengthening the business case for sustainability. This article reviews prior research and outlines key directions aligned with current sustainability trends and the community’s research strengths. These include leveraging novel and repurposed data sources to improve granularity and address missing data challenges in life cycle assessment and environmentally extended input–output analysis, as well as quantifying both tangible and intangible dimensions of socially responsible operations and the hidden competitive forces underlying industrial waste and inefficiencies. Such research has the potential to significantly influence contemporary business practice, and it is our collective responsibility to help drive this transformation.</content>
     <link href="https://doi.org/10.1177/10591478261493185"/>
     <category term="Production and Operations Management"/>
     <published>2026-09-18T00:00:00+00:00</published>
@@ -954,12 +916,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag109</id>
-    <title>Markup Estimation using Production and Demand Data: An Application to the US Brewing Industry</title>
+    <title>Markup Estimation Using Production and Demand Data: An Application to the U.S. Brewing Industry</title>
     <updated>2026-09-22T00:00:00+00:00</updated>
     <author>
       <name>Jan De Loecker, Paul T Scott</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We compare and combine two distinct approaches to estimating market power in the US brewing industry—one based on production data, the other on demand. Both methods produce similar estimates of average markups and reveal a recent upward trend. We then combine the two approaches in two ways. First, we replace conventional instruments in demand estimation with a moment involving a production-based markup estimate, yielding similar results. We then evaluate the common (but controversial) assumption that retail markets operate competitively, finding that demand-based markups recovered with the assumption of competitive retail markets align with production-based estimates, as long as downstream costs are accounted for.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We compare and combine two distinct approaches to estimating market power in the U.S. brewing industry—one based on production data, the other on demand. Both methods produce similar estimates of average markups and reveal a recent upward trend. We then combine the two approaches in two ways. First, we replace conventional instruments in demand estimation with a moment involving a production-based markup estimate, yielding similar results. We then evaluate the common (but controversial) assumption that retail markets operate competitively, finding that demand-based markups recovered with the assumption of competitive retail markets align with production-based estimates, as long as downstream costs are accounted for.</content>
     <link href="https://doi.org/10.1093/restud/rdag109"/>
     <category term="Review of Economic Studies"/>
     <published>2026-09-22T00:00:00+00:00</published>
@@ -1434,12 +1396,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/qje/qjag043</id>
-    <title>Busing to Opportunity? The Impacts of the METCO Voluntary School Desegregation Program on Urban Students of Color</title>
+    <title>BUSING TO OPPORTUNITY? THE IMPACTS OF THE METCO VOLUNTARY SCHOOL DESEGREGATION PROGRAM ON URBAN STUDENTS OF COLOR</title>
     <updated>2026-09-26T00:00:00+00:00</updated>
     <author>
       <name>Elizabeth Setren</name>
     </author>
-    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts to relatively wealthier and predominantly White suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.</content>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts, to relatively wealthier and predominantly white suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher-achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower-performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.</content>
     <link href="https://doi.org/10.1093/qje/qjag043"/>
     <category term="The Quarterly Journal of Economics"/>
     <published>2026-09-26T00:00:00+00:00</published>
@@ -1757,6 +1719,30 @@
     <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdag104</id>
+    <title>Monetary Policy Invariance, Hysteresis, and Optimal Inflation</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Mirko Abbritti, Agostino Consolo, Sebastian Weber</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Standard New Keynesian (NK) models feature an optimal inflation target well below 2%, limited welfare losses from business cycle fluctuations and long-term monetary neutrality. We develop an NK framework with endogenous productivity and downward nominal wage rigidity (DNWR) which challenges these results. The interaction between endogenous growth and DNWR generates asymmetric hysteresis effects on unemployment and R&amp;D. As a consequence, the model features a nonvertical long-run Phillips curve and a trade-off between price distortions and output hysteresis that changes the welfare-maximizing inflation rate to above 2%. Deviations from the optimal target carry welfare costs multiple times those in traditional NK models. Taylor rules that respond to the unemployment rate address more effectively the asymmetric hysteresis in our model. Results are robust to the inclusion of the effective lower bound on interest rates.</content>
+    <link href="https://doi.org/10.1093/restud/rdag104"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjag048</id>
+    <title>The Origin of Risk</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Alexandr Kopytov, Mathieu Taschereau-Dumouchel, Zebang Xu</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.</content>
+    <link href="https://doi.org/10.1093/qje/qjag048"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/orsc.2024.19305</id>
     <title>Phantom Networks: Window on Agency in Social Mechanisms</title>
     <updated>2026-09-30T00:00:00+00:00</updated>
@@ -1793,6 +1779,42 @@
     <published>2026-09-30T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.01668</id>
+    <title>Constant Regret Primal-Dual Policy for Multiway Dynamic Matching</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Yehua Wei, Jiaming Xu, Sophie H. Yu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study a discrete-time dynamic multiway matching model. There are finitely many agent types that arrive stochastically and wait to be matched. State-of-the-art dynamic matching policies in the literature require the knowledge of all system parameters to determine an optimal basis of the fluid relaxation, and focus on controlling the number of waiting agents using only matches within the optimal basis. In this paper, we propose a primal-dual policy that schedules matches for future arrivals based on an estimator for the dual solution. Our policy does not require the knowledge of the arrival rates and operates with greater flexibility as it does not restrict matches to only the match types within an optimal basis. We show that our policy is the first to achieve constant regret at all times under unknown arrival rates, and when the arrival rates are known, it achieves the optimal scaling. Furthermore, when the arrival rates are known, the primal-dual policy significantly outperforms alternative dynamic matching policies in several numerical simulations.This paper was accepted by Baris Ata, stochastic models and simulation.Funding: J. Xu is supported in part by the National Science Foundation [Grant CCF-1856424 and NSF CAREER award CCF-2144593]. S. H. Yu is supported in part by the National Science Foundation [Grant CCF-1856424].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01668 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.01668"/>
+    <category term="Management Science"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06402</id>
+    <title>Managing Inventory and Pricing with Contextual Robust Optimization</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Xun Zhang, Qinshen Tang, Zhi Chen, Li Chen</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Multiproduct inventory and pricing problems are traditionally approached by estimating a presumed sufficiently accurate demand model and then optimizing with this specified model to determine optimal inventory and pricing decisions. However, obtaining an accurate demand model is nearly impossible because of unobservable parameters, resulting in parameter uncertainty; meanwhile, the unknown distribution of the error term in the stochastic demand model raises residual ambiguity. Additionally, the predicted demand is endogenously affected by pricing, leading to decision-dependent prediction that often brings about intractable optimization problems. We introduce a contextual robust optimization model that simultaneously addresses these challenges. Our proposed model possesses attractive finite-sample performance guarantees and can be effectively approached using an enhanced affine recourse adaptation to resolve the issue of intractability, and it can be extended to broader contextual decision-making problems under mild conditions. Extensive numerical studies demonstrate the effectiveness of our approach, showing that it outperforms the conventional estimate-then-optimize approach and the residual-based robust optimization approach that does not account for parameter uncertainty, particularly when the available data are limited. Notably, our proposed model exhibits greater resilience when contextual information is disregarded, reflecting practical situations in which collecting such information might be impossible or costly.This paper was accepted by Peng Sun, optimization and decision analytics.Funding: The research of X. Zhang is supported by the National Natural Science Foundation of China [Grant 72501273], the Anhui Provincial Natural Science Foundation [Grant 2408085QG222], and the Fundamental Research Funds for the Central Universities [Grant BJ2040160100]. The research of Q. Tang was supported by the Ministry of Education, Singapore [Tier 1 Grants RG47/24, RG139/25]. Z. Chen is funded in part by the National Natural Science Foundation of China [Grants 72422002, 72394395], the Hong Kong Research Grants Council General Research Fund [Grant CUHK-11502422], and the Asian Institute of Supply Chains and Logistics. L. Chen acknowledges support from the Emerging Scholar Research Fellowships, The University of Sydney Business School.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06402 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06402"/>
+    <category term="Management Science"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05567</id>
+    <title>The Effects of Stock Ownership on Individual Spending, Investments, and Loyalty</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Paolina C. Medina, Vrinda Mittal, Michaela Pagel</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;In this paper, we analyze how one of the most fundamental behavioral biases in investing—people’s preference for buying specific stocks rather than holding the market portfolio—affects their life-cycle consumption, savings, and stock market participation. We first show that when investors receive stocks from specific companies, they increase their spending in those companies’ stores. Although specific stock ownership increases total spending in the short run, individuals’ overall stock market investments increase in the long run. For identification, we use the staggered allocation of brokerage accounts to individuals over time as well as quasirandomly distributed stock grants.This paper was accepted by Will Cong, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05567 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05567"/>
+    <category term="Management Science"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/joms.70168</id>
     <title>Reframing Bricolage as a Way of Inhabiting the World: Beyond Scarcity and Innovation with Lévi‐Strauss</title>
     <updated>2026-09-30T00:00:00+00:00</updated>
@@ -1821,6 +1843,18 @@
     <published>2026-09-30T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/01492063261487124</id>
+    <title>To Settle or Not to Settle: Defending Firm Reputation in Litigation Response</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Fei Li, He Gao, Qi Zhu, Matthew Semadeni</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Litigation can pose significant threats to a firm’s competitive advantage, requiring firms to respond strategically, particularly in deciding whether to settle. While prior research on litigation responses has primarily emphasized legal and economic drivers, it has paid limited attention to reputational considerations, offering an incomplete account of settlement decisions. Drawing on the theoretical mechanism of stakeholders’ situational expectations of the firm, we propose and show that a firm’s reputation for innovation is associated with a lower likelihood of settlement in patent litigation. We further find that this relationship is contingent on industry-level innovation intensity and plaintiff type. By examining how reputation shapes litigation responses, we make several important contributions to research on reputation and litigation.</content>
+    <link href="https://doi.org/10.1177/01492063261487124"/>
+    <category term="Journal of Management"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1017/s0022109026103354</id>
     <title>How Does Domestic Competition Affect Firms’ Foreign Market Expansion?</title>
     <updated>2026-09-30T00:00:00+00:00</updated>
@@ -1830,6 +1864,18 @@
     <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We examine how domestic product market competition shapes firms’ foreign market expansion. Using a panel of U.S. public firms from 1997 to 2017 and text-based measures of output offshoring, we show that stronger domestic competition increases foreign sales activity. To address endogeneity concerns, we exploit the competitive effects of policy-induced variation from staggered rejections of the Inevitable Disclosure Doctrine. Further tests indicate that these labor mobility shocks that intensify competitive pressure spur foreign expansion primarily among firms with stronger intangible and organizational capabilities and higher profitability. The findings suggest that domestic competition is an important driver of foreign market expansion.</content>
     <link href="https://doi.org/10.1017/s0022109026103354"/>
     <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70093</id>
+    <title>The Politicization of Social Responsibility</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>TODD A. GORMLEY, MANISH JHA, MENG WANG</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Institutional investors are less likely to support shareholder proposals on environmental and social issues for firms headquartered in Republican‐led states. The decline in support has become more pronounced in recent years, aligning with politicians emphasizing companies’ social responsibility efforts, and among firms receiving state‐level subsidies and tax breaks. Investor support also varies with shifts in state leadership, dropping by 12 percentage points in the same state when Republicans are in control instead of Democrats. The findings indicate that institutional investors prioritize maximizing shareholder value and that politicians can influence investor votes by altering the value implications of shareholder proposals.</content>
+    <link href="https://doi.org/10.1111/jofi.70093"/>
+    <category term="The Journal of Finance"/>
     <published>2026-09-30T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1866,6 +1912,54 @@
     <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We study whether easier monitoring of personal finances affects consumer spending. We use transaction data from an account aggregation company to study consumers who installed the mobile app after using the same service on a personal computer for several months. We utilize the staggered release of the apps on different devices (iPhone, iPad, and Android) to identify a causal effect conditional on adoption of the mobile app. Consumers decrease their discretionary spending following the installation of the mobile app. The decrease is larger during evening hours and among individuals with lower proxies of self‐control, patterns consistent with a monitoring/self‐regulation channel and with benchmark models of costly self‐control.</content>
     <link href="https://doi.org/10.1111/jofi.70087"/>
     <category term="The Journal of Finance"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucag038</id>
+    <title>Rating an Experience Makes People Notice How It Is Changing: Consequences for Hedonic Adaptation and Consumer Enjoyment</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Stephanie Hong, Ed O’Brien</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Repeated measurement is common in both marketing research and practice. For example, experimenters often ask participants to evaluate multiple similar products, and service providers regularly check in to see how customers are doing. Such practices rest on the assumption that collecting more data simply reveals consumers’ experiences and preferences as they evolve over time. We find that repeated measurement also shapes them. Specifically, repeatedly probing consumers about an experience draws attention to how it is changing, prompting consumers to notice incremental differences more than if they were probed less or simply left alone. This process has important consequences for hedonic adaptation and enjoyment. In contexts of negative change, repeated ratings exacerbate adaptation by making incremental declines more salient, accelerating boredom and disengagement. In contexts of positive change, repeated ratings enhance experiences by making incremental improvements more salient. Sixteen studies (N = 16,311), spanning diverse hedonic stimuli (including games, foods, songs, videos, and artwork) and methodological approaches (including mediation and moderation), highlight this core idea that change is amplified when ratings draw attention to it. We discuss how repeated measurement may thereby distort understandings of hedonic decline and consumer preferences, and how to harness these insights to promote longer-lasting consumer enjoyment.</content>
+    <link href="https://doi.org/10.1093/jcr/ucag038"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/1475-679x.70086</id>
+    <title>Mimicking Regulatory Peers</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>MINJAE KIM</name>
+    </author>
+    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;Bank regulators use peer information for bank evaluations and publicly disclose this information. This study investigates whether the regulatory use and disclosure of peer information induce herding behavior in banks' regulatory capital ratios. I examine this question using a 2004 peer group reform that introduced class‐of peer groups for newly chartered banks, grouping them exclusively with their cohorts, while established banks continued to be compared with similar‐sized banks. The results show that, post‐reform, banks exhibit heightened herding behavior in their regulatory capital ratios. Depending on their relative capital position, banks either become more sensitive to changes in the peer group average or converge toward it. Additionally, I find that under‐capitalized banks adjust loan portfolios to manage their capital ratios, and this gap‐closing behavior is associated with worse subsequent loan quality, higher bank failure rates during the financial crisis, and, at the bank holding company level, larger systemic‐risk contributions. These findings highlight significant implications of regulatory disclosure for bank behavior and stability.</content>
+    <link href="https://doi.org/10.1111/1475-679x.70086"/>
+    <category term="Journal of Accounting Research"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1215</id>
+    <title>Membership Plans for Sharing Economy Platforms</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Haozhao Zhang, Huseyin Cavusoglu, Srinivasan Raghunathan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Sharing economy platforms such as ride-hailing platforms increasingly experiment with membership plans for consumers, providers, or both. This research shows when and why these plans create value. We find that a consumer-side membership plan is profitable mainly when expected provider supply is large. A provider-side membership plan is profitable mainly when expected consumer demand is large. A both-sides membership plan is attractive only when neither demand nor supply potential is extreme. In addition, one-sided membership plans harm participants on the targeted side while benefiting the opposite side. Both-sides membership plans typically help one side at the expense of the other. Social welfare rises consistently under a consumer-side membership plan because more valuable matches occur, but provider-side or dual plans can generate inefficient matches and lower welfare when the provider base is large. These findings carry direct policy implications: regulatory mandates to reclassify regular providers as employees and guarantee fixed wages may reduce overall provider surplus and social welfare through inefficient matches. Therefore, platforms should treat membership design as a strategic response to demand- and supply-side conditions rather than a simple loyalty tool.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1215"/>
+    <category term="Information Systems Research"/>
+    <published>2026-09-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2020.0293</id>
+    <title>The Effectiveness of Regulations on the Dual-Role Retailer’s Data Use for Sellers</title>
+    <updated>2026-09-30T00:00:00+00:00</updated>
+    <author>
+      <name>Yeongin Kim, Seokjun Youn, Kyung Sung Jung, Young Kwark</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Recent regulatory scrutiny has raised concerns about dominant online retailers’ use of marketplace data to compete with third-party sellers. We examine whether emerging data-use regulations can effectively protect sellers. Our analysis shows that strict restrictions on retailer data access can benefit sellers but may also encourage platforms to respond strategically by changing contract terms, shifting sellers across contractual arrangements, or exploiting regulatory ambiguities. A shared-access policy can offer a more practical compromise by better aligning platform and seller incentives. Importantly, regulatory effectiveness depends on the contractual environment and the platform’s ability to adjust its organizational structure, with these challenges becoming more pronounced under wholesale contracts. Our findings suggest that effective data governance requires more than restricting data access. Regulators should account for contract structure, anticipate strategic platform responses, and establish clearer enforcement conditions that limit opportunities for circumvention and strengthen protection against unfair competitive practices.</content>
+    <link href="https://doi.org/10.1287/isre.2020.0293"/>
+    <category term="Information Systems Research"/>
     <published>2026-09-30T00:00:00+00:00</published>
   </entry>
   <entry>
