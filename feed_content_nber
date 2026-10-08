@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-10-07T12:43:28.210768+00:00</updated>
+  <updated>2026-10-08T12:42:44.035079+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -151,18 +151,6 @@
     <published>2026-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35825</id>
-    <title>The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties</title>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Edward W. Chen, Reagan L. Lengefeld &amp; Omar Isaac Asensio</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study examines a housing program that created affordable infill developments on formerly vacant, abandoned, or disinvested properties in Savannah, Georgia. Savannah is a major economic hub anchored by the Port of Savannah, where many urban neighborhoods remain impacted by disinvestment and climate risk. Using two decades of record-linked property and tax data, this study quantifies local economic spillovers from this public intervention, revealing previously hidden social and economic benefits of infill housing policies. These benefits include an 11% increase in the market value of properties immediately neighboring an infill development site and an increase of up to 35% in areas with a high density of infill activity, pointing to block-level revitalization in climate-disadvantaged and distressed areas.</content>
-    <link href="https://www.nber.org/papers/w35825"/>
-    <category term="NBER"/>
-    <published>2026-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35817</id>
     <title>Early Results from the RESET Demonstration Project: Inflation in Food at Home</title>
     <updated>2026-09-01T00:00:00+00:00</updated>
@@ -195,6 +183,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Publicly subsidized insurance programs can create incentives for subsidy capture when insured products closely resemble privately traded financial instruments. Livestock Risk Protection (LRP) is one such case because it provides price insurance through a contract that closely resembles an exchange-traded put option. Using LRP endorsement records and matched CME options data for 2020–2025, we document that endorsement activity clusters around CME option expiration dates, especially for feeder cattle and lean hogs. Because producer-level derivatives positions are unobserved, however, timing patterns alone cannot identify subsidy capture. We therefore simulate returns to combined LRP-CME strategies using observed contract terms, option prices, and trading frictions, including bid-ask spreads, margin requirements, and financing costs. We find that the subsidy-created premium wedge is observable at purchase, but realized gains are small, commodity-specific, and concentrated in low-volatility environments where realized volatility falls below implied volatility. Even in those favorable cases, combined strategies substantially worsen downside outcomes relative to holding LRP alone. Additional evidence shows that clustering persists across volatility regimes and after the 2025 revisions to the LRP Handbook, suggesting that observed timing patterns may reflect contract alignment and routine hedging practices, instead of widespread economically meaningful subsidy capture.</content>
     <link href="https://www.nber.org/papers/w35819"/>
+    <category term="NBER"/>
+    <published>2026-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35825</id>
+    <title>The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties</title>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Edward W. Chen, Reagan L. Lengefeld &amp; Omar Isaac Asensio</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study examines a housing program that created affordable infill developments on formerly vacant, abandoned, or disinvested properties in Savannah, Georgia. Savannah is a major economic hub anchored by the Port of Savannah, where many urban neighborhoods remain impacted by disinvestment and climate risk. Using two decades of record-linked property and tax data, this study quantifies local economic spillovers from this public intervention, revealing previously hidden social and economic benefits of infill housing policies. These benefits include an 11% increase in the market value of properties immediately neighboring an infill development site and an increase of up to 35% in areas with a high density of infill activity, pointing to block-level revitalization in climate-disadvantaged and distressed areas.</content>
+    <link href="https://www.nber.org/papers/w35825"/>
     <category term="NBER"/>
     <published>2026-09-01T00:00:00+00:00</published>
   </entry>
@@ -667,62 +667,50 @@
     <published>2026-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35855</id>
-    <title>Physicians' Occupational Licensing and the Quantity-Quality Trade-off</title>
+    <id>https://www.nber.org/papers/w35872</id>
+    <title>Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Juan Pablo Atal, Tomás Larroucau, Pablo Muñoz &amp; Cristóbal Otero</name>
+      <name>Orazio Attanasio, Lina Cardona-Sosa &amp; Ziqian Liu</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Occupational licensing is a widespread quality regulation that potentially increases the quality of labor but reduces its quantity. We provide a theoretical framework to empirically quantify this trade-off in public hospitals, where both clinical quality and physician shortages are critical concerns. Using quasi-exogenous variation driven by a recent and unprecedented migration of physicians to Chile, together with growth in domestic medical schools, we show that more physicians improve patient outcomes, while lower-quality physicians—as measured by licensing exam performance—worsen them. Incorporating these findings into our theoretical framework, we evaluate the implications of locally changing the stringency of the licensing policy.</content>
-    <link href="https://www.nber.org/papers/w35855"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers the estimation of heterogeneous impacts within a Randomized Controlled Trial (RCT) in a situation where heterogeneous status is endogenous and is not fully observed in the control sample. We show how to use information in the treatment sample and a noisy signal  on the heterogeneous status to estimate meaningful  impacts under a minimal set of assumptions. We provide an application of this approach to a data set from Ghana, collected around a clustered RCT to evaluate the impacts of an early-years intervention, differentiating the impact between households that participate actively in the program from those who participate only passively, as recipients. We show that, for some outcomes, the properly estimated heterogeneous impacts differ substantially from those computed with a naive estimator.</content>
+    <link href="https://www.nber.org/papers/w35872"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35849</id>
-    <title>Avoiding Regulation: Evidence from Nursing Homes</title>
+    <id>https://www.nber.org/papers/w35873</id>
+    <title>In Utero Exposure to the 1982 Tylenol Recall and Neurodevelopmental Outcomes</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Alden Cheng &amp; Riley League</name>
+      <name>Christopher M. Worsham, Charles Bray, Joshua Rothman, Brian Kwan &amp; Anupam Jena</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study strategic responses by firms to threshold-based regulations. We document extensive bunching in response to additional staffing requirements for California nursing homes with at least 100 beds. To estimate the regulation’s effect on staffing, we develop a novel treatment effects estimator for threshold-based regulations under precise manipulation, by decomposing firms into response types based on counterfactual and realized staffing and size, separating causal effects from selection. We estimate that higher staffing above the threshold is nearly entirely due to selection, with low-staffing facilities manipulating their size to avoid the regulation. These size distortions limit access, particularly for disadvantaged patients.</content>
-    <link href="https://www.nber.org/papers/w35849"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Observational research into the relationship between maternal acetaminophen use during pregnancy and a child’s subsequent risk of attention deficit hyperactivity disorder (ADHD) or autism has been limited by confounding factors. Using two large national U.S. insurance claims databases and a novel natural experiment, we assessed differences in prevalence of ADHD and autism among children whose gestational periods were impacted by a nationwide Tylenol recall issued in 1982, following deaths from Tylenol capsules containing potassium cyanide.  Prevalence of ADHD and autism was not significantly different in birth cohorts exposed to the recall during gestation, when maternal acetaminophen use would have been reduced; interrupted time series models showed no significant differences compared to underlying temporal diagnostic trends. These findings are inconsistent with a clinically meaningful effect of maternal acetaminophen use on subsequent development of neurodevelopmental disorders.</content>
+    <link href="https://www.nber.org/papers/w35873"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35848</id>
-    <title>The Regulatory Burden of Licensure Sales Laws: New Evidence on Race and the U.S. Tobacco Market</title>
+    <id>https://www.nber.org/papers/w35874</id>
+    <title>Tax Planning and Multinational Behavior</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Dhaval M. Dave, Jooyoung Kim &amp; Joseph J. Sabia</name>
+      <name>Rosanne Altshuler, Lysle Boller, Kevin A. Roberts &amp; Juan Carlos Suárez Serrato</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Licensure sales requirements are commonly justified as consumer protection regulations intended to improve seller compliance and reduce harm associated with risky products. However, licensure effects may differ across communities with heterogeneous enforcement intensity and seller responses. We study this question in the context of e-cigarette retail licensure laws (ERLLs), a policy intended to regulate access to e-cigarettes among youth. We find that state ERLLs with strong penalties for non-compliance reduce nicotine vaping among Black youths by 2.5-4.0 percentage points but have no effect on White youths. This racially disparate finding is driven by heterogeneous supply-side responses to increased regulatory burden. Vendors in Black neighborhoods are more likely to be targeted for inspections than those in White neighborhoods despite having lower pre-treatment rates of infractions. Moreover, vendors in Black neighborhoods are also less likely to sell e-cigarettes following ERLL adoption, consistent with a racially disparate regulatory burden. Together, our results suggest important distributional consequences of licensure requirements.</content>
-    <link href="https://www.nber.org/papers/w35848"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use newly linked IRS data to study how US multinationals use tax-planning structures that exploit mismatches between US and foreign tax laws. In 2016, these structures accounted for 36% of foreign profits despite being adopted by only 18% of firms. We develop and estimate a structural model using adoption patterns and changes in foreign effective tax rates, domestic and foreign investment, and global R&amp;D following adoption. The model implies substantial heterogeneity in adoption costs and benefits and shows that restricting tax planning creates tradeoffs between tax revenue and economic activity that are amplified by global R&amp;D linkages.</content>
+    <link href="https://www.nber.org/papers/w35874"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35847</id>
-    <title>Targeted Acceleration in Middle School Math: Impacts on College Entry, Degree Completion, and STEM</title>
+    <id>https://www.nber.org/papers/w35875</id>
+    <title>High and Rising Institutional Concentration of Award-Winning Economists</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>David Card &amp; Laura Giuliano</name>
+      <name>Richard B. Freeman, Danxia Xie, Hanzhe Zhang &amp; Hanzhang Zhou</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study an accelerated 3-year math curriculum offered in the middle schools of a large urban district that enables students to finish Algebra I and Geometry before high school. Entry to the program is based on 5th-grade math test scores, with a cutoff at the 80th percentile. Continuing eligibility requires at least a B grade in the previous year; successful completion of all three years is highly correlated with an index of non-cognitive skills. Following students for 6 years after high school graduation, we find that the impacts of admission vary widely by non-cognitive skill and gender. Marginally eligible boys with high non-cognitive skills have a 33 percentage point (ppt.) increase in the probability of completing calculus by 11th grade and a 12 ppt. increase in the probability of completing a major in STEM or business within 6 years; boys with lower noncognitive skills take more advanced math classes in high school but have no significant effects on their college outcomes. Like their male peers, marginally eligible girls with high non-cognitive skills are more likely to complete calculus by 11th grade (+17 ppt.). Their rate of graduating with a STEM or business major is unaffected, but they switch from social sciences to the core STEM majors (science, engineering and math). Girls in the two lower terciles of non-cognitive skill are also strongly affected by entry to the program, with higher participation in advanced math classes in high school, higher rates of entry to selective 4-year colleges, and higher rates of completing a STEM or business major (+12 ppt).</content>
-    <link href="https://www.nber.org/papers/w35847"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35845</id>
-    <title>Limits to Arbitrage and Prediction Market Efficiency: the Case of PredictIt</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eric Zitzewitz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;PredictIt is a CFTC-regulated US prediction market focused on political outcomes. It was very successful in attracting participants in the 2016-22 period, running liquid markets on topics predecessors had tried unsuccesfully. During this period, investors were limited to $850 positions in each contract, which limited arbitrage trading. PredictIt exhibited much larger pricing biases than previously studied prediction markets. Bid prices often persistently added to more than 110, implying an immediate arbitrage profit even after fees. Prices exhibited an overpricing of longshots that was larger than in other prediction markets. The experience of PredictIt suggests that limiting stakes may undermine the ability of prediction markets to accurately price event probabilities.</content>
-    <link href="https://www.nber.org/papers/w35845"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in high-income countries to a more diverse set of institutions across the world. The decline in concentration is observed in all fields except one: economics. The institutional affiliations of prizewinning economists have become more concentrated over time, making economics the most concentrated field. We associate the higher concentration of prizewinning work in economics with the field’s stronger sorting by institutional prestige, its lower reliance on specialized equipment and instruments, and its assessment of findings based on a synthesis of evidence rather than on decisive experiments or proofs. We discuss the benefits and costs of this high and rising institutional concentration of prizewinning economists.</content>
+    <link href="https://www.nber.org/papers/w35875"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -735,18 +723,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What caused the 2000s housing cycle? This article synthesizes two decades of research, including reduced-form empirics and structural models. Although often contentious, the literature coheres once one accounts for each study’s timing, place, methodology, and measurement. The cycle was a perfect storm that occurred in distinct stages. Starting in the late 1990s, fundamentals improved, and credit supply increased across the income distribution due to automated underwriting and financial deregulation. In the early 2000s, a decline in interest rates was followed by a further expansion in securitized and subprime credit, the origin of which remains controversial. This sequence of shocks produced a persistent boom that triggered two shifts in beliefs: average expectations became overly optimistic, pushing prices higher, and expectations diverged, fueling speculation. In the bust, prices overshot primarily due to mortgage defaults, which removed buyers and contracted credit supply. How these forces interact and how expectations form require further research.</content>
     <link href="https://www.nber.org/papers/w35863"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35856</id>
-    <title>Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Andrew C. Barr, Laura Kawano, Bruce Sacerdote &amp; Michael Stevens</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic caused a sharp initial rise in unemployment, followed by an unexpectedly tight labor market. Using a panel of tax data containing newly assembled information on worker occupation, we document persistent labor force exit, especially among low-income and low-skill workers. Low-skilled unmarried men are by far the most likely to exit, reinforcing recent concerns regarding the economic and social engagement of this group. Contrary to prevailing theories, we find little evidence that school closures, virus exposure, stimulus payments, or unemployment benefits explain these exits. Nor is the exit explained by additional upgrading of occupations or firm quality. Individuals who leave the labor force do not (on average) make up the missing income; however, self-employment income replaces roughly a quarter of the lost W-2 income. The facts suggest that the willingness to work for low pay decreased and preferences for leisure and job flexibility increased among a large set of workers who have found ways to get by with less income. These results have implications for tax policy, fiscal projections, and labor market dynamics in the post-pandemic economy.</content>
-    <link href="https://www.nber.org/papers/w35856"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -799,62 +775,26 @@
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35850</id>
-    <title>Debt Sustainability and the Range of Multiple Equilibria</title>
+    <id>https://www.nber.org/papers/w35856</id>
+    <title>Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Olivier J. Blanchard, Pedro Martínez-Bruera &amp; Gonzalo Huertas</name>
+      <name>Andrew C. Barr, Laura Kawano, Bruce Sacerdote &amp; Michael Stevens</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize the size of the range of multiple equilibria in sovereign debt markets. We show that the nature of the equilibrium depends crucially on the degree of uncertainty, which we formalize first as uncertainty about primary balances and later as uncertainty about the fiscal feedback rule. For low uncertainty, the range can be large, but it becomes smaller as uncertainty becomes larger. If uncertainty is large enough, the multiplicity disappears: the interest rate is unique and becomes a continuous function of the debt level. The source of these results is that larger uncertainty decreases the effect of the perceived probability of default on the actual probability of default, thus reducing and eventually eliminating the scope for multiplicity. Interpreting the source of an increase in the interest rate in actual situations is difficult, and complicates the use of intervention by central banks.</content>
-    <link href="https://www.nber.org/papers/w35850"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic caused a sharp initial rise in unemployment, followed by an unexpectedly tight labor market. Using a panel of tax data containing newly assembled information on worker occupation, we document persistent labor force exit, especially among low-income and low-skill workers. Low-skilled unmarried men are by far the most likely to exit, reinforcing recent concerns regarding the economic and social engagement of this group. Contrary to prevailing theories, we find little evidence that school closures, virus exposure, stimulus payments, or unemployment benefits explain these exits. Nor is the exit explained by additional upgrading of occupations or firm quality. Individuals who leave the labor force do not (on average) make up the missing income; however, self-employment income replaces roughly a quarter of the lost W-2 income. The facts suggest that the willingness to work for low pay decreased and preferences for leisure and job flexibility increased among a large set of workers who have found ways to get by with less income. These results have implications for tax policy, fiscal projections, and labor market dynamics in the post-pandemic economy.</content>
+    <link href="https://www.nber.org/papers/w35856"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35872</id>
-    <title>Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance</title>
+    <id>https://www.nber.org/papers/w35855</id>
+    <title>Physicians' Occupational Licensing and the Quantity-Quality Trade-off</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Orazio Attanasio, Lina Cardona-Sosa &amp; Ziqian Liu</name>
+      <name>Juan Pablo Atal, Tomás Larroucau, Pablo Muñoz &amp; Cristóbal Otero</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers the estimation of heterogeneous impacts within a Randomized Controlled Trial (RCT) in a situation where heterogeneous status is endogenous and is not fully observed in the control sample. We show how to use information in the treatment sample and a noisy signal  on the heterogeneous status to estimate meaningful  impacts under a minimal set of assumptions. We provide an application of this approach to a data set from Ghana, collected around a clustered RCT to evaluate the impacts of an early-years intervention, differentiating the impact between households that participate actively in the program from those who participate only passively, as recipients. We show that, for some outcomes, the properly estimated heterogeneous impacts differ substantially from those computed with a naive estimator.</content>
-    <link href="https://www.nber.org/papers/w35872"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35873</id>
-    <title>In Utero Exposure to the 1982 Tylenol Recall and Neurodevelopmental Outcomes</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher M. Worsham, Charles Bray, Joshua Rothman, Brian Kwan &amp; Anupam Jena</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Observational research into the relationship between maternal acetaminophen use during pregnancy and a child’s subsequent risk of attention deficit hyperactivity disorder (ADHD) or autism has been limited by confounding factors. Using two large national U.S. insurance claims databases and a novel natural experiment, we assessed differences in prevalence of ADHD and autism among children whose gestational periods were impacted by a nationwide Tylenol recall issued in 1982, following deaths from Tylenol capsules containing potassium cyanide.  Prevalence of ADHD and autism was not significantly different in birth cohorts exposed to the recall during gestation, when maternal acetaminophen use would have been reduced; interrupted time series models showed no significant differences compared to underlying temporal diagnostic trends. These findings are inconsistent with a clinically meaningful effect of maternal acetaminophen use on subsequent development of neurodevelopmental disorders.</content>
-    <link href="https://www.nber.org/papers/w35873"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35874</id>
-    <title>Tax Planning and Multinational Behavior</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Rosanne Altshuler, Lysle Boller, Kevin A. Roberts &amp; Juan Carlos Suárez Serrato</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use newly linked IRS data to study how US multinationals use tax-planning structures that exploit mismatches between US and foreign tax laws. In 2016, these structures accounted for 36% of foreign profits despite being adopted by only 18% of firms. We develop and estimate a structural model using adoption patterns and changes in foreign effective tax rates, domestic and foreign investment, and global R&amp;D following adoption. The model implies substantial heterogeneity in adoption costs and benefits and shows that restricting tax planning creates tradeoffs between tax revenue and economic activity that are amplified by global R&amp;D linkages.</content>
-    <link href="https://www.nber.org/papers/w35874"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35875</id>
-    <title>High and Rising Institutional Concentration of Award-Winning Economists</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Richard B. Freeman, Danxia Xie, Hanzhe Zhang &amp; Hanzhang Zhou</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in high-income countries to a more diverse set of institutions across the world. The decline in concentration is observed in all fields except one: economics. The institutional affiliations of prizewinning economists have become more concentrated over time, making economics the most concentrated field. We associate the higher concentration of prizewinning work in economics with the field’s stronger sorting by institutional prestige, its lower reliance on specialized equipment and instruments, and its assessment of findings based on a synthesis of evidence rather than on decisive experiments or proofs. We discuss the benefits and costs of this high and rising institutional concentration of prizewinning economists.</content>
-    <link href="https://www.nber.org/papers/w35875"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Occupational licensing is a widespread quality regulation that potentially increases the quality of labor but reduces its quantity. We provide a theoretical framework to empirically quantify this trade-off in public hospitals, where both clinical quality and physician shortages are critical concerns. Using quasi-exogenous variation driven by a recent and unprecedented migration of physicians to Chile, together with growth in domestic medical schools, we show that more physicians improve patient outcomes, while lower-quality physicians—as measured by licensing exam performance—worsen them. Incorporating these findings into our theoretical framework, we evaluate the implications of locally changing the stringency of the licensing policy.</content>
+    <link href="https://www.nber.org/papers/w35855"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -1023,6 +963,66 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do depopulation and population aging evolve differently across regions within a country, and what are their implications for aggregate economic activity and regional inequality? Using spatially disaggregated data from Japan over the past several decades, we show that rural areas have experienced significantly faster depopulation and aging than urban areas, driven by low fertility and sustained out-migration of young cohorts. Regions undergoing these trends face declining local amenities and rising per-capita public service costs. To study the future evolution and economic consequences of these dynamics, we develop and calibrate a dynamic life-cycle spatial general equilibrium model. The model predicts widening geographic disparities in depopulation, aging, and economic activity in the coming centuries. While subsidies to declining regions can lower regional inequality, they come at the cost of lower aggregate efficiency and higher public service expenditures.</content>
     <link href="https://www.nber.org/papers/w35852"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35850</id>
+    <title>Debt Sustainability and the Range of Multiple Equilibria</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Olivier J. Blanchard, Pedro Martínez-Bruera &amp; Gonzalo Huertas</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize the size of the range of multiple equilibria in sovereign debt markets. We show that the nature of the equilibrium depends crucially on the degree of uncertainty, which we formalize first as uncertainty about primary balances and later as uncertainty about the fiscal feedback rule. For low uncertainty, the range can be large, but it becomes smaller as uncertainty becomes larger. If uncertainty is large enough, the multiplicity disappears: the interest rate is unique and becomes a continuous function of the debt level. The source of these results is that larger uncertainty decreases the effect of the perceived probability of default on the actual probability of default, thus reducing and eventually eliminating the scope for multiplicity. Interpreting the source of an increase in the interest rate in actual situations is difficult, and complicates the use of intervention by central banks.</content>
+    <link href="https://www.nber.org/papers/w35850"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35849</id>
+    <title>Avoiding Regulation: Evidence from Nursing Homes</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alden Cheng &amp; Riley League</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study strategic responses by firms to threshold-based regulations. We document extensive bunching in response to additional staffing requirements for California nursing homes with at least 100 beds. To estimate the regulation’s effect on staffing, we develop a novel treatment effects estimator for threshold-based regulations under precise manipulation, by decomposing firms into response types based on counterfactual and realized staffing and size, separating causal effects from selection. We estimate that higher staffing above the threshold is nearly entirely due to selection, with low-staffing facilities manipulating their size to avoid the regulation. These size distortions limit access, particularly for disadvantaged patients.</content>
+    <link href="https://www.nber.org/papers/w35849"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35848</id>
+    <title>The Regulatory Burden of Licensure Sales Laws: New Evidence on Race and the U.S. Tobacco Market</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Dhaval M. Dave, Jooyoung Kim &amp; Joseph J. Sabia</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Licensure sales requirements are commonly justified as consumer protection regulations intended to improve seller compliance and reduce harm associated with risky products. However, licensure effects may differ across communities with heterogeneous enforcement intensity and seller responses. We study this question in the context of e-cigarette retail licensure laws (ERLLs), a policy intended to regulate access to e-cigarettes among youth. We find that state ERLLs with strong penalties for non-compliance reduce nicotine vaping among Black youths by 2.5-4.0 percentage points but have no effect on White youths. This racially disparate finding is driven by heterogeneous supply-side responses to increased regulatory burden. Vendors in Black neighborhoods are more likely to be targeted for inspections than those in White neighborhoods despite having lower pre-treatment rates of infractions. Moreover, vendors in Black neighborhoods are also less likely to sell e-cigarettes following ERLL adoption, consistent with a racially disparate regulatory burden. Together, our results suggest important distributional consequences of licensure requirements.</content>
+    <link href="https://www.nber.org/papers/w35848"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35847</id>
+    <title>Targeted Acceleration in Middle School Math: Impacts on College Entry, Degree Completion, and STEM</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>David Card &amp; Laura Giuliano</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study an accelerated 3-year math curriculum offered in the middle schools of a large urban district that enables students to finish Algebra I and Geometry before high school. Entry to the program is based on 5th-grade math test scores, with a cutoff at the 80th percentile. Continuing eligibility requires at least a B grade in the previous year; successful completion of all three years is highly correlated with an index of non-cognitive skills. Following students for 6 years after high school graduation, we find that the impacts of admission vary widely by non-cognitive skill and gender. Marginally eligible boys with high non-cognitive skills have a 33 percentage point (ppt.) increase in the probability of completing calculus by 11th grade and a 12 ppt. increase in the probability of completing a major in STEM or business within 6 years; boys with lower noncognitive skills take more advanced math classes in high school but have no significant effects on their college outcomes. Like their male peers, marginally eligible girls with high non-cognitive skills are more likely to complete calculus by 11th grade (+17 ppt.). Their rate of graduating with a STEM or business major is unaffected, but they switch from social sciences to the core STEM majors (science, engineering and math). Girls in the two lower terciles of non-cognitive skill are also strongly affected by entry to the program, with higher participation in advanced math classes in high school, higher rates of entry to selective 4-year colleges, and higher rates of completing a STEM or business major (+12 ppt).</content>
+    <link href="https://www.nber.org/papers/w35847"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35845</id>
+    <title>Limits to Arbitrage and Prediction Market Efficiency: the Case of PredictIt</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eric Zitzewitz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;PredictIt is a CFTC-regulated US prediction market focused on political outcomes. It was very successful in attracting participants in the 2016-22 period, running liquid markets on topics predecessors had tried unsuccesfully. During this period, investors were limited to $850 positions in each contract, which limited arbitrage trading. PredictIt exhibited much larger pricing biases than previously studied prediction markets. Bid prices often persistently added to more than 110, implying an immediate arbitrage profit even after fees. Prices exhibited an overpricing of longshots that was larger than in other prediction markets. The experience of PredictIt suggests that limiting stakes may undermine the ability of prediction markets to accurately price event probabilities.</content>
+    <link href="https://www.nber.org/papers/w35845"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
