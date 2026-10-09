@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-10-08T12:42:44.035079+00:00</updated>
+  <updated>2026-10-09T12:42:53.607017+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -151,6 +151,18 @@
     <published>2026-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35819</id>
+    <title>Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection</title>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yifei Zhang, Andrew Keller, Shawn Arita &amp; Sandro Steinbach</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Publicly subsidized insurance programs can create incentives for subsidy capture when insured products closely resemble privately traded financial instruments. Livestock Risk Protection (LRP) is one such case because it provides price insurance through a contract that closely resembles an exchange-traded put option. Using LRP endorsement records and matched CME options data for 2020–2025, we document that endorsement activity clusters around CME option expiration dates, especially for feeder cattle and lean hogs. Because producer-level derivatives positions are unobserved, however, timing patterns alone cannot identify subsidy capture. We therefore simulate returns to combined LRP-CME strategies using observed contract terms, option prices, and trading frictions, including bid-ask spreads, margin requirements, and financing costs. We find that the subsidy-created premium wedge is observable at purchase, but realized gains are small, commodity-specific, and concentrated in low-volatility environments where realized volatility falls below implied volatility. Even in those favorable cases, combined strategies substantially worsen downside outcomes relative to holding LRP alone. Additional evidence shows that clustering persists across volatility regimes and after the 2025 revisions to the LRP Handbook, suggesting that observed timing patterns may reflect contract alignment and routine hedging practices, instead of widespread economically meaningful subsidy capture.</content>
+    <link href="https://www.nber.org/papers/w35819"/>
+    <category term="NBER"/>
+    <published>2026-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35817</id>
     <title>Early Results from the RESET Demonstration Project: Inflation in Food at Home</title>
     <updated>2026-09-01T00:00:00+00:00</updated>
@@ -171,18 +183,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do transportation disruptions affect aggregate outcomes? We develop a tractable model of the transportation sector to study its impact on prices and international trade. By casting maritime transportation as a queueing network, the model identifies where the transportation bottlenecks lie and delivers a simple and easy-to compute measure of transportation capacity over time. We calibrate the model using shipping and trade data and use it to evaluate the resilience of the shipping sector during the last 20 years. During the Great Supply Chain Disruption, port bottlenecks raised commodity prices and caused shortages, but a contemporaneous contraction in commodity supply reduced shipping demand and thereby dampened these effects. By contrast, insufficient shipping capacity was a key driver of price increases during the 2000s Commodity Supercycle.</content>
     <link href="https://www.nber.org/papers/w35812"/>
-    <category term="NBER"/>
-    <published>2026-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35819</id>
-    <title>Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection</title>
-    <updated>2026-09-01T00:00:00+00:00</updated>
-    <author>
-      <name>Yifei Zhang, Andrew Keller, Shawn Arita &amp; Sandro Steinbach</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Publicly subsidized insurance programs can create incentives for subsidy capture when insured products closely resemble privately traded financial instruments. Livestock Risk Protection (LRP) is one such case because it provides price insurance through a contract that closely resembles an exchange-traded put option. Using LRP endorsement records and matched CME options data for 2020–2025, we document that endorsement activity clusters around CME option expiration dates, especially for feeder cattle and lean hogs. Because producer-level derivatives positions are unobserved, however, timing patterns alone cannot identify subsidy capture. We therefore simulate returns to combined LRP-CME strategies using observed contract terms, option prices, and trading frictions, including bid-ask spreads, margin requirements, and financing costs. We find that the subsidy-created premium wedge is observable at purchase, but realized gains are small, commodity-specific, and concentrated in low-volatility environments where realized volatility falls below implied volatility. Even in those favorable cases, combined strategies substantially worsen downside outcomes relative to holding LRP alone. Additional evidence shows that clustering persists across volatility regimes and after the 2025 revisions to the LRP Handbook, suggesting that observed timing patterns may reflect contract alignment and routine hedging practices, instead of widespread economically meaningful subsidy capture.</content>
-    <link href="https://www.nber.org/papers/w35819"/>
     <category term="NBER"/>
     <published>2026-09-01T00:00:00+00:00</published>
   </entry>
@@ -667,18 +667,6 @@
     <published>2026-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35872</id>
-    <title>Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Orazio Attanasio, Lina Cardona-Sosa &amp; Ziqian Liu</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers the estimation of heterogeneous impacts within a Randomized Controlled Trial (RCT) in a situation where heterogeneous status is endogenous and is not fully observed in the control sample. We show how to use information in the treatment sample and a noisy signal  on the heterogeneous status to estimate meaningful  impacts under a minimal set of assumptions. We provide an application of this approach to a data set from Ghana, collected around a clustered RCT to evaluate the impacts of an early-years intervention, differentiating the impact between households that participate actively in the program from those who participate only passively, as recipients. We show that, for some outcomes, the properly estimated heterogeneous impacts differ substantially from those computed with a naive estimator.</content>
-    <link href="https://www.nber.org/papers/w35872"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35873</id>
     <title>In Utero Exposure to the 1982 Tylenol Recall and Neurodevelopmental Outcomes</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
@@ -711,6 +699,186 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in high-income countries to a more diverse set of institutions across the world. The decline in concentration is observed in all fields except one: economics. The institutional affiliations of prizewinning economists have become more concentrated over time, making economics the most concentrated field. We associate the higher concentration of prizewinning work in economics with the field’s stronger sorting by institutional prestige, its lower reliance on specialized equipment and instruments, and its assessment of findings based on a synthesis of evidence rather than on decisive experiments or proofs. We discuss the benefits and costs of this high and rising institutional concentration of prizewinning economists.</content>
     <link href="https://www.nber.org/papers/w35875"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35869</id>
+    <title>Voluntary Corporate Climate Targets in a Patchwork Policy Landscape</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joseph E. Aldy, Michael W. Toffel, Alison J. Ong &amp; Lavender Yang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many large, publicly-traded companies adopt voluntary greenhouse gas emission reduction commitments in the presence of a fragmented public policy landscape. To explore the potential emission implications of such commitments, we develop a framework for understanding how firms’ voluntary emission targets interact with carbon pricing, regulatory mandates, subsidies, and heterogeneous policies across political jurisdictions. This analysis highlights the difficulty of distinguishing incremental voluntary emission abatement from policy-induced emission reductions. We introduce the Salata Institute Corporate Climate Targets Database, which we produced from public domain reports published by Russell 3000 firms over 2000-2024. The database documents the growth, form, scope, and sectoral distribution of voluntary greenhouse gas emission targets, including net-zero, carbon-neutral, carbon-reduction, energy-related, and qualitative commitments. Comparing this database with CDP, a non-profit organization formerly known as the Carbon Disclosure Project and the most common source of corporate emission targets used in the research literature, reveals substantial omissions in their  survey-based data, especially in recent years. We show that voluntary corporate targets often mirror government-established goals and public policies, and some firms benchmark their internal carbon prices to existing carbon taxes and emission trading systems. The paper concludes by outlining empirical challenges and future research needs for evaluating the emission impacts of voluntary commitments.</content>
+    <link href="https://www.nber.org/papers/w35869"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35871</id>
+    <title>The Effects of Long-Term Exposure to Pollution on Health</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Graff Zivin, Johnny Huynh, Timothy Frank Justicz, Adriana Lleras-Muney &amp; Matthew J. Neidell</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide the first causal evidence on how long-term exposure to fine particulate matter (PM2.5) at contemporary ambient levels contributes to the development of chronic disease in a young, initially healthy population. Our analysis links detailed personnel records for roughly 150,000 U.S. Army soldiers to high-resolution annual measures of PM2.5. Because soldiers enter service exceptionally healthy and receive uniform access to care, new diagnoses reflect pollution’s physiological impact rather than preexisting conditions or differential health care access. They are also required to relocate based on the needs of the Army, which provides us with quasi-random variation in initial duty-station assignments that we use as an instrument for average annual pollution exposure over a soldier’s career. We find that sustained PM2.5 exposure substantially increases circulatory disease, particularly hypertension, with mixed evidence on respiratory conditions that are sensitive to specification. Exposure over shorter durations, by contrast, has little detectable effect, a pattern consistent with the cumulative nature of pollution’s health burden. These findings demonstrate that even moderate long-term exposure to air pollution can erode health capital in ways that are invisible to studies focused on short-run variations or mortality alone, and they highlight the importance of regulatory standards that account for chronic exposure risks.</content>
+    <link href="https://www.nber.org/papers/w35871"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35870</id>
+    <title>Aligning Platform and User Incentives in Social Media Age Restrictions</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Leonardo Bursztyn, Rafael Jiménez-Durán, Aaron Leonard, Filip Milojević &amp; Christopher Roth</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Several countries are adopting social media bans for teenagers, yet early evidence suggests limited adherence to the age-based restrictions. Such bans ask platforms to remove profitable customers and teens to give up access to their online social networks. We study an alternative regulatory regime in which platforms remain liable for teens on the adult tier but may offer a safe tier that removes restricted features, such as algorithmic feeds, while preserving interactions with their relevant network. Provision of the safe tier and enforcement are complementary: teens can adhere without giving up access to their network, and platforms can retain displaced adult-tier users as lower-margin customers. This policy design makes the teen decision to avoid the adult tier less dependent on peer dynamics and increases teen welfare for a relevant range of regulatory penalties.</content>
+    <link href="https://www.nber.org/papers/w35870"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35868</id>
+    <title>Optimal Line-Drawing for Legal Rules</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jacob Goldin &amp; David Weisbach</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Line drawing is a pervasive feature of legal systems. Across many domains, the applicable legal treatment turns on whether an activity falls above or below some threshold. We characterize the economic forces that determine the optimal placement of such thresholds, both generally and in specific legal settings involving monetary and non-monetary sanctions, prohibitions, and mandates. We apply our results to two important line-drawing questions in private law: the optimal due-care threshold for negligence liability and the optimal threshold for whether a shortfall in contract performance constitutes breach. In both applications, the optimal line takes the form of a population-level marginal cost-benefit rule, with the relevant costs and benefits weighted over the actors whose behavior the line induces to change.</content>
+    <link href="https://www.nber.org/papers/w35868"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35837</id>
+    <title>Approximating the Equilibrium Effects of Informed School Choice</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Claudia Allende, Francisco Gallego &amp; Christopher Neilson</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how information about school quality affects families’ choices and how scaling up the intervention changes its impact. In a randomized trial in Chile, we offer families a short video and a personalized school report card before they enroll their children. Treated families choose schools with higher test scores and value added. Among families reached before enrollment, treated children score about 0.2 standard deviations higher in fourth grade, with positive but less precise estimates on later assessments. We embed the experimentally identified demand shift in a structural model of school choice and competition to study equilibrium effects at scale. Capacity constraints and centralized assignment attenuate the demand-side gains, but the same shift in demand strengthens schools’ incentives to improve quality, and the supply response roughly offsets the congestion effect. More generally, equilibrium scaling can alter experimental effects in either direction because congestion and endogenous quality responses work against each other. We use the model to guide the design of a follow-up cluster-randomized experiment, focusing on the tradeoff between precision and contamination from equilibrium spillovers.</content>
+    <link href="https://www.nber.org/papers/w35837"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35836</id>
+    <title>Consumption, Savings, and Earnings Responses to Financial Windfalls</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Rajashri Chakrabarti, Philippe d'Astous, Kory Kroft, Sheisha Kulkarni, Vyacheslav Mikhed, Matthew J. Notowidigdo, Sahil Raina &amp; Barry Scholnick</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the causal effects of a financial windfall on consumption, savings, and wage earnings using linked administrative data on a large sample of Canadian lottery winners. Using separate linkages of lottery winners to income tax records and credit bureau data, we estimate how lottery winnings affect consumption measured through credit card spending, savings through financial asset accumulation and debt repayment, and wage earnings from tax records. We then examine how these responses vary across the income distribution. We find that high-income individuals allocated a larger share of lottery winnings to savings and leisure, while low-income individuals spent a larger share on consumption. We illustrate the policy relevance of these heterogeneous responses through three applications: designing fiscal stimulus programs, evaluating a Universal Basic Income (UBI), and determining optimal top tax rates on wage earnings and savings.</content>
+    <link href="https://www.nber.org/papers/w35836"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35860</id>
+    <title>Communicating Performance: Textual and Financial Disclosures in Private Equity</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Josh Lerner, Fiona Paine &amp; Antoinette Schoar</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Private capital fund managers appear to possess significant information about the relative quality of their portfolio firms even within the first three years after the investment. But the way this information is disclosed to investors changes dynamically: Textual discussions of portfolio companies have substantial information about the firms’ ultimate performance in the early stages of investment, while interim valuations are less important. Over time, this pattern reverses, with interim valuations becoming more important in explaining future returns, especially after portfolio companies have a financing event. The results vary not only with the tone but also with the content of fund manager disclosures. In an opaque market with substantial information asymmetries, textual discussions seem to serve as a signal about general partner quality.</content>
+    <link href="https://www.nber.org/papers/w35860"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35866</id>
+    <title>Gang Crackdowns</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nikita Melnikov, Carlos Schmidt-Padilla &amp; María Micaela Sviatschi</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What are the consequences of restoring state authority in territories governed by criminal organizations? Combining household surveys and administrative records with detailed maps of former gang-controlled areas, we study how El Salvador’s 2022 State of Exception, which ended two decades of gang territorial control, reshaped Salvadoran society. We find that the removal of gang control integrated previously segmented labor markets, improving mobility, employment outcomes, household income, and financial inclusion. Areas with greater pre-2022 gang exposure also experienced larger increases in business formation and property investment. However, the legacy of criminal governance persists through residence-based discrimination: employers remain less willing to hire otherwise identical applicants from former gang-controlled neighborhoods. Finally, although overall support for the crackdowns remains high, individuals who witnessed police abuse report substantially greater distrust of the police and the national government, suggesting that abuses of state authority may undermine the political sustainability of tough-on-crime policies.</content>
+    <link href="https://www.nber.org/papers/w35866"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35867</id>
+    <title>The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas Drechsel, Daniel Lewis, Davide Melcangi &amp; Laura Pilossoph</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;To study monetary policy transmission at the firm level, researchers typically consider heterogeneity along a small number of firm characteristics, such as size or leverage. We instead estimate the full distribution of firms’ investment responses to monetary policy, using a clustering regression framework. Our novel approach captures multidimensional and unobservable heterogeneity across firms and time. We find that investment by most firms in most time periods responds little to monetary policy. Only about 5% of firm-time observations are associated with a strong response. We then investigate the sources of heterogeneity ex post. We find that most of the variation in investment sensitivity arises within firms over time. Although several firm characteristics predict responsiveness to monetary policy, the majority of heterogeneity remains unexplained by firm observables. We demonstrate that our empirical estimates provide new targets for disciplining structural models of firm heterogeneity.</content>
+    <link href="https://www.nber.org/papers/w35867"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35865</id>
+    <title>Financing the AI Buildout</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Stijn Van Nieuwerburgh</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence is driving a large expansion in data center capacity, power infrastructure, and specialized computing equipment. We estimate that a 1 GW AI campus costs about $41 billion. A 188 GW U.S. buildout completed by 2032 would require total investment of nearly$9 trillion and amount to annual investment of 3.2 percent of GDP over 2025–2032. As hyperscaler capital expenditures outgrow internal cash flow, financing is shifting toward leases, joint ventures, project debt, private credit, securitization, and special-purpose vehicles. These structures expand funding capacity but also raise asset-level leverage, obscure contingent obligations, and expose investors to tenant concentration, technological obsolescence, execution delays, and uncertain residual values.</content>
+    <link href="https://www.nber.org/papers/w35865"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35864</id>
+    <title>From Importer to Exporter: Oil Shocks and the U.S. Economy</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Diego R. Känzig, James H. Stock &amp; Luca Zanotti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how the shale revolution and the U.S. transition from petroleum importer to net exporter have changed the macroeconomic effects of oil shocks. Using oil supply news shocks identified from OPEC announcements, a time-varying model of the U.S. macroeconomy shows that the contractionary effects weakened over time and eventually became expansionary. State-dependent local projections link this change to the U.S. petroleum trade balance. The improvement goes beyond mechanical net export effects: as the terms-of-trade response turns more favorable, consumption, equity valuations, and activity strengthen broadly across sectors and regions, pointing to general-equilibrium income and wealth effects. A counterfactual analysis of the 2022 oil price surge implies sharply different paths for U.S. activity, prices, and monetary policy under the propagation mechanisms prevailing before the shale boom vs. the early 2020s.</content>
+    <link href="https://www.nber.org/papers/w35864"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35835</id>
+    <title>Does Food Assistance Drive Spending on Sugary Foods? Evidence from the Pandemic Electronic Benefit Transfer Program</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Georgina Cisneros &amp; Brandyn F. Churchill</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide evidence on the extent to which food assistance affects spending on sugary items by studying the Pandemic Electronic Benefit Transfer (P-EBT) program, which provided funds to families of children who lost access to free and reduced-price school meals due to COVID-19 pandemic school closures. Leveraging state-level variation in the timing of P-EBT disbursements using a stacked difference-in-differences identification strategy with NielsenIQ Consumer Panel data, we find that P-EBT disbursement was associated with a 16-percent increase in weekly spending on sugary items among SNAP-eligible households with school-aged children. Notably, this increase exceeded the percentage increase in overall food spending for this group, suggesting that SNAP-eligible households with school-aged children allocated a disproportionately large share of their P-EBT-driven purchases toward sugary items relative to their pre-period baseline. We do not detect changes among households unlikely to have received P-EBT benefits or in placebo disbursement years.</content>
+    <link href="https://www.nber.org/papers/w35835"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35834</id>
+    <title>A Framework for Integrating Climate Goals into Trade Agreements</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Farid Farrokhi, Ahmad Lashkaripour &amp; Homa Taheri</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A critical tension in global governance is that trade agreements have evolved largely in isolation from climate policy. This paper shows that the two domains generate systematic cross-externalities: larger gains from trade are associated with greater climate externalities imposed on partners, while linking carbon taxes to trade agreements produces distributive externalities that undermine the balance of trade concessions. To address this tension, we present a framework to integrate harmonized carbon pricing into the WTO subject to institutional and political-feasibility constraints. We explore two linkage designs. The first is a centralized Climate Fund, where all members apply a common demand-side carbon tax and contribute a portion of the revenues to the fund, capped by fiscal constraints. The Fund then reallocates these contributions to balance the tax burden across countries, subject to informational constraints. Quantitative analysis shows that even a simple fund allocation rule can sustain a carbon price of $138 per ton of CO2, reducing global emissions by 54%. The main binding constraint is informational: knowing the precise incidence of the carbon tax across countries ex ante would raise the feasible price to $265. The second is a decentralized design without transfers. Each member meets a carbon tax revenue floor but retains full discretion over its mix of demand-side and supply-side taxes. Energy exporters choose supply-side taxes while energy importers opt for demand-side taxes. These choices organically balance the tax burden and yield a 47% reduction in global emissions, almost rivaling the centralized Climate Fund.</content>
+    <link href="https://www.nber.org/papers/w35834"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35838</id>
+    <title>When Does Bad News Stick? Topic-Level Asymmetry in Narrative Dynamics</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Isha Agarwal, Wentong Chen &amp; Eswar S. Prasad</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When does bad news stick? This paper shows that the persistence of media sentiment depends not only on whether news is good or bad, but also on what the news is about. Using the complete Wall Street Journal archive from 1990 to 2025, we construct monthly positive and negative sentiment indices for twelve economic topics and estimate topic-specific sentiment dynamics. Bad-news innovations generate larger cumulative responses than positive-sentiment innovations in every topic, indicating that negativity asymmetry is a broad feature of media sentiment. But the size of this asymmetry varies sharply across topics. The bad-minus-positive persistence gap is largest in security and human rights, firms and corporate strategy, health and public safety, and real estate and financial stability. Bad-news persistence is also sizable in data-rich topics such as financial markets, real estate, and corporate news, suggesting that frequent information arrival does not necessarily lead narratives to revert quickly. These findings show that aggregate sentiment indices mask substantial topic-level heterogeneity in the asymmetric dynamics of narratives, with potential implications for how persistent negative sentiment shapes expectations, asset prices, and real economic outcomes.</content>
+    <link href="https://www.nber.org/papers/w35838"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35846</id>
+    <title>Are Prediction Markets Politically Biased?</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Eric Zitzewitz</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;As prediction markets become more prominent, there are concerns that they will be a conduit for political bias. I analyze prediction markets returns from 1880 to 2025 and find no evidence of an overpricing of either left or right-leaning candidates, across a variety of subsamples. In recent elections, there is also no overpricing of either male or female, white or non-white, or young or old candidates. Most political prediction markets exhibit a favorite-longshot bias, and markets on near-term polling averages exhibit a very small overpricing of left-leaning outcomes (e.g., President Trump’s approval falling), which is detectable only because the sample size is large. For elections, however, despite attracting participants who may not be representative of the voting population, prediction markets yield predictions without systematic bias.</content>
+    <link href="https://www.nber.org/papers/w35846"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -787,26 +955,26 @@
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35855</id>
-    <title>Physicians' Occupational Licensing and the Quantity-Quality Trade-off</title>
+    <id>https://www.nber.org/papers/w35850</id>
+    <title>Debt Sustainability and the Range of Multiple Equilibria</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Juan Pablo Atal, Tomás Larroucau, Pablo Muñoz &amp; Cristóbal Otero</name>
+      <name>Olivier J. Blanchard, Pedro Martínez-Bruera &amp; Gonzalo Huertas</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Occupational licensing is a widespread quality regulation that potentially increases the quality of labor but reduces its quantity. We provide a theoretical framework to empirically quantify this trade-off in public hospitals, where both clinical quality and physician shortages are critical concerns. Using quasi-exogenous variation driven by a recent and unprecedented migration of physicians to Chile, together with growth in domestic medical schools, we show that more physicians improve patient outcomes, while lower-quality physicians—as measured by licensing exam performance—worsen them. Incorporating these findings into our theoretical framework, we evaluate the implications of locally changing the stringency of the licensing policy.</content>
-    <link href="https://www.nber.org/papers/w35855"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize the size of the range of multiple equilibria in sovereign debt markets. We show that the nature of the equilibrium depends crucially on the degree of uncertainty, which we formalize first as uncertainty about primary balances and later as uncertainty about the fiscal feedback rule. For low uncertainty, the range can be large, but it becomes smaller as uncertainty becomes larger. If uncertainty is large enough, the multiplicity disappears: the interest rate is unique and becomes a continuous function of the debt level. The source of these results is that larger uncertainty decreases the effect of the perceived probability of default on the actual probability of default, thus reducing and eventually eliminating the scope for multiplicity. Interpreting the source of an increase in the interest rate in actual situations is difficult, and complicates the use of intervention by central banks.</content>
+    <link href="https://www.nber.org/papers/w35850"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35854</id>
-    <title>Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025</title>
+    <id>https://www.nber.org/papers/w35872</id>
+    <title>Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Marius A. K. Ring</name>
+      <name>Orazio Attanasio, Lina Cardona-Sosa &amp; Ziqian Liu</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Whether imposing higher taxes on business owners adversely affects business activity by constraining investment and inducing capitalist flight is a central question in the ongoing debate on how to tax the ultra wealthy. To shed new light, I exploit a series of related Norwegian reforms during 2021–2024 that increased dividend tax rates, removed migration-related capital gains tax loopholes, and nearly doubled the effective marginal tax rate on business wealth. These reforms spurred international debate and, allegedly, an “exodus” of Norwegian billionaires (Financial Times, 2023). While I document clear effects on migration, these responses are concentrated among the top 0.1% of the wealth distribution and mostly confined to 2022 and 2023. My results indicate that at most 100 individuals left due to the reforms. I find no evidence of significant outmigration or reduced inflows of startup founders or inventors. I estimate that absent any outmigration, wealth tax revenues would have increased by 75% from 2021 to 2024. Reform-driven outmigration lowers the revenue gain to 71.5%. My findings further show that outmigrating owners’ firms remain economically active and do not reduce investment. In a broader set of analyses, I examine whether business outcomes are affected, regardless of whether owners outmigrate, since firms may reduce investment both due to liquidity constraints or distortions to owners’ savings decisions. I compare firms owned by Norwegian individuals subject to the wealth tax with firms owned by foreigners and other tax-exempt entities. By merging historical ownership data from Orbis with the Norwegian shareholder register, I perform these analyses on both Norwegian and foreign-domiciled firms. Across settings, I find no evidence that Norwegian-owned firms pay out more dividends or invest less after the reforms, nor is there any evidence that the reform induced more bankruptcies. These findings indicate that the short-run economic costs of wealth taxation, in terms of migration and firm investment, are more limited than the public debate implies.</content>
-    <link href="https://www.nber.org/papers/w35854"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper considers the estimation of heterogeneous impacts within a Randomized Controlled Trial (RCT) in a situation where heterogeneous status is endogenous and is not fully observed in the control sample. We show how to use information in the treatment sample and a noisy signal  on the heterogeneous status to estimate meaningful  impacts under a minimal set of assumptions. We provide an application of this approach to a data set from Ghana, collected around a clustered RCT to evaluate the impacts of an early-years intervention, differentiating the impact between households that participate actively in the program from those who participate only passively, as recipients. We show that, for some outcomes, the properly estimated heterogeneous impacts differ substantially from those computed with a naive estimator.</content>
+    <link href="https://www.nber.org/papers/w35872"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -835,146 +1003,62 @@
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35851</id>
-    <title>Latent Human Capital: How Early Investments in Parents Buffer Against Future Schooling Shocks</title>
+    <id>https://www.nber.org/papers/w35841</id>
+    <title>Soft Reserves, Learning and Bid Adjustment in Advertising Auctions</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Shruti Jha, John A. List, Rebecca C. Royer &amp; Anya Samek</name>
+      <name>Joshua S. Gans</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do early investments in parents pay off even when treatment effects for children appear to fade out quickly? We answer this question by leveraging a field experiment in which households with 3-5 year-old children were randomized into a parenting program, a preschool, or a control group, combined with a natural experiment (Covid-19 school closures) that occurred ten years later. Prior to the closures, treatment effects on academic achievement had faded to zero across all groups. Yet, with Covid-19 school closures, effects of the parenting program re-emerge: test scores in control and preschool groups drop by roughly 0.25-0.30 SD, whereas scores in the parenting group drop by only 0.11 SD (difference: p = 0.01). Our findings suggest that parenting programs can generate latent human capital that only becomes visible when complementary school inputs are removed. This result is consonant with parental and school investments acting as substitutes in skill production. Because this latent parental capacity pays off precisely when school inputs fail, standard measurement tools for early childhood programs can miss crucial state-contingent value.</content>
-    <link href="https://www.nber.org/papers/w35851"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;An advertiser in a second-price auction sees what it paid, not the rival bids that supposedly set the price. Akbarpour and Li (2020) show that an auctioneer can therefore charge a winner up to its bid undetected. The Federal Trade Commission alleges that Amazon’s advertising auctions, described as second-price, used soft reserves that did this. We ask whether repeated bidding exposes such charges and what adjustment does to welfare. If each charge equal to the bid is flagged, the soft reserve is exposed quickly, however much the advertiser trusted the description. If reports show only win rates and expected charges, it is indistinguishable from a second-price auction at any fixed bid: an advertiser that trusts the description and bids its value never learns, and one that doubts it but bids for current profit needs a number of auctions at least inversely proportional to its doubt before it considers a soft reserve more likely than not. The second-price description and aggregate reporting are complements. Among informed, symmetric advertisers, the soft reserve raises no more revenue than a second-price auction, and when only some advertisers adjust, placements are misallocated. Disclosure returns surplus to advertisers; removing the surcharge also restores efficiency.</content>
+    <link href="https://www.nber.org/papers/w35841"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35860</id>
-    <title>Communicating Performance: Textual and Financial Disclosures in Private Equity</title>
+    <id>https://www.nber.org/papers/w35840</id>
+    <title>Asymmetric Reversals</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Josh Lerner, Fiona Paine &amp; Antoinette Schoar</name>
+      <name>Federico Baldi-Lanfranchi, Pierre Collin-Dufresne &amp; Kent D. Daniel</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Private capital fund managers appear to possess significant information about the relative quality of their portfolio firms even within the first three years after the investment. But the way this information is disclosed to investors changes dynamically: Textual discussions of portfolio companies have substantial information about the firms’ ultimate performance in the early stages of investment, while interim valuations are less important. Over time, this pattern reverses, with interim valuations becoming more important in explaining future returns, especially after portfolio companies have a financing event. The results vary not only with the tone but also with the content of fund manager disclosures. In an opaque market with substantial information asymmetries, textual discussions seem to serve as a signal about general partner quality.</content>
-    <link href="https://www.nber.org/papers/w35860"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Short-term return reversal is one of the most robust asset-pricing anomalies, and is commonly linked to liquidity provision. We decompose individual firm stock returns into two distinct components: SYS, the component of returns that can be linked to systematic risk and public information releases; and an orthogonal residual RES. The RES component reverses, while the SYS component exhibits continuation. Moreover, the residual reversals are highly asymmetric: positive residual shocks reverse much more slowly than negative shocks. A return factor based on asymmetric idiosyncratic reversal subsumes the idiosyncratic volatility factor and a broad set of other short-horizon anomalies. Our findings suggest that asymmetric idiosyncratic reversal (AIR) is the primary driver of short-term return predictability.</content>
+    <link href="https://www.nber.org/papers/w35840"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35869</id>
-    <title>Voluntary Corporate Climate Targets in a Patchwork Policy Landscape</title>
+    <id>https://www.nber.org/papers/w35839</id>
+    <title>Large Language Models as Voting Mechanisms</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Joseph E. Aldy, Michael W. Toffel, Alison J. Ong &amp; Lavender Yang</name>
+      <name>Raša Karapandža &amp; Yaw Nyarko</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many large, publicly-traded companies adopt voluntary greenhouse gas emission reduction commitments in the presence of a fragmented public policy landscape. To explore the potential emission implications of such commitments, we develop a framework for understanding how firms’ voluntary emission targets interact with carbon pricing, regulatory mandates, subsidies, and heterogeneous policies across political jurisdictions. This analysis highlights the difficulty of distinguishing incremental voluntary emission abatement from policy-induced emission reductions. We introduce the Salata Institute Corporate Climate Targets Database, which we produced from public domain reports published by Russell 3000 firms over 2000-2024. The database documents the growth, form, scope, and sectoral distribution of voluntary greenhouse gas emission targets, including net-zero, carbon-neutral, carbon-reduction, energy-related, and qualitative commitments. Comparing this database with CDP, a non-profit organization formerly known as the Carbon Disclosure Project and the most common source of corporate emission targets used in the research literature, reveals substantial omissions in their  survey-based data, especially in recent years. We show that voluntary corporate targets often mirror government-established goals and public policies, and some firms benchmark their internal carbon prices to existing carbon taxes and emission trading systems. The paper concludes by outlining empirical challenges and future research needs for evaluating the emission impacts of voluntary commitments.</content>
-    <link href="https://www.nber.org/papers/w35869"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large language models (LLMs) increasingly provide economic and financial advice. We develop a microeconomic framework for understanding this role. We prove that an LLM acts like a voting rule: each input text is an election, possible continuations are candidates, and output probabilities are vote shares derived from the training corpus. Such rules can generate Condorcet cycles, implying intransitive pairwise recommendations and potential money-pump exploitation. Using ChatGPT-4o, we identify millions of cycles in pairwise investment choices among S&amp;P 100 firms. Our theorems establish the voting interpretation on the training data and support its use off-sample. We also show that correcting cycles ex post is generally infeasible. Finally, temperature changes the voting rule: at T = 1, outputs are sampled in proportion to vote shares; lower temperatures favor the plurality winner, whereas higher temperatures flatten probabilities toward uniformity.</content>
+    <link href="https://www.nber.org/papers/w35839"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35871</id>
-    <title>The Effects of Long-Term Exposure to Pollution on Health</title>
+    <id>https://www.nber.org/papers/w35855</id>
+    <title>Physicians' Occupational Licensing and the Quantity-Quality Trade-off</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Joshua S. Graff Zivin, Johnny Huynh, Timothy Frank Justicz, Adriana Lleras-Muney &amp; Matthew J. Neidell</name>
+      <name>Juan Pablo Atal, Tomás Larroucau, Pablo Muñoz &amp; Cristóbal Otero</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide the first causal evidence on how long-term exposure to fine particulate matter (PM2.5) at contemporary ambient levels contributes to the development of chronic disease in a young, initially healthy population. Our analysis links detailed personnel records for roughly 150,000 U.S. Army soldiers to high-resolution annual measures of PM2.5. Because soldiers enter service exceptionally healthy and receive uniform access to care, new diagnoses reflect pollution’s physiological impact rather than preexisting conditions or differential health care access. They are also required to relocate based on the needs of the Army, which provides us with quasi-random variation in initial duty-station assignments that we use as an instrument for average annual pollution exposure over a soldier’s career. We find that sustained PM2.5 exposure substantially increases circulatory disease, particularly hypertension, with mixed evidence on respiratory conditions that are sensitive to specification. Exposure over shorter durations, by contrast, has little detectable effect, a pattern consistent with the cumulative nature of pollution’s health burden. These findings demonstrate that even moderate long-term exposure to air pollution can erode health capital in ways that are invisible to studies focused on short-run variations or mortality alone, and they highlight the importance of regulatory standards that account for chronic exposure risks.</content>
-    <link href="https://www.nber.org/papers/w35871"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Occupational licensing is a widespread quality regulation that potentially increases the quality of labor but reduces its quantity. We provide a theoretical framework to empirically quantify this trade-off in public hospitals, where both clinical quality and physician shortages are critical concerns. Using quasi-exogenous variation driven by a recent and unprecedented migration of physicians to Chile, together with growth in domestic medical schools, we show that more physicians improve patient outcomes, while lower-quality physicians—as measured by licensing exam performance—worsen them. Incorporating these findings into our theoretical framework, we evaluate the implications of locally changing the stringency of the licensing policy.</content>
+    <link href="https://www.nber.org/papers/w35855"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35870</id>
-    <title>Aligning Platform and User Incentives in Social Media Age Restrictions</title>
+    <id>https://www.nber.org/papers/w35854</id>
+    <title>Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Leonardo Bursztyn, Rafael Jiménez-Durán, Aaron Leonard, Filip Milojević &amp; Christopher Roth</name>
+      <name>Marius A. K. Ring</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Several countries are adopting social media bans for teenagers, yet early evidence suggests limited adherence to the age-based restrictions. Such bans ask platforms to remove profitable customers and teens to give up access to their online social networks. We study an alternative regulatory regime in which platforms remain liable for teens on the adult tier but may offer a safe tier that removes restricted features, such as algorithmic feeds, while preserving interactions with their relevant network. Provision of the safe tier and enforcement are complementary: teens can adhere without giving up access to their network, and platforms can retain displaced adult-tier users as lower-margin customers. This policy design makes the teen decision to avoid the adult tier less dependent on peer dynamics and increases teen welfare for a relevant range of regulatory penalties.</content>
-    <link href="https://www.nber.org/papers/w35870"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35868</id>
-    <title>Optimal Line-Drawing for Legal Rules</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jacob Goldin &amp; David Weisbach</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Line drawing is a pervasive feature of legal systems. Across many domains, the applicable legal treatment turns on whether an activity falls above or below some threshold. We characterize the economic forces that determine the optimal placement of such thresholds, both generally and in specific legal settings involving monetary and non-monetary sanctions, prohibitions, and mandates. We apply our results to two important line-drawing questions in private law: the optimal due-care threshold for negligence liability and the optimal threshold for whether a shortfall in contract performance constitutes breach. In both applications, the optimal line takes the form of a population-level marginal cost-benefit rule, with the relevant costs and benefits weighted over the actors whose behavior the line induces to change.</content>
-    <link href="https://www.nber.org/papers/w35868"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35866</id>
-    <title>Gang Crackdowns</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nikita Melnikov, Carlos Schmidt-Padilla &amp; María Micaela Sviatschi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What are the consequences of restoring state authority in territories governed by criminal organizations? Combining household surveys and administrative records with detailed maps of former gang-controlled areas, we study how El Salvador’s 2022 State of Exception, which ended two decades of gang territorial control, reshaped Salvadoran society. We find that the removal of gang control integrated previously segmented labor markets, improving mobility, employment outcomes, household income, and financial inclusion. Areas with greater pre-2022 gang exposure also experienced larger increases in business formation and property investment. However, the legacy of criminal governance persists through residence-based discrimination: employers remain less willing to hire otherwise identical applicants from former gang-controlled neighborhoods. Finally, although overall support for the crackdowns remains high, individuals who witnessed police abuse report substantially greater distrust of the police and the national government, suggesting that abuses of state authority may undermine the political sustainability of tough-on-crime policies.</content>
-    <link href="https://www.nber.org/papers/w35866"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35867</id>
-    <title>The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Thomas Drechsel, Daniel Lewis, Davide Melcangi &amp; Laura Pilossoph</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;To study monetary policy transmission at the firm level, researchers typically consider heterogeneity along a small number of firm characteristics, such as size or leverage. We instead estimate the full distribution of firms’ investment responses to monetary policy, using a clustering regression framework. Our novel approach captures multidimensional and unobservable heterogeneity across firms and time. We find that investment by most firms in most time periods responds little to monetary policy. Only about 5% of firm-time observations are associated with a strong response. We then investigate the sources of heterogeneity ex post. We find that most of the variation in investment sensitivity arises within firms over time. Although several firm characteristics predict responsiveness to monetary policy, the majority of heterogeneity remains unexplained by firm observables. We demonstrate that our empirical estimates provide new targets for disciplining structural models of firm heterogeneity.</content>
-    <link href="https://www.nber.org/papers/w35867"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35865</id>
-    <title>Financing the AI Buildout</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stijn Van Nieuwerburgh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Artificial intelligence is driving a large expansion in data center capacity, power infrastructure, and specialized computing equipment. We estimate that a 1 GW AI campus costs about $41 billion. A 188 GW U.S. buildout completed by 2032 would require total investment of nearly$9 trillion and amount to annual investment of 3.2 percent of GDP over 2025–2032. As hyperscaler capital expenditures outgrow internal cash flow, financing is shifting toward leases, joint ventures, project debt, private credit, securitization, and special-purpose vehicles. These structures expand funding capacity but also raise asset-level leverage, obscure contingent obligations, and expose investors to tenant concentration, technological obsolescence, execution delays, and uncertain residual values.</content>
-    <link href="https://www.nber.org/papers/w35865"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35864</id>
-    <title>From Importer to Exporter: Oil Shocks and the U.S. Economy</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Diego R. Känzig, James H. Stock &amp; Luca Zanotti</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how the shale revolution and the U.S. transition from petroleum importer to net exporter have changed the macroeconomic effects of oil shocks. Using oil supply news shocks identified from OPEC announcements, a time-varying model of the U.S. macroeconomy shows that the contractionary effects weakened over time and eventually became expansionary. State-dependent local projections link this change to the U.S. petroleum trade balance. The improvement goes beyond mechanical net export effects: as the terms-of-trade response turns more favorable, consumption, equity valuations, and activity strengthen broadly across sectors and regions, pointing to general-equilibrium income and wealth effects. A counterfactual analysis of the 2022 oil price surge implies sharply different paths for U.S. activity, prices, and monetary policy under the propagation mechanisms prevailing before the shale boom vs. the early 2020s.</content>
-    <link href="https://www.nber.org/papers/w35864"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35852</id>
-    <title>Living in a Ghost Town: The Geography of Depopulation and Aging</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Elisa Giannone, Yuhei Miyauchi, Nuno Paixao, Xinle Pang &amp; Yuta Suzuki</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do depopulation and population aging evolve differently across regions within a country, and what are their implications for aggregate economic activity and regional inequality? Using spatially disaggregated data from Japan over the past several decades, we show that rural areas have experienced significantly faster depopulation and aging than urban areas, driven by low fertility and sustained out-migration of young cohorts. Regions undergoing these trends face declining local amenities and rising per-capita public service costs. To study the future evolution and economic consequences of these dynamics, we develop and calibrate a dynamic life-cycle spatial general equilibrium model. The model predicts widening geographic disparities in depopulation, aging, and economic activity in the coming centuries. While subsidies to declining regions can lower regional inequality, they come at the cost of lower aggregate efficiency and higher public service expenditures.</content>
-    <link href="https://www.nber.org/papers/w35852"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35850</id>
-    <title>Debt Sustainability and the Range of Multiple Equilibria</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Olivier J. Blanchard, Pedro Martínez-Bruera &amp; Gonzalo Huertas</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize the size of the range of multiple equilibria in sovereign debt markets. We show that the nature of the equilibrium depends crucially on the degree of uncertainty, which we formalize first as uncertainty about primary balances and later as uncertainty about the fiscal feedback rule. For low uncertainty, the range can be large, but it becomes smaller as uncertainty becomes larger. If uncertainty is large enough, the multiplicity disappears: the interest rate is unique and becomes a continuous function of the debt level. The source of these results is that larger uncertainty decreases the effect of the perceived probability of default on the actual probability of default, thus reducing and eventually eliminating the scope for multiplicity. Interpreting the source of an increase in the interest rate in actual situations is difficult, and complicates the use of intervention by central banks.</content>
-    <link href="https://www.nber.org/papers/w35850"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Whether imposing higher taxes on business owners adversely affects business activity by constraining investment and inducing capitalist flight is a central question in the ongoing debate on how to tax the ultra wealthy. To shed new light, I exploit a series of related Norwegian reforms during 2021–2024 that increased dividend tax rates, removed migration-related capital gains tax loopholes, and nearly doubled the effective marginal tax rate on business wealth. These reforms spurred international debate and, allegedly, an “exodus” of Norwegian billionaires (Financial Times, 2023). While I document clear effects on migration, these responses are concentrated among the top 0.1% of the wealth distribution and mostly confined to 2022 and 2023. My results indicate that at most 100 individuals left due to the reforms. I find no evidence of significant outmigration or reduced inflows of startup founders or inventors. I estimate that absent any outmigration, wealth tax revenues would have increased by 75% from 2021 to 2024. Reform-driven outmigration lowers the revenue gain to 71.5%. My findings further show that outmigrating owners’ firms remain economically active and do not reduce investment. In a broader set of analyses, I examine whether business outcomes are affected, regardless of whether owners outmigrate, since firms may reduce investment both due to liquidity constraints or distortions to owners’ savings decisions. I compare firms owned by Norwegian individuals subject to the wealth tax with firms owned by foreigners and other tax-exempt entities. By merging historical ownership data from Orbis with the Norwegian shareholder register, I perform these analyses on both Norwegian and foreign-domiciled firms. Across settings, I find no evidence that Norwegian-owned firms pay out more dividends or invest less after the reforms, nor is there any evidence that the reform induced more bankruptcies. These findings indicate that the short-run economic costs of wealth taxation, in terms of migration and firm investment, are more limited than the public debate implies.</content>
+    <link href="https://www.nber.org/papers/w35854"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -1063,38 +1147,26 @@
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35841</id>
-    <title>Soft Reserves, Learning and Bid Adjustment in Advertising Auctions</title>
+    <id>https://www.nber.org/papers/w35851</id>
+    <title>Latent Human Capital: How Early Investments in Parents Buffer Against Future Schooling Shocks</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Joshua S. Gans</name>
+      <name>Shruti Jha, John A. List, Rebecca C. Royer &amp; Anya Samek</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;An advertiser in a second-price auction sees what it paid, not the rival bids that supposedly set the price. Akbarpour and Li (2020) show that an auctioneer can therefore charge a winner up to its bid undetected. The Federal Trade Commission alleges that Amazon’s advertising auctions, described as second-price, used soft reserves that did this. We ask whether repeated bidding exposes such charges and what adjustment does to welfare. If each charge equal to the bid is flagged, the soft reserve is exposed quickly, however much the advertiser trusted the description. If reports show only win rates and expected charges, it is indistinguishable from a second-price auction at any fixed bid: an advertiser that trusts the description and bids its value never learns, and one that doubts it but bids for current profit needs a number of auctions at least inversely proportional to its doubt before it considers a soft reserve more likely than not. The second-price description and aggregate reporting are complements. Among informed, symmetric advertisers, the soft reserve raises no more revenue than a second-price auction, and when only some advertisers adjust, placements are misallocated. Disclosure returns surplus to advertisers; removing the surcharge also restores efficiency.</content>
-    <link href="https://www.nber.org/papers/w35841"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do early investments in parents pay off even when treatment effects for children appear to fade out quickly? We answer this question by leveraging a field experiment in which households with 3-5 year-old children were randomized into a parenting program, a preschool, or a control group, combined with a natural experiment (Covid-19 school closures) that occurred ten years later. Prior to the closures, treatment effects on academic achievement had faded to zero across all groups. Yet, with Covid-19 school closures, effects of the parenting program re-emerge: test scores in control and preschool groups drop by roughly 0.25-0.30 SD, whereas scores in the parenting group drop by only 0.11 SD (difference: p = 0.01). Our findings suggest that parenting programs can generate latent human capital that only becomes visible when complementary school inputs are removed. This result is consonant with parental and school investments acting as substitutes in skill production. Because this latent parental capacity pays off precisely when school inputs fail, standard measurement tools for early childhood programs can miss crucial state-contingent value.</content>
+    <link href="https://www.nber.org/papers/w35851"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35840</id>
-    <title>Asymmetric Reversals</title>
+    <id>https://www.nber.org/papers/w35852</id>
+    <title>Living in a Ghost Town: The Geography of Depopulation and Aging</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Federico Baldi-Lanfranchi, Pierre Collin-Dufresne &amp; Kent D. Daniel</name>
+      <name>Elisa Giannone, Yuhei Miyauchi, Nuno Paixao, Xinle Pang &amp; Yuta Suzuki</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Short-term return reversal is one of the most robust asset-pricing anomalies, and is commonly linked to liquidity provision. We decompose individual firm stock returns into two distinct components: SYS, the component of returns that can be linked to systematic risk and public information releases; and an orthogonal residual RES. The RES component reverses, while the SYS component exhibits continuation. Moreover, the residual reversals are highly asymmetric: positive residual shocks reverse much more slowly than negative shocks. A return factor based on asymmetric idiosyncratic reversal subsumes the idiosyncratic volatility factor and a broad set of other short-horizon anomalies. Our findings suggest that asymmetric idiosyncratic reversal (AIR) is the primary driver of short-term return predictability.</content>
-    <link href="https://www.nber.org/papers/w35840"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35839</id>
-    <title>Large Language Models as Voting Mechanisms</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Raša Karapandža &amp; Yaw Nyarko</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large language models (LLMs) increasingly provide economic and financial advice. We develop a microeconomic framework for understanding this role. We prove that an LLM acts like a voting rule: each input text is an election, possible continuations are candidates, and output probabilities are vote shares derived from the training corpus. Such rules can generate Condorcet cycles, implying intransitive pairwise recommendations and potential money-pump exploitation. Using ChatGPT-4o, we identify millions of cycles in pairwise investment choices among S&amp;P 100 firms. Our theorems establish the voting interpretation on the training data and support its use off-sample. We also show that correcting cycles ex post is generally infeasible. Finally, temperature changes the voting rule: at T = 1, outputs are sampled in proportion to vote shares; lower temperatures favor the plurality winner, whereas higher temperatures flatten probabilities toward uniformity.</content>
-    <link href="https://www.nber.org/papers/w35839"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How do depopulation and population aging evolve differently across regions within a country, and what are their implications for aggregate economic activity and regional inequality? Using spatially disaggregated data from Japan over the past several decades, we show that rural areas have experienced significantly faster depopulation and aging than urban areas, driven by low fertility and sustained out-migration of young cohorts. Regions undergoing these trends face declining local amenities and rising per-capita public service costs. To study the future evolution and economic consequences of these dynamics, we develop and calibrate a dynamic life-cycle spatial general equilibrium model. The model predicts widening geographic disparities in depopulation, aging, and economic activity in the coming centuries. While subsidies to declining regions can lower regional inequality, they come at the cost of lower aggregate efficiency and higher public service expenditures.</content>
+    <link href="https://www.nber.org/papers/w35852"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -1107,78 +1179,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Alcohol use, transactional sex, and gambling carry significant health and economic consequences. We conducted a randomized controlled trial in Kenya to assess whether these behaviors could be altered with a savings intervention that provided lottery-based interest, goal-setting support, and savings reminders. Over 24 months, the intervention increased formal savings and assets, financed primarily by lower spending on alcohol, transactional sex, and gambling. It also reduced hazardous drinking by 26 percent and intimate partner violence by 15 percent. HIV/STI incidence declined by 8 percent, though this was not statistically significant. Savings interventions can simultaneously boost financial security and change health behavior.</content>
     <link href="https://www.nber.org/papers/w35833"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35837</id>
-    <title>Approximating the Equilibrium Effects of Informed School Choice</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Claudia Allende, Francisco Gallego &amp; Christopher Neilson</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how information about school quality affects families’ choices and how scaling up the intervention changes its impact. In a randomized trial in Chile, we offer families a short video and a personalized school report card before they enroll their children. Treated families choose schools with higher test scores and value added. Among families reached before enrollment, treated children score about 0.2 standard deviations higher in fourth grade, with positive but less precise estimates on later assessments. We embed the experimentally identified demand shift in a structural model of school choice and competition to study equilibrium effects at scale. Capacity constraints and centralized assignment attenuate the demand-side gains, but the same shift in demand strengthens schools’ incentives to improve quality, and the supply response roughly offsets the congestion effect. More generally, equilibrium scaling can alter experimental effects in either direction because congestion and endogenous quality responses work against each other. We use the model to guide the design of a follow-up cluster-randomized experiment, focusing on the tradeoff between precision and contamination from equilibrium spillovers.</content>
-    <link href="https://www.nber.org/papers/w35837"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35836</id>
-    <title>Consumption, Savings, and Earnings Responses to Financial Windfalls</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Rajashri Chakrabarti, Philippe d'Astous, Kory Kroft, Sheisha Kulkarni, Vyacheslav Mikhed, Matthew J. Notowidigdo, Sahil Raina &amp; Barry Scholnick</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the causal effects of a financial windfall on consumption, savings, and wage earnings using linked administrative data on a large sample of Canadian lottery winners. Using separate linkages of lottery winners to income tax records and credit bureau data, we estimate how lottery winnings affect consumption measured through credit card spending, savings through financial asset accumulation and debt repayment, and wage earnings from tax records. We then examine how these responses vary across the income distribution. We find that high-income individuals allocated a larger share of lottery winnings to savings and leisure, while low-income individuals spent a larger share on consumption. We illustrate the policy relevance of these heterogeneous responses through three applications: designing fiscal stimulus programs, evaluating a Universal Basic Income (UBI), and determining optimal top tax rates on wage earnings and savings.</content>
-    <link href="https://www.nber.org/papers/w35836"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35835</id>
-    <title>Does Food Assistance Drive Spending on Sugary Foods? Evidence from the Pandemic Electronic Benefit Transfer Program</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Georgina Cisneros &amp; Brandyn F. Churchill</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We provide evidence on the extent to which food assistance affects spending on sugary items by studying the Pandemic Electronic Benefit Transfer (P-EBT) program, which provided funds to families of children who lost access to free and reduced-price school meals due to COVID-19 pandemic school closures. Leveraging state-level variation in the timing of P-EBT disbursements using a stacked difference-in-differences identification strategy with NielsenIQ Consumer Panel data, we find that P-EBT disbursement was associated with a 16-percent increase in weekly spending on sugary items among SNAP-eligible households with school-aged children. Notably, this increase exceeded the percentage increase in overall food spending for this group, suggesting that SNAP-eligible households with school-aged children allocated a disproportionately large share of their P-EBT-driven purchases toward sugary items relative to their pre-period baseline. We do not detect changes among households unlikely to have received P-EBT benefits or in placebo disbursement years.</content>
-    <link href="https://www.nber.org/papers/w35835"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35834</id>
-    <title>A Framework for Integrating Climate Goals into Trade Agreements</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Farid Farrokhi, Ahmad Lashkaripour &amp; Homa Taheri</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;A critical tension in global governance is that trade agreements have evolved largely in isolation from climate policy. This paper shows that the two domains generate systematic cross-externalities: larger gains from trade are associated with greater climate externalities imposed on partners, while linking carbon taxes to trade agreements produces distributive externalities that undermine the balance of trade concessions. To address this tension, we present a framework to integrate harmonized carbon pricing into the WTO subject to institutional and political-feasibility constraints. We explore two linkage designs. The first is a centralized Climate Fund, where all members apply a common demand-side carbon tax and contribute a portion of the revenues to the fund, capped by fiscal constraints. The Fund then reallocates these contributions to balance the tax burden across countries, subject to informational constraints. Quantitative analysis shows that even a simple fund allocation rule can sustain a carbon price of $138 per ton of CO2, reducing global emissions by 54%. The main binding constraint is informational: knowing the precise incidence of the carbon tax across countries ex ante would raise the feasible price to $265. The second is a decentralized design without transfers. Each member meets a carbon tax revenue floor but retains full discretion over its mix of demand-side and supply-side taxes. Energy exporters choose supply-side taxes while energy importers opt for demand-side taxes. These choices organically balance the tax burden and yield a 47% reduction in global emissions, almost rivaling the centralized Climate Fund.</content>
-    <link href="https://www.nber.org/papers/w35834"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35838</id>
-    <title>When Does Bad News Stick? Topic-Level Asymmetry in Narrative Dynamics</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isha Agarwal, Wentong Chen &amp; Eswar S. Prasad</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;When does bad news stick? This paper shows that the persistence of media sentiment depends not only on whether news is good or bad, but also on what the news is about. Using the complete Wall Street Journal archive from 1990 to 2025, we construct monthly positive and negative sentiment indices for twelve economic topics and estimate topic-specific sentiment dynamics. Bad-news innovations generate larger cumulative responses than positive-sentiment innovations in every topic, indicating that negativity asymmetry is a broad feature of media sentiment. But the size of this asymmetry varies sharply across topics. The bad-minus-positive persistence gap is largest in security and human rights, firms and corporate strategy, health and public safety, and real estate and financial stability. Bad-news persistence is also sizable in data-rich topics such as financial markets, real estate, and corporate news, suggesting that frequent information arrival does not necessarily lead narratives to revert quickly. These findings show that aggregate sentiment indices mask substantial topic-level heterogeneity in the asymmetric dynamics of narratives, with potential implications for how persistent negative sentiment shapes expectations, asset prices, and real economic outcomes.</content>
-    <link href="https://www.nber.org/papers/w35838"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35846</id>
-    <title>Are Prediction Markets Politically Biased?</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Eric Zitzewitz</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;As prediction markets become more prominent, there are concerns that they will be a conduit for political bias. I analyze prediction markets returns from 1880 to 2025 and find no evidence of an overpricing of either left or right-leaning candidates, across a variety of subsamples. In recent elections, there is also no overpricing of either male or female, white or non-white, or young or old candidates. Most political prediction markets exhibit a favorite-longshot bias, and markets on near-term polling averages exhibit a very small overpricing of left-leaning outcomes (e.g., President Trump’s approval falling), which is detectable only because the sample size is large. For elections, however, despite attracting participants who may not be representative of the voting population, prediction markets yield predictions without systematic bias.</content>
-    <link href="https://www.nber.org/papers/w35846"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
