@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-17T16:00:46.242894+00:00</updated>
+  <updated>2026-10-18T00:27:38.899114+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1369,6 +1369,18 @@
     <link href="https://doi.org/10.1057/s41267-026-00914-2"/>
     <category term="Journal of International Business Studies"/>
     <published>2026-10-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261489981</id>
+    <title>EXPRESS: Evaluating the Impacts of Bundling on a Firm’s Product Demand and Operational Decisions</title>
+    <updated>2026-10-17T00:00:00+00:00</updated>
+    <author>
+      <name>Shu-Jung Sunny Yang, Yingying Huang, Hsin Lu, Yuan-Hao Chu</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Firms use bundles to influence customer demand, but supplying those bundles often requires operational capacity that is shared across the portfolio. Changing the price, composition, or availability of one bundle can therefore trigger two reallocations: customers reallocate expenditure across bundles, and the firm reallocates operational capacity across the demand those bundles generate. We develop a data-driven framework that links these two decisions. Heterogeneous consumers choose discrete bundle quantities subject to a common budget, while the firm jointly chooses bundle prices and quantities subject to bundle-specific and shared-resource requirements. We estimate the demand and supply models from observed discrete decisions using Bayesian Markov Chain Monte Carlo, retaining the integer structure in estimation and counterfactual analysis. We apply the framework to three empirical settings: public bike sharing, online retail, and theme-park services. The empirical analyses reveal several consequences of evaluating bundles as part of a portfolio. Customer value and profit contribution need not be aligned: a bundle that creates substantial customer value can make little or no incremental contribution to optimized profit, and removing some bundles can increase profit after the remaining portfolio is re-optimized. Price responses differ across bundles because discrete purchases adjust at different thresholds. A bundle's response to tighter shared-resource requirements depends on how its resource use changes the allocation of operational capacity elsewhere in the portfolio, rather than on its characteristics alone. Finally, deeper discounts need not generate larger incremental profit contributions; in the theme-park application, an intermediate discount can outperform both deeper and shallower discounts after the portfolio is re-optimized. Bundle design is a portfolio problem: a bundle's contribution depends not only on the demand it generates, but also on the customer and operational adjustments it induces elsewhere in the portfolio.</content>
+    <link href="https://doi.org/10.1177/10591478261489981"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70051</id>
