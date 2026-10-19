@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-18T17:34:17.367386+00:00</updated>
+  <updated>2026-10-19T12:45:20.431465+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1383,6 +1383,66 @@
     <published>2026-10-17T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261502217</id>
+    <title>EXPRESS: Assortment Optimization Given Basket Shopping Behavior Using the Ising Model</title>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <author>
+      <name>Andrey Vasilyev, Sebastian Maier, Ralf W. Seifert</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In markets where customers tend to purchase baskets of products rather than single products, assortment optimization is a major challenge for retailers. Removing a product from a retailer's assortment can result in a severe drop in aggregate demand if this product is a complement to other products. Therefore, accounting for the complementarity effect is essential when making assortment decisions. In this paper, we develop an analytical framework designed to address this problem. We model customers' choices using the binary Ising model, which is a special case of a Markov random field. This model captures pairwise demand dependencies as well as the individual attractiveness of each product, with binary variables indicating whether products are included in the purchased basket. For estimation, we utilize existing methods developed for the spin formulation of the Ising model and then apply a parameter transformation to express the fitted model in the binary form used for assortment optimization. We show that the assortment optimization problem under the Ising model is NP-hard. We also provide multiple theoretical insights into the structure of the optimal assortments based on the graphical representation of the Ising model, and propose several heuristic algorithms that can be used to obtain high-quality solutions to the assortment optimization problem. Our numerical analysis demonstrates that the developed simulated annealing procedure leads to an expected profit gain of 15% compared to offering an unoptimized assortment (where all products are included) and around 5% compared to using a revenue-ordered heuristic algorithm.</content>
+    <link href="https://doi.org/10.1177/10591478261502217"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261502330</id>
+    <title>EXPRESS: Expanding Markets or Capturing Share? The Competitive Effects of Subscriptions on Spending in Restaurant Delivery</title>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <author>
+      <name>Daniel M. McCarthy, Shin Oblander, Young-Hoon Park, Yeohong Yoon</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Subscription programs are increasingly central to platform strategy, but their effects on competitors and category demand remain unclear. The authors study restaurant delivery subscriptions using individual-level transaction data on Postmates Unlimited, the first widely available U.S. subscription program in the category, and DoorDash's later DashPass program. Using a matched, staggered difference-in-differences design, they find that signing up for Postmates Unlimited is associated with a 90.4% increase in spending at the focal firm, with no significant average change in competing-firm spending and no offsetting decline in adjacent food categories, consistent with category expansion. Competitive effects depend on customers' prior platform usage. For “singlehomers” (who only used Postmates prior to subscribing), subscribing is associated with increased spending at both the focal firm and competing platforms, even after cancellation. For “multihomers” (who had also previously used competing platforms), the focal-firm effect is larger, and competing-firm spending falls while customers remain subscribed; after cancellation, the focal-firm lift persists, but the decrease in competitor spending does not. DashPass results are broadly similar, but customers with prior Postmates subscription experience show little increase in category spending. Together, these findings suggest subscriptions can both expand markets and capture share, depending on prior platform usage and subscription experience.</content>
+    <link href="https://doi.org/10.1177/00222437261502330"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2026-10-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/hrm.70103</id>
+    <title>Ethnographic Theorizing in Human Resource Management: From Theory‐as‐Design to Theory‐in‐Use</title>
+    <updated>2026-10-18T00:00:00+00:00</updated>
+    <author>
+      <name>Jaejin Lee, Nina Jörden</name>
+    </author>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Research on human resource management (HRM) has generated influential frameworks for explaining the relationships between HR practices and organizational outcomes. Existing accounts offer less insight into how the frameworks informing those practices acquire meaning, authority, and practical traction in organizational settings. We conceptualize this as a gap betweentheory‐as‐designandtheory‐in‐useand develop ethnographic theorizing as a mode of examining the use‐life of selected design‐oriented HRM frameworks. Our contribution is twofold. First, we specify how sustained immersion, temporal depth, embodied co‐presence, and relational obligation enable researchers to follow frameworks as they are enacted and negotiated. Second, we develop three recursively related analytic moves for theory development—Complement, Complicate,andReframe—through which ethnographic evidence can elaborate, qualify, or revise existing theoretical accounts. We demonstrate this approach through two ethnographic studies of HR analytics in different organizations. The comparison shows how legitimacy work, identity negotiation, and meaning‐making shaped the enactment of data‐driven HRM in these settings. The paper thus offers a structured approach for studying how established HRM frameworks operate in use and for assessing when situated evidence warrants changes to their constructs, relationships, or boundary conditions. In addition, we discuss implications for HRM theory, research design, and practice.</content>
+    <link href="https://doi.org/10.1002/hrm.70103"/>
+    <category term="Human Resource Management"/>
+    <published>2026-10-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261500799</id>
+    <title>EXPRESS: Improving Operational Performance through Boarding Time Slack: Evidence from the U.S. Airline Industry</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Chandrasekhar Manchiraju, Ashutosh Bhave, Milind G. Sohoni</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Flight delays have a significant impact on airlines, passengers, and the U.S. economy. Airlines also use flight on-time performance (OTP) – a metric based on the proportion of delayed flights – to attract travelers by demonstrating service reliability. It is well established that adding buffers to flight time and ground time improves on-time arrivals. However, such buffers can impose significant costs. The flight and ground times comprise multiple activities, and prior research has primarily focused on studying the impact of aggregate buffers. In this paper, we study the impact of increasing the buffer of a critical ground time activity, namely boarding time, potentially without increasing the aggregate ground time buffer, on flight delays. To do so, we use the context of Delta Air Lines' recent policy changes wherein the airline increased the boarding time for domestic narrow-body flights by 5 minutes and started compensating flight attendants for pre-flight boarding. Using a Difference-in-Difference-in-Differences framework, we analyze and quantify the impact of these policies on Delta’s flight delays. Our findings indicate a significant reduction in departure delays following the policy changes, with increased boarding time playing a critical role in improving on-time departures. Our analysis finds no evidence that boarding compensation contributed to the improvement in on-time departures. We show that the increase in boarding time can improve the likelihood of on-time departures, potentially without requiring additional total ground time or incurring additional scheduling costs. We observe that the benefit is more pronounced for longer flights, busier routes, and later departures in the day. Airlines are often criticized for relying on costly, ad hoc schedule buffering to improve OTP. However, our results demonstrate that carefully planning buffer time for critical activities can significantly improve operational performance.</content>
+    <link href="https://doi.org/10.1177/10591478261500799"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2024.19136</id>
+    <title>Action-oriented Narratives. How Innovation Emerges from Crowd Discussions</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Claudio Biscaro, Arvind Malhotra, Ann Majchrzak</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Crowds are increasingly invited to tackle complex innovation problems. However, our understanding of how crowds solve these problems has limited our ability to utilize them effectively. In this article, we examine how a crowd tasked with finding ways to preserve New Zealand’s native flora and fauna achieves solutions to this complex innovation problem through discussion. Our analysis reveals that discussions leading to innovative solutions differ from those leading to non-innovative solutions: innovation-yielding discussions (1) mobilize more Resources than Constraints, (2) converge on a single Goal, and (3) specify few (often one) responsible Subject(s); vis-à-vis, discussions leading to non-innovative solutions often surfaced multiple goals—thereby sustaining multiple problem framings—while subjects remained vague, implicit, or multiplied, and constraints frequently outnumbered resources. Moreover, we show how the specific weavings of these discursive elements support the crowd’s navigation of the complex innovation problem. Three discursive maneuvers – subject-goal anchoring, repurposing distant knowledge, and layering resources – are fundamental navigational tools used by the crowd to form what we call ‘action-oriented narratives:’ simple, dynamic, and evolving linguistic structures that enable collective problem exploration while giving room for localized improvisation. We contribute to the literature on problem solving by showing how specific linguistic activities alter individuals’ capacity to contribute to and solve complex problems. We also contribute to the literature on linguistic structures supporting innovation by showing that the types of discussions that support innovation depend on the openness of the setting.</content>
+    <link href="https://doi.org/10.1287/orsc.2024.19136"/>
+    <category term="Organization Science"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/sej.70051</id>
     <title>Paid‐free differentiation in freemium: Understanding the balance between discovery and cannibalization and its implications for paid product sales</title>
     <updated>2026-10-02T00:00:00+00:00</updated>
@@ -1947,202 +2007,6 @@
     <link href="https://doi.org/10.1111/joms.70161"/>
     <category term="Journal of Management Studies"/>
     <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/sej.70048</id>
-    <title>Startup multihoming in enterprise software ecosystems: The role of skill breadth and organizational learning</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Vijayaraghavan Venkataraman, Marco Ceccagnoli, Chris Forman</name>
-    </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;We investigate startup decisions to multihome to another platform. We develop a theory that shows startup engagement with the initial platform leads first to exploratory learning and later a shift toward exploitation, leading to an inverted U‐shape relationship between duration of platform partnership and the likelihood of multihoming. This tradeoff is shaped by the breadth of the startup's skill base. Startups with a broader set of skills initially face slower learning, but over time skill breadth provides greater adaptability that better positions them for multihoming. We test our theory using a novel dataset on SAP partners' multihoming decisions, examining the implications of Oracle acquisitions that increased the expected benefits of multihoming. Our empirical findings are consistent with our hypotheses.Managerial SummaryThe growth phase forms an important part of any startup's evolution, particularly when engaging with digital platform ecosystems, where expansion often depends on the ability to multihome. Startups' accumulated experience with a platform shapes how they respond when opportunities to expand to another platform arise. Startups with moderate levels of prior platform experience are most likely to expand, while longer relationships can create dependencies that reduce flexibility. Importantly, the breadth of a startup's skill base changes this trajectory. Startups with diverse skills are better able to avoid lock‐in and remain flexible, even after long partnerships. Evidence from the enterprise software ecosystem shows managers should see platform partnerships as both opportunity and risk, investing in broad skill sets to balance deep collaboration with the ability to grow across platforms.</content>
-    <link href="https://doi.org/10.1002/sej.70048"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261495686</id>
-    <title>The role of post-purchase communications on product returns and downstream consequences in online apparel retail</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Punya Chatterjee, Susana Jaramillo, Ganga S Urumutta Hewage, Gretchen R Ross</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The expansion of online apparel retail has introduced a persistent challenge: subtle mismatches between consumer expectations about a product and the reality—particularly regarding attributes like color or texture—often leading to dissatisfaction and costly returns. While prior research has primarily focused on pre-purchase solutions such as virtual try-ons or detailed product descriptions, these tactics are not always effective and are often inaccessible to small- and medium-sized apparel
-                    
-                    sellers—who
-                    
-                    comprise the vast majority of firms in the apparel sector—due to resource constraints. In this article, we explore a low-cost alternative: strategic post-purchase messaging—seller-initiated communications designed to reassure consumers of the product's quality, acknowledge potential concerns that the product may not be as expected, explain potential discrepancies, and offer recovery strategies and additional product-related guidance after a purchase is complete. Across three empirical studies we find that when consumers experience minor expectation-reality gaps, post-purchase messages sent at the time of delivery can reduce product return intentions and enhance positive downstream consequences, including, satisfaction, word-of-mouth, and repurchase intentions. A follow-up mixed-method survey conducted with small- and medium-sized online sellers supports the empirical findings that sending such messages is logistically and financially feasible. We identify perceived seller trustworthiness as the psychological mechanism driving this effect. Product reputation (based on consumer reviews) and post-purchase message content are explored as two theoretically derived moderators of the effect. Our findings make theoretical contributions and offer practical guidance—particularly for small- and medium-sized online apparel sellers seeking scalable, cost-friendly ways to manage product mismatches and strengthen consumer engagement in the absence of high product reputation.</content>
-    <link href="https://doi.org/10.1177/10591478261495686"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261495695</id>
-    <title>Agile approaches for gaming software development</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Joohyun Kim, Monica Johar, Vijay Mookerjee</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online games increasingly operate as continuously evolving live services enabled by agile and continuous integration/continuous deployment-based development. In such environments, release timing is no longer a downstream scheduling choice but an operational control variable that interacts directly with functionality growth, error accumulation, and system complexity. This article develops a multi-release optimal control framework that endogenizes release timing and user-facing value. Extending the functionality and error dynamics structure from prior work, we embed repeated release decisions directly into the development process and characterize how construction effort, debugging effort, and cadence jointly determine long-run value creation. Within this framework, we analyze two structured release regimes widely observed in practice: a time-based release policy, with fixed sprint duration, and a functionality-based release policy, with fixed feature scope. We show that incremental release value declines endogenously as integration complexity increases. Under time-based policies, the number of new features delivered per release decreases over time. Under functionality-based policies, maintaining fixed feature bundles requires progressively longer development intervals. In both regimes, effort shifts systematically from construction toward debugging as the system matures. We further introduce a hybrid release policy as a supplementary benchmark, allowing the firm to switch between time-based and functionality-based policies subject to a switching cost. This benchmark identifies conditions under which policy flexibility improves release performance while preserving the operational structure of the two release regimes. The results provide an operations-based theory of release cadence under endogenous complexity growth in software systems with repeated deployment.</content>
-    <link href="https://doi.org/10.1177/10591478261495695"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261495674</id>
-    <title>Learning to price under competition with reference price effects</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Yongge Yang, Jiannan Ke, Cong Shi</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This article studies the algorithmic design of price competition in oligopolistic markets, with a focus on long-run market dynamics under reference price effects. We consider a sequential price competition framework with multiple sellers operating over a finite horizon, each lacking prior knowledge of the demand functions. Consumer demand depends not only on current prices but also on a reference price, defined as a weighted average of past prices that shapes consumer expectations. We characterize market stability through the concept of a stationary Nash equilibrium (SNE), where no seller has an incentive to deviate unilaterally and the reference price remains stable. To operate under incomplete demand information and limited observability of competitors’ prices, we propose a Simultaneous Perturbation Stochastic Approximation with Callbacks (SPSAC) policy. Despite the lack of a monotonicity condition, which is typically required for convergence in online games, we show that this policy achieves a last-iterate convergence rate ofO(1/T)for both prices and reference prices toward the SNE, along with a dynamic regret ofO(T)overTperiods. We further consider three extensions. In the first extension, when sellers have access to first-order feedback, the convergence rate improves toO(1/T), highlighting the value of demand information in simplifying sequential price competition. In the second extension, where prices have long-term effects on the reference price and demand evolves as a nonstationary stochastic process, and in the third extension, where each seller maintains its own reference price, our policy continues to guaranteeO(1/T)convergence andO(T)dynamic regret.</content>
-    <link href="https://doi.org/10.1177/10591478261495674"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.2478</id>
-    <title>Subsidised Proportionality in Fair Allocation</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Xiaowei Wu, Cong Zhang, Shengwei Zhou</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;The Price of a Fair ShareImagine dividing a limited set of resources among a group of people. When the items cannot be split, even a carefully chosen allocation may leave someone feeling shortchanged. One practical response is to offer compensation, but then a new question arises: how much money is enough? This paper develops ways to make such allocations fair while keeping the total compensation as small as possible. It identifies the exact worst-case cost when everyone has the same claim and provides strong guarantees when claims differ. The approach works for both desirable resources and burdensome tasks. The findings appear in the forthcoming Operations Research paper, “Subsidised Proportionality in Fair Allocation,” by Xiaowei Wu, Cong Zhang, and Shengwei Zhou.</content>
-    <link href="https://doi.org/10.1287/opre.2025.2478"/>
-    <category term="Operations Research"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2022.0630</id>
-    <title>In Which Matching Markets Do Costly Compatibility Inspections Lead to a Deadlock?</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Nicole Immorlica, Yash Kanoria, Jiaqi Lu</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;When Learning About a Match Stalls the MarketIn many matching markets, participants must investigate whether a match is feasible. When inspection is costly, participants may delay investigating a potential match until both sides have effectively committed. Such caution can cause each side to wait for others to act, creating an “information deadlock.” In their article, “In Which Matching Markets Do Costly Compatibility Inspections Lead to a Deadlock?” Immorlica, Kanoria, and Lu study this problem in random two-sided markets. They characterize how deadlock depends on the market balance, market connectivity, and the chance that inspections succeed. Using statistical physics tools, their analysis identifies phase transitions between deadlock-free and deadlocked markets. The findings offer design guidance: More choice is not always better; match rates are highest at the deadlock phase boundary; and parallel inspections and clearer participant differentiation can reduce the extent to which waiting chains stall the market.</content>
-    <link href="https://doi.org/10.1287/opre.2022.0630"/>
-    <category term="Operations Research"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07339</id>
-    <title>How Awareness of Media Slant Affects Reaction to News: Field and Experimental Evidence from Microblog Users</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Yihong Huang, Juanjuan Meng, Xi Weng</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper investigates whether news consumers react strategically to media slant. Using data from Microblog users and an online experiment that varies whether sources and stances are disclosed, we find that users are more likely to repost news consistent with their own attitudes, yet they also exhibit a higher propensity to repost news inconsistent with the reporting outlet’s general stance. Evidence suggests that this latter behavior reflects strategic inference: users recognize the outlet’s tradeoff between popularity and stance, and thus infer greater popularity for inconsistent news. Heterogeneity analysis indicates that users with stronger Bayesian updating and level-k reasoning abilities display larger strategic reactions. Finally, we show that simply reminding users of media slant can serve as an effective nudge to foster more strategic responses.This paper was accepted by John Beshears, behavioral economics and decision analysis.Funding: This work was supported by National Natural Science Foundation of China [Grants 72225002, 72394393, 72225001, 72192843, 72531001].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07339 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07339"/>
-    <category term="Management Science"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.02137</id>
-    <title>Who Directs the Control Tower? Customer vs. Supplier-Managed Inventory in Supply Chains</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Shi Chen, Morris A. Cohen, Hau L. Lee</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Information distortion and incentive misalignment often undermine supply chain performance. In response, many firms adopt a “control tower” approach, whereby one party assumes responsibility for replenishment decisions across the supply chain. Industry examples showed that this role may be assigned to the customer, Customer-Managed Inventory (CMI), or to the supplier, Supplier-Managed Inventory (SMI). This paper investigates when one governance structure is preferable. We study a two-echelon, one-to-many supply chain consisting of a single supplier and a customer operating multiple warehouses. We characterize optimal base-stock policies and equilibrium holding-cost-sharing parameters under CMI and SMI and benchmark them against decentralized operations and a fully centralized system. Two primary forces shape the choice between CMI and SMI: the relative shortage penalty costs of the two parties and the structure of the customer’s distribution network. Specifically, CMI is preferred when the customer faces relatively higher shortage penalties and operates in a more asymmetric environment—for example, when demand is concentrated in a subset of its warehouses or when replenishment lead times vary substantially across these locations. In contrast, SMI is favored under opposite conditions. We further examine how intertemporal and interspatial demand correlations affect this comparison. A key finding is that, although neither CMI nor SMI achieves the first-best outcome, their efficiency loss relative to full centralization is typically small. Calibrated numerical studies based on four industry cases disentangle the incremental value of information sharing, decision-right transfer, and cost sharing, showing that most performance gains stem from decision-right transfer supported by appropriate holding-cost sharing.This paper was accepted by Jayashankar Swaminathan, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02137 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.02137"/>
-    <category term="Management Science"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261496232</id>
-    <title>EXPRESS: The Double-Edged Offline Touchpoint: How Self-Pickup Stations Reshape Pure-Play E-Commerce Transactions</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Jingcun Cao, Zhiqi Li, Chenxi Liao, Ying Xie</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Click-and-collect services through self-pickup stations have gained popularity as an alternative to traditional home delivery in e-commerce. This fulfillment option can increase customer purchases by enhancing post-purchase convenience and reducing transaction costs. However, increased hassle costs for customers and exposure to offline competition make the net impact uncertain. This study utilizes a Synthetic Difference-in-Differences (SDID) approach to analyze individual-level transaction data from an online shopping platform in Asia. Self-pickup station openings are found to have a positive net effect on customer spending and shopping frequency on the platform, without cannibalizing home delivery. A closer examination of customer dynamics reveals that station openings stabilize the platform’s user base by reducing customer churn and deepening engagement among existing shoppers, rather than driving new user acquisition. Furthermore, these positive effects are moderated by: station accessibility, level of nearby offline competition, and product attributes. Specifically, this paper provides the first empirical evidence that the positive effect of pickup stations can be reduced, if platforms locate them close to major offline retail alternatives. These findings provide important implications for e-commerce platforms regarding self-pickup station benefits, product suitability, and location strategy to reduce the risk of customer loss to offline retailers.</content>
-    <link href="https://doi.org/10.1177/00222429261496232"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70167</id>
-    <title>Between Play and Reason: Integrating Sensible Foolishness Into Strategy‐Making Workshops</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Rebecca Lu, Gary T. Burke, Omid Omidvar, David J. Carrington</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Sensible foolishness through play can offer a valuable escape from prevailing dogmas and rational models of intelligence, affording actors freedom to explore, imagine, and create without constraint. Yet the value of sensible foolishness, and the vital interplay between play and reason, remains underexplored in strategy scholarship. Drawing on a qualitative experimental study of three SMEs, we examine how high‐stakes strategic challenges can be addressed through sensible foolishness. Our analysis shows how the interplay between play and reason gains generative momentum during strategy‐making workshops, as actors co‐create playful atmospheres and shift into more expressive, embodied ways of being. We identify three transitional modes –deliberate,dialectical, anddwelling– through which actors integrate play and reason and co‐produce moments of strategic insight and value. We develop a process theory of integrating sensible foolishness into strategy‐making, showing how attuned facilitation and atmospheric shifts enable its enactment as a collective, affectively sustained mode of strategizing. This extends debates in strategy and serious play scholarship by advancing a practice‐based view of sensible foolishness as a complementary instrument of collective strategic intelligence.</content>
-    <link href="https://doi.org/10.1111/joms.70167"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1057/s41267-026-00907-1</id>
-    <title>Commentary on Han et al.’s meta-analytic work on high-investment human resource practices: through the 3P lens for workforce management</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Riki Takeuchi, He Huang, April Ye Zhou, Hwayoung Kim, Zelu Zhang</name>
-    </author>
-    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Han, Kang, Allen and Pan’s (2026) meta-analysis integrates human capital resources (HCR) theory and institutional theory to examine how educational systems and labor market institutions jointly influence the effectiveness of high-investment human resource practices (HIHRPs). Contrary to their theoretical prediction, low–low educational system and labor market configurations relate to firm performance as positively as high–high configurations do, and that puzzle remains unresolved. This combination describes the institutional profile of many host economies, which makes it an international business problem: should multinational enterprises transfer their HIHRPs abroad or adapt to local practice? This commentary outlines substitution effects, drawn from the institutional voids literature and organizational support theory, as an alternative mechanism that may better account for its effect. We reflect that theoretical parsimony, while elegant, could oversimplify and obscure complex phenomena that span multiple levels of analysis, the types of topics that strategic international human resource management (SIHRM) aims to research. We then propose a people–places–practices (3P) lens to note the theoretical directions Han et al.’s work addresses and those it leaves for future work. The commentary illustrates how deliberate theory integration, guided by the specific research question and institutional context, can enhance explanatory power in SIHRM research.</content>
-    <link href="https://doi.org/10.1057/s41267-026-00907-1"/>
-    <category term="Journal of International Business Studies"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70088</id>
-    <title>An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>CHRISTOPHER J. PALMER</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;I develop a control function methodology robust to endogenous or mismeasured regressors in hazard models. Applying the estimator to the subprime mortgage crisis, I quantify what caused the foreclosure rate to triple across the 2003 to 2007 subprime cohorts. To identify the elasticity of default to housing prices, I use various home price instruments including historical variation in home price cyclicality. Loose credit played a significant role in the crisis, but much of the increase in defaults across cohorts was caused by price declines unrelated to lending standards, with a 10% price decline increasing subprime mortgage default rates by 50%.</content>
-    <link href="https://doi.org/10.1111/jofi.70088"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/1475-679x.70089</id>
-    <title>Partisanship, Information, and Punishment for Misconduct at Work</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>VIVEK PANDEY, JOANNA S. WU, YUANZHE ZHANG</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We examine whether firms apply partisan standards when responding to employee financial misconduct. Using detailed individual‐level data on financial advisers, we find that advisers who are in the political minority at their firm (political minority advisers) are no different from their colleagues at the same firm and time in the incidence and severity of misconduct, yet following misconduct, they are significantly more likely to depart—a pattern we term “partisan punishment standards.” This pattern is especially pronounced at firms with lower internal information quality (IIQ), proxied with (1) lower external reporting quality (for public firms only), (2) private firms (relative to public firms), and (3) not hiring an independent public accountant to create an internal control report (for both public and private firms). We also document “partisan reporting standards”: Firms are more likely to publicly disclose misconduct by political minority advisers while remaining relatively silent in other cases. Firms that exhibit partisan punishment practices subsequently experience slower growth.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70089"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261485969</id>
-    <title>How Can We Research Social Mobility in Entrepreneurship?</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Elsa T. Chan, Steven A. Brieger, Ngoc Luu, Marii Paskov, Mirela Xheneti</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Social mobility is a central concern in contemporary societies, yet its dynamics within entrepreneurship remain insufficiently understood. This paper’s purpose is to facilitate research on entrepreneurial social mobility by making three key contributions: first, we examine the distinct conceptual and methodological challenges related to capturing social mobility in entrepreneurship and provide strategies for solving them; second, we introduce multidimensional social mobility measures that move beyond the predominant focus on income-based metrics in existing quantitative research; third, we demonstrate how alternative quantitative and qualitative methods can produce more holistic evidence for understanding social mobility among entrepreneurs.</content>
-    <link href="https://doi.org/10.1177/10422587261485969"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10422587261485961</id>
-    <title>Appearance-Based Legitimate Distinctiveness: Founder Attractiveness, Gender, and Venture Evaluations</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Henrik Lekkas, Torben Antretter, Ivo Blohm, Charlotta Sirén, Joakim Wincent</name>
-    </author>
-    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;This study proposes a way to reconcile the beauty premium and beauty-is-beastly arguments by suggesting that founder appearance is processed through two separable and countervailing channels: perceived legitimacy and perceived distinctiveness. We further theorize that in startups, the relationship is gendered, because women do not fit the entrepreneurial prototype, limiting their perceived legitimacy. A field study of 359 founders supports our theorizing that male founders are evaluated best when moderately attractive, while female founders see no significant attractiveness effects. A preregistered experiment with 771 participants, using AI-manipulated attractiveness, does not confirm these patterns but supports our theorizing about both mediators.</content>
-    <link href="https://doi.org/10.1177/10422587261485961"/>
-    <category term="Entrepreneurship Theory and Practice"/>
-    <published>2026-09-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00018392261477694</id>
-    <title>“Clean” Meat? Regulatory Entrepreneurship and Jurisdictional Contestation in a Nascent Industry</title>
-    <updated>2026-09-28T00:00:00+00:00</updated>
-    <author>
-      <name>Cheng Gao, Alicia DeSantola, Nina Guilbeault</name>
-    </author>
-    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;In nascent industries, uncertainty about which regulatory agency has jurisdiction is often a major challenge for pioneering ventures. Yet, much of the literature on new ventures’ nonmarket strategy takes for granted the existence of a designated regulator. How do ventures manage regulatory jurisdictional uncertainty? We conduct an inductive, multi-case research study on how entrepreneurial organizations pioneering the nascent cell-cultivated-meat industry navigated such uncertainty in the United States between 2015 and 2019. Drawing on extensive semi-structured interviews and archival data, we uncover stratagems and processes that organizations employ across three phases of regulatory jurisdictional uncertainty: jurisdictional void, contestation, and convergence. Our resulting theoretical framework distinguishes two overarching strategies—complementaryandoppositional—and unpacks their underlying mechanisms, theorizing how they enable organizations to influence jurisdictional uncertainty. Our study uniquely elucidates the rich dynamics among the disparate actors that compose nascent technology-enabled industries: new ventures, nonprofits, incumbents, investors, and regulators. More broadly, it provides a fresh perspective on how entrepreneurial organizations shape the regulatory architecture of the industries they are striving to create.</content>
-    <link href="https://doi.org/10.1177/00018392261477694"/>
-    <category term="Administrative Science Quarterly"/>
-    <published>2026-09-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70046</id>
