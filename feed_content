@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-19T12:45:20.431465+00:00</updated>
+  <updated>2026-10-20T12:43:50.659755+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1419,6 +1419,42 @@
     <published>2026-10-18T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70137</id>
+    <title>Investors' ideology and corporate symbolic and substantive climate actions</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Chang Liu, Wei Shi</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;Prior research suggests that institutional investors' liberalism is associated with firms' engagement in environmental sustainability, yet whether this association manifests in symbolic or substantive actions remains unclear. Taking a question‐driven approach, our analyses of Russell 3000 firms (2010–2020) reveal that investor liberalism, measured as the proportion of donations made to the Democratic Party, is positively associated with symbolic climate actions only from 2016 onward (a period when political polarization intensified), reversing a negative association during 2010–2015. Its positive association with substantive actions from 2016 onward, however, appears only among consistent Democratic donors (stronger liberal values), among dedicated investors, or in firms without CEO duality (greater investor influence). These findings indicate that liberal investor ownership may encourage, rather than deter, firms' environmental decoupling.Managerial SummaryLiberal institutional investors tend to favor greater corporate environmental sustainability efforts, but are they associated with firms' symbolic or substantive climate actions? Our findings based on U.S. firms reveal that across the full 2010–2020 period, firms with more liberal investors, as indicated by their Democratic‐leaning political donations, do not exhibit more symbolic or substantive climate actions. From 2016 onward, as political polarization intensified, firms with more liberal investors exhibited more symbolic climate actions but not substantive ones. During this period, only investors with stronger liberal commitment (i.e., consistent Democratic donors) are associated with more substantive actions. Democratic‐donating investors are also associated with more substantive actions when they are dedicated investors or when firm CEOs do not chair their boards.</content>
+    <link href="https://doi.org/10.1002/smj.70137"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhag092</id>
+    <title>How Private Equity Fuels Nonbank Lending</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Sharjil Haque, Simon Mayer, Teng Wang</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We demonstrate how private equity (PE) promotes nonbank lending by substituting for bank monitoring. Relative to non-PE-backed loans, PE-backed loans exhibit lower bank monitoring, smaller loan shares retained by lead banks, and larger shares held by nonbanks. The substitution is strongest when sponsors have greater incentives to engage with portfolio firms, is not associated with weaker loan performance, and persists during borrower distress. Our findings suggest that PE sponsors’ active engagement—through monitoring and support in distress—reduces banks’ need for monitoring and information production, enabling them to retain less skin in the game and sell loans to nonbanks.</content>
+    <link href="https://doi.org/10.1093/rfs/hhag092"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/rfs/hhag093</id>
+    <title>Optimal Information and Security Design</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Nicolas Inostroza, Anton Tsoy</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal. (JEL D82, D86, G32)</content>
+    <link href="https://doi.org/10.1093/rfs/hhag093"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10591478261500799</id>
     <title>EXPRESS: Improving Operational Performance through Boarding Time Slack: Evidence from the U.S. Airline Industry</title>
     <updated>2026-10-19T00:00:00+00:00</updated>
@@ -1443,6 +1479,102 @@
     <published>2026-10-19T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2025.2250</id>
+    <title>Semibandit Learning for Monotone Stochastic Optimization</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Rohan Ghuge, Zhengjia Zhuo, Arpit Agarwal, Viswanath Nagarajan</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Learning When Demand Is UnknownAirlines launching new routes cannot wait for years of historical data before deciding how many seats to offer at each fare or what prices to charge. They must learn when operating, often from incomplete feedback: selling 30 economy plus seats does not reveal whether demand was 30, 40, or more. In the accepted Operations Research paper “Semibandit Learning for Monotone Stochastic Optimization,” Rohan Ghuge, Zhengjia Zhuo, Arpit Agarwal, and Viswanath Nagarajan develop a general framework for such decisions. They identify a basic property, monotonicity, that allows an optimization method built for known demand distributions to become a learning algorithm for unknown distributions. The framework applies to airline and hotel revenue management, sequential posted pricing, and optimal-stopping problems. Even with partial, censored, or yes-or-no feedback, its cumulative performance gap grows essentially at the square root rate, best possible up to logarithmic factors. Firms can, therefore, improve decisions as data arrive without pausing operations for a separate data-gathering phase.</content>
+    <link href="https://doi.org/10.1287/opre.2025.2250"/>
+    <category term="Operations Research"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2025.0547</id>
+    <title>AI in Disguise—Quasi-Experimental Analysis of a Large-Scale Deployment of AI-Generated Ads</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Yannick Exner, Jochen Hartmann, Ziqian Ding, Shunyuan Zhang, Oded Netzer</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;As Taboola prepared to launch its GenAI Ad Maker, a tool that lets advertisers create ad images within the platform, it faced a consequential question about whether AI-generated ad images would perform well with real consumers, and under what conditions. Working with Taboola, we construct a quasi-experimental comparison of 4,633 ‘sibling ads,’ meaning AI-generated and human-made images launched by the same advertisers, in identical campaign settings, at the same time. These ads span more than 369 million impressions and 2.5 million clicks. We do not find a detectable average click-through-rate disadvantage for AI-generated images relative to their human-made siblings. However, this average masks an important boundary condition: ads with AI-generated images outperform human-made ads when the AI images do not ‘look like AI.’ We identify key visual features influencing consumers’ perceptions of whether an ad looks AI-generated. While AI generates sharper, clearer, and less blurry images with larger faces, consumers associate these features with human-made ads. On the other hand, in line with consumers’ expectations, aesthetics, lower warmth, and intense color saturation in ads signal AI generation. These findings support Taboola’s roll-out communication, advertiser guidance, and continued refinement of the GenAI Ad Maker.</content>
+    <link href="https://doi.org/10.1287/mksc.2025.0547"/>
+    <category term="Marketing Science"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2024.1051</id>
+    <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Doug J. Chung, Dongkyu Chang</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This study examines how aspirational-goal communications influence sales agents’ performance and information-seeking behavior. In a field experiment across 100 stores in Sweden, agents in the treatment group received daily personalized text messages with aspirational sales goals tailored to their prior performance. Results show that these communications increase sales performance, particularly among low-performing agents, primarily through higher unit sales. At the same time, they reduce agents’ willingness to monitor within-day sales progress—reflecting the ostrich effect—which can adversely affect performance. Information acquisition, in the form of sales-progress monitoring, typically aids effort provision, but aspirational-goal communications suppress such behavior, complicating performance management. These findings highlight the dual effects of aspirational-goal communications: while they enhance motivation, they may also prompt information avoidance. The study contributes to research on goal setting and sales management by clarifying the trade-offs in designing effective motivational and communication strategies.</content>
+    <link href="https://doi.org/10.1287/mksc.2024.1051"/>
+    <category term="Marketing Science"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.03836</id>
+    <title>Conditional and Lenient Drug Approvals</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Chenxi Xu, Giuseppe Lopomo, David Ridley, Peng Sun</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Firms are often allowed to sell new drugs based on preliminary efficacy evidence, with final approval contingent on confirmatory testing. We characterize optimal approval policies for a government agency that maximizes consumer welfare while considering the firm’s incentives. We assume that firms have private information about testing costs and the government’s payoff depends on the drug’s expected efficacy. The optimal policy may include partial conditional approval for drugs with low expected efficacy, and leniency in granting final approval below conventional standards. Our calibration suggests these tools can generate hundreds of millions of dollars in annual social value.This paper was accepted by Martin Bichler, market design, platform, and demand analytics.Funding: The authors received no external funding for this research.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03836 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.03836"/>
+    <category term="Management Science"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07966</id>
+    <title>Disagreement and Bond PEAD</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Yoshio Nozawa, Yancheng Qiu, Yan Xiong</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper documents post-earnings announcement drift (PEAD) in corporate bond prices using transaction data. We find a counterintuitive relationship between the drift and trading volume: PEAD is more pronounced for more heavily traded bonds than for less frequently traded bonds. Across markets, PEAD is observed for credit default swaps but not for stocks. We explain these findings using a unified model that incorporates both debt and equity trading, where investors possess private information about the underlying firm’s cash flows and may hold differing opinions. Our empirical evidence supports the model’s prediction that payoff structures and investor disagreement account for the distinct price dynamics across asset classes.This paper was accepted by Lukas Schmid, finance.Funding: The authors acknowledge research support from the Center for Investing at HKUST. Y. Xiong thanks the support by National Natural Science Foundation of China [NSFC 72422007] and the Research Grants Council of the Hong Kong Special Administrative Region, China [Project 16501523].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07966 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07966"/>
+    <category term="Management Science"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/jcr/ucag040</id>
+    <title>A Mere Presence Effect of Asymmetric Information</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Jiaqi Yu, Oleg Urminsky</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Research&lt;/b&gt; &lt;br&gt;Differences in discretionary disclosures of quantitative product attributes often result in asymmetric information across products. For example, one brand of milk may feature its protein content on the package label, while the other does not. How do such asymmetric product claims affect consumer choices? We predict that consumers will be sensitive to the mere presence of a quantified claim, judging a product that presents attribute quantity by the valence of the disclosed attribute (positive vs. negative) regardless of the quantity communicated (e.g., high vs. low value of a low-evaluability attribute). Across eight pre-registered studies, we find a robust mere presence effect, in which consumers judge products more (less) favorably when a positive (negative) quantitative quality-relevant attribute is presented, even when the quantitative information represents a relatively low level of quality. Our findings are consistent with an overgeneralized heuristic account, in which consumers rely on the valence of an attribute when it is present, instead of the quantity conveyed. Our findings demonstrate that when a quantitative attribute is salient but not evaluable, asymmetric information disclosure may impede, rather than facilitate, consumers’ judgments of product quality.</content>
+    <link href="https://doi.org/10.1093/jcr/ucag040"/>
+    <category term="Journal of Consumer Research"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.2332</id>
+    <title>Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Minghong Yuan, Wen Wen, Indranil Roy Bardhan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;What is the impact of private equity (PE) ownership on healthcare value? Does PE ownership reduce healthcare value, and if so, can its effect be mitigated using health information technologies (IT)? Given the significant investments by PE firms in the healthcare sector in recent years, it is increasingly important for stakeholders, including policy makers, care providers, and patients, to understand their likely impact and whether PE ownership is aligned with their interests. Because PE firms seek to improve efficiency and generate short-term financial returns, the cost-cutting strategies used to achieve these goals may come at the expense of care quality, leading to competing hypotheses on the impact of PE ownership on healthcare value. We argue that IT-enabled health information sharing capabilities can help PE-owned hospitals to better manage this cost-quality tension and achieve higher healthcare value. Using a staggered difference-in-differences approach and data from US hospitals from 2008 to 2020, we estimate changes in healthcare value following PE acquisition and ownership. Overall, we find that PE ownership of hospitals reduces healthcare value. This decline is partially driven by reduction in clinical staffing following PE ownership. We further find that pre-existing, hospital health information sharing capabilities mitigate the negative impact of PE ownership on healthcare value. Specifically, such capabilities can strengthen the effect of PE ownership on cost reduction and, at the same time, mitigate PE-induced, care quality deterioration. Our results highlight the critical role of common data standards needed to promote IT-enabled information sharing between healthcare providers, which, in turn, can align the incentives of PE firms with the goals of value-based care.</content>
+    <link href="https://doi.org/10.1287/isre.2025.2332"/>
+    <category term="Information Systems Research"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1104</id>
+    <title>Technology-Mediated Services in Health Care: Evaluating Telehealth Delivery Models for Underserved Populations</title>
+    <updated>2026-10-19T00:00:00+00:00</updated>
+    <author>
+      <name>Kyuyeon (Jenny) Rhee, Xiao Liu, Suparerk Lekwijit, Pei-Yu Chen</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;This study examines how telehealth delivery models are associated with access to care and protocol adherence in underserved populations. While prior research reports mixed evidence on telehealth’s effectiveness, we argue that these inconsistencies arise because telehealth is not a single intervention but is implemented through distinct service configurations that address different barriers. Drawing on the theoretical framework of digital economics, we conceptualize telehealth as a technology-mediated service that can alter key economic frictions, including search and verification, transportation, tracking, and setup costs. We focus on two widely adopted models—specialist-facilitated telehealth and remote telehealth—and theorize that each addresses different subsets of these frictions, leading to distinct effects on care access and protocol adherence across settings. Using panel data from U.S. Community Health Centers on mental health services, we document three findings. First, adoption of the specialist-facilitated model is associated with increased access to mental health care, particularly in areas with greater clinical need. Second, remote telehealth is not associated with increased access on average but is associated with higher adherence to standardized depression screening and follow-up protocols. These effects are consistent with improvements in screening and documentation processes rather than increases in utilization. Third, the estimated effects of both models vary across local cost environments. The access effects of specialist-facilitated telehealth are larger in areas where search and verification frictions are greater. In contrast, the effects of remote telehealth are attenuated where patient-side setup costs are high but are larger where transportation barriers and documentation frictions are greater. These findings advance a model-specific perspective on telehealth’s effects, extend the digital economics framework to technology-mediated services, and provide evidence that the estimated effects of digital health interventions vary with how delivery models interact with underlying cost environments.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1104"/>
+    <category term="Information Systems Research"/>
+    <published>2026-10-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1002/sej.70051</id>
     <title>Paid‐free differentiation in freemium: Understanding the balance between discovery and cannibalization and its implications for paid product sales</title>
     <updated>2026-10-02T00:00:00+00:00</updated>
@@ -1453,6 +1585,20 @@
     <link href="https://doi.org/10.1002/sej.70051"/>
     <category term="Strategic Entrepreneurship Journal"/>
     <published>2026-10-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/jcpy.70044</id>
+    <title>Synthetic diversity: Racial depictions influence consumer responses to
+                    &lt;scp&gt;AI&lt;/scp&gt;
+                    ‐generated models in advertising</title>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <author>
+      <name>Rhonda Hadi, Esther Uduehi, Felipe Thomaz, Andrew Stephen</name>
+    </author>
+    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;As brands seek to increase racial representation in their advertising, many are turning to AI‐generated images of humans (i.e., synthetic models) as a scalable solution. This research demonstrates that consumer reactions to synthetic models are asymmetric, depending on the racial identity being depicted. Across five studies, we demonstrate that disclosing the AI‐generated nature of models lowers firm evaluations when the featured models are from racially underrepresented groups (e.g., Black, Hispanic, and Asian models), but not when they are White. This effect is driven by reduced perceptions of the authenticity of the firm's inclusion efforts, which in turn elevate inferences of manipulative intent. Importantly, these negative effects can be mitigated when consumers are informed that the firm is owned by members of the depicted racial community, suggesting that credible signals of authentic community ties can neutralize the evaluative penalty of AI disclosure. Our findings extend research on racialized depictions in advertising by identifying synthetic depiction as a novel threat to the evaluative benefits of minority representation, and by theorizing why this threat operates asymmetrically by race. More broadly, our results highlight that technological innovations in advertising cannot be divorced from the social and historical contexts that shape their meaning.</content>
+    <link href="https://doi.org/10.1002/jcpy.70044"/>
+    <category term="Journal of Consumer Psychology"/>
+    <published>2026-10-20T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1111/joms.70172</id>
@@ -1571,7 +1717,7 @@
     <author>
       <name>Oliver Binz, Elia Ferracuti, Gary Lind</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency.</content>
     <link href="https://doi.org/10.1093/rfs/hhag089"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-10-06T00:00:00+00:00</published>
@@ -2007,102 +2153,6 @@
     <link href="https://doi.org/10.1111/joms.70161"/>
     <category term="Journal of Management Studies"/>
     <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/sej.70046</id>
-    <title>Logical reframing: A theory‐based view of entrepreneurial persuasion</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>Timo Ehrig, Jens Schmidt</name>
-    </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Prior literature that addresses how entrepreneurs systematically deal with Knightian uncertainty has primarily focused on individual entrepreneurs but has largely neglected that, to be successful, entrepreneurs must also persuade others of their view of the future. Uncertainty implies that others may initially have different and potentially conflicting framings of the future. In this article we offer a belief revision framework for persuasion under uncertainty based on the idea of logical reframing: using and communicating theories and what‐if beliefs that allow recipients to draw logical conclusions in line with the sender's view. Our propositions identify the trade‐offs the receiver has to make between contradictory explanations in her mind so she can be persuaded. The central insight from our framework concerns the role of filters, which are sets of beliefs that create resistance against an argument. Overall, our article contributes by taking the theory‐based view of entrepreneurship to a multi‐agent setting. We also continue the formalization of the theory‐based view, introducing ranking theory, which can be used to model how agents revise their beliefs, to the management literature.Managerial SummaryEntrepreneurs often need stakeholders to accept not only a proposed action but also a shared account of why that action can succeed under uncertainty. We develop a framework of logical reframing in which entrepreneurs use arguments to connect stakeholders’ existing beliefs to a desired conclusion. Persuasion requires a complete logical route to that conclusion, a theory whose weakest premise is sufficiently strong and can overcome any additional contradictions activated by the argument. We show that what‐if beliefs can prepare stakeholders to accept an argument but they can also generate resistance by connecting the argument to conflicting prior beliefs. Our framework helps entrepreneurs identify which assumptions require strengthening, which objections must be addressed, and when an alternative route to persuasion may be more effective.</content>
-    <link href="https://doi.org/10.1002/sej.70046"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.2265</id>
-    <title>Diffusion Approximation Error for Queueing Systems with General Primitives</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>Anton Braverman, Ziv Scully</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We investigate the steady-state diffusion-approximation error for continuous-time queueing systems with generally distributed primitives. A common picture emerges after analyzing a number of canonical systems: the error decomposes into interior and boundary terms. The former are simpler to handle and can be bounded using only low-order moments of the system’s primitives — when the approximation error is measured using the Wasserstein distance, three moments suffice. The boundary terms are inherently more delicate: while crude bounds are easy to obtain, sharper (e.g., order optimal) bounds require deeper, model specific, insights. Methodologically, we extend the generator comparison approach of Stein's method to piecewise-deterministic Markov processes (PDMPs). The discontinuous nature of the PDMP at jump times necessitates using the basic adjoint relationship (BAR), instead of the infinitesimal generator, to characterize the stationary distribution. A second-order Taylor expansion of the BAR’s jump terms, coupled with a Palm-inversion step that converts event-averaged quantities into time averages, yields the candidate diffusion generator and a transparent interior/boundary error decomposition. In parallel, we show how the prelimit generator approach — working with the Poisson equation of the queueing system instead of the diffusion process — offers a promising avenue for bounding the challenging boundary terms.</content>
-    <link href="https://doi.org/10.1287/opre.2025.2265"/>
-    <category term="Operations Research"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.08260</id>
-    <title>Impact of Short-Form Videos on Screentime and Sleep: Evidence from TikTok</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>Saharsh Agarwal, Uttara M. Ananthakrishnan</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Short-form video platforms have become central to debates about digital overuse and sleep disruption, yet causal evidence on their behavioral impacts remains limited. We study the effects of adopting short-form video in the context of TikTok, which pioneered the format and accounts for a large share of global short-form video consumption. Using granular smartphone touchstream data from a large opt-in panel of U.S. Android users, we track app usage, screen time, and inferred sleep behavior before and after TikTok adoption. We employ a difference-in-differences framework leveraging a high-frequency app usage data set from nearly 7,000 TikTok adopters. Our findings reveal a significant increase in overall screen time—averaging 221 minutes per week for heavy TikTok users—following TikTok adoption, alongside notable declines in usage of other social media and gaming apps, suggesting a strong substitution effect. The screen time effects are highest during late night hours. We also observe shifts in sleep patterns, including delayed bedtimes and a moderate reduction in sleep duration, among high-intensity users. We observe no effects for low-intensity users, who engage minimally with TikTok postadoption. Our findings show that short-form video adoption expands total digital attention rather than merely reallocating it, with important implications for platform design, regulation, and digital well-being. As a side result, our analysis provides clear evidence of substitutability between TikTok and traditional social media platforms, which has important implications for competition policy.This paper was accepted by D. J. Wu, information systems.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08260 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.08260"/>
-    <category term="Management Science"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.05152</id>
-    <title>Data-Driven Population Tracking in Service Systems</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>Fernando Bernstein, N. Bora Keskin, Adam Mersereau, Morgan Wood, Serhan Ziya</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Motivated by an application at the Raleigh-Durham International Airport, we consider a service system in which a manager aims to track the number of people in the system based only on noisy observations of arrivals and departures over a time horizon. We study two tracking problems in this context. In the busyness tracking problem, the manager seeks to determine whether the system is busy or not, whereas in the population tracking problem, the manager tracks the number of people in the system and accumulates losses as squared errors. We characterize the cumulative losses of various policies in an asymptotic regime in which the time horizon grows large. We prove general lower bounds on the cumulative loss of any policy and propose relatively simple policies that achieve these lower bounds, up to logarithmic terms. These policies outperform naive tracking policies in many instances. Finally, we characterize the impact of having the ability to periodically inspect the system at a cost. We find that effective population tracking policies take opportunities to reset the population count to accurate estimates to stop the accumulation of error. Without inspections, this is achieved by resetting the population count to zero when a near-empty system is detected based on observing the departure stream. Inspections, although coming at a cost, allow for greater flexibility in the timing of corrections and, hence, improved performance. We demonstrate the performance of our policies using real-world data we collected by installing people-counting sensors at the airport.This paper was accepted by Vivek Farias, data science.Funding: Financial support from the Triangle Impact Challenge 2021 is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05152 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.05152"/>
-    <category term="Management Science"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1017/s0022109026103172</id>
-    <title>Flow Diversification</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>Sunil Wahal, Albert Y. Wang</name>
-    </author>
-    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We measure flow diversification in mutual funds using the cross-sectional correlation of daily flows across investor clienteles. Greater flow diversification is associated with lower future flow volatility, smaller subsequent outflows, and lower cash holdings. We decompose flow correlation into predictable and unexpected components. Unexpectedly low flow correlation is associated with higher post-outflow fund returns, mitigating outflow-induced externalities on incumbent shareholders. Flow diversification also dampens the higher flow-performance sensitivity of illiquid funds, partially offsetting strategic complementarities that can generate fragility.</content>
-    <link href="https://doi.org/10.1017/s0022109026103172"/>
-    <category term="Journal of Financial and Quantitative Analysis"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70094</id>
-    <title>Money to Burn: Crowdfunding Wildfire Recovery</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>J. ANTHONY COOKSON, EMILY A. GALLAGHER, PHILIP MULDER</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Person‐to‐person crowdfunding is an increasingly important form of disaster relief, yet its distribution is poorly understood. Linking GoFundMe campaigns from a major wildfire to property and household credit records, we find that higher‐income households are 12 pp more likely to have campaigns and raise over 25% more, holding property losses constant. These disparities reflect unequal access to social capital: broader donor bases, more nonlocal ties, greater advocacy by friends, and more generous donors. Donors appear influenced by social pressure in online crowdfunding. These mechanisms mirror national patterns and underscore crowdfunding's limitations as a tool for equitable disaster relief.</content>
-    <link href="https://doi.org/10.1111/jofi.70094"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/jcpy.70042</id>
-    <title>Growing sentimental value through object usage</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>Daniel M. Grossman, Ryan Rahinel, John Lancaster</name>
-    </author>
-    <content>&lt;b&gt;Journal of Consumer Psychology&lt;/b&gt; &lt;br&gt;Consumers often protect their sentimentally valuable possessions by storing them away, which precludes them from being used. Across five studies, we show that usage of sentimentally valuable objects increases their sentimental value. Process evidence suggests one reason this happens: Repeatedly using a sentimentally valuable object makes the association held by the object (i.e., the source of its sentimental value) salient more frequently. This leads one to believe that such an association is more closely integrated into their self‐concept, which cyclically enhances the sentimental value of the object. We conclude by discussing the contribution of these findings to the literature, providing recommendations to marketers and consumers, and elaborating on directions for future research.</content>
-    <link href="https://doi.org/10.1002/jcpy.70042"/>
-    <category term="Journal of Consumer Psychology"/>
-    <published>2026-09-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/1475-679x.70090</id>
-    <title>Book Value Risk Management of Banks: Limited Hedging, HTM Accounting, and Rising Interest Rates</title>
-    <updated>2026-09-29T00:00:00+00:00</updated>
-    <author>
-      <name>João Granja, Erica Xuewei Jiang, Gregor Matvos, Tomasz Piskorski, Amit Seru</name>
-    </author>
-    <content>&lt;b&gt;Journal of Accounting Research&lt;/b&gt; &lt;br&gt;We document that as interest rates rose in 2022, banks largely left long‐duration assets exposed to interest rate risk while shielding the accounting value of their balance sheets. Call report and Securities and Exchange Commission (SEC) data show that only about 6% of U.S. banking assets were hedged with derivatives, and even the heaviest users hedged only a small share of their portfolios. Rather than hedge market‐value risk, banks relied on held‐to‐maturity (HTM) accounting to shield book capital, reclassifying about $700 billion of securities as HTM during the tightening period, more than twice the amount reclassified beforehand. Cross‐sectionally, banks with lower capitalization, more fragile uninsured funding, and greater long‐duration asset exposure were less likely to expand hedging during tightening and more likely to rely on HTM accounting. More vulnerable banks, especially those overseen by less stringent state regulators, were also more likely to shift into HTM. We develop a stylized model showing how higher interest rate risk, through its effects on bank solvency, run risk, and regulatory capital, shapes banks’ incentives to hedge, recapitalize, or rely on HTM accounting. While HTM accounting can help well‐capitalized banks avoid excessively tight capital constraints, it can also weaken hedging incentives among weaker, moderately capitalized banks by allowing them to window‐dress capital ratios while remaining exposed to runs. Our evidence suggests that this latter channel dominated during the tightening episode. Incorporating deposit franchise value into regulatory capital without accounting for run risk may further weaken the effectiveness of capital regulation. These findings carry important implications for regulatory capital accounting and bank risk‐management practices.</content>
-    <link href="https://doi.org/10.1111/1475-679x.70090"/>
-    <category term="Journal of Accounting Research"/>
-    <published>2026-09-29T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag104</id>
