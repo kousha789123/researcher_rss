@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-10-21T12:42:54.056969+00:00</updated>
+  <updated>2026-10-22T12:42:57.793578+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -53,6 +53,18 @@
     <link href="https://www.nber.org/papers/w35809"/>
     <category term="NBER"/>
     <published>2026-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35856</id>
+    <title>Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Andrew C. Barr, Laura Kawano, Bruce Sacerdote &amp; Michael Stevens</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic caused a sharp initial rise in unemployment, followed by an unexpectedly tight labor market. Using a panel of tax data containing newly assembled information on worker occupation, we document persistent labor force exit, especially among low-income and low-skill workers. Low-skilled unmarried men are by far the most likely to exit, reinforcing recent concerns regarding the economic and social engagement of this group. Contrary to prevailing theories, we find little evidence that school closures, virus exposure, stimulus payments, or unemployment benefits explain these exits. Nor is the exit explained by additional upgrading of occupations or firm quality. Individuals who leave the labor force do not (on average) make up the missing income; however, self-employment income replaces roughly a quarter of the lost W-2 income. The facts suggest that the willingness to work for low pay decreased and preferences for leisure and job flexibility increased among a large set of workers who have found ways to get by with less income. These results have implications for tax policy, fiscal projections, and labor market dynamics in the post-pandemic economy.</content>
+    <link href="https://www.nber.org/papers/w35856"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.nber.org/papers/w35871</id>
@@ -587,26 +599,14 @@ A companion paper, Cameron and Miller (2026), presents inference when correlatio
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35856</id>
-    <title>Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation</title>
+    <id>https://www.nber.org/papers/w35893</id>
+    <title>Affirmative Action in Centralized College Admissions Systems</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Andrew C. Barr, Laura Kawano, Bruce Sacerdote &amp; Michael Stevens</name>
+      <name>Nano Barahona, Cauê Dobbin &amp; Sebastián Otero</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The COVID-19 pandemic caused a sharp initial rise in unemployment, followed by an unexpectedly tight labor market. Using a panel of tax data containing newly assembled information on worker occupation, we document persistent labor force exit, especially among low-income and low-skill workers. Low-skilled unmarried men are by far the most likely to exit, reinforcing recent concerns regarding the economic and social engagement of this group. Contrary to prevailing theories, we find little evidence that school closures, virus exposure, stimulus payments, or unemployment benefits explain these exits. Nor is the exit explained by additional upgrading of occupations or firm quality. Individuals who leave the labor force do not (on average) make up the missing income; however, self-employment income replaces roughly a quarter of the lost W-2 income. The facts suggest that the willingness to work for low pay decreased and preferences for leisure and job flexibility increased among a large set of workers who have found ways to get by with less income. These results have implications for tax policy, fiscal projections, and labor market dynamics in the post-pandemic economy.</content>
-    <link href="https://www.nber.org/papers/w35856"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35892</id>
-    <title>Strategic Complementarity and Persistence in Linear-Quadratic Mean Field Games</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Fernando E. Alvarez &amp; David Argente</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relation between strategic complementarities and aggregate persistence in linear-quadratic mean field games with interactions in states and actions. The framework provides local approximations to common macroeconomic problems, including capital accumulation and multiproduct pricing. We show that the equilibrium aggregate dynamics coincide with those of a single-agent linear-quadratic control problem in which state and action curvatures are adjusted for strategic interactions. This result gives conditions for equilibrium existence, establishes uniqueness, and links strategic interactions to aggregate adjustment. We establish conditions under which stronger state complementarities increase persistence, while stronger action complementarities reduce it, even in multidimensional problems whose underlying matrices are not simultaneously diagonalizable. Under these conditions, internalizing state complementarities makes the utilitarian planner’s allocation more persistent, while internalizing action complementarities makes it less persistent. With common shocks, we give conditions under which individual and aggregate dynamics can be combined to identify strategic interactions and model parameters. Finally, we extend the analysis to interactions through higher moments of the state distribution.</content>
-    <link href="https://www.nber.org/papers/w35892"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the consequences of affirmative action in college admissions. We develop an empirical framework that distinguishes the effects on marginally benefited and displaced students from the overall effects of the policy. The overall effects include equilibrium reallocations as benefited students leave seats that others fill and displaced students take seats elsewhere, displacing others in turn. We apply this framework to a large-scale policy in Brazil that required all federal institutions to reserve half their seats for racially and socioeconomically disadvantaged applicants. Exploiting admissions cutoffs, we find that marginally benefited targeted students attend and graduate from higher-quality programs. Their graduation gains are about twice the losses of marginally displaced non-targeted students, reflecting targeted students’ weaker outside options. To evaluate the overall effects, we estimate a model of degree choices and potential outcomes. Among all reallocated students, benefited students still gain nearly twice what displaced students lose, but equilibrium reallocations make the policy displace about 30% more students than it benefits. Non-targeted students’ losses therefore offset about two-thirds of targeted students’ graduation gains, leaving a modest net gain across all students.</content>
+    <link href="https://www.nber.org/papers/w35893"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -619,6 +619,18 @@ A companion paper, Cameron and Miller (2026), presents inference when correlatio
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Randomized controlled trials (RCTs) have played a major role in detecting direct forms of racial discrimination. In this essay, we ask whether RCTs can (or cannot) play an equally important role in the case of systemic racial discrimination. We propose a conceptual model of systemic racial discrimination drawing from prior definitions of systemic racism. We then consider a range of possibilities and limitations for how RCTs can help understand systemic racial discrimination, including: (1) the feasibility of manipulating systemic racial discrimination on a large scale; (2) smaller scale approaches; (3) conducting RCTs across different structural settings; (4) the manipulation of the salience of systemic forces; (5) the role of information in reducing systemic racial discrimination; (6) the manipulation of the salience of racial identity; and, finally, (7) examination of strategic responses to systemic racial discrimination. In discussing limitations, we point to other approaches that may fill in the gaps left by RCTs in studying systemic racial discrimination.</content>
     <link href="https://www.nber.org/papers/w35882"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35892</id>
+    <title>Strategic Complementarity and Persistence in Linear-Quadratic Mean Field Games</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Fernando E. Alvarez &amp; David Argente</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relation between strategic complementarities and aggregate persistence in linear-quadratic mean field games with interactions in states and actions. The framework provides local approximations to common macroeconomic problems, including capital accumulation and multiproduct pricing. We show that the equilibrium aggregate dynamics coincide with those of a single-agent linear-quadratic control problem in which state and action curvatures are adjusted for strategic interactions. This result gives conditions for equilibrium existence, establishes uniqueness, and links strategic interactions to aggregate adjustment. We establish conditions under which stronger state complementarities increase persistence, while stronger action complementarities reduce it, even in multidimensional problems whose underlying matrices are not simultaneously diagonalizable. Under these conditions, internalizing state complementarities makes the utilitarian planner’s allocation more persistent, while internalizing action complementarities makes it less persistent. With common shocks, we give conditions under which individual and aggregate dynamics can be combined to identify strategic interactions and model parameters. Finally, we extend the analysis to interactions through higher moments of the state distribution.</content>
+    <link href="https://www.nber.org/papers/w35892"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -655,18 +667,6 @@ A companion paper, Cameron and Miller (2026), presents inference when correlatio
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Many public policies aim to support (or change the behavior of) a specific, targeted sub-group of the population. To measure the causal impacts of such policies, social scientists use quasi-experimental methods of policy evaluation, but are often hampered by data availability issues, especially regarding targeted populations, who are often disadvantaged and/or vulnerable. We use power calculations to quantify the challenge of detecting a policy’s impact on a small minority population based on population level data, using the impact of abortion bans on economic welfare as an example. We provide insight into this challenge and a roadmap for how researchers can calculate, ex-ante, whether their study is sufficiently powered to detect reasonably meaningful effect sizes.</content>
     <link href="https://www.nber.org/papers/w35894"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35893</id>
-    <title>Affirmative Action in Centralized College Admissions Systems</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nano Barahona, Cauê Dobbin &amp; Sebastián Otero</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the consequences of affirmative action in college admissions. We develop an empirical framework that distinguishes the effects on marginally benefited and displaced students from the overall effects of the policy. The overall effects include equilibrium reallocations as benefited students leave seats that others fill and displaced students take seats elsewhere, displacing others in turn. We apply this framework to a large-scale policy in Brazil that required all federal institutions to reserve half their seats for racially and socioeconomically disadvantaged applicants. Exploiting admissions cutoffs, we find that marginally benefited targeted students attend and graduate from higher-quality programs. Their graduation gains are about twice the losses of marginally displaced non-targeted students, reflecting targeted students’ weaker outside options. To evaluate the overall effects, we estimate a model of degree choices and potential outcomes. Among all reallocated students, benefited students still gain nearly twice what displaced students lose, but equilibrium reallocations make the policy displace about 30% more students than it benefits. Non-targeted students’ losses therefore offset about two-thirds of targeted students’ graduation gains, leaving a modest net gain across all students.</content>
-    <link href="https://www.nber.org/papers/w35893"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
