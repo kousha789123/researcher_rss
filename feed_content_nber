@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-10-25T02:36:16.867575+00:00</updated>
+  <updated>2026-10-25T18:57:52.207775+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -599,14 +599,14 @@ A companion paper, Cameron and Miller (2026), presents inference when correlatio
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35895</id>
-    <title>Do Judges Move Markets? Ideological Shifts in the Supreme Court and Macroeconomic Expectations</title>
+    <id>https://www.nber.org/papers/w35896</id>
+    <title>When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Thomas Drechsel &amp; Naixin Zhang</name>
+      <name>Aleksandar Andonov, Kristy A. E. Jansen &amp; Joshua Rauh</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies how judicial ideology shapes financial markets' expectations about the macroeconomy. We use unexpected deaths of U.S. Supreme Court Justices as quasi-experimental shifts in the Court's ideological balance. High-frequency asset price responses reveal how markets perceive the macroeconomic consequences of these ideological shifts. We find that a more conservative Court is associated with lower inflation expectations, lower real activity expectations, and lower bond yields. A shift towards a more liberal Court induces the opposite responses. The finding that inflation and activity expectations respond with the same sign suggests that markets revise their expectations about aggregate demand, rather than aggregate supply. Moreover, contrasting the yield responses with estimates from studies of fiscal policy news indicates that a more conservative (liberal) Court leads markets to expect tighter (looser) future fiscal policy. We validate our quasi-experimental setup with sectoral asset price dynamics, such as high-frequency responses of clean energy and health care stocks. Taken together, our findings are consistent with markets interpreting changes in the Supreme Court's ideological composition as news about future fiscal expansions or contractions.</content>
-    <link href="https://www.nber.org/papers/w35895"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using aggregate data on U.S. public pension funds combined with granular holdings obtained through public records requests, we document three findings that challenge the conventional view of pension funds as stabilizing investors. First, pension funds with more negative cash flows do not adjust their target asset allocations and maintain low allocations to safe and liquid assets. Second, because of these limited safe asset buffers, pension funds meet cash flow shocks primarily by selling equities, absorbing $0.67 per dollar of shock through equity sales. At the security level, pension funds sell across equities rather than following a safe and liquid-assets-first approach. Third, pension funds sell equities even when equity returns are negative, indicating that these trades reflect liquidity needs rather than portfolio rebalancing. Together, these findings show that pension funds have become regular sellers in equity markets rather than contrarian, stabilizing investors.</content>
+    <link href="https://www.nber.org/papers/w35896"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -619,6 +619,18 @@ A companion paper, Cameron and Miller (2026), presents inference when correlatio
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Randomized controlled trials (RCTs) have played a major role in detecting direct forms of racial discrimination. In this essay, we ask whether RCTs can (or cannot) play an equally important role in the case of systemic racial discrimination. We propose a conceptual model of systemic racial discrimination drawing from prior definitions of systemic racism. We then consider a range of possibilities and limitations for how RCTs can help understand systemic racial discrimination, including: (1) the feasibility of manipulating systemic racial discrimination on a large scale; (2) smaller scale approaches; (3) conducting RCTs across different structural settings; (4) the manipulation of the salience of systemic forces; (5) the role of information in reducing systemic racial discrimination; (6) the manipulation of the salience of racial identity; and, finally, (7) examination of strategic responses to systemic racial discrimination. In discussing limitations, we point to other approaches that may fill in the gaps left by RCTs in studying systemic racial discrimination.</content>
     <link href="https://www.nber.org/papers/w35882"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35895</id>
+    <title>Do Judges Move Markets? Ideological Shifts in the Supreme Court and Macroeconomic Expectations</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas Drechsel &amp; Naixin Zhang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies how judicial ideology shapes financial markets' expectations about the macroeconomy. We use unexpected deaths of U.S. Supreme Court Justices as quasi-experimental shifts in the Court's ideological balance. High-frequency asset price responses reveal how markets perceive the macroeconomic consequences of these ideological shifts. We find that a more conservative Court is associated with lower inflation expectations, lower real activity expectations, and lower bond yields. A shift towards a more liberal Court induces the opposite responses. The finding that inflation and activity expectations respond with the same sign suggests that markets revise their expectations about aggregate demand, rather than aggregate supply. Moreover, contrasting the yield responses with estimates from studies of fiscal policy news indicates that a more conservative (liberal) Court leads markets to expect tighter (looser) future fiscal policy. We validate our quasi-experimental setup with sectoral asset price dynamics, such as high-frequency responses of clean energy and health care stocks. Taken together, our findings are consistent with markets interpreting changes in the Supreme Court's ideological composition as news about future fiscal expansions or contractions.</content>
+    <link href="https://www.nber.org/papers/w35895"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -655,18 +667,6 @@ A companion paper, Cameron and Miller (2026), presents inference when correlatio
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the relation between strategic complementarities and aggregate persistence in linear-quadratic mean field games with interactions in states and actions. The framework provides local approximations to common macroeconomic problems, including capital accumulation and multiproduct pricing. We show that the equilibrium aggregate dynamics coincide with those of a single-agent linear-quadratic control problem in which state and action curvatures are adjusted for strategic interactions. This result gives conditions for equilibrium existence, establishes uniqueness, and links strategic interactions to aggregate adjustment. We establish conditions under which stronger state complementarities increase persistence, while stronger action complementarities reduce it, even in multidimensional problems whose underlying matrices are not simultaneously diagonalizable. Under these conditions, internalizing state complementarities makes the utilitarian planner’s allocation more persistent, while internalizing action complementarities makes it less persistent. With common shocks, we give conditions under which individual and aggregate dynamics can be combined to identify strategic interactions and model parameters. Finally, we extend the analysis to interactions through higher moments of the state distribution.</content>
     <link href="https://www.nber.org/papers/w35892"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35896</id>
-    <title>When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Aleksandar Andonov, Kristy A. E. Jansen &amp; Joshua Rauh</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using aggregate data on U.S. public pension funds combined with granular holdings obtained through public records requests, we document three findings that challenge the conventional view of pension funds as stabilizing investors. First, pension funds with more negative cash flows do not adjust their target asset allocations and maintain low allocations to safe and liquid assets. Second, because of these limited safe asset buffers, pension funds meet cash flow shocks primarily by selling equities, absorbing $0.67 per dollar of shock through equity sales. At the security level, pension funds sell across equities rather than following a safe and liquid-assets-first approach. Third, pension funds sell equities even when equity returns are negative, indicating that these trades reflect liquidity needs rather than portfolio rebalancing. Together, these findings show that pension funds have become regular sellers in equity markets rather than contrarian, stabilizing investors.</content>
-    <link href="https://www.nber.org/papers/w35896"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
