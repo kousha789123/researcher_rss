@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-25T18:57:19.528625+00:00</updated>
+  <updated>2026-10-26T12:43:47.836654+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1381,90 +1381,52 @@
     <published>2026-10-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2023.18371</id>
-    <title>Early Environmental Shocks and Organizational Reconfiguration in High-Growth Ventures</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/sej.70055</id>
+    <title>Conceptual search: A generative view of entrepreneurial imagination</title>
+    <updated>2026-10-25T00:00:00+00:00</updated>
     <author>
-      <name>Sunasir Dutta, Pyung Nahm, Luis Adrian Rios</name>
+      <name>Felipe A. Csaszar</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;We study whether shocks from local natural disasters can leave durable organizational traces in young high-growth ventures. In principle, such firms may be relatively resilient to localized disruption because they are designed to scale beyond local markets and rely heavily on knowledge-based assets. We examine this possibility using a panel of 19,984 U.S. startups founded between 1985 and 2010 that subsequently received venture financing. We identify ventures whose founding counties experience natural disasters within 12 months of founding using FEMA Major Disaster Declarations. Ventures exposed to disasters at an early stage exhibit higher subsequent failure hazards and no general advantage in follow-on financing, yet show higher IPO hazards in favorable market windows, a pattern consistent with greater responsiveness to opportunities requiring substantial organizational reconfiguration. Descriptive employee-level evidence further documents differences in organizational structure and composition consistent with greater retained fluidity among exposed ventures. Drawing on organization design and imprinting theory, we interpret these patterns as consistent with the possibility that disasters function as forcing environments that entrench early-stage coordination features such as flatness, role fluidity, and broader expertise that would otherwise attenuate as ventures mature. These durable organizational traces may, in turn, shape ventures’ subsequent capacity for reconfiguration. We discuss implications for organizational adaptation, imprinting, entrepreneurial geography, and organizational responses to crises.</content>
-    <link href="https://doi.org/10.1287/orsc.2023.18371"/>
-    <category term="Organization Science"/>
-    <published>2026-10-05T00:00:00+00:00</published>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Entrepreneurs cannot pursue ventures they never imagine. This article develops a generative view of entrepreneurial imagination as the construction of an evolving candidate set through generation, provisional evaluation, and revision. Conceptual search represents venture concepts as text, transforms them through interpretable operations, and compares their promise. A large language model prototype demonstrates complementary modes: local refinement lifts a concept from sixteenth to third among 30 ventures under a validated evaluator, while global recombination reaches distant possibilities that refinement makes competitive. The framework shows how search architecture determines what enters, survives, and develops, and how AI may broaden imagination within firms while producing correlated imagination across firms. By making imagination programmable, auditable, and experimentally tractable, conceptual search opens a research program on how entrepreneurial possibilities are constructed.Managerial SummaryEntrepreneurs can pursue only the ventures they imagine, and valuable ideas routinely go unbuilt because nobody thinks of them. AI makes imagining cheap: it can draft, critique, and rewrite venture concepts in seconds, so developing ideas becomes a process that can be designed, run, and audited. I demonstrate a system that evolves real venture concepts: step‐by‐step refinement lifted a middling concept to third place among 30 real ventures, as ranked by an AI judge shown to predict fundraising, while recombining distant ideas created novel concepts that refinement made competitive. The entrepreneur's job shifts from generating a few ideas to governing many: choosing what to search, keep, and test in the market. One caution: rivals using the same AI will imagine similar ventures; advantage comes from proprietary problems, data, and evidence.</content>
+    <link href="https://doi.org/10.1002/sej.70055"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-10-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/opre.2025.2161</id>
-    <title>Planning Stormwater Retention for Resilience Against Extreme Rainfalls</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/joms.70183</id>
+    <title>Craft and Industrialization: Uncovering the Plasticity and Frontier of Craft</title>
+    <updated>2026-10-25T00:00:00+00:00</updated>
     <author>
-      <name>Sheng Liu, Wei Qi, Aiqi Zhang</name>
+      <name>Mirva Peltoniemi, Antti Sihvonen</name>
     </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Rethinking How Cities Prepare for Extreme RainfallCities often prepare for extreme rainfall using a single “design storm,” such as a 100-year storm of a predetermined duration. But storms with the same return period can produce very different flooding losses. In “Planning Stormwater Retention for Resilience Against Extreme Rainfalls,” Liu, Qi, and Zhang develop a robust optimization framework that identifies the most damaging rainfall scenario for a city based on its existing drainage and retention infrastructure. Case studies of Toronto, Manhattan, and New Orleans show that the storm a city should prepare for changes with local infrastructure and climate conditions. The analysis also challenges the idea that greener is always more resilient; although green infrastructure offers important environmental benefits, concentrated gray infrastructure can become more valuable when rainfall is severe or budgets are tight. In Toronto, robust planning could save an estimated $6 million annually today and as much as $1.5 billion annually by 2050.</content>
-    <link href="https://doi.org/10.1287/opre.2025.2161"/>
-    <category term="Operations Research"/>
-    <published>2026-10-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2025.0145</id>
-    <title>Visual Plant Imagery and Property Valuation: A Descriptive Analysis</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
-    <author>
-      <name>Yuqian Chang, Nathan Fong, Ning Ye, Maureen (Mimi) Morrin</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.</content>
-    <link href="https://doi.org/10.1287/mksc.2025.0145"/>
-    <category term="Marketing Science"/>
-    <published>2026-10-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07399</id>
-    <title>The Welfare Effects of Selling Leads in a Two-Sided Marketplace</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
-    <author>
-      <name>Peng Shi</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Digital platforms that connect customers with service providers often monetize by selling customer leads to interested providers. Examples include Bark, Google Local Services, HomeAdvisor, Modernize, Porch, and Thumbtack. This paper develops a game-theoretic model to analyze how lead pricing affects customer and provider welfare. When the platform raises the fee-per-lead for a customer-type, those customers—conditional on receiving the same number of provider quotes—are quoted lower prices. However, if the fee is sufficiently high, providers purchase fewer of these leads, which can reduce the number of quotes and diminish customer surplus. To maximize social welfare, a simple policy that sets a market-clearing fee-per-lead for each customer-type guarantees at least [Formula: see text] of the first-best welfare and at least [Formula: see text] of the welfare under the welfare-optimal fees. The first-best outcome can be achieved by subsidizing providers for each job well done, so that experienced providers with cheaper sources of leads do not exit the platform. Understanding these welfare trade-offs can help platforms design policies that support balanced marketplace growth and preserve a sustainable revenue stream.This paper was accepted by Srikanth Jagabathula, market design, platform, and demand analytics.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07399 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07399"/>
-    <category term="Management Science"/>
-    <published>2026-10-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70173</id>
-    <title>Financing Risk in Infrastructure
-                    &lt;scp&gt;FDI&lt;/scp&gt;
-                    : A Property Rights Perspective</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
-    <author>
-      <name>Rajeev J. Sawant, Barclay E. James</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Property rights theory (PRT) focuses on how allocation of residual control rights of ownership resolves incentive problems from incomplete contracts. However, when asset ownership is efficient for a transacting party, PRT ignores financial resource constraints preventing the party from purchasing it. We include creditors, who provide financial resources but are exposed to agency conflicts with equity‐owners, in property rights analysis. Multinational enterprises (MNEs) reduce agency conflict with creditors through contractual covenants and collateral. Yet contracts are incomplete. Under incomplete contracts, how do MNEs mitigate financing risk, the risk that supply of capital from creditors is delayed or entirely unavailable? We distinguish between incomplete contracts arising from weak property rights institutions and weak contracting institutions. We theorize that allocation of specified control rights through operating and maintenance (O&amp;M) contracts to MNE‐owners mitigates financing risk in countries with weak property rights institutions because MNE‐owners possess high‐powered incentives to exert requisite effort to adapt operations to unexpected contingencies. In contrast, such allocation of O&amp;M contracts to MNE‐owners increases financing risk in countries with weak contracting institutions because such allocation increases agency conflict between MNE‐owners and creditors. Empirical analyses of 363 project‐financed investments in 52 countries worth US$1.53 trillion over 1990–2018 support our theory.</content>
-    <link href="https://doi.org/10.1111/joms.70173"/>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Craft as an approach to work has been proposed as an alternative to industrial mass production. While industrialization has led to the replacement of craft logic with industrial logic to create uniformity and scale operations, the role of craft in industrialization remains ambiguous. Building on the analysis of engineering work performed at an R&amp;D laboratory in the pulp and paper industry, we explore how and why craft enables industrialization. Our findings reveal how elements of craft manifest in engineering work by helping to transform ideas into useful objects, balancing scientific accuracy with practical usefulness, and fostering a sense of community and identity within the engineering field. These findings point tothe plasticity of craft logic, suggesting that elements of craft can be transferred into new contexts and reinterpreted to address new objectives. Considering that these activities took place in an R&amp;D laboratory that drove industrialization, they also reveal the existence of acraft frontierthat escapes standardization by providing a context for crafting candidates for future standards. Craft frontier enables the coexistence of craft and industrial logics, where craft can contribute to industrialization by establishing foundations for managerial control without being absorbed into it.</content>
+    <link href="https://doi.org/10.1111/joms.70183"/>
     <category term="Journal of Management Studies"/>
-    <published>2026-10-05T00:00:00+00:00</published>
+    <published>2026-10-25T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2024.1282</id>
-    <title>Navigating the Sea of Reviews: Unveiling the Effects of Introducing AI-Generated Summaries in E-Commerce</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/01492063261487366</id>
+    <title>“The Minimum Wage Is the Maximum Wage”: How Goal Replacement Perpetuates Means–Ends Decoupling</title>
+    <updated>2026-10-26T00:00:00+00:00</updated>
     <author>
-      <name>Qili Wang, Yi SU, Liangfei Qiu, Runyu Chen</name>
+      <name>Satwant Dahiya, Christian Busse</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Amidst the burgeoning incorporation of generative AI into commercial realms, numerous companies are exploring ways to leverage generative AI tools in practice. However, there is still a lack of empirical evidence to examine their effectiveness. In this research, we explore how AI-generated summaries (AIGS), a relatively new generative AI tool, influence consumer review behavior. While one may assume that AI-generated content diminishes users’ incentive to contribute by replacing user-generated content, we find the opposite: the introduction of AIGS actually leads to an increase in the volume of consumer reviews. We propose that this effect is driven by enhanced perceptions of collective efficacy. By highlighting the value of consumer reviews as a collective force, AIGS reinforces contributors’ belief that their individual input meaningfully contributes to a shared body of product knowledge, thus motivating participation. This mechanism is supported by an additional controlled laboratory experiment where we directly measure perceived collective efficacy and find that it mediates the effect of AIGS on the likelihood of leaving a review. Our moderation analysis results reveal that the positive effect of AIGS on review contributions is more pronounced among products that are well-reviewed (vs. under-reviewed) and polarizing (vs. non-polarizing). Moreover, a fine-grained review content analysis shows that reviews after the AIGS introduction exhibit enhanced content richness and provide complementary information beyond the AIGS content. Specifically, contributors discuss fewer product attributes already covered by AIGS, discuss more product attributes not covered by AIGS, and elaborate on AIGS product attributes rather than restating the summary. Taken together, these findings advance our understanding of how AI integration influences consumer review behaviors in e-commerce and offer valuable practical guidance for business strategies on employing generative AI.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1282"/>
-    <category term="Information Systems Research"/>
-    <published>2026-10-05T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;This research examines how organizations contribute to the perpetuation of means–ends decoupling (MED) within issue-based fields organized around societal problems, under conditions of heightened field scrutiny. In such settings, organizations often profess commitment to field goals and visibly comply with institutionally prescribed practices to satisfy monitoring, reporting, and public evaluation requirements. However, many adopted goals remain underachieved, raising questions about how compliance without progress endures and how claims of commitment remain credible under transparency regimes intended to spur substantive goal pursuit. Our data came from 75 interviews with 68 brands, suppliers, and third-party organizations pursuing worker well-being in global fashion supply chains. We unveil auditability-based goal replacement as an organizational-level mechanism through which actors rhetorically foreground compliance as public evidence of commitment while narrowing internal goal pursuit to auditable thresholds that serve their core goals, thereby allowing shortfalls to persist. Self-silencing about this substitution and the instrumentalizing of shortfalls close the configuration into a self-reinforcing loop. The study advances MED scholarship by (i) showing how organizations leverage field conditions and appropriate the existing scrutiny infrastructures to advance their core goals while reproducing the means–ends gap, (ii) problematizing the authenticity of commitment claims, and (iii) explaining how goal-ineffective compliance prevails as a credible substitute for adopted goals. It also extends research on organizational responses to institutional complexity and calls for greater attention to institutional impact—that is, the realized advancement of the societal aim an institution emerged to address.</content>
+    <link href="https://doi.org/10.1177/01492063261487366"/>
+    <category term="Journal of Management"/>
+    <published>2026-10-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/isre.2023.0431</id>
-    <title>Facade of Trust: The Impact of Adopting AI-Enhanced Profile Pictures on Trust</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1017/s0022109026103366</id>
+    <title>Synthesizing Information-Driven Insider Trade Signals</title>
+    <updated>2026-10-26T00:00:00+00:00</updated>
     <author>
-      <name>Sijia Ma, Chong (Alex) Wang, Xiaoquan (Michael) Zhang, Tao Lu</name>
+      <name>Jens Heckmann, Heiko Jacobs, Patrick Schwarz</name>
     </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Virtual profiles are critical elements of online social interactions, often featuring portraits enhanced by AI-driven tools such as beauty filters and virtual makeup. While the increasing use of these technologies reshapes how individuals present and perceive themselves, little is known about their implications for trust-related behavior. Drawing on self-presentation theory, this study examines how adopting an enhanced profile photo influences behavioral trust and trustworthiness toward others. We conducted a randomized experiment based on the trust game and adapted it by embedding a novel profile photo enhancement module. Participants were assigned to either a treatment group, in which they adopted an AI-enhanced profile photo, or a control group, in which they used their original photo. Our findings reveal an intriguing asymmetry. Senders with an enhanced photo demonstrated less trust by sending smaller amounts. Conversely, receivers with an enhanced photo displayed greater trustworthiness, returning higher percentages. These effects were offset when participants were interacting with an opponent using an enhanced photo. Further analysis indicates that enhanced self-presentation increases perceived risk, which explains the observed reduction in trust. We also document gender differences: female senders show a larger decline in trust, while male receivers exhibit a greater increase in trustworthiness. Overall, this research highlights the asymmetric behavioral consequences of AI-powered self-presentation and underscores the role of risk perception in linking profile photo enhancement to trust behavior in online interactions.</content>
-    <link href="https://doi.org/10.1287/isre.2023.0431"/>
-    <category term="Information Systems Research"/>
-    <published>2026-10-05T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We propose a novel approach to synthesize presumably information-driven insider trading signals for the cross section of stocks. We find that the resulting straightforward composite strategy can often forecast returns in a global sample. This predictability is strongest in equal-weighted portfolios, short holding periods, and insider-buying signals, and it improves further with global diversification. Cross-country analysis reveals that varying insider trading restrictions between countries have limited explanatory power for the performance of the composite strategy. Overall, the results are consistent with a short-term informational advantage of insiders, which might be due to the skillful interpretation of non-private news.</content>
+    <link href="https://doi.org/10.1017/s0022109026103366"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-10-26T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhag089</id>
