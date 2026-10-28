@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-28T12:42:52.406489+00:00</updated>
+  <updated>2026-10-28T20:12:35.100491+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1661,6 +1661,54 @@
     <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/rfs/hhag094</id>
+    <title>Correlated Demand Shocks and Asset Pricing</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Byungwook Kim</name>
+    </author>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment. (JEL G1, G2)</content>
+    <link href="https://doi.org/10.1093/rfs/hhag094"/>
+    <category term="The Review of Financial Studies"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.02703</id>
+    <title>Robust Auction Design with Support Information</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Jerry Anunrojwong, Santiago R. Balseiro, Omar Besbes</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;A seller wants to sell an item to n buyers. Buyer valuations are independent and identically distributed (i.i.d.) according to a distribution unknown to the seller; the seller only knows that the support is included in [a, b]. To be robust, the seller chooses a dominant strategy incentive compatible mechanism that optimizes the worst-case performance relative to the ideal expected revenue the seller could have collected with knowledge of buyers’ valuations. Our analysis unifies the regret and the ratio objectives. For these objectives, we derive an optimal mechanism and the corresponding performance in quasi-closed form, as a function of the support information [a, b] and the number of buyers n. Our analysis reveals three regimes of support information and a new class of robust mechanisms. (i) When a/b is below a threshold, the optimal mechanism is a second-price auction (SPA) with random reserve, a focal class in earlier literature. (ii) When a/b is above another threshold, SPAs are strictly suboptimal, and an optimal mechanism belongs to a class of mechanisms we introduce, which we call pooling auctions (POOL); whenever the highest value is above a threshold, the mechanism still allocates to the highest bidder, but otherwise the mechanism allocates to a uniformly random buyer, that is, pools low types. (iii) When a/b is between two thresholds, a randomization between SPA and POOL is optimal. We also characterize optimal mechanisms within nested central subclasses of mechanisms: standard mechanisms that only allocate to the highest bidder, SPA with random reserve, and SPA with no reserve. We show strict separations in terms of performance across classes, implying that deviating from standard mechanisms is necessary for robustness. Lastly, we show that the same results hold under other distribution classes that capture “positive dependence,” namely i.i.d., mixture of i.i.d., and exchangeable and affiliated distributions, as well as i.i.d. regular distributions.This paper was accepted by David Simchi-Levi, revenue management and market analytics.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02703 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.02703"/>
+    <category term="Management Science"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.00714</id>
+    <title>From Employer Responsibility to Environmental Irresponsibility: Unintended Impacts of Social Insurance Law on Pollution Emissions</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Yanan Li, Yu Qin, Wenjun Wang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study investigates the unintended effect of the introduction of the 2011 Social Insurance Law on corporate pollution emissions. Using a difference-in-differences framework, our analysis reveals that enhanced social insurance contributions lead to higher industrial pollution emissions, as measured by chemical oxygen demand and wastewater emissions. The mechanism analysis indicates that the enforcement of the law increases firms’ labor costs and financial distress, motivating them to reduce efforts on end-of-pipe treatment activities and measures taken during the production process, which results in higher pollution emission intensity. Our study highlights the potential conflict between employee protection and corporate environmental goals. Further analysis suggests that stronger environmental monitoring and environmental, social, and governance disclosure requirements can partially mitigate this tradeoff, providing valuable insights for policymakers.This paper was accepted by Caroline Flammer, sustainability.Funding: Y. Li acknowledges research support from the National Natural Science Foundation of China [Grant 72403026]. Y. Qin acknowledges research support from the National Natural Science Foundation of China [Grant 72342031].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00714 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.00714"/>
+    <category term="Management Science"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.03608</id>
+    <title>Estimating the Pricing Kernel: A Simple Regression-Based Dimension-Reduction Approach</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Bin Luo, Guofu Zhou, Ti Zhou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a simple framework for estimating the pricing kernel in factor space by constructing the mean–variance efficient factor portfolio via an ordinary least squares formulation with least absolute shrinkage and selection operator regularization. The method accommodates high-dimensional settings in which the number of candidate factors exceeds the sample size and automatically shrinks redundant factor weights toward zero. We show theoretically that the out-of-sample Sharpe ratio of the estimated portfolio converges to the theoretical maximum at the fastest rate among existing regression-based approaches. Applying the method to 174 characteristic-based factors together with the market factor, we obtain an out-of-sample Sharpe ratio of 3.59, substantially outperforming competing strategies and delivering the smallest aggregate pricing errors. The selected factors vary over time in both composition and number, averaging about 50. We further develop a model comparison test and reject the hypothesis that eight widely used sparse factor models are sufficient to span the pricing kernel.This paper was accepted by Kay Giesecke, finance.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72671091, 72371079, and 72501192, and Key Program 72432005] and the Science and Technology Planning Project of Guangdong Province [Grant 2023B1515020045].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03608 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.03608"/>
+    <category term="Management Science"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/01492063261479303</id>
     <title>Winning at Defense by Playing Offense: Discrediting by Target Firms in Activist Hedge Fund Campaigns</title>
     <updated>2026-10-28T00:00:00+00:00</updated>
@@ -1670,6 +1718,18 @@
     <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Prior research highlights the far-reaching strategic and governance consequences for firms targeted in activist hedge fund (AHF) campaigns. Yet, how target firm executives and directors can effectively defend against these campaigns remains underexplored. Drawing on impression management (IM) theory, we reason that executives and directors use discrediting in their public rebuttal letters to negatively influence shareholders’ evaluations of AHFs’ reputation. To nuance this prediction, we develop a taxonomy distinguishing between source-focused discrediting, which directly attacks AHFs’ reputation, and message-focused discrediting, which challenges the validity of AHFs’ claims to indirectly tarnish their reputation. We theorize that both discrediting subtypes enhance target firms’ defense success, particularly when deployed in combination. Adopting a temporal perspective on IM theory, we further argue that the effectiveness of discrediting diminishes as more time elapses between an AHF’s public attack and executives and directors’ rebuttal. A manual content analysis of 841 rebuttal letters issued during U.S. AHF campaigns (2000–2023) provides robust support for these predictions. Beyond contributing to shareholder activism research by offering new insights into the determinants of campaign outcomes, our study advances IM theory by conceptualizing discrediting as a multidimensional influence tactic and exploring its effectiveness and temporal dynamics in adversarial contexts.</content>
     <link href="https://doi.org/10.1177/01492063261479303"/>
     <category term="Journal of Management"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1330</id>
+    <title>Enhancing AI Use: How Complementary System Information Drives Delegation Frequency and Effectiveness</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Anna Taudien, Andreas Fügener, Alok Gupta, Wolfgang Ketter</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations increasingly deploy AI that works alongside employees rather than replacing them. In settings such as visual inspection, content moderation, or applicant screening, employees decide task by task whether to do the work themselves or delegate it to AI, yet they often delegate suboptimally, leaving much of the promised benefit of AI unrealized. Our research yields a design recommendation for AI systems: tell users how certain the AI is before a decision and whether its decisions turn out to be correct afterwards. Each type of information alone had no positive effect, and sometimes even reduced effective delegation. Combined, however, they increased delegation and helped users direct AI to the tasks where it had a performance advantage. The combination led to human-AI teams outperforming both AI alone and humans alone, showing that humans still add value when AI enters decision making. This matters for organizations where employees retain decision rights for the use of AI.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1330"/>
+    <category term="Information Systems Research"/>
     <published>2026-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
