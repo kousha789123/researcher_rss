@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-27T12:42:59.000066+00:00</updated>
+  <updated>2026-10-28T12:42:52.406489+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1517,6 +1517,138 @@
     <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1093/restud/rdag114</id>
+    <title>Conversations at Scale: Robust AI-led Interviews</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Friedrich Geiecke, Xavier Jaravel</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;The advent of large language models (LLMs) creates new opportunities to conduct qualitative interviews at scale, with thousands of respondents, thereby bridging qualitative and quantitative methods. We develop a simple, versatile approach for researchers to run AI-led qualitative interviews, including voice interviews. We assess its robustness by drawing comparisons to human experts and with several respondents-based quality metrics. The versatility of the approach is illustrated through four broad classes of applications: eliciting key factors in decision making, political views, subjective mental states, and mental models of the effects of public policies. High performance ratings are obtained in all of these domains. Our applications highlight the potential of AI-led interviews as a tool for measurement, hypothesis generation, and discovering mechanisms.</content>
+    <link href="https://doi.org/10.1093/restud/rdag114"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261499798</id>
+    <title>EXPRESS: Tactical Workforce Planning and Deployment with Timing Coordination Requirements</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Gang Li, Anantaram Balakrishnan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;We address a tactical planning problem facing organizations that must perform geographically dispersed jobs with timing dependencies using appropriate teams of workers and equipment. This Tactical Workforce Planning and Deployment (TWPD) problem, which is motivated by the annual planning and budgeting activity for rail infrastructure maintenance and upgrades, requires making simultaneous decisions on resource sizing and selection, resource-to-job assignment, and resource repositioning to complete all jobs while minimizing resource and transportation costs. Key challenges include timing coordination among jobs, varying resource capabilities, and sequence-dependent changeover costs. Prior scheduling and routing models often focus on short-term decisions, assuming a given set of resources, and do not incorporate complex timing coordination requirements. We propose a large-scale optimization model, with strong timing coordination constraints, that integrates all the features of the TWPD problem. To solve this difficult problem, we propose three new families of valid inequalities to further strengthen the model and develop problem reduction procedures as well as an optimization-based multi-stage algorithm to identify good initial feasible solutions. Our Composite method applies these acceleration strategies before initiating an exact branch-and-bound solution procedure. To test the effectiveness of this method, we first apply it to real data sets for track maintenance from a leading railroad company and compare its performance with a method that uses a standard solver without our enhancements. We find that our method dramatically outperforms the standard method. We also test our method on many randomly generated problems to validate its superior performance and identify problem features that make this problem difficult to solve. When compared to a manual tactical plan, our method quickly generates a near-optimal solution that saves over 15% in annual total cost, demonstrating the practical value and viability of our model and method. We conclude by discussing some managerial implications and insights from our results.</content>
+    <link href="https://doi.org/10.1177/10591478261499798"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261504549</id>
+    <title>EXPRESS: Optimal Return Policies with Heterogeneous Search Rewards</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Fangruo Chen, Weitao Ren, Wenqiang Xiao</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;This paper studies return policy design for an online seller serving consumers who can resolve product-fit uncertainty through costly pre-purchase search, with search rewards varying across consumers. Return policies shape not only post-purchase return behavior but also ex-ante search and purchase decisions, thereby generating endogenous consumer segmentation. One might expect that inexpensive search would reduce the seller's incentive to offer a generous refund. In our baseline model, however, we show that full refund outperforms no refund when search costs are sufficiently low. We trace this result to a fundamental trade-off in implementing a full-refund policy: the search-relief effect versus the return-inducing effect. Full refund substitutes for search by allowing consumers who would otherwise search to purchase directly and evaluate fit after purchase, thereby removing their search-based information advantage and restoring the seller's pricing power. However, it also induces returns from consumers who would otherwise purchase without search and keep the product, sacrificing the revenue generated by their tolerance for misfit. When search costs are sufficiently low, most consumers would otherwise search, and the search-relief effect therefore dominates the return-inducing effect. As search costs fall further, full refund can also achieve a win-win outcome, indicating that pre-purchase search may be socially inefficient. These findings explain when and why sellers may optimally discourage ex-ante search in favor of ex-post product evaluation.</content>
+    <link href="https://doi.org/10.1177/10591478261504549"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261505531</id>
+    <title>EXPRESS: Design and Pricing of Online Dating Subscriptions</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Titing Cui, Michael L. Hamilton</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online dating is now the most common way for new couples in the U.S. to meet, with more than 30% of U.S. adults having used a dating app and with global industry revenues exceeding three billion dollars annually. Most dating apps monetize primarily through subscription pricing, offering users fixed periods of access to paid features for recurring fees. However, applying subscription pricing to online dating apps presents some unique challenges. Unlike other digital services, users' valuations of dating app services typically decline with use, as continued participation can be costly in terms of both time and emotional effort, and repeated renewals signal unsuccessful app-mediated searches. Moreover, users who achieve their goal of finding a partner subsequently exit the platform, creating an apparent tension between providing value by successfully matching users and a dating app’s goal of generating profit and sustaining a large userbase of paying subscribers.Given these unique challenges and the transient nature of user engagement with dating apps, it is interesting to note that leading U.S. dating apps, such as Hinge and Bumble, have begun offering increasingly long subscription options, including lifetime subscriptions. In this paper, we analyze the performance of subscription pricing strategies with varying period lengths for online dating platforms. We propose a natural model of dating app monetization and use it to evaluate how subscription length affects both profit and steady-state userbase size. We find that suitably priced lifetime subscriptions can Pareto-dominate all finite-period subscriptions over both objectives, providing a compelling explanation for their emerging use. We then extend our analysis to subscription menus with two options and show that offering one short-term subscription option and one lifetime option guarantees approximately 59.4% of the optimal two-option menu performance.</content>
+    <link href="https://doi.org/10.1177/10591478261505531"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2022.0399</id>
+    <title>Fulfillment by Platform: Competition and Upstream Market Power</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Amandeep Singh, Jiding Zhang, Senthil Veeraraghavan</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Fulfillment by Platform: Competition and Upstream Market PowerE-commerce platforms increasingly offer fulfillment services that promise faster delivery and easier access to customers. This study shows that these services create a trade-off. Using transaction-level data from a major online marketplace, the authors find that platform fulfillment improves the customer experience and raises consumer welfare, but it also changes competition among sellers. Because fulfillment through the platform adds costs for merchants, smaller sellers with thinner margins must raise prices more than larger sellers. As a result, large merchants gain share while smaller merchants lose ground, increasing upstream market concentration. The findings matter for regulators, platforms, and merchants because they show that a service that benefits consumers can still weaken competition on the seller side. The paper provides rare empirical evidence from both sides of an e-commerce marketplace and highlights why platform policies should be evaluated not only by customer benefits, but also by their effects on market structure.</content>
+    <link href="https://doi.org/10.1287/opre.2022.0399"/>
+    <category term="Operations Research"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1272</id>
+    <title>Location-Allocation of Emergency Service Systems in Light Traffic</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Xin Wang, Weiliang Liu, Loon Ching Tang, Zhisheng Ye</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Light-Traffic Asymptotics for Emergency Service PlanningTimely emergency response depends on where rescue teams are stationed and which areas they serve—decisions that shape response times and uncertainty in each team’s service durations and availability. In “Location-Allocation of Emergency Service Systems in Light Traffic,” Xin Wang, Weiliang Liu, Loon Ching Tang, and Zhisheng Ye use light-traffic asymptotics to explicitly capture these decision-dependent effects in tractable queueing-based location-allocation optimization models. The key innovation is to turn limiting queueing behavior as call arrival rates approach zero into explicit approximations for performance losses associated with calls that have to wait. These approximations connect queueing performance to planning decisions, enabling mixed-integer linear programming formulations with theoretical guarantees on solution quality in the light-traffic regime. In simulations using Singapore lift-trap rescue data, the optimized plans reduced projected annual late rescues by about 70% relative to the existing arrangement.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1272"/>
+    <category term="Operations Research"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0340</id>
+    <title>Machine Learning Instrument Variables for Causal Inference</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Amandeep Singh, Kartik Hosanagar, Amit Gandhi</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;A machine learning framework for constructing strong instrumental variables from weak exogenous data achieves semiparametric efficiency with applications to advertising and demand estimation.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0340"/>
+    <category term="Marketing Science"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.04115</id>
+    <title>Navigating the Rugged Data Landscape: The Impact of Data-Extrapolation Technologies on Knowledge Production</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Soomi Kim</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Data-extrapolation technologies enable progress by importing and applying empirical patterns from one domain to another. Their reliance on empirical patterns, however, is also their limitation: these tools can only be applied where data are abundant. Using the setting of structural biology, I investigate the impact of a data-extrapolation technology on innovation. I exploit the variation in prior data availability to compare areas in which the tool was usable to those in which it was not. I find that the tool increased the quantity of research in data-rich areas: the resulting output yielded limited biological insights but was methodologically rigorous and contributed to downstream research.This paper was accepted by Toby Stuart, entrepreneurship and innovation.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04115 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.04115"/>
+    <category term="Management Science"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08268</id>
+    <title>Selection into Financial Education and Effects on Portfolio Choice</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Irina Gemmo, Pierre-Carl Michaud, Olivia S. Mitchell</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study the impact of a financial education program on portfolio choices in a setting that allows us to examine both participation decisions and differences in program benefits across individuals. We directly elicit willingness to pay for financial education and show that individuals with higher financial literacy, greater confidence in applying new knowledge, and higher expected returns are willing to pay more. Using incentivized portfolio allocation tasks, we develop outcome measures tailored to individual risk preferences and show that financial education improves decision quality along these dimensions. The program increases the share of participants who experience an improvement by 20 percentage points, corresponding to average gains of 3.2 percentage points of initial wealth. Individuals with the highest willingness to participate benefit disproportionately from the program, with important implications for the design and evaluation of financial education initiatives. By isolating a specific investment skill in a setting with voluntary participation, our design sheds light on how selection into financial education shapes measured program effects and informs the assessment of broader workplace and public training programs.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: The authors thank the Pension Research Council of Wharton School at the University of Pennsylvania, as well as the Retirement and Savings Institute at HEC Montréal, for generous research funding.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08268 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08268"/>
+    <category term="Management Science"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261504830</id>
+    <title>EXPRESS: Incentive Design for Sales Managers: Impact on Resource Allocation and Performance</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Aritra Bhattacharya, Raghu Bommaraju, Rob Waiser</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Many firms struggle to design effective incentives for salesmanagers. Yet despite a vast literature on salespeople’s incentives, little theoretical or empirical research has examined managers’ incentive structures. The authors address a common dilemma that firms face: Should managers’ incentives be based on achieving anaggregatetarget (Aggregate Target Scheme, ATS) or instead be linked to the target achievement of eachindividualterritory or salesperson (Individual Target Scheme, ITS)? A quasi-experiment reveals that, despite ATS’s flexibility and apparent alignment with firm objectives, an ATS-to-ITS transitionimproved performance, with larger gains among lower-performing and higher-span territories. A scenario-based experiment with sales managers suggests that these effects may stem from thereallocationof resources from high to low performers but provides no evidence of an increase in managers’ overall resource investment. A survey of sales leaders indicates that asales star bias—a managerial tendency to overallocate resources toward high performers relative to their marginal returns—likely drives suboptimal resource allocation under the flexible ATS. Finally, a supplementary field study documents that, following an ATS-to-ITS transition, managers increasedjoint fieldwork, especially with the lowest performers, and performance again improved. These results provide insights into managerial incentive design and offer guidance for firms.</content>
+    <link href="https://doi.org/10.1177/00222429261504830"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1057/s41267-026-00915-1</id>
+    <title>Unpacking the micro–macro transmission mechanism: how home-country culture selectively shapes cognitive orientations in entrepreneurial internationalization</title>
+    <updated>2026-10-27T00:00:00+00:00</updated>
+    <author>
+      <name>Razieh Rosie Sadraei, Vahid J. Sadeghi, Andrew Delios</name>
+    </author>
+    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;International business accounts treat national culture as a country-level antecedent that shifts average export propensity uniformly, leaving the individual-level mechanisms producing within-country heterogeneity in internationalization intensity unspecified. We address this micro–macro transmission gap using social cognitive theory, examining how individualism versus collectivism and risk avoidance versus tolerance selectively recalibrate three cognitive orientations in entrepreneurial export decisions: perceived self-efficacy, perceived opportunity availability, and fear of failure. Our multilevel analysis of 40,529 observations across 41 countries spanning 2010–2019 reveals divergent rather than uniform moderation: individualism amplifies self-efficacy and opportunity availability beliefs through the social validation pathway, while risk avoidance constrains opportunity availability beliefs and fear of failure through the anticipatory self-regulation and outcome expectancy pathways. Fear of failure’s directional relationship with internationalization is contingent on the expectations of failure costs that the home-country cultural environment establishes through the outcome expectancy pathway, rather than being uniformly inhibitory as prior frameworks assume. These findings advance international business microfoundations theory by specifying the observable transmission pathways through which national cultural dimensions produce heterogeneous export intensity outcomes within the same national context. For policymakers, the findings imply that interventions to strengthen self-efficacy or opportunity awareness work best when calibrated to a country’s cultural profile.</content>
+    <link href="https://doi.org/10.1057/s41267-026-00915-1"/>
+    <category term="Journal of International Business Studies"/>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1017/s002210902610338x</id>
     <title>The Weight of Compliance: Anti-Money Laundering Enforcement, Banking Sector Composition, and Lending</title>
     <updated>2026-10-27T00:00:00+00:00</updated>
@@ -1529,112 +1661,16 @@
     <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1002/sej.70049</id>
-    <title>How ventures maintain stakeholder support amidst operational legitimacy threats</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/01492063261479303</id>
+    <title>Winning at Defense by Playing Offense: Discrediting by Target Firms in Activist Hedge Fund Campaigns</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
     <author>
-      <name>Alex Murray, Susan Cohen, Farhan Iqbal</name>
+      <name>Matthias Brauer, Marc J. Mertens, Louis Vandepoele</name>
     </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;We explore how ventures mitigate operational legitimacy threats—threats that originate within the venture and challenge claims relating to the venture's ability to deliver on its promised value proposition. Through an inductive study of four ventures working to deliver their promised products following successful crowdfunding campaigns, we reveal a process of three rhetorical practices that ventures can use to maintain stakeholder support:humanizing the venture,normalizing setbacks and resolutions, andrevising pragmatic claims. The first two practices contribute to the formation ofdispositional legitimacy buffersthat allow the third practice to be effective in mitigating fallout fromexposedoperational legitimacy threats. We conclude by offering contributions to the cultural entrepreneurship literature and to research on venture–stakeholder communication.Managerial SummaryEntrepreneurs must often determine whether to disclose operational issues to stakeholders. On one hand, entrepreneurs may resolve these operational issues without stakeholders ever knowing of their occurrence. On the other hand, such issues could balloon to negatively impact whether a venture can deliver its promised offering. We identify three rhetorical practices, two of which entrepreneurs can utilize before an operational issue even occurs, to generate favorable judgments with stakeholders and increase the likelihood that their ventures will be able to maintain support if an operational issue becomes exposed.</content>
-    <link href="https://doi.org/10.1002/sej.70049"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdag110</id>
-    <title>Are Markups Too High? Competition, Strategic Innovation, and Industry Dynamics</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Laurent Cavenaile, Murat Alp Celik, Xu Tian</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;To study competition, innovation, and industry dynamics that arise as a result of their interaction, we develop a new oligopolistic general-equilibrium Schumpeterian growth model. This model ties together the endogenous growth, oligopolistic competition, and dynamic industrial organization literatures in a single unified framework. Within each industry, there are an endogenously determined number of large firms (“superstars”) that compete à la Cournot and a continuum of small firms which collectively constitute a competitive fringe. Firms dynamically choose their innovation strategies, cognizant of other firms’ choices, and their entry and exit are endogenous. The model is consistent with the macroeconomic trends observed in the US since the 1970s, such as the domination of industries by a small number of superstar firms, the rise of markups, market concentration, profits, and R&amp;D spending, and the decline in business dynamism, productivity growth, and the labour share. It replicates the empirical relationship between innovation and competition within and across industries. As an application, we estimate the model to disentangle the effects of separate mechanisms on the structural transition observed in the US, which yields striking results: (1) While the increase in the average markup causes a significant static welfare loss, this loss is overshadowed by the dynamic welfare gains from increased innovation in response to higher profit opportunities. (2) The increasing costs of innovation are found to be the primary determinant of lacklustre productivity growth, i.e. ideas are getting harder to find.</content>
-    <link href="https://doi.org/10.1093/restud/rdag110"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2024.1281</id>
-    <title>From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Ziwei Cong, Jia Liu, Puneet Manchanda</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;Using data from a knowledge-sharing platform that sells recorded versions of paid livestreams, this paper finds that demand is surprisingly more price sensitive before the event than after, which is explained partly by consumer self-selection and the lower quality uncertainty once the livestream ends.</content>
-    <link href="https://doi.org/10.1287/mksc.2024.1281"/>
-    <category term="Marketing Science"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06298</id>
-    <title>Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Alex Moehring</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Digital platforms increasingly curate their content through personalized algorithmic feeds. Platforms have an incentive to promote content that increases the predicted engagement of each user to lift advertising revenues. This paper studies how ranking content to maximize engagement affects the credibility of news content with which users engage. In addition, I evaluate how the ranking algorithm itself can be designed to promote engagement with high-credibility content. Using data from the Reddit politics community, I exploit a novel discontinuity in the ranking algorithm to identify the causal effect of a post’s rank on the number of comments it receives. I use this discontinuity to identify a model of user comment decisions and estimate the credibility of news content that users engage with under a personalized engagement-maximizing algorithm. The personalized engagement-maximizing algorithm exacerbates differences in the credibility of news content with which users engage. I then evaluate a credibility-aware algorithm that explicitly promotes credible news publishers and find the platform can substantially increase the share of engagement with high-credibility publishers for a small reduction in total engagement. These findings suggest algorithmic interventions can be a useful tool for managers to balance engagement quantity and content quality.This paper was accepted by Hemant Bhargava, information systems.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06298 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06298"/>
-    <category term="Management Science"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06516</id>
-    <title>Using Representation Learning and Website Text to Identify Competitor Networks</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Gerard Hoberg, Craig Knoblock, Gordon Phillips, Jay Pujara, Zhiqiang Qiu, Louiqa Raschid</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper introduces a new approach to identify competitors using company websites to map competitive relationships among public and private firms. We apply representation learning techniques to create embeddings of companies based on website content, emphasizing information about industry-specific products and services. By placing all firms, public and private, within the same embedding space, we construct a peer competitor network that supports analysis of company interactions and market evolution. We label this new approach and set of network competitors as the website text-based network industry classification (WTNIC). We evaluate the quality of the network using multiple ground truth datasets and benchmarks and show that it offers a robust alternative for understanding competition at scale. Despite using noisy website data, WTNIC matches or outperforms prior approaches that rely on curated data. We demonstrate the value of WTNIC through a case study examining how competition from China affects the public and private peers of a focal firm, highlighting the importance of placing both public and private companies within the same embedding space.Funding: This work was supported by the National Science Foundation [Grants 1561068 and 1937153], the Tuck School of Business at Dartmouth College, the USC Marshall Institute for Outlier Research in Business (iORB), and the Smith School of Business at the University of Maryland.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06516 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06516"/>
-    <category term="Management Science"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261487117</id>
-    <title>Transaction Hazards Through Ideological Filters: How CEO Political Ideology Influences Vertical Integration Decisions</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>Holly Loncarich, Mirzokhidjon Abdurakhmonov, Madison L. Schnacker</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Why do firms facing similar transaction environments adopt different boundary structures? Transaction cost theory (TCT) predicts governance choices based on transaction hazards, but persistent heterogeneity in vertical integration suggests that such efficiency-based explanations are incomplete. We examine whether CEO political ideology is associated with systematic variation in firm boundary decisions. Drawing on research on political ideology and strategic leadership, we argue that ideological orientations shape how executives evaluate and prioritize governance trade-offs. Using a panel of 1,198 U.S. public firms from 2001 to 2020 and a firm fixed-effects design exploiting CEO successions, we find that firms led by more conservative CEOs exhibit higher levels of vertical integration. This relationship weakens when asset specificity is high and when industries are more concentrated but is not amplified by demand volatility. Our findings suggest that firm boundaries reflect not only transaction conditions but also systematic differences in executive decision-making.</content>
-    <link href="https://doi.org/10.1177/01492063261487117"/>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Prior research highlights the far-reaching strategic and governance consequences for firms targeted in activist hedge fund (AHF) campaigns. Yet, how target firm executives and directors can effectively defend against these campaigns remains underexplored. Drawing on impression management (IM) theory, we reason that executives and directors use discrediting in their public rebuttal letters to negatively influence shareholders’ evaluations of AHFs’ reputation. To nuance this prediction, we develop a taxonomy distinguishing between source-focused discrediting, which directly attacks AHFs’ reputation, and message-focused discrediting, which challenges the validity of AHFs’ claims to indirectly tarnish their reputation. We theorize that both discrediting subtypes enhance target firms’ defense success, particularly when deployed in combination. Adopting a temporal perspective on IM theory, we further argue that the effectiveness of discrediting diminishes as more time elapses between an AHF’s public attack and executives and directors’ rebuttal. A manual content analysis of 841 rebuttal letters issued during U.S. AHF campaigns (2000–2023) provides robust support for these predictions. Beyond contributing to shareholder activism research by offering new insights into the determinants of campaign outcomes, our study advances IM theory by conceptualizing discrediting as a multidimensional influence tactic and exploring its effectiveness and temporal dynamics in adversarial contexts.</content>
+    <link href="https://doi.org/10.1177/01492063261479303"/>
     <category term="Journal of Management"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70083</id>
-    <title>Flow‐Driven ESG Returns</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>PHILIPPE VAN DER BECK</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;I show that the recent returns to environmental, social, and governance (ESG) investing are strongly driven by price impact from flows toward ESG portfolios. Using data on trades, I estimate the market's ability to accommodate ESG flows, which is given by the elasticity of substitution between ESG and other stocks. I show that every dollar flowing toward a representative ESG portfolio increases the market value of ESG stocks by $0.8. The growing institutional flows into the ESG portfolio are the main driver of ESG returns and have caused an annual flow‐driven return of 1.9%. In the absence of flows, ESG stocks would not have outperformed the market from 2012 to 2023.</content>
-    <link href="https://doi.org/10.1111/jofi.70083"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70085</id>
-    <title>When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>VIRAL V. ACHARYA, TOOMAS LAARITS</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.</content>
-    <link href="https://doi.org/10.1111/jofi.70085"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70090</id>
-    <title>Targeted Philanthropy: Evidence from M&amp;amp;As</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <author>
-      <name>CARA VANSTEENKISTE</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;I show how firms optimize the allocation of charitable funds around investments that require external stakeholder support, such as mergers and acquisitions. Acquirers increase donations to target‐related charities before making a takeover offer, but scale funds back after withdrawing from a deal. Firms redistribute funds from nontakeover‐related areas to target insider–affiliated charities, employee communities, and counties with a regulatory presence. Targeted donations that encourage blockholder reciprocity and employee commitment are associated with better deal performance through decreased merger premiums and lower integration costs. Overall, the results highlight firms’ use of philanthropy to manage stakeholder relations in takeover decisions.</content>
-    <link href="https://doi.org/10.1111/jofi.70090"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-10-07T00:00:00+00:00</published>
+    <published>2026-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/orsc.2023.17369</id>
