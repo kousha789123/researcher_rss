@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-28T20:12:35.100491+00:00</updated>
+  <updated>2026-10-29T12:42:20.659143+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -717,7 +717,7 @@
     <author>
       <name>Nicolas Inostroza, Anton Tsoy</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal. (JEL D82, D86, G32)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;An asset owner designs an asset-backed security and a signal about its value. After experiencing a liquidity shock and privately observing the signal, he sells the security to imperfectly competitive buyers. With flexible information design, the security’s informational sensitivity is a blessing, not a curse. Among double-monotone securities, the issuer prefers to sell the asset in combination with an appropriate signal rather than design more complex securities. Within the class of monotone securities, live-or-die securities are optimal and strictly dominate asset sales. When signals are restricted to be sufficiently informative about the upside, debt and additional-tier-1 debt become optimal.</content>
     <link href="https://doi.org/10.1093/rfs/hhag093"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-10-19T00:00:00+00:00</published>
@@ -1195,7 +1195,7 @@
     <author>
       <name>Juliane Begenau, Pauline Liang, Emil Siriwardane</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data. (JEL G11, G23, G41, H75)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data.</content>
     <link href="https://doi.org/10.1093/rfs/hhag091"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-10-23T00:00:00+00:00</published>
@@ -1673,6 +1673,18 @@
     <published>2026-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261505544</id>
+    <title>EXPRESS: A Learning and Searching Method for Integrated Process Planning and Scheduling</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <author>
+      <name>Hongpei Li, Han Zhang, Ziyan He, Jiaqi Hu, Hongsong Yuan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The integrated process planning and scheduling problem combines process route planning and shop scheduling to achieve high efficiency in manufacturing and maximize resource utilization, which is crucial for modern manufacturing systems. Traditional approaches, such as mixed-integer linear programming and heuristic algorithms, often struggle to balance solution quality and computational efficiency, particularly in large-scale scenarios. To address this, we propose learning-then-searching, an efficient framework combining deep reinforcement learning with heuristic search to solve integrated process planning and scheduling problems. We formulate the problem as a Markov decision process and develop a deep reinforcement learning method tailored to capture the complex relationships among operations, machines, and jobs. With the learned policy distributions, Monte Carlo tree search employs learned priors and problem-specific rollouts to further refine scheduling strategies, effectively balancing exploration and exploitation to achieve better solutions. Experimental results show that the proposed framework improves solution efficiency and quality over traditional methods across benchmark and large-scale instances, with pronounced advantages when route ambiguity is high. It also offers practitioners a flexible tradeoff between rapid policy-based decisions and further refinement through tree search when additional computation time is available.</content>
+    <link href="https://doi.org/10.1177/10591478261505544"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/mnsc.2023.02703</id>
     <title>Robust Auction Design with Support Information</title>
     <updated>2026-10-28T00:00:00+00:00</updated>
@@ -1733,172 +1745,40 @@
     <published>2026-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2023.17369</id>
-    <title>When Data Scientists Meet Domain Experts: Artificial Intelligence, Epistemic Conflict, and Knowledge Transformation</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1111/jofi.70100</id>
+    <title>Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
     <author>
-      <name>Mayur Joshi, Ning Su, Mark Zbaracki</name>
+      <name>CHRISTOPH HUBER, FELIX HOLZMEISTER, MAGNUS JOHANNESSON, CHRISTIAN KÖNIG‐KERSTING, ANNA DREBER, JÜRGEN HUBER, MICHAEL KIRCHLER</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Predictive AI models developed by data scientists promise to transform organizational knowledge, yet in practice the predictions remain inscrutable to domain experts. Existing explanations situate the problems in the opacity of the AI tools, failed adoption, or jurisdictional conflict, but offer limited insight into how to make the knowledge accessible. Here we show how the problem emerges from the competing epistemic stances of data scientists and domain experts, which create conflict over how to produce and evaluate knowledge. We then ask how data scientists and domain experts address that conflict so that their work with AI satisfies each group’s standards for producing and evaluating knowledge. Drawing on an 18-month inductive study of three large Indian banks, we show that the data scientists produce new knowledge, but domain experts hold the power to decide whether it is deployed. Our findings distinguish between epistemic and jurisdictional conflict. We show that data scientists first try to address the epistemic conflict directly through assimilative practices that follow one epistemic stance or the other. When these practices fail to transform knowledge, data scientists learn to address the conflict indirectly through four bridging practices. These practices help the domain experts transform knowledge by embedding the data scientists’ predictions in the boundary objects and practices that the domain experts already use. Our findings reveal how power based on expertise rather than jurisdictional control can make possible the coproduction of knowledge.</content>
-    <link href="https://doi.org/10.1287/orsc.2023.17369"/>
-    <category term="Organization Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2023.18043</id>
-    <title>Feel Free to Chat About Your Kids? Exploring the Effects of Workplace Parenting Conversations</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Yuxin Lin, Allison S. Gabriel, Katina B. Sawyer, Zhengguang Liu</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Workplace conversations are essential for collaboration, knowledge sharing, and relationship building. Although much of the literature has focused on work-related discussions, recent shifts toward the blurring of professional and personal boundaries suggest that employees may increasingly converse about aspects of their nonwork lives. One such topic of conversation—parenting—presents a unique and understudied type of workplace exchange given the central role of the parental identity for working parents and the opportunity for them to highlight this important identity through dialogue. In the current set of studies, we introduce workplace parenting conversations as dialogical, in-depth exchanges about parenting-related topics between coworkers who are parents. Drawing from identity management and boundary management theories, we propose that these conversations offer instrumental, affective, and relational benefits that positively impact behaviors across work and parenting role domains. Using a mixed-methods triangulation approach, we first explore the content and processes of workplace parenting conversations through qualitative interviews (Study 1A), followed by an experience sampling study testing our model, complete with behavioral outcomes at work and home (Study 1B). We then explore the underlying micromechanisms connecting workplace parenting conversations to the mechanisms in our model through additional interviews (Study 2A) and a field experiment (Study 2B). Our findings contribute to the literature on workplace conversations by identifying an overlooked yet impactful form of workplace dialogue, exploring its primarily positive effects on employees’ behaviors in both work and home contexts and uncovering unique micromechanisms associated with this specific type of conversation.Funding: This work was supported by the National Natural Science Foundation of China [Grant 72102210].</content>
-    <link href="https://doi.org/10.1287/orsc.2023.18043"/>
-    <category term="Organization Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2022.17009</id>
-    <title>From Scarce Resources to Resourcing Spirals: A Theory of Mindful Resourcing</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Cristina Rubino, Sara Jansen Perry, Ravi S. Kudesia, Ari Malka</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;People in organizations often face demands in excess of their resources. Psychological theories of resources reflect this scarcity, emphasizing how people conserve or balance resources. Although they acknowledge that interventions, like mindfulness training, can create resources, these theories struggle to explain how as they assume that resources are necessarily scarce. In this study, we introduce a theory of mindful resourcing. Rather than reducing mindfulness to a scarce psychological resource that a person has, it reveals mindfulness to be a skillful practice that a person does to enhance their agency to create resources. Mindful resourcing theory shows how mindfulness skills form a foundation for resourcing—the ability to create and enact resources—and how resourcing reciprocally enhances mindfulness skills such that the practices of mindfulness and resourcing intertwine as mutually sustaining and supporting practices. We develop this theory across a three-phase research design that (1) introduces a conceptual model that sequences how these practices intertwine and (2) uses this sequencing to surface the otherwise implicit design structure of mindfulness trainings before (3) abductively building theory on how people enact and develop competence in mindful resourcing from longitudinal qualitative data of 98 nonprofit employees undergoing training. Our theory-building discovers the critical role of resourcing spirals—showing how employees create and enact resources by skillfully assembling spirals and recursively expanding those spirals into longer and more impactful sequences as they gain competence. Taken together, our study illuminates the understudied human activities by which people not only create and enact resources but learn to do so more mindfully.Funding: This work was supported by a California State University, Northridge Research, Scholarship, and Creative Activity (RSCA) Award.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2022.17009 .</content>
-    <link href="https://doi.org/10.1287/orsc.2022.17009"/>
-    <category term="Organization Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19818</id>
-    <title>Repatterning Interactions in Remote Work Environments: Bolstering Psychological Safety Through Mutually Humanizing Self-Disclosure</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Vanessa M. Conzon</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Existing research on psychological safety suggests that remote work might make it more challenging for workers to engage in the sorts of interactions that promote psychological safety. This raises the question: How is psychological safety bolstered when groups work remotely? Drawing on data from a seven-year longitudinal qualitative study—including 275 interviews and approximately 330 hours of observations—of a professional services organization that shifted from an in-person work environment to a remote work environment, I present a process model of how psychological safety can be strengthened among workers interacting virtually. I find that remote work supports interactional patterns that facilitate self-disclosure among group members. Learning more about one another, workers become mutually humanized, and psychological safety is bolstered. This psychological safety is accompanied by a set of associated practices that help people coordinate on work tasks while also sustaining flexibility in where and when they work. Reflecting improved psychological safety and associated practices, group members attend to and accomplish both work tasks and nonwork activities. This study contributes to the psychological safety literature by identifying a distinct process through which psychological safety can be promoted in remote work environments: mutual humanization via self-disclosure, which is supported through interactional patterns facilitated by remote work. Importantly, this distinct group-initiated process expands theorization beyond its current focus on leader-initiated social learning. This study also identifies how psychological safety supports role management, integrating theories of psychological safety and work-nonwork roles to expand understanding of psychological safety’s positive consequences.History: This paper has been accepted for the Organization Science Special Issue on Psychological Safety.</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19818"/>
-    <category term="Organization Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2023.18038</id>
-    <title>Dominant Deceptions: How Future-Oriented Narratives Transform into Deception</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Tiona Zuzul, Aharon Cohen Mohliver</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Drawing on a multiyear, qualitative study of a promising venture in a nascent industry, we develop a process model tracing how future-oriented narratives can transform into deception. In the venture that we studied, the founder’s future-oriented narratives were initially viewed as evidence of his visionary foresight. As these narratives traveled downward through the organization, employees responsible for operations translated this broad vision into specific targets and metrics. Some details described an attainable future; others were so far-fetched that they became liminal, falling into a gray zone between right and wrong. As internal and external demands for tangible progress grew, this expectations-reality gap prompted employees to engage in temporal reorientation, shifting their statements from “we will” to “we have.” Their statements crossed from liminal to deceptive, asserting as fact something that did not exist. Once formalized in presentations, websites, and other artefacts, the claims became dominant deceptions: codified, specific, past- or present-tense deceptions deliberately reproduced across the organization. In this codified form, the deceptions became misconduct that, if detected, could have been acted on by social control agents. We propose that three enabling conditions sustained this transformation: visionary attribution (belief in the founder’s unique foresight), interpretive flexibility (the ambiguity of new technologies that allows for multiple plausible meanings), and moral justification (the framing of deception as serving a higher mission). Because the process unfolded diffusely and incrementally, the transformation could only be observed retrospectively in the accumulation of actions across individuals and over time. By tracing this process, we extend research in narratives and in organizational misconduct.Funding: Funding for this research was provided by the London Business School and the Harvard Business School.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2023.18038 .</content>
-    <link href="https://doi.org/10.1287/orsc.2023.18038"/>
-    <category term="Organization Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2025.1741</id>
-    <title>Optimizing Input Data Collection for Ranking and Selection</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Eunhye Song, Taeho Kim</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We study a ranking and selection (R&amp;S) problem when all solutions share common parametric Bayesian input models updated with the data collected from multiple independent data-generating sources. Our objective is to identify the best system by designing a sequential sampling algorithm that collects input and simulation data given a budget. We adopt the most probable best (MPB) as the estimator of the optimum and show that its posterior probability of optimality converges to one at an exponential rate as the sampling budget increases. Assuming that the input parameters belong to a finite set, we characterize the optimal static sampling ratios for input and simulation data that maximize the convergence rate. Using these ratios as guidance, we propose the optimal sampling algorithm for R&amp;S (OSAR) that achieves the optimal ratios almost surely in the limit. We further extend OSAR by adopting the kernel ridge regression to improve the simulation output mean prediction. This not only improves OSAR’s finite-sample performance, but also lets us tackle the case where the input parameters lie in a continuous space with a strong consistency guarantee for finding the optimum. We numerically demonstrate that OSAR outperforms a state-of-the-art competitor.</content>
-    <link href="https://doi.org/10.1287/opre.2025.1741"/>
-    <category term="Operations Research"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2024.1280</id>
-    <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Xinyao Kong, Jean-Pierre Dubé, Vaness Alwan</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.</content>
-    <link href="https://doi.org/10.1287/mksc.2024.1280"/>
-    <category term="Marketing Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.01108</id>
-    <title>Predicted Incrementality by Experimentation for Ad Measurement</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Brett R. Gordon, Robert Moakler, Florian Zettelmeyer</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Randomized controlled trials (RCTs) provide the most credible estimates of advertising incrementality but are difficult to scale. We propose Predicted Incrementality by Experimentation (PIE), which reframes ad measurement as a campaign-level prediction problem. PIE uses a sample of RCTs to learn a mapping from campaign features to causal effects, then applies it to campaigns not run as RCTs. Because the RCTs identify the causal effects, PIE can incorporate post-determined features—campaign-level aggregates such as test-group outcomes, exposure rates, and last-click conversions, computed after campaign completion. These metrics reflect the consumer behaviors that generate treatment effects, so they carry predictive information about incrementality, even though they would be invalid controls in a causal model. Using 2,226 Meta ad experiments, PIE achieves an out-of-sample [Formula: see text] for incremental conversions per dollar, compared with [Formula: see text] for industry-standard seven-day last-click attribution. In a decision-making framework, PIE disagrees with RCT-based decisions in only 8%–12% of campaigns, compared with 12%–20% for last-click attribution. We conclude that PIE can help scale causal measurement from a limited number of RCTs to a large set of nonexperimental campaigns.This paper was accepted by Raphael Thomadsen, marketing.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01108 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.01108"/>
-    <category term="Management Science"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/joom.70060</id>
-    <title>&lt;scp&gt;RETRACTION&lt;/scp&gt;
-                    : Follow‐Suit or Free‐Ride? A Relational View of
-                    &lt;scp&gt;CSR&lt;/scp&gt;
-                    Diffusion in a Supply Chain with Customer–Supplier Closure</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;RETRACTION:E.C.Falcone,T.Yan, andB.S.Fugate, “,”Journal of Operations Management70, no.  (2024):979–1006,https://doi.org/10.1002/joom.1319.The above article, published online on 9 June 2024 in Wiley Online Library (http://onlinelibrary.wiley.com/), has been retracted by agreement between the authors; the journal Editors‐in‐Chief, Elliot Bendoly and Rogelio Oliva; the Association for Supply Chain Management; and Wiley Periodicals LLC. The authors contacted the journal editors regarding numerous unintentional errors in the reporting and documentation of the published analyses, which they identified after publication. As the editors consider that these errors are too extensive to be remedied through correction, the article must therefore be retracted. The authors agree with this decision and regret these errors.</content>
-    <link href="https://doi.org/10.1002/joom.70060"/>
-    <category term="Journal of Operations Management"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1057/s41267-026-00909-z</id>
-    <title>From trade-off to paradox: a configurational theorizing and “quantum” approach to the resilience–sustainability tension in global sourcing</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Giacomo Grassi, Stefano Elia, Cristina Di Stefano, Michela Guida, Federico Caniato</name>
-    </author>
-    <content>&lt;b&gt;Journal of International Business Studies&lt;/b&gt; &lt;br&gt;Global sourcing is increasingly caught between two persistent pressures: to be sustainable and resilient. While this relationship is often framed as a trade-off, we draw on paradox theory to conceptualize it as a persistent paradox, especially for MNEs coordinating complex supplier networks. Most paradox research addresses either how tensions are embedded in organizational systems or how they are socially constructed by managers, but rarely both. Drawing on the "quantum" approach to paradox, we bridge these ontological and epistemological perspectives, arguing that the resilience–sustainability tension is rooted in the structure of global sourcing systems and made salient through how managers interpret and combine sourcing decisions. Following a configurational roadmap of three stages—scoping, linking, and naming—we theorize five systemic sourcing factors (location choice, supplier redundancy, inventory buffer, green certification, and the sustainability premium) and examine how they are evaluated by 72 Italian procurement managers through a factorial survey, a fuzzy-set qualitative comparative analysis, and interviews. Managers favor coherent bundles over standalone levers, combining certification-based sustainability assurance alongside resilience-oriented levers such as proximity, redundancy, and buffers. We conceptualize three archetypal sourcing logics—integrator,resilience-first, andcost-only—offering managers a practical vocabulary for framing and legitimating sourcing choices when both pressures collide.</content>
-    <link href="https://doi.org/10.1057/s41267-026-00909-z"/>
-    <category term="Journal of International Business Studies"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70089</id>
-    <title>Generative AI and Firm Values</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>ANDREA L. EISFELDT, GREGOR SCHUBERT, MIAO BEN ZHANG, BLEDI TASKA</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure offirms' workforce exposuresto Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.</content>
-    <link href="https://doi.org/10.1111/jofi.70089"/>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Experimental asset markets provide a controlled approach to studying financial markets. We attempt to replicate 17 key results from four prominent studies, collecting new data from 166 markets with 1,544 participants. Only three of the 14 original results reported as statistically significant were successfully replicated. We fail to replicate findings on emotions, self‐control, and gender differences in bubble formation but confirm that experience reduces bubbles and cognitive skills explain trading success. Our study demonstrates the importance of replications in enhancing the credibility of scientific results in this field.</content>
+    <link href="https://doi.org/10.1111/jofi.70100"/>
     <category term="The Journal of Finance"/>
-    <published>2026-10-08T00:00:00+00:00</published>
+    <published>2026-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/jofi.70080</id>
-    <title>Feedback and Contagion through Distressed Competition</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/hrm.70107</id>
+    <title>When People Management Backfires: A Qualitative Study of Unintended Consequences of Line Managers' Support for Employees</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
     <author>
-      <name>HUI CHEN, WINSTON WEI DOU, HONGYE GUO, YAN JI</name>
+      <name>Roos Mulder, Eva Knies, Jasmijn van Harten, Maria Peeters</name>
     </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long‐term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability‐leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.</content>
-    <link href="https://doi.org/10.1111/jofi.70080"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-10-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;This article examines how and why well‐intended people management can backfire, resulting in unintended consequences such as reduced well‐being and performance. Although people management—the combination of line managers' implementation of HR practices and their leadership behavior in supporting employees—is generally assumed to result in positive outcomes, emerging evidence suggests that benevolent line manager behavior may have adverse effects. However, insight into the underlying mechanisms through which such backfire occurs remains limited. To address this gap, we utilized a multi‐actor qualitative approach by conducting 55 interviews among line managers and employees in the Dutch hospital sector using the Critical Incident Technique. We identify three mechanisms through which backfire unfolds: (1) constrained communication in the context of policies and regulations, (2) overcompensation in the context of performance pressure, and (3) accountability in the context of conflicting fairness perceptions. Across these mechanisms, we show that backfire emerges not from poor managerial intent but from the interaction between line managers' intentions and behaviors, employees' interpretations, and structural constraints. By conceptualizing backfire as a structurally constrained and interactional process, this study advances people management research beyond dominant explanations focused on implementation quality or outcome trade‐offs, and highlights the importance of context in shaping employee responses.</content>
+    <link href="https://doi.org/10.1002/hrm.70107"/>
+    <category term="Human Resource Management"/>
+    <published>2026-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1111/jofi.70084</id>
-    <title>The Financial Premium</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/10422587261496321</id>
+    <title>The Future of Entrepreneurship Research Includes Online Panel Data—If Used Correctly</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
     <author>
-      <name>JENS DICK‐NIELSEN, PETER FELDHÜTTER, DAVID LANDO</name>
+      <name>Jeffrey M. Pollack, J. Jeffrey Gish, Timothy L. Michaelis, Jeni L. Burnette, David J. Scheaf, Jon C. Carr, Nicholas A. Smith</name>
     </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.</content>
-    <link href="https://doi.org/10.1111/jofi.70084"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-10-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1591</id>
-    <title>Helping Oneself by Helping a Rival: Social-Media Platforms’ Policies on Enabling Features for Influencers</title>
-    <updated>2026-10-08T00:00:00+00:00</updated>
-    <author>
-      <name>Yan Zhu, Jianqing Chen, Srinivasan Raghunathan</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Social-media platforms and influencers are often seen as collaborators. However, both rely primarily on advertising services, introducing a competitive dimension to their relationship. As the dominant players in this relationship, platforms have used design features, which they control, to manage this dynamic. Some platforms have adopted an antagonistic approach by disabling certain features (e.g., clickable shopping-related hyperlinks) for influencers, while others take a more cooperative stance, allowing influencers to use these features for free or for a fee. We develop a game-theoretic model to explore the competition between the two parties and study the platform’s decision to enable or disable a feature that enhances the effectiveness of an influencer’s service. We show that even when the platform cannot charge the influencers for using the feature, it can still benefit if the advertisers’ valuation of the platform’s service is not significantly lower than that of the influencer’s service. While enabling the feature may result in a loss of market share, the platform can potentially offset this loss by raising its prices. A win–win situation for the platform and the influencer may come at the expense of some advertisers, suggesting the platform’s helping the influencer can lead to a “collusive” outcome, despite the competition for advertisers. If the platform can charge a fee for using the feature, it should always enable the feature at an appropriate fee, as this will benefit the platform. The additional fee revenue may come with no change in the platform’s advertising revenue, with an increase in the advertising revenue, or at the expense of some advertising revenue. The platform strategically uses the fee to influence the influencer’s service offering, which affects the platform’s revenue mix under the new business model.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1591"/>
-    <category term="Information Systems Research"/>
-    <published>2026-10-08T00:00:00+00:00</published>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;As online panel data (OPD) become more widely used across the behavioral sciences, editors, reviewers, and researchers in entrepreneurship are asking whether it has a legitimate place in our field. We believe the answer is yes—provided three conditions are met. First, the online panel’s participants and definition of entrepreneur must match the research question. Second, studies must incorporate best practices for sample verification. Third, generalizability must be explicitly addressed as part of the study (or set of studies). If researchers do these things, OPD can meaningfully advance both theory and practice in entrepreneurship research. That said, real questions remain. What kinds of studies are suitable for OPD? Who are these respondents, and are they who they say they are? Are they human, and are they entrepreneurs as commonly defined in the literature? Our recommendations and checklist aim to enable entrepreneurship researchers to answer these questions and make informed choices when collecting data and publishing results using OPD.</content>
+    <link href="https://doi.org/10.1177/10422587261496321"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1287/orsc.2024.19624</id>
