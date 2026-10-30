@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-10-29T12:42:20.659143+00:00</updated>
+  <updated>2026-10-30T12:42:51.529247+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1745,6 +1745,115 @@
     <published>2026-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261505540</id>
+    <title>EXPRESS: Coevolution of Trader Similarity Networks and Follower Dynamics in Social Trading</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Ye Liu, Mingwen Yang, Yong Tan</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Social trading platforms have been gaining popularity against traditional brokerages over the past few years. Compared with traders on traditional financial markets, those on social trading platforms often exhibit more similar trading strategies. In this paper, we examine the impact of strategy similarity patterns on traders' popularity. We identify two competing effects of similarity: a substitution effect, whereby traders with similar strategies become interchangeable and compete for followers; and a social proof effect, whereby similarity signals credibility in an environment characterized by high uncertainty and limited verifiable credentials, thereby attracting followers. To empirically examine these effects, we construct a dynamic similarity network and develop a coevolution model that captures the joint evolution of network structure and follower dynamics. Using data from a leading social trading platform, we find that, on average, greater similarity leads to a decline in a trader’s followers over time, indicating that the substitution effect dominates. Importantly, this relationship is heterogeneous. For more established traders, the substitution effect is stronger, such that greater similarity reduces their popularity. In contrast, for less established traders, the social proof effect dominates, and similarity increases their popularity. Using counterfactual simulations, we show that reducing the density of the similarity network and promoting a more balanced distribution of followers can mitigate the negative substitution effect, thereby increasing the total number of followers on the platform and, consequently, the platform revenue. Our study identifies several managerial and operational implications for the social trading platforms.</content>
+    <link href="https://doi.org/10.1177/10591478261505540"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261505967</id>
+    <title>EXPRESS: Simplifying the Madness of Multiple Entries in
+                    &lt;i&gt;March Madness&lt;/i&gt;</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Jeff Decary, David Bergman, Carlos Cardonha, Jason Imbrogno, Andrea Lodi</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Multi-entry betting pools for single-elimination tournaments create a portfolio-design problem: a participant may submit several brackets whose scores are highly dependent, while payouts are typically concentrated on the best-performing entry. Motivated by March Madness pools, we study the problem of selecting a portfolio of brackets that maximizes the expected maximum score (EMS) across entries. This objective captures the top-heavy nature of such contests without requiring a model of opponents' bracket choices, which is difficult to estimate reliably in a tournament played only once per year. We first establish computational and structural properties of the EMS objective. Exact EMS evaluation is #P-hard in general, although it is polynomial-time computable for any fixed number of entries with an exponent that grows with the portfolio size. For two entries, EMS decomposes into single-entry expected-score terms and an expected absolute score-gap term, making explicit the trade-off between selecting individually strong brackets and diversifying across outcomes. These insights motivate two sample average approximation algorithms: an entry-by-entry method based on marginal EMS contributions and a round-by-round method that exploits the geometrically increasing scoring weights in March Madness by emphasizing late-round diversification. Computational experiments using historical tournament data show that the round-by-round method scales reliably and outperforms direct SAA and an entropy-based benchmark for larger portfolios. In a real high-stakes DraftKings pool from the 2023 tournament, our 100-entry portfolio would have achieved a 2.54% probability of attaining a maximum-scoring entry, with higher expected profit than the portfolios submitted by several elite professional bettors.</content>
+    <link href="https://doi.org/10.1177/10591478261505967"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261505549</id>
+    <title>EXPRESS: Bridging the Gap: The Impact of Online Booking of Healthcare Appointments Service</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Liuyi He, Jifeng Luo, Panpan Wang, Zhiyan Wu, Han Zhang</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online healthcare communities (OHCs) play an important role in transforming healthcare delivery. While existing literature has primarily focused on the impact of teleconsultation services on offline demand, the influence of integrating offline access into OHCs on teleconsultation remains largely unexplored. This study addresses the gap by investigating how the integration of offline access into OHCs affects the utilization of teleconsultation services. We leverage a natural experiment in an OHC involving the implementation of the Online Booking of Healthcare Appointments (OBHA) feature, which allows patients to secure in-person visit appointments in the OHC. Using difference-in-differences (DID) models, we find a significant increase in new demand for adopter physicians’ teleconsultation services following the integration of OBHA, without deterioration in service quality. Notably, the increased demand largely comes from patients in remote and underserved areas seeking consultations with high-quality physicians, exhibiting a cascading effect. Furthermore, we find that OBHA adoption extends the geographic reach of physicians’ teleconsultation services and promotes a more equitable distribution of teleconsultation utilization across regions. Our findings indicate that integrating offline access into OHCs not only boosts the utilization of teleconsultation services but also helps reduce health disparities by facilitating access to high-quality resources. This study contributes to the literature on healthcare operations management, healthcare information technology, and health disparities. The insights gleaned from the study also offer practical suggestions to policymakers, OHC operators, physicians, and patients.</content>
+    <link href="https://doi.org/10.1177/10591478261505549"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mksc.2023.0382</id>
+    <title>The Problem of Ignoring the Ignorability Assumption in Advertising Measurement: A Matrix Completion Solution</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Omid Rafieian</name>
+    </author>
+    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;This paper frames the overlap violation problem in online advertising auctions as a missing-data problem and proposes a matrix completion approach to correct the resulting bias in observational studies with algorithmic ad allocation.</content>
+    <link href="https://doi.org/10.1287/mksc.2023.0382"/>
+    <category term="Marketing Science"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08672</id>
+    <title>Inflexibility and Leverage</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Lifeng Gu, Dirk Hackbarth, Yuxin Luo</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Firms’ inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly selected subsamples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, our inflexibility measure explains financial leverage significantly better than other variables that potentially capture certain aspects of adjustment costs for capital or labor. In addition, inflexible firms increase leverage more following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding. Our results suggest inflexibility shapes corporate financial policies.This paper was accepted by Bo Becker, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08672 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08672"/>
+    <category term="Management Science"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08463</id>
+    <title>Multitype Information Acquisition in a Strategic Trading Model</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Hui Ou-Yang, Weili Wu, Xingtan Zhang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We analyze information acquisition in a strategic trading model with multidimensional uncertainties. Our main result is that the equilibrium can exhibit multiplicity because of the integer nature of the number of informed traders and the strategic interactions across different types of informed traders. We show that the number of equilibria can be arbitrarily large. Moreover, asymmetric equilibria can arise even in symmetric settings. As information costs rise, fewer traders acquire information, yet prices can become more informative. These results shed light on the instability of financial markets and yield testable empirical predictions.This paper was accepted by Lukas Schmid, finance.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72472171 and 72372011].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08463 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08463"/>
+    <category term="Management Science"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07082</id>
+    <title>Contest or Contract: Assessing the Effectiveness of Contests in Online Labor Markets</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Jason Chan, Jiahui Mo, Tingting Nian, Nila Zhang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Online labor markets have become increasingly popular among companies seeking global access to workers. Some platforms have adopted a contest-based scheme, allowing employers to review multiple submissions before selecting the best one. This practice raises a crucial question: Given a predefined budget, should employers choose a contest or contract scheme for tasks? This study examines the comparative effectiveness of contests versus contracts in achieving better job outcomes, focusing on design tasks characterized by high uncertainty. Using a comprehensive data set from a leading online labor market, we employ multiple empirical strategies, combined with machine learning and text mining techniques, to examine the impact of compensation schemes on job quality. Our results suggest that contract-based jobs yield better performance than contests in the context of ideation tasks. Further analysis, such as examining image similarity among pairwise solutions within a task, identifies “copying” behaviors as a key mechanism undermining the effectiveness of contests. In the public setting of contests, workers can observe others’ submissions and revise their own, leading to imitation rather than innovation. As competition intensity increases, workers have weaker incentives to exert effort, reducing solution quality. Consequently, the negative incentive effects in contests outweigh both the potential positive incentive and parallel effects. Moreover, although information availability can enhance work quality, contests inherently offer limited informational advantages compared with contracts. Taken together, our findings suggest that contract-based schemes are more effective than contests for design tasks, offering important implications for both employers and platform designers in online labor markets.This paper was accepted by Karan Girotra, operations management.Funding: N. Zhang acknowledges the support from the National Natural Science Foundation of China [Grant 72302053].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07082 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07082"/>
+    <category term="Management Science"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01218</id>
+    <title>Willingness to Compete in Dirty Competitions</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Thomas Buser, Sahar Sangi</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Competitive environments often leave room for “dirty” practices such as sabotage, retaliation, or dishonesty. We use an online experiment to document aggregate levels and individual differences in the willingness to engage in dirty competition and in the willingness to enter competitions where the opponent may play dirty. We then use the experimental data to validate a set of survey questions that capture willingness to engage in dirty competition above general willingness to compete. We elicit these questions in a representative survey panel and show that willingness to engage in dirty competition is a strong predictor of holding a management or supervisory position and of working in the private—versus the public—sector, but also of worse self-esteem, worse social relationships, and increased feelings of guilt and shame. Men, younger people, and lower-educated people are on average more willing to engage in dirty competition.This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01218 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01218"/>
+    <category term="Management Science"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261489261</id>
+    <title>A Moral Foundations Perspective on CEO Political Ideology</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Moritz Appels, Marc Kowalzick, Michael Woywode</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;As a reflection of their fundamental value systems, CEOs’ political ideology has come to be regarded as a major predictor of their strategic decision-making. Among the most persistent characterizations in this literature, liberal-leaning CEOs are considered to exhibit a distinct preference for evenhanded outcomes and pro-social corporate practices due to their ideological endorsement of equality—an association derived from the conceptualization of political ideologies along the motivated cognition perspective and routinely used to differentiate them from their more conservative peers. Yet, moral psychologists increasingly call for a broader understanding of the moral values differentiating liberals and conservatives. We therefore introduce moral foundations theory to the study of CEO political ideology, according to which liberal- and conservative-leaning CEOs differ in their focus on individual- versus group-centric concerns but, contrary to the existing consensus, should both endorse evenhanded outcomes and pro-social corporate practices. We find evidence for corresponding U-shaped rather than linear effects of CEOs’ political ideology in a sample of over 1,600 S&amp;P 1500 CEOs. As such, we offer a novel theoretical perspective on CEOs’ political ideology and its organizational ramifications.</content>
+    <link href="https://doi.org/10.1177/01492063261489261"/>
+    <category term="Journal of Management"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/jofi.70100</id>
     <title>Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results</title>
     <updated>2026-10-29T00:00:00+00:00</updated>
@@ -1754,6 +1863,18 @@
     <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;Experimental asset markets provide a controlled approach to studying financial markets. We attempt to replicate 17 key results from four prominent studies, collecting new data from 166 markets with 1,544 participants. Only three of the 14 original results reported as statistically significant were successfully replicated. We fail to replicate findings on emotions, self‐control, and gender differences in bubble formation but confirm that experience reduces bubbles and cognitive skills explain trading success. Our study demonstrates the importance of replications in enhancing the credibility of scientific results in this field.</content>
     <link href="https://doi.org/10.1111/jofi.70100"/>
     <category term="The Journal of Finance"/>
+    <published>2026-10-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0790</id>
+    <title>Improving Competitiveness: A Freelancer-Centric Approach for Recommending Reskilling Strategies</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <author>
+      <name>Haoxin Liu, Shuo Yu, Stephen He, Wen Wen, Yidong Chai</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;As new technologies such as artificial intelligence (AI) rapidly reshape labor markets and the value of different skills, workers increasingly need to decide which skills to acquire to remain competitive. Yet most online labor platforms focus on helping employers find workers or workers find jobs, offering limited guidance on how workers can strategically reskill to improve their market competitiveness. We address this gap by developing an AI-enabled freelancer-centric skill advisor (FESA) that recommends skills based on freelancers’ desired tasks and supports both exploration (exploring new skills) and exploitation (deepening existing expertise) reskilling strategies. Using real-world data from a major online labor market, we show that FESA substantially outperforms existing approaches in identifying skills that improve freelancers’ competitiveness. A controlled experiment further shows that users are more motivated to pursue FESA’s personalized recommendations than generic popular-skill recommendations. Importantly, our experimental results reveal a key design lesson for AI-powered skill recommendation systems: More information is not always better. Revealing freelancers’ low market rankings can reduce their motivation to reskill, particularly under exploration reskilling strategies. Our study offers practical guidance for online platforms, workforce-development programs, and policymakers designing digital tools to support reskilling in rapidly changing labor markets.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0790"/>
+    <category term="Information Systems Research"/>
     <published>2026-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -1781,99 +1902,75 @@
     <published>2026-10-29T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19624</id>
-    <title>Reconceptualizing Network Change: Robustness and Resilience of Interorganizational Networks</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1002/smj.70139</id>
+    <title>Strategy as a theory of change</title>
+    <updated>2026-10-30T00:00:00+00:00</updated>
     <author>
-      <name>Maxim Sytch, Sukanya Roy, Pavel I. Zhelyazkov</name>
+      <name>Sergio G. Lazzarini, Todd R. Zenger, Teppo Felin</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Existing research on interorganizational network dynamics has largely treated network change as gradual, local, and primarily oriented toward private organizational advantage. Yet contemporary cooperative interorganizational systems are highly interconnected across industrial sectors and geographies and are routinely exposed to shocks that simultaneously disable multiple organizations or relationships among them. These shocks stem from pandemics, natural disasters, wars, sanctions, and cascading partner failures, and can rapidly reconfigure whole‑network architectures and undermine collective outcomes. In light of this new reality, we reconceptualize interorganizational networks as loci of frequent, punctuated change at the whole network level, with primary implications for collective outcomes. We develop this reconceptualization through a robustness–resilience lens, defining network robustness as an interorganizational network’s capacity to maintain its collective outcomes in the immediate aftermath of a shock, and network resilience as its capacity to recover and potentially surpass pre‑shock collective outcomes over the longer term. We then outline the theoretical and methodological opportunities that this robustness–resilience perspective opens for the study of network change.</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19624"/>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;The theory‐based view argues that a strategist's task is to develop a theory to move the organization to an improved future state. Focusing on theorizing as a thought process of model creation, we propose a framework to specify hypothetical causal links and analyze their structure as a directed graph connecting inputs, activities, and indicators of problem resolution. We then propose a set of metrics operationalizing key theory attributes: complexity, equifinality, interdependence, and circularity. We discuss the strategic relevance of these attributes in terms of a theory's ability to promote comprehensive problem resolution as well as implement, evaluate, and replicate the proposed solution. Our work represents a step toward operationalizing model creation in the theory‐based view and informs the design of strategic theories of change.Managerial SummaryStrategists often theorize how to move their organizations toward an improved performance state. Yet most strategic analysis tools describe the organization's external environment or the internal components of its business model, without precisely specifying forward‐looking interventions that might cause the desired changes. In this paper, we represent strategic theories as a chain of causal interventions—inputs and activities that address relevant problems and lead to desirable outcomes. We propose a structured framework that helps managers develop theories and measure key attributes that influence comprehensive problem resolution and the ability to implement, evaluate, and replicate the proposed interventions. In this sense, our work helps managers mentally create their strategic theories and assess their usefulness as a roadmap to superior performance.</content>
+    <link href="https://doi.org/10.1002/smj.70139"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261505547</id>
+    <title>EXPRESS: Revitalizing the Grocery Store Experience: An Empirical Study on the Spillover Effects of Experiential Services</title>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <author>
+      <name>Bengü Nur Özdemir, Stanley Frederick W. T. Lim</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Grocery retailers increasingly use experiential services to attract customers to their stores. However, it remains unclear whether these services generate positivespillovereffects to core grocery sales or cannibalize existing demand. We provide the first empirical evidence by studying a grocery retailer that introduced a taphouse as its first experiential service and examining the underlying mechanisms.We combine store transaction records with SafeGraph's point-of-interest data and survey data on product attributes. Using a quasi-experimental design, we specify a synthetic difference-in-differences estimator with staggered treatment timings. Our results show significant positive spillover effects. On average, stores that feature a taphouse experienced a 5.97% increase in daily sales volume, a 6.82% rise in sales revenue, a 5.76% increase in transactions, and a 6.18% expansion in product variety compared to stores without a taphouse. Our mechanism analyses suggest that these results are associated with activity through bothextensive(newly observed customers) andintensive(greater purchasing activity among existing customers) margins. We find that an average order contains fewer but relatively higher-priced items, leaving average order value statistically unchanged. Newly acquired customers make relatively smaller purchases than existing customers, whose order size does not change significantly following the taphouse introduction. We also find that products complementary to the taphouse and those with a greater propensity for impulse purchasing account for larger shares of grocery sales following taphouse introduction. Finally, nearby competing supermarkets experience reductions in both total visits and unique visitors, suggesting that local competitive substitution may contribute to the observed customer expansion.To assess generalizability, we replicate the analysis with another grocery chain in a different region that introduced a full restaurant and obtain qualitatively similar results. Overall, the findings indicate that adding a taphouse can effectively increase grocery sales volume and revenue. Although high setup costs may deter adoption, our break-even analysis projects recovery in approximately 34 to 39 weeks from grocery-side gross-margin contributions alone, or 27 to 44 weeks when alternative assumptions about taphouse profitability, including operating losses, are incorporated.</content>
+    <link href="https://doi.org/10.1177/10591478261505547"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10591478261505545</id>
+    <title>EXPRESS: The Role of Ease-of-Return Experience on Contingent Free Shipping Policies</title>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <author>
+      <name>Ashish Kabra, Wedad J. Elmaghraby, Nitish Jain</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Contingent free shipping (CFS) policies, whereby consumers get free shipping if their orders exceed a certain amount, are commonplace. Such a policy aims to nudge customers to place larger orders by adding additional items and/or buying more expensive items (order-swelling). A less desirable possible outcome is that customers pad their orders to avoid paying the shipping fee but later return the opportunistic or impulse-purchase items (return-swelling). A retailer designing the CFS policy’s terms—threshold and shipping fee—should balance these competing effects. We study how the retailer's return environment, specifically the ease-of-return experience (EOR) for customers, moderates order-swelling or return-swelling behavior induced by a CFS policy.We collaborate with an online fashion retailer that switched across multiple CFS policies over time and offered home pickup of returns in some markets but not in others. Our difference-in-differences empirical strategy builds on these policy switches and the location-based variation in the EOR. We find that the EOR can considerably impact the relative profit performance of the CFS policies and that it moderates both the order-swelling and the return-swelling responses. Our counterfactual analysis reveals that return-swelling is the key driver of the observed difference in the relative profit performance of CFS policies across the two EOR market types.Our study documents a novel determinant of the financial performance of a CFS policy: the ease-of-return experience. Our analysis indicates that our collaborating retailer would be better off selecting a (relatively) lenient CFS policy in more convenient EOR markets and a (relatively) stringent CFS policy in less convenient EOR markets.</content>
+    <link href="https://doi.org/10.1177/10591478261505545"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2023.17926</id>
+    <title>Demand for Research and the Composition of Scientific Response: Intellectual Distance, Research Productivity, and Research Outcomes</title>
+    <updated>2026-10-30T00:00:00+00:00</updated>
+    <author>
+      <name>Jino Lu</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;When demand for research in a domain increases, scientific progress depends not only on whether more research is produced, but also on which scientists produce that research. This distinction is especially important in emerging domains, where technological trajectories remain uncertain and progress often requires the generation and integration of heterogeneous scientific knowledge. This study examines how academic scientists respond when demand for research increases in a domain and what research outcomes they produce within that domain. Empirically, I exploit the Zero Emission Vehicle (ZEV) mandate, which led to an unanticipated increase in demand for electric vehicle (EV) research. I find that scientists became more likely to produce EV research after the mandate. However, this response varied systematically across scientists: as intellectual distance from the EV domain increased, more-productive scientists were less responsive than less-productive scientists. Yet among scientists who produced EV research, the research outcomes of scientists from more distant domains were associated with greater novelty, while those of more-productive scientists from more distant domains were associated with greater scientific impact and greater use in downstream EV inventions. These findings suggest that increased demand for research shapes not only the volume of scientific activity in a domain, but also the composition of scientists who produce that research.</content>
+    <link href="https://doi.org/10.1287/orsc.2023.17926"/>
     <category term="Organization Science"/>
-    <published>2026-10-09T00:00:00+00:00</published>
+    <published>2026-10-30T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.19400</id>
-    <title>Legal Chameleons: Political Ideology, Institutional Histories, and Firms’ Management of Identity Cues</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1177/01492063261492636</id>
+    <title>Competitive Dormancy in Interfirm Rivalry: Consequences for Rival Actions</title>
+    <updated>2026-10-30T00:00:00+00:00</updated>
     <author>
-      <name>Yong Kim, Jose Nicolas Uribe, Maxim Sytch</name>
+      <name>Tianxu Chen, Jianhong Chen, Lingling Pan, Wenpin Tsai, Ming-Jer Chen</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;This study examines how foreign firms strategically manage the salience of foreignness when facing unfavorable domestic evaluators. Foreign firms do so by altering the ethnic composition of the agents representing them before the evaluators. We examine this question in the context of Asian firms’ selection of legal counsel in U.S. federal courts. Prior research suggests that foreign firms may anticipate less favorable evaluations in courts that have historically favored domestic over foreign firms and in those with conservative judges. We argue that, in such evaluative settings, Asian firms adjust the ethnic composition of their external legal teams to manage the salience of foreignness, and that such adjustments are especially likely in courts that combine judge conservatism with pro-domestic ruling histories. We test these arguments using data on U.S. patent litigation from 2000 to 2016 and validated measures of courts’ political ideology and pro-domestic ruling histories. We find that Asian firms reduce the proportion of Asian-origin lawyers and increase the proportion of White lawyers when litigating in conservative courts, particularly when these courts also have pro-domestic ruling histories. By contrast, the ethnic composition of lawyers representing domestic firms remains stable across courts. Evidence of implicit bias against Asians among legal professionals provides additional support consistent with the theorized mechanism. Post-hoc analyses reveal that adjusting the ethnic composition of external legal teams attenuates the likelihood of unfavorable outcomes in conservative courts. These findings contribute to research on liability of foreignness by identifying agent selection as a specific mitigation mechanism in evaluative arenas.</content>
-    <link href="https://doi.org/10.1287/orsc.2024.19400"/>
-    <category term="Organization Science"/>
-    <published>2026-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;In this study, we examine the implications of competitive dormancy, defined as a situation in which a focal firm’s observed time span of inaction following its prior action has exceeded the firm’s typical duration between successive actions. We argue that competitive dormancy may be perceived as inconsistent with a rival’s expectations and may be associated with an interpretive process concerning the rival’s subsequent actions. Integrating expectancy violation theory (EVT) and competitive dynamics research, we propose that the relationship between a focal firm’s competitive dormancy and the likelihood of rivals’ subsequent actions varies with their relative market standing and strategic resource commitment. Using a sample of 78,055 daily observations from 28 firms across 14 industries from 2000 to 2017, we find support for our hypotheses.</content>
+    <link href="https://doi.org/10.1177/01492063261492636"/>
+    <category term="Journal of Management"/>
+    <published>2026-10-30T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/orsc.2024.18867</id>
-    <title>Colleagues that work together move together: How co-moving among newcomers affects individual and team performance.</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
+    <id>https://doi.org/10.1287/isre.2024.1230</id>
+    <title>Impact of Data Privacy Regulations on Recommender Systems Performance</title>
+    <updated>2026-10-30T00:00:00+00:00</updated>
     <author>
-      <name>Emma Y. Zhao, Catherine Shea, Siyuan Li</name>
+      <name>Liben Chen, Meizi Zhou, Yicheng Song, Gediminas Adomavicius</name>
     </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;As teams and team membership become more dynamic, colleagues from the same prior team increasingly transition together to a new team as a cohort: a phenomenon known as co-moving. Drawing on theories of shared team experience and team receptivity, we develop a multilevel, multi-theory, and multi-period model to examine how co-moving affects individual and team performance. We theorize that co-movers carry forward proximal shared team experience which they can leverage immediately to support their own performance relative to solo movers, who must build new working relationships. However, we also theorize that co-movers’ proximal shared team experience hinders team performance, though these detrimental effects attenuate over time. We test our theory using archival data from the National Basketball Association, supplemented by qualitative interviews with individuals involved in professional basketball. Our findings reveal that co-movers exhibit better individual performance than solo movers on their new teams and in our robustness checks we find that greater shared tenure on the prior team further enhances this advantage. At the team level, teams with co-movers perform worse than teams with solo movers, and we find partial support that this disadvantage attenuates over time. Additional analyses show that co-movers’ individual performance advantage persists over time in the new team. The findings from our interviews illuminate how these processes unfold both on and off the court. Our research contributes to the literature on shared team experience and newcomer integration by highlighting a multilevel tradeoff: while co-moving benefits individuals, it can initially undermine collective performance.</content>
-    <link href="https://doi.org/10.1287/orsc.2024.18867"/>
-    <category term="Organization Science"/>
-    <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/orsc.2025.20566</id>
-    <title>Worker Repositioning and Technological Change: Evidence from an Online Labor Market</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
-    <author>
-      <name>Shun Yiu, Robert Seamans, Manav Raj, Teng Liu</name>
-    </author>
-    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Technological change reshapes labor markets not only by changing labor demand but also by altering labor supply as workers reallocate effort across tasks and opportunities in response to technological advances. Yet research focuses more on demand-side effects than on how workers themselves adapt. In this research, we examine worker repositioning on a large online labor market following the launch of ChatGPT in November 2022. We argue that the launch of ChatGPT reduced expected returns to labor in exposed skill domains and develop and test a series of hypotheses regarding how this shock is associated with participation, horizontal positioning, and vertical positioning among workers on the platform. Using proprietary data on incumbent freelancers and a difference-in-differences design that leverages cross-sectional variation in preperiod AI exposure and skill level, we show that freelancers more exposed to AI shift away from prior domains and reorient bidding toward higher value contracts. In contrast, high skill-level freelancers, who face greater adjustment costs, are less likely to reduce participation on the platform, reposition across domains, and move upmarket. These findings highlight how technological shocks reshape labor markets through supply-side adaptation and how domain-specific human capital constrains worker responses.Funding: This work was supported by the Mack Institute for Innovation Management, Wharton School, University of Pennsylvania and the Smith-Richardson Foundation.Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2025.20566 .</content>
-    <link href="https://doi.org/10.1287/orsc.2025.20566"/>
-    <category term="Organization Science"/>
-    <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.02975</id>
-    <title>Collective Activism</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
-    <author>
-      <name>Craig Doidge, Alexander Dyck, Liyan Yang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Can investor stewardship codes that call for coordinated activism be satisfied by an Investor Collective Action Organization (ICAO)? In an ICAO, investors work collectively, like a large shareholder, to monitor management and increase value. We analyze the endogenous formation of an ICAO and its equilibrium size, considering free-rider problems and coordination costs. While the ICAO overcomes free-rider problems among its members, it exacerbates them between the ICAO and solo activists. The benefit of joining an ICAO is hump-shaped in size. With moderate coordination costs, ICAO formation features multiple equilibria. Small changes in coordination costs significantly influence ICAO formation and activism.This paper was accepted by Will Cong, finance.Funding: L. Yang thanks the support from the Social Sciences and Humanities Research Council of Canada [Grants 435-2021-0040, 435-2026-0060] and the Bank of Canada [Fellowship].Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.02975 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.02975"/>
-    <category term="Management Science"/>
-    <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222437261498165</id>
-    <title>EXPRESS: Lifestage Bias: How the Visual Representation of Product Lifespan Shapes Replacement Timing</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
-    <author>
-      <name>Poornima Vinoo, Grant E. Donnelly, Mathew S. Isaac, Aaron R. Brough</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;To guide consumers’ decisions regarding when to replace products such as water filters, printer ink cartridges, and engine oil, companies often provide visualizations of the product’s lifespan. We document alifestage biasin which representing a product’s lifespan with more (vs. fewer) visually distinct stages increases replacement intentions even when the product’s actual usage is the same. The effect emerges because a greater number of visually distinct stages leads consumers to mentally simulate previous use, thus enhancing the perception that a product has progressed through its lifespan and encouraging product replacement. Ten studies document lifestage bias and provide support (via mediation and moderation) for the underlyingusage simulationmechanism. Notably, lifestage bias is eliminated when stages are represented non-visually or when stages are not visually distinct. Furthermore, lifestage bias is attenuated when product deterioration can be observed directly. These findings provide important insights into how consumers make product replacement timing decisions. Adjusting the number of distinct stages in product replacement guides offers firms and policymakers a practical tool to influence replacement timing—accelerating it when timely replacement is necessary for health, safety, or regulatory reasons (thus improving consumer welfare), or delaying it when items can be safely used for longer (thus reducing waste).</content>
-    <link href="https://doi.org/10.1177/00222437261498165"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222429261498190</id>
-    <title>EXPRESS: The Collecting Mindset: Viewing Purchasing as Collecting Enhances Acquisition Experience and Product Desirability</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
-    <author>
-      <name>Elena Bocchi, Adam Eric Greenberg, Zachary Estes</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;Managers often struggle to make acquisition processes engaging. While the dominant approach to reducing search costs has been to streamline the acquisition process, seven preregistered studies plus one supplemental study (N = 3,306) reveal an alternative pathway: Prompting consumers to view purchasing as “collecting” by positioning products as additions to their own collections, rather than as ad hoc purchases, improves consumers’ acquisition experience and increases product desirability. The authors demonstrate that activating such acollecting mindsetshifts consumers’ psychological focus of the shopping process from securing a standalone product to instead investing in advancing their collection, thereby making them derive positive experience utility from the process, and in turn, elevating the desirability of the sought products. This research also offers practical guidance on how marketers can maximize the effectiveness of activating a collecting mindset: (i) encouraging active engagement in search, (ii) ensuring that search yields products that meaningfully advance the collection, and (iii) aligning the collection with an identity consumers value, as the effect may otherwise attenuate or reverse. These findings advance theory on everyday collecting and consumer search, and show how retailers and brands can strategically turn purchasing into a more positive acquisition experience that enhances product desirability.</content>
-    <link href="https://doi.org/10.1177/00222429261498190"/>
-    <category term="Journal of Marketing"/>
-    <published>2026-10-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/joms.70161</id>
-    <title>How Strategic Leaders Drive Firms in Ecosystems: Envisioning Value, Orchestrating Knowledge, and Shifting Roles</title>
-    <updated>2026-10-09T00:00:00+00:00</updated>
-    <author>
-      <name>Paolo Aversa, Carmelo Cennamo, Ambra Mazzelli, Gianni Lorenzoni</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Research on business ecosystems has illuminated how ecosystems emerge, evolve, and transform, revealing ecosystem‐level dynamics and the central actors that orchestrate them. Yet, it is individual firms that continuously attempt to establish and shift the roles they play within ecosystems through the vision and choices of their strategic leaders. How do strategic leaders drive these shifts? Through a longitudinal case study of Dallara Automobili (1972–2025), we trace how the CEO's prior professional experience shaped an evolving theory of value – a set of conjectures about how value should be created that guided the development of organizational routines enabling progressively more expansive knowledge orchestration. This process shifted Dallara from a peripheral component supplier to a boundary‐spanning knowledge orchestrator. Our recursive process model theorizes how the leader's conjectures drive firm role shifts within an ecosystem: experience shapes the leader's theory of value, which drives organizational routines and knowledge orchestration; knowledge orchestration, in turn, redefines the firm's ecosystem role. Ecosystem responses then feed back, augmenting prior experience and, in turn, refining the theory of value so that each round operates at a broader scope. We contribute to ecosystem research by identifying knowledge orchestration as the mechanism through which a leader's theory of value translates into shifts in the firm's role and by showing how this process unfolds recursively as ecosystem responses reshape the leader's conjectures.</content>
-    <link href="https://doi.org/10.1111/joms.70161"/>
-    <category term="Journal of Management Studies"/>
-    <published>2026-10-09T00:00:00+00:00</published>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Data privacy regulations empower consumers to control the collection of their personal data. A significant consequence of these regulations is their effect on various data-driven business solutions, especially on personalization technologies and recommender systems. We investigate the potential impacts of diverse real-world data privacy practices (that can be adopted by firms in response to various data protection regulations) on the recommender systems performance. We also examine how these impacts vary across different personalization contexts and applications. In particular, we distinguish between scenarios where the user population exhibits more stable vs. more dynamic (i.e., changing) preferences, as these scenarios often represent distinctly different recommendation settings. We use a simulation framework, carefully seeded with real-world data, for a comprehensive evaluation of the recommender system performance under numerous scenarios, such as different recommendation algorithms, different data privacy practices, different degrees of users' preference dynamics, etc. Extensive computational experiments uncover several robust performance patterns for different data privacy practices and highlight substantial differences between recommendation settings with stable vs. changing user preferences. Furthermore, building upon the comprehensive findings from our computational experiments, we propose flexible, parameterizable data privacy practice designs based on the notion of revelation protection. The proposed approach is designed to provide an effective balance between personalization performance and privacy considerations, as demonstrated using extensive simulation experiments. The findings of this study have significant implications for the design of privacy-aware recommender systems in the context of contemporary data protection regulations. The findings can also be informative to policymakers for understanding the practical implications of various data privacy practices and for designing future policies.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1230"/>
+    <category term="Information Systems Research"/>
+    <published>2026-10-30T00:00:00+00:00</published>
   </entry>
 </feed>
