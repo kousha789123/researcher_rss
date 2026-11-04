@@ -2,154 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-03T13:42:29.794535+00:00</updated>
+  <updated>2026-11-04T13:42:56.592113+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1002/sej.70054</id>
-    <title>Artificial intelligence and venture capital: Revisiting sourcing, selection, and nurturing activities</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Gary Dushnitsky</name>
-    </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Venture capital (VC) is an information‐intensive form of entrepreneurial finance conducted under extreme uncertainty. Investors must originate promising opportunities, select ventures with sparse and strategically disclosed information, and monitor and support firms after investment. Prior research documents both formal mechanisms (e.g., staged financing, syndication) and informal mechanisms built on referrals, reputation, and constant interaction. Geographic and social proximity enable these mechanisms by lowering the cost of obtaining contextual information and coordinating action. We develop a mechanism‐based account of how data and Artificial Intelligence (AI) reconfigure this established model. Our framework yields propositions on geographic dispersion in sourcing, portfolio selection, and the distinct effects of AI on monitoring versus value‐added support. It also identifies boundary conditions associated with institutional setting and heterogeneous AI adoption.Managerial SummaryFor venture capital firms, AI is not a single tool and adoption is not a binary choice. A fund may use data systems to identify founders, machine‐learning models to organize deal flow, generative AI to summarize diligence materials, or analytics to monitor portfolio companies. Each application changes a different part of the VC process. In sourcing, AI can widen the funnel beyond warm introductions and local ecosystems, especially in sectors such as software and e‐commerce where hiring, product, and customer signals are visible. In selection, AI can make diligence faster and more consistent, but models trained on past investments may favor ventures that resemble previously funded companies and may miss novel opportunities for which historical analogues are weak. In post‐investment activity, continuous operational data can partly replace physical presence for monitoring, while value‐add support such as customer introductions, recruiting, strategy advice, and founder coaching remain relationship‐intensive. The practical implication is a task‐level approach: automate codifiable search and processing, retain independent human judgment where uncertainty is fundamental, and use AI to strengthen rather than erode trusted investor–founder relationships. Funds also face organizational choices about building proprietary infrastructure, buying external tools, or combining the two. The appropriate configuration depends on data access, strategy, scale, and the activity in which the fund seeks advantage.</content>
-    <link href="https://doi.org/10.1002/sej.70054"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/sej.70060</id>
-    <title>Entrepreneurial theorizing with generative artificial intelligence</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Sung Ho Park, Alex Murray</name>
-    </author>
-    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Whether large language model (LLM) assistance changes how entrepreneurs construct theories remains unclear. On the one hand, LLMs may help entrepreneurs build more developed causal structures and surface diverse information that supports the formulation of distinctive theories. On the other hand, LLMs may steer causal structures toward conventional forms and discourage the counterintuitive reasoning needed to develop distinctive theories. In a within‐subject experiment with 199 participants theorizing both with and without LLM assistance, we find no significant average treatment effect on either structural or content properties. However, this null average effect masks a redistribution effect, where LLM assistance supplemented theorizing when unaided theories were less developed or distinctive but displaced participants' own theorizing when their theories were already more developed or distinctive.Managerial SummaryLarge language models (LLMs) can help entrepreneurs develop business ideas by surfacing knowledge across domains and sharpening causal logic. At the same time, LLMs may also push reasoning toward conventional patterns and away from the counterintuitive ideas that are a source of breakthrough opportunities. In a study of 199 participants theorizing with and without LLM assistance, we find that LLMs supported the development of causal structure and content distinctiveness when unaided theories were less developed or distinctive, whereas they had the opposite effect when those theories were already more developed or distinctive. This suggests that while LLMs can scaffold entrepreneurs still developing their theories, greater caution is warranted for those whose theories are already more developed or distinctive, as assistance may diminish those properties.</content>
-    <link href="https://doi.org/10.1002/sej.70060"/>
-    <category term="Strategic Entrepreneurship Journal"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261499103</id>
-    <title>Operations management for sustainable development and public policy making</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Jan C Fransoo, Guan-Yuan Wang, Simone Balvers</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Public policy making often faces challenges in implementation due to a lack of attention to operational realities. Operations management (OM) research, with its strong empirical component and focus on detailed model-based mechanisms, offers unique insights for successful policy execution. This paper explores the synergies between economics, development economics, and OM in addressing public policy implementation, arguing that OM’s process-level understanding, empirical rigor, and focus on operational feasibility can enhance policy design and evaluation. We illustrate this potential through examples from sustainability and social development, demonstrating how OM can bridge the gap between economic policy insights and operational execution.</content>
-    <link href="https://doi.org/10.1177/10591478261499103"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.0824</id>
-    <title>Stochastic Dual Dynamic Programming for Log-linear Autoregressive Uncertainty in the Right-hand Side</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Christian Füllner, Steffen Rebennack</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We consider the generation of cuts in stochastic dual dynamic programming (SDDP) for multistage stochastic linear programming problems with stagewise dependent uncertainty in the right-hand side described by a nonlinear autoregressive process. We first derive cut formulas for the general nonlinear autoregressive process. For these general cuts, the computational tractability becomes a major challenge for SDDP-type algorithms. We are, however, able to develop tractable closed-form cut formulas for the special case of log-linear autoregressive processes. The obtained cuts are in general non-convex in the history of the stochastic process, but still linear in all decision variables, and thus can be directly incorporated into the subproblems in SDDP without compromising their linearity. If solvers do not allow for this, our formulas can be used to adapt the intercept of a given cut to a scenario at hand in a computationally tractable way. In this sense, cuts generated for one specific scenario are shared with other scenarios. Our findings are supported by a computational study of a hydrothermal scheduling problem, which demonstrates a favorable performance of our proposed version of SDDP compared to approaches from the literature.</content>
-    <link href="https://doi.org/10.1287/opre.2024.0824"/>
-    <category term="Operations Research"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.0711</id>
-    <title>Learning Optimal Classification Trees Robust to Distribution Shifts</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Nathan Lawrence Justin, Sina Aghaei, Andres Gomez, Phebe Vayanos</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We consider the problem of learning classification trees that are robust to distribution shifts between training and testing/deployment data. This problem arises frequently in high stakes settings such as public health and social work where data is often collected using self-reported surveys which are highly sensitive to e.g., the framing of the questions, the time when and place where the survey is conducted, and the level of comfort the interviewee has in sharing information with the interviewer. We propose a method for learning optimal robust classification trees based on mixed-integer robust optimization technology. In particular, we demonstrate that the problem of learning an optimal robust tree can be cast as a single-stage mixed-integer robust optimization problem with a highly nonlinear and discontinuous objective. We reformulate this problem equivalently as a two-stage linear robust optimization problem for which we devise a tailored solution procedure based on constraint generation. We evaluate the performance of our approach on numerous publicly available datasets, and compare the performance to a regularized, non-robust optimal tree. We show an increase of up to 12.48 percentage points in worst-case accuracy and of up to 4.85 percentage points in average-case accuracy across several datasets and distribution shifts from using our robust solution in comparison to the non-robust one.</content>
-    <link href="https://doi.org/10.1287/opre.2024.0711"/>
-    <category term="Operations Research"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2023.0305</id>
-    <title>Competition for Customer Attention is Creating Oversupply Pockets in US Micromobility</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Hale Erkan, Ashish Agarwal, Kumar Muthuraman, Ioannis Stamatopoulos</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We present analytical and empirical arguments that competition over a nearly homogeneous service forces operators to oversupply scooters in urban centers. First, using deployment and ride data from operator APIs and city transportation departments, as well as telemetry data from one of the top three U.S. operators, we estimate average daily scooter utilization across nine major U.S. cities at 3.9%—half the 7.7% minimum utilization target set by transportation departments. Second, using a parsimonious game-theoretic model, we argue that if riders choose among available scooters roughly at random (e.g., the closest one), then in equilibrium all operators need to inflate their fleet sizes to preserve their market shares. Third, using granular data on riders’ choice sets and choices from Kansas City, MO, we provide evidence that these choices are indeed roughly random. Fourth, using our structurally estimated game-theoretic model, we find that in Kansas City, MO: (i) there is a 406% oversupply of scooters, (ii) the interaction between rider choice and competition accounts for 81% of this oversupply, and (iii) if the transportation department issued one more operator permit, oversupply would increase by an additional 82 pp. We conclude that transportation departments should be frugal with the number of permits they issue, and should welcome the consolidation of the scooter market.</content>
-    <link href="https://doi.org/10.1287/opre.2023.0305"/>
-    <category term="Operations Research"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mksc.2025.0150</id>
-    <title>Music Marketing with Generative AI</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Benedikt Roder, Jochen Hartmann</name>
-    </author>
-    <content>&lt;b&gt;Marketing Science&lt;/b&gt; &lt;br&gt;The multibillion-dollar music industry faces severe content creation bottlenecks, making multimedia marketing assets prohibitively costly for smaller artists. This practice paper introduces a Marketing Asset Generation Engine (MAGE) that can produce over 700 million video ad variations reflecting each artist’s visual identity using only a music track’s audio and album cover as inputs. Collaborating with one of the world’s largest music labels, we conduct four preregistered field studies with over 11 million impressions across 75 campaigns for 33 music tracks on TikTok and Meta to validate MAGE. First, pooled across studies, MAGE-generated ads significantly outperform human-designed ads on TikTok with on average 26% higher click-through rates and 10% higher engagement, while we do not detect statistically significant performance differences on Meta, all at 98% lower production cost. Second, neither marketing professionals nor laypeople can reliably identify winning ads such that random sampling of MAGE’s outputs performs as well as human-curated selections. In contrast, an AI-in-the-loop system trained on past performance data can predict pre-launch which MAGE-generated ads will perform best for specific audience segments. These findings demonstrate that generative AI democratizes music marketing by making effective, on-brand video ads accessible at scale.</content>
-    <link href="https://doi.org/10.1287/mksc.2025.0150"/>
-    <category term="Marketing Science"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.06740</id>
-    <title>AI-Driven Human Task Substitution: Evidence from Google Translate and ChatGPT</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Erdem Dogukan Yilmaz, Ivana Naumovska, Vikas A. Aggarwal</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how different generations of artificial intelligence (AI) substitute for human knowledge worker tasks, leveraging two sequential natural experiments in the translation industry. We study the introduction of Google Neural Machine Translation (GNMT), a predictive, task-specific AI, as well as ChatGPT, a broad, general-purpose generative AI, in a major online labor market. Distinguishing between analytical tasks (regular translations) and intuitive tasks (transcreations, which require creative and cultural adaptation), we estimate difference-in-differences models on transaction-level data from 2016 to 2017 and 2022 to 2023. We find that GNMT reduced the demand for analytical tasks by economically meaningful magnitudes, while having no detectable effect on intuitive tasks. By contrast, ChatGPT produced substantially larger and more uniform reductions for both analytical and intuitive tasks, indicating a marked expansion in the scope and magnitude of AI substitution. By comparing these two technological shocks within the same labor market, we show that conclusions about which types of human work are resilient to automation do not straightforwardly generalize from predictive to generative AI.This paper was accepted by Joshua Gans, business strategy.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06740 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.06740"/>
-    <category term="Management Science"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.03238</id>
-    <title>Systemically Important Banks and Loan Performance: Evidence from India</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Shashwat Agrawal, Nishant Kashyap, Sriniwas Mahapatro, Prasanna Tantri</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine whether designating banks as systemically important affects loan performance in an emerging-market setting where such banks are large domestic institutions and market imperfections make monitoring crucial for loan performance. Using loan-level data and the staggered designation of banks as Domestic Systemically Important Banks (DSIBs) in India, we find that loan performance deteriorates following DSIB designation. The evidence points to bank-level moral hazard as the underlying mechanism: DSIBs reduce postorigination monitoring and weaken loan recovery efforts. Borrowers respond accordingly, exhibiting poorer financial health and loan repayment, particularly on loans extended by DSIBs.This paper was accepted by Jan Bouwens, accounting.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03238 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.03238"/>
-    <category term="Management Science"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.01818</id>
-    <title>Why Do We Discriminate? Directional Beliefs and Biased Information Processing</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Markus Eyting</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Identifying the cause of discrimination is crucial to designing effective policies and to understanding discrimination dynamics. This paper provides a potential link between existing models of taste-based and statistical discrimination by studying directional belief formation through biased information search and processing. By selectively acquiring and processing information, individuals form directional beliefs and consequently discriminate based on these beliefs. Through a series of experiments in which individuals endogenously acquire and process various signals, I document discrimination stemming from directional beliefs and demonstrate important differences in how it manifests compared with taste-based and statistical discrimination. Finally, I show that limiting individuals’ scope to interpret information reduces such discrimination.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Funding: Financial support from the Sustainable Architecture for Finance in Europe Experiment Center Frankfurt [Grant 232406], the Interdisciplinary Public Policy Mainz [Grant A2021011], and the Mainzer Wissenschaftsstiftung is gratefully acknowledged.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01818 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.01818"/>
-    <category term="Management Science"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1111/jofi.70082</id>
-    <title>Externalities of Responsible Investments</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>MICHELE BISCEGLIA, ALESSIO PICCOLO, JAN SCHNEEMEIER</name>
-    </author>
-    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We develop a model to study the efficiency of socially responsible investing (SRI) as a mechanism to control firms' externalities. When SRI is not too popular, responsible investors favor strategies that lead to a concentration of SRI in a subset of firms in the economy. This concentration can mitigate coordination issues in adopting green technologies, but it can also crowd out the green investments of excluded firms and increase the price of green products. In equilibrium, responsible investors continue to favor concentration even as SRI becomes more popular, and concentrate the most when concentration is least desirable.</content>
-    <link href="https://doi.org/10.1111/jofi.70082"/>
-    <category term="The Journal of Finance"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2025.2343</id>
-    <title>Honesty in Causal Forests: When It Helps and When It Hurts</title>
-    <updated>2026-10-14T00:00:00+00:00</updated>
-    <author>
-      <name>Yanfang Hou, Carlos Fernández-Loría</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Causal forests are increasingly used to estimate who benefits most from an intervention, informing targeting and personalization in business and public policy. Widely used software often applies a safeguard called “honest estimation” by default. It splits the data: one part is used to find groups of people who respond differently to the intervention, and another to estimate the effect within each group. Our key finding is that splitting the data reduces the risk of mistaking chance patterns for real ones, but it also makes real differences harder to detect, which can make estimates less accurate. Across more than 7,000 benchmark data sets, we found that honest estimation can require up to 27% more data to reach the same accuracy as causal forests that did not use it. The takeaway is that honesty should be a choice, not a default. Whether it helps depends on the data and what the estimates are needed for. For organizations and policymakers planning experiments, its potential data cost should also be part of the design conversation.</content>
-    <link href="https://doi.org/10.1287/isre.2025.2343"/>
-    <category term="Information Systems Research"/>
-    <published>2026-10-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261499474</id>
     <title>From institutional expansion to exposure-driven co-evolution: Reinterpreting “Operations and Supply Chain Management in China”</title>
@@ -200,12 +56,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261499473</id>
-    <title>EXPRESS: Valuation Bottlenecks: Why Isn’t a Better Business Enough for a Higher Market Capitalization?</title>
+    <title>Valuation bottlenecks: Why isn’t a better business enough for a higher market capitalization?</title>
     <updated>2026-10-15T00:00:00+00:00</updated>
     <author>
       <name>Shumpei Iwao, Vatsal Mitesh Tailor, Qi Wu</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Firms often improve operations, disclosure, governance, or financing capacity without an immediate and proportional market-capitalization response. Could a single unresolved concern limit the market's response to improvements elsewhere in the firm? Classical multifactor and machine-learning models ask which risks or characteristics explain or predict returns. We ask whether the relatively weakest among several coexisting firm conditions receives disproportionate valuation weight. We model equity value as the lower envelope of lens-specific valuations. A hard minimum makes one lens locally binding; a soft minimum assigns continuous, state-dependent weights. We use exploratory factor analysis on 268 accounting characteristics to construct five firm-state lenses, with membership and weights determined by the loading structure rather than by an economic taxonomy, and rank each lens within industry, size, and quarter peers. We document aweakest lens effect: beyond the additive effects of all five lens ranks, a firm's weakest lens carries an incremental association with next-quarter returns, and it survives saturated joint rank-quintile controls. Gating the test at the bottom decile and then the bottom quintile of the peer distribution, the association is concentrated among firms whose weakest lens is weak against peers and not merely lowest within the firm. In baseline soft-min specifications, it fades steadily as the gate is widened. We then investigate whether analyst attention may help explain this pattern. We use large language models on 1.7 million earnings-call questions and find that, in baseline specifications, the weakest lens attracts a larger share of questions, especially when it is also weak among peers; this cross-sectional alignment is consistent with an attention channel as one possible explanation for the observed return pattern. The framework offers managers seeking to maximize market capitalization a new perspective on prioritizing scarce managerial attention.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Firms often improve operations, disclosure, governance, or financing capacity without an immediate and proportional market-capitalization response. Could a single unresolved concern limit the market’s response to improvements elsewhere in the firm? Classical multifactor and machine-learning models ask which risks or characteristics explain or predict returns. We ask whether the relatively weakest among several coexisting firm conditions receives disproportionate valuation weight. We model equity value as the lower envelope of lens-specific valuations. A hard minimum makes one lens locally binding; a soft minimum assigns continuous, state-dependent weights. We use exploratory factor analysis on 268 accounting characteristics to construct five firm-state lenses, with membership and weights determined by the loading structure rather than by an economic taxonomy, and rank each lens within industry, size, and quarter peers. We document aweakest lens effect: beyond the additive effects of all five lens ranks, a firm’s weakest lens carries an incremental association with next-quarter returns, and it survives saturated joint rank-quintile controls. Gating the test at the bottom decile and then the bottom quintile of the peer distribution, the association is concentrated among firms whose weakest lens is weak against peers and not merely lowest within the firm. In baseline soft-min specifications, it fades steadily as the gate is widened. We then investigate whether analyst attention may help explain this pattern. We use large language models on 1.7 million earnings-call questions and find that, in baseline specifications, the weakest lens attracts a larger share of questions, especially when it is also weak among peers; this cross-sectional alignment is consistent with an attention channel as one possible explanation for the observed return pattern. The framework offers managers seeking to maximize market capitalization a new perspective on prioritizing scarce managerial attention.</content>
     <link href="https://doi.org/10.1177/10591478261499473"/>
     <category term="Production and Operations Management"/>
     <published>2026-10-15T00:00:00+00:00</published>
@@ -962,7 +818,7 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261503688</id>
-    <title>EXPRESS: Participation Governance in Consumer and AI Co-creation: Whether to Intervene and How to Design It</title>
+    <title>Participation governance in consumer and AI co-creation: Whether to intervene and how to design it</title>
     <updated>2026-10-23T00:00:00+00:00</updated>
     <author>
       <name>Mengxia Zhang, Brian Rongqing Han, Tianshu Sun, Lan Luo, Joseph M. Golden</name>
@@ -1254,12 +1110,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1093/restud/rdag114</id>
-    <title>Conversations at Scale: Robust AI-led Interviews</title>
+    <title>Conversations at Scale: Robust AI-Led Interviews</title>
     <updated>2026-10-27T00:00:00+00:00</updated>
     <author>
       <name>Friedrich Geiecke, Xavier Jaravel</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;The advent of large language models (LLMs) creates new opportunities to conduct qualitative interviews at scale, with thousands of respondents, thereby bridging qualitative and quantitative methods. We develop a simple, versatile approach for researchers to run AI-led qualitative interviews, including voice interviews. We assess its robustness by drawing comparisons to human experts and with several respondents-based quality metrics. The versatility of the approach is illustrated through four broad classes of applications: eliciting key factors in decision making, political views, subjective mental states, and mental models of the effects of public policies. High performance ratings are obtained in all of these domains. Our applications highlight the potential of AI-led interviews as a tool for measurement, hypothesis generation, and discovering mechanisms.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;The advent of large language models (LLMs) creates new opportunities to conduct qualitative interviews at scale, with thousands of respondents, thereby bridging qualitative and quantitative methods. We develop a simple, versatile approach for researchers to run AI-led qualitative interviews, including voice interviews. We assess its robustness by drawing comparisons to human experts and with several respondent-based quality metrics. The versatility of the approach is illustrated through four broad classes of applications: eliciting key factors in decision making, political views, subjective mental states, and mental models of the effects of public policies. High performance ratings are obtained in all of these domains. Our applications highlight the potential of AI-led interviews as a tool for measurement, hypothesis generation, and discovering mechanisms.</content>
     <link href="https://doi.org/10.1093/restud/rdag114"/>
     <category term="Review of Economic Studies"/>
     <published>2026-10-27T00:00:00+00:00</published>
@@ -1684,7 +1540,7 @@
     <author>
       <name>Matthew J Baker, Jonathan Conning</name>
     </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Economists and historians have long debated how open-access areas, frontier regions, and customary landholding regimes transformed into private property. This paper analyzes decentralized enclosure processes using the theory of aggregative games, examining how population density, enclosure costs, potential productivity gains, and local governance capacity, including the power to demand compensation, jointly determine the mix of property regimes. Depending on these fundamentals, private decisions to enclose may be strategic complements or substitutes. Strategic complements generate tipping points and socially destructive property races, whereas strategic substitutes produce smoother transitions and may leave enclosure below the social optimum. While policies to strengthen customary governance or compensate displaced stakeholders can realign incentives, addressing one distortion while neglecting others can worsen welfare.</content>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;Economists and historians have long debated how open-access areas, frontier regions, and customary landholding regimes transformed into private property. This paper analyses decentralized enclosure processes using the theory of aggregative games, examining how population density, enclosure costs, potential productivity gains, and local governance capacity, including the power to demand compensation, jointly determine the mix of property regimes. Depending on these fundamentals, private decisions to enclose may be strategic complements or substitutes. Strategic complements generate tipping points and socially destructive property races, whereas strategic substitutes produce smoother transitions and may leave enclosure below the social optimum. While policies to strengthen customary governance or compensate displaced stakeholders can realign incentives, addressing one distortion while neglecting others can worsen welfare.</content>
     <link href="https://doi.org/10.1093/restud/rdag118"/>
     <category term="Review of Economic Studies"/>
     <published>2026-10-30T00:00:00+00:00</published>
@@ -2194,6 +2050,18 @@
     <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/joom.70061</id>
+    <title>Rethinking Supplier Integration in Humanitarian Supply Chains: Feasibility and Constraints From an International Humanitarian Organization Perspective</title>
+    <updated>2026-11-03T00:00:00+00:00</updated>
+    <author>
+      <name>Jihee Kim, Nezih Altay, Stephen Pettit, Anthony Beresford</name>
+    </author>
+    <content>&lt;b&gt;Journal of Operations Management&lt;/b&gt; &lt;br&gt;Despite the widely recognized importance of integrative practices in commercial supply chain operations, their application in humanitarian supply chains (HSCs) remains underexplored. HSCs differ from commercial supply chains in their relational dynamics and integration processes, operating under extreme uncertainty, demand volatility, infrastructural disruption, and resource scarcity across a complex web of actors. Using an embedded single‐case design, this study assesses supplier integration (SI) in humanitarian operations in a leading international humanitarian organization (IHO), as well as the IHO's relationships with eight key suppliers. Drawing on the relational lenses of power, trust, and commitment, distinct integration patterns were identified across different supplier types. The findings highlight humanitarian‐specific contextual constraints and are used to inform a typology of SI feasibility encompassing feasible, selectively feasible, and low‐feasibility integration. This typology provides a foundation for guiding supplier relationship management in complex humanitarian contexts. This study offers a framework for understanding how relational and structural conditions shape integration in humanitarian settings and underscores the need for IHOs to adopt context‐appropriate supplier management approaches that reflect the unique dynamics of humanitarian operations.</content>
+    <link href="https://doi.org/10.1002/joom.70061"/>
+    <category term="Journal of Operations Management"/>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1111/joms.70185</id>
     <title>From Slack to Staff: Managers' Allocation of Slack Resources to Hiring</title>
     <updated>2026-11-03T00:00:00+00:00</updated>
@@ -2228,5 +2096,53 @@
     <link href="https://doi.org/10.1017/s002210902610341x"/>
     <category term="Journal of Financial and Quantitative Analysis"/>
     <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00018392261493033</id>
+    <title>Looking the Part? How Candidates’ Race and Attire Shape Employers’ Hiring Decisions in a Low-Wage Labor Market</title>
+    <updated>2026-11-03T00:00:00+00:00</updated>
+    <author>
+      <name>Tiantian Yang, Jiayi Bao, Tianna Barnes, Ming D. Leung</name>
+    </author>
+    <content>&lt;b&gt;Administrative Science Quarterly&lt;/b&gt; &lt;br&gt;Racial disparities in employment persist in the United States, particularly in low-wage labor markets in which employers frequently cite self-presentation, especially attire, as a basis for hiring decisions. Yet, whether improving professional attire yields equal returns across racial groups remains largely unexamined. Drawing on status characteristics theory, we argue that professional attire functions as an ambiguous proxy for unobservable traits such as motivation and reliability, making it susceptible to racialized interpretations. We predict that professional attire will yield weaker hiring returns for Black candidates than for their White counterparts and that perceived professionalism mediates this gap. We test these arguments using data from a gig-staffing platform comprising over 1 million job applications with profile photos, supplemented by a preregistered experiment that manipulates attire within candidates, using two photos of each candidate: one in professional attire, one in casual. The results converge across field and experimental data. Professional attire improves hiring prospects overall but yields substantially smaller returns for Black candidates. Moderated mediation tests confirm that perceived professionalism drives this disparity, such that race discounts how attire translates into perceived professionalism and how perceived professionalism translates into hiring. The racial gap attenuates in customer-facing roles in which appearance is task relevant. These findings challenge supply-side accounts of hiring inequality and reveal how a demand-side interpretation of equivalent signals perpetuates racial disadvantages.</content>
+    <link href="https://doi.org/10.1177/00018392261493033"/>
+    <category term="Administrative Science Quarterly"/>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1017/s0022109026103470</id>
+    <title>Housing Yields</title>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <author>
+      <name>Stefano Colonnello, Roberto Marfè, Qizhou Xiong</name>
+    </author>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We build a granular data set of residential property yields using rental and sale listings from a major German real estate platform. With more than 1.5 million property-level rent-to-price ratios, we document a novelheterogeneity puzzle.About two-fifths of yield dispersion remains unexplained after controlling for extensive observable property characteristics and postal code-level time-varying factors using fixed effects. When we absorb finer neighborhood amenities through richer fixed effects, the unexplained share remains close to one-third. This evidence points to the importance of investors’ beliefs and preferences—rather than several alternative explanations we test—as sources of heterogeneity in risk premia.</content>
+    <link href="https://doi.org/10.1017/s0022109026103470"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-11-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1017/s0022109026103391</id>
+    <title>Economic Fundamentals and Short-Run Exchange Rate Prediction: A Machine-Learning Perspective</title>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <author>
+      <name>Ilias Filippou, David E. Rapach, Mark P. Taylor, Guofu Zhou</name>
+    </author>
+    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;The exchange rate predictability puzzle—that fundamentals fail to forecast short-horizon exchange rate movements out of sample—has long resisted resolution. We show that fundamentals do matter, but their effects vary with global financial conditions. Using a rich set of country characteristics interacted with global state variables and machine-learning techniques to handle the high-dimensional data, we document that interactions between country characteristics and foreign exchange market volatility are particularly important, consistent with a “flight to fundamentals” during periods of financial stress. Our forecasts deliver substantial economic value and offer new insight into the carry trade.</content>
+    <link href="https://doi.org/10.1017/s0022109026103391"/>
+    <category term="Journal of Financial and Quantitative Analysis"/>
+    <published>2026-11-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/jofi.70098</id>
+    <title>Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation</title>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <author>
+      <name>FERHAT AKBAS, MINJIE HUANG, FELIX MESCHKE</name>
+    </author>
+    <content>&lt;b&gt;The Journal of Finance&lt;/b&gt; &lt;br&gt;We reinvestigate Anderson, Reeb, and Zhao's findings that informed short selling is unique to family firms and driven by information leakage from internal disputes. Using the same firm sample and more comprehensive short‐selling data, we find that short selling predicts future returns in both family and nonfamily firms. We also find no significant difference in abnormal short selling before negative earnings announcements. In extended sample periods, short selling continues to predict returns for nonfamily firms under both ownership‐based and familial‐link definitions. Overall, our evidence suggests that short sellers are broadly informed and that family firms are not uniquely vulnerable.</content>
+    <link href="https://doi.org/10.1111/jofi.70098"/>
+    <category term="The Journal of Finance"/>
+    <published>2026-11-04T00:00:00+00:00</published>
   </entry>
 </feed>
