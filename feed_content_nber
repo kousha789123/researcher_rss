@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-11-03T13:43:10.611176+00:00</updated>
+  <updated>2026-11-04T13:43:50.751340+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -171,6 +171,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do workweek reductions create jobs and raise productivity, as intended by policymakers? In 2000, France cut the standard workweek from 39 to 35 hours at constant monthly pay and paired the reduction with employer payroll tax cuts. We combine matched employer–employee, balance-sheet, and survey data to study the effects on workers, firms, and local labor markets. We first exploit the staggered implementation by firm size to identify the impact of the reform package. We then use differential exposure to the hours cut and tax cut to separate their effects. The reform package left employment unchanged. This zero masks large offsetting effects: absent the tax cuts, the shorter workweek would have reduced employment by 4%. The effects are skill-biased, raising employment among managers and professionals while reducing it among other employees. Finally, shorter hours raised total factor productivity by 2%, limiting the output decline to 1% despite a 6% fall in total hours. Surveys point to work intensification and organizational changes as potential drivers of productivity gains.</content>
     <link href="https://www.nber.org/papers/w35917"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35906</id>
+    <title>Home-Foreign Elasticity Functions and the Gains from Trade</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jonathan Vogel</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Gains from trade are typically calculated using a constant trade elasticity estimated from substitution across foreign countries. For general homothetic preferences, we show how to calculate these gains from the initial domestic expenditure share and the home-foreign elasticity function along a price path to autarky. While this function generally depends on the specific price path, under weak separability it does not. We provide conditions for its nonparametric identification and estimate sector-level elasticity functions using tariff changes implied by trade agreements. Across WIOD and OECD ICIO data, estimated home-foreign elasticities generally rise with domestic expenditure shares. Using estimated elasticity functions in a multi-sector model with intermediate inputs, the median gain across the WIOD countries is 19.37 log points, compared with 24.43 when each country-sector elasticity is held fixed at its initial value.</content>
+    <link href="https://www.nber.org/papers/w35906"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -471,18 +483,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Market power may arise not only from firms, but also from individual salespeople who can exploit informational advantages over consumers. We explore this phenomenon in the mortgage market by examining a Fannie Mae/Freddie Mac fee waiver targeted at lower-income first-time homebuyers. We estimate that mortgage intermediaries capture over 60% of $1.5 billion in total fee waivers during 2023–2024, rather than fully passing these savings through to borrowers. Pass-through varies substantially across loan officers: those with a track record of originating expensive mortgages (independent of lender pricing) pass through less than 20% of the waiver. Our evidence suggests that loan officers retain incentives to steer borrowers into higher-rate mortgages, despite post-crisis regulations designed to limit such practices.</content>
     <link href="https://www.nber.org/papers/w35907"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35906</id>
-    <title>Home-Foreign Elasticity Functions and the Gains from Trade</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jonathan Vogel</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Gains from trade are typically calculated using a constant trade elasticity estimated from substitution across foreign countries. For general homothetic preferences, we show how to calculate these gains from the initial domestic expenditure share and the home-foreign elasticity function along a price path to autarky. While this function generally depends on the specific price path, under weak separability it does not. We provide conditions for its nonparametric identification and estimate sector-level elasticity functions using tariff changes implied by trade agreements. Across WIOD and OECD ICIO data, estimated home-foreign elasticities generally rise with domestic expenditure shares. Using estimated elasticity functions in a multi-sector model with intermediate inputs, the median gain across the WIOD countries is 19.37 log points, compared with 24.43 when each country-sector elasticity is held fixed at its initial value.</content>
-    <link href="https://www.nber.org/papers/w35906"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
