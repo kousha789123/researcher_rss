@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-11-04T13:43:50.751340+00:00</updated>
+  <updated>2026-11-05T00:13:06.266854+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -933,6 +933,18 @@ The labor market effects of California's AB 1228 are also analyzed, with varied 
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35974</id>
+    <title>How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Hull</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, analyzing 1,430 staggered-adoption specifications from 116 economics papers. TWFE estimates are highly correlated with modern difference-in-differences estimates, with sign reversals in 12.0–14.9% of comparisons and greater precision for TWFE. Hierarchical models accounting for estimation noise imply estimand correlations of 91–97% and a 0.7–2.4% probability of a statistically significant TWFE estimate opposing the modern estimand’s sign. These findings suggest negative weights may be a less serious problem in practice and illustrate how AI can support systematic, large-scale empirical assessments of new econometric methods.</content>
+    <link href="https://www.nber.org/papers/w35974"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35981</id>
     <title>Beyond the Numbers: Professional Forecasters’ Narratives about Inflation and Stock Market Performance</title>
     <updated>2026-11-01T00:00:00+00:00</updated>
@@ -977,18 +989,6 @@ The labor market effects of California's AB 1228 are also analyzed, with varied 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use LLMs as synthetic survey respondents to elicit green tastes, return beliefs, portfolio allocations, and investment motives from 480 retail and 60 institutional investor identities. Compared with retail, institutions report weaker tastes yet greener portfolio tilts, citing outside pressure. A greener tilt therefore need not indicate a stronger taste for greenness.  Retail tastes depend mostly on political affiliation, institutional tastes on type and geography.  Beliefs differ across the three ESG dimensions, with high-governance portfolios expected to outperform. We reconstruct survey responses under 2014--2025 information environments using date-masked information modules shuffled across years. Tastes vary little over time, but beliefs about green portfolios become more pessimistic after 2020. The two reconstructed series relate to different real-world data: tastes to measures of green demand, beliefs to measures of attention.</content>
     <link href="https://www.nber.org/papers/w35982"/>
-    <category term="NBER"/>
-    <published>2026-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35974</id>
-    <title>How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis</title>
-    <updated>2026-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Hull</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, drawing on 1,346 staggered-adoption specifications from 108 economics papers. TWFE estimates are highly correlated with estimates from modern difference-in-differences methods, with observed sign reversals in 10.8–14.5% of comparisons and greater precision for TWFE. Hierarchical models that account for estimation noise imply a 91–98% correlation between estimands and a 0.6–2.1% probability of obtaining a statistically significant TWFE estimate with the opposite sign from the modern estimand. These findings suggest negative weights may be a less serious problem in practice, and illustrate how AI can support large-scale empirical assessments of new econometric methods.</content>
-    <link href="https://www.nber.org/papers/w35974"/>
     <category term="NBER"/>
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
