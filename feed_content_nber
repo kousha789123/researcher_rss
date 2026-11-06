@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-11-05T13:43:05.831602+00:00</updated>
+  <updated>2026-11-06T13:43:37.912138+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -171,6 +171,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Do workweek reductions create jobs and raise productivity, as intended by policymakers? In 2000, France cut the standard workweek from 39 to 35 hours at constant monthly pay and paired the reduction with employer payroll tax cuts. We combine matched employer–employee, balance-sheet, and survey data to study the effects on workers, firms, and local labor markets. We first exploit the staggered implementation by firm size to identify the impact of the reform package. We then use differential exposure to the hours cut and tax cut to separate their effects. The reform package left employment unchanged. This zero masks large offsetting effects: absent the tax cuts, the shorter workweek would have reduced employment by 4%. The effects are skill-biased, raising employment among managers and professionals while reducing it among other employees. Finally, shorter hours raised total factor productivity by 2%, limiting the output decline to 1% despite a 6% fall in total hours. Surveys point to work intensification and organizational changes as potential drivers of productivity gains.</content>
     <link href="https://www.nber.org/papers/w35917"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35908</id>
+    <title>The Impact of Social Insurance on Household Debt</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Gideon Bornstein &amp; Sasha Indarte</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper investigates how the expansion of social insurance affects households’ accumulation of debt. Insurance can reduce reliance on debt by lessening the financial impact of adverse events such as illness and job loss. But it can also weaken the motive to self-insure through savings, and households’ improved financial resilience can increase access to credit. Using data on 10 million people and a quasi-experimental research design, we estimate the causal effect of expanded insurance on household debt, exploiting ZIP-level heterogeneity in exposure to the staggered expansions of one of the largest US social insurance programs: Medicaid. We find that a 1 percentage point increase in a ZIP code’s Medicaid-eligible population increases credit card borrowing by 0.38%. Decomposing this effect in a model of household borrowing, we show that increased credit supply in response to households’ improved financial resilience drives the rise in borrowing and contributes 30% of the net welfare gains of expanding Medicaid.</content>
+    <link href="https://www.nber.org/papers/w35908"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -459,18 +471,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize equilibria in a canonical class of economies with endogenous production networks, showing that log-prices equal a min-max over networks of a primitive affine function of log-productivities. This formula captures how resilience and fragility interact: the "min" reflects resilience from substituting suppliers, while the "max" reflects fragility from complementarity-induced rigidity. Applying these results, we generalize Hulten's theorem, finding that local Domar weights are generally insufficient to describe propagation of even small shocks. Moreover, we characterize how microeconomic volatility affects GDP, finding that smooth changes in Domar weights overstate its adverse effects by omitting option value from switching suppliers.</content>
     <link href="https://www.nber.org/papers/w35909"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35908</id>
-    <title>The Impact of Social Insurance on Household Debt</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Gideon Bornstein &amp; Sasha Indarte</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper investigates how the expansion of social insurance affects households’ accumulation of debt. Insurance can reduce reliance on debt by lessening the financial impact of adverse events such as illness and job loss. But it can also weaken the motive to self-insure through savings, and households’ improved financial resilience can increase access to credit. Using data on 10 million people and a quasi-experimental research design, we estimate the causal effect of expanded insurance on household debt, exploiting ZIP-level heterogeneity in exposure to the staggered expansions of one of the largest US social insurance programs: Medicaid. We find that a 1 percentage point increase in a ZIP code’s Medicaid-eligible population increases credit card borrowing by 0.38%. Decomposing this effect in a model of household borrowing, we show that increased credit supply in response to households’ improved financial resilience drives the rise in borrowing and contributes 30% of the net welfare gains of expanding Medicaid.</content>
-    <link href="https://www.nber.org/papers/w35908"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -933,18 +933,6 @@ The labor market effects of California's AB 1228 are also analyzed, with varied 
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35974</id>
-    <title>How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis</title>
-    <updated>2026-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Hull</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, analyzing 1,430 staggered-adoption specifications from 116 economics papers. TWFE estimates are highly correlated with modern difference-in-differences estimates, with sign reversals in 12.0–14.9% of comparisons and greater precision for TWFE. Hierarchical models accounting for estimation noise imply estimand correlations of 91–97% and a 0.7–2.4% probability of a statistically significant TWFE estimate opposing the modern estimand’s sign. These findings suggest negative weights may be a less serious problem in practice and illustrate how AI can support systematic, large-scale empirical assessments of new econometric methods.</content>
-    <link href="https://www.nber.org/papers/w35974"/>
-    <category term="NBER"/>
-    <published>2026-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35981</id>
     <title>Beyond the Numbers: Professional Forecasters’ Narratives about Inflation and Stock Market Performance</title>
     <updated>2026-11-01T00:00:00+00:00</updated>
@@ -989,6 +977,18 @@ The labor market effects of California's AB 1228 are also analyzed, with varied 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use LLMs as synthetic survey respondents to elicit green tastes, return beliefs, portfolio allocations, and investment motives from 480 retail and 60 institutional investor identities. Compared with retail, institutions report weaker tastes yet greener portfolio tilts, citing outside pressure. A greener tilt therefore need not indicate a stronger taste for greenness.  Retail tastes depend mostly on political affiliation, institutional tastes on type and geography.  Beliefs differ across the three ESG dimensions, with high-governance portfolios expected to outperform. We reconstruct survey responses under 2014--2025 information environments using date-masked information modules shuffled across years. Tastes vary little over time, but beliefs about green portfolios become more pessimistic after 2020. The two reconstructed series relate to different real-world data: tastes to measures of green demand, beliefs to measures of attention.</content>
     <link href="https://www.nber.org/papers/w35982"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35974</id>
+    <title>How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Hull</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, analyzing 1,430 staggered-adoption specifications from 116 economics papers. TWFE estimates are highly correlated with modern difference-in-differences estimates, with sign reversals in 12.0–14.9% of comparisons and greater precision for TWFE. Hierarchical models accounting for estimation noise imply estimand correlations of 91–97% and a 0.7–2.4% probability of a statistically significant TWFE estimate opposing the modern estimand’s sign. These findings suggest negative weights may be a less serious problem in practice and illustrate how AI can support systematic, large-scale empirical assessments of new econometric methods.</content>
+    <link href="https://www.nber.org/papers/w35974"/>
     <category term="NBER"/>
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
