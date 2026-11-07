@@ -2,26 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-06T13:42:57.767223+00:00</updated>
+  <updated>2026-11-07T13:42:07.138420+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261489981</id>
-    <title>Evaluating the impacts of bundling on a firm’s product demand and operational decisions</title>
-    <updated>2026-10-17T00:00:00+00:00</updated>
-    <author>
-      <name>Shu-Jung Sunny Yang, Yingying Huang, Hsin Lu, Yuan-Hao Chu</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Firms use bundles to influence customer demand, but supplying those bundles often requires operational capacity that is shared across the portfolio. Changing the price,
-                    
-                    composition
-                    
-                    , or availability of one bundle can therefore trigger two reallocations: customers reallocate expenditure across bundles, and the firm reallocates operational capacity across the demand those bundles generate. We develop a data-driven framework that links these two decisions. Heterogeneous consumers choose discrete bundle quantities subject to a common budget, while the firm jointly chooses bundle prices and quantities subject to bundle-specific and shared-resource requirements. We estimate the demand and supply models from observed discrete decisions using Bayesian Markov Chain Monte Carlo, retaining the integer structure in estimation and counterfactual analysis. We apply the framework to three empirical settings: public bike sharing, online retail, and theme-park services. The empirical analyses reveal several consequences of evaluating bundles as part of a portfolio. Customer value and profit contribution need not be aligned: a bundle that creates substantial customer value can make little or no incremental contribution to optimized profit, and removing some bundles can increase profit after the remaining portfolio is re-optimized. Price responses differ across bundles because discrete purchases adjust at different thresholds. A bundle’s response to tighter shared-resource requirements depends on how its resource use changes the allocation of operational capacity elsewhere in the portfolio, rather than on its characteristics alone. Finally, deeper discounts need not generate larger incremental profit contributions; in the theme-park application, an intermediate discount can outperform both deeper and shallower discounts after the portfolio is re-optimized. Bundle design is a portfolio problem: a bundle’s contribution depends not only on the demand it generates, but also on the customer and operational adjustments it induces elsewhere in the portfolio.</content>
-    <link href="https://doi.org/10.1177/10591478261489981"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-10-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261502217</id>
     <title>EXPRESS: Assortment Optimization Given Basket Shopping Behavior Using the Ising Model</title>
@@ -926,12 +910,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261505531</id>
-    <title>EXPRESS: Design and Pricing of Online Dating Subscriptions</title>
+    <title>Design and pricing of online dating subscriptions</title>
     <updated>2026-10-27T00:00:00+00:00</updated>
     <author>
-      <name>Titing Cui, Michael L. Hamilton</name>
+      <name>Titing Cui, Michael L Hamilton</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online dating is now the most common way for new couples in the U.S. to meet, with more than 30% of U.S. adults having used a dating app and with global industry revenues exceeding three billion dollars annually. Most dating apps monetize primarily through subscription pricing, offering users fixed periods of access to paid features for recurring fees. However, applying subscription pricing to online dating apps presents some unique challenges. Unlike other digital services, users' valuations of dating app services typically decline with use, as continued participation can be costly in terms of both time and emotional effort, and repeated renewals signal unsuccessful app-mediated searches. Moreover, users who achieve their goal of finding a partner subsequently exit the platform, creating an apparent tension between providing value by successfully matching users and a dating app’s goal of generating profit and sustaining a large userbase of paying subscribers.Given these unique challenges and the transient nature of user engagement with dating apps, it is interesting to note that leading U.S. dating apps, such as Hinge and Bumble, have begun offering increasingly long subscription options, including lifetime subscriptions. In this paper, we analyze the performance of subscription pricing strategies with varying period lengths for online dating platforms. We propose a natural model of dating app monetization and use it to evaluate how subscription length affects both profit and steady-state userbase size. We find that suitably priced lifetime subscriptions can Pareto-dominate all finite-period subscriptions over both objectives, providing a compelling explanation for their emerging use. We then extend our analysis to subscription menus with two options and show that offering one short-term subscription option and one lifetime option guarantees approximately 59.4% of the optimal two-option menu performance.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Online dating is now the most common way for new couples in the United States to meet, with more than 30% of U.S. adults having used a dating app and with global industry revenues exceeding three billion dollars annually. Most dating apps monetize primarily through subscription pricing, offering users fixed periods of access to paid features for recurring fees. However, applying subscription pricing to online dating apps presents some unique challenges. Unlike other digital services, users’ valuations of dating app services typically decline with use, as continued participation can be costly in terms of both time and emotional effort, and repeated renewals signal unsuccessful app-mediated searches. Moreover, users who achieve their goal of finding a partner subsequently exit the platform, creating an apparent tension between providing value by successfully matching users and a dating app’s goal of generating profit and sustaining a large userbase of paying subscribers. Given these unique challenges and the transient nature of user engagement with dating apps, it is interesting to note that leading U.S. dating apps, such as Hinge and Bumble, have begun offering increasingly long subscription options, including lifetime subscriptions. In this article, we analyze the performance of subscription pricing strategies with varying period lengths for online dating platforms. We propose a natural model of dating app monetization and use it to evaluate how subscription length affects both profit and steady-state userbase size. We find that suitably priced lifetime subscriptions can Pareto-dominate all finite-period subscriptions over both objectives, providing a compelling explanation for their emerging use. We then extend our analysis to subscription menus with two options and show that offering one short-term subscription option and one lifetime option guarantees approximately 59.4% of the optimal two-option menu performance.</content>
     <link href="https://doi.org/10.1177/10591478261505531"/>
     <category term="Production and Operations Management"/>
     <published>2026-10-27T00:00:00+00:00</published>
@@ -2608,5 +2592,53 @@
     <link href="https://doi.org/10.1017/s0022109026103457"/>
     <category term="Journal of Financial and Quantitative Analysis"/>
     <published>2026-11-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2024.18685</id>
+    <title>The Asymmetric Nature of Social Hierarchies: Unpacking the Dynamic Relationship Between Power and Status</title>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+    <author>
+      <name>Rebecca L. Mitchell, James G. Matusik, Nicholas A. Hays</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Scholars and practitioners alike have long presumed that power and status, two foundational bases of social hierarchy, share a symmetric, mutually reinforcing relationship. However, support for this presumption has largely taken the form of theoretical accounts due to the prevalence of static research designs and a dearth of dynamic methodology in organizational research. Drawing on the Dual Perspective Model, we propose that one’s status is more likely to drive changes in one’s power than vice versa because status has a stronger connection to communion—an important component of interpersonal evaluations—than does power, and communality is an important predictor of both power and status. Using data from two studies involving project teams and a contemporary methodology from developmental psychology for modeling dynamic relationships (bivariate dual change score models), we illustrate that there is indeed a mutually reinforcing relationship between power and status over time, but this relationship is asymmetric. In three additional experiments, we find that perceptions of communality explain this asymmetry. We also find similar effects whether power is formal—attached to a position or role—or involves control over informal resources. Across all studies, we find that the path from status to changes in power is stronger than the path from power to changes in status.</content>
+    <link href="https://doi.org/10.1287/orsc.2024.18685"/>
+    <category term="Organization Science"/>
+    <published>2026-11-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2026.00623</id>
+    <title>Generative Artificial Intelligence and Sales Productivity: Field Experiments in Online Retail</title>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+    <author>
+      <name>Lu Fang, Zhe Yuan, Kaifu Zhang, Dante Donati, Miklos Sarvary</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We quantify the short-term impact of generative artificial intelligence (GenAI) on sales performance through a series of large-scale randomized field experiments involving millions of users and products at a leading crossborder online retail platform. Over 2023–2024, the platform integrated GenAI into seven business workflows spanning customer service, consumer-product matching, advertising, and seller services. We find that GenAI adoption increases sales in most workflows, with effects ranging from no detectable impact to 16.3% depending on GenAI’s marginal contribution relative to baseline firm practices. Across the four GenAI applications with positive sales effects, the implied annual incremental value is roughly $5 per consumer—an economically meaningful impact given the retailer’s scale and the early stage of GenAI adoption. The gains operate primarily through higher conversion rates rather than larger cart values, consistent with GenAI improving the shopping experience by reducing search, information, communication, and personalization frictions. Importantly, these effects are not associated with worse postpurchase outcomes as product return rates and customer ratings do not deteriorate. Finally, we document substantial demand-side heterogeneity, with larger gains for less experienced consumers. Our findings provide novel, large-scale causal evidence on how GenAI shapes sales productivity in online retail, highlighting both its immediate value and broader potential.This paper was accepted by Jean-Pierre Dube, marketing.Funding: L. Fang acknowledges financial support from the National Natural Science Foundation of China [Grants 72501258 and 72192803], the Major Special Project in Philosophy and Social Sciences of the Ministry of Education of China [Grant 2026JZDZ020], the National Social Science Fund of China [Grant 22&amp;ZD081]. Z. Yuan acknowledges financial support from the National Key Research and Development Project [Grant 2024YFB3312900], the National Natural Science Foundation of China [Grants 72141305 and 72203202], the National Social Science Fund of China [Grants 26ZDA030 and 25&amp;ZD149], and the Fundamental Research Funds for the Central Universities. K. Zhang, D. Donati, and M. Sarvary have no funding to report.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2026.00623 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2026.00623"/>
+    <category term="Management Science"/>
+    <published>2026-11-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0718</id>
+    <title>Attention Trap? How Visual Motion Shapes Children’s Screen Time and Engagement on Video Platforms</title>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+    <author>
+      <name>Sumeet Kumar, Madhu Viswanathan, Ravi Bapna</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Children spend considerable time watching online video, yet we know relatively little about which features of video content shape their engagement. This research examines one measurable feature: visual motion. Analyzing more than 32,000 videos from popular children’s channels on YouTube, we find that videos with greater visual motion receive more views, even after accounting for other visual, audio, and content characteristics. A randomized YouTube advertising experiment using professionally produced educational videos confirms this relationship; adding motion to the background increased view rates by about 2% at essentially no additional cost.An eye-tracking study with children aged 6–10 helps explain why. Visual motion does not prevent children from looking away. Instead, it reduces the duration of longer attentional lapses by bringing their gaze back to the screen more quickly. The additional attention is directed primarily toward the moving background rather than the instructor. The findings show how a measurable design feature can shape children’s attention and provide creators and platforms with a way to assess and design children’s video content more systematically.</content>
+    <link href="https://doi.org/10.1287/isre.2023.0718"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2023.0031</id>
+    <title>From Data–Model Fit to Model–World Fit: A Framework for Integrating Domain Knowledge into Artificial Intelligence</title>
+    <updated>2026-11-06T00:00:00+00:00</updated>
+    <author>
+      <name>Arturo Castellanos, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons, Veda C. Storey</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Machine learning (ML)–based artificial intelligence (AI) systems often perform well in controlled settings but fail when deployed in the real world. These failures stem from a fundamental problem: ML/AI models optimize data–model fit by increasing statistical performance on training data, whereas real-world deployment demands a new paradigm in ML/AI: model–world fit that preserves domain semantics and contextual understanding. We propose a machine learning model–world fit framework that provides both a conceptual structure for understanding how domain knowledge shapes ML/AI systems and a research road map for investigating these relationships. The framework identifies how domain knowledge can be integrated into the ML/AI development process via external knowledge representations, such as data, value, process models, or domain ontologies. Incorporating external knowledge representations can help overcome three types of knowledge deficiencies in AI: know-what, know-how, and know-why. To illustrate the framework, we apply it to a child welfare placement case, a domain in which contextual understanding is critical and statistical accuracy is an insufficient evaluation criterion. Our insights lead to several directions for scholars working at the intersection of machine learning, design science, and knowledge representation.History: Ahmed Abbasi, Senior Editor; Min Zhao, Associate Editor.Supplemental Material: The online appendix is available at https://doi.org/10.1287/isre.2023.0031 .</content>
+    <link href="https://doi.org/10.1287/isre.2023.0031"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
 </feed>
