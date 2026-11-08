@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-11-07T16:44:23.450943+00:00</updated>
+  <updated>2026-11-08T13:45:26.613924+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
@@ -175,14 +175,14 @@
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35909</id>
-    <title>The Robust Properties of Economies with Endogenous Production Networks</title>
+    <id>https://www.nber.org/papers/w35910</id>
+    <title>Infinite Factor Structure in Conditional Asset Pricing</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
     <author>
-      <name>Simone Cerreia-Vioglio, Roberto Corrao, Joel P. Flynn &amp; Giacomo Lanzani</name>
+      <name>Mikhail Chernov, Bryan T. Kelly, Semyon Malamud &amp; Johannes Schwab</name>
     </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize equilibria in a canonical class of economies with endogenous production networks, showing that log-prices equal a min-max over networks of a primitive affine function of log-productivities. This formula captures how resilience and fragility interact: the "min" reflects resilience from substituting suppliers, while the "max" reflects fragility from complementarity-induced rigidity. Applying these results, we generalize Hulten's theorem, finding that local Domar weights are generally insufficient to describe propagation of even small shocks. Moreover, we characterize how microeconomic volatility affects GDP, finding that smooth changes in Domar weights overstate its adverse effects by omitting option value from switching suppliers.</content>
-    <link href="https://www.nber.org/papers/w35909"/>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The return covariance matrix is widely assumed to have an eigenvalue cliff: a few large eigenvalues, then a bounded bulk, as in the approximate factor structure of Chamberlain and Rothschild (1983). This premise underlies factor tests, principal-component methods, and large-covariance estimation. These methods estimate moments from returns pooled across states, so they necessarily view a conditional world unconditionally. We show that, generically, this view removes the cliff: a conditional model with a few factors is, unconditionally, an infinite-factor model in which infinitely many eigenvalues diverge. This holds for the characteristic-managed portfolios that machine-learning methods trade, and for individual stocks whose loadings differ persistently across firms. Yet as long as conditional expected returns admit no asymptotic arbitrage, the maximal Sharpe ratio stays finite. For generic expected returns, infinitely many components are priced, so no finite set of principal components spans expected returns. Reducing returns to a few principal components therefore discards priced risk.</content>
+    <link href="https://www.nber.org/papers/w35910"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -195,6 +195,18 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the revenue and migration impact of the 2026 California Billionaire Tax Act, a one-time 5 percent tax on the worldwide net worth of individuals exceeding $1 billion. Using data from the Forbes Billionaire List, news reports detailing the residential real estate holdings of California billionaires, and public announcements of billionaire departures from the state, we estimate the behavioral response and associated revenue loss to this new tax using several different methodologies. Even before accounting for reductions in other tax bases such as the income tax, we estimate that the Act will collect approximately $30 billion (range $28 to 36 billion), less than a third of the $100 billion projected by Galle et al. (2025). This range accounts for the publicly confirmed taxpayer migration that has already eliminated nearly 30 percent of the Act's wealth tax base, applies a litigation-survival discount to the remaining base, and is validated by the wealth tax base elasticity literature. We estimate that California's billionaires contribute $3.3–5.8 billion annually in state income taxes. The present value of permanently lost income tax collections from departures more than offsets the one-time wealth tax revenue, yielding a net present value of negative $38.9 billion. Across 100,000 simulated revenue and discount rate combinations, 85 percent of plausible outcomes produce a negative net present value of state revenues.</content>
     <link href="https://www.nber.org/papers/w35899"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35909</id>
+    <title>The Robust Properties of Economies with Endogenous Production Networks</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Simone Cerreia-Vioglio, Roberto Corrao, Joel P. Flynn &amp; Giacomo Lanzani</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize equilibria in a canonical class of economies with endogenous production networks, showing that log-prices equal a min-max over networks of a primitive affine function of log-productivities. This formula captures how resilience and fragility interact: the "min" reflects resilience from substituting suppliers, while the "max" reflects fragility from complementarity-induced rigidity. Applying these results, we generalize Hulten's theorem, finding that local Domar weights are generally insufficient to describe propagation of even small shocks. Moreover, we characterize how microeconomic volatility affects GDP, finding that smooth changes in Domar weights overstate its adverse effects by omitting option value from switching suppliers.</content>
+    <link href="https://www.nber.org/papers/w35909"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -459,18 +471,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Credit constraints and other demand distortions are pervasive in lower-income contexts. A model of clean technology adoption shows that demand distortions can increase the welfare gains from green subsidies. This arises through two channels: shifting the marginal adopter toward higher private and social benefits, and increasing demand elasticity. We test this by cross-randomizing purchase price subsidies, usage subsidies, and access to an interest-free loan for a US$84 induction stove among 2,134 charcoal users in Kenya. Usage subsidies of 75% have a precise zero effect on adoption and usage. Purchase price subsidies, however, generate large welfare gains. Credit constraints raise the subsidy’s efficacy by 35%–73%, up to US$10–US$12 in observable welfare gain per subsidy dollar. This demand distortion also lowers the subsidy cost of abatement by 41%, to US$12 per tCO2e. This operates through the two channels identified in the theory: credit constraints raise the marginal adopter’s positive externality by 19% and fuel savings by 30%, and lower the subsidy cost per marginal adoption by 29%. In a counterfactual without demand distortions, the abatement cost rises to US$137 per tCO2e. Contexts with large demand distortions could offer many cost-effective opportunities for climate change mitigation financing.</content>
     <link href="https://www.nber.org/papers/w35911"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35910</id>
-    <title>Infinite Factor Structure in Conditional Asset Pricing</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mikhail Chernov, Bryan T. Kelly, Semyon Malamud &amp; Johannes Schwab</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The return covariance matrix is widely assumed to have an eigenvalue cliff: a few large eigenvalues, then a bounded bulk, as in the approximate factor structure of Chamberlain and Rothschild (1983). This premise underlies factor tests, principal-component methods, and large-covariance estimation. These methods estimate moments from returns pooled across states, so they necessarily view a conditional world unconditionally. We show that, generically, this view removes the cliff: a conditional model with a few factors is, unconditionally, an infinite-factor model in which infinitely many eigenvalues diverge. This holds for the characteristic-managed portfolios that machine-learning methods trade, and for individual stocks whose loadings differ persistently across firms. Yet as long as conditional expected returns admit no asymptotic arbitrage, the maximal Sharpe ratio stays finite. For generic expected returns, infinitely many components are priced, so no finite set of principal components spans expected returns. Reducing returns to a few principal components therefore discards priced risk.</content>
-    <link href="https://www.nber.org/papers/w35910"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
