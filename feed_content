@@ -2,46 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-07T16:43:46.391132+00:00</updated>
+  <updated>2026-11-08T13:44:40.479895+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261502217</id>
-    <title>EXPRESS: Assortment Optimization Given Basket Shopping Behavior Using the Ising Model</title>
-    <updated>2026-10-18T00:00:00+00:00</updated>
-    <author>
-      <name>Andrey Vasilyev, Sebastian Maier, Ralf W. Seifert</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;In markets where customers tend to purchase baskets of products rather than single products, assortment optimization is a major challenge for retailers. Removing a product from a retailer's assortment can result in a severe drop in aggregate demand if this product is a complement to other products. Therefore, accounting for the complementarity effect is essential when making assortment decisions. In this paper, we develop an analytical framework designed to address this problem. We model customers' choices using the binary Ising model, which is a special case of a Markov random field. This model captures pairwise demand dependencies as well as the individual attractiveness of each product, with binary variables indicating whether products are included in the purchased basket. For estimation, we utilize existing methods developed for the spin formulation of the Ising model and then apply a parameter transformation to express the fitted model in the binary form used for assortment optimization. We show that the assortment optimization problem under the Ising model is NP-hard. We also provide multiple theoretical insights into the structure of the optimal assortments based on the graphical representation of the Ising model, and propose several heuristic algorithms that can be used to obtain high-quality solutions to the assortment optimization problem. Our numerical analysis demonstrates that the developed simulated annealing procedure leads to an expected profit gain of 15% compared to offering an unoptimized assortment (where all products are included) and around 5% compared to using a revenue-ordered heuristic algorithm.</content>
-    <link href="https://doi.org/10.1177/10591478261502217"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-10-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/00222437261502330</id>
-    <title>EXPRESS: Expanding Markets or Capturing Share? The Competitive Effects of Subscriptions on Spending in Restaurant Delivery</title>
-    <updated>2026-10-18T00:00:00+00:00</updated>
-    <author>
-      <name>Daniel M. McCarthy, Shin Oblander, Young-Hoon Park, Yeohong Yoon</name>
-    </author>
-    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;Subscription programs are increasingly central to platform strategy, but their effects on competitors and category demand remain unclear. The authors study restaurant delivery subscriptions using individual-level transaction data on Postmates Unlimited, the first widely available U.S. subscription program in the category, and DoorDash's later DashPass program. Using a matched, staggered difference-in-differences design, they find that signing up for Postmates Unlimited is associated with a 90.4% increase in spending at the focal firm, with no significant average change in competing-firm spending and no offsetting decline in adjacent food categories, consistent with category expansion. Competitive effects depend on customers' prior platform usage. For “singlehomers” (who only used Postmates prior to subscribing), subscribing is associated with increased spending at both the focal firm and competing platforms, even after cancellation. For “multihomers” (who had also previously used competing platforms), the focal-firm effect is larger, and competing-firm spending falls while customers remain subscribed; after cancellation, the focal-firm lift persists, but the decrease in competitor spending does not. DashPass results are broadly similar, but customers with prior Postmates subscription experience show little increase in category spending. Together, these findings suggest subscriptions can both expand markets and capture share, depending on prior platform usage and subscription experience.</content>
-    <link href="https://doi.org/10.1177/00222437261502330"/>
-    <category term="Journal of Marketing Research"/>
-    <published>2026-10-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70103</id>
-    <title>Ethnographic Theorizing in Human Resource Management: From Theory‐as‐Design to Theory‐in‐Use</title>
-    <updated>2026-10-18T00:00:00+00:00</updated>
-    <author>
-      <name>Jaejin Lee, Nina Jörden</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Research on human resource management (HRM) has generated influential frameworks for explaining the relationships between HR practices and organizational outcomes. Existing accounts offer less insight into how the frameworks informing those practices acquire meaning, authority, and practical traction in organizational settings. We conceptualize this as a gap betweentheory‐as‐designandtheory‐in‐useand develop ethnographic theorizing as a mode of examining the use‐life of selected design‐oriented HRM frameworks. Our contribution is twofold. First, we specify how sustained immersion, temporal depth, embodied co‐presence, and relational obligation enable researchers to follow frameworks as they are enacted and negotiated. Second, we develop three recursively related analytic moves for theory development—Complement, Complicate,andReframe—through which ethnographic evidence can elaborate, qualify, or revise existing theoretical accounts. We demonstrate this approach through two ethnographic studies of HR analytics in different organizations. The comparison shows how legitimacy work, identity negotiation, and meaning‐making shaped the enactment of data‐driven HRM in these settings. The paper thus offers a structured approach for studying how established HRM frameworks operate in use and for assessing when situated evidence warrants changes to their constructs, relationships, or boundary conditions. In addition, we discuss implications for HRM theory, research design, and practice.</content>
-    <link href="https://doi.org/10.1002/hrm.70103"/>
-    <category term="Human Resource Management"/>
-    <published>2026-10-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/smj.70137</id>
     <title>Investors' ideology and corporate symbolic and substantive climate actions</title>
@@ -689,18 +653,6 @@
     <published>2026-10-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07249</id>
-    <title>Looking Under the Hood of Commodity Currency Predictability</title>
-    <updated>2026-10-23T00:00:00+00:00</updated>
-    <author>
-      <name>Alexandre Jeanneret, Valeri Sokolovski</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper revisits the exchange rate predictability of commodity currencies through the lens of market efficiency. Focusing on currencies with strong contemporaneous exposure to commodity prices, we show that changes in country-specific commodity export or import prices predict exchange rate fluctuations both in sample and out of sample. We establish four empirical facts: (i) the sign of the predictive relationship runs counter to standard risk-based explanations; (ii) predictability is concentrated at short horizons; (iii) predictability is driven by a small set of thinly traded currencies; and (iv) even sophisticated speculative traders adjust positions sluggishly in response to commodity price shocks in these currencies. Together, these findings suggest that predictability arises from the slow incorporation of information in less actively traded currencies, which is likely due to liquidity and position-building constraints, rather than from compensation for risk. The results also clarify the sources of commodity-based predictability in carry trade returns.This paper was accepted by Lukas Schmid, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07249 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07249"/>
-    <category term="Management Science"/>
-    <published>2026-10-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/isre.2025.1970</id>
     <title>Mobile Location-based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry</title>
     <updated>2026-10-23T00:00:00+00:00</updated>
@@ -1065,18 +1017,6 @@
     <published>2026-10-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.03608</id>
-    <title>Estimating the Pricing Kernel: A Simple Regression-Based Dimension-Reduction Approach</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Bin Luo, Guofu Zhou, Ti Zhou</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a simple framework for estimating the pricing kernel in factor space by constructing the mean–variance efficient factor portfolio via an ordinary least squares formulation with least absolute shrinkage and selection operator regularization. The method accommodates high-dimensional settings in which the number of candidate factors exceeds the sample size and automatically shrinks redundant factor weights toward zero. We show theoretically that the out-of-sample Sharpe ratio of the estimated portfolio converges to the theoretical maximum at the fastest rate among existing regression-based approaches. Applying the method to 174 characteristic-based factors together with the market factor, we obtain an out-of-sample Sharpe ratio of 3.59, substantially outperforming competing strategies and delivering the smallest aggregate pricing errors. The selected factors vary over time in both composition and number, averaging about 50. We further develop a model comparison test and reject the hypothesis that eight widely used sparse factor models are sufficient to span the pricing kernel.This paper was accepted by Kay Giesecke, finance.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72671091, 72371079, and 72501192, and Key Program 72432005] and the Science and Technology Planning Project of Guangdong Province [Grant 2023B1515020045].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03608 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.03608"/>
-    <category term="Management Science"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1177/01492063261479303</id>
     <title>Winning at Defense by Playing Offense: Discrediting by Target Firms in Activist Hedge Fund Campaigns</title>
     <updated>2026-10-28T00:00:00+00:00</updated>
@@ -1182,18 +1122,6 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Online labor markets have become increasingly popular among companies seeking global access to workers. Some platforms have adopted a contest-based scheme, allowing employers to review multiple submissions before selecting the best one. This practice raises a crucial question: Given a predefined budget, should employers choose a contest or contract scheme for tasks? This study examines the comparative effectiveness of contests versus contracts in achieving better job outcomes, focusing on design tasks characterized by high uncertainty. Using a comprehensive data set from a leading online labor market, we employ multiple empirical strategies, combined with machine learning and text mining techniques, to examine the impact of compensation schemes on job quality. Our results suggest that contract-based jobs yield better performance than contests in the context of ideation tasks. Further analysis, such as examining image similarity among pairwise solutions within a task, identifies “copying” behaviors as a key mechanism undermining the effectiveness of contests. In the public setting of contests, workers can observe others’ submissions and revise their own, leading to imitation rather than innovation. As competition intensity increases, workers have weaker incentives to exert effort, reducing solution quality. Consequently, the negative incentive effects in contests outweigh both the potential positive incentive and parallel effects. Moreover, although information availability can enhance work quality, contests inherently offer limited informational advantages compared with contracts. Taken together, our findings suggest that contract-based schemes are more effective than contests for design tasks, offering important implications for both employers and platform designers in online labor markets.This paper was accepted by Karan Girotra, operations management.Funding: N. Zhang acknowledges the support from the National Natural Science Foundation of China [Grant 72302053].Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07082 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.07082"/>
-    <category term="Management Science"/>
-    <published>2026-10-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.01218</id>
-    <title>Willingness to Compete in Dirty Competitions</title>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <author>
-      <name>Thomas Buser, Sahar Sangi</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Competitive environments often leave room for “dirty” practices such as sabotage, retaliation, or dishonesty. We use an online experiment to document aggregate levels and individual differences in the willingness to engage in dirty competition and in the willingness to enter competitions where the opponent may play dirty. We then use the experimental data to validate a set of survey questions that capture willingness to engage in dirty competition above general willingness to compete. We elicit these questions in a representative survey panel and show that willingness to engage in dirty competition is a strong predictor of holding a management or supervisory position and of working in the private—versus the public—sector, but also of worse self-esteem, worse social relationships, and increased feelings of guilt and shame. Men, younger people, and lower-educated people are on average more willing to engage in dirty competition.This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01218 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.01218"/>
     <category term="Management Science"/>
     <published>2026-10-29T00:00:00+00:00</published>
   </entry>
@@ -1550,18 +1478,6 @@
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.07656</id>
-    <title>Dollar Dominance in FX Trading</title>
-    <updated>2026-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Fabricius Somogyi</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Over 85% of all foreign exchange (FX) transactions involve the U.S. dollar, whereas the United States accounts for a much smaller fraction of global economic activity. My paper attributes the dominance of the dollar in FX trading to strategic avoidance of price impact. Using a novel identification strategy, I show that, on average, 13% of the volume in dollar pairs arises from using the dollar as a vehicle currency to indirectly exchange two nondollar currencies. To rationalise this result, I derive three model-based conditions for dollar dominance. I empirically test these conditions and provide evidence consistent with the theoretical framework.This paper was accepted by Lukas Schmid, finance.Funding: F. Somogyi acknowledges financial support from the Swiss National Science Foundation (SNSF) [Grant 195095].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07656 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.07656"/>
-    <category term="Management Science"/>
-    <published>2026-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://doi.org/10.1287/mnsc.2025.00682</id>
     <title>Health Shocks and Annuity Choices</title>
     <updated>2026-11-01T00:00:00+00:00</updated>
@@ -1690,18 +1606,6 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study examines the impact of consumers’ personal data management on firm competition in the data collection and application markets, as well as on welfare outcomes. Consumers purchase products from differentiated firms in these two markets. Initially, in the data collection market, firms compete to collect consumer data to predict preferences in the data application market, enabling them to offer personalized prices to their targeted customers. Before firms set prices in the data application market, targeted consumers can erase their data at a fixed cost, thereby becoming untargeted. We show that personal data management leads to higher prices, lower firm profits, negative externalities among consumers, and reduced consumer surplus in the data application market. In the data collection market, personal data management intensifies competition and improves consumer surplus. Our analysis further explores extended scenarios of personal data management—including the rights to opt out of data collection, data portability, and data ownership—and reveals that firms’ two-market profits and total consumer surplus change nonmonotonically with consumers’ data rights. Specifically, granting consumers data rights beyond simple data erasure can reverse the effects of erasure alone, benefiting firms while harming consumers. Moreover, data management influences cross-market competition quite differently depending on which market consumers exercise their data rights. Finally, we discuss proactive strategies firms can employ to maintain profitability under personal data laws.This paper was accepted by Dmitri Kuksov, marketing.Funding: J. Cong acknowledges the financial support from National Natural Science Foundation of China (Projects 72473024, 72192845) and support from the Shenzhen Research Institute, City University of Hong Kong. The authors gratefully acknowledge the financial support from the Japan Society for the Promotion of Science (JSPS), KAKENHI [Grants JP19H01483, JP20H05631, JP21H00702, JP21K01452, JP21K18430, JP23K20593, and JP23K25515], Nomura Foundation, the International Joint Research Promotion Program at University of Osaka, and the program of the Joint Usage/Research Center for “Behavioral Economics” at ISER, University of Osaka.Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2024.08024 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.08024"/>
-    <category term="Management Science"/>
-    <published>2026-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2024.04944</id>
-    <title>Does Offshoring Production Reduce Innovation? Firm-Level Evidence from Taiwan</title>
-    <updated>2026-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Lee Branstetter, Jong-Rong Chen, Britta Glennon, Nikolas Zolas</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Does the offshoring of production degrade or enhance the innovative capabilities of manufacturing firms? We contribute to this debate with causal evidence that offshoring impacts both the level and nature of innovation. Exploiting a policy shock that differentially affected the ability of Taiwanese firms to offshore production of certain goods to China, we find a decline in innovation levels and a shift from product to process innovation in the technologies directly related to product categories that could be offshored more easily after the policy shock. However, we also find evidence that the policy shock led to a reallocation of research effort within the firm, raising innovative effort in product categories not directly impacted by the shock and shifting them toward product innovation.This paper was accepted by Alfonso Gambardella, business strategy.Funding: This work was supported by the Mack Institute for Innovation Management, Wharton School, University of Pennsylvania, and the National Science Foundation [Grant 1360170] and the Portuguese National Science Foundation.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04944 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2024.04944"/>
     <category term="Management Science"/>
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
@@ -1894,18 +1798,6 @@
     </author>
     <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;S&amp;P 500 is commonly used in empirical finance and macroeconomics as a measure of overall capital market sentiment, and the associated VIX is taken as an indicator of economic uncertainty. While both assume that the S&amp;P 500 index is objectively constructed, we show that its membership decisions have a nontrivial amount of discretion unexplained by its published methodology. Importantly, we show that firms’ purchases of S&amp;P ratings appear to improve their chance of entering the index (but purchases of Moody’s ratings do not). Furthermore, openings in index membership tend to motivate firms to purchase more S&amp;P ratings. This is also confirmed by an event study of a 2002 membership rule change. These patterns raise concerns over potential governance issues.This paper was accepted by Will Cong, finance.Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08157 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.08157"/>
-    <category term="Management Science"/>
-    <published>2026-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.00535</id>
-    <title>The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers</title>
-    <updated>2026-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Kevin Zheyuan Cui, Mert Demirer, Sonia Jaffe, Leon Musolff, Sida Peng, Tobias Salz</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study evaluates the effect of generative artificial intelligence (AI) on software developer productivity via randomized controlled trials at Microsoft, Accenture, and an anonymous Fortune 100 company. These field experiments, run by the companies as part of their ordinary course of business, provided a random subset of developers with access to an AI-based coding assistant suggesting intelligent code completions. Although each experiment is noisy and results vary across experiments, when data are combined across three experiments and 4,867 developers, our analysis reveals a 26.08% increase (standard error: 10.3%) in completed tasks among developers using the AI tool. Notably, less experienced developers had higher adoption rates and greater productivity gains.This paper was accepted by Jean-Pierre Dube, marketing.Funding: M. Demirer and T. Salz thank the MIT GenAI Initiative for funding.Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.00535 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.00535"/>
     <category term="Management Science"/>
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
