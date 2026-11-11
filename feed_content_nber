@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-11-10T13:44:25.475620+00:00</updated>
+  <updated>2026-11-11T13:45:12.703420+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
+  <entry>
+    <id>https://www.nber.org/papers/w35910</id>
+    <title>Infinite Factor Structure in Conditional Asset Pricing</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Mikhail Chernov, Bryan T. Kelly, Semyon Malamud &amp; Johannes Schwab</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The return covariance matrix is widely assumed to have an eigenvalue cliff: a few large eigenvalues, then a bounded bulk, as in the approximate factor structure of Chamberlain and Rothschild (1983). This premise underlies factor tests, principal-component methods, and large-covariance estimation. These methods estimate moments from returns pooled across states, so they necessarily view a conditional world unconditionally. We show that, generically, this view removes the cliff: a conditional model with a few factors is, unconditionally, an infinite-factor model in which infinitely many eigenvalues diverge. This holds for the characteristic-managed portfolios that machine-learning methods trade, and for individual stocks whose loadings differ persistently across firms. Yet as long as conditional expected returns admit no asymptotic arbitrage, the maximal Sharpe ratio stays finite. For generic expected returns, infinitely many components are priced, so no finite set of principal components spans expected returns. Reducing returns to a few principal components therefore discards priced risk.</content>
+    <link href="https://www.nber.org/papers/w35910"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w35909</id>
+    <title>The Robust Properties of Economies with Endogenous Production Networks</title>
+    <updated>2026-10-01T00:00:00+00:00</updated>
+    <author>
+      <name>Simone Cerreia-Vioglio, Roberto Corrao, Joel P. Flynn &amp; Giacomo Lanzani</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We characterize equilibria in a canonical class of economies with endogenous production networks, showing that log-prices equal a min-max over networks of a primitive affine function of log-productivities. This formula captures how resilience and fragility interact: the "min" reflects resilience from substituting suppliers, while the "max" reflects fragility from complementarity-induced rigidity. Applying these results, we generalize Hulten's theorem, finding that local Domar weights are generally insufficient to describe propagation of even small shocks. Moreover, we characterize how microeconomic volatility affects GDP, finding that smooth changes in Domar weights overstate its adverse effects by omitting option value from switching suppliers.</content>
+    <link href="https://www.nber.org/papers/w35909"/>
+    <category term="NBER"/>
+    <published>2026-10-01T00:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35908</id>
     <title>The Impact of Social Insurance on Household Debt</title>
@@ -211,18 +235,6 @@
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://www.nber.org/papers/w35913</id>
-    <title>Inside Central Bankers’ Calendars: How Do Fed Chairs Allocate Their Time?</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Thomas Drechsel &amp; Dali Tsakadze</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more than 30% of their documented meetings with Fed staff, highlighting the crucial role of economists in the Fed's decision process. Second, interactions with the media became more frequent during Bernanke's tenure and remained important until the end of Powell's tenure. Third, Powell held significantly more meetings with lawmakers than both Yellen and Bernanke, reflecting an increasing need for the Fed to engage with political actors. Beyond these trend patterns, we examine the time allocation of Fed Chairs at business cycle frequencies and show how different activities respond to shifts in the macroeconomic environment. Finally, we place our findings in historical context using the available calendars of earlier Fed Chairs, including Alan Greenspan.</content>
-    <link href="https://www.nber.org/papers/w35913"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.nber.org/papers/w35907</id>
     <title>Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers</title>
     <updated>2026-10-01T00:00:00+00:00</updated>
@@ -243,18 +255,6 @@
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;More than 23 million adults in the United States lack a high school diploma, and most who return to school drop out before graduating. We evaluate a randomized intervention of adult high school students in which coaches delivered text messages that encouraged persistence. We find that assignment to treatment increased graduation by 4.9 percentage points, and the effect of message receipt among compliers is 9.3 percentage points, a 41 percent increase relative to the control mean. The intervention operated on the intensive margin by increasing the number of courses completed, but did not affect student enrollment. The effects of the intervention are concentrated among students assigned to experienced coaches, who customized their messages more extensively. We contextualize the economic impact of the low-cost intervention by comparing labor market earnings of graduates to non-graduates, which implies an earnings benefit of $149 per treated student over four years.</content>
     <link href="https://www.nber.org/papers/w35923"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35898</id>
-    <title>Export Controls and the Economics of National Security</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jingting Fan, Kyle Handley &amp; Nuno Limão</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Export controls restrict trade to limit adversaries’ access to goods that contribute to military capability, but their effectiveness depends on how trade and production adjust across countries. We combine new data on U.S. export control classifications and licensing outcomes with a quantitative general equilibrium model featuring dual-use production, input-output linkages, and separate civilian and military final expenditure. We estimate large export and entry frictions from these controls. These effects are substantially smaller for U.S. exports to members of multilateral export control regimes (MECRs): the differential is equivalent to an export cost of 15 to 29 log points. Relative to a counterfactual without differential controls on adversaries, multilateral controls reduce their imports of controlled products far more than unilateral U.S. controls. Only 7% of the reduction in controlled exports under the multilateral regime is replaced by other countries, compared with 28% under unilateral U.S. policy. Multilateral controls reduce adversaries’ real military expenditure by increasing their military price index. The security impact, measured as U.S. real military expenditure relative to adversaries, rises by about 1 log point under multilateral controls but only 0.14 log points under unilateral controls, with both imposing a similar civilian real cost. Even a U.S. embargo fails to reproduce the multilateral security outcome.</content>
-    <link href="https://www.nber.org/papers/w35898"/>
     <category term="NBER"/>
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
@@ -681,6 +681,18 @@ The labor market effects of California's AB 1228 are also analyzed, with varied 
     <published>2026-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.nber.org/papers/w35974</id>
+    <title>How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Hull</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, analyzing 1,430 staggered-adoption specifications from 116 economics papers. TWFE estimates are highly correlated with modern difference-in-differences estimates, with sign reversals in 12.0–14.9% of comparisons and greater precision for TWFE. Hierarchical models accounting for estimation noise imply estimand correlations of 91–97% and a 0.7–2.4% probability of a statistically significant TWFE estimate opposing the modern estimand’s sign. These findings suggest negative weights may be a less serious problem in practice and illustrate how AI can support systematic, large-scale empirical assessments of new econometric methods.</content>
+    <link href="https://www.nber.org/papers/w35974"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.nber.org/papers/w35979</id>
     <title>What Drives Censorship on College Campuses?</title>
     <updated>2026-11-01T00:00:00+00:00</updated>
@@ -761,18 +773,6 @@ The labor market effects of California's AB 1228 are also analyzed, with varied 
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We use LLMs as synthetic survey respondents to elicit green tastes, return beliefs, portfolio allocations, and investment motives from 480 retail and 60 institutional investor identities. Compared with retail, institutions report weaker tastes yet greener portfolio tilts, citing outside pressure. A greener tilt therefore need not indicate a stronger taste for greenness.  Retail tastes depend mostly on political affiliation, institutional tastes on type and geography.  Beliefs differ across the three ESG dimensions, with high-governance portfolios expected to outperform. We reconstruct survey responses under 2014--2025 information environments using date-masked information modules shuffled across years. Tastes vary little over time, but beliefs about green portfolios become more pessimistic after 2020. The two reconstructed series relate to different real-world data: tastes to measures of green demand, beliefs to measures of attention.</content>
     <link href="https://www.nber.org/papers/w35982"/>
-    <category term="NBER"/>
-    <published>2026-11-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35974</id>
-    <title>How Different are Different Differences-in-Differences? A Large-Scale Meta-Analysis</title>
-    <updated>2026-11-01T00:00:00+00:00</updated>
-    <author>
-      <name>Peter Hull</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;I use AI-assisted replication to assess the empirical importance of negative weights in two-way fixed effects (TWFE) estimation, analyzing 1,430 staggered-adoption specifications from 116 economics papers. TWFE estimates are highly correlated with modern difference-in-differences estimates, with sign reversals in 12.0–14.9% of comparisons and greater precision for TWFE. Hierarchical models accounting for estimation noise imply estimand correlations of 91–97% and a 0.7–2.4% probability of a statistically significant TWFE estimate opposing the modern estimand’s sign. These findings suggest negative weights may be a less serious problem in practice and illustrate how AI can support systematic, large-scale empirical assessments of new econometric methods.</content>
-    <link href="https://www.nber.org/papers/w35974"/>
     <category term="NBER"/>
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
