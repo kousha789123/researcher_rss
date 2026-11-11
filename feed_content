@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-11T13:44:35.442424+00:00</updated>
+  <updated>2026-11-11T16:17:56.917071+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -204,10 +204,10 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261504130</id>
-    <title>EXPRESS: Harnessing Renewable Portfolio Standards for Sustainable Futures: An Empirical Examination of Spillover Effects</title>
+    <title>Harnessing renewable portfolio standards for sustainable futures: An empirical examination of spillover effects</title>
     <updated>2026-10-23T00:00:00+00:00</updated>
     <author>
-      <name>Chunjie Zhao, Anqi Wu, Ramanathan Subramanyam</name>
+      <name>Chunjie Zhao, Anqi Wu, Ramanath Subramanyam</name>
     </author>
     <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Given the importance of managing industrial energy consumption, setting standards and implementing policies that encourage renewable energy use is crucial for incentivizing sustainable firm practices. Public policy designs must align closely with firms’ environmental policies to help mitigate greenhouse gas (GHG) emissions and support a sustainable future. While research on policy impacts on firm environmental performance and the supply chain's role in sustainability is growing, a critical, understudied effect is the spillover of government rules to supply chain partners and peer firms, especially those outside the direct purview of environmental regulations. This paper presents a novel approach that integrates data from the Carbon Disclosure Project (CDP) and the Renewable Portfolio Standards (RPS). The latter refers to state-driven initiatives that incentivize electricity consumption from eligible renewable resources. We examine the causal effects of state-level policies on firm-level GHG emission intensity, with particular emphasis on the spillover effects of policies on unregulated firms across markets. We break down emission intensity into Scope 1 and Scope 2 and capture facility-level data to analyze spillover effects in granular detail. Using a staggered difference-in-differences methodology, our analysis finds a promising negative association between RPS introduction and GHG emission intensity among unregulated firms across industries. Interestingly, firms headquartered in states with more conservative initial targets during RPS adoption and progressive, milestone-based implementation strategies have significantly lower GHG emission intensity than those headquartered in states with more aggressive initial targets or long-term absolute targets. Our findings have significant implications for developing environmental regulations and public policies aimed at reducing GHG emission intensity.</content>
     <link href="https://doi.org/10.1177/10591478261504130"/>
@@ -2228,6 +2228,18 @@
     <published>2026-11-10T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1177/10591478261508621</id>
+    <title>EXPRESS: The Implications of Generic Responses in Online Customer Service Operations</title>
+    <updated>2026-11-11T00:00:00+00:00</updated>
+    <author>
+      <name>Jitsama Tanlamai, Wreetabrata Kar, Warut Khern-am-nuai, Yossiri Adulyasak</name>
+    </author>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Businesses use a range of strategies to manage online customer service, with social media serving as a popular platform. A growing practice in social-media customer service is the use of generic responses to address customer inquiries. Our study investigates the impact of these generic responses on customer engagement and satisfaction. We analyze social media data from one of the largest banks in the United States and apply machine-learning techniques to extract relevant information from textual data. We leverage a quasi-experimental setting in which a generic response to a customer’s inquiry serves as the treatment. We find that generic responses increase the likelihood that customers reply to the bank. Among customers who reply, generic responses are associated with lower satisfaction. However, our further analyses show that under certain conditions, strategic use of generic responses is associated with higher customer satisfaction. Our findings provide guidance to operation managers regarding how generic responses can be tailored and used to improve online customer service operations.</content>
+    <link href="https://doi.org/10.1177/10591478261508621"/>
+    <category term="Production and Operations Management"/>
+    <published>2026-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/opre.2024.0747</id>
     <title>Combinatorial Inference on the Optimal Assortment in Multinomial Logit Models</title>
     <updated>2026-11-11T00:00:00+00:00</updated>
@@ -2249,6 +2261,18 @@
     <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Learning and optimal control under robust Markov decision processes (MDPs) have received increasing attention, yet most existing theory, algorithms, and applications focus on finite-horizon or discounted models. Long-run average-reward formulations, while natural in many operations research and management contexts, remain underexplored. This is primarily because the dynamic programming foundations are technically challenging and only partially understood, with several fundamental questions remaining open. This paper steps toward a general framework for average-reward robust MDPs by analyzing the constant-gain setting. We study the average-reward robust control problem with possible information asymmetries between the controller and an S-rectangular adversary. Our analysis centers on the constant-gain robust Bellman equation, examining both the existence of solutions and their relationship to the optimal average reward. Specifically, we identify when solutions to the robust Bellman equation characterize the optimal average reward and stationary policies, and we provide one-sided weak communication conditions ensuring solutions' existence. These findings expand the dynamic programming theory for average-reward robust MDPs and lay a foundation for robust dynamic decision making under long-run average criteria in operational environments.</content>
     <link href="https://doi.org/10.1287/opre.2025.2498"/>
     <category term="Operations Research"/>
+    <published>2026-11-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261510017</id>
+    <title>EXPRESS: Causal Alignment: Augmenting Language Models with A/B Tests</title>
+    <updated>2026-11-11T00:00:00+00:00</updated>
+    <author>
+      <name>Panagiotis Angelopoulos, Kevin Lee, Sanjog Misra</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;We develop a framework for improving the effectiveness of marketing communications by aligning a language model to the causal signal in A/B tests. The core idea is that randomized experiments reveal not just which content performs best, but directions of improvement that can serve as supervision for a generative model. Using within-experiment comparisons, we fine-tune a language model to create animproverarchitecture that transforms lower-performing content into higher-performing content. The resulting model can be composed with any baseline decision-maker, e.g. a human expert, to suggest improvements to new content. We validate our framework through a large-scale field experiment in email marketing spanning 36 new campaigns and 283 million impressions. Subject lines improved by our aligned model achieve click-through rates 32% higher than those from unassisted human experts, while a general-purpose language model with 30 times as many parameters as our fine-tuned model does not improve outcomes. This suggests that alignment to experimental data adds value beyond model capabilities alone. Our findings provide the first field evidence that aligning language models to A/B tests improves outcomes in real marketing campaigns and show that integrating AI with experimentation can train systems that make better future decisions.</content>
+    <link href="https://doi.org/10.1177/00222437261510017"/>
+    <category term="Journal of Marketing Research"/>
     <published>2026-11-11T00:00:00+00:00</published>
   </entry>
   <entry>
