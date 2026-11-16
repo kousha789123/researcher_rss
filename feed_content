@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-16T13:51:19.889242+00:00</updated>
+  <updated>2026-11-16T22:52:10.288625+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -2307,6 +2307,30 @@
     <published>2026-11-13T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/sej.70063</id>
+    <title>Government‐funded experimentation: How startups use R&amp;amp;D contracts to resolve uncertainty</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Larisa Cioaca</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;Startups use experimentation to reduce technological and market uncertainty, but experimentation is costly and unevenly funded. This paper examines how government‐funded experimentation relates to subsequent performance among high‐tech startups that receive federal awards. Using data on $32 billion in US government R&amp;D contracts awarded to high‐tech startups between 2001 and 2018, I distinguish between technology experimentation, measured by the value of R&amp;D contracts, and market experimentation, measured by the number of agencies awarding the R&amp;D contracts. Market experimentation is positively associated with subsequent employment, sales, and acquisition, while technology experimentation shows weaker associations with these outcomes. The findings are consistent with startups using information from multiple government buyers to learn about market opportunities and improve subsequent performance.Managerial SummaryHigh‐tech startups need to test both whether their technology works and where demand exists, but venture capital often leaves this experimentation unfunded. Using data on $32 billion in US government R&amp;D contracts awarded to high‐tech startups from 2001 to 2018, this paper shows that startups funded by more government agencies subsequently have higher employment and sales and are more likely to be acquired. Larger R&amp;D contract amounts have less consistent relationships with these outcomes. For managers, the findings suggest considering what different government customers can help the firm learn. For policymakers, they suggest that the diversity of a startup's public customer base is a vital margin to consider alongside the overall size of its R&amp;D awards.</content>
+    <link href="https://doi.org/10.1002/sej.70063"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2023.17369</id>
+    <title>When Data Scientists Meet Domain Experts: Artificial Intelligence, Epistemic Conflict, and Knowledge Transformation</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Mayur Joshi, Ning Su, Mark Zbaracki</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Predictive artificial intelligence (AI) models developed by data scientists promise to transform organizational knowledge, yet in practice, the predictions remain inscrutable to domain experts. Existing explanations situate the problems in the opacity of the AI tools, failed adoption, or jurisdictional conflict but offer limited insight into how to make the knowledge accessible. Here, we show how the problem emerges from the competing epistemic stances of data scientists and domain experts, which create conflict over how to produce and evaluate knowledge. We then ask how data scientists and domain experts address that conflict so that their work with AI satisfies each group’s standards for producing and evaluating knowledge. Drawing on an 18-month inductive study of three large Indian banks, we show that the data scientists produce new knowledge, but domain experts hold the power to decide whether it is deployed. Our findings distinguish between epistemic and jurisdictional conflict. We show that data scientists first try to address the epistemic conflict directly through assimilative practices that follow one epistemic stance or the other. When these practices fail to transform knowledge, data scientists learn to address the conflict indirectly through four bridging practices. These practices help the domain experts transform knowledge by embedding the data scientists’ predictions in the boundary objects and practices that the domain experts already use. Our findings reveal how power based on expertise rather than jurisdictional control can make possible the coproduction of knowledge.Funding: This research was supported in part by funding from the Social Sciences and Humanities Research Council [Grant 430-2024-01156] to M. Joshi.</content>
+    <link href="https://doi.org/10.1287/orsc.2023.17369"/>
+    <category term="Organization Science"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1287/opre.2022.0205</id>
     <title>Exploration Optimization for Dynamic Assortment Personalization under Linear Preferences</title>
     <updated>2026-11-16T00:00:00+00:00</updated>
@@ -2316,6 +2340,54 @@
     <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We study dynamic assortment personalization, where an online retailer adaptively selects assortments based on customer attributes to learn preferences and maximize revenue. We assume that product utilities depend linearly on customer attributes through an unknown coefficient matrix, leading to an exploration–exploitation trade-off. We identify price-driven and linearity-driven exploration efficiencies, showing that not all products need to be offered to all customer profiles to recover optimal assortments. We establish an instance-dependent regret lower bound characterized by a linear program, which we call the Regret Lower Bound (RLB) problem. Because the RLB has a complex structure and depends non-trivially on unknown parameters, we introduce an alternative formulation, called the Exploration-Optimization problem, that yields an interpretable exploration structure and can be formulated as a tractable mixed-integer linear program. We develop learning policies that select efficient exploration sets by solving either problem and establish a regret upper bound for the Exploration-Optimization policy. Using data from a large Chilean retailer, we demonstrate that our policies substantially outperform Thompson sampling in terms of both regret and computational efficiency, while remaining scalable in practice.</content>
     <link href="https://doi.org/10.1287/opre.2022.0205"/>
     <category term="Operations Research"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07919</id>
+    <title>Advertising by Recruiting Influencers</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Maya Jalloul, Vasiliki Kostami</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The rise of social media platforms has enabled customers to rely on influencers and peer reviews to guide their purchasing decisions. As products increasingly focus on experiences, firms are leveraging influencer marketing as a crucial tool. This paper addresses key challenges of influencer marketing by considering different types of influencers and partnership schemes alongside the impact of social learning. We introduce a two-period model wherein, in the initial period, the firm unveils a new product experience of unknown quality alongside an influencer marketing campaign. The campaign relies on two types of influencers that differ in popularity and engagement levels and two partnerships: sponsored advertising and public relations. Customers base their purchasing decisions on their original (heterogeneous) beliefs, influencer-driven information, and reviews from early adopters in the second period. When customers are equally likely to follow any given influencer, the firm should choose a single influencer type and partnership. Consumer reviews complement influencer marketing when products are initially undervalued, increasing the returns to influencer investment. Moreover, within a societal structure characterized by distinct classes, in which followers and influencers often belong to the same class, a mix of influencer types and partnership schemes may become optimal. Our study provides guidance on selecting influencer types, partnership schemes, and social media platforms based on engagement, popularity, audience composition, and platform characteristics.This paper was accepted by Jeanette Song, operations management.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07919 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07919"/>
+    <category term="Management Science"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.05427</id>
+    <title>Whiplash: Congestion Dissipation in a Disrupted Circulatory Shipping System</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Ming Hu, Chaoyu Zhang</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The (post)pandemic period was marked by numerous port disruptions, leading to delays and rising costs for shippers. We build a fluid model in transient states to investigate how a disruption at one port can affect the disrupted port and its counterpart in another country in a circulatory container shipping system, where a stream of fleets moves goods back and forth between the two ports. Port disruption leads to two types of congestion: the inbound backlogs, which occur when ships are unable to enter the port, and the outbound backlogs, which arise when goods are unable to be loaded onto ships for transport to other ports. We analytically characterize the system’s recovery time, measured from the onset of the port closure until normal operations are restored, and the dynamics of inbound and outbound backlogs during recovery. We identify a whiplash effect in which outbound backlogs alternate between ports, creating oscillatory congestion patterns because of the disruption-induced uneven spatial distribution of ships. Our analysis reveals that simply increasing ship capacity may not expedite system recovery, highlighting the importance of coordination between port authorities and shipping companies when jointly planning capacity expansions. Furthermore, we examine several extensions of the model. We use the two-port system as a building block to analyze bipartite and cyclic network structures, and we also consider scenarios in which a port experiences multiple disruptions. In all cases, the whiplash effect persists, thereby demonstrating the robustness of our findings. Finally, we use our theory model prediction as a feature and apply machine learning techniques to predict the time that vessels spend in Shanghai Port after a typhoon disruption and show that using our model predictor, alongside all relevant vessel and voyage attributes as raw features, significantly reduces prediction errors by 10%–30% on average compared with not using it.This paper was accepted by Elena Katok, operations management.Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2021-04295].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05427 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.05427"/>
+    <category term="Management Science"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07660</id>
+    <title>Biodiversity Risk in the Corporate Bond Market</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Sevgi Soylemezgil, Cihan Uzmanoglu</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We show that a biodiversity risk premium has emerged in the U.S. corporate bond market following the United Nations Biodiversity Conference (COP15) in October 2021. COP15 placed biodiversity on the global regulatory agenda and raised transition risks for exposed firms. After COP15, a one standard deviation increase in a firm’s biodiversity footprint is associated with a 7% increase in its secondary market yield spreads, whereas this relation is insignificant before COP15. The biodiversity effect is also present in primary bond markets, most pronounced for medium-term bonds and distinct from climate-related mechanisms. Furthermore, a higher biodiversity footprint is associated with a lower likelihood of issuing medium-term bonds after COP15, consistent with firms managing their biodiversity-related risks. Evidence from firms’ biodiversity dependencies suggests that physical biodiversity risks are also priced in the bond market.This paper was accepted by Bo Becker, finance.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07660 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07660"/>
+    <category term="Management Science"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.08443</id>
+    <title>Do Fund Managers’ Commitments to Responsible Investing Affect Private Information Acquisition, Information Environment, and Corporate Sustainability?</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Sumit Agarwal, Johan Sulaeman, Yue Zhang, Zhe Zong</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We investigate the effects of mutual funds’ commitments to responsible investing on their information acquisition activities and the corresponding externalities for other stakeholders. After committing to responsible investing (via United Nations Principles for Responsible Investment (UNPRI)), fund managers increase private information acquisition activities, that is, corporate site visits, particularly focusing on environmental and social issues. These visits generate negligible private investment value for the visiting funds. However, the information environment at the stock level improves following these visits with lower consensus analyst forecast errors. In addition to the information production role of these visits, they also generate positive externalities for other stakeholders through incremental improvements in the sustainability practices of the firms receiving sustainability-focused site visits from UNPRI fund managers. Collectively, the paper highlights the private costs and social benefits of responsible investing.This paper was accepted by Will Cong, finance.Funding: S. Agarwal and J. Sulaeman acknowledge research support from Sustainable and Green Finance Institute [Grant WBS A-0006413-00-00]. Y. Zhang acknowledges financial support from the National Natural Science Foundation of China [Grant 72402239] and China Scholarship Council. This work was supported by the Ministry of Education, Singapore [Social Science and Humanities Research Thematic Grant SSRC2024-SSHRTG-022]. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of the Social Science Research Council (Singapore) and the Ministry of Education (Singapore).Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08443 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.08443"/>
+    <category term="Management Science"/>
     <published>2026-11-16T00:00:00+00:00</published>
   </entry>
   <entry>
@@ -2368,12 +2440,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261507271</id>
-    <title>EXPRESS: Customer-to-Manufacturer: Should a Platform Cooperate with More Manufacturers?</title>
+    <title>Customer-to-manufacturer: Should a platform cooperate with more manufacturers?</title>
     <updated>2026-11-02T00:00:00+00:00</updated>
     <author>
       <name>Tonghuan Shi, Lin Tian, Zhen Xu</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The traditional top-down relationship between manufacturers and consumers has led to persistently high failure rates in new product development. In response, the emerging customer-to-manufacturer (C2M) model leverages online platforms as intermediaries to directly transmit consumer feedback to manufacturers, thereby improving decision-making in product innovation and increasing the likelihood of product success. This paper develops an analytical model to study the strategic adoption of the C2M model in an online marketplace with one platform and two competing manufacturers. We focus on the role of platform information and examine how its trade-offs shape market outcomes. Our analysis shows that the impact of platform information on manufacturers' expected profits is non-monotonic. Moreover, manufacturers' cooperation decisions in C2M depend on the information price and are moderated by the amount of information. For the platform, unexpectedly, involving more manufacturers in C2M cooperation is not always optimal, especially when information is sufficient. We further show that the C2M model benefits the platform and consumers and improves social welfare, while potentially reducing manufacturers' profits. Overall, our results provide managerial and regulatory implications for platform-based C2M practices.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The traditional top-down relationship between manufacturers and consumers has led to persistently high failure rates in new product development. In response, the emerging customer-to-manufacturer (C2M) model leverages online platforms as intermediaries to directly transmit consumer feedback to manufacturers, thereby improving decision-making in product innovation and increasing the likelihood of product success. This paper develops an analytical model to study the strategic adoption of the C2M model in an online marketplace with one platform and two competing manufacturers. We focus on the role of platform information and examine how its trade-offs shape market outcomes. Our analysis shows that the impact of platform information on manufacturers’ expected profits is non-monotonic. Moreover, manufacturers’ cooperation decisions in C2M depend on the information price and are moderated by the amount of information. For the platform, unexpectedly, involving more manufacturers in C2M cooperation is not always optimal, especially when information is sufficient. We further show that the C2M model benefits the platform and consumers and improves social welfare, while potentially reducing manufacturers’ profits. Overall, our results provide managerial and regulatory implications for platform-based C2M practices.</content>
     <link href="https://doi.org/10.1177/10591478261507271"/>
     <category term="Production and Operations Management"/>
     <published>2026-11-02T00:00:00+00:00</published>
