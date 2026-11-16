@@ -2,108 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-15T13:42:14.518837+00:00</updated>
+  <updated>2026-11-16T13:51:19.889242+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/restud/rdag119</id>
-    <title>Price Gouging and the Monopoly Option</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Samuel Häfner, Curtis R Taylor</name>
-    </author>
-    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We investigate a dynamic oligopoly model with two phases: a normal phase where an essential input is available, and a disruption phase where firms must rely on inventories. Disruptions create an overcutting pricing incentive arising from the option to forgo sales and monopolize the market once rivals stock out. This monopoly option causes the price to jump to a supracompetitive level at the advent of the disruption and to remain above the competitive price path throughout. Price caps raise welfare, but reduce inventory investment. Government reserves reduce prices and raise buffer stocks, as do reserve mandates when financially feasible.</content>
-    <link href="https://doi.org/10.1093/restud/rdag119"/>
-    <category term="Review of Economic Studies"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.1396</id>
-    <title>Managing Newsvendors via Demand Shifting</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Yilun Chen, Jiaqi Lu</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;How Demand Allocation Shapes Inventory DecisionsOnline platforms that fulfill orders for independent sellers often bear inventory costs without choosing how much sellers stock. In the paper “Managing Newsvendors via Demand Shifting,” Yilun Chen and Jiaqi Lu study how reallocating customer demand among substitutable products can influence sellers’ inventory decisions. The platform commits to a demand-shifting rule that effectively alters the demand distribution perceived by the sellers. Its optimal rule reduces demand fluctuations around a target inventory level, making that level attractive to sellers and pooling demand risk across them. The authors characterize this rule in closed form. When shifting demand is inexpensive, the platform can achieve the profit available under centralized inventory control, whereas sellers and customers also benefit. However, when shifting is costly and inventory is expensive for the platform, its optimal intervention can reduce customer service levels. The findings show why platforms should assess how demand allocation changes stocking incentives and customer outcomes.</content>
-    <link href="https://doi.org/10.1287/opre.2024.1396"/>
-    <category term="Operations Research"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/opre.2024.0883</id>
-    <title>Two-Sided Assortment Optimization: Adaptivity Gaps and Approximation Algorithms</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Omar El Housni, Ulysse Hennebelle, Alfredo Torrico</name>
-    </author>
-    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;On the Power of Adaptivity in Choice-Based Matching PlatformsOnline labor, lodging, and carpooling platforms decide not only whom users can choose but also when those options are shown. Simultaneity can crowd attention around a few popular users and leave many good matches unrealized. In the forthcoming Operations Research paper, “Two-Sided Assortment Optimization: Adaptivity Gaps and Approximation Algorithms,” the authors study how much platforms gain by updating assortments after observing earlier choices. They compare four policy classes, ranging from showing all assortments at once to fully adaptive policies that process users one by one. They prove that adaptivity within one side improves performance by at most a factor of [Formula: see text], whereas fully adaptive policies improve on one-sided adaptive policies by at most a factor of two; both bounds are tight. They also develop efficient approximation algorithms, extend their results to constrained settings, and empirically show that their methods perform far better than their worst-case guarantees.</content>
-    <link href="https://doi.org/10.1287/opre.2024.0883"/>
-    <category term="Operations Research"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.04854</id>
-    <title>The Equity Market Implications of the Retail Investment Boom</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Philippe van der Beck, Cameron Cohen, Coralie Jaunin</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We quantify the equilibrium impact of retail traders on the U.S. equity market within a structural model of asset demand. Estimating investor-specific demand curves, we find that Robinhood traders are fundamentally distinct from all other investors, including other households: their demand is the most elastic and tilts most strongly toward volatile and microcap stocks. Each dollar invested through Robinhood generates more than five dollars in aggregate equity repricing, exceeding hedge funds, other households, and all other investor types. We decompose the cross-sectional variation in stock returns during Robinhood’s growth surge in 2020 into investor-specific components and find that shifts in Robinhood traders’ latent demand drove 11% of small-cap return volatility despite their negligible aggregate wealth share. To explain these demand shifts, we show that Robinhood traders are the only investor group whose latent demand is well explained by attention proxies: their demand exhibits a V-shaped response to past returns and rises sharply with trading volume. Our findings suggest that the growth of retail trading platforms represents a fundamental shift in the composition of equity demand with equilibrium consequences disproportionate to retail investors’ share of aggregate wealth.This paper was accepted by Lukas Schmid, finance.Funding: P. van der Beck acknowledges financial support from the Swiss National Science Foundation.Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.04854 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.04854"/>
-    <category term="Management Science"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.02928</id>
-    <title>Corporate Pension Risk-Taking in a Low Interest Rate Environment</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Vasso Ioannidou, Roberto Pinto, Zexi Wang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We examine how funding deficit pressures shape the risk-taking of U.S. corporate defined-benefit pension plans and how targeted regulatory relief can mitigate these incentives. Using the 2012 Moving Ahead for Progress in the 21st Century Act reform, which temporarily eased funding pressure by revising discount rate calculations, we show that plans receiving greater relief significantly reduced their equity allocations and shifted toward safer assets. This derisking was most pronounced among active plans and those sponsored by more financially constrained firms. Our findings demonstrate that targeted regulatory relief can curb risk-taking incentives even without altering underlying economic conditions or financial reporting standards and shed light on the likely (and unlikely) frictions driving such behavior.This paper was accepted by Bo Becker, finance.Funding: R. Pinto acknowledges financial support from the Lancaster University Management School Pump Prime Program.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02928 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.02928"/>
-    <category term="Management Science"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261487366</id>
-    <title>“The Minimum Wage Is the Maximum Wage”: How Goal Replacement Perpetuates Means–Ends Decoupling</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Satwant Dahiya, Christian Busse</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;This research examines how organizations contribute to the perpetuation of means–ends decoupling (MED) within issue-based fields organized around societal problems, under conditions of heightened field scrutiny. In such settings, organizations often profess commitment to field goals and visibly comply with institutionally prescribed practices to satisfy monitoring, reporting, and public evaluation requirements. However, many adopted goals remain underachieved, raising questions about how compliance without progress endures and how claims of commitment remain credible under transparency regimes intended to spur substantive goal pursuit. Our data came from 75 interviews with 68 brands, suppliers, and third-party organizations pursuing worker well-being in global fashion supply chains. We unveil auditability-based goal replacement as an organizational-level mechanism through which actors rhetorically foreground compliance as public evidence of commitment while narrowing internal goal pursuit to auditable thresholds that serve their core goals, thereby allowing shortfalls to persist. Self-silencing about this substitution and the instrumentalizing of shortfalls close the configuration into a self-reinforcing loop. The study advances MED scholarship by (i) showing how organizations leverage field conditions and appropriate the existing scrutiny infrastructures to advance their core goals while reproducing the means–ends gap, (ii) problematizing the authenticity of commitment claims, and (iii) explaining how goal-ineffective compliance prevails as a credible substitute for adopted goals. It also extends research on organizational responses to institutional complexity and calls for greater attention to institutional impact—that is, the realized advancement of the societal aim an institution emerged to address.</content>
-    <link href="https://doi.org/10.1177/01492063261487366"/>
-    <category term="Journal of Management"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1017/s0022109026103366</id>
-    <title>Synthesizing Information-Driven Insider Trade Signals</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Jens Heckmann, Heiko Jacobs, Patrick Schwarz</name>
-    </author>
-    <content>&lt;b&gt;Journal of Financial and Quantitative Analysis&lt;/b&gt; &lt;br&gt;We propose a novel approach to synthesize presumably information-driven insider trading signals for the cross section of stocks. We find that the resulting straightforward composite strategy can often forecast returns in a global sample. This predictability is strongest in equal-weighted portfolios, short holding periods, and insider-buying signals, and it improves further with global diversification. Cross-country analysis reveals that varying insider trading restrictions between countries have limited explanatory power for the performance of the composite strategy. Overall, the results are consistent with a short-term informational advantage of insiders, which might be due to the skillful interpretation of non-private news.</content>
-    <link href="https://doi.org/10.1017/s0022109026103366"/>
-    <category term="Journal of Financial and Quantitative Analysis"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1002/hrm.70106</id>
-    <title>The Efficiency Trap of Agentic
-                    &lt;scp&gt;AI&lt;/scp&gt;
-                    in Human Resource Management</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <author>
-      <name>Miles M. Yang</name>
-    </author>
-    <content>&lt;b&gt;Human Resource Management&lt;/b&gt; &lt;br&gt;Agentic AI transforms HRM from data‐driven support to autonomous execution. Organizations deploy these recursive workflows to eliminate human implementation variance, yet we challenge the assumption that such alignment remains optimal. Drawing on Weick's theory of loose coupling, we argue that delegating HR execution to agentic AI creates algorithmic tight coupling. While this generates immediate hyper‐fit, the removal of strategic slack leads to structural calcification, compromising organizational resilience during polycrises. Human line managers provide a critical buffer, enabling the sensemaking necessary to absorb systemic shocks. In contrast, agentic AI workflows governed by instrumental rationality lack the value rationality required for complex organizing. We propose a governance framework to reconcile machine‐driven consistency with the human stewardship required to preserve long‐term organizational adaptability.</content>
-    <link href="https://doi.org/10.1002/hrm.70106"/>
-    <category term="Human Resource Management"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1002/sej.70050</id>
     <title>Generative
@@ -2403,6 +2305,42 @@
     <link href="https://doi.org/10.1002/hrm.70110"/>
     <category term="Human Resource Management"/>
     <published>2026-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2022.0205</id>
+    <title>Exploration Optimization for Dynamic Assortment Personalization under Linear Preferences</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Fernando G. Bernstein, Sajad Modaresi, Denis Saure</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We study dynamic assortment personalization, where an online retailer adaptively selects assortments based on customer attributes to learn preferences and maximize revenue. We assume that product utilities depend linearly on customer attributes through an unknown coefficient matrix, leading to an exploration–exploitation trade-off. We identify price-driven and linearity-driven exploration efficiencies, showing that not all products need to be offered to all customer profiles to recover optimal assortments. We establish an instance-dependent regret lower bound characterized by a linear program, which we call the Regret Lower Bound (RLB) problem. Because the RLB has a complex structure and depends non-trivially on unknown parameters, we introduce an alternative formulation, called the Exploration-Optimization problem, that yields an interpretable exploration structure and can be formulated as a tractable mixed-integer linear program. We develop learning policies that select efficient exploration sets by solving either problem and establish a regret upper bound for the Exploration-Optimization policy. Using data from a large Chilean retailer, we demonstrate that our policies substantially outperform Thompson sampling in terms of both regret and computational efficiency, while remaining scalable in practice.</content>
+    <link href="https://doi.org/10.1287/opre.2022.0205"/>
+    <category term="Operations Research"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222437261511019</id>
+    <title>EXPRESS: Slim Shading in Ad Auctions: Adjustment of Bidding Strategies to First-Price Rules</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Robert Zeithammer, Miguel Alcobendas</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing Research&lt;/b&gt; &lt;br&gt;We study how bidders adjusted to a switch from second-price to first-price auction rules on a large online advertising exchange. Under first-price rules, bidders should strategically reduce (“shade”) their bids. To assess whether observed bid reductions were sufficient given the competition each bidder faced, we develop a nonparametric estimator of a lower bound on the valuation underlying each bid. The estimator relies on localized measures of competition and does not require assumptions of bidder symmetry, valuation independence, or equilibrium bidding. Applying the method to more than 40 million auctions involving eight major demand-side platforms, we find pervasive insufficient bid shading after the switch. The implied lower bounds on valuations remain substantially above pre-switch levels for at least three months after the transition, indicating that none of the bidders we study shaded sufficiently. This finding is robust to alternative definitions of local competition, richer conditioning information, and variations in the assumptions underlying the estimator. The results suggest that adjustment to major auction-design changes can be surprisingly slow even among sophisticated algorithmic bidders, with implications for marketplace design and the interpretation of short-run “A/B test” experiments.</content>
+    <link href="https://doi.org/10.1177/00222437261511019"/>
+    <category term="Journal of Marketing Research"/>
+    <published>2026-11-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/00222429261510754</id>
+    <title>EXPRESS: How Gig Sellers Do the Hustle</title>
+    <updated>2026-11-16T00:00:00+00:00</updated>
+    <author>
+      <name>Eileen Fischer, Sandy D. Jap</name>
+    </author>
+    <content>&lt;b&gt;Journal of Marketing&lt;/b&gt; &lt;br&gt;We conceptualize and develop theoretical insights related to a neglected category of market actors: gig sellers. Gig sellers are independent agents who sell products on behalf of a specific brand with marketing support. They face semi-entrepreneurial opportunities, meaning that while they are entirely responsible for managing the customer sales funnel, they do not develop new products or services like conventional entrepreneurs. They are compensated solely by sales commissions and do not receive salaries or benefits like organizational salesreps. Drawing on a large set of qualitative data from effective agents, we inductively and abductively draw inspiration both from literature and our analyses to unpack how these agents seize the opportunity to accomplish what is important to them. We find prominent reliance on effectual versus predictive practices is crucial to satisfactory achievement of outcomes. We expand our understanding of the range of outcomes that gig selling may result in, whether it be to remain in gig sales (enacting long-term loyalty, switching teams, or enriching) or enter alternative opportunity corridors (pursuing entrepreneurship, seeking employment). Our theoretical insights contrast with findings regarding salespeople in institutional settings and other categories of independent agents. Practical implications for agents and organizations are developed.</content>
+    <link href="https://doi.org/10.1177/00222429261510754"/>
+    <category term="Journal of Marketing"/>
+    <published>2026-11-16T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261507274</id>
