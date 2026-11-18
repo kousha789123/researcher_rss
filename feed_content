@@ -2,94 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-17T13:42:34.742489+00:00</updated>
+  <updated>2026-11-18T13:43:29.014126+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
-  <entry>
-    <id>https://doi.org/10.1093/rfs/hhag094</id>
-    <title>Correlated Demand Shocks and Asset Pricing</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Byungwook Kim</name>
-    </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment.</content>
-    <link href="https://doi.org/10.1093/rfs/hhag094"/>
-    <category term="The Review of Financial Studies"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/10591478261505544</id>
-    <title>A learning and searching method for integrated process planning and scheduling</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Hongpei Li, Han Zhang, Ziyan He, Jiaqi Hu, Hongsong Yuan</name>
-    </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;The integrated process planning and scheduling problem combines process route planning and shop scheduling to achieve high efficiency in manufacturing and maximize resource utilization, which is crucial for modern manufacturing systems. Traditional approaches, such as mixed-integer linear programming and heuristic algorithms, often struggle to balance solution quality and computational efficiency, particularly in large-scale scenarios. To address this, we propose learning-then-searching, an efficient framework combining deep reinforcement learning with heuristic search to solve integrated process planning and scheduling problems. We formulate the problem as a Markov decision process and develop a deep reinforcement learning method tailored to capture the complex relationships among operations, machines, and jobs. With the learned policy distributions, Monte Carlo tree search employs learned priors and problem-specific rollouts to further refine scheduling strategies, effectively balancing exploration and exploitation to achieve better solutions. Experimental results show that the proposed framework improves solution efficiency and quality over traditional methods across benchmark and large-scale instances, with pronounced advantages when route ambiguity is high. It also offers practitioners a flexible tradeoff between rapid policy-based decisions and further refinement through tree search when additional computation time is available.</content>
-    <link href="https://doi.org/10.1177/10591478261505544"/>
-    <category term="Production and Operations Management"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2023.02703</id>
-    <title>Robust Auction Design with Support Information</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Jerry Anunrojwong, Santiago R. Balseiro, Omar Besbes</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;A seller wants to sell an item to n buyers. Buyer valuations are independent and identically distributed (i.i.d.) according to a distribution unknown to the seller; the seller only knows that the support is included in [a, b]. To be robust, the seller chooses a dominant strategy incentive compatible mechanism that optimizes the worst-case performance relative to the ideal expected revenue the seller could have collected with knowledge of buyers’ valuations. Our analysis unifies the regret and the ratio objectives. For these objectives, we derive an optimal mechanism and the corresponding performance in quasi-closed form, as a function of the support information [a, b] and the number of buyers n. Our analysis reveals three regimes of support information and a new class of robust mechanisms. (i) When a/b is below a threshold, the optimal mechanism is a second-price auction (SPA) with random reserve, a focal class in earlier literature. (ii) When a/b is above another threshold, SPAs are strictly suboptimal, and an optimal mechanism belongs to a class of mechanisms we introduce, which we call pooling auctions (POOL); whenever the highest value is above a threshold, the mechanism still allocates to the highest bidder, but otherwise the mechanism allocates to a uniformly random buyer, that is, pools low types. (iii) When a/b is between two thresholds, a randomization between SPA and POOL is optimal. We also characterize optimal mechanisms within nested central subclasses of mechanisms: standard mechanisms that only allocate to the highest bidder, SPA with random reserve, and SPA with no reserve. We show strict separations in terms of performance across classes, implying that deviating from standard mechanisms is necessary for robustness. Lastly, we show that the same results hold under other distribution classes that capture “positive dependence,” namely i.i.d., mixture of i.i.d., and exchangeable and affiliated distributions, as well as i.i.d. regular distributions.This paper was accepted by David Simchi-Levi, revenue management and market analytics.Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02703 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2023.02703"/>
-    <category term="Management Science"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.00714</id>
-    <title>From Employer Responsibility to Environmental Irresponsibility: Unintended Impacts of Social Insurance Law on Pollution Emissions</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Yanan Li, Yu Qin, Wenjun Wang</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This study investigates the unintended effect of the introduction of the 2011 Social Insurance Law on corporate pollution emissions. Using a difference-in-differences framework, our analysis reveals that enhanced social insurance contributions lead to higher industrial pollution emissions, as measured by chemical oxygen demand and wastewater emissions. The mechanism analysis indicates that the enforcement of the law increases firms’ labor costs and financial distress, motivating them to reduce efforts on end-of-pipe treatment activities and measures taken during the production process, which results in higher pollution emission intensity. Our study highlights the potential conflict between employee protection and corporate environmental goals. Further analysis suggests that stronger environmental monitoring and environmental, social, and governance disclosure requirements can partially mitigate this tradeoff, providing valuable insights for policymakers.This paper was accepted by Caroline Flammer, sustainability.Funding: Y. Li acknowledges research support from the National Natural Science Foundation of China [Grant 72403026]. Y. Qin acknowledges research support from the National Natural Science Foundation of China [Grant 72342031].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00714 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.00714"/>
-    <category term="Management Science"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/mnsc.2025.03608</id>
-    <title>Estimating the Pricing Kernel: A Simple Regression-Based Dimension-Reduction Approach</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Bin Luo, Guofu Zhou, Ti Zhou</name>
-    </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We propose a simple framework for estimating the pricing kernel in factor space by constructing the mean–variance efficient factor portfolio via an ordinary least squares formulation with least absolute shrinkage and selection operator regularization. The method accommodates high-dimensional settings in which the number of candidate factors exceeds the sample size and automatically shrinks redundant factor weights toward zero. We show theoretically that the out-of-sample Sharpe ratio of the estimated portfolio converges to the theoretical maximum at the fastest rate among existing regression-based approaches. Applying the method to 174 characteristic-based factors together with the market factor, we obtain an out-of-sample Sharpe ratio of 3.59, substantially outperforming competing strategies and delivering the smallest aggregate pricing errors. The selected factors vary over time in both composition and number, averaging about 50. We further develop a model comparison test and reject the hypothesis that eight widely used sparse factor models are sufficient to span the pricing kernel.This paper was accepted by Kay Giesecke, finance.Funding: This work was supported by the National Natural Science Foundation of China [Grants 72671091, 72371079, and 72501192, and Key Program 72432005] and the Science and Technology Planning Project of Guangdong Province [Grant 2023B1515020045].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03608 .</content>
-    <link href="https://doi.org/10.1287/mnsc.2025.03608"/>
-    <category term="Management Science"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1177/01492063261479303</id>
-    <title>Winning at Defense by Playing Offense: Discrediting by Target Firms in Activist Hedge Fund Campaigns</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Matthias Brauer, Marc J. Mertens, Louis Vandepoele</name>
-    </author>
-    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;Prior research highlights the far-reaching strategic and governance consequences for firms targeted in activist hedge fund (AHF) campaigns. Yet, how target firm executives and directors can effectively defend against these campaigns remains underexplored. Drawing on impression management (IM) theory, we reason that executives and directors use discrediting in their public rebuttal letters to negatively influence shareholders’ evaluations of AHFs’ reputation. To nuance this prediction, we develop a taxonomy distinguishing between source-focused discrediting, which directly attacks AHFs’ reputation, and message-focused discrediting, which challenges the validity of AHFs’ claims to indirectly tarnish their reputation. We theorize that both discrediting subtypes enhance target firms’ defense success, particularly when deployed in combination. Adopting a temporal perspective on IM theory, we further argue that the effectiveness of discrediting diminishes as more time elapses between an AHF’s public attack and executives and directors’ rebuttal. A manual content analysis of 841 rebuttal letters issued during U.S. AHF campaigns (2000–2023) provides robust support for these predictions. Beyond contributing to shareholder activism research by offering new insights into the determinants of campaign outcomes, our study advances IM theory by conceptualizing discrediting as a multidimensional influence tactic and exploring its effectiveness and temporal dynamics in adversarial contexts.</content>
-    <link href="https://doi.org/10.1177/01492063261479303"/>
-    <category term="Journal of Management"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://doi.org/10.1287/isre.2024.1330</id>
-    <title>Enhancing AI Use: How Complementary System Information Drives Delegation Frequency and Effectiveness</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <author>
-      <name>Anna Taudien, Andreas Fügener, Alok Gupta, Wolfgang Ketter</name>
-    </author>
-    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Organizations increasingly deploy AI that works alongside employees rather than replacing them. In settings such as visual inspection, content moderation, or applicant screening, employees decide task by task whether to do the work themselves or delegate it to AI, yet they often delegate suboptimally, leaving much of the promised benefit of AI unrealized. Our research yields a design recommendation for AI systems: tell users how certain the AI is before a decision and whether its decisions turn out to be correct afterwards. Each type of information alone had no positive effect, and sometimes even reduced effective delegation. Combined, however, they increased delegation and helped users direct AI to the tasks where it had a performance advantage. The combination led to human-AI teams outperforming both AI alone and humans alone, showing that humans still add value when AI enters decision making. This matters for organizations where employees retain decision rights for the use of AI.</content>
-    <link href="https://doi.org/10.1287/isre.2024.1330"/>
-    <category term="Information Systems Research"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261505540</id>
     <title>Coevolution of trader similarity networks and follower dynamics in social trading</title>
@@ -2281,6 +2197,223 @@
     <published>2026-11-16T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1002/smj.70144</id>
+    <title>Should birds of a feather flock together: How public criticism shapes pressures for sustainability conformity and differentiation</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Nareuporn (Bell) Piyasinchai, Matthew Grimes</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;While firms face pressure to engage in Environmental, Social, and Governance (ESG) practices, it is unclear how they should specifically engage given the breadth of sustainability‐related concerns. Drawing on optimal distinctiveness and social evaluations research, we argue that public criticism directed toward an industry creates oscillating pressures for firms to conform with or deviate from industry ESG norms. Using data on 8176 global companies from 2013 to 2022, we find that although ESG conformity benefits investor evaluations, once industry peers' public criticism accumulates beyond a threshold, ESG differentiation is rewarded, particularly when firms increase material ESG practices and reduce immaterial ones. Our study reveals how public criticism dynamically reshapes the evaluative processes by which investors determine firm legitimacy, bridging optimal distinctiveness and social evaluations literatures.Managerial SummaryOur research indicates that firms often adopt similar ESG practices as their industry peers, which usually enhances investor evaluations. However, this conformity can backfire and become a liability when industry peers face significant criticism. In such scenarios, firms that adopt distinctive ESG practices compared to the industry tend to receive greater rewards, especially when differentiation involves increasing material ESG practices and reducing immaterial ones. Therefore, while adopting ESG norms can be beneficial, managers should be vigilant of public opinion and ready to deviate from those norms when necessary.</content>
+    <link href="https://doi.org/10.1002/smj.70144"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/smj.70143</id>
+    <title>Silent female representation and tech entrepreneurial project evaluation: The role of evaluators' genders</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Yan “Anthea” Zhang, Lun Li, Jizhen Li, Xiwei Yi</name>
+    </author>
+    <content>&lt;b&gt;Strategic Management Journal&lt;/b&gt; &lt;br&gt;We examine how the nature of female representation in tech entrepreneurial projects may be related to the evaluations of the projects. We argue thatsilent female representation—i.e., women are present but do not speak in representing projects—may reinforce the stereotyped view of women, resulting in lower project evaluations relative to male‐only projects, whereas active female representation may not lead to evaluation penalty. We further predict that the negative association between silent female representation and project evaluation is stronger when the evaluators are women than when they are men. Conducted in a unique setting wherein female and male evaluators on panels, independently and confidentially, rated funding applications represented by various mixes of male and female entrepreneurs, our study provides evidence that is consistent with these predictions.Managerial SummaryIt is widely recognized that female entrepreneurs face greater challenges than their male counterparts when seeking external financial resources in the tech sector. This funding disparity may start from evaluation disparity. We find that projects with silent female representation—i.e., women are present but do not speak—receive lower evaluations than male‐only projects, whereas projects with active female representation receive evaluations comparable to male‐only projects. We also find that female evaluators are more likely than male evaluators to penalize projects with silent female representation. Our research offers valuable insights into strategies for fostering gender equality in traditionally male‐dominated fields.</content>
+    <link href="https://doi.org/10.1002/smj.70143"/>
+    <category term="Strategic Management Journal"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1002/sej.70066</id>
+    <title>The entrepreneur as ecosystem architect: Economic foundations for strategic entrepreneurship in the age of
+                    &lt;scp&gt;AI&lt;/scp&gt;</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>David J. Teece</name>
+    </author>
+    <content>&lt;b&gt;Strategic Entrepreneurship Journal&lt;/b&gt; &lt;br&gt;This paper develops an alternative foundation for understanding strategic entrepreneurship in the age of artificial intelligence (AI) by joining entrepreneurship research with the profiting from innovation model and the dynamic capabilities framework. It argues that the economic function of the entrepreneur is increasingly that of an ecosystem architect, exercising judgment under uncertainty to orchestrate complementary assets and capabilities across organizational boundaries. AI dramatically lowers the cost of building software thereby lowering product development costs but may raise the barriers to scaling and sustaining competitive advantage. Value capture depends not simply on innovation, but on a compelling value proposition and access to and control over critical complementary assets, architectural control points, and shifting ecosystem bottlenecks. The paper emphasizes that entrepreneurial success requires dynamic capabilities and human judgment to configure and reconfigure ecosystems as technologies and competitive conditions evolve.Managerial SummaryAI makes it easier to start a business as it lowers the cost of software development; but building a durable competitive advantage still requires more than a good product or technology. It requires a compelling value proposition to the customer and participation in ecosystems first as tenant and later as anchor. Accordingly, entrepreneurs need to become sophisticated ecosystem players and aspire to be architects, coordinating partners, platforms, data, technology, capital, and other capabilities they may not own. They should identify early which complementary assets are critical to creating and capturing value, understand where control and bottlenecks lie in their ecosystem, and continually reassess these as technology and competition change. AI can help small teams move faster and operate at greater scale, but it does not replace human judgment. Successful entrepreneurs must combine AI with strong ecosystem relationships, domain expertise, governance, and the ability to adapt as their businesses scale.</content>
+    <link href="https://doi.org/10.1002/sej.70066"/>
+    <category term="Strategic Entrepreneurship Journal"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdag122</id>
+    <title>Meritocracy and Homophily in Collegial Organizations</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Paul-Henri Moisson, Jean Tirole</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;In collegial organizations, homophily jeopardizes the recruitment of the most talented (“meritocracy”). We analyze the dynamics and welfare properties of an organization whose incumbent members coopt new ones in a forward-looking manner. We identify organizations in which meritocracy is likely to give way to favoritism and entrenchment, and investigate policy interventions (such as affirmative action, quality-based or diversity-based funding, discretionary overruling of majority decisions, blind hiring processes) and their unintended consequences.</content>
+    <link href="https://doi.org/10.1093/restud/rdag122"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/qje/qjag059</id>
+    <title>Earnings Instability</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Ganong, Pascal Noel, Christina Patterson, Joseph Vavra, Alexander Weinberg</name>
+    </author>
+    <content>&lt;b&gt;The Quarterly Journal of Economics&lt;/b&gt; &lt;br&gt;This paper uses high-frequency administrative data to show that most U.S. workers experience substantial month-to-month fluctuations in pay, even within ongoing employment relationships. Monthly earnings instability is pervasive but is masked in annual data. Moreover, this instability is unequally distributed: lower-income, hourly workers face more instability than higher-income, salaried workers. Firm-driven fluctuations in hours account for a large share of this instability. Monthly earnings instability, in turn, increases spending volatility and job separations. Short-term earnings risk is therefore a significant feature of the labor market and falls disproportionately on the most financially fragile workers.</content>
+    <link href="https://doi.org/10.1093/qje/qjag059"/>
+    <category term="The Quarterly Journal of Economics"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06826</id>
+    <title>The Asymmetry in Responsible Investing Preferences and Beliefs</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Jacquelyn Humphrey, Shimon Kogan, Jacob S. Sagi, Laura T. Starks</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Empirical stylized facts in the literature concerning “sin” versus “angel” stocks display marked asymmetries in investor behavior. Through a set of experiments, we examine whether such biases can be micro-founded via individuals’ preferences and belief formations. With respect to portfolio allocation decisions, we find that the responses to negative environmental and social externalities are several times larger in magnitude than their responses to comparable positive externalities, ceteris paribus. Negative externalities also modestly increase pessimism about future investment performance, whereas positive externalities have little discernible effect on beliefs. This asymmetry is pervasive across our sample, exhibits heterogeneity across individuals, and is comparable to or greater in magnitude than estimates observed in loss aversion analyses. These findings help rationalize several existing stylized empirical facts documented in the responsible investing literature and carry implications for the growing body of theoretical work modeling the role of nonpecuniary investor preferences in asset pricing.This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06826 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06826"/>
+    <category term="Management Science"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.07308</id>
+    <title>Connectors and Influencers</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Frédéric Moisan, Syngjoo Choi, Sanjeev Goyal</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We study a setting in which personal acquisition of information is costly and maintaining personal contacts to share information socially is also costly. The theory predicts star networks, with small groups sustaining an active hub and large groups allowing in addition for an inactive hub equilibrium. Experiments with small (8 subjects) and large (50 subjects) groups show star-like networks throughout. In small groups, behavior matches the active hub prediction. In large groups, hubs are inactive or engage in activity far in excess of the active hub equilibrium depending on how much information subjects are given on their own and others’ earnings. The hub’s activity level shapes relative earnings of subjects and the overall performance of the group.This paper was accepted by Roberto Weber, behavioral economics and decision analysis.Funding: This work was supported by H2020 Future and Emerging Technologies [IBSEN Contract 662725]; the Keynes Fund, University of Cambridge; and the Creative-Pioneering Researchers Program, Seoul National University. S. Goyal acknowledges financial support from the Center of Behavioural Institutional Design and Tamkeen [New York University Abu Dhabi Research Institute Award CG005].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07308 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.07308"/>
+    <category term="Management Science"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2023.00747</id>
+    <title>Human Performance at Solving 0-1 Knapsack Problems: Results from a Large-Scale Field Experiment</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Sumit Agarwal, Joel Goh, Wenlan Qian, Xin Zou</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The 0-1 knapsack problem is a fundamental problem of discrete choice that permeates many diverse fields and applications, but relatively little is known about what instances human solvers find more difficult than others. This paper reports the results of the first large-scale randomized controlled field experiment investigating this question, conducted in partnership with a global mobile gaming platform. A total of 100,000 different knapsack instances were predesigned for this study and randomly assigned to each player attempt at the knapsack problem. For our base-case analysis, there were 17,950,838 distinct player accounts who made a total of 150,284,195 submitted solution attempts. Contrary to expectations, players performed better on problems that were rated as more difficult by two traditional measures of knapsack difficulty (the Pearson correlation between value and weight vectors and Sahni complexity), but performed worse on problem instances that featured large optimality gaps from a suite of heuristic solution algorithms. These suggest that optimality gaps can serve as promising measures of human-perceived knapsack difficulty and potentially could be used to measure human-perceived problem difficulty for other types of discrete choice problems. We found evidence that players improved their performance with repeated attempts at the knapsack task overall, but less-experienced players of the mobile game improved more quickly than more-experienced players. Through the construction of a new measure of human-perceived difficulty rating for each knapsack instance, we found evidence that players who were assigned to instances with a higher difficulty rating in the past tended to perform better on future attempts.This paper was accepted by Manel Baucells, behavioral economics and decision analysis.Funding: S. Agarwal’s research is supported by the Ministry of Education, Singapore, under its Social Science and Humanities Research Thematic [Grant SSRC2024-SSHRTG-022] and the National Natural Science Foundation of China [Grant 72495154]. J. Goh’s research is supported by a Startup [Grant R-314-000-110-133] and a 2021 Humanities and Social Sciences Faculty Research Fellowship from the National University of Singapore.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00747 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2023.00747"/>
+    <category term="Management Science"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01479</id>
+    <title>Does Feedback Enhance Diversity in Selection Decisions?</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Jose A. Cervantez, Sophia L. Pink, Linda W. Chang, Aneesh Rai, Katherine L. Milkman</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;Some organizations provide employees with feedback on the demographics of people they have chosen to spotlight, hire, and promote, hoping to spur more diverse future selections. However, it is an open question whether purely descriptive feedback accomplishes this. We theorize and show that descriptive feedback highlighting low past selection rates of women or racial minorities (e.g., “5% of previous experts interviewed were women”) triggers a motivation to respond without prejudice, increasing the subsequent selection of members of underrepresented groups. Conversely, providing descriptive feedback about low selection rates of people with other attributes (e.g., areas of expertise, geographical location) that do not evoke image or reputational concerns has less influence on future decisions. We demonstrate these patterns across seven preregistered experiments (total n = 6,502), including one framed field experiment (Study 2). One study identifies motivation to respond without prejudice as a mediator of the effect of descriptive feedback about past choices on future selections of women and racial minorities. Another study shows that when women are overrepresented, the effect of descriptive feedback reverses in direction, increasing the subsequent selection of men (due to concerns about fairness), but this effect is significantly smaller in magnitude than the feedback effect produced when women are underrepresented. Practically, the effects of descriptive feedback were 45%–80% as large as simulating a strict quota requiring that at least one woman or racial minority be selected for a given opportunity, highlighting that descriptive feedback is a light-touch but potentially powerful intervention for promoting diversity.This paper was accepted by George Wu, behavioral economics and decision analysis.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01479 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01479"/>
+    <category term="Management Science"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2024.06801</id>
+    <title>Corporate Contributions to Ballot Measure Campaigns: Real Effects and Valuation</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Rüdiger Fahlenbrach, Alexei Ovtchinnikov, Philip Valta</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;We analyze novel data on corporate contributions to ballot initiatives at the U.S. state level. Firms make large contributions to ballot measure campaigns in favor of or against specific initiatives. They contribute significantly more to business initiatives compared with ideological initiatives. Corporate campaign spending is systematically associated with the likelihood that a ballot measure passes. Contributing firms experience changes in sales growth following the passage of important ballot measures. Following successful (failed) initiatives, all firms in affected industries exhibit significantly more positive (negative) cumulative abnormal returns around the election, but contributing firms do more so than peers.This paper was accepted by Bo Becker, finance.Funding: R. Fahlenbrach gratefully acknowledges financial support from the Swiss Finance Institute.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06801 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2024.06801"/>
+    <category term="Management Science"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/mnsc.2025.01487</id>
+    <title>Opinion Trumps Fact: Entry and Competition in Online Political News</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Aaron Chatterji, Sharique Hasan, William D. Miles, Dror Shvadron</name>
+    </author>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;This paper examines how new entrants influenced content strategies in the U.S. online political news business from 2014 to 2021. Using a novel measure of article opinionation that captures the extent to which an article displays editorializing and persuasive language, we provide correlational evidence that new entrants produce articles that are more opinionated than those of incumbents, even when reporting on the same event. We then show that there is an economic rationale for this content strategy: opinionated articles receive more engagement on Twitter, and this engagement translates to increased webpage visits, crucial for advertising revenue. Consistent with these incentives, we provide evidence that news providers increase the average opinion level in their articles in response to competition and advertiser pressure. These shifts are accompanied by a possibly unintended consequence: opinionated content is associated with greater anger and hate speech in social media engagement.This paper was accepted by Alfonso Gambardella, business strategy.Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01487 .</content>
+    <link href="https://doi.org/10.1287/mnsc.2025.01487"/>
+    <category term="Management Science"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70194</id>
+    <title>May I Have Your Attention, Please? Debating the Ontology of Attention in Organizational Research</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Paolo Aversa, Christopher Wickert</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;Few constructs in management research have proved as generative as organizational attention, and few have been left so largely unexamined at their core. ThisPoint‐Counterpointdebate brings a dormant question into the open:what exactly is attention?ThePointargues for an ontological reorientation of the Attention‐Based View from attention quantity to attention quality, reconceptualizing attention as a set of sociomaterial practices of attending that are crescive and differentiated rather than limited and homogeneous. OneCounterpointdefends the ontological integrity of attention as scarce, selective, and situated, warning that a crescive ontology dissolves the very constraint from which attention derives its explanatory power. The otherCounterpointcharts an expansive third way, tracing the contested assumptions to Herbert Simon's legacy and proposing to broaden the Attention‐Based View towards competition, thicker situations, and possible attentional abundance. In this introduction to the debate, we present the three positions and reflect on what their disagreement teaches us about ontological disputes in management theory more generally. We distil three tests – of phenomena, of explanation, and of genealogy – that scholars can apply when deciding whether a construct's ontology deserves revision, defence, or expansion.</content>
+    <link href="https://doi.org/10.1111/joms.70194"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1111/joms.70174</id>
+    <title>Place Matters: A Dynamic Multilevel Perspective on Stigma Management in French Elderly Care</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Claire Le Breton, Frédéric Bally, Albane Grandazzi, Hélène Picard</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management Studies&lt;/b&gt; &lt;br&gt;This article interrogates how ‘place’ contributes to managing stigma and its associated multilevel processes. In doing so, it addresses a literature that often treats stigma as a static attribute, overlooking the spatial and material dynamics of managing it. Drawing on a 2.5‐year case study of Help@hom, a French national initiative aimed at restructuring elderly care, we examine how spatial and material arrangements actively shape stigma management processes. We identify three interrelated mechanisms –expanding,enclosing, andfragmenting– through which Help@hom reconfigures the meanings, locations, and materialities of care. Building on these mechanisms, we theorize place as producing, sustaining, and distributing the dynamics of stigma management: place produces stigma management strategies rather than merely providing their setting, sustains stigma by relocating rather than dissolving it, and distributes it across organizational, occupational, and individual levels. Our study demonstrates that place is constitutive of stigma management, shaping how organizations enact and experience multilevel stigma processes, and that spatial and material interventions can produce unexpected cross‐level consequences. In doing so, it advances recent efforts to conceptualize stigma as relational, dynamic, and systemic, and offers a more integrated understanding of how organizations navigate complex stigma management landscapes.</content>
+    <link href="https://doi.org/10.1111/joms.70174"/>
+    <category term="Journal of Management Studies"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.2332</id>
+    <title>Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <author>
+      <name>Minghong Yuan, Wen Wen, Indranil Bardhan</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Given the significant investments by private equity (PE) firms in healthcare, it is increasingly important for stakeholders, including policymakers, care providers, and patients, to understand how PE ownership affects healthcare value, defined as the quality of care delivered relative to clinical resources used. Using longitudinal data on U.S. hospitals from 2008 to 2020, we find that PE ownership reduces healthcare value. Reductions in clinical staffing following PE acquisition partly explain this pattern: lower staffing reduces operating costs but also weakens hospitals’ capacity to maintain care quality. However, hospitals with stronger health information sharing capabilities experience substantially smaller declines in healthcare value, as these capabilities support cost reduction while mitigating care quality deterioration. Our findings offer actionable insights for healthcare stakeholders including identifying the underlying mechanisms that explain the impact of health information sharing on care value. Policymakers should evaluate PE acquisitions using a comprehensive, value-based framework which measures both care quality and costs. Hospital administrators should prioritize IT investments that strengthen information sharing across providers, whereas policymakers should promote common health data interoperability standards. Together, these efforts can help PE-owned hospitals preserve care quality under financial pressure and better align PE firms’ financial objectives with the goals of value-based care.</content>
+    <link href="https://doi.org/10.1287/isre.2025.2332"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1093/restud/rdag125</id>
+    <title>From Design to Disclosure</title>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <author>
+      <name>S Nageeb Ali, Andreas Kleiner, Kun Zhang</name>
+    </author>
+    <content>&lt;b&gt;Review of Economic Studies&lt;/b&gt; &lt;br&gt;We study the role of hard information in contractual and market settings in which the receiver can flexibly adjust allocations and transfers in response to the sender's disclosure. These settings include monopoly pricing, insurance contracting, and policy negotiations. Across these settings, the sender is worst off if she reveals her type completely because the receiver would then adjust the terms of trade to extract her surplus. Taking this feature as our central departure from the literature, we characterize the entire set of equilibrium payoffs in these disclosure games. We prove an equivalence result: a payoff profile can be approximated by an equilibrium of the disclosure game if and only if it can be achieved through information design. Thus, there exist equilibria in which the sender obtains approximately her commitment payoff.</content>
+    <link href="https://doi.org/10.1093/restud/rdag125"/>
+    <category term="Review of Economic Studies"/>
+    <published>2026-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/orsc.2023.18274</id>
+    <title>Influence Without Authority: Bottom-Up Normalization of Organizational Corruption</title>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <author>
+      <name>Patricia Helena Hein, Shahzad (Shaz) Ansari</name>
+    </author>
+    <content>&lt;b&gt;Organization Science&lt;/b&gt; &lt;br&gt;Research on organizational corruption has largely portrayed normalization as a top-down, management-driven process. We know less about how employees with limited formal authority can escalate wrongdoing beyond isolated acts and drive its normalization. Drawing on a qualitative study of a German recruitment firm’s practices during the COVID-19 pandemic, we develop a three-phase model of bottom-up normalization of organizational wrongdoing. Less powerful actors first engage in tolerated rule-bending to demonstrate competence and indispensability and build influence through informal networks. When disruption threatens this influence and legitimate alternatives are unavailable, they may escalate to more serious wrongdoing to safeguard their standing by framing new opportunities as extensions of familiar rule-bending. Normalization then depends on their ability to sustain a cohesive coalition, secure support from actors with formal authority, and contain resistance. We make three contributions. First, we advance a relational view of corruption by showing how central positions in informal networks enable actors lacking formal authority to mobilize support across hierarchical levels and normalize wrongdoing. Second, we show how organizational corruption can become a means of building and preserving social influence, fostering a sense of accomplishment rather than guilt or shame. Third, we identify a disruption-driven pathway to normalization in which threats to less powerful actors’ social influence precipitate abrupt escalation from tolerated rule-bending to more serious wrongdoing.</content>
+    <link href="https://doi.org/10.1287/orsc.2023.18274"/>
+    <category term="Organization Science"/>
+    <published>2026-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1510</id>
+    <title>Online Review Generation in the Digital Age: A Meta-Analytic Study of Online Review Behavior</title>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <author>
+      <name>Hong Hong, DaPeng Xu, Xiaoquan (Michael) Zhang</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;A large body of literature on online review generation has investigated various antecedents to online review characteristics. However, the mixed and even contradictory findings in this domain have hampered a clear understanding of consumers’ online review behavior for both researchers and practitioners, thereby complicating actionable strategies. To address this issue, we conduct a comprehensive meta-analysis of 154 independent samples from 152 empirical papers, synthesizing the relationships between 28 antecedent factors and 12 review features, which we categorize into rating-based (evaluative) and non-rating (expressive) dimensions. Our results indicate that rating attributes are dominantly driven by stable reviewer tendencies and market-level reputation cues, whereas non-rating features—such as text length and image inclusion—are primarily influenced by reviewer social embeddedness and platform engagement. Crucially, we identify that inconsistencies in prior literature can be explained by critical boundary conditions, including platform type (business-hosted vs. third-party), goods type (service vs. tangible), and cultural background (Asia vs. North America). By distinguishing between evaluative and expressive review components, our study reconciles mixed findings and uncovers underlying mechanisms such as expectation-based evaluation and self-presentation. The findings provide a robust theoretical foundation for empirical model specification and offer actionable insights for retailers and platforms to optimize reputation management and system design. Ultimately, our work offers a holistic framework for understanding online review behavior and proposes a rich agenda for future research in the digital marketplace.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1510"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2022.0466</id>
+    <title>Decision Considerations Influencing Information Systems Modularity: A Multimethod Study of LEGO</title>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <author>
+      <name>Stefan Henningsson, Ben Eaton, Lorenz Törmer, Suprateek Sarker</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;. The maturing of concepts such as microservices and open application programming interfaces (APIs) has radically increased the practicality of fine-grained modularization in Information Systems (IS) architecture. These are critical technical advancements, given the central role of modularity in the ability of IS to transform and meet future organizational needs efficiently. Nevertheless, reports from practice suggest that, when presented with new opportunities for modularization, organizations face multifaceted decision criteria and do not necessarily embrace new approaches as may be expected. While emergent IS literature observes that organizations’ decisions on modularity in IS may involve competing concerns, understanding of the considerations involved and how they influence such decisions remains limited. To examine these considerations, we intensively study the experience of LEGO, a global toy company. Specifically, we sequentially apply multiple methods consisting of an exploratory inductive analysis of LEGO’s approach to IS modularity decisions over 36 months, which then informs a crisp-set qualitative comparative analysis (QCA) of 31 episodes of LEGO’s situated decision-making on IS modularity. Through the analysis, we find the rationale for a purposeful choice between two forms of modularity that differ in granularity of decomposition, rather than a linear pursuit of maximizing decomposability in IS architecture. We bring to the fore a perspective of IS modularity as situated decisions reconciling competing demands in pursuit of the right type of modularity, in the right place to achieve the right effect. Our findings add nuance to modularity in the context of IS architecture and explain the complex causality of IS modularity decisions.</content>
+    <link href="https://doi.org/10.1287/isre.2022.0466"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/10591478261507274</id>
     <title>Partial or full doses first? Vaccine allocation under limited supply</title>
     <updated>2026-11-02T00:00:00+00:00</updated>
@@ -2294,7 +2427,7 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261507272</id>
-    <title>EXPRESS: Optimizing Size-Based Bundle Promotions: Balancing Customer Appeal and Product Costs</title>
+    <title>Optimizing size-based bundle promotions: Balancing customer appeal and product costs</title>
     <updated>2026-11-02T00:00:00+00:00</updated>
     <author>
       <name>Ruijiu Mao, Shuai Jia, Chung-Piaw Teo</name>
@@ -2443,7 +2576,7 @@
     <author>
       <name>Ricardo Delao, Xiao Han, Sean Myers</name>
     </author>
-    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We decompose cross-sectional differences in the level of price-earnings ratios using professional forecasts. High price-earnings ratios are accounted for by both low expected returns and overly high expected earnings growth. The magnitudes and timing of the comovements between prices, earnings growth, and returns are consistent with gradual learning rather than expectations being highly sensitive to recent realizations. Earnings growth surprises do not translate 1-1 into one-period returns but instead are gradually reflected in returns over time. A structural risk-premium model incorporating constant-gain learning about mean earnings growth replicates our findings and generates realistic dispersion and persistence in price-earnings ratios. (JEL G11, G12, G14, G40)</content>
+    <content>&lt;b&gt;The Review of Financial Studies&lt;/b&gt; &lt;br&gt;We decompose cross-sectional differences in the level of price-earnings ratios using professional forecasts. High price-earnings ratios are accounted for by both low expected returns and overly high expected earnings growth. The magnitudes and timing of the comovements between prices, earnings growth, and returns are consistent with gradual learning rather than expectations being highly sensitive to recent realizations. Earnings growth surprises do not translate 1-1 into one-period returns but instead are gradually reflected in returns over time. A structural risk-premium model incorporating constant-gain learning about mean earnings growth replicates our findings and generates realistic dispersion and persistence in price-earnings ratios.</content>
     <link href="https://doi.org/10.1093/rfs/hhag095"/>
     <category term="The Review of Financial Studies"/>
     <published>2026-11-03T00:00:00+00:00</published>
