@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>daily reading</id>
   <title>Academic Publications</title>
-  <updated>2026-11-20T13:42:14.281380+00:00</updated>
+  <updated>2026-11-21T13:42:14.238991+00:00</updated>
   <link href="https://raw.githubusercontent.com/kousha789123/researcher_rss/refs/heads/main/feed_content" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from business, accounting, finance, and economics journals.</subtitle>
@@ -1184,12 +1184,12 @@
   </entry>
   <entry>
     <id>https://doi.org/10.1177/10591478261508621</id>
-    <title>EXPRESS: The Implications of Generic Responses in Online Customer Service Operations</title>
+    <title>The implications of generic responses in online customer service operations</title>
     <updated>2026-11-11T00:00:00+00:00</updated>
     <author>
       <name>Jitsama Tanlamai, Wreetabrata Kar, Warut Khern-am-nuai, Yossiri Adulyasak</name>
     </author>
-    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Businesses use a range of strategies to manage online customer service, with social media serving as a popular platform. A growing practice in social-media customer service is the use of generic responses to address customer inquiries. Our study investigates the impact of these generic responses on customer engagement and satisfaction. We analyze social media data from one of the largest banks in the United States and apply machine-learning techniques to extract relevant information from textual data. We leverage a quasi-experimental setting in which a generic response to a customer’s inquiry serves as the treatment. We find that generic responses increase the likelihood that customers reply to the bank. Among customers who reply, generic responses are associated with lower satisfaction. However, our further analyses show that under certain conditions, strategic use of generic responses is associated with higher customer satisfaction. Our findings provide guidance to operation managers regarding how generic responses can be tailored and used to improve online customer service operations.</content>
+    <content>&lt;b&gt;Production and Operations Management&lt;/b&gt; &lt;br&gt;Businesses use a range of strategies to manage online customer service, with social media serving as a popular platform. A growing practice in social-media customer service is the use of generic responses to address customer inquiries. Our study investigates the impact of these generic responses on customer engagement and satisfaction. We analyze social media data from one of the largest banks in the United States and apply machine-learning techniques to extract relevant information from textual data. We leverage a quasi-experimental setting in which a generic response to a customer's inquiry serves as the treatment. We find that generic responses increase the likelihood that customers reply to the bank. Among customers who reply, generic responses are associated with lower satisfaction. However, our further analyses show that under certain conditions, strategic use of generic responses is associated with higher customer satisfaction. Our findings provide guidance to operation managers regarding how generic responses can be tailored and used to improve online customer service operations.</content>
     <link href="https://doi.org/10.1177/10591478261508621"/>
     <category term="Production and Operations Management"/>
     <published>2026-11-11T00:00:00+00:00</published>
@@ -1754,7 +1754,7 @@
     <author>
       <name>Ming Hu, Chaoyu Zhang</name>
     </author>
-    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The (post)pandemic period was marked by numerous port disruptions, leading to delays and rising costs for shippers. We build a fluid model in transient states to investigate how a disruption at one port can affect the disrupted port and its counterpart in another country in a circulatory container shipping system, where a stream of fleets moves goods back and forth between the two ports. Port disruption leads to two types of congestion: the inbound backlogs, which occur when ships are unable to enter the port, and the outbound backlogs, which arise when goods are unable to be loaded onto ships for transport to other ports. We analytically characterize the system’s recovery time, measured from the onset of the port closure until normal operations are restored, and the dynamics of inbound and outbound backlogs during recovery. We identify a whiplash effect in which outbound backlogs alternate between ports, creating oscillatory congestion patterns because of the disruption-induced uneven spatial distribution of ships. Our analysis reveals that simply increasing ship capacity may not expedite system recovery, highlighting the importance of coordination between port authorities and shipping companies when jointly planning capacity expansions. Furthermore, we examine several extensions of the model. We use the two-port system as a building block to analyze bipartite and cyclic network structures, and we also consider scenarios in which a port experiences multiple disruptions. In all cases, the whiplash effect persists, thereby demonstrating the robustness of our findings. Finally, we use our theory model prediction as a feature and apply machine learning techniques to predict the time that vessels spend in Shanghai Port after a typhoon disruption and show that using our model predictor, alongside all relevant vessel and voyage attributes as raw features, significantly reduces prediction errors by 10%–30% on average compared with not using it.This paper was accepted by Elena Katok, operations management.Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2021-04295].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05427 .</content>
+    <content>&lt;b&gt;Management Science&lt;/b&gt; &lt;br&gt;The (post)pandemic period was marked by numerous port disruptions, leading to delays and rising costs for shippers. We build a fluid model in transient states to investigate how a disruption at one port can affect the disrupted port and its counterpart in another country in a circulatory container shipping system, where a stream of fleets moves goods back and forth between the two ports. Port disruption leads to two types of congestion: the inbound backlogs, which occur when ships are unable to enter the port, and the outbound backlogs, which arise when goods are unable to be loaded onto ships for transport to other ports. We analytically characterize the system’s recovery time, measured from the onset of the port closure until normal operations are restored, and the dynamics of inbound and outbound backlogs during recovery. We identify a whiplash effect in which outbound backlogs alternate between ports, creating oscillatory congestion patterns because of the disruption-induced uneven spatial distribution of ships. Our analysis reveals that simply increasing ship capacity may not expedite system recovery, highlighting the importance of coordination between port authorities and shipping companies when jointly planning capacity expansions. Furthermore, we examine several extensions of the model. We use the two-port system as a building block to analyze bipartite and cyclic network structures, and we also consider scenarios in which a port experiences multiple disruptions. In all cases, the whiplash effect persists, thereby demonstrating the robustness of our findings. Finally, we use the prediction from our theoretical model as a feature and apply machine learning techniques to predict the time that vessels spend in Shanghai Port after a typhoon disruption and show that using the predictor derived from our theoretical model, alongside all relevant vessel and voyage attributes as raw features, significantly reduces prediction errors by roughly 10%–30% on average compared with not using it.This paper was accepted by Elena Katok, operations management.Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2021-04295].Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05427 .</content>
     <link href="https://doi.org/10.1287/mnsc.2024.05427"/>
     <category term="Management Science"/>
     <published>2026-11-16T00:00:00+00:00</published>
@@ -2433,6 +2433,66 @@
     <published>2026-11-20T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://doi.org/10.1287/opre.2025.1639</id>
+    <title>Statistical Efficiency of Distributional Temporal Difference Learning and Freedman’s Inequality in Hilbert Spaces</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Yang Peng, Liangyu Zhang, Zhihua Zhang</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Distributional reinforcement learning (DRL) has achieved empirical success in various domains. One core task in DRL is distributional policy evaluation, which involves estimating the return distribution ηπfor a given policy π. Distributional temporal difference (TD) learning has been accordingly proposed, which extends the classic TD learning in RL. In this paper, we focus on the non-asymptotic statistical rates of distributional TD learning. To facilitate theoretical analysis, we propose non-parametric distributional TD learning (NTD). For a γ-discounted tabular Markov decision process, we show that for NTD with a fixed-distribution generative model (at time t ∈ ℕ, sample one state st~ μ with μmin:= mins∈Sμ(s) &gt; 0 and observe a single transition from st), we need Õ(ε−2μmin−1(1−γ)−3) interactions with the environment to achieve an ε-optimal estimator with high probability when the estimation error is measured by the supremum 1-Wasserstein distance. This sample complexity bound is minimax optimal up to logarithmic factors. In addition, we revisit categorical distributional TD learning (CTD), showing that the same non-asymptotic convergence bounds hold for CTD. We also extend our analysis to the more general setting where the data-generating process is Markovian. In the Markovian setting, we propose variance-reduced variants of NTD and CTD and show that both can achieve a sample complexity bound matching the state-of-the-art statistical results for classic policy evaluation. We validate our theoretical results through numerical experiments on an inventory management problem, illustrating the practical utility of distributional policy evaluation in risk-sensitive decision-making. To achieve the sharp statistical rates, we establish a novel Freedman’s inequality in Hilbert spaces. This new Freedman’s inequality would be of independent interest for statistical analysis of various infinite-dimensional online learning problems.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1639"/>
+    <category term="Operations Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2024.1404</id>
+    <title>Column Elimination: An Iterative Approach to Solving Arc-Flow Formulations</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Anthony Karahalios, Willem-Jan Van Hoeve</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We present column elimination as a general framework for solving problems whose solutions can be represented as a collection of decision sequences. We show how such problems can be modeled as arc-flow formulations, using a dynamic program to represent the set of feasible decision sequences and their costs, and an integer linear program over the corresponding state-transition graph. Because the exact arc-flow formulation can be exponentially large, we introduce relaxed dynamic programs to compactly represent a superset of the feasible decision sequences. Column elimination solves the exact model by starting with a relaxed dynamic program, which induces a relaxed arc-flow formulation, and iteratively refining the relaxation by eliminating infeasible sequences in optimal solutions. Doing so, we generalize earlier approaches that were developed for decision-diagram based network models. We apply our general column elimination framework to three new applications: the vehicle routing problem with time windows, the pickup-and-delivery problem with time windows, and the graph multicoloring problem. The computational results show that column elimination is competitive with or outperforms state-of-the-art methods, closing several previously open benchmark instances across these domains, including one vehicle routing problem with time windows on 1,000 locations.</content>
+    <link href="https://doi.org/10.1287/opre.2024.1404"/>
+    <category term="Operations Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2023.0247</id>
+    <title>Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Sainan Zhang, Erick Delage, Huifu Xu</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;This paper investigates the cumulative prospect theory (CPT)-based shortfall risk measure where the value (utility) function and the distortion (probability weighting) functions are ambiguous. We propose a worst-case CPT-based shortfall risk measure where the capital requirement is based on the worst-case value function and distortion functions from an ambiguity set constructed with user-specific information (e.g., preference between risky and certain lotteries) and well-known general information such as the S-shape of the value functions. When the underlying random loss is discretely distributed and parameters in pairs of lotteries remain undetermined, we demonstrate that the worst-case value function and the distortion functions have a piecewise linear structure. Based on this observation, we develop an adaptive preference elicitation approach extended from the well-known polyhedral method to simultaneously elicit the distortion functions and the positive and negative parts of the value function by solving a sequence of mixed-integer linear programs. Based on the elicited distortion, we design new queries to construct a feasible set of the holistic value functions. The proposed framework iteratively shrinks the ambiguity set through designed queries, yielding a computationally implementable robust CPT-based shortfall risk measure. To examine the in-sample and out-of-sample performance of the elicited CPT-based preference functions and the resulting preference robust shortfall risk measure, we conduct numerical experiments under an S-shaped value function and inverse S-shaped distortion functions and report the corresponding results.</content>
+    <link href="https://doi.org/10.1287/opre.2023.0247"/>
+    <category term="Operations Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2026.2633</id>
+    <title>A Continuous-Knapsack-Based Framework for Constrained Static Assortment Optimization</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Hongbin Zhang, Yanzhi Li, Woonghee Tim Huh</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;We consider the constrained static assortment optimization problem under the Multinomial Logit (MNL) model and its extensions, including the Customized Assortment Problem (CAP) and the joint assortment and pricing problem. Building on the knapsack formulation of MNL assortment planning, we introduce a novel concept, termed the modified reduced profit, defined as the maximum attainable value of the knapsack model for a given item set under a fixed no-purchase probability. We show that this modified reduced profit is a continuous-knapsack value function and is monotone and submodular. This structural property leads to a general approximation framework. In particular, if maximizing the continuous-knapsack value function over a downward-closed family L admits an α-approximation algorithm, then our MNL-THR algorithm achieves an α(1 − ϵ)-approximation through a geometric search over the no-purchase probability. As important special cases, cardinality, budget, and matroid constraints yield a (1 − 1/e)(1 − ϵ) guarantee. We further extend the framework to the CAP and the joint pricing and assortment problem, showing that the underlying submodularity structure is preserved. Finally, we develop faster approximation algorithms that avoid the geometric search and achieve a (1 − 1/e)/2 guarantee under the three commonly studied constraint families, providing a trade-off between computational efficiency and solution quality</content>
+    <link href="https://doi.org/10.1287/opre.2026.2633"/>
+    <category term="Operations Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/opre.2025.1837</id>
+    <title>Dual Active Learning for Reinforcement Learning from Human Feedback</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Pangpang Liu, Chengchun Shi, Will Wei Sun</name>
+    </author>
+    <content>&lt;b&gt;Operations Research&lt;/b&gt; &lt;br&gt;Aligning large language models (LLMs) with human preferences is critical to recent advances in generative artificial intelligence. Reinforcement learning from human feedback (RLHF) is widely applied to achieve this objective. A key step in RLHF is to learn the reward function from human feedback. However, human feedback is costly and time-consuming, making it essential to collect high-quality conversation data for human teachers to label. Additionally, different human teachers have different levels of expertise. It is thus critical to query the most appropriate teacher for their opinions. In this paper, we use offline reinforcement learning (RL) to formulate the alignment problem. Motivated by the idea of $D$-optimal design, we first propose a dual active reward learning algorithm for the simultaneous selection of conversations and teachers. Next, we apply pessimistic RL to solve the alignment problem, based on the learned reward estimator. Theoretically, we show that the reward estimator obtained through our proposed adaptive selection strategy achieves minimal generalized variance asymptotically, and prove that the sub-optimality of our pessimistic policy scales as $O(1/\sqrt{T})$ with a given sample budget $T$. Through simulations and experiments on LLMs, we demonstrate the effectiveness of our algorithm and its superiority over state-of-the-art.</content>
+    <link href="https://doi.org/10.1287/opre.2025.1837"/>
+    <category term="Operations Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://doi.org/10.1177/00222437261511867</id>
     <title>EXPRESS: Causal Inference With Endogenous Price Response</title>
     <updated>2026-11-20T00:00:00+00:00</updated>
@@ -2503,6 +2563,66 @@
     <link href="https://doi.org/10.1177/01492063261481752"/>
     <category term="Journal of Management"/>
     <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2024.1230</id>
+    <title>Impact of Data Privacy Regulations on Recommender Systems Performance</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Liben Chen, Meizi Zhou, Yicheng Song, Gediminas Adomavicius</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;Data protection regulations like GDPR and CCPA let consumers delete personal data or opt out of collection, but companies struggle to understand how these practices affect their recommendation systems. This matters because recommendations drive substantial revenue; according to industry reports, Netflix’s system saves more than $1 billion annually, and personalized suggestions generate 35% of Amazon purchases. We analyzed how different data privacy practices impact recommendation accuracy using large-scale simulations with real-world data. A critical finding: Context matters enormously. For services where user preferences are more stable (e.g., streaming platforms), opting out barely affects recommendation quality while deleting data cuts performance dramatically. However, for platforms where preferences and needs can change frequently (e.g., e-commerce), deleting old data can actually improve recommendations while opting out severely harms them. For policymakers, this means one-size-fits-all regulations may be counterproductive. For companies, we demonstrate that data privacy practices can be redesigned: users can protect their most revealing data while maintaining close-to-optimal recommendation quality. This challenges the tradeoff between privacy and personalization, showing both could be achievable through smarter design. Companies should offer context-appropriate privacy options; regulators should recognize different platforms need different approaches.</content>
+    <link href="https://doi.org/10.1287/isre.2024.1230"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1287/isre.2025.1970</id>
+    <title>Mobile Location-Based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>Jin Soo Han, Gunwoong Lee, Keongtae Kim</name>
+    </author>
+    <content>&lt;b&gt;Information Systems Research&lt;/b&gt; &lt;br&gt;When looking for a place to eat, how much do recommendations on your smartphone influence your choice? Can they help restaurants tucked away on side streets thrive in an age of algorithmic recommendations? We studied the launch of a location-based recommendation feature on South Korea’s largest search platform, tracking 16,720 restaurants over eight months.We find that visibility matters, but its benefits are uneven. Restaurants tucked away on side streets, far from subway stops, attracted the most additional attention when recommended by the algorithm. Yet this advantage did not translate into greater intentions to visit. Making a restaurant easier to discover did not necessarily overcome the inconvenience of reaching it.Digital information helped bridge this online-to-offline friction. Hard-to-reach restaurants with stronger online reputations and richer information, including customer reviews, photos, and menus, were better able to turn attention into visit intentions.For small businesses, visibility creates opportunities, but credible information helps turn attention into potential customers. For platforms and policymakers, location-based recommendations can bring overlooked businesses into view, but realizing their potential requires making reliable information readily available to consumers.</content>
+    <link href="https://doi.org/10.1287/isre.2025.1970"/>
+    <category term="Information Systems Research"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/10422587261500357</id>
+    <title>War and Entrepreneurship: A Synthetic Control Study of the Russia-Ukraine Conflict</title>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <author>
+      <name>David B. Audretsch, Paul P. Momtaz, Hanna Motuzenko, Silvio Vismara</name>
+    </author>
+    <content>&lt;b&gt;Entrepreneurship Theory and Practice&lt;/b&gt; &lt;br&gt;Is war good or bad for entrepreneurship? Entrepreneurs are often situated in extreme environments characterized by violent conflict. Yet existing entrepreneurship scholarship has largely examined war and conflict only at the micro or meso level, leaving the aggregate, macro-level entrepreneurial consequences of large-scale war underexplored. We provide a synthetic control study of entrepreneurial dynamics in the Russo-Ukrainian conflict during 2009 to 2019 as a first step toward bridging this gap. Relative to the synthetic counterfactual, registered LLCs in Ukraine declined by approximately 13% at the 2016 peak (74,000 missing firms) before recovering toward the synthetic trajectory by 2019. Self-employment in Ukraine dropped by approximately 4 percentage points (pp) at the 2015 peak, corresponding to roughly 680,000 Ukrainians no longer self-employed relative to the counterfactual, with partial recovery to a residual shortfall of approximately 280,000 by 2019. For Russia, the gap is delayed but accumulating, widening from −0.4 pp in 2015 to −1.6 pp by 2019. This corresponds to approximately 1.56 million missing LLCs relative to the counterfactual, a 32% relative loss. The contraction in Russian LLCs accumulates rather than attenuates over time. In Ukraine, we also observe a gender gap in post-2014 self-employment deviations from the synthetic counterfactual, with female self-employment falling more than male self-employment. To interpret these findings, we propose a conceptual framework that combines critical-junctures theory with the literature on entrepreneurship under authoritarian and democratic institutional regimes, arguing that the divergent post-2014 institutional trajectories of Russia and Ukraine help explain the contrasting entrepreneurial patterns we observe.JEL Codes:D74, L26, N44, O17</content>
+    <link href="https://doi.org/10.1177/10422587261500357"/>
+    <category term="Entrepreneurship Theory and Practice"/>
+    <published>2026-11-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1007/s11142-026-10001-4</id>
+    <title>Disclosing work-from-home flexibility to compete for talent? Evidence from job postings</title>
+    <updated>2026-11-21T00:00:00+00:00</updated>
+    <author>
+      <name>Charles Ham, Rebecca N. Hann, Wenfeng Wang, Jingwen Yang</name>
+    </author>
+    <content>&lt;b&gt;Review of Accounting Studies&lt;/b&gt; &lt;br&gt;Job postings serve as one of the primary means to communicate with prospective employees, enabling employers to highlight the benefits of the position and attract qualified applicants. As work-from-home flexibility has become increasingly prevalent, this study examines whether employers strategically disclose work-from-home flexibility in their job postings and how this disclosure is associated with hiring outcomes. Using a comprehensive sample of job postings from US employers between 2017 and 2024, we find that employers are more likely to disclose work-from-home flexibility when facing greater labor market competition and that disclosing this flexibility is associated with a higher job vacancy filling rate, especially when work-from-home information is disclosed in a more salient manner. However, we document a positive association between work-from-home disclosures and subsequent employee turnover, suggesting potential costs associated with these disclosures. These findings add to the growing literature on firms’ strategic disclosure targeted towards labor markets.</content>
+    <link href="https://doi.org/10.1007/s11142-026-10001-4"/>
+    <category term="Review of Accounting Studies"/>
+    <published>2026-11-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://doi.org/10.1177/01492063261501111</id>
+    <title>Cognitive Ambidexterity: Balancing Algorithmic Efficiency and Contextual Judgement in AI-Enabled Decision Systems</title>
+    <updated>2026-11-21T00:00:00+00:00</updated>
+    <author>
+      <name>Tahir Abbas Syed</name>
+    </author>
+    <content>&lt;b&gt;Journal of Management&lt;/b&gt; &lt;br&gt;AI-enabled decision systems make algorithmic recommendations appear objective and ready for action before contextual, ethical, and stakeholder concerns are fully considered. This study examines how leaders preserve judgment under these conditions. We develop cognitive ambidexterity as a leader-level meta-cognitive capability through which managers balance algorithmic exploitation with contextual exploration in AI-mediated decisions. Using an exploratory sequential mixed-methods design, we first examine five U.K. procurement and infrastructure organizations and identify four mechanisms of cognitive ambidexterity. We then examine these mechanisms through vignette experiments with managers. The findings show that leaders preserve contextual judgment by treating AI outputs as interpretive cues, calibrating trust under ambiguity, slowing decisions when reflection is needed, and building supports that make algorithmic recommendations contestable. The study extends ambidexterity theory by showing how exploration–exploitation tensions are cognitively regulated when exploitation is embedded in algorithmic decision processes. It also uses leadership cognition and Upper Echelons Theory to explain why leaders differ in their capacity to enact this regulation. Together, these insights position cognitive ambidexterity as a critical leader-level capability for using AI’s efficiency gains while preserving the contextual judgment.</content>
+    <link href="https://doi.org/10.1177/01492063261501111"/>
+    <category term="Journal of Management"/>
+    <published>2026-11-21T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://doi.org/10.1093/rfs/hhag095</id>
