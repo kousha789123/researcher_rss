@@ -2,298 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>NBER feed</id>
   <title>Academic Publications</title>
-  <updated>2026-11-22T13:43:10.116535+00:00</updated>
+  <updated>2026-11-23T13:42:50.430301+00:00</updated>
   <link href="https://raw.githubusercontent.com/kouroshshafi/researcher_rss/refs/heads/main/feed_content_nber" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Recent articles from NBER working papers</subtitle>
-  <entry>
-    <id>https://www.nber.org/papers/w35935</id>
-    <title>Implications of Policy Interventions on Eliminating Gender Gaps</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Carla Varona Cervantes &amp; Russell Cooper</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies policy interventions intended to eliminate gender differences in labor market outcomes, principally wages. Because gender is an individual attribute rather than a manipulable treatment, the ideal experiment of randomly assigning gender to evaluate its effects is infeasible. Policies that remove gender labels from the employment process are the closest feasible counterpart. We quantify both the intended and unintended consequences of the policies through simulated interventions of an estimated equilibrium model of statistical discrimination with dynamic choices of education and labor market participation. In the short run the policy that requires gender free applications in the market for skilled labor eliminates wage gaps but once education choices respond the effects are attenuated. A more comprehensive policy that enforces gender free compensation reverses the wage gap in skilled markets and eliminates it in unskilled labor markets, even once education adjusts. These interventions impact college rates, the college premium gap and participation rates as well. The final section studies these interventions using a difference-in-differences (DID) approach to analyze the simulated data. With education fixed, the DID method recovers the policy effects but this is not the case once education adjusts, reflecting the effects of the intervention on both treated and control groups through equilibrium adjustments in beliefs.</content>
-    <link href="https://www.nber.org/papers/w35935"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35927</id>
-    <title>HouseholdBench: Evaluating Large Language Models as Predictors of Household Economic Behavior</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Jin Huang, Diego Ferreras Garrucho, Yutong Xie, Walter M. Yuan, Qiaozhu Mei, Chen Lian &amp; Jonathon Hazell</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Large language models (LLMs) have the potential to meet a key goal in economics: a quantitative model of household decision making, across a variety of settings. Yet existing evaluations cover few surveys and outcomes, and do not study how households adjust to changing economic conditions. We introduce a new evaluation, HouseholdBench, which unites 6 U.S. household surveys and 32 prediction tasks spanning numeric, categorical and probabilistic outcomes, related to consumption, income, labor, expectations, and housing. Using past behavior, demographics and macroeconomic conditions, the tasks test whether LLMs predict behavior, including how households adjust to changes in various policies. We evaluate 13 proprietary and open-weight LLMs against a no-change baseline and a gradient boosted tree model. Most LLMs outperform the no-change baseline, including for policy response tasks—with the best model lowering error for numeric outcomes by 12.2%. Across most tasks, gradient-boosted trees rank first; leading proprietary LLMs approach their performance, but open-weight models lag. LLMs exhibit systematic over- and underprediction across different tasks. We identify methods that enable a 4 billion parameter open-weight model to match proprietary models’ performance: fine-tuning and aggregating 16 predictions per observation. Improvements generalize to policy-response tasks, which are excluded from fine-tuning. We release our datasets, code, and leaderboard on our website.</content>
-    <link href="https://www.nber.org/papers/w35927"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35955</id>
-    <title>The Impact of Silver Loading in ACA Health Insurance Marketplaces</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Coleman Drake, David Anderson, Dylan Nagy &amp; Mark Shepard</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;In 2017, the federal government ended payments for cost-sharing reduction (CSR) subsidies for the Health Insurance Marketplaces created by the Affordable Care Act. Rather than uniformly increase Marketplace plans’ premiums to offset the loss of these payments, over 40 states responded by silver loading—only increasing the premiums of silver plans to which CSR subsidies apply and premium tax credits are tied. Silver loading was intended to increase the affordability of Marketplace coverage by increasing premium tax credits and thereby enrollment, though the literature lacks causal estimates. Furthermore, Congress is considering reinstating CSR subsidy funding, effectively undoing silver loading. We use panel data on 2015-2021 Marketplace health plan premiums and enrollment in 12 states from the Centers for Medicare and Medicaid Services to estimate silver loading’s effects using contiguous county-pair models. We find that silver loading functioned as intended, lowering the cost of Marketplace coverage and increasing enrollment by 8-14% among subsidized Marketplace enrollees with incomes between 250% and 400% of the poverty level. We project that Congress ending silver loading would decrease Marketplace enrollment by at least 330,000 enrollees in 2027.</content>
-    <link href="https://www.nber.org/papers/w35955"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35956</id>
-    <title>Ratings, Debt, and Deficits: An Exploration</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Olivier J. Blanchard, Daniel Leigh &amp; Prachi Mishra</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We look at the effects of debt and primary fiscal balances on sovereign credit ratings through the lens of a simple model. We find that the ratings differ from the implications of the model in three important ways. They give much more weight to debt relative to forecast primary balances. They understate the effects of the difference between the interest rate and the growth rate. They give a very large role to country effects. For the same level of debt and forecast primary balances, they imply extremely different ratings across countries, and imply extremely different levels of debt needed to reach a given rating.</content>
-    <link href="https://www.nber.org/papers/w35956"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35933</id>
-    <title>Losing Their Religion</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Richard Murphy &amp; Shqiponja Telhaj</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper studies whether governments can change social norms that constrain women’s education and work, and through which mechanism. Albania’s 1967 religion ban, which created the world’s first atheist state, provides an extreme natural experiment: religious practice was outlawed nationwide, but a 1948 classification of historic monuments determined which religious buildings remained standing. We find larger increases in female employment and schooling where no monument survived. The public visibility of the old religious order appears to be the mechanism: effects are largest where no monument remained, smaller with rural-only monuments, and smallest with urban monuments; they also decline as monument count rises, regardless of denomination. We establish how social norms can outlive formal authority.</content>
-    <link href="https://www.nber.org/papers/w35933"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35934</id>
-    <title>Tax Productivity and Economic Development: A Quantitative Macroeconomic Analysis</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Radhika Goyal, Anders Jensen, David Lagakos, Abdoulaye Ndiaye &amp; Yuntian Zhao</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This paper examines the role of government capacity to collect taxes in driving economic development. We first draw on a new macro-historical database to document that tax collections relative to tax administration expenditures rise sharply with GDP per capita. We then interpret this finding in a neoclassical growth model with a tax administration sector in which labor inputs are required to raise tax revenues. Countries differ in their levels of tax productivity, capturing how effectively labor is used to raise taxes, as well as their levels of productivity in creating consumption and investment goods. Governments use tax revenues to provide public capital that complements private factors in production and to make transfers. Quantitatively, our model predicts that increases in tax productivity in low-income economies can raise GDP per capita substantially more than suggested by Hulten’s theorem.</content>
-    <link href="https://www.nber.org/papers/w35934"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35930</id>
-    <title>College Success: Understanding the Roles of Financial Aid, Loans, Preparation, and Incentives</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Douglas N. Harris, Christopher R. Taber &amp; Yu (Alan) Yang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Over the past four decades, the earnings gap between college graduates and non-graduates has widened substantially, prompting interest in policies aimed at promoting higher education among low-income students. A key challenge for these policies is the high college dropout rate. This paper develops a dynamic model of college enrollment and completion with rich individual heterogeneity to assess how various factors influence college attendance, dropout, and graduation. We estimate the model using data from longitudinal surveys, results of quasi-experimental studies on grant aid, and large-scale randomized controlled trials. We use the model to simulate the effects of tuition subsidies, college loans, financial incentives, and increased pre-college skills on attendance and completion. We find moderate effects of most unconditional financial policies on attendance, with small effects on completion conditional on attendance. By contrast, some merit-based incentives, such as forgiving student loans upon receipt of a bachelor’s degree, have substantial effects. However, this type of policy and other financial subsidies accrue even more than the others to students from relatively wealthy backgrounds. Overall, it appears infeasible to design a financial aid policy that is simultaneously effective in raising attainment and fiscally progressive. By comparison, we find that the greatest potential for increasing attainment could come from better preparing students for college.</content>
-    <link href="https://www.nber.org/papers/w35930"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35953</id>
-    <title>Competition in Generative AI: Evidence from Consumer Demand</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Mark L. Egan, Dominic Russel, Claire Shi &amp; Vincent Yao</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How competitive will the market for generative AI be as it matures? Using novel transaction level credit and debit card data covering 174 million consumers and 114 billion transactions, we study the adoption of paid services and the demand-side foundations of competition in this market. As of April 2026, approximately 2.9% of U.S. consumers pay for at least one major generative AI service, with adoption highest among younger and higher-income consumers. Nearly all of these paid users subscribe to basic plans that cost $30 or less per month. Three patterns suggest limited differentiation and low switching costs. First, although multihoming is common, it has declined as providers’ capabilities have expanded. Second, annual customer retention rates range from 20% to 45% across major AI providers, lower than those for many other subscription products. Third, switching rises around major model releases. Motivated by these findings, we develop and estimate a structural model of AI service demand and supply that reveals strong competitive pressure. Consumers are highly price sensitive, have much weaker preferences for particular providers than for AI overall, and view AI services as increasingly close substitutes. Our results suggest that, absent a substantial increase in AI model quality differentiation, growing substitutability among services will constrain providers’ pricing power and allow consumers to capture a large share of the surplus generated by these services.</content>
-    <link href="https://www.nber.org/papers/w35953"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35788</id>
-    <title>Beliefs Over Contracts</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Francis Annan &amp; Collin B. Raymond</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how firms choose among incentive contracts and how accurately managers predict their effects. Using a survey of managerial beliefs and a large-scale field experiment, we randomly assign agents at the market level to several widely used, expenditure-equivalent incentive schemes. In the field, the best-performing contract raises weekly firm profit by over 55% relative to the status quo, despite being ranked lower by managers, whereas the worst-performing contract performs as predicted. Managers reliably avoid poorly performing contracts but systematically underestimate top-performing ones. Standard contract theory does better as a forecaster here: an unbiased textbook principal orders the contracts correctly, or very nearly so, correctly identifying the profit leader where managers do not; where it does miss, the error is similar to managers’ and for a similar reason. We show that the performance differences across contracts reflect a mix of labor-supply and risk responses, and that managerial predictability varies with contract complexity and managerial hierarchy. Our results highlight the importance of contract design for firm performance and reveal systematic limits to managerial cognition in shaping incentives.</content>
-    <link href="https://www.nber.org/papers/w35788"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35960</id>
-    <title>Coasian Stakeholder Theory</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Matthew J. Higgins, Peter G. Klein, Anita McGahan &amp; Rob Wuebker</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Stakeholder theory asks who is in, who is out, and who gets what. Existing work illuminates important dimensions of firm–stakeholder relationships but does not supply a common, transaction-level rule connecting these questions. We use the Coase theorem to develop such a rule. A Coasian stakeholder is an actor with shutdown power, defined as the de facto capacity, within the relevant time horizon, to prevent, materially delay, or substantially reduce the expected joint value of a focal value-creating transaction. If all such actors are identified and bargaining and enforcement are costless, value-maximizing transactions proceed, although rights and bargaining positions may affect who captures value. When transaction costs are positive, however, identification, bargaining, coalition formation, and enforcement can delay, distort, or suppress those transactions. Across six propositions, we explain how shutdown power is identified and acquired, how complementarity and bargaining conditions shape value capture, how firms reshape stakeholder sets through coalition costs and governance design, and why consolidated opposition can sometimes preserve transactions that fragmented claims would suppress.</content>
-    <link href="https://www.nber.org/papers/w35960"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35958</id>
-    <title>Who Can Control Our Firms? National Security and Foreign Ownership Regulation</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Rodrigo Adão &amp; Olivier Kooi</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Governments invoke national security to regulate foreign acquisitions of domestic firms. Why is ownership regulation a distinct policy margin beyond standard tools, like production subsidies and trade taxes? We show that contractual frictions make multinational firm boundaries central to geoeconomic policy. Within firms, ownership allocates residual control that affects outcomes through non-contractible decisions. Between governments, the absence of enforceable agreements makes the economic costs of conflict shape geopolitical bargaining. Foreign ownership depends on private returns to foreign control, but also determines national exposure to geopolitical conflict. It can increase foreign dependence, technology transfer, or sabotage scope. If such margins were contractible, the government could regulate them directly. When they are not, ownership regulation is the second-best tool that changes control rights and, thus, geopolitical outcomes. Consistent with our mechanism, U.S. regulation emphasizes the national-security risks of foreign control over firm decisions, has tightened with rising geopolitical tensions, and is tighter in sectors with higher exposure to defense demand and contractual frictions.</content>
-    <link href="https://www.nber.org/papers/w35958"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35959</id>
-    <title>Behavioral Finance at 40</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Nicholas C. Barberis</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Behavioral finance seeks to improve our understanding of markets, investors, and firms by adopting a psychologically realistic description of how people think. While behavioral finance ideas have been part of human discourse for decades if not centuries, the modern research effort in the field began in the 1980s. Forty years later, behavioral finance is a vibrant area of financial economics. In this article, I explain why by reviewing some of its recent progress. I focus on three topics – beliefs about future earnings, beliefs about future returns, and prospect theory – and on their applications to understanding asset prices and investor behavior. I close by commenting on some new directions in the field – cognitive foundations, non-traditional decision processes, and artificial intelligence.</content>
-    <link href="https://www.nber.org/papers/w35959"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35957</id>
-    <title>Tariff Staggering</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stephanie Schmitt-Grohé &amp; Martín Uribe</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using a panel of U.S. imports and customs duties at the HS 6-digit level, we document that in a typical quarter about 20 percent of tariffs rise, 20 percent fall, and 60 percent remain unchanged. Motivated by these facts, we develop a model of staggered tariff setting and embed it in a dynamic open-economy framework. Staggering changes the dynamics of the cross-sectional mean tariff, generating hump-shaped macroeconomic responses to tariff shocks. Staggering also overturns the Razin–Svensson trade- balance neutrality result for permanent tariff increases, because the gradual adjustment of the mean tariff creates an anticipation effect that induces agents to front-load net imports. Inherited tariff dispersion has first-order macroeconomic effects, allowing tariff harmonization to be studied with linear approximation methods. We find that eliminating tariff dispersion while holding the mean tariff unchanged has effects akin to a transitory tariff cut in an economy without staggering.</content>
-    <link href="https://www.nber.org/papers/w35957"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35954</id>
-    <title>When Cash Wakes Up: Inertia in Institutional Money Market Funds and the Potential Effects of AI Disruption</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ali Hortaçsu &amp; Younggeun Yoo</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study institutional cash management by constructing a novel dataset that records the specific money market funds (MMFs) held by each mutual fund in each month from 2010 to 2024. We document remarkably high inertia: more than half of mutual funds never switched their MMF choice throughout the sample period, despite non-negligible yield dispersion. To decompose the sources of this inertia, we develop a two-stage structural model that separately identifies the determinants of portfolio managers’ attentiveness (“waking up”) and their conditional preferences once attentive. We estimate the model using a methodology that combines BLP-style contraction mapping with maximum likelihood. We establish three main findings. First, MMFs with less attentive investor bases engage in greater liquidity transformation while offering lower yields. As a result, they earn higher profits and exhibit significantly higher survival rates, especially during periods of low interest rates. Second, we find that aggregate flows appear more yield-sensitive during low interest rate periods (the well-documented “reaching for yield” phenomenon) not because individual investors become more yield-seeking, but because a larger fraction of investors becomes attentive—a composition effect rather than a preference shift. Third, counterfactual analysis reveals a potential tension between market efficiency and financial stability if AI-driven automation reduces investor inattention. In the absence of inattention, fees fall by approximately half, yield dispersion collapses to near zero, and market concentration declines by roughly 20%, but monthly fund flows increase by about three times and the incidence of fund-months in which redemptions exceed a fund’s weekly liquid assets rises by about six times, raising the risk of fire sales and MMF runs.</content>
-    <link href="https://www.nber.org/papers/w35954"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35952</id>
-    <title>The Great Game: A Model of Geoeconomic Competition</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Christopher Clayton, Matteo Maggiori &amp; Jesse Schreger</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We build a model of two hegemons that have valuable trading relationships with each other and at the same time compete in exerting geoeconomic power over countries in the rest of the world. When the hegemons trade with each other, their optimal policy is shaped both by classic economic considerations - the profitability of that specific trade - and by geoeconomic competition - how the trade affects the power of each hegemon vis-a-vis the rest of the world. We show that containment, a policy mix in which a hegemon limits sales of its inputs to the rival hegemon and uses its power to demand that the rest of the world shift away from sourcing from the rival, arises when the two hegemons offer relatively substitutable exports, are less interdependent with each other, and have more direct geopolitical rivalry. Countries in the rest of the world benefit, all else equal, from hegemons containing each other since they partially squander their power with offsetting demands. However, containment policy can also worsen the efficiency of global production, leaving the rest of the world worse off.</content>
-    <link href="https://www.nber.org/papers/w35952"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35951</id>
-    <title>A Network Approach to Geopolitics</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Ernest Liu, Stephen J. Redding, Bennett Smith-Worthington &amp; David Y. Yang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We develop a tractable framework for analyzing geopolitics as a network of coordination and strategic influence. Countries choose geopolitical actions that trade off domestic interests against incentives to align with connected countries. They can exert costly bilateral influence to affect one another’s actions. We characterize equilibrium actions and bilateral influence in closed form. Cross-country differences in domestic interests decompose into latent geopolitical cleavages, each of which the network transmits into geopolitical actions independently of the others. The cross-country covariance matrices of domestic interests and of geopolitical actions identify the cleavages and their importance, from which we recover the network. We implement the framework using data on United Nations voting and democratic orientation. The inferred network is well approximated by a few dimensions, aligns with external measures of geopolitical ties, and recovers well-known historical cleavages. We undertake counterfactuals for domestic interests and network connections and quantify three notions of geopolitical power</content>
-    <link href="https://www.nber.org/papers/w35951"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35949</id>
-    <title>Generative AI, Managerial Expectations, and Economic Activity</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Manish Jha, Jialin Qian, Michael Weber &amp; Baozhong Yang</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Using generative AI, we extract managers’ economic expectations from over 120,000 corporate conference call transcripts. The resulting AI Economy Score predicts GDP growth, production, employment, and wages five or more quarters ahead, beyond survey forecasts and other existing measures. Industry- and firm-level scores capture sector- and firm-specific activity, and a composite of firm, industry, and macroeconomic expectations further improves forecasting power and horizon. Predictability concentrates among historically more accurate, less biased managers, consistent with an information rather than a noise channel. Managerial expectations thus offer incremental insights into economic activity, with implications for macro- and microeconomic decision-making.</content>
-    <link href="https://www.nber.org/papers/w35949"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35948</id>
-    <title>fevc: Leave-Out Bias-Corrected Variance Decompositions in Stata</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Johannes F. Schmieder</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Variance decompositions from regressions with worker and firm fixed effects are widely used to measure heterogeneity and sorting in linked data. Variances computed directly from estimated effects overstate heterogeneity because they include estimation noise, and the bias can be large when few workers move between firms. This article introduces fevc, a Stata command that implements the leave-out bias correction of Kline, Saggio, and Sølvsten (2020, “Leave-Out Estimation of Variance Components,” Econometrica 88: 1859–1898). fevc reports corrected variances of worker and firm effects, their covariance, and the variance of their sum. Researchers choose the unit left out, the treatment of controls, and the weights that define the population being described. The command also reports standard errors for projections of fixed effects on observed characteristics. It has two backends: a source-only Mata implementation that runs wherever Stata runs, and a parallel Rust plugin for large datasets. Calculations based on random projections report Monte Carlo standard errors that measure their numerical precision. In a public extract of Italian social-security records, the correction halves the estimated variance of firm effects and reverses the sign of the worker–firm covariance. In synthetic benchmarks with 6.4 million observations and 28 threads, the Rust backend is 1.3 to 3.5 times as fast as the Matlab package of Kline, Saggio, and Sølvsten. Under match deletion, its measured peak memory is about 30 percent of the Matlab package’s.</content>
-    <link href="https://www.nber.org/papers/w35948"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35947</id>
-    <title>An LLM Workflow for Functional Form Sensitivity Analysis</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Isaiah Andrews, Simon C. Essig Aberg &amp; Jesse M. Shapiro</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce an LLM workflow for functional form sensitivity analysis. A researcher estimates the value of an object of interest by maximizing the fit of a working model to some data. The working model assumes an arbitrary form for some function. We define sensitivity by how much it is possible to change the estimate of the object of interest, without compromising fit, by selecting a different functional form. The workflow first looks for an analytic solution. If it fails to find one, it approximates the solution via numerical methods that respect the fit constraint at each step of a solver path. The workflow yields a verifiable lower bound on the in-sample sensitivity of the researcher’s estimate, and is fast in many practical situations. We illustrate with an application to the welfare cost of adverse selection in health insurance.</content>
-    <link href="https://www.nber.org/papers/w35947"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35946</id>
-    <title>The Value of (Sub) Specialization: Evidence from Oncology</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>René Karadakic, David C. Chan Jr, Nancy L. Keating, Bruce E. Landon &amp; Michael L. Barnett</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We estimate the returns to specialization in medical oncology, in which subspecialists focus on specific cancer types. Using 2.2 million Medicare chemotherapy episodes from 2008–2020, we instrument for subspecialist access with differential distance to cancer-type-specific subspecialists versus general oncologists. Access to a relevant subspecialist reduces three-year mortality by 4.5 percentage points (10 percent), without increasing Medicare spending or measured provider fragmentation. Subspecialists also increase the use of newer therapies and diagnosis-specific clinical trials. These findings show that specialization raises productivity when expertise is closely matched to the task.</content>
-    <link href="https://www.nber.org/papers/w35946"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35945</id>
-    <title>Homework in Climate Economics: Household Production, Environmental Preferences, and Climate Policy</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Stephie Fried, David Lagakos &amp; Hannah Rhodenhiser</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Household energy use accounts for approximately one third of U.S. emissions. Guided by a new survey, we develop a quantitative model in which households differ in income and their desire to reduce their emissions. Our analysis of cost-minimizing subsidies for clean equipment, such as electric vehicles and heat pumps, and residential solar yields three insights. First, solar receives the highest subsidy rate and accounts for over one third of abatement, reflecting its complementarities with clean equipment. Second, restricting subsidy eligibility to lower-income households generates only small cost savings. Third, without environmental preferences, household emissions would be over 15 percent higher.</content>
-    <link href="https://www.nber.org/papers/w35945"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35944</id>
-    <title>Selective Admissions in Nursing Homes: Evidence from a Randomized Audit Study</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Liran Einav, Amy Finkelstein, Jesse Gubb, Neale Mahoney &amp; James Okun</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;It has been widely documented that patients in the US who are associated with disadvantaged demographics receive care at lower quality nursing homes. To understand the role that selective admissions may play in contributing to this pattern, we conducted a nationwide audit study of the impact of patient race, payer, and medical condition on responses to about 5,500 availability inquiries sent to about 3,000 nursing homes. We find 10-15% lower availability for Medicaid patients compared to private-pay patients and for patients with Alzheimer’s disease compared to those without; these availability gaps generally increase with nursing home quality. We find no statistically significant evidence of differential availability by race. To quantify the implications of these selective admissions practices, we embed the audit study results in a model of constrained nursing home choice. We estimate that if, counterfactually, Medicaid patients had the same choice sets as their private-pay counterparts, they would attend higher quality nursing homes on average, but the private-Medicaid gap in quality would be reduced by only 5-10%. Our results suggest that supply-side availability differences by payer are widespread, but that they are unlikely to be the primary factor behind the observed gap in quality of nursing homes attended.</content>
-    <link href="https://www.nber.org/papers/w35944"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35943</id>
-    <title>Global Entrepreneurial Talent Flows: Widely Funded, Selectively Successful?</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Paul A. Gompers &amp; Henry Woo</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Immigrant founders of US venture-backed startups exit successfully more often than native founders. Does this hold worldwide? Using career histories for 913,226 founder-firm pairs in 213 countries (1990–2026), we compare founders who build abroad (expats) or return home after foreign experience (returnees) with comparable local founders in the same country. Both expats and returnees raise early funding more often globally. Expats' success premium, however, concentrates in the US (18 percent) and UK (26 percent), especially among those entering the US through graduate school, work, or direct founding. Returnees rarely show such a premium. Capital follows mobile founders across borders, but success follows them selectively.</content>
-    <link href="https://www.nber.org/papers/w35943"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.nber.org/papers/w35942</id>
-    <title>Comparative Advantage and Economies of Scale under Uncertainty</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <author>
-      <name>Xiao Ma &amp; Natalia Ramondo</name>
-    </author>
-    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how regional specialization patterns and welfare are affected by uncertainty and economies of scale in an open economy. We use a spatial equilibrium model with sectoral economies of scale, aggregate uncertainty, and irreversible mobility decisions made by heterogenous workers. We analytically characterize how the interactions between comparative advantage, both of workers and firms, economies of scale, and uncertainty shape specialization patterns and, hence, the gains from trade. We find empirical support for the model predictions by documenting the impact of aggregate changes in volatility of sectoral productivity on U.S. regional economies. We calibrate the model using detailed data on U.S. commuting zones and international trade, and extending hat-algebra methods to accommodate uncertainty. Quantitatively, we find that uncertainty shifts employment away from riskier sectors and locations, relative to a deterministic benchmark, lowering the U.S. aggregate gains from trade by around 20 percent. The interaction between uncertainty and scale economies brings down the benefits of specialization. For regions that would otherwise lose from trade, the presence of agglomeration forces and a more elastic labor supply mitigates those losses.</content>
-    <link href="https://www.nber.org/papers/w35942"/>
-    <category term="NBER"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.nber.org/papers/w35940</id>
     <title>Sex and Subsistence: Income Effects on Risky Sexual Behavior and Partner Selection</title>
@@ -1205,6 +917,294 @@ Industries and locations more exposed to Space Race activity experienced persist
     </author>
     <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the entire 340B program to a rebate model. I project net revenue losses from the RMP of $1.5 billion. Expansion to all of 340B would increase the predicted losses to $22.8 billion, cutting net revenues from the program by 32%. The majority of losses will come from administrative and staffing costs, which do not benefit manufacturers, implying a net negative effect of switching to a rebate model. Covered entity losses from the RMP will be limited by the pilot only applying to a small percentage of 340B sales as well as restrictions HRSA’s guidance places on manufacturers. If the rebate model expands to all of 340B or if the restrictions are inadequately enforced, the losses will grow substantially.</content>
     <link href="https://www.nber.org/papers/w36006"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36059</id>
+    <title>Supply-Side Drivers of Long-Acting Reversible Contraceptives: Evidence from Medicaid Beneficiaries</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Maya Rossin-Slater, Natalia Serna &amp; Lin-Tung Tsai</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;U.S. federal law mandates that most insurers offer contraceptives for free to patients, yet nearly one in three women of reproductive age still report inadequate access to contraceptive services. With demand-side affordability barriers largely removed, supply-side factors—the actions of healthcare facilities and providers—may be critical in explaining this unmet need. This paper examines supply-side determinants of long-acting reversible contraceptive (LARC) use among Medicaid beneficiaries, a population for whom both LARCs and oral contraceptives (OCs) are covered at zero out-of-pocket cost. Unlike OCs, LARCs require clinician insertion and upfront device stocking, making them especially vulnerable to supply-side forces. Using national Medicaid claims data from 2015–2019 and a movers design that separates place-based from patient-based variation, we find that local supply-side factors explain 58.5 percent of geographic variation in LARC use—substantially more than the 37.7 percent explained for OCs. We then estimate the causal effects of a supply-side policy that substantially lowers the cost of stocking LARCs for safety-net providers: the 340B Drug Pricing Program. Leveraging the staggered timing of program participation across clinics in an event-study design, we find that the arrival of the first participating clinic in an enrollee's ZIP code increases LARC use by 4.3 percent without displacing OC use or increasing LARC removals. Together, these findings identify the supply side as both a key source of unmet contraceptive need and a promising target for policy to improve access to the most effective forms of contraception.</content>
+    <link href="https://www.nber.org/papers/w36059"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36060</id>
+    <title>Light Pollution: Effects on Sleep, Work, and Mental Health</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joan Costa-i-Font, Janet Currie &amp; Soodeh Saberian</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This study examines the impact of artificial streetlights on sleep, as well as downstream effects on mental health, absenteeism, and physical activity. We exploit variation resulting from the replacement of traditional sodium streetlights with light-emitting diode (LED) lights in Burnaby, British Columbia, Canada. Using data from the Canadian Community Health Survey, we examine discontinuities in difficulty sleeping at the municipal border with Vancouver, which did not adopt new lighting.  We also estimate a within-Burnaby model exploiting the rollout of LED lights across neighborhoods, and a difference-in-differences design using matched Vancouver and Burnaby neighborhoods.  The estimates show that conversion reduces difficulty sleeping immediately, and that improvements in mental health, absenteeism, and physical activity follow with a lag of two to three years.  The largest gains occur with warmer-toned LEDs that more closely mimic natural light.</content>
+    <link href="https://www.nber.org/papers/w36060"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36052</id>
+    <title>Long-run Uncovered Interest Parity in Emerging Markets</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Alessandro Rebucci, Sinem Yagmur Toraman, Giorgio Valente &amp; Nicolò Capirone</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Uncovered interest parity (UIP) tends to hold at long horizons for advanced-economy currencies. Whether it holds in emerging markets remains a more open question. We show it does not, and that sovereign credit risk can explain the failure. Using monthly zero-coupon local-currency yield curves for all emerging market currencies for which they are available from 2000 to 2025, we find that the slope of long-horizon UIP regressions is well below one at the five-year maturity for emerging market currencies, while unity cannot be rejected for G10 currencies. However, when we augment these regressions with sovereign CDS spreads, this slope rises to values statistically indistinguishable from one for floating emerging market currencies. The correction works best for currencies whose credit risk is most variable. A no-arbitrage asset pricing framework guides the specification of the regressions and the interpretation of the results.</content>
+    <link href="https://www.nber.org/papers/w36052"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36051</id>
+    <title>Climate Risk, Real Estate, and Property Insurance</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Benjamin L. Collier, Benjamin J. Keys &amp; Philip Mulder</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Growing climate risk threatens long-lived, fixed physical assets like real estate. To navigate this risk, homeowners and prospective buyers rely on market signals, including property values and insurance costs. The effectiveness of these market signals depends on whether standard economic assumptions hold. In this review, we assess whether housing and insurance markets accurately reflect climate risk, and whether market participants receive and respond to those signals. A rapidly growing literature documents substantial frictions in each part of the chain from climate risk to prices, with downstream consequences for adaptation and recovery. We conclude that these frictions call into question whether the price signals provided by real estate and insurance markets are likely to steer households into outcomes that are resilient to growing climate risk.</content>
+    <link href="https://www.nber.org/papers/w36051"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36050</id>
+    <title>Past Automation and Future AI: How Weak Links Tame the Growth Explosion</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Charles I. Jones &amp; Christopher Tonetti</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;How much past growth is due to automation, and what does this imply for the future of AI? We perform task-based growth accounting and show that capital task productivity has grown about 5 percentage points per year faster than labor task productivity in the U.S. economy. The main benefit of automation is using rapidly improving machines instead of slowly-improving humans on more tasks. With these historical measures, we calibrate a growth model in which the production of goods and ideas is endogenously automated. Growth accelerates and can explode. However, the acceleration is slowed by "weak links," tasks still performed by labor.</content>
+    <link href="https://www.nber.org/papers/w36050"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36049</id>
+    <title>Bureaucratic Rigidity and Battle Outcomes: Evidence from Military Logistics in the Ming Dynasty</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Jingjing Chen, Jianlei Han, Shing-Yi Wang &amp; Yongxiang Wang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Bureaucratic rules meant to improve accountability can undermine state effectiveness. We study a 1492 Ming dynasty reform that shifted military grain delivery from salt merchants to a state relay system with prefecture-to-prefecture handovers and fixed routes. Afterward, court records document more supply shortages at formerly merchant-supplied garrisons than at state-supplied ones. Using 406 defensive battles against foreign invaders, we find the reform reduced victory rates near these garrisons. Declines were largest where resupply mattered most (longer wars, walled-city defenses) and where the state’s rules were most costly (routes crossing more prefectures or exposed to floods, droughts, or rugged terrain).</content>
+    <link href="https://www.nber.org/papers/w36049"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36048</id>
+    <title>Are Revealed Preferences All You Need for AI Alignment?</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Joshua S. Gans &amp; Richard T. Holden</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;AI agents learn what principals want from what principals choose. We offer a criterion for when a principal's decisions, at every belief an AI might hold, are all the AI needs. For acting, they are. Cautious actions, such as deferring to a person, typically divide the principal's actions into blocks, and for choosing costless evidence, decisions are enough exactly when the same evidence is best in every block. Otherwise, the AI acts as its principal would yet can gather the wrong evidence, and greater capability can turn that error into incorrect actions. Choices between two mistakes reveal what decisions miss.</content>
+    <link href="https://www.nber.org/papers/w36048"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36047</id>
+    <title>Regret, Survival Beliefs, and Retirement Recommendations</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Abigail Hurwitz &amp; Olivia S. Mitchell</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We examine how information about others’ retirement regret affects annuitization and savings recommendations. In a survey experiment, participants received information about regret over not purchasing annuities or not saving enough for retirement. Responses were concentrated among individuals who underestimated their survival probabilities relative to population benchmarks, consistent with a survival belief-updating mechanism. Among underestimators, annuity regret information increased annuitization recommendations by 16.9 percentage points (approximately 38%), while savings regret information reduced recommendations to significantly increase saving by 15.4 percentage points (approximately 28%). Less regret-averse individuals reduced aggressive savings recommendations, while the positive response to annuity regret information was concentrated among more risk-averse respondents. The annuity effect was strongest among respondents with greater annuity knowledge than less knowledgeable respondents.</content>
+    <link href="https://www.nber.org/papers/w36047"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36046</id>
+    <title>Valuing the Cost of Incomplete Global Markets</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Karen K. Lewis &amp; Edith X. Liu</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Deviations from complete financial markets in cross-border investments generate economic welfare costs. This paper shows how to value these costs using standard theory and data based on three main results. Our first result shows how welfare valuations can be derived from a general wealth-to-dividend ratio. Next, we establish how aggregate consumption and exchange rate data can be used to uncover diversifiable goods allocations across countries. Finally, we demonstrate how asset pricing data and models can be used to value deviations from complete markets. The paper outlines a range of applications that fall under this framework, including financial intermediary constraint models.</content>
+    <link href="https://www.nber.org/papers/w36046"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36045</id>
+    <title>How AI Impacts the Quest for Knowledge: Evidence from AlphaFold2</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Myra Mohnen &amp; Joshua S. Gans</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Scientists can respond to artificial intelligence by pushing the frontier of science and asking new questions, or by deepening their understanding of questions already studied. We study how AI shapes this choice in structural biology, where experiments examine a protein's three-dimensional structure and its function. AlphaFold2, released in 2021, predicts the structure of almost every known protein, with a confidence that varies across proteins. Linking 530,471 proteins to the experiments run on them between 2017 and 2025, we compare how experimental activity changed after 2021 across proteins with more and less confident predictions. Where predictions are more confident, the experimental record adds fewer first structures for proteins far from any relative of known structure. It adds more follow-up experiments on proteins whose structure is already known, and the rise is largest for proteins surrounded by relatives of known structure. A model of experimental choice shows how AlphaFold2 can deepen existing knowledge rather than extend it: a prediction replaces an experiment that would establish a protein's structure, and it lowers the cost of experiments that build on that structure.</content>
+    <link href="https://www.nber.org/papers/w36045"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36044</id>
+    <title>Beyond Publication Bias: Characterizing and Understanding Missing Results in Economics</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Fernando Hoces de la Guardia, Edward Miguel, Gufran Pathan, Akash Shaji, Viviane Helena Silva da Rocha, Erik Ø. Sørensen &amp; Bertil Tungodden</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;What scientists choose not to publish can be as important as what they do publish. We measure missing research results at the hypothesis level and use this approach to study under-reporting in economics. Across 5,057 pre-registered hypotheses from 317 studies registered on the American Economic Association RCT Registry between 2015 and 2017, only 42% have publicly available results eight to nine years after pre-registration. Among the available results, 64% are null, and we find little evidence that null results are disproportionately missing. In an RCT, direct engagement with authors increases the share of hypotheses with available results by 6.2 percentage points, while raising awareness alone has no significant effect and additional research assistance provides no further improvement. Direct engagement also increases explanations for unavailable results, reducing the share of hypotheses that remain unaccounted for by 16.4 percentage points. The findings document extensive under-reporting in economics that does not appear to be driven primarily by the suppression of null results, and suggest that reporting pre-registered results may need to become a standard part of the research process rather than something recovered years later.</content>
+    <link href="https://www.nber.org/papers/w36044"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36043</id>
+    <title>Mental Models of Fiscal Policy</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Francesco Bianchi, Era Dabla-Norris, Radhika Goyal, Victoria Haver &amp; Salma Khalid</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study how individuals form expectations about fiscal adjustment. Using survey data from more than 27,000 respondents across 13 countries, we jointly elicit beliefs about current fiscal conditions, expectations of tax increases and spending cuts, and open-ended explanations for those expectations. We classify these explanations into economic mental models, political narratives, and experience-based heuristics. Respondents reporting similar fiscal conditions nevertheless form systematically different expectations of adjustment. Economic mental models are associated with stronger expectations of tax increases and spending cuts in the fiscal configurations we examine, whereas experience-based reasoning is associated with weaker adjustment expectations. These differences are also reflected in intended economic behavior and portfolio allocations. In a randomized experiment, fiscal information increases the likelihood that respondents articulate economic reasoning, primarily among responses that would otherwise fall outside the three primary frameworks.</content>
+    <link href="https://www.nber.org/papers/w36043"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36042</id>
+    <title>The Effects of Private Plan Subsidies on Enrollment: Evidence from Medicare Advantage</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Paul D. Jacobs &amp; Timothy J. Layton</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Some social insurance programs, including the Medicare program in the United States, allow beneficiaries to choose between public and private insurance firms. In these types of programs, the government will often provide a voucher to those who opt for private firms. A key policy decision is the level of this voucher, and a key input to that decision is the elasticity of enrollment in the public versus the private option with respect to the size of the voucher. We estimate this elasticity in the Medicare program, where recent work has provided remarkably little evidence on how Medicare Advantage (MA) enrollment responds to payment despite the program’s rapid growth. We leverage the fact that the formula determining county-level “benchmark” payments (vouchers) involves coarse thresholds based on county-level spending and counties occasionally move across these thresholds, providing a shock to the vouchers unrelated to beneficiary demand. Using several complementary estimation strategies, we find that a 1 percent increase in a county’s benchmark raises MA enrollment by roughly half a percentage point within three years, implying an elasticity of about 2. Applying this estimate to a policy counterfactual that sets benchmarks at 95 percent of county fee-for-service spending implies a decline in MA enrollment of about 6.1 percentage points, or roughly one-quarter of our sample. We also provide suggestive evidence, consistent with prior work, that the increase in benchmarks gets passed through in the form of additional benefits, providing a mechanism for the enrollment increases.</content>
+    <link href="https://www.nber.org/papers/w36042"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36041</id>
+    <title>Does Treating Addiction Rebuild Lives? Evidence from Buprenorphine</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Sarah Eichmeyer, Aljoscha Janssen &amp; Jonathan Zhang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Does treating addiction improve economic circumstances as well as health? Using two decades of Veterans Health Administration records on over 140,000 patients with opioid use disorder and consumer credit data, we exploit staggered facility-level buprenorphine adoption and quasi-random emergency physician assignment. A five-percentage-point increase in the share of clinicians with buprenorphine prescribing experience doubles overdose survivors’ long-term medication use and reduces two-year mortality by an estimated 3.7 percentage points. Instrumenting receipt yields a 22 percent credit score gain. At $300,000 per statistical life-year, estimated survival benefits alone exceed added medical costs within three years</content>
+    <link href="https://www.nber.org/papers/w36041"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36040</id>
+    <title>The Emergence of a National Capital Market,1870–1940</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Pawel Janas</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;This article documents the integration of the American capital market with the first long-run, geolocated, firm-level record of the asset holdings of large institutional investors: over 100,000 holdings of life insurers, 1870–1940. Between 1880 and 1890 the mean distance of insurers’ bonds from home more than doubled and their home-state share fell from over half to under a quarter. The shift occurred within firms, across bond classes and charters. Mortgage lending was national wherever state law permitted it. Integration was largely complete by 1890.</content>
+    <link href="https://www.nber.org/papers/w36040"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36039</id>
+    <title>Democratizing Venture Capital: Tax Incentives and the Geographic Expansion of Startup Investing</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Murillo Campello &amp; Guilherme Junqueira</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Can tax subsidies expand the geographic reach of startup investing? Despite decades of growth, venture capital (VC) remains concentrated in a handful of metropolitan areas, leaving most of the country with limited access to startup financing. We study the 2009–2010 enhancement of the Qualified Small Business Stock (QSBS) program, which eliminated federal capital gains taxes on investments in qualifying startups. By raising the payoff to success, the reform made riskier investments more attractive, including entry into unfamiliar markets. This incentive is especially strong for VC funds. Relative to similarly sized metros that already had VC, the reform raised the probability that a previously unserved metro received VC investment in qualifying sectors by 8 to 10 percentage points. There was no comparable increase in sectors excluded from QSBS or among angel investors, who receive the same tax benefit. Startups in newly served markets performed like those in other non-hub markets, created high-wage jobs, and attracted scientific and technical workers, some from established hubs. Our findings suggest that a sufficiently large subsidy can extend VC into markets it had long bypassed, even with no requirement on where startups are located.</content>
+    <link href="https://www.nber.org/papers/w36039"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36038</id>
+    <title>Five Facts About Stablecoins</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Lin William Cong, Gordon Y. Liao, Eswar S. Prasad &amp; Tony Zhang</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across the Americas, Europe, and Asia and fewer cross-regional flows than the standard method implies. Third, we estimate a structural cash-management model on the holdings data and find that the costs of accessing stablecoin wallets have fallen since 2023. Fourth, stablecoins are becoming the settlement currency of a fast-growing onchain credit market, and their growth appears to reallocate rather than destroy credit. Fifth, smart contracts are involved in about a third of Ethereum stablecoin transactions and over two thirds of volume, and protocols such as x402 demonstrate sub-cent machine-to-machine payments. Stablecoins behave as tokenized money, with implications for financial markets and regulation.</content>
+    <link href="https://www.nber.org/papers/w36038"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36037</id>
+    <title>Designing Low Emission Zones: Theory and Evidence</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Nano Barahona, Natalia Fabra, Imelda Imelda &amp; Juan-Pablo Montero</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Low Emission Zones (LEZs), which exclude polluting vehicles from parts of a city, are spreading. Yet how their design affects welfare is poorly understood. Unlike price instruments, LEZs ration access inefficiently, imposing costs on inframarginal drivers of restricted vehicles. In our model, welfare is quasi-convex in LEZ size, yielding bang-bang principles: LEZs should be as large as possible or not implemented at all; cleaner vehicles (e.g., hybrids) could be exempt as transition technologies but later restricted, which may require planner commitment. Using new-car purchases, we find Madrid’s LEZ shifted buyers toward cleaner cars, but the surplus losses of switchers and inframarginal drivers exceeded emission savings.</content>
+    <link href="https://www.nber.org/papers/w36037"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36058</id>
+    <title>Beyond the First Best: Welfare and OPEC Market Power</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>John Asker, Allan Collard-Wexler, Charlotte De Cannière &amp; Jan De Loecker</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We introduce an empirical framework to quantify the welfare impact of market power, through coordinated production decisions by a cartel, while allowing for other distortions. We contrast two novel concepts – the marginal and the infra-marginal welfare loss – to a naive approach that fails to recognize the existence of other distortions operating alongside market power. We apply the framework to measure the impact of market power of OPEC in the global crude oil market. We leverage unique micro data on cost and production to quantify the deadweight loss and productive inefficiency due to the OPEC cartel. From 1970 onward, the naive approach implies that OPEC generated 2.2 trillion dollars of welfare losses, two-thirds from productive inefficiency and one-third from deadweight loss. Eliminating cost-minimization violations outside the cartel shrinks losses to around 0.7 trillion dollars, indicating that other frictions in the oil market are complementary to OPEC’s market power.</content>
+    <link href="https://www.nber.org/papers/w36058"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36057</id>
+    <title>CFOs Meet LLMs</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>John R. Graham, Campbell R. Harvey &amp; Manish Jha</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Business sentiment is closely watched, but measurement is slow and costly: surveys reach a limited number of firms, arrive periodically, and take time to field and compile. We show that large language models hold the potential to address some of these shortcomings. We prompt an LLM to role-play as the CFO of a specific company on a specific date, for every public-company CFO who responded to the Duke–Federal Reserve CFO Survey from 2002- 2025. We find that LLM-generated forecasts reasonably match the cross-section of CFO expectations, with accuracy increasing with the amount of information provided to the LLM. We discuss the potential as well as the hurdles to using digital twins to mimic individual decision-makers.</content>
+    <link href="https://www.nber.org/papers/w36057"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36056</id>
+    <title>Chips &amp; Tokens at the Fault Lines: Two Stacks in One Fragmenting World</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Fabio Natalucci &amp; Alessandro Rebucci</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;The United States and China have each built the capacity to inflict serious economic damage on each other. This paper argues that the resulting mutual vulnerability now constrains both sides and prevents further economic decoupling. The paper maps this contest across two stacks: the real economy stack of computing, semiconductors and rare earths, and the financial stack of dollar dominance and digital finance. On the real side, an analysis of global earnings call reports, run through large language models, suggests that this mutual vulnerability was already shaping the global corporate narrative in 2025. On the financial side, the paper argues that digital finance could tip this balance either way. Portable U.S. dollar-denominated digital assets could deepen U.S. dollar dominance and erode China's capital controls, tilting the balance toward Washington and inviting more fragmentation. A drift of transactions onto offshore rails like Tether could do the opposite, eroding Washington’s enforcement power behind sanctions and, counterintuitively, restraining it. Both the U.S. and China, meanwhile, run internally inconsistent policies. The U.S. is closing its door to trade while keeping an open financial account, and China is doing the reverse. These configurations are ultimately unsustainable and could undermine the arsenals that sustain the equilibrium.</content>
+    <link href="https://www.nber.org/papers/w36056"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36055</id>
+    <title>Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Brad C. Nathan, Ricardo Perez-Truglia &amp; Alejandro Zentner</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Democrats and Republicans express some sharply different views about tax policy, but whether these ideological divisions translate into partisan differences in taxpayer behavior is far less clear. We study this question in the context of a common form of tax avoidance: property tax appeals. In a survey, we find that Americans, on average, believe Republican homeowners are more likely to appeal their property taxes than Democratic homeowners with similarly valued homes. Yet linking administrative property tax records from Dallas County with voting records reveals that this stereotype is not borne out in practice: the partisan gap in appeals is small, both in absolute terms (0.29 percentage points) and relative to several demographic gaps in appeals we use as benchmarks. Similar appeal rates could nonetheless conceal differences in motives. Using quasi-experimental and field experimental evidence, we find that Democrats and Republicans appeal for broadly similar reasons. In sum, despite differing tax policy preferences and public perceptions about their behavior, Democrats and Republicans are strikingly similar in both their propensity to appeal their property taxes and their underlying motives.</content>
+    <link href="https://www.nber.org/papers/w36055"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36054</id>
+    <title>Mortality Effects of the 2025 US Aid Freeze: Evidence from Zambia</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Torsten Figueiredo Walter, Dean Karlan, Niclas Moneke, Ana Radu &amp; Khozya Zyambo</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;We study the impact of the 2025 sudden freeze then subsequent thaw of US foreign aid on HIV prevention, treatment, infection, and death. In Zambia, HIV-related aid was administered through two agencies. Activities under one were disrupted for several months, and those under the other much less. Comprehensive data from all Zambian health facilities reveal immediate differential reductions in preventive HIV measures that mostly later recovered, followed by more HIV-positive pregnant women, more HIV-exposed births, more opportunistic infections, and more recorded deaths. For example, after one year we observe a 14% [95% CI: 3, 25] increase in HIV-positive pregnant women and a 26% [95% CI: 8, 45] increase in deaths among people living with HIV who were receiving antiretroviral therapy.</content>
+    <link href="https://www.nber.org/papers/w36054"/>
+    <category term="NBER"/>
+    <published>2026-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.nber.org/papers/w36053</id>
+    <title>Shrink Responsibly: Empirical Bayes in Economics</title>
+    <updated>2026-11-01T00:00:00+00:00</updated>
+    <author>
+      <name>Peter Hull &amp; Michal Kolesár</name>
+    </author>
+    <content>&lt;b&gt; NBER Working Papers&lt;/b&gt; &lt;br&gt;Empirical researchers are often interested in the relative causal impact of individuals or institutions such as teachers, schools, hospitals, or neighborhoods. Regression-based estimates of such unit-specific parameters are often noisy; empirical Bayes (eB) methods can help isolate the signal from the estimation noise. This article provides an overview of eB methodology, showing how eB shrinkage can improve compound decisions—such as selecting individuals with the highest causal impacts—even when the working model motivating the shrinkage is misspecified. Not all analyses benefit from eB shrinkage, however, and we discuss which types of causal summaries are best estimated directly and how to do so robustly. We illustrate practical takeaways with a running analysis of public elementary and middle school value-added.</content>
+    <link href="https://www.nber.org/papers/w36053"/>
     <category term="NBER"/>
     <published>2026-11-01T00:00:00+00:00</published>
   </entry>
